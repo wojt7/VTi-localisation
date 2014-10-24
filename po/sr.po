@@ -1,0 +1,9261 @@
+# Serbian translations for Enigma2.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-25 14:33+0200\n"
+"PO-Revision-Date: 2013-08-25 14:42+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#
+msgid ""
+"\n"
+"Advanced options and settings."
+msgstr ""
+"\n"
+"Napredne opcije i podešavanja."
+
+#
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Posle stiskanja OK,molim pričekajte"
+
+msgid ""
+"\n"
+"Backup your STB settings."
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Device : %s"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Device : /dev/%s"
+msgstr ""
+
+msgid ""
+"\n"
+"Do you want to exit?"
+msgstr ""
+
+#
+msgid ""
+"\n"
+"Edit the upgrade source address."
+msgstr ""
+"\n"
+"Uredi poboljšanu izvornu adresu"
+
+#, python-format
+msgid ""
+"\n"
+"Filesystem : %s"
+msgstr ""
+
+msgid ""
+"\n"
+"Manage extensions or plugins for your STB"
+msgstr ""
+
+msgid ""
+"\n"
+"Online update of your STB software."
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Partition : %s"
+msgstr ""
+
+#
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Pritisni OK na tvom daljinskom da nastaviš"
+
+msgid ""
+"\n"
+"Restore your STB settings."
+msgstr ""
+
+msgid ""
+"\n"
+"Restore your STB with a new firmware."
+msgstr ""
+
+#
+msgid ""
+"\n"
+"Restore your backups by date."
+msgstr ""
+"\n"
+"Vrati svoje snimljene kopije po datumu"
+
+#
+msgid ""
+"\n"
+"Scan for local extensions and install them."
+msgstr ""
+"\n"
+"Traži lokalna proširenja i instaliraj ih. "
+
+#
+msgid ""
+"\n"
+"Select your backup device.\n"
+"Current device: "
+msgstr ""
+"\n"
+"Izaberi svoj rezervni uredjaj.\n"
+"Aktuelni uređaj:"
+
+#, python-format
+msgid ""
+"\n"
+"Size : %d MB\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Size : %s"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Size : %s MB\n"
+msgstr ""
+
+#
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Sistem će ponovo startovati posle vraćanja sigurnosne kopije!"
+
+#
+msgid ""
+"\n"
+"View, install and remove available or installed packages."
+msgstr ""
+"\n"
+"Pogledaj,instaliraj i ukloni pristupačne ili instalirane pakete"
+
+msgid ""
+"\n"
+"When transcoding, PIP is disabled."
+msgstr ""
+
+msgid ""
+"\n"
+"When transcoding, both PIP and analog video outputs are disabled."
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"partition %d : %s MB"
+msgstr ""
+
+#
+msgid " "
+msgstr " "
+
+msgid "    - Log Directory"
+msgstr ""
+
+msgid "    - Log Level"
+msgstr ""
+
+msgid "    - Type"
+msgstr ""
+
+msgid " 1"
+msgstr ""
+
+msgid " 2"
+msgstr ""
+
+msgid " 3"
+msgstr ""
+
+#, python-format
+msgid " at /dev/%s"
+msgstr ""
+
+#
+msgid " extensions."
+msgstr "proširenja."
+
+msgid " ms"
+msgstr "ms"
+
+#
+msgid " packages selected."
+msgstr "Paketa izabrano"
+
+#
+msgid " updates available."
+msgstr "ažuriranja dostupna."
+
+#
+msgid " wireless networks found!"
+msgstr "Bežična mreža pronađena!"
+
+msgid ""
+"!!(Empty)\n"
+"Please, Input to the "
+msgstr ""
+
+#
+msgid "#000000"
+msgstr "#000000"
+
+#
+msgid "#0064c7"
+msgstr "#0064c7"
+
+#
+msgid "#25062748"
+msgstr "#25062748"
+
+#
+msgid "#389416"
+msgstr "#389416"
+
+#
+msgid "#80000000"
+msgstr "#80000000"
+
+#
+msgid "#80ffffff"
+msgstr "#80ffffff"
+
+#
+msgid "#bab329"
+msgstr "#bab329"
+
+#
+msgid "#f23d21"
+msgstr "#f23d21"
+
+#
+msgid "#ffffff"
+msgstr "#ffffff"
+
+#
+msgid "#ffffffff"
+msgstr "#ffffffff"
+
+#
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%d %B %Y"
+msgstr ""
+
+#, python-format
+msgid "%d / 100"
+msgstr ""
+
+#
+#, python-format
+msgid "%d jobs are running in the background!"
+msgstr "%d radnje se obavljaju u pozadini"
+
+#
+#, python-format
+msgid "%d min"
+msgstr "%d min"
+
+#
+#, python-format
+msgid "%d services found!"
+msgstr "%d kanala pronađeno!"
+
+#, python-format
+msgid "%s"
+msgstr ""
+
+#
+#, python-format
+msgid ""
+"%s\n"
+"(%s, %d MB free)"
+msgstr ""
+"%s\n"
+"(%s, %d MB slobodno)"
+
+#, python-format
+msgid ""
+"%s\n"
+"Start Device Inititlization?"
+msgstr ""
+
+#
+#, python-format
+msgid "%s (%s)\n"
+msgstr "%s (%s)\n"
+
+#, python-format
+msgid "%s ok?"
+msgstr ""
+
+#
+msgid "(ZAP)"
+msgstr "(ZAP)"
+
+msgid "(de)activate Picture in Picture..."
+msgstr ""
+
+#
+msgid "(empty)"
+msgstr "(prazno)"
+
+#
+msgid "(show optional DVD audio menu)"
+msgstr "(prikaži alternativni DVD audio meni)"
+
+#
+msgid "* Only available if more than one interface is active."
+msgstr "* Dostupan samo ako je više interfejsa aktivno."
+
+msgid "/"
+msgstr ""
+
+#
+msgid "0"
+msgstr "0"
+
+#
+msgid "1"
+msgstr "1"
+
+#
+msgid "1 wireless network found!"
+msgstr "1 bežična mreža pronađena!"
+
+msgid "1-1. Serial Number (The first two or three letters of SN)"
+msgstr ""
+
+msgid "1-2. Serial Number (The remaining numbers of SN)"
+msgstr ""
+
+msgid "1. Drop WvDial"
+msgstr ""
+
+msgid "1. Load a Mobile Broadband Device"
+msgstr ""
+
+#
+msgid "1.0"
+msgstr "1.0"
+
+#
+msgid "1.1"
+msgstr "1.1"
+
+#
+msgid "1.2"
+msgstr "1.2"
+
+msgid "10"
+msgstr ""
+
+#
+msgid "12V output"
+msgstr "12V izlaz"
+
+#
+msgid "13 V"
+msgstr "13 V"
+
+msgid "15"
+msgstr ""
+
+#
+msgid "16:10"
+msgstr "16:10"
+
+#
+msgid "16:10 Letterbox"
+msgstr "16:10 Letterbox"
+
+#
+msgid "16:10 PanScan"
+msgstr "16:10 PanScan"
+
+#
+msgid "16:9"
+msgstr "16:9"
+
+#
+msgid "16:9 Letterbox"
+msgstr "16:9 Letterbox"
+
+#
+msgid "16:9 always"
+msgstr "16:9 uvek"
+
+#
+msgid "18 V"
+msgstr "18 V"
+
+#
+msgid "2"
+msgstr "2"
+
+msgid "2. Contact"
+msgstr ""
+
+msgid "2. Set up a Mobile Broadband Device"
+msgstr ""
+
+msgid "2. Unload a Mobile Broadband Device"
+msgstr ""
+
+msgid "20"
+msgstr ""
+
+msgid "23976"
+msgstr ""
+
+msgid "24000"
+msgstr ""
+
+msgid "25000"
+msgstr ""
+
+msgid "29970"
+msgstr ""
+
+#
+msgid "3"
+msgstr "3"
+
+msgid "3. Done"
+msgstr ""
+
+msgid "3. Generate a WvDial profile"
+msgstr ""
+
+#
+msgid "30 minutes"
+msgstr "30 minuta"
+
+msgid "30000"
+msgstr ""
+
+msgid "3D Surround"
+msgstr ""
+
+msgid "3d mode"
+msgstr ""
+
+msgid "4"
+msgstr "4"
+
+msgid "4. Attempt to connect"
+msgstr ""
+
+#
+msgid "4:3"
+msgstr "4:3"
+
+#
+msgid "4:3 Letterbox"
+msgstr "4:3 Letterbox"
+
+#
+msgid "4:3 PanScan"
+msgstr "4:3 PanScan"
+
+#
+msgid "5"
+msgstr "5"
+
+#
+msgid "5 minutes"
+msgstr "5 minuta"
+
+msgid "5. Done"
+msgstr ""
+
+msgid "50000"
+msgstr ""
+
+msgid "59940"
+msgstr ""
+
+#
+msgid "6"
+msgstr "6"
+
+#
+msgid "60 minutes"
+msgstr "60 minuta"
+
+msgid "60000"
+msgstr ""
+
+#
+msgid "7"
+msgstr "7"
+
+#
+msgid "8"
+msgstr "8"
+
+#
+msgid "9"
+msgstr "9"
+
+msgid ": "
+msgstr ""
+
+#
+msgid "<Current movielist location>"
+msgstr "<Trenutna lokacija liste filmova>"
+
+#
+msgid "<Default movie location>"
+msgstr "<Standardna lokacija filmova>"
+
+#
+msgid "<Last timer location>"
+msgstr "<Zadnja lokacija tajmera> "
+
+#
+msgid "<unknown>"
+msgstr "<nepoznato>"
+
+#
+msgid "??"
+msgstr "??"
+
+#
+msgid "A"
+msgstr "A"
+
+#
+#, python-format
+msgid ""
+"A configuration file (%s) was modified since Installation.\n"
+"Do you want to keep your version?"
+msgstr ""
+"Konfiguracioni fajl (%s) je promenjen posle instalacije.\n"
+"Želite li zadržati vašu verziju?"
+
+msgid ""
+"A finished record timer wants to set your\n"
+"STB to standby. Do that now?"
+msgstr ""
+
+msgid ""
+"A finished record timer wants to shut down\n"
+"your STB. Shutdown now?"
+msgstr ""
+
+#
+msgid "A graphical EPG for all services of an specific bouquet"
+msgstr "Grafički EPG za sve kanale od specifičnog buketa"
+
+#
+#, python-format
+msgid ""
+"A record has been started:\n"
+"%s"
+msgstr ""
+"Snimanje je započeto:\n"
+"%s"
+
+#
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"configure the positioner."
+msgstr ""
+"Snimanje je u toku. Molim zaustavite snimanje pre nego što pokušate "
+"konfigurisati pozicioner."
+
+#
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"start the satfinder."
+msgstr ""
+"Snimanje je trenutno u toku. Molim zaustavite snimanje pre nego što "
+"pokrenete satelitski pretraživač."
+
+#
+#, python-format
+msgid "A required tool (%s) was not found."
+msgstr "Potrebni alat (%s) nije pronađen."
+
+#
+msgid "A search for available updates is currently in progress."
+msgstr "Traženje za moguća ažuriranja je trenutno u toku."
+
+#
+msgid ""
+"A second configured interface has been found.\n"
+"\n"
+"Do you want to disable the second network interface?"
+msgstr ""
+"Drugi konfigurisani interfejs je pronađen.\n"
+"\n"
+"Da li želite da onemogućite drugi mrežni interfejs?"
+
+msgid ""
+"A sleep timer wants to set your\n"
+"STB to standby. Do that now?"
+msgstr ""
+
+msgid ""
+"A sleep timer wants to shut down\n"
+"your STB. Shutdown now?"
+msgstr ""
+
+#
+msgid "A small overview of the available icon states and actions."
+msgstr "Mali pregled dostupnih stanja i aktivnosti ikonica."
+
+#
+msgid ""
+"A timer failed to record!\n"
+"Disable TV and try again?\n"
+msgstr ""
+"Tajmer je neuspešno pokušao snimiti!\n"
+"Onemogućite TV i pokušajte ponovo?\n"
+
+#
+msgid "A/V Settings"
+msgstr "A/V Postavke "
+
+msgid "A/V-Receiver power off:"
+msgstr ""
+
+msgid "A/V-Receiver power on:"
+msgstr ""
+
+msgid "A/V-Receiver toggle mute:"
+msgstr ""
+
+msgid "A/V-Receiver volume down:"
+msgstr ""
+
+msgid "A/V-Receiver volume up:"
+msgstr ""
+
+#
+msgid "AA"
+msgstr "AA"
+
+#
+msgid "AB"
+msgstr "AB"
+
+msgid "AP Device"
+msgstr ""
+
+msgid "AP Mode"
+msgstr ""
+
+msgid "APN :"
+msgstr ""
+
+msgid "ASCII"
+msgstr ""
+
+#
+msgid "Abort"
+msgstr "Prekini"
+
+#
+msgid "About"
+msgstr "O programu"
+
+#
+msgid "About..."
+msgstr "O programu..."
+
+#
+msgid "Accesspoint:"
+msgstr "Pristupna tačka:"
+
+msgid "Action after summit"
+msgstr ""
+
+#
+msgid "Action on long powerbutton press"
+msgstr "Dejstvo za dugo pritisnutu tipku paljenja"
+
+#
+msgid "Action on short powerbutton press"
+msgstr "Akcija za kratko pritisnuto dugme paljenja"
+
+#
+msgid "Action:"
+msgstr "Dejstvo:"
+
+#
+msgid "Activate Picture in Picture"
+msgstr "Aktiviraj Sliku u Slici"
+
+#
+msgid "Activate network settings"
+msgstr "Aktiviraj mrežne postavke"
+
+msgid "Activation mode"
+msgstr ""
+
+msgid "Active Source Reply On:"
+msgstr ""
+
+#
+msgid "Adapter settings"
+msgstr "Postavke adaptera"
+
+#
+msgid "Add"
+msgstr "Dodaj"
+
+#
+msgid "Add Bookmark"
+msgstr "Dodaj obeležje"
+
+#
+msgid "Add a mark"
+msgstr "Dodaj oznaku"
+
+#
+msgid "Add a new title"
+msgstr "Dodaj novi titl"
+
+#
+msgid "Add timer"
+msgstr "Dodaj Tajmer"
+
+#
+msgid "Add title"
+msgstr "Dodaj naslov"
+
+#
+msgid "Add to bouquet"
+msgstr "Dodaj u buket"
+
+#
+msgid "Add to favourites"
+msgstr "Dodaj u favorite"
+
+msgid "Additional backup -> "
+msgstr ""
+
+msgid "Address (0~FF):"
+msgstr ""
+
+msgid "Adjust 3D settings"
+msgstr ""
+
+msgid "Adjust screen position"
+msgstr ""
+
+#
+msgid ""
+"Adjust the color settings so that all the color shades are distinguishable, "
+"but appear as saturated as possible. If you are happy with the result, press "
+"OK to close the video fine-tuning, or use the number keys to select other "
+"test screens."
+msgstr ""
+"Podesi postavke boje,tako da su sve senke boja raspoznatljive,ali izgledaju "
+"maksimalno zasićene.Ako ste zadovoljni rezultatom,pritisnite OK da zatvorite "
+"fino video-podešavanje,ili koristite numeričke tipke da izaberete druge test "
+"ekrane. "
+
+#
+msgid "Advanced Options"
+msgstr "Napredne opcije"
+
+#
+msgid "Advanced Software"
+msgstr "Napredni softver"
+
+#
+msgid "Advanced Software Plugin"
+msgstr "Napredni softver dodatak"
+
+#
+msgid "Advanced Video Enhancement Setup"
+msgstr "Napredne postavke video poboljšavanja "
+
+#
+msgid "Advanced restore"
+msgstr "Napredno vraćanje"
+
+#
+msgid "After event"
+msgstr "Posle dešavanja"
+
+msgid ""
+"After the start wizard is completed, you need to protect single services. "
+"Refer to your STB's manual on how to do that."
+msgstr ""
+
+msgid "Agree"
+msgstr ""
+
+#
+msgid "Album"
+msgstr "Album"
+
+#
+msgid "All"
+msgstr "Svi"
+
+#
+msgid "All Satellites"
+msgstr "Svi sateliti"
+
+msgid "Allow removing of entries in service list"
+msgstr ""
+
+msgid "Allow removing of system software"
+msgstr ""
+
+msgid "Almost there... Now building the USB-Image!"
+msgstr ""
+
+#
+msgid "Alpha"
+msgstr "Alfa"
+
+msgid "Alpha Value"
+msgstr ""
+
+#
+msgid "Alternative radio mode"
+msgstr "Alternativni radio mod"
+
+#
+msgid "Alternative services tuner priority"
+msgstr "Prioritet alternativnih kanala tjunera"
+
+msgid "Always ask"
+msgstr "Uvek pitaj"
+
+msgid "Always zap before record"
+msgstr ""
+
+#
+msgid "An empty filename is illegal."
+msgstr "Prazno ime datoteke je nelegalno."
+
+#
+msgid "An unknown error occured!"
+msgstr "Nepoznata greška se desila"
+
+msgid ""
+"Another adapter connected has been found.\n"
+"\n"
+"A connection is attempted after disconnect all of other device. Do you want "
+"to?"
+msgstr ""
+
+#
+msgid "Arabic"
+msgstr "Arapski"
+
+#
+msgid ""
+"Are you sure you want to activate this network configuration?\n"
+"\n"
+msgstr ""
+"Da li ste sigurni da želite aktivirati ovu mrežnu konfiguraciju?\n"
+"\n"
+
+#
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Da li ste sigurni da želite da izbrišete\n"
+"sledeću rezervnu kopiju:\n"
+
+#
+msgid "Are you sure you want to exit this wizard?"
+msgstr "Da li ste sigurni da želite izaći iz ovog čarobnjaka?"
+
+msgid "Are you sure you want to restart your network interfaces?\n"
+msgstr ""
+
+#
+msgid ""
+"Are you sure you want to restart your network interfaces?\n"
+"\n"
+msgstr ""
+"Da li ste sigurni da želite da restartujete vaše mrežne interfejse?\n"
+"\n"
+
+#
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Da li ste sigurni da želite da vratite\n"
+"sledeću rezervnu kopiju:\n"
+
+#
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Da li ste sigurni da vratite vašu Enigma2 rezervnu kopiju?\n"
+"Enigma2 će ponovo startovati posle vraćanja"
+
+msgid ""
+"Are you sure you want to setup your AP?\n"
+"\n"
+msgstr ""
+
+#
+msgid "Artist"
+msgstr "Izvođač"
+
+#
+msgid "Ask before shutdown:"
+msgstr "Pitaj pre isključivanja:"
+
+msgid "Ask for deleting files after canceling timers"
+msgstr ""
+
+#
+msgid "Ask user"
+msgstr "Pitaj korisnika"
+
+#
+msgid "Aspect Ratio"
+msgstr "Odnos slike"
+
+msgid "Aspect ratio"
+msgstr "Odnos Slike"
+
+msgid "Atheros"
+msgstr "Ateros"
+
+#
+msgid "Audio"
+msgstr "Zvuk"
+
+#
+msgid "Audio Options..."
+msgstr "Zvučne opcije..."
+
+msgid "Audio PID"
+msgstr "Zvučni PID"
+
+#
+msgid "Author: "
+msgstr "Autor"
+
+#
+msgid "Authoring mode"
+msgstr "Autorski način"
+
+#
+msgid "Auto"
+msgstr "Auto"
+
+#
+msgid "Auto chapter split every ? minutes (0=never)"
+msgstr "Automatska podela delova svakih ? minuta (0=nikad)"
+
+#
+msgid "Auto flesh"
+msgstr "Auto fleš"
+
+#
+msgid "Auto scart switching"
+msgstr "Automatsko uključenje skarta"
+
+#
+msgid "Automatic"
+msgstr "Automatski"
+
+#
+msgid "Automatic Scan"
+msgstr "Automatsko skeniranje "
+
+msgid "Automatically set up a Mount Point"
+msgstr ""
+
+msgid "Autoremove depended packages at package remove"
+msgstr ""
+
+#
+msgid "Available format variables"
+msgstr "Mogući promenljivi format "
+
+#
+msgid "B"
+msgstr "B"
+
+#
+msgid "BA"
+msgstr "BA"
+
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr ""
+
+#
+msgid "BB"
+msgstr "BB"
+
+#
+msgid "BER"
+msgstr "BER"
+
+#
+msgid "BER:"
+msgstr "BER:"
+
+#
+msgid "Back"
+msgstr "Iza"
+
+msgid "Back, lower USB Slot"
+msgstr "Zadnji ,donji USB slot"
+
+msgid "Back, upper USB Slot"
+msgstr "Zadnji ,gornji USB slot"
+
+#
+msgid "Background"
+msgstr "Pozadina"
+
+msgid "Backspace Key"
+msgstr ""
+
+#
+msgid "Backup done."
+msgstr "Rezervna kopija završena"
+
+#
+msgid "Backup failed."
+msgstr "Rezervna kopija nije uspela"
+
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr ""
+
+#
+msgid "Backup is running..."
+msgstr "Bekap u toku..."
+
+#
+msgid "Backup system settings"
+msgstr "Snimanje sistemskih postavki"
+
+#
+msgid "Band"
+msgstr "Band"
+
+#
+msgid "Bandwidth"
+msgstr "Propusnost"
+
+msgid "Beacon (15~65535)"
+msgstr ""
+
+#
+msgid "Begin time"
+msgstr "Početno vreme"
+
+#
+msgid "Behavior of 'pause' when paused"
+msgstr "Način rada \"pauza\" kad je zaustavljen"
+
+#
+msgid "Behavior of 0 key in PiP-mode"
+msgstr "Uloga tipke 0 u SuS-modu"
+
+#
+msgid "Behavior when a movie is started"
+msgstr "Način rada kad je film startovan"
+
+#
+msgid "Behavior when a movie is stopped"
+msgstr "Način rada kad je film zaustavljen"
+
+#
+msgid "Behavior when a movie reaches the end"
+msgstr "Način rada kad je film stigao do kraja"
+
+msgid "Bitrate"
+msgstr ""
+
+#
+msgid "Bitrate:"
+msgstr "Bit rata:"
+
+msgid "Blindscan"
+msgstr ""
+
+msgid "Blinking time"
+msgstr ""
+
+#
+msgid "Block noise reduction"
+msgstr "Blokiraj smanjenje šuma"
+
+#
+msgid "Blue boost"
+msgstr "Plavo pojačanje"
+
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmark Title"
+msgstr ""
+
+msgid "Bookmark URL"
+msgstr ""
+
+#, python-format
+msgid "Bookmark for button %s:"
+msgstr ""
+
+#
+msgid "Bookmarks"
+msgstr "Oznake"
+
+#
+msgid "Brightness"
+msgstr "Osvetljenje"
+
+msgid "Browser Help"
+msgstr ""
+
+msgid "Browser Start/Stop"
+msgstr ""
+
+msgid "BrowserMain"
+msgstr ""
+
+#
+msgid "Burn DVD"
+msgstr "Prži DVD"
+
+#
+msgid "Burn existing image to DVD"
+msgstr "Nareži postojeći imidž na DVD"
+
+#
+msgid "Burn to DVD"
+msgstr "Nareži na DVD"
+
+#
+msgid "Bus: "
+msgstr "Bus:"
+
+#
+msgid ""
+"By pressing the OK Button on your remote control, the info bar is being "
+"displayed."
+msgstr ""
+"Pritiskom na tipku OK daljinskog upravljača, info traka će biti prikazana."
+
+msgid "Bypass HDMI EDID Check"
+msgstr ""
+
+#
+msgid "C"
+msgstr "C"
+
+msgid "C-Band"
+msgstr "C-Opseg"
+
+msgid ""
+"CAM1_NOT_INSERTED\n"
+"Press exit!"
+msgstr ""
+
+msgid ""
+"CAM2_NOT_INSERTED\n"
+"Press exit!"
+msgstr ""
+
+#
+msgid "CI assignment"
+msgstr "CI dodela"
+
+#
+msgid "CVBS"
+msgstr "CVBS"
+
+#
+msgid "Cable"
+msgstr "Kabel"
+
+#
+msgid "Cache Thumbnails"
+msgstr "Učitaj sličice"
+
+msgid "Can NOT generate passphrase"
+msgstr ""
+
+#, python-format
+msgid "Can not change the partition ID for %s"
+msgstr ""
+
+msgid "Can not find any WirelessLan Module\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"Can not format device /dev/%s.\n"
+"refresh partition information failed!"
+msgstr ""
+
+msgid "Can not open 'fan_pwm'"
+msgstr ""
+
+msgid "Can not setup WirelessLan Module in 'AP Mode'\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"Can not umount device /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+
+#, python-format
+msgid ""
+"Can not use this mount point.(%s) \n"
+"Please select another mount point."
+msgstr ""
+
+msgid "Can't cancel during upgrade!!"
+msgstr ""
+
+msgid ""
+"Can't disconnect doring connecting..\n"
+"Do you want to forcibly exit?"
+msgstr ""
+
+msgid "Can't download the checksum file."
+msgstr ""
+
+msgid "Can't download the firmware file."
+msgstr ""
+
+msgid "Can't find /usr/bin/md5sum"
+msgstr ""
+
+msgid "Can't found MD5 file."
+msgstr ""
+
+msgid "Can't found binary file."
+msgstr ""
+
+msgid "Can't found device file!!"
+msgstr ""
+
+msgid "Can't found model name."
+msgstr ""
+
+msgid ""
+"Can't open selected bookmark.\n"
+"   - URL data is empty!!"
+msgstr ""
+
+#, python-format
+msgid ""
+"Can't umount %s. \n"
+"Maybe device or resource busy."
+msgstr ""
+
+#
+msgid "Cancel"
+msgstr "Odustani"
+
+#
+msgid "Capacity: "
+msgstr "Kapacitet:"
+
+#
+msgid "Card"
+msgstr "Kartica"
+
+#
+msgid "Catalan"
+msgstr "Katalonski"
+
+msgid "Category Name"
+msgstr ""
+
+#
+msgid "Change bouquets in quickzap"
+msgstr "Promeni bukete u brzom prebacivanju"
+
+#
+msgid "Change pin code"
+msgstr "Promeni pin kod"
+
+msgid "Change service PIN"
+msgstr "Promeni servisni PIN"
+
+msgid "Change service PINs"
+msgstr "Promeni servisne PINove"
+
+msgid "Change setup PIN"
+msgstr "Promeni PIN za podešavanje"
+
+#
+msgid "Change step size"
+msgstr "Promeni veličinu koraka"
+
+#
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Channel (1~13)"
+msgstr ""
+
+#
+msgid "Channel Selection"
+msgstr "Izbor kanala"
+
+#
+msgid "Channel not in services list"
+msgstr "Kanal nije u listi kanala"
+
+#
+msgid "Channel:"
+msgstr "Kanal:"
+
+#
+msgid "Channellist menu"
+msgstr "Meni liste kanala"
+
+#
+msgid "Chap."
+msgstr "Pog."
+
+#
+msgid "Chapter"
+msgstr "Poglavlje"
+
+#
+msgid "Chapter:"
+msgstr "Poglavlje:"
+
+#
+msgid "Check"
+msgstr "Kontrola"
+
+msgid "Check filesystem, please wait ..."
+msgstr ""
+
+#
+msgid "Checking Filesystem..."
+msgstr "Kontrola sistema datoteka"
+
+msgid "Choice filesystem."
+msgstr ""
+
+msgid "Choose A/V-Receiver HDMI input:"
+msgstr ""
+
+msgid "Choose TV HDMI input:"
+msgstr ""
+
+#
+msgid "Choose Tuner"
+msgstr "Odaberi tjuner"
+
+msgid "Choose a timer list style"
+msgstr ""
+
+#
+msgid "Choose a wireless network"
+msgstr "Izaberi bežičnu mrežu"
+
+#
+msgid "Choose backup files"
+msgstr "Izaberite snimljene datoteke  "
+
+#
+msgid "Choose backup location"
+msgstr "Izaberite snimljenu lokaciju"
+
+#
+msgid "Choose bouquet"
+msgstr "Odaberi buket"
+
+msgid "Choose folder"
+msgstr ""
+
+msgid "Choose remote control picture for help screen"
+msgstr ""
+
+#
+msgid "Choose target folder"
+msgstr "Izaberite ciljnu fasciklu"
+
+#
+msgid "Choose upgrade source"
+msgstr "Izaberite izvor nadgradnje"
+
+#
+msgid "Choose your Skin"
+msgstr "Odaberite vašu masku"
+
+#
+msgid "Circular left"
+msgstr "Kružna leva"
+
+#
+msgid "Circular right"
+msgstr "Kružna desna"
+
+#
+msgid "Cleanup"
+msgstr "Čišćenje"
+
+#
+msgid "Clear before scan"
+msgstr "Obriši pre skeniranja"
+
+#
+msgid "Clear log"
+msgstr "Obriši log"
+
+#
+msgid "Close"
+msgstr "Zatvori"
+
+#
+msgid "Close title selection"
+msgstr "Zatvori zbor naslova"
+
+msgid "Code rate HP"
+msgstr "Kod rata HP"
+
+msgid "Code rate LP"
+msgstr "Kod rata LP"
+
+#
+msgid "Collection name"
+msgstr "Ime kolekcije"
+
+#
+msgid "Collection settings"
+msgstr "Postavke kolekcije"
+
+#
+msgid "Color Format"
+msgstr "Kolor format"
+
+msgid "Colorize movie list"
+msgstr ""
+
+#
+msgid "Command execution..."
+msgstr "Izvršenje komandi"
+
+#
+msgid "Command order"
+msgstr "Redosled komandi"
+
+#
+msgid "Committed DiSEqC command"
+msgstr "Upravljačka DISEqC komanda"
+
+#
+msgid "Common Interface"
+msgstr "Opšti interfejs"
+
+#
+msgid "Common Interface Assignment"
+msgstr "Dodeljivanje opšteg interfejsa"
+
+#
+msgid "CommonInterface"
+msgstr "Opšti interfejs"
+
+#
+msgid "Communication"
+msgstr "Komunikacija"
+
+#
+msgid "Compact Flash"
+msgstr "Kompakt fleš"
+
+#
+msgid "Complete"
+msgstr "Kompletno"
+
+#
+msgid "Complex (allows mixing audio tracks and aspects)"
+msgstr "Složen (dozvoljava miksovanje audio zapisa i aspekta)"
+
+msgid "Composition of the recording filenames"
+msgstr "Sklapanje imena snimljenih datoteka"
+
+#
+msgid "Configuration Mode"
+msgstr "Mod konfiguracije"
+
+msgid "Configuration your AP is finished"
+msgstr ""
+
+#
+msgid "Configure interface"
+msgstr "Konfiguriši interfejs"
+
+#
+msgid "Configure your internal LAN"
+msgstr "Konfiguriši svoj interni LAN"
+
+#
+msgid "Configure your network again"
+msgstr "Konfigurišite vašu mrežu ponovo"
+
+#
+msgid "Configure your wireless LAN again"
+msgstr "Konfiguriši svoj bežični LAN ponovo"
+
+#
+msgid "Configuring"
+msgstr "Konfigurišem"
+
+#
+msgid "Conflicting timer"
+msgstr "Konflikt tajmera"
+
+#
+msgid "Connect"
+msgstr "Spojiti"
+
+#
+msgid "Connect to a Wireless Network"
+msgstr "Spojite se na bežičnu mrežu"
+
+#
+msgid "Connected to"
+msgstr "Povezan sa"
+
+#
+msgid "Connected!"
+msgstr "Povezano!"
+
+#
+msgid "Constellation"
+msgstr "Konstelacija"
+
+#
+msgid "Content does not fit on DVD!"
+msgstr "Sadržaj ne staje na DVD!"
+
+#
+msgid "Continue"
+msgstr "Nastaviti"
+
+msgid "Continue Timeshift"
+msgstr ""
+
+#
+msgid "Continue in background"
+msgstr "Nastaviti u pozadini "
+
+#
+msgid "Continue playing"
+msgstr "Nastaviti reprodukciju"
+
+#
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "Copy"
+msgstr ""
+
+#
+msgid "Could not load Medium! No disc inserted?"
+msgstr "Ne može se ubaciti medij.Disk nije ubačen?"
+
+#
+msgid "Could not open Picture in Picture"
+msgstr "Ne mogu otvoriti sliku u slici"
+
+#
+#, python-format
+msgid "Couldn't record due to conflicting timer %s"
+msgstr "Snimanje nije moguće zbog konflikta tajmera %s"
+
+#, python-format
+msgid "Couldn't record due to invalid service %s"
+msgstr "Snimanje nemoguće zbog nevaljanog kanala %s"
+
+msgid "Crashlog Reporting"
+msgstr ""
+
+msgid "CrashlogReport setting"
+msgstr ""
+
+msgid "CrashlogReportSetting"
+msgstr ""
+
+#
+msgid "Create DVD-ISO"
+msgstr "Napravi DVD-ISO"
+
+msgid "Create directory"
+msgstr ""
+
+#, python-format
+msgid ""
+"Create directory failed!\n"
+"%s"
+msgstr ""
+
+msgid "Create filesystem, please wait ..."
+msgstr ""
+
+#
+msgid "Create movie folder failed"
+msgstr "Neuspešno stvaranje video fascikle"
+
+msgid "Create: kerneldump"
+msgstr ""
+
+msgid "Create: root.ubifs"
+msgstr ""
+
+#
+#, python-format
+msgid "Creating directory %s failed."
+msgstr "Pravljenje direktorijuma %s nije uspelo"
+
+msgid "Creating filesystem Error"
+msgstr ""
+
+#
+msgid "Creating partition failed"
+msgstr "Neuspešno kreiranje particije"
+
+#
+msgid "Croatian"
+msgstr "Hrvatski"
+
+msgid "Current Page"
+msgstr ""
+
+#
+msgid "Current Transponder"
+msgstr "Trenutni transponder"
+
+msgid "Current device: "
+msgstr "Aktuelni uređaj:"
+
+msgid "Current page is already exist."
+msgstr ""
+
+msgid "Current settings (interface : br0)"
+msgstr ""
+
+#
+msgid "Current settings:"
+msgstr "Trenutne postavke"
+
+#
+msgid "Current value: "
+msgstr "Trenutna vrednost:"
+
+msgid "Currentpage(Bookmark)"
+msgstr ""
+
+#
+msgid "Custom skip time for '1'/'3'-keys"
+msgstr "Podesivo vreme preskoka za '1'/'3'-tipke"
+
+#
+msgid "Custom skip time for '4'/'6'-keys"
+msgstr "Podesivo vreme preskoka za '4'/'6'-tipke"
+
+#
+msgid "Custom skip time for '7'/'9'-keys"
+msgstr "Podesivo vreme preskoka za '7'/'9'-tipke"
+
+#
+msgid "Customize"
+msgstr "Prilagodi"
+
+#
+msgid "Cut"
+msgstr "Odreži"
+
+#
+msgid "Cutlist editor..."
+msgstr "Uređivač liste..."
+
+#
+msgid "Czech"
+msgstr "Češki"
+
+#
+msgid "D"
+msgstr "D"
+
+msgid "DAC"
+msgstr ""
+
+#
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DLNA/uPnP Browser"
+msgstr ""
+
+#
+msgid "DUAL LAYER DVD"
+msgstr "DVOSLOJNI DVDi "
+
+msgid "DVB subtitle transparency"
+msgstr ""
+
+#
+msgid "DVB-S"
+msgstr "DVB-S"
+
+#
+msgid "DVB-S2"
+msgstr "DVB-S2"
+
+msgid "DVD Drive"
+msgstr "DVD drajv"
+
+#
+msgid "DVD File Browser"
+msgstr "DVD pretraživač datoteka"
+
+#
+msgid "DVD Player"
+msgstr "DVD plejer"
+
+#
+msgid "DVD Titlelist"
+msgstr "DVD lista naslova"
+
+#
+msgid "DVD media toolbox"
+msgstr "DVD medij alati"
+
+#
+msgid "Danish"
+msgstr "Danski"
+
+#
+msgid "Date"
+msgstr "Datum"
+
+#
+msgid "Deep Standby"
+msgstr "Isključi Drimbox"
+
+msgid "Deep Standby with WOL"
+msgstr ""
+
+msgid "DeepStandby"
+msgstr ""
+
+msgid "Default"
+msgstr "Standardno"
+
+msgid "Default EPG view (EPG button)"
+msgstr ""
+
+#
+msgid "Default Settings"
+msgstr "Standardne postavke"
+
+#
+msgid "Default movie location"
+msgstr "Standardna lokacija filmova"
+
+#
+msgid "Default services lists"
+msgstr "Standardna lista kanala"
+
+#
+msgid "Delay"
+msgstr "Kašnjenje"
+
+#
+msgid "Delete"
+msgstr "Obriši"
+
+#, python-format
+msgid ""
+"Delete directory failed!\n"
+"%s"
+msgstr ""
+
+msgid ""
+"Delete directory failed!\n"
+"Maybe directory is not empty."
+msgstr ""
+
+#
+msgid "Delete entry"
+msgstr "Obriši unos"
+
+#
+msgid "Delete failed!"
+msgstr "Brisanje neuspešno!"
+
+#
+#, python-format
+msgid ""
+"Delete no more configured satellite\n"
+"%s?"
+msgstr ""
+"Izbrisati satelit koji više nije konfigurisan\n"
+"%s?"
+
+msgid "Depth"
+msgstr ""
+
+#
+msgid "Description"
+msgstr "Opis"
+
+#
+msgid "Deselect"
+msgstr "Deselektuj"
+
+msgid "Details for plugin: "
+msgstr "Detalji dodatka:"
+
+#
+msgid "Detected HDD:"
+msgstr "Primećeni hard disk:"
+
+#
+msgid "Detected NIMs:"
+msgstr "Primećeni NIMs:"
+
+msgid "Device Initialization finished sucessfully!"
+msgstr ""
+
+msgid "Device not found."
+msgstr ""
+
+msgid "DeviceList Refresh Interval"
+msgstr ""
+
+msgid "DeviceManager"
+msgstr ""
+
+msgid "DeviceManager configuration"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+#
+msgid "DiSEqC"
+msgstr "DiSEqC"
+
+#
+msgid "DiSEqC A/B"
+msgstr "DiSEqC A/B"
+
+#
+msgid "DiSEqC A/B/C/D"
+msgstr "DiSEqC A/B/C/D"
+
+#
+msgid "DiSEqC mode"
+msgstr "DiSEqC mod"
+
+#
+msgid "DiSEqC repeats"
+msgstr "DiSEqC ponavljanja"
+
+#
+msgid "DiSEqC-Tester settings"
+msgstr "podešavanje DISEqC testera"
+
+#
+msgid "Dialing:"
+msgstr "Zovem:"
+
+#
+msgid "Digital contour removal"
+msgstr "Uklanjanje digitalnih obrisa"
+
+msgid "Direct Input"
+msgstr ""
+
+msgid "Direct Input(Bookmark)"
+msgstr ""
+
+msgid "Direct Input(Category)"
+msgstr ""
+
+#
+msgid "Direct playback of linked titles without menu"
+msgstr "Direktna reprodukcija vezanih naslova bez menia"
+
+#
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr "Direktorijum %s ne postoji"
+
+#
+msgid "Directory browser"
+msgstr "Pretraživač direktorijuma"
+
+#
+msgid "Disable"
+msgstr "Onemogući"
+
+#
+msgid "Disable Picture in Picture"
+msgstr "Isključi Sliku u Slici"
+
+#
+msgid "Disable Subtitles"
+msgstr "Isključi titlove"
+
+msgid "Disable auto update of channel list"
+msgstr ""
+
+msgid "Disable infobar timeout for ok button"
+msgstr ""
+
+#
+msgid "Disable timer"
+msgstr "Isključi tajmer"
+
+msgid "Disable tuner failure popup"
+msgstr ""
+
+#
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+#
+msgid "Disconnect"
+msgstr "Odspojiti"
+
+#
+msgid "Dish"
+msgstr "Antena"
+
+#
+msgid "Display Setup"
+msgstr "Postavke displeja"
+
+#
+msgid "Display and Userinterface"
+msgstr "Displej i korisnički interfejs"
+
+msgid "Do not zap to not available services"
+msgstr ""
+
+#
+#, python-format
+msgid ""
+"Do you really want to REMOVE\n"
+"the plugin \"%s\"?"
+msgstr ""
+"Da lstvarno želite da UKLONITE\n"
+"dodatak \"%s \"?"
+
+#
+msgid ""
+"Do you really want to check the filesystem?\n"
+"This could take lots of time!"
+msgstr ""
+"Da li stvarno želite da proverite sistem datoteka?\n"
+"To može potrajati dosta vremena!"
+
+#
+#, python-format
+msgid "Do you really want to delete %s?"
+msgstr "Jeste li sigurni da želite obrisati %s?"
+
+#
+#, python-format
+msgid ""
+"Do you really want to download\n"
+"the plugin \"%s\"?"
+msgstr ""
+"Da li stvarno želite da skinete\n"
+"dodatak \"%s\"?"
+
+#
+msgid "Do you really want to exit?"
+msgstr "Želite li stvarno izaći?"
+
+msgid ""
+"Do you really want to initialize the device?\n"
+"All data on the device will be lost!"
+msgstr ""
+
+#
+msgid ""
+"Do you really want to initialize the harddisk?\n"
+"All data on the disk will be lost!"
+msgstr ""
+"Jeste li sigurni da želite formatirati ovaj hard disk ?\n"
+"Svi podaci na disku biće izgubljeni!"
+
+#
+#, python-format
+msgid "Do you really want to remove directory %s from the disk?"
+msgstr "Da li stvarno želite da uklonite direktorijum %s sa diska?"
+
+#
+#, python-format
+msgid "Do you really want to remove your bookmark of %s?"
+msgstr "Da li stvarno želite da uklonite vaše oznake sa %s?"
+
+#
+msgid "Do you want to burn this collection to DVD medium?"
+msgstr "Da li želite da narežete ovu kolekciju na DVD medij?"
+
+msgid "Do you want to delete recording files of stopped timer ?"
+msgstr ""
+
+msgid "Do you want to delete the bookmark?"
+msgstr ""
+
+msgid "Do you want to delete the category and the bookmarks?"
+msgstr ""
+
+msgid "Do you want to disconnect?"
+msgstr ""
+
+#
+msgid "Do you want to do a service scan?"
+msgstr "Želite li napraviti skeniranje kanala?"
+
+#
+msgid "Do you want to do another manual service scan?"
+msgstr "Želite li sada započeti drugu ručnu pretragu kanala?"
+
+msgid "Do you want to enable the parental control feature on your STB?"
+msgstr ""
+
+#
+msgid "Do you want to install default sat lists?"
+msgstr "Da li želite da instalirate standardnu listu servisa?"
+
+#
+msgid "Do you want to install the package:\n"
+msgstr "Da li želite da instalirate paket:\n"
+
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully "
+"automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+
+#
+msgid "Do you want to play DVD in drive?"
+msgstr "Da li želite da reprodukujete DVD u drajvu?"
+
+#
+msgid "Do you want to preview this DVD before burning?"
+msgstr "Da li želite da pregledate ovaj DVD pre rezanja?"
+
+msgid "Do you want to reboot your STB?"
+msgstr ""
+
+msgid "Do you want to remove binary data?"
+msgstr ""
+
+#
+msgid "Do you want to remove the package:\n"
+msgstr "Da li želite da uklonite paket:\n"
+
+#
+msgid "Do you want to restore your settings?"
+msgstr "Želite li vratiti vaše postavke iz sigurnosne kopije?"
+
+#
+msgid "Do you want to resume this playback?"
+msgstr "Želite li nastaviti snimak?"
+
+msgid "Do you want to set selected url to the Startpage?"
+msgstr ""
+
+msgid "Do you want to shut down?"
+msgstr ""
+
+msgid "Do you want to update your STB?"
+msgstr ""
+
+msgid ""
+"Do you want to update your STB?\n"
+"After pressing OK, please wait!"
+msgstr ""
+
+#
+msgid "Do you want to upgrade the package:\n"
+msgstr "Da li želite da nadogradite paket:\n"
+
+msgid ""
+"Do you want to use VTi BackupSuite to restore your settings, plugins or "
+"favourite bouquets ?"
+msgstr ""
+
+msgid ""
+"Do you want to use VTi ZerO to remove some packages which you do not need ?"
+msgstr ""
+
+#
+msgid "Do you want to view a tutorial?"
+msgstr "Želite li pogledati vodič?"
+
+msgid "Dolby Digital / DTS downmix"
+msgstr ""
+
+msgid "Dolby Digital default"
+msgstr ""
+
+msgid "Dolby Digital downmix"
+msgstr ""
+
+#
+msgid "Don't stop current event but disable coming events"
+msgstr "Ne zaustavljaj trenutni događaj ali onemogući nadolazeće događaje"
+
+#
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr "Učinjeno - Instalirano i nadograđeno %d paketa"
+
+#
+#, python-format
+msgid "Done - Installed, upgraded or removed %d packages with %d errors"
+msgstr "Učinjeno,instalisano,nadograđeno ili uklonjeno %d paketa sa %d grešaka"
+
+msgid "Down Key"
+msgstr ""
+
+#
+msgid "Download"
+msgstr "Skidanje"
+
+#
+msgid "Download Plugins"
+msgstr "Skini dodatke"
+
+#
+msgid "Downloadable new plugins"
+msgstr "Novi dodaci za skidanje"
+
+#
+msgid "Downloadable plugins"
+msgstr "Dodaci koji se mogu skidati"
+
+msgid "Downloaded "
+msgstr ""
+
+#, python-format
+msgid ""
+"Downloaded : %s\n"
+"Press OK to select, Press Cancel to exit."
+msgstr ""
+
+#
+msgid "Downloading"
+msgstr "Skidanje"
+
+#
+msgid "Downloading plugin information. Please wait..."
+msgstr "Skidanje informacija o dodacima. Molim pričekajte..."
+
+msgid "Downloading..."
+msgstr ""
+
+msgid "Duo/Solo was not support."
+msgstr ""
+
+#
+msgid "Dutch"
+msgstr "Holandski"
+
+#
+msgid "Dynamic contrast"
+msgstr "Dinamički kontrast"
+
+#
+msgid "E"
+msgstr "E"
+
+#
+msgid "EPG Selection"
+msgstr "EPG selektor "
+
+#
+#, python-format
+msgid "ERROR - failed to scan (%s)!"
+msgstr "GREŠKA - neuspešno skeniranje (%s)!"
+
+msgid "ESSID"
+msgstr ""
+
+#
+msgid "East"
+msgstr "Istok"
+
+#
+msgid "Edit"
+msgstr "Urediti"
+
+#
+msgid "Edit Title"
+msgstr "Urediti naslov"
+
+#
+msgid "Edit bouquets list"
+msgstr "Uredi listi buketa"
+
+#
+msgid "Edit chapters of current title"
+msgstr "Urediti poglavlja sadašnjeg naslova"
+
+#
+msgid "Edit services list"
+msgstr "Urediti listu kanala"
+
+#
+msgid "Edit settings"
+msgstr "Urediti postavke"
+
+msgid "Edit the Nameserver configuration of your STB.\n"
+msgstr ""
+
+msgid "Edit the network configuration of your STB.\n"
+msgstr ""
+
+#
+msgid "Edit title"
+msgstr "Urediti naslov"
+
+#
+msgid "Edit upgrade source url."
+msgstr "Uredi url izvora nadogradnje."
+
+msgid "EditSetting"
+msgstr ""
+
+#
+msgid "Electronic Program Guide"
+msgstr "Elektronski Programski Vodič"
+
+#
+msgid "Enable"
+msgstr "Omogući"
+
+msgid "Enable 128 bit (Input 26 hex keys)"
+msgstr ""
+
+#
+msgid "Enable 5V for active antenna"
+msgstr "Uključi 5V za aktivnu antenu"
+
+msgid "Enable 64 bit (Input 10 hex keys)"
+msgstr ""
+
+msgid "Enable Autostart for DLNA Server"
+msgstr ""
+
+msgid "Enable Logging"
+msgstr ""
+
+msgid "Enable Standby Settings"
+msgstr ""
+
+msgid "Enable TeleText caching"
+msgstr ""
+
+msgid "Enable autostart for HbbTV browser"
+msgstr ""
+
+msgid "Enable mount automatically while start"
+msgstr ""
+
+msgid "Enable mount check for HDD : "
+msgstr ""
+
+#
+msgid "Enable multiple bouquets"
+msgstr "Uključi višestruke bukete"
+
+#
+msgid "Enable parental control"
+msgstr "Uključi roditeljsku zaštitu"
+
+#
+msgid "Enable timer"
+msgstr "Omogući tajmer"
+
+#
+msgid "Enabled"
+msgstr "Omogućeno"
+
+msgid "Encrypt"
+msgstr ""
+
+#
+msgid "Encrypted: "
+msgstr "Kodirano:"
+
+#
+msgid "Encryption"
+msgstr "Šifrovanje"
+
+#
+msgid "Encryption Key"
+msgstr "Ključ za šifrovanje"
+
+#
+msgid "Encryption Keytype"
+msgstr "Tip ključa za  šifrovanje"
+
+#
+msgid "Encryption:"
+msgstr "Kodiranje:"
+
+#
+msgid "End time"
+msgstr "Završno vreme"
+
+#
+msgid "EndTime"
+msgstr "Završno vreme "
+
+#
+msgid "English"
+msgstr "Engleski"
+
+#
+msgid ""
+"Enigma2 Skinselector\n"
+"\n"
+"If you experience any problems please contact\n"
+"stephan@reichholf.net\n"
+"\n"
+"© 2006 - Stephan Reichholf"
+msgstr ""
+"Enigma2 Birač maske\n"
+"\n"
+"Ukoliko imate problema molim kontaktirajte\n"
+"stephan@reichholf.net\n"
+"\n"
+"© 2006 - Stephan Reichholf"
+
+msgid "Enter Key"
+msgstr ""
+
+#
+msgid "Enter main menu..."
+msgstr "Uđi u glavni meni"
+
+#
+msgid "Enter pin code"
+msgstr "Unesi PIN kod"
+
+#
+msgid "Enter the service pin"
+msgstr "Unesite pin kanala"
+
+msgid "Enter your input data"
+msgstr ""
+
+#
+msgid "Error"
+msgstr "Greška"
+
+msgid "Error checking disk. The disk or filesystem may be damaged"
+msgstr ""
+
+#
+#, python-format
+msgid ""
+"Error: %s\n"
+"Retry?"
+msgstr ""
+"Greška: %s\n"
+"Pokušati ponovo?"
+
+#, python-format
+msgid ""
+"Error[%d] : %s.\n"
+"Press OK to exit."
+msgstr ""
+
+#
+msgid "Estonian"
+msgstr "Estonski"
+
+msgid "Ethernet network interface"
+msgstr ""
+
+msgid "Event Description"
+msgstr ""
+
+#
+msgid "Eventview"
+msgstr "Pregled događaja"
+
+#
+msgid "Everything is fine"
+msgstr "Sve je u redu"
+
+#
+msgid "Exceeds dual layer medium!"
+msgstr "Prevazilazi dvoslojni medij!"
+
+#
+msgid "Execution Progress:"
+msgstr "Tok izvođenja:"
+
+#
+msgid "Execution finished!!"
+msgstr "Izvođenje završeno!!"
+
+#
+msgid "Exif"
+msgstr "Exif"
+
+#
+msgid "Exit"
+msgstr "Izaći"
+
+#
+msgid "Exit editor"
+msgstr "Izađi iz editora"
+
+msgid "Exit input device selection."
+msgstr "Napusti izbor ulaznog uređaja."
+
+#
+msgid "Exit network wizard"
+msgstr "Napusti mrežnog čarobnjaka"
+
+msgid "Exit the Opera browser."
+msgstr ""
+
+#
+msgid "Exit the wizard"
+msgstr "Izađite iz čarobnjaka"
+
+#
+msgid "Exit wizard"
+msgstr "Izlaz iz čarobnjaka"
+
+#
+msgid "Expert"
+msgstr "Ekspert"
+
+#
+msgid "Extended Networksetup Plugin..."
+msgstr "Prošireni dodatak za postavke mreže..."
+
+#
+msgid "Extended Setup..."
+msgstr "Proširene postavke..."
+
+#
+msgid "Extended Software"
+msgstr "Prošireni softver"
+
+#
+msgid "Extended Software Plugin"
+msgstr "Prošireni softver dodatak "
+
+#
+msgid "Extensions"
+msgstr "Proširenja"
+
+#
+msgid "Extensions management"
+msgstr "Rukovanje proširenjima"
+
+msgid "F"
+msgstr ""
+
+#
+msgid "FEC"
+msgstr "FEC"
+
+msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
+msgstr ""
+
+msgid "FLASH IS BROKEN"
+msgstr ""
+
+msgid "FPGA"
+msgstr ""
+
+msgid "FPGA Upgrade"
+msgstr ""
+
+msgid "FRAGM Threshold (256~2346)"
+msgstr ""
+
+msgid "FTP"
+msgstr ""
+
+#
+msgid "Factory reset"
+msgstr "Fabrički reset"
+
+msgid "Factory reset fail"
+msgstr ""
+
+msgid "Fail to download."
+msgstr ""
+
+msgid "Fail to update!!"
+msgstr ""
+
+msgid "Fail to upgrade!! Retry!!"
+msgstr ""
+
+msgid ""
+"Fail to upgrade.\n"
+"Cause : "
+msgstr ""
+
+msgid ""
+"Fail to upgrade.\n"
+"Cause : Can't found device.\n"
+"Do you want to exit?"
+msgstr ""
+
+#, python-format
+msgid ""
+"Fail to verify data file. \n"
+"file[%s]\n"
+"md5[%s]"
+msgstr ""
+
+#
+msgid "Failed"
+msgstr "Neuspeh"
+
+msgid "Fallback to default skin at skin errors"
+msgstr ""
+
+#
+#, python-format
+msgid "Fan %d"
+msgstr "Vent. %d "
+
+msgid "Fan Control"
+msgstr ""
+
+msgid "Fan basic action"
+msgstr ""
+
+msgid "Fan control"
+msgstr ""
+
+msgid "Fan off duration time"
+msgstr ""
+
+msgid "Fan on duration time"
+msgstr ""
+
+msgid "FanOFF InStanby"
+msgstr ""
+
+#
+msgid "Fast"
+msgstr "Brzo"
+
+#
+msgid "Fast DiSEqC"
+msgstr "Brzi DiSEqC"
+
+#
+msgid "Fast Forward speeds"
+msgstr "Brzine premotavanja unapred"
+
+#
+msgid "Fast epoch"
+msgstr "Brza epoha"
+
+#
+msgid "Favourites"
+msgstr "Favoriti"
+
+msgid "File"
+msgstr ""
+
+msgid ""
+"File not Found!\n"
+"/proc/bus/nim_sockets"
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "File transfer was cancelled by user"
+msgstr ""
+
+#
+msgid "Filesystem Check"
+msgstr "Provera sistema datoteka"
+
+msgid "Filesystem check finished sucessfully"
+msgstr ""
+
+#
+msgid "Filesystem contains uncorrectable errors"
+msgstr "Sistemske datoteke sadrže nepopravljive greške"
+
+#
+msgid "Finetune"
+msgstr "Fino podešavanje"
+
+#
+msgid "Finished"
+msgstr "Završeno"
+
+#
+msgid "Finished configuring your network"
+msgstr "Završena konfiguracija vaše mreže"
+
+#
+msgid "Finished restarting your network"
+msgstr "Završeno je restartovanje vaše mreže"
+
+#
+msgid "Finnish"
+msgstr "Finski"
+
+msgid "Firmware"
+msgstr ""
+
+msgid "Firmware Upgrade"
+msgstr ""
+
+msgid "Firmware does not exist."
+msgstr ""
+
+msgid "Follow the instructions on the front-display."
+msgstr ""
+
+#
+msgid "Following tasks will be done after you press OK!"
+msgstr "Sledeći zadaci će biti urađeni kad pritisnete OK!"
+
+msgid "For use this plugin, you must update the kernel version to 3.1 or later"
+msgstr ""
+
+#
+msgid "Format"
+msgstr "Formatiranje"
+
+msgid "Format filesystem, please wait ..."
+msgstr ""
+
+msgid "Format finished sucessfully."
+msgstr ""
+
+#
+msgid "Frame size in full view"
+msgstr "Veličina frejma u punom izgledu"
+
+msgid "Framerate"
+msgstr ""
+
+#, python-format
+msgid "Free : %s"
+msgstr ""
+
+#
+msgid "French"
+msgstr "Francuski"
+
+#
+msgid "Frequency"
+msgstr "Frekvencija"
+
+#
+msgid "Frequency bands"
+msgstr "Band frekvencije"
+
+#
+msgid "Frequency scan step size(khz)"
+msgstr "Veličina frekvencijskih koraka (khz)"
+
+#
+msgid "Frequency steps"
+msgstr "Frekvencijski koraci"
+
+#
+msgid "Fri"
+msgstr "Pet"
+
+#
+msgid "Friday"
+msgstr "Petak"
+
+#
+msgid "Frisian"
+msgstr "Frizijski"
+
+msgid "Front LED OK?"
+msgstr ""
+
+msgid ""
+"Front LED OK?\n"
+"\n"
+"yes-ok\n"
+"no-exit"
+msgstr ""
+
+msgid "Front Processor"
+msgstr ""
+
+msgid "Front USB Slot"
+msgstr "Prednji USB slot"
+
+#
+#, python-format
+msgid "Frontprocessor version: %d"
+msgstr "Verzija frontprocesora: %d"
+
+#
+msgid "Fsck failed"
+msgstr "Fsck nije uspeo"
+
+msgid "Full 1:1 back-up direct on USB"
+msgstr ""
+
+msgid "Full 1:1 back-up in USB format"
+msgstr ""
+
+msgid "Full back-up direct to USB"
+msgstr ""
+
+msgid "Full back-up on HDD"
+msgstr ""
+
+msgid "Full back-up on HDD/USB"
+msgstr ""
+
+msgid "Full back-up to USB"
+msgstr ""
+
+msgid "Full back-up to the harddisk"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+#
+msgid ""
+"GUI needs a restart to apply a new skin\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"GUI se treba restartovati da se primeni nova maska\n"
+" Želite li restartovati GUI sada ?"
+
+msgid "GUI restart now, press 'OK' button."
+msgstr ""
+
+#
+msgid "Gateway"
+msgstr "Mrežni čvor"
+
+msgid "General Dolby Digital delay (ms)"
+msgstr ""
+
+#
+msgid "General PCM delay (ms)"
+msgstr "Opšte PCM kašnjenje (ms)"
+
+#
+msgid "Genre"
+msgstr "Žanrovi"
+
+#
+msgid "German"
+msgstr "Nemački"
+
+#
+msgid "Getting plugin information. Please wait..."
+msgstr "Skidanje informacije o dodatku. Molim pričekajte..."
+
+msgid "Global"
+msgstr ""
+
+msgid "Go to next page."
+msgstr ""
+
+msgid "Go to previous page."
+msgstr ""
+
+#
+msgid "Goto 0"
+msgstr "Pođi do 0"
+
+#
+msgid "Goto position"
+msgstr "Idi na poziciju"
+
+#
+msgid "Graphical Multi EPG"
+msgstr "Grafički Multi EPG"
+
+#
+msgid "Greek"
+msgstr "Grčki"
+
+#
+msgid "Green boost"
+msgstr "Zeleno pojačanje"
+
+msgid "Group Rekey Interval"
+msgstr ""
+
+msgid "Guard interval"
+msgstr "Zaštitni interval"
+
+msgid "HDMI"
+msgstr ""
+
+msgid "HDMI CEC enabled:"
+msgstr ""
+
+msgid "HDMI-CEC"
+msgstr ""
+
+msgid "HEX"
+msgstr ""
+
+#
+msgid "Harddisk"
+msgstr "Hard disk"
+
+#
+msgid "Harddisk setup"
+msgstr "Postavke hard diska"
+
+#
+msgid "Harddisk standby after"
+msgstr "Isključi hard disk posle"
+
+msgid "Harddisk standby after : "
+msgstr ""
+
+msgid "HbbTV Applications"
+msgstr ""
+
+msgid ""
+"HbbTV Browser was not running.\n"
+"Please running browser before start HbbTV Application."
+msgstr ""
+
+msgid "HbbTV Plugin"
+msgstr ""
+
+#
+msgid "Help"
+msgstr "Pomoć"
+
+msgid "Hidden network"
+msgstr ""
+
+msgid "Hierarchy info"
+msgstr "Rangiranje info"
+
+#
+msgid "High bitrate support"
+msgstr "Podrška za visoki bitrejt"
+
+#
+msgid "Horizontal"
+msgstr "Horizontalno"
+
+#
+msgid "How many minutes do you want to record?"
+msgstr "Koliko minuta želite snimati ?"
+
+msgid "How many partitions do you want?(1-4)"
+msgstr ""
+
+#
+msgid "Hue"
+msgstr "Nijansa"
+
+#
+msgid "Hungarian"
+msgstr "Mađarski"
+
+msgid "IP"
+msgstr ""
+
+#
+msgid "IP Address"
+msgstr "IP Adresa"
+
+#
+msgid "ISO file is too large for this filesystem!"
+msgstr "ISO datoteka je prevelika za ovaj sistem?"
+
+#
+msgid "ISO path"
+msgstr "ISO putanja"
+
+#
+msgid "Icelandic"
+msgstr "Islandski"
+
+msgid ""
+"If WOL is enabled, power consumption will be around 2W.\n"
+"ErP Standby Power Regulation (<0.5W at standby) cannot be met.\n"
+"Proceed?"
+msgstr ""
+
+msgid ""
+"If you place an USB-stick containing this file then the back-up will be "
+"automatically made onto the USB-stick and can be used to restore the current "
+"image if necessary."
+msgstr ""
+
+#
+msgid ""
+"If you see this, something is wrong with\n"
+"your scart connection. Press OK to return."
+msgstr ""
+"Ukoliko vidite ovu poruku, nešto je pogrešno sa\n"
+"vašim skart priključkom. Pritisnite OK za povratak."
+
+msgid ""
+"If you want to quit the Browser,\n"
+"Press RED -> EXIT."
+msgstr ""
+
+#
+msgid ""
+"If your TV has a brightness or contrast enhancement, disable it. If there is "
+"something called \"dynamic\", set it to standard. Adjust the backlight level "
+"to a value suiting your taste. Turn down contrast on your TV as much as "
+"possible.\n"
+"Then turn the brightness setting as low as possible, but make sure that the "
+"two lowermost shades of gray stay distinguishable.\n"
+"Do not care about the bright shades now. They will be set up in the next "
+"step.\n"
+"If you are happy with the result, press OK."
+msgstr ""
+"Ako vaš TV ima poboljšavanje osvetljenja ili kontrasta,isključite ga.Ako "
+"imate nešto zvano  \"dynamic \",postavite na standarno.Podesite nivo "
+"pozadinskog osvetljenja na vrednosti po vašem ukusu.Smanjite kontrast na "
+"vašem TV koliko je moguće.\n"
+"Zatim smanjite do minimuma osvetljenje,ali budite sigurni da se najniže "
+"senke sive razaznaju.\n"
+"Ne brinite sada za svetle senke.One će biti postavljene u sledećem koraku.\n"
+"Ako ste zadovoljni rezultatom,stisnite OK."
+
+msgid "Ignore Broadcast SSID"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image creation FAILED!"
+msgstr ""
+
+#
+msgid "In Progress"
+msgstr "U toku"
+
+#
+msgid ""
+"In order to record a timer, the TV was switched to the recording service!\n"
+msgstr ""
+"Da bi počelo snimanje po tajmeru,TV je prebačen na kanal za snimanje!\n"
+
+msgid "Include optional infomation"
+msgstr ""
+
+msgid "Include settop information"
+msgstr ""
+
+#
+msgid "Increased voltage"
+msgstr "Povećani napon"
+
+#
+msgid "Index"
+msgstr "Indeks"
+
+#
+msgid "Info"
+msgstr "Info"
+
+#
+msgid "InfoBar"
+msgstr "Info traka"
+
+#
+msgid "Infobar timeout"
+msgstr "Vreme trajanja info trake"
+
+#
+msgid "Information"
+msgstr "Informacije"
+
+#
+msgid "Init"
+msgstr "Init"
+
+msgid "InitInitializing, please wait ..."
+msgstr ""
+
+msgid "Initial Fast Forward speed"
+msgstr "Početna brzina premotavanja napred"
+
+msgid "Initial Rewind speed"
+msgstr "Početna brzina premotavanja nazad"
+
+#
+msgid "Initial location in new timers"
+msgstr "Početna lokacija u novim tajmerima."
+
+#
+msgid "Initialization"
+msgstr "Inicijalizacija"
+
+#
+msgid "Initialize"
+msgstr "Inicijaliziraj"
+
+#
+msgid "Initializing Harddisk..."
+msgstr "Inicijaliziram hard disk..."
+
+#
+msgid "Input"
+msgstr "Ulaz "
+
+msgid "Input Hidden ESSID"
+msgstr ""
+
+msgid "Input device setup"
+msgstr "Podešavanje ulaznog uređaja "
+
+msgid "Input mount point path."
+msgstr ""
+
+#, python-format
+msgid "Input size of partition %s.(Max = %d MB)"
+msgstr ""
+
+#
+msgid "Install"
+msgstr "Instalisati"
+
+#
+msgid "Install a new image with a USB stick"
+msgstr "Instalisati novi imidž sa USB stika"
+
+#
+msgid "Install a new image with your web browser"
+msgstr "Instalisati novi imidž vašim web pretraživačem"
+
+#
+msgid "Install extensions."
+msgstr "Instaliraj proširenja."
+
+#
+msgid "Install local extension"
+msgstr "Instaliraj lokalno proširenje"
+
+#
+msgid "Install or remove finished."
+msgstr "Instalacija ili uklanjanje završeno."
+
+#
+msgid "Install settings, skins, software..."
+msgstr "Instalisati postavke,maske,softver..."
+
+#
+msgid "Installation finished."
+msgstr "Instalacija završena."
+
+#
+msgid "Installing"
+msgstr "Instaliram"
+
+#
+msgid "Installing Software..."
+msgstr "Instaliram softver..."
+
+#
+msgid "Installing default sat lists... Please wait..."
+msgstr "Instalacija standardne satelitske liste...Molim sačekajte..."
+
+#
+msgid "Installing defaults... Please wait..."
+msgstr "Standardna instalacija...Molim pričekajte..."
+
+#
+msgid "Installing package content... Please wait..."
+msgstr "Instalacija sadržaja paketa...Molim pričekajte..."
+
+#
+msgid "Instant record location"
+msgstr "Lokacija instant snimanja"
+
+#
+msgid "Interface: "
+msgstr "Iinterfejs:"
+
+#
+msgid "Intermediate"
+msgstr "Srednje"
+
+#
+msgid "Internal Flash"
+msgstr "Interni fleš"
+
+msgid "Internal USB Slot"
+msgstr "unutrašnji USB slot"
+
+msgid "Invalid "
+msgstr ""
+
+msgid "Invalid Choice"
+msgstr ""
+
+msgid "Invalid Fragm Threshold\n"
+msgstr ""
+
+#
+msgid "Invalid Location"
+msgstr "Nevažeća lokacija"
+
+msgid "Invalid RTS Threshold\n"
+msgstr ""
+
+msgid "Invalid SSID\n"
+msgstr ""
+
+msgid ""
+"Invalid URL!!(Empty)\n"
+"Please, Input to the URL."
+msgstr ""
+
+msgid "Invalid URL. Please check again!!"
+msgstr ""
+
+msgid ""
+"Invalid WEP key\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Invalid WPA key\n"
+"\n"
+msgstr ""
+
+msgid "Invalid WirelessLan Module.\n"
+msgstr ""
+
+msgid "Invalid beacon\n"
+msgstr ""
+
+msgid "Invalid channel\n"
+msgstr ""
+
+#
+#, python-format
+msgid "Invalid directory selected: %s"
+msgstr "Izabran je nevažeči direktorijum: %s"
+
+msgid "Invalid model or Image."
+msgstr ""
+
+msgid "Invalid wpagrouprekey\n"
+msgstr ""
+
+#
+msgid "Inversion"
+msgstr "Inverzija"
+
+#
+msgid "Ipkg"
+msgstr "Ipkg"
+
+msgid "It will move the mouse pointer down."
+msgstr ""
+
+msgid "It will move the mouse pointer left."
+msgstr ""
+
+msgid "It will move the mouse pointer right."
+msgstr ""
+
+msgid "It will move the mouse pointer up."
+msgstr ""
+
+#
+msgid "Italian"
+msgstr "Italijanski"
+
+#
+msgid "Job View"
+msgstr "Pregled poslova"
+
+#
+#. TRANSLATORS: (aspect ratio policy: display as fullscreen, even if this breaks the aspect)
+msgid "Just Scale"
+msgstr "Samo razmeri"
+
+msgid "KEY"
+msgstr ""
+
+msgid "KEY (8~63 Characters)"
+msgstr ""
+
+msgid "Keep"
+msgstr ""
+
+msgid "Key Type"
+msgstr ""
+
+msgid "KeyType"
+msgstr ""
+
+#
+msgid "Keyboard"
+msgstr "Tastatura"
+
+msgid "Keyboard Layout"
+msgstr ""
+
+#
+msgid "Keyboard Map"
+msgstr "Mapa tastature"
+
+#
+msgid "Keyboard Setup"
+msgstr "Postavke tastature"
+
+#
+msgid "Keymap"
+msgstr "Mapa ključa"
+
+#
+msgid "LAN Adapter"
+msgstr "LAN adapter"
+
+msgid "LAN connection"
+msgstr "LAN veza"
+
+msgid "LED Brightness Setup"
+msgstr ""
+
+#
+msgid "LNB"
+msgstr "LNB"
+
+#
+msgid "LOF"
+msgstr "LOF"
+
+#
+msgid "LOF/H"
+msgstr "LOFH"
+
+#
+msgid "LOF/L"
+msgstr "LOF/L"
+
+#
+msgid "Language"
+msgstr "Jezik"
+
+#
+msgid "Language selection"
+msgstr "Izbor jezika"
+
+#
+msgid "Last config"
+msgstr "Zadnji konfig"
+
+#
+msgid "Last speed"
+msgstr "Poslednja brzina"
+
+#
+msgid "Latitude"
+msgstr "Geografska širina"
+
+#
+msgid "Latvian"
+msgstr "Letonski"
+
+#
+msgid "Leave DVD Player?"
+msgstr "Napustiti DVD plejer"
+
+#
+msgid "Left"
+msgstr "Levo"
+
+msgid "Left Key"
+msgstr ""
+
+msgid "Left Mouse Button"
+msgstr ""
+
+#
+#. TRANSLATORS: (aspect ratio policy: black bars on top/bottom) in doubt, keep english term.
+msgid "Letterbox"
+msgstr "Letterbox"
+
+#
+msgid "Limit east"
+msgstr "Istočni limit"
+
+#
+msgid "Limit west"
+msgstr "Zapadni limit"
+
+#
+msgid "Limited character set for recording filenames"
+msgstr "Ograničeni znakovi za  imena snimljenih datoteka"
+
+#
+msgid "Limits off"
+msgstr "Isključi limite"
+
+#
+msgid "Limits on"
+msgstr "Limite na"
+
+#
+msgid "Link Quality:"
+msgstr "Kvalitet linka:"
+
+#
+msgid "Link:"
+msgstr "Link:"
+
+#
+msgid "Linked titles with a DVD menu"
+msgstr "Vezani naslovi sa DVD meniem"
+
+msgid "List available networks"
+msgstr ""
+
+#
+msgid "List of Storage Devices"
+msgstr "Lista uređaja za odlaganje"
+
+#
+msgid "Lithuanian"
+msgstr "Litvanski"
+
+#
+msgid "Load"
+msgstr "Ubaciti"
+
+#
+msgid "Load Length of Movies in Movielist"
+msgstr "Ubaciti dužinu filma u listi filmova"
+
+#
+msgid "Local Network"
+msgstr "Lokalna mreža"
+
+#
+msgid "Location"
+msgstr "Lokacija"
+
+#
+msgid "Location for instant recordings"
+msgstr "Lokacija za instant snimanja"
+
+#
+msgid "Lock:"
+msgstr "Zaključaj:"
+
+msgid "Locking Fail Error"
+msgstr ""
+
+#
+msgid "Log results to harddisk"
+msgstr "Rezultati izveštaja na hard disk"
+
+#
+msgid "Long Keypress"
+msgstr "Dugi pritisak tipke"
+
+msgid "Long filenames"
+msgstr "Dugačka imena datoteka"
+
+#
+msgid "Longitude"
+msgstr "Geografska dužina"
+
+msgid "MA"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "MC"
+msgstr ""
+
+#
+msgid "MMC Card"
+msgstr "MMC Kartica"
+
+#
+msgid "MORE"
+msgstr "VIŠE"
+
+msgid "MSA"
+msgstr ""
+
+msgid "Mac address fail"
+msgstr ""
+
+#
+msgid "Main menu"
+msgstr "Glavni meni"
+
+#
+msgid "Mainmenu"
+msgstr "Glavni meni"
+
+#, python-format
+msgid ""
+"Make filesystem Error /dev/%s.\n"
+"Please check your device."
+msgstr ""
+
+#
+msgid "Make this mark an 'in' point"
+msgstr "Napravi ovu oznaku kao 'ulaznu' tačku"
+
+#
+msgid "Make this mark an 'out' point"
+msgstr "Napravi ovu oznaku kao 'izlaznu' tačku"
+
+#
+msgid "Make this mark just a mark"
+msgstr "Napravi ovu oznaku samo kao oznaku"
+
+#
+msgid "Manage extensions"
+msgstr "Rukuj proširenjima"
+
+#
+msgid "Manage your receiver's software"
+msgstr "Upravljanje softverom vašeg prijemnika"
+
+msgid "Manual"
+msgstr ""
+
+msgid "Manual Fan control"
+msgstr ""
+
+#
+msgid "Manual Scan"
+msgstr "Ručno skeniranje"
+
+msgid "Manual configuration"
+msgstr ""
+
+#
+msgid "Manual transponder"
+msgstr "Ručno uneseni transponder"
+
+#
+msgid "Manufacturer"
+msgstr "Proizvođač"
+
+#
+msgid "Margin after record"
+msgstr "Margina nakon snimanja"
+
+#
+msgid "Margin before record (minutes)"
+msgstr "Margina pre snimanja (minuti)"
+
+msgid "Mark movie as seen after X %"
+msgstr ""
+
+msgid "Mark recording services in service list"
+msgstr ""
+
+#
+msgid "Max. Bitrate: "
+msgstr "Maks. Bit rata:"
+
+#
+msgid "Media player"
+msgstr "Medija plejer"
+
+#
+msgid "MediaPlayer"
+msgstr "Medija plejer"
+
+#
+msgid "Medium is not a writeable DVD!"
+msgstr "Medij nije upisivi DVD!"
+
+#
+msgid "Medium is not empty!"
+msgstr "Medij nije prazan!"
+
+#
+msgid "Menu"
+msgstr "Meni"
+
+#
+msgid "Message"
+msgstr "Poruka"
+
+#
+msgid "Message..."
+msgstr "Poruka..."
+
+msgid "Method"
+msgstr ""
+
+#
+msgid "Mkfs failed"
+msgstr "Mkfs nije uspeo"
+
+#
+msgid "Mode"
+msgstr "Način"
+
+msgid "Mode 1"
+msgstr ""
+
+msgid "Mode 2"
+msgstr ""
+
+#
+msgid "Model: "
+msgstr "Model:"
+
+msgid "Modem Manager"
+msgstr ""
+
+#
+msgid "Modulation"
+msgstr "Modulacija"
+
+#
+msgid "Modulator"
+msgstr "Modulator"
+
+#
+msgid "Mon"
+msgstr "Pon"
+
+#
+msgid "Mon-Fri"
+msgstr "Pon-Pet"
+
+#
+msgid "Monday"
+msgstr "Ponedeljak"
+
+#
+msgid "Mosquito noise reduction"
+msgstr "Moskito smanjenje šuma"
+
+msgid "Mount"
+msgstr ""
+
+#, python-format
+msgid ""
+"Mount Failed!\n"
+"(%s -> %s)"
+msgstr ""
+
+#, python-format
+msgid ""
+"Mount Failed!\n"
+"Current path is already mounted by \"%s\""
+msgstr ""
+
+msgid "Mount Point"
+msgstr ""
+
+#, python-format
+msgid "Mount Point : %s -> %s"
+msgstr ""
+
+#, python-format
+msgid "Mount Point : %s ->%s"
+msgstr ""
+
+msgid "Mount Point : click ok button on here."
+msgstr ""
+
+#, python-format
+msgid ""
+"Mount Point is not writeable.\n"
+"Path : %s"
+msgstr ""
+
+#
+msgid "Mount failed"
+msgstr "Mount neuspešan"
+
+msgid "Mount known devices automatically : "
+msgstr ""
+
+#, python-format
+msgid "Mounted on : %s"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+#
+msgid "Move Picture in Picture"
+msgstr "Pomerite sliku u slici"
+
+#
+msgid "Move east"
+msgstr "Pokreći na istok"
+
+#
+msgid "Move west"
+msgstr "Pokreći na zapad"
+
+#
+msgid "Movie location"
+msgstr "Lokacija filmova"
+
+#
+msgid "Movielist menu"
+msgstr "Meni liste filmova"
+
+msgid "Movies / Timers"
+msgstr ""
+
+#
+msgid "Multi EPG"
+msgstr "Multi EPG"
+
+msgid "Multi-EPG bouquet selection"
+msgstr "Multi EPG izbor buketa"
+
+#
+msgid "Multimedia"
+msgstr "Multimedija"
+
+#
+msgid "Multiple service support"
+msgstr "Podrška za višestruke kanale"
+
+msgid "Multiplex"
+msgstr "Multipleks"
+
+#
+msgid "Multisat"
+msgstr "Multisat"
+
+msgid "Music Directory"
+msgstr ""
+
+#
+msgid "Mute"
+msgstr "Isključi zvuk"
+
+#
+msgid "N/A"
+msgstr "N/A"
+
+#
+msgid "NEXT"
+msgstr "SLEDEĆE"
+
+msgid "NIM"
+msgstr "NIM"
+
+#
+msgid "NOW"
+msgstr "SADA"
+
+msgid ""
+"NO_GET_APPNAME\n"
+"Press exit!"
+msgstr ""
+
+#
+msgid "NTSC"
+msgstr "NTSC"
+
+#
+msgid "Name"
+msgstr "Ime"
+
+msgid "Name :"
+msgstr ""
+
+#
+msgid "Nameserver"
+msgstr "Nejmserver"
+
+#
+#, python-format
+msgid "Nameserver %d"
+msgstr "Nejmserver %d"
+
+#
+msgid "Nameserver Setup"
+msgstr "Postavke nejmservera"
+
+msgid "Namespace"
+msgstr "Prostor za ime"
+
+msgid "NetDrive Setup"
+msgstr ""
+
+msgid "NetMask"
+msgstr ""
+
+#
+msgid "Netmask"
+msgstr "Mrežna maska"
+
+#
+msgid "Network"
+msgstr "Mreža"
+
+#
+msgid "Network Configuration..."
+msgstr "Mrežna konfiguracija..."
+
+#
+msgid "Network Mount"
+msgstr "Montiranje mreže"
+
+#
+msgid "Network Setup"
+msgstr "Postavke Mreže"
+
+#
+msgid "Network Wizard"
+msgstr "Mrežni čarobnjak"
+
+msgid ""
+"Network configuration is not changed....\n"
+"\n"
+"Are you sure you want to restart your network interfaces?\n"
+msgstr ""
+
+#
+msgid "Network scan"
+msgstr "Pretraga mreže"
+
+#
+msgid "Network setup"
+msgstr "Mrežne postavke "
+
+#
+msgid "Network test"
+msgstr "Test mreže"
+
+#
+msgid "Network test..."
+msgstr "Test mreže..."
+
+msgid "Network test: "
+msgstr "Test mreže:"
+
+#
+msgid "Network:"
+msgstr "Mreža:"
+
+#
+msgid "NetworkWizard"
+msgstr "Mrežni čarobnjak"
+
+msgid "Networkname (SSID)"
+msgstr ""
+
+#
+msgid "New"
+msgstr "Novo"
+
+msgid "New PIN"
+msgstr "Novi PIN"
+
+#
+msgid "Next"
+msgstr "Sjedeći"
+
+#
+msgid "No"
+msgstr "Ne"
+
+#
+msgid "No (supported) DVDROM found!"
+msgstr "Nije pronađen (podržan) DVDROM!"
+
+msgid "No AP detected."
+msgstr ""
+
+#
+msgid "No Connection"
+msgstr "Nema veze"
+
+#
+msgid "No HDD found or HDD not initialized!"
+msgstr "Disk nije pronađen ili nije inicijaliziran!"
+
+#
+msgid "No backup needed"
+msgstr "Sigurnosna kopija nije potrebna"
+
+#
+msgid ""
+"No data on transponder!\n"
+"(Timeout reading PAT)"
+msgstr ""
+"Nema podataka na transponderu!\n"
+"(Isteklo vreme čitanja PAT)"
+
+#
+msgid "No description available."
+msgstr "Opis nije dostupan."
+
+msgid "No detected HbbTV applications."
+msgstr ""
+
+#
+msgid "No displayable files on this medium found!"
+msgstr "Nisu pronađene vidljive datoteke na ovom mediju!"
+
+#
+msgid "No event info found, recording indefinitely."
+msgstr "Informacije o događaju nisu pronađene, snimanje beskrajno."
+
+#
+msgid "No free tuner!"
+msgstr "Nema slobodnog tjunera!"
+
+msgid "No information..."
+msgstr ""
+
+#, python-format
+msgid ""
+"No mountable devices found.! (%s)\n"
+"Do you want to open DeviceManager and do initialize or format this device?\n"
+"\n"
+"(Open 'Menu->Setup->System -> Harddisk -> DeviceManager'\n"
+" and press MENU button to deactivate this check.)"
+msgstr ""
+
+#
+msgid "No network connection available."
+msgstr "Nijedna mrežna veza nije dostupna."
+
+#
+msgid "No networks found"
+msgstr "Nijedna mreža nije nađena"
+
+#
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+"Još nijedan paket nije nadograđen.Proverite postavke mreže i pokušajte "
+"ponovo."
+
+msgid ""
+"No partition list found on device.\n"
+"Please click BLUE key and do Initialize to use this device."
+msgstr ""
+
+#
+msgid "No positioner capable frontend found."
+msgstr "Nijedan sposoban čeoni pozicioner nije pronađen."
+
+msgid ""
+"No rewinding possible yet.. but you can use the number buttons to skip "
+"forward/backward!"
+msgstr ""
+
+#
+msgid "No satellite frontend found!!"
+msgstr "Nije pronađen čeoni satelit!!"
+
+msgid "No selected binary data!!"
+msgstr ""
+
+msgid "No supported receiver found!"
+msgstr ""
+
+#
+msgid "No tags are set on these movies."
+msgstr "Nema postavljenih oznaka na ovim filmovima."
+
+#
+msgid "No to all"
+msgstr "Ne za sve"
+
+#
+msgid "No tuner is configured for use with a diseqc positioner!"
+msgstr "Niedan tjuner nije konfigurisan za rad s DiSEqC pozicionerom!"
+
+#
+msgid ""
+"No tuner is enabled!\n"
+"Please setup your tuner settings before you start a service scan."
+msgstr ""
+"Nijedan tjuner nije uključen!\n"
+"Molim podesite postavke tjunera pre nego počnete pretraživanje kanala."
+
+#
+msgid ""
+"No valid service PIN found!\n"
+"Do you like to change the service PIN now?\n"
+"When you say 'No' here the service protection stay disabled!"
+msgstr ""
+"Ispravan PIN za kanal nije pronađen!\n"
+"Želite li sada promeniti PIN kanala?\n"
+"Ukoliko kažete 'Ne' ovde,kanali ostaju nezaštićeni."
+
+#
+msgid ""
+"No valid setup PIN found!\n"
+"Do you like to change the setup PIN now?\n"
+"When you say 'No' here the setup protection stay disabled!"
+msgstr ""
+"Ispravan PIN za 'Postavke' nije pronađen!\n"
+"Želite li promeniti PIN sada?\n"
+"Ukoliko kažete 'Ne' ovde, postavke uređaja ostaju nezaštićene!"
+
+msgid "No wireless networks found! Searching..."
+msgstr ""
+
+#
+msgid ""
+"No working local network adapter found.\n"
+"Please verify that you have attached a network cable and your network is "
+"configured correctly."
+msgstr ""
+"Nije pronađen lokalni mrežni adapter u radu.\n"
+"Molimo proverite da li ste uključili mrežni kabl i da li je mreža ispravno "
+"konfigurisana."
+
+#
+msgid ""
+"No working wireless network adapter found.\n"
+"Please verify that you have attached a compatible WLAN device and your "
+"network is configured correctly."
+msgstr ""
+"Nije pronađen adapter za bežičnu mrežu u radu.\n"
+"Molimo proverite da ste prikačili kompatibilan WLAN uređaj i da je mreža "
+"ispravno konfigurisana."
+
+#
+msgid ""
+"No working wireless network interface found.\n"
+" Please verify that you have attached a compatible WLAN device or enable "
+"your local network interface."
+msgstr ""
+"Nije pronađen interfejs za bežičnu mrežu.\n"
+"Molimo proverite da li ste priključili kompatibilan WLAN uređaj ili "
+"omogućili vaš lokalni mrežni interfejs."
+
+#
+msgid "No, but play video again"
+msgstr "Ne, ali pusti video ponovo"
+
+#
+msgid "No, but restart from begin"
+msgstr "Ne, ali restartuj od početka"
+
+#
+msgid "No, do nothing."
+msgstr "Ne, ništa ne čini "
+
+msgid "No, just start my STB"
+msgstr ""
+
+msgid "No, never"
+msgstr "ne,nikad"
+
+#
+msgid "No, scan later manually"
+msgstr "Ne, skeniraj ručno kasnije"
+
+#
+msgid "None"
+msgstr "Nijedan"
+
+#
+#. TRANSLATORS: (aspect ratio policy: display as fullscreen, with stretching the left/right)
+msgid "Nonlinear"
+msgstr "Nelinearno"
+
+msgid "Normal state"
+msgstr ""
+
+#
+msgid "North"
+msgstr "Sever"
+
+#
+msgid "Norwegian"
+msgstr "Norveški"
+
+#
+#, python-format
+msgid ""
+"Not enough diskspace. Please free up some diskspace and try again. (%d MB "
+"required, %d MB available)"
+msgstr ""
+"Nedovoljno prostora na disku. Molimo oslobodite nešto prostora i probajte "
+"ponovo. (%d MB potrebno,%d MB omogućeno)"
+
+msgid "Not-Associated"
+msgstr ""
+
+#
+msgid ""
+"Nothing to scan!\n"
+"Please setup your tuner settings before you start a service scan."
+msgstr ""
+"Ništa za skeniranje!\n"
+"Molim podesite postavke tjunera pre početka skeniranja kanala."
+
+#
+msgid "Now Playing"
+msgstr "Trenutno pokrenuto"
+
+#
+msgid ""
+"Now, use the contrast setting to turn up the brightness of the background as "
+"much as possible, but make sure that you can still see the difference "
+"between the two brightest levels of shades.If you have done that, press OK."
+msgstr ""
+"Sada koristite postavke kontrasta,da pojačate pozadinsko svetlo najviše "
+"moguće,ali budite sigurni da još uvek možete videti razliku između dva "
+"najsvetlija nivoa senki.Ako ste ovo učinili,pritisnite OK."
+
+#
+msgid "OK"
+msgstr "OK"
+
+#
+msgid "OK, guide me through the upgrade process"
+msgstr "OK, vodi me kroz postupak nadogradnje"
+
+msgid "ONID"
+msgstr "ONID"
+
+#
+msgid "OSD Settings"
+msgstr "Postavke OSD"
+
+#
+msgid "Off"
+msgstr "Isključi"
+
+#
+#
+msgid "Ok"
+msgstr "Ok"
+
+#
+msgid "On"
+msgstr "Uključeno"
+
+#
+msgid "One"
+msgstr "Jedan"
+
+msgid ""
+"One hdd test error\n"
+"Press 'EXIT' button!"
+msgstr ""
+
+#
+msgid "Only Free scan"
+msgstr "Samo slobodno traženje"
+
+#
+msgid "Only extensions."
+msgstr "Samo proširenja:"
+
+msgid "Open Startpage"
+msgstr ""
+
+msgid "Open URL"
+msgstr ""
+
+msgid "Opera Browser"
+msgstr ""
+
+msgid ""
+"Opera Browser was not running.\n"
+"Please running browser using [File]>[Start/Stop] menu."
+msgstr ""
+
+msgid "Opera Web Browser"
+msgstr ""
+
+msgid "Opera Web Browser Plugin v1.0"
+msgstr ""
+
+msgid "Orbital position"
+msgstr "Orbitalna pozicija"
+
+msgid "Overwrite configuration files ?"
+msgstr "Prepiši konfiguracione datoteke?"
+
+msgid "Overwrite configuration files during software upgrade?"
+msgstr "Prepiši konfiguracione datoteke za vreme nadograđivanja softvera?"
+
+#
+msgid "PAL"
+msgstr "PAL"
+
+msgid "PCR PID"
+msgstr "PCR PID"
+
+#
+msgid "PIDs"
+msgstr "PIDs"
+
+msgid "PIN :"
+msgstr ""
+
+msgid "PLEASE READ THIS:"
+msgstr ""
+
+msgid "PMT PID"
+msgstr "PMT PID"
+
+msgid "PWM value"
+msgstr ""
+
+#
+msgid "Package list update"
+msgstr "Nadogradnja liste paketa"
+
+#
+msgid "Packet management"
+msgstr "Rukovanje paketima"
+
+#
+msgid "Packet manager"
+msgstr "Menadžer paketa"
+
+#
+msgid "Page"
+msgstr "Stranica"
+
+msgid "PageDown Key"
+msgstr ""
+
+msgid "PageUp Key"
+msgstr ""
+
+#
+#. TRANSLATORS: (aspect ratio policy: cropped content on left/right) in doubt, keep english term
+msgid "Pan&Scan"
+msgstr "Pan&Scan"
+
+#
+msgid "Parent Directory"
+msgstr "Polazni direktorijum"
+
+#
+msgid "Parental control"
+msgstr "Roditeljska zaštita"
+
+#
+msgid "Parental control services Editor"
+msgstr "Urednik za roditeljsku zaštitu kanala"
+
+#
+msgid "Parental control setup"
+msgstr "Postavke roditeljske zaštite"
+
+#
+msgid "Parental control type"
+msgstr "Tip roditeljske zaštite"
+
+#, python-format
+msgid "Partition : /dev/%s"
+msgstr ""
+
+msgid "Partition info is not found."
+msgstr ""
+
+msgid "Partitions"
+msgstr ""
+
+#, python-format
+msgid "Partitions : %s"
+msgstr ""
+
+#
+msgid "Password"
+msgstr "Lozinka"
+
+msgid "Password :"
+msgstr ""
+
+#
+msgid "Pause movie at end"
+msgstr "Pauziraj film na kraju"
+
+msgid "Phone :"
+msgstr ""
+
+#
+msgid "Phone number"
+msgstr "Telefonski broj"
+
+#
+msgid "PiPSetup"
+msgstr "SuS postavke"
+
+msgid "Picture Directory"
+msgstr ""
+
+#
+msgid "PicturePlayer"
+msgstr "Pregledač slika"
+
+#
+#. TRANSLATORS: (aspect ratio policy: black bars on left/right) in doubt, keep english term.
+msgid "Pillarbox"
+msgstr "Pillarbox"
+
+#
+msgid "Pilot"
+msgstr "Pilot"
+
+#
+msgid "Pin code needed"
+msgstr "Pin kod je potreban"
+
+msgid ""
+"Ping test fail\n"
+"Press exit"
+msgstr ""
+
+msgid "Ping test pass"
+msgstr ""
+
+msgid ""
+"Place the USB-flash drive in the (front) USB-port and switch the receiver "
+"off and on with the powerswitch on the back of the receiver."
+msgstr ""
+
+#
+msgid "Play"
+msgstr "Reprodukuj"
+
+#
+msgid "Play Audio-CD..."
+msgstr "Reprodukuj audio CD"
+
+#
+msgid "Play DVD"
+msgstr "Reprodukuj DVD"
+
+#
+msgid "Play Music..."
+msgstr "Reprodukuj muziku"
+
+#
+msgid "Play recorded movies..."
+msgstr "Pokreni snimljene filmove..."
+
+#
+msgid "Please Reboot"
+msgstr "Molim podići ponovo"
+
+#
+msgid "Please Select Medium to be Scanned"
+msgstr "Molim izaberite medij za traženje"
+
+#
+msgid "Please add titles to the compilation."
+msgstr "Molim,dodaj naziv kompilaciji."
+
+msgid ""
+"Please be aware, that anyone can disable the parental control, if you have "
+"not set a PIN."
+msgstr ""
+"Molim budite svesni da svako može isključiti roditeljsku kontrolu ako niste "
+"postavili PIN."
+
+msgid ""
+"Please be patient, a backup will now be made, because of the used filesystem "
+"the back-up will take about 5-7 minutes for this system."
+msgstr ""
+
+#
+msgid "Please change recording endtime"
+msgstr "Molim promenite završno vreme snimanja"
+
+msgid ""
+"Please check again.\n"
+"Frequency : start value is larger than stop value."
+msgstr ""
+
+msgid ""
+"Please check again.\n"
+"Start frequency must be between 950 and 2150."
+msgstr ""
+
+msgid ""
+"Please check again.\n"
+"Start symbolrate must be between 2MHz and 45MHz."
+msgstr ""
+
+msgid ""
+"Please check again.\n"
+"Stop frequency must be between 950 and 2150."
+msgstr ""
+
+msgid ""
+"Please check again.\n"
+"Stop symbolrate must be between 2MHz and 45MHz."
+msgstr ""
+
+msgid ""
+"Please check again.\n"
+"Symbolrate : start value is larger than stop value."
+msgstr ""
+
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr ""
+
+msgid "Please choose an HbbTV application."
+msgstr ""
+
+#
+msgid "Please choose an extension..."
+msgstr "Molim odaberite proširenje..."
+
+#
+msgid "Please choose he package..."
+msgstr "Molim izaberite programski paket"
+
+msgid "Please choose one."
+msgstr ""
+
+#
+msgid "Please choose the default services lists you want to install."
+msgstr "Molim izaberite standardnu listu kanala za instalaciju."
+
+msgid "Please choose."
+msgstr ""
+
+#
+msgid ""
+"Please configure your internet connection by filling out the required "
+"values.\n"
+"When you are ready press OK to continue."
+msgstr ""
+"Molim konfiguriši svoju internet vezu popunjavajući tražene vrednosti.\n"
+"Kad si spreman pritisni OK da nastaviš."
+
+#
+msgid "Please do not change any values unless you know what you are doing!"
+msgstr "Molim ne menjate vrednosti ukoliko ne znate šta radite!"
+
+msgid "Please enter URL here"
+msgstr ""
+
+#
+msgid "Please enter a name for the new bouquet"
+msgstr "Molim unesite ime za novi buket "
+
+#
+msgid "Please enter a name for the new marker"
+msgstr "Molim unesite ime za novu oznaku"
+
+#
+msgid "Please enter a new filename"
+msgstr "Molim unesite novo ime datoteke"
+
+#
+msgid "Please enter filename (empty = use current date)"
+msgstr "Molim unesite ime datoteke (prazno = koristi današnji datum)"
+
+#
+msgid "Please enter name of the new directory"
+msgstr "Molimo unesite ime novog direktorijuma"
+
+#
+msgid "Please enter the correct pin code"
+msgstr "Molim unesite ispravan pin kod"
+
+msgid "Please enter the old PIN code"
+msgstr "Molim unesite stari PIN kod"
+
+#
+msgid "Please follow the instructions on the TV"
+msgstr "Molim,pratite uputstva na TV-u"
+
+#
+msgid ""
+"Please note that the previously selected media could not be accessed and "
+"therefore the default directory is being used instead."
+msgstr ""
+"Molim primetite da prethodno odabrani medij ne može biti dostupan i zbog "
+"toga se koristi standardni direktorijum."
+
+#
+msgid "Please press OK to continue."
+msgstr "Molim pritisnite OK za nastavak"
+
+#
+msgid "Please press OK!"
+msgstr "Molim pritisnite OK!"
+
+#
+msgid "Please select a playlist to delete..."
+msgstr "Molim odaberite plejlistu za brisanje..."
+
+#
+msgid "Please select a playlist..."
+msgstr "Molim odaberite plejlistu..."
+
+#
+msgid "Please select a subservice to record..."
+msgstr "Molim odaberite podkanal za snimanje..."
+
+#
+msgid "Please select a subservice..."
+msgstr "Molim odaberite podkanal..."
+
+#
+msgid "Please select medium to use as backup location"
+msgstr "Molim izaberite medij da se koristi kao lokacija za sigurnosnu kopiju"
+
+#
+msgid "Please select tag to filter..."
+msgstr "Molim izaberite oznaku za filter"
+
+msgid "Please select the destination path..."
+msgstr ""
+
+#
+msgid "Please select the movie path..."
+msgstr "Molim izaberite putanju filma..."
+
+#
+msgid ""
+"Please select the network interface that you want to use for your internet "
+"connection.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+"Molim izaberi mrežni interfejs koji želiš da koristiš za svoju internet "
+"vezu.\n"
+"\n"
+"Molim pritisni OK da nastaviš."
+
+#
+msgid ""
+"Please select the wireless network that you want to connect to.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+"Molim izaberi bežičnu mrežu na koju želiš da se spojiš.\n"
+"\n"
+"Molim pritisni OK da nastaviš."
+
+#
+msgid "Please set up tuner B"
+msgstr "Molim podesite tuner B"
+
+#
+msgid "Please set up tuner C"
+msgstr "Molim podesite tuner C"
+
+#
+msgid "Please set up tuner D"
+msgstr "Molim podesite tuner D"
+
+msgid "Please setup your tuner configuration."
+msgstr ""
+
+#
+msgid ""
+"Please use direction keys to move the PiP window.\n"
+"Press Bouquet +/- to resize the window.\n"
+"Press OK to go back to the TV mode or EXIT to cancel the moving."
+msgstr ""
+"Molim koristite tipke sa strelicama za premeštanje SuS prozora.\n"
+"Pritisnite Bouquet +/- tipke za promenu veličine prozora.\n"
+"Pritisnite OK za povratak u TV mod ili EXIT za prekid premeštanja."
+
+#
+msgid ""
+"Please use the UP and DOWN keys to select your language. Afterwards press "
+"the OK button."
+msgstr ""
+"Molim koristite UP i DOWN tipke da izaberete jezik.Posle toga pritisnite OK "
+"dugme."
+
+msgid "Please wait during download."
+msgstr ""
+
+msgid "Please wait for AP Configuration....\n"
+msgstr ""
+
+#
+msgid "Please wait for activation of your network configuration..."
+msgstr "Molim sačekajte za aktiviranje vaše mrežne konfiguracije..."
+
+msgid "Please wait for scanning AP..."
+msgstr ""
+
+#
+msgid "Please wait while scanning is in progress..."
+msgstr "Molim sačekajte dok je pretraživanje u toku..."
+
+#
+msgid "Please wait while we configure your network..."
+msgstr "Molim sačekajte dok konfigurišemo vašu mrežu..."
+
+#
+msgid "Please wait while we prepare your network interfaces..."
+msgstr "Molim sačekajte dok pripremimo vaše mrežne interfejse..."
+
+#
+msgid "Please wait while we test your network..."
+msgstr "Molim sačekajte dok testiramo vašu mrežu..."
+
+#
+msgid "Please wait while your network is restarting..."
+msgstr "Molim sačekajte dok se vaša mreža ponovo startuje"
+
+msgid "Please wait, Loading image."
+msgstr ""
+
+#
+msgid "Please wait..."
+msgstr "Molim sačekajte"
+
+#
+msgid "Please wait... Loading list..."
+msgstr "Molim pričekajte... Učitavam listu..."
+
+msgid "Please wait.... almost ready!"
+msgstr ""
+
+msgid "Plugin Browser"
+msgstr ""
+
+#
+msgid "Plugin browser"
+msgstr "Pretraživač dodataka"
+
+#
+msgid "Plugin manager activity information"
+msgstr "Info o aktivnosti menadžera dodataka"
+
+#
+msgid "Plugin manager help"
+msgstr "Menadžer dodataka,pomoć"
+
+#
+msgid "Plugins"
+msgstr "Dodaci"
+
+#
+msgid "Polarity"
+msgstr "Polaritet"
+
+#
+msgid "Polarization"
+msgstr "Polarizacija"
+
+#
+msgid "Polish"
+msgstr "Poljski"
+
+#
+msgid "Port"
+msgstr "Port"
+
+#
+msgid "Port A"
+msgstr "Port A"
+
+#
+msgid "Port B"
+msgstr "Port B"
+
+#
+msgid "Port C"
+msgstr "Port C"
+
+#
+msgid "Port D"
+msgstr "Port D"
+
+#
+msgid "Portuguese"
+msgstr "Portugalski"
+
+msgid "Position of finished Timers in Timerlist"
+msgstr "Pozicija završenog tajmera u listi tajmera"
+
+#
+msgid "Positioner"
+msgstr "Pozicioner"
+
+#
+msgid "Positioner fine movement"
+msgstr "Fini pokreti motora"
+
+#
+msgid "Positioner movement"
+msgstr "Pokret motora"
+
+#
+msgid "Positioner setup"
+msgstr "Postavke motora"
+
+#
+msgid "Positioner storage"
+msgstr "Čuvanje motora"
+
+#
+msgid "Power threshold in mA"
+msgstr "Granica snage u mA"
+
+msgid "Preamble"
+msgstr ""
+
+#
+msgid "Predefined transponder"
+msgstr "Predefinisani transponder"
+
+msgid "Prefer specific tuner"
+msgstr ""
+
+msgid "Preference"
+msgstr ""
+
+#
+msgid "Preparing... Please wait"
+msgstr "Pripremam... Molim pričekajte"
+
+msgid "Press 'EXIT' key to finish tune test."
+msgstr ""
+
+msgid "Press Front CH +"
+msgstr ""
+
+msgid "Press Front CH -"
+msgstr ""
+
+msgid "Press Front STANDBY"
+msgstr ""
+
+msgid "Press Front VOL +"
+msgstr ""
+
+msgid "Press Front VOL -"
+msgstr ""
+
+msgid "Press Front Wheel"
+msgstr ""
+
+msgid "Press Green/OK to start the scan"
+msgstr ""
+
+msgid "Press INFO on your remote control for additional information."
+msgstr "Pritisni INFO na svom daljinskom za dodatne informacije."
+
+msgid "Press MENU on your remote control for additional options."
+msgstr "Pritisni MENI na svom daljinskom za dodatne opcije."
+
+#
+msgid "Press OK on your remote control to continue."
+msgstr "Pritisnite OK na daljinskom upravljaču da nastavite."
+
+#
+msgid "Press OK to activate the selected skin."
+msgstr "Pritisnite OK za aktiviranje izabrane maske."
+
+#
+msgid "Press OK to activate the settings."
+msgstr "Pritisnite OK za aktiviranje postavki."
+
+#
+msgid "Press OK to edit the settings."
+msgstr "Pritisnite OK da uredite postavke."
+
+#
+#, python-format
+msgid "Press OK to get further details for %s"
+msgstr "Pritisnite OK da dobijete dodatne detalje za %s"
+
+#
+msgid "Press OK to scan"
+msgstr "Pritisnite OK za skeniranje"
+
+#
+msgid "Press OK to select a Provider."
+msgstr "Pritisnite OK da izaberete provajdera."
+
+#
+msgid "Press OK to select/deselect a CAId."
+msgstr "Pritisni OK da izabereš/odbaciš CAId"
+
+#
+msgid "Press OK to start the scan"
+msgstr "Pritisnite OK za početak skeniranja"
+
+#
+msgid "Press OK to toggle the selection."
+msgstr "Pritisnite OK da prebacite izbor."
+
+msgid "Press arrow up from frontpanel to start loading."
+msgstr ""
+
+#
+msgid "Press yellow to set this interface as default interface."
+msgstr "Pritisni žuto da postaviš ovaj interfejs kao osnovni interfejs."
+
+#
+msgid "Prev"
+msgstr "Pred"
+
+#
+msgid "Preview menu"
+msgstr "Pregled menia"
+
+#
+msgid "Primary DNS"
+msgstr "Primarni DNS"
+
+msgid "Prioritize updates of packages (--force-overwrite)"
+msgstr ""
+
+#
+msgid "Priority"
+msgstr "Prioritet"
+
+#
+msgid "Process"
+msgstr "Izvođenje"
+
+#
+msgid "Properties of current title"
+msgstr "Svojstva tekućeg naziva"
+
+#
+msgid "Protect services"
+msgstr "Zaštiti kanale"
+
+#
+msgid "Protect setup"
+msgstr "Zaštitite postavke"
+
+#
+msgid "Provider"
+msgstr "Provajder"
+
+#
+msgid "Provider to scan"
+msgstr "Provajderi za skeniranje"
+
+#
+msgid "Providers"
+msgstr "Provajderi"
+
+#
+msgid "Python frontend for /tmp/mmi.socket"
+msgstr "Čeoni python za /tmp/mmi.socket"
+
+#
+msgid "Quick"
+msgstr "Brzo"
+
+#
+msgid "Quickzap"
+msgstr "Brzizap"
+
+#
+msgid "RC Menu"
+msgstr "RC meni"
+
+msgid "REC button long press"
+msgstr ""
+
+msgid "REC button press"
+msgstr ""
+
+#
+msgid "RF output"
+msgstr "RF Izlaz"
+
+#
+msgid "RGB"
+msgstr "RGB"
+
+msgid ""
+"RS232 Test Failed!\n"
+"Press 'EXIT' button!"
+msgstr ""
+
+msgid "RTS Threshold (0~2347)"
+msgstr ""
+
+#
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Ralink"
+msgstr "Ralink"
+
+#
+msgid "Ram Disk"
+msgstr "Ram Disk"
+
+#
+msgid "Random"
+msgstr "Slučajan"
+
+#
+msgid "Really close without saving settings?"
+msgstr "Želite li stvarno zatvoriti bez čuvanja postavki ?"
+
+#
+msgid "Really delete done timers?"
+msgstr "Želite li stvarno obrisati završene tajmere?"
+
+#
+msgid "Really exit the subservices quickzap?"
+msgstr "Želite li stvarno izaći iz brzog zapa podkanala?"
+
+#
+msgid "Really reboot now?"
+msgstr "Stvarno ponovo podići sada?"
+
+#
+msgid "Really restart now?"
+msgstr "Stvarno restartovati sada?"
+
+#
+msgid "Really shutdown now?"
+msgstr "Stvarno ugasiti sada?"
+
+msgid "Realtek"
+msgstr ""
+
+#, python-format
+msgid ""
+"Reboot after %d seconds.\n"
+"Press the OK to reboot now."
+msgstr ""
+
+#, python-format
+msgid "Reboot in %d seconds. Press OK to reboot now."
+msgstr ""
+
+#
+msgid "Reception Settings"
+msgstr "Postavke prijema"
+
+msgid "Record"
+msgstr "Snimanje "
+
+#
+#, python-format
+msgid "Record time limited due to conflicting timer %s"
+msgstr "Vreme snimanja ograničeno zbog tajmer konflikta %s"
+
+#
+msgid "Recorded files..."
+msgstr "Snimljene datoteke..."
+
+#
+msgid "Recording"
+msgstr "Snimanje"
+
+msgid "Recording Menu"
+msgstr ""
+
+#
+msgid "Recording paths"
+msgstr "Putanje snimanja"
+
+#
+msgid "Recording(s) are in progress or coming up in few seconds!"
+msgstr "Snimanje u toku ili počinje za nekoliko sekundi!"
+
+#
+msgid "Recordings"
+msgstr "Snimanja"
+
+#
+msgid "Recordings always have priority"
+msgstr "Snimanje uvek ima prioritet"
+
+msgid "Red button..."
+msgstr ""
+
+msgid "Reenter new PIN"
+msgstr "Ponovo unesi novi PIN"
+
+msgid "Refresh rate selection"
+msgstr ""
+
+#
+msgid "Reload"
+msgstr "Ponovo ubaciti"
+
+#
+msgid "Reload Black-/Whitelists"
+msgstr "Ponovo učitaj Black-/Whitelists"
+
+msgid "Reload Device"
+msgstr ""
+
+msgid "Remember service PIN"
+msgstr "Zapamti PIN kanala"
+
+msgid "Remember service PIN cancel"
+msgstr "Remember service PIN,otkazano"
+
+msgid "Remote Control System Code"
+msgstr ""
+
+msgid "RemoteControlCode"
+msgstr ""
+
+#, python-format
+msgid "Removable : %s"
+msgstr ""
+
+#
+msgid "Remove"
+msgstr "Ukloniti"
+
+#
+msgid "Remove Bookmark"
+msgstr "Ukloniti oznaku"
+
+#
+msgid "Remove Plugins"
+msgstr "Obriši dodatak"
+
+#
+msgid "Remove a mark"
+msgstr "Obriši oznaku"
+
+#
+msgid "Remove currently selected title"
+msgstr "Ukloni trenutno odabrani titl"
+
+msgid "Remove finished timers from timer list"
+msgstr ""
+
+#
+msgid "Remove finished."
+msgstr "Uklanjanje završeno."
+
+#
+msgid "Remove plugins"
+msgstr "Obriši dodatke"
+
+#
+msgid "Remove timer"
+msgstr "Ukloniti tajmer"
+
+#
+msgid "Remove title"
+msgstr "Ukloni titl"
+
+#
+msgid "Removing"
+msgstr "Uklanjanje"
+
+#
+#, python-format
+msgid "Removing directory %s failed. (Maybe not empty.)"
+msgstr "Uklanjanje direktorijuma %s nije uspelo.(Možda nije prazan.)"
+
+#
+msgid "Rename"
+msgstr "Preimenovati"
+
+#
+msgid "Repeat"
+msgstr "Ponoviti"
+
+#
+msgid "Repeat Type"
+msgstr "Tip ponavljanja"
+
+#
+msgid "Repeating event currently recording... What do you want to do?"
+msgstr "Snimanje ponovljenog događaja je u toku...Šta želite da učinite?"
+
+#
+msgid "Repeats"
+msgstr "Ponavljanja"
+
+msgid "Replace service name with next event info (big picons mode)"
+msgstr ""
+
+msgid "Reply timeout"
+msgstr ""
+
+#
+msgid "Required medium type:"
+msgstr "Potrebni tip medija:"
+
+#
+msgid "Reset"
+msgstr "Resetujte"
+
+#
+msgid "Reset and renumerate title names"
+msgstr "Resetujte i prebrojte imena naslova"
+
+#
+msgid "Reset video enhancement settings to system defaults?"
+msgstr "Resetuj postavke video poboljšavanja na osnovne sistema?"
+
+#
+msgid "Reset video enhancement settings to your last configuration?"
+msgstr "Resetuj postavke video poboljšavanja na tvoju zadnju konfiguraciju?"
+
+#
+msgid "Resolution"
+msgstr "Rezolucija"
+
+#
+msgid "Restart"
+msgstr "Restart"
+
+#
+msgid "Restart GUI"
+msgstr "Restartaj GUI"
+
+#
+msgid "Restart GUI now?"
+msgstr "Restart GUI sada?"
+
+#
+msgid "Restart network"
+msgstr "Restartujte mrežu"
+
+#
+msgid "Restart test"
+msgstr "Ponovite test"
+
+#
+msgid "Restart your network connection and interfaces.\n"
+msgstr "Restartujte vašu mrežnu vezu i interfejse.\n"
+
+#
+msgid "Restore"
+msgstr "Vrati "
+
+#
+msgid "Restore backups"
+msgstr "Vrati bekape"
+
+#
+msgid "Restore is running..."
+msgstr "Vraćanje u toku..."
+
+#
+msgid "Restore running"
+msgstr "Vraćanje u toku"
+
+#
+msgid "Restore system settings"
+msgstr "Vratite sistemske postavke"
+
+#
+msgid "Resume from last position"
+msgstr "Nastavite sa poslednje pozicije"
+
+#
+#, python-format
+msgid "Resume position at %s"
+msgstr "Nastavi poziciju od %s"
+
+#
+#. TRANSLATORS: The string "Resuming playback" flashes for a moment
+#. TRANSLATORS: at the start of a movie, when the user has selected
+#. TRANSLATORS: "Resume from last position" as start behavior.
+#. TRANSLATORS: The purpose is to notify the user that the movie starts
+#. TRANSLATORS: in the middle somewhere and not from the beginning.
+#. TRANSLATORS: (Some translators seem to have interpreted it as a
+#. TRANSLATORS: question or a choice, but it is a statement.)
+msgid "Resuming playback"
+msgstr "Nastavite reprodukciju"
+
+msgid "Return"
+msgstr ""
+
+msgid "Return the Love Event"
+msgstr ""
+
+#
+msgid "Return to file browser"
+msgstr "Vratite se na pretraživač datoteka"
+
+#
+msgid "Return to movie list"
+msgstr "Vratite se na listu filmova"
+
+#
+msgid "Return to previous service"
+msgstr "Vratite se na prethodni kanal"
+
+#
+msgid "Rewind speeds"
+msgstr "Brzine premotavanja nazad"
+
+#
+msgid "Right"
+msgstr "Desno"
+
+msgid "Right Key"
+msgstr ""
+
+msgid "Right Mouse Button"
+msgstr ""
+
+msgid "Roll-off"
+msgstr "Kotrljanje"
+
+#
+msgid "Rotor turning speed"
+msgstr "Brzina okretanja rotora"
+
+msgid "Run at the Deep Standby"
+msgstr ""
+
+#
+msgid "Running"
+msgstr "Pokrenuto"
+
+#
+msgid "Russian"
+msgstr "Ruski"
+
+#
+msgid "S-Video"
+msgstr "S-Video"
+
+msgid ""
+"SET FAILED!\n"
+"Please update to the latest driver"
+msgstr ""
+
+msgid "SID"
+msgstr "SID"
+
+#
+msgid "SINGLE LAYER DVD"
+msgstr "JEDNOSLOJNI DVD"
+
+#
+msgid "SNR"
+msgstr "SNR"
+
+#
+msgid "SNR:"
+msgstr "SNR:"
+
+msgid "SPDIF"
+msgstr ""
+
+msgid "SSID (1~32 Characters)"
+msgstr ""
+
+#
+msgid "SSID:"
+msgstr "SSID:"
+
+msgid "STB format data DVD (HDTV compatible)"
+msgstr ""
+
+msgid "STB software because updates are available."
+msgstr ""
+
+#
+msgid "Sat"
+msgstr "Sat"
+
+#
+msgid "Sat / Dish Setup"
+msgstr "Sat / Anten. Postavke"
+
+msgid ""
+"Sata & extend hdd test error\n"
+"Press 'EXIT' button!"
+msgstr ""
+
+msgid ""
+"Sata & extend hdd test pass\n"
+"Press 'OK' button!"
+msgstr ""
+
+#
+msgid "Satellite"
+msgstr "Satelit"
+
+#
+msgid "Satellite Equipment Setup"
+msgstr "Postavke satelitske opreme"
+
+#
+msgid "Satellite equipment"
+msgstr "Satelitska oprema"
+
+#
+msgid "Satellites"
+msgstr "Sateliti"
+
+#
+msgid "Satfinder"
+msgstr "Sat tražitelj"
+
+#
+msgid "Sats"
+msgstr "Sats"
+
+#
+msgid "Saturation"
+msgstr "Zasićenje"
+
+#
+msgid "Saturday"
+msgstr "Subota"
+
+#
+msgid "Save"
+msgstr "Sačuvajte"
+
+msgid "Save EPG for X days in future"
+msgstr ""
+
+#
+msgid "Save Playlist"
+msgstr "Sačuvaj plejlistu"
+
+#
+msgid "Scaler sharpness"
+msgstr "Brojač oštrine"
+
+#
+msgid "Scaling Mode"
+msgstr "Mod skaliranja"
+
+#
+msgid "Scan "
+msgstr "Skeniraj"
+
+#
+msgid "Scan Files..."
+msgstr "Pretraži datoteke"
+
+#
+msgid "Scan QAM128"
+msgstr "Skeniraj QAM128"
+
+#
+msgid "Scan QAM16"
+msgstr "Skeniraj QAM16"
+
+#
+msgid "Scan QAM256"
+msgstr "Skeniraj QAM256"
+
+#
+msgid "Scan QAM32"
+msgstr "Skeniraj QAM32"
+
+#
+msgid "Scan QAM64"
+msgstr "Skeniraj QAM64"
+
+#
+msgid "Scan SR6875"
+msgstr "Skeniraj SR6875"
+
+#
+msgid "Scan SR6900"
+msgstr "Skeniraj SR6900"
+
+msgid "Scan Wireless AP"
+msgstr ""
+
+#
+msgid "Scan Wireless Networks"
+msgstr "Pretražite bežičnu mrežu"
+
+#
+msgid "Scan additional SR"
+msgstr "Skeniraj dodatne SR"
+
+msgid "Scan band"
+msgstr ""
+
+#
+msgid "Scan band EU HYPER"
+msgstr "Skeniraj band EU HYPER"
+
+#
+msgid "Scan band EU MID"
+msgstr "Skeniraj band EU MID"
+
+#
+msgid "Scan band EU SUPER"
+msgstr "Skeniraj band EU SUPER"
+
+#
+msgid "Scan band EU UHF IV"
+msgstr "Skeniraj band EU UHF IV"
+
+#
+msgid "Scan band EU UHF V"
+msgstr "Skeniraj band EU UHF V"
+
+#
+msgid "Scan band EU VHF I"
+msgstr "Skeniraj band EU VHF I"
+
+#
+msgid "Scan band EU VHF III"
+msgstr "Skeniraj band EU VHF III"
+
+#
+msgid "Scan band US HIGH"
+msgstr "Skeniraj band US HIGH"
+
+#
+msgid "Scan band US HYPER"
+msgstr "Skeniraj band US HYPER"
+
+#
+msgid "Scan band US LOW"
+msgstr "Skeniraj band US LOW"
+
+#
+msgid "Scan band US MID"
+msgstr "Skeniraj band US MID"
+
+#
+msgid "Scan band US SUPER"
+msgstr "Skeniraj band US SUPER"
+
+msgid "Scan start frequency"
+msgstr ""
+
+msgid "Scan start symbolrate"
+msgstr ""
+
+msgid "Scan stop frequency"
+msgstr ""
+
+msgid "Scan stop symbolrate"
+msgstr ""
+
+msgid ""
+"Scan your network for wireless access points and connect to them using your "
+"selected wireless device.\n"
+msgstr ""
+"Pretraži svoju mrežu za bežične pristupne tačke i poveži se s njima "
+"koristeći svoj izabrani bežični uređaj.\n"
+
+msgid "Scanning AP List.."
+msgstr ""
+
+#
+msgid ""
+"Scans default lamedbs sorted by satellite with a connected dish positioner"
+msgstr ""
+"Pretražuje osnovne lamedbs razvrstane po satelitima sa povezanim antenskim "
+"pozicionerom"
+
+msgid "Scart loop ok?"
+msgstr ""
+
+#
+msgid "Search east"
+msgstr "Pretraži istok"
+
+#
+msgid "Search west"
+msgstr "Pretraži zapad"
+
+#
+msgid "Searching for available updates. Please wait..."
+msgstr "Traženje dostupnih ažuriranja.Molim sačekajte..."
+
+#
+msgid "Searching for new installed or removed packages. Please wait..."
+msgstr "Traženje novih instaliranih ili uklonjenih paketa.Molim sačekajte..."
+
+#
+msgid "Secondary DNS"
+msgstr "Sekundarni DNS"
+
+#
+msgid "Seek"
+msgstr "Traži"
+
+#
+msgid "Select"
+msgstr "Izaberi"
+
+#, python-format
+msgid "Select %s button function :"
+msgstr ""
+
+#
+msgid "Select HDD"
+msgstr "Odaberi hard disk"
+
+#
+msgid "Select Location"
+msgstr "Izaberi lokaciju"
+
+#
+msgid "Select Network Adapter"
+msgstr "Odaberi mrežni adapter"
+
+msgid "Select Wireless Lan module. \n"
+msgstr ""
+
+#
+msgid "Select a movie"
+msgstr "Odaberi film"
+
+#
+msgid "Select audio track"
+msgstr "Odaberite zvučni zapis"
+
+#
+msgid "Select channel to record from"
+msgstr "Odaberite kanal za snimanje od"
+
+msgid "Select files for backup."
+msgstr "Izaberi datoteke za bekap."
+
+#
+msgid "Select files/folders to backup"
+msgstr "Izaberi datoteke/fascikle za bekap"
+
+msgid "Select input device"
+msgstr "Izaberi ulazni uređaj"
+
+msgid "Select input device."
+msgstr "Izaberi ulazni uređaj."
+
+#
+msgid "Select interface"
+msgstr "Izaberite interfejs "
+
+#
+msgid "Select provider to add..."
+msgstr "Izaberi provajdera za dodavanje"
+
+#
+msgid "Select refresh rate"
+msgstr "Izaberi vreme osvežavanja"
+
+#
+msgid "Select service to add..."
+msgstr "Izaberi kanal za dodavanje..."
+
+#
+msgid "Select upgrade source to edit."
+msgstr "Izaberi izvor nadodradnje za uređivanje."
+
+#
+msgid "Select video mode"
+msgstr "Izaberi video mod"
+
+msgid "Select video port"
+msgstr ""
+
+#
+msgid "Select wireless network"
+msgstr "Izaberite bežičnu mrežu"
+
+#
+msgid "Send DiSEqC"
+msgstr "Poslati DISEqC"
+
+#
+msgid "Send DiSEqC only on satellite change"
+msgstr "Poslati DISEqC samo kod promene satelita"
+
+#
+msgid "Seperate titles with a main menu"
+msgstr "Odvojite naslove sa glavnim meniem"
+
+#
+msgid "Sequence repeat"
+msgstr "Ponovi redosled"
+
+#
+msgid "Serbian"
+msgstr "Srpski"
+
+msgid "Server"
+msgstr ""
+
+msgid "Server Name"
+msgstr ""
+
+#
+msgid "Service"
+msgstr "Kanal"
+
+msgid "Service EPGBar"
+msgstr ""
+
+msgid "Service List"
+msgstr ""
+
+#
+msgid "Service Scan"
+msgstr "Skeniranje Kanala"
+
+#
+msgid "Service Searching"
+msgstr "Pretraživanje kanala"
+
+#
+msgid "Service has been added to the favourites."
+msgstr "Kanal je dodat u listu favorita."
+
+#
+msgid "Service has been added to the selected bouquet."
+msgstr "Kanal je dodat u odabrani buket."
+
+#
+msgid ""
+"Service invalid!\n"
+"(Timeout reading PMT)"
+msgstr ""
+"Neispravan kanal!\n"
+"(Isteklo čitanje PMT)"
+
+#
+msgid ""
+"Service not found!\n"
+"(SID not found in PAT)"
+msgstr ""
+"Kanal nije pronađen!\n"
+"(SID nije pronađen u PAT)"
+
+msgid "Service reference"
+msgstr "Kanal referenca"
+
+#
+msgid "Service scan"
+msgstr "Skeniranje kanala"
+
+#
+msgid ""
+"Service unavailable!\n"
+"Check tuner configuration!"
+msgstr ""
+"Kanal nije dostupan!\n"
+"Proverite konfiguraciju tjunera"
+
+#
+msgid "Serviceinfo"
+msgstr "Info kanala"
+
+#
+msgid "Services"
+msgstr "Kanali"
+
+#
+msgid "Set End Time"
+msgstr "Podesi završno vreme"
+
+msgid "Set VU device name:"
+msgstr ""
+
+#
+msgid "Set Voltage and 22KHz"
+msgstr "Podesi napon i 22Khz"
+
+msgid "Set as Startpage"
+msgstr ""
+
+#
+msgid "Set interface as default Interface"
+msgstr "Postavi interfejs kao osnovni interfejs"
+
+#
+msgid "Set limits"
+msgstr "Postavi limite"
+
+msgid "Set up Default Mount Point"
+msgstr ""
+
+msgid "Setting"
+msgstr ""
+
+#
+msgid "Settings"
+msgstr "Postavke"
+
+#
+msgid "Setup"
+msgstr "Podešavanje"
+
+msgid "Setup - Movies / Timers"
+msgstr ""
+
+msgid "Setup - Service List"
+msgstr ""
+
+msgid "Setup - Subtitles"
+msgstr ""
+
+msgid "Setup - System"
+msgstr ""
+
+msgid "Setup - TV / Radio"
+msgstr ""
+
+msgid "Setup - User Interface"
+msgstr ""
+
+msgid "Setup LED brightness and blink interval"
+msgstr ""
+
+#
+msgid "Setup Mode"
+msgstr "Mod postavki"
+
+msgid "Setup mode"
+msgstr ""
+
+msgid "Setup picon directory for service list"
+msgstr ""
+
+msgid "Setup primary picon directory"
+msgstr ""
+
+#
+msgid "Sharpness"
+msgstr "Oštrina"
+
+msgid "Short filenames"
+msgstr "Kratka imena datoteka"
+
+#, python-format
+msgid "Short name for button  %s:"
+msgstr ""
+
+msgid "Show DVB subtitles centered"
+msgstr ""
+
+msgid "Show Device"
+msgstr ""
+
+msgid "Show ECM info"
+msgstr ""
+
+msgid "Show EPG data in single EPG list older than"
+msgstr ""
+
+#
+msgid "Show Info"
+msgstr "Prikaži info"
+
+#
+msgid "Show Message when Recording starts"
+msgstr "Pokaži poruku kad snimanje počne"
+
+msgid "Show Now/Next EIT EPG at InfoBar"
+msgstr ""
+
+#
+msgid "Show WLAN Status"
+msgstr "Prikaži status WLAN-a"
+
+#
+msgid "Show blinking clock in display during recording"
+msgstr "Prikaži trepćući sat na displeju tokom snimanja"
+
+msgid "Show blinking rec symbol in VFD during recording"
+msgstr ""
+
+msgid "Show directories in movie list"
+msgstr ""
+
+msgid "Show event progress in % in service list"
+msgstr ""
+
+msgid "Show event time in service list"
+msgstr ""
+
+#
+msgid "Show event-progress in channel selection"
+msgstr "Pokaži napredak događaja u izboru kanala"
+
+msgid "Show favourite list with bouquet-up"
+msgstr ""
+
+msgid "Show icons in movie list"
+msgstr ""
+
+msgid "Show icons in timer list"
+msgstr ""
+
+#
+msgid "Show infobar on channel change"
+msgstr "Prikaži info traku na promeni kanala"
+
+#
+msgid "Show infobar on event change"
+msgstr "Prikaži info traku pri promeni događaja"
+
+#
+msgid "Show infobar on skip forward/backward"
+msgstr "Prikaži info traku na preskakanju napred/nazad"
+
+msgid "Show menu entries arranged in alphabetical order"
+msgstr ""
+
+msgid "Show on the Standby Menu"
+msgstr ""
+
+msgid "Show picon at number zap"
+msgstr ""
+
+msgid "Show picons in service list"
+msgstr ""
+
+msgid "Show plugin entries arranged in alphabetical order"
+msgstr ""
+
+#
+msgid "Show positioner movement"
+msgstr "Prikaži kretanje motora"
+
+msgid "Show progress in movie list"
+msgstr ""
+
+msgid "Show service list at TV / Radio mode switch"
+msgstr ""
+
+msgid "Show service name at number zap"
+msgstr ""
+
+msgid "Show service number in service list"
+msgstr ""
+
+msgid "Show service type icons in service list"
+msgstr ""
+
+#
+msgid "Show services beginning with"
+msgstr "Prikaži kanale koji počinju sa"
+
+msgid "Show the Menu window."
+msgstr ""
+
+msgid "Show the Subtitle..."
+msgstr ""
+
+msgid "Show the Virtual keyboard window."
+msgstr ""
+
+#
+msgid "Show the radio player..."
+msgstr "Prikaži radio plejer ..."
+
+#
+msgid "Show the tv player..."
+msgstr "Prikaži tv plejer..."
+
+msgid "Show timer icon for recording services"
+msgstr ""
+
+msgid "Show zap notification for recordings"
+msgstr ""
+
+#
+msgid "Shows the state of your wireless LAN connection.\n"
+msgstr "Prikaži stanje vaše bežične LAN veze.\n"
+
+#
+msgid "Shutdown"
+msgstr "Isključivanje"
+
+msgid "Shutdown STB after"
+msgstr ""
+
+msgid "Side by Side"
+msgstr ""
+
+#
+msgid "Signal Strength:"
+msgstr "Jačina signala:"
+
+#
+msgid "Signal: "
+msgstr "Signal: "
+
+#
+msgid "Similar"
+msgstr "Slično"
+
+#
+msgid "Similar broadcasts:"
+msgstr "Slične emisije:"
+
+#
+msgid "Simple"
+msgstr "Jednostavno"
+
+#
+msgid "Simple titleset (compatibility for legacy players)"
+msgstr "Jednostavne postavke naslova (kompatibilnost za legacy plejere)"
+
+#
+msgid "Single"
+msgstr "Jedan"
+
+#
+msgid "Single EPG"
+msgstr "Jedan EPG"
+
+msgid "Single Service EPG"
+msgstr ""
+
+#
+msgid "Single satellite"
+msgstr "Jedan satelit"
+
+#
+msgid "Single transponder"
+msgstr "Jedan Transponder"
+
+#
+msgid "Singlestep (GOP)"
+msgstr "Korak po korak"
+
+#, python-format
+msgid "Size : %s"
+msgstr ""
+
+#
+msgid "Skin"
+msgstr "Maska"
+
+#
+msgid "Skins"
+msgstr "Maska"
+
+#
+msgid "Sleep Timer"
+msgstr "Tajmer spavanja"
+
+#
+msgid "Sleep timer action:"
+msgstr "Dejstvo tajmera spavanja:"
+
+msgid "Slideshow Interval"
+msgstr ""
+
+#
+msgid "Slideshow Interval (sec.)"
+msgstr "Interval pokaz.prezentacije(sek.)"
+
+#
+#, python-format
+msgid "Slot %d"
+msgstr "Otvor %d"
+
+#
+msgid "Slovakian"
+msgstr "Slovački"
+
+#
+msgid "Slovenian"
+msgstr "Slovenački"
+
+#
+msgid "Slow"
+msgstr "Sporo"
+
+#
+msgid "Slow Motion speeds"
+msgstr "Brzine usporene reprodukcije"
+
+#, python-format
+msgid ""
+"Smart Card 1 Error!\n"
+"errorcode=%d"
+msgstr ""
+
+#, python-format
+msgid ""
+"Smart Card 2 Error!\n"
+"errorcode=%d"
+msgstr ""
+
+msgid "Smart Card OK!!"
+msgstr ""
+
+msgid "Smart Card model type error"
+msgstr ""
+
+#
+msgid "Software"
+msgstr "Softver"
+
+#
+msgid "Software management"
+msgstr "Upravljač softvera "
+
+msgid "Software manager setup"
+msgstr "Podešavanje upravljača softvera"
+
+#
+msgid "Software restore"
+msgstr "Vraćanje softvera"
+
+#
+msgid "Software update"
+msgstr "Nadogradnja softvera"
+
+msgid "Softwaremanager information"
+msgstr "Informacije upravljača softvera"
+
+#
+msgid "Some plugins are not available:\n"
+msgstr "Neki dodaci nisu dostupni:\n"
+
+#
+msgid "Sorry MediaScanner is not installed!"
+msgstr "Žao mi je,MediaScanner nije instalisan"
+
+#
+msgid "Sorry no backups found!"
+msgstr "Žao mi je,nema rezervnih kopija"
+
+#
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Žao mi je,vaša destinacija za snimanje nije upisiva.\n"
+"Molim izaberite drugu."
+
+#
+msgid "Sorry, no Details available!"
+msgstr "Žao mi je,nema dostupnih detalja"
+
+#
+msgid "Sorry, video is not available!"
+msgstr "Video nije dostupan,žao mi je!"
+
+#
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Žao mi je,vaša destinacija za snimanje nije upisiva.\n"
+"\n"
+"Molim izaberite drugu."
+
+msgid "Sort"
+msgstr ""
+
+#
+#. TRANSLATORS: This must fit into the header button in the EPG-List
+msgid "Sort A-Z"
+msgstr "Sortiraj A-Z"
+
+#
+#. TRANSLATORS: This must fit into the header button in the EPG-List
+msgid "Sort Time"
+msgstr "Vreme sortiranja"
+
+#
+msgid "Sound"
+msgstr "Zvuk"
+
+#
+msgid "Soundcarrier"
+msgstr "Zvučni nosilac"
+
+#
+msgid "South"
+msgstr "Jug"
+
+#
+msgid "Spanish"
+msgstr "Španski"
+
+#
+msgid "Split preview mode"
+msgstr "Podeli mod pregleda"
+
+#
+msgid "Standby"
+msgstr "Spreman"
+
+#
+msgid "Standby / Restart"
+msgstr "Spreman / restart"
+
+#
+msgid "Start"
+msgstr "Početak"
+
+msgid "Start Page"
+msgstr ""
+
+msgid "Start folder for movie list"
+msgstr ""
+
+#
+msgid "Start from the beginning"
+msgstr "Počnite od početka"
+
+#
+msgid "Start test"
+msgstr "Počnite test"
+
+msgid "Start/Stop"
+msgstr ""
+
+#
+msgid "StartTime"
+msgstr "Početno vreme "
+
+msgid "Starting Webbrowser. Please wait..."
+msgstr ""
+
+#
+msgid "Starting on"
+msgstr "Pokrećem"
+
+msgid "Startpage"
+msgstr ""
+
+msgid "Status : 0%"
+msgstr ""
+
+msgid "Status Check Period"
+msgstr ""
+
+#
+msgid "Step east"
+msgstr "Korak na istok"
+
+#
+msgid "Step west"
+msgstr "Korak na zapad"
+
+#
+msgid "Stop"
+msgstr "Zaustavi  "
+
+msgid "Stop Timeshift (deleting TS file)"
+msgstr ""
+
+msgid "Stop Timeshift (keeping TS file)"
+msgstr ""
+
+msgid "Stop Timeshift ?"
+msgstr ""
+
+#
+msgid "Stop current event and disable coming events"
+msgstr "Zaustavi trenutni događaj i onemogući ostale dolazeće."
+
+#
+msgid "Stop current event but not coming events"
+msgstr "Zaustavi trenutni događaj ali ne i ostale dolazeće"
+
+msgid "Stop current records..."
+msgstr ""
+
+msgid "Stop fast forwarding at end of movie"
+msgstr ""
+
+#
+msgid "Stop playing this movie?"
+msgstr "Zaustaviti ovaj film?"
+
+msgid "Stop playing this stream?"
+msgstr ""
+
+#
+msgid "Stop test"
+msgstr "Zaustavite test"
+
+#
+msgid "Stop testing plane after # failed transponders"
+msgstr "Zaustavite testiranje matrice posle # neuspešnih transpondera"
+
+#
+msgid "Stop testing plane after # successful transponders"
+msgstr "Zaustavite testiranje matrice posle#uspelih transpondera"
+
+#
+msgid "Store position"
+msgstr "Snimi poziciju"
+
+#
+msgid "Stored position"
+msgstr "Snimljene pozicije"
+
+msgid "StreamTVPlayer"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+#
+msgid "Subservice list..."
+msgstr "lista podkanala..."
+
+#
+msgid "Subservices"
+msgstr "Podkanali "
+
+#
+msgid "Subtitle selection"
+msgstr "Izbor subtitlova"
+
+#
+msgid "Subtitles"
+msgstr "Subtitlovi"
+
+msgid "Succeed"
+msgstr ""
+
+msgid "Success. Press OK to exit."
+msgstr ""
+
+#
+msgid "Sun"
+msgstr "Ned"
+
+#
+msgid "Sunday"
+msgstr "Nedelja"
+
+#
+msgid "Swap Services"
+msgstr "Zameni kanale"
+
+#
+msgid "Swedish"
+msgstr "Švedski"
+
+msgid "Switch to keyboard/mouse mode."
+msgstr ""
+
+#
+msgid "Switch to next subservice"
+msgstr "prebaci na sledeći podkanal "
+
+#
+msgid "Switch to previous subservice"
+msgstr "prebaci na prethodni podkanal "
+
+#
+msgid "Switchable tuner types:"
+msgstr "Zamenljivi tipovi tjunera:"
+
+msgid "Symbol rate"
+msgstr "Simbol rata"
+
+#
+msgid "System"
+msgstr "Sistem "
+
+#
+msgid "TS file is too large for ISO9660 level 1!"
+msgstr "TS datoteka je prevelika za ISO9660 nivo 1!"
+
+msgid "TSID"
+msgstr "TSID"
+
+msgid "TV / Radio"
+msgstr ""
+
+#
+msgid "TV System"
+msgstr "TV Sistem"
+
+msgid "TV on => VU+ activity:"
+msgstr ""
+
+msgid "TV power off:"
+msgstr ""
+
+msgid "TV power on:"
+msgstr ""
+
+msgid "TV standby => VU+ activity:"
+msgstr ""
+
+msgid "TXT PID"
+msgstr "TXT PID"
+
+#
+msgid "Table of content for collection"
+msgstr "Tabela sadržaja za kolekciju"
+
+#
+msgid "Tag 1"
+msgstr "Oznaka 1"
+
+#
+msgid "Tag 2"
+msgstr "Oznaka 2"
+
+#
+msgid "Tags"
+msgstr "Oznake"
+
+msgid "Task list"
+msgstr ""
+
+msgid "Teletext subtitle color"
+msgstr ""
+
+msgid "Teletext subtitle font size"
+msgstr ""
+
+msgid "Teletext subtitle horizontal alignment"
+msgstr ""
+
+#
+msgid "Terrestrial"
+msgstr "Zemaljski"
+
+#
+msgid "Terrestrial provider"
+msgstr "Zemaljski provajder"
+
+#
+msgid "Test DiSEqC settings"
+msgstr "Testiraj DISEqC postavke"
+
+#
+msgid "Test Type"
+msgstr "Testiraj tip"
+
+#
+msgid "Test mode"
+msgstr "Test način"
+
+msgid "Test the network configuration of your STB.\n"
+msgstr ""
+
+msgid "Testing Smartcard 2..."
+msgstr ""
+
+#
+msgid ""
+"Thank you for using the wizard.\n"
+"Please press OK to continue."
+msgstr ""
+"Hvala vam na korišćenju čarobnjaka.\n"
+"Molim pritisnite OK da nastavite."
+
+msgid ""
+"Thank you for using the wizard. Your box is now ready to use.\n"
+"Please press OK to start using your STB."
+msgstr ""
+
+msgid ""
+"The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to "
+"create a STB format data DVD (which will not play in stand-alone DVD "
+"players) instead?"
+msgstr ""
+
+#
+msgid ""
+"The NetworkWizard extension is not installed!\n"
+"Please install it."
+msgstr ""
+"NetworkWizard proširenje nije instalirano!\n"
+"molim instalirajte ga."
+
+msgid "The PIN code has been changed successfully."
+msgstr "PIN kod je uspešno promenjen."
+
+msgid "The PIN codes you entered are different."
+msgstr "PIN kodovi koji ste uneli su različiti. "
+
+#
+msgid ""
+"The Softwaremanagement extension is not installed!\n"
+"Please install it."
+msgstr ""
+"Softwaremanagement proširenje nije instalirano!\n"
+"molim instalirajte ga."
+
+msgid ""
+"The VTI Info Panel is not installed!\n"
+"Please install it."
+msgstr ""
+
+msgid ""
+"The VTi InfoPanel is not installed!\n"
+"Please install it."
+msgstr ""
+
+msgid ""
+"The VTi Panel is not installed!\n"
+"Please install it."
+msgstr ""
+
+#
+msgid "The backup failed. Please choose a different backup location."
+msgstr "Neuspešna sigurnosna kopija. Molim odaberite drugu lokaciju."
+
+msgid "The content of the folder is:"
+msgstr ""
+
+#
+#, python-format
+msgid ""
+"The directory %s is not writable.\n"
+"Make sure you select a writable directory instead."
+msgstr ""
+"Direktorium %s nije za pisanje.\n"
+"Budi siguran da si umesto toga izabrao moguć direktorium."
+
+#
+msgid "The following files were found..."
+msgstr "Sledeće datoteke su pronađene..."
+
+msgid ""
+"The input port should be configured now.\n"
+"You can now configure the screen by displaying some test picture. Do you "
+"want to do that now?"
+msgstr ""
+
+#
+msgid "The installation of the default services lists is finished."
+msgstr "Instalacija osnovne liste kanala je završena."
+
+msgid ""
+"The installation of the default settings is finished. You can now continue "
+"configuring your STB by pressing the OK button on the remote control."
+msgstr ""
+
+msgid "The loopthrough setting is wrong."
+msgstr ""
+
+msgid "The number you entered is wrong!"
+msgstr ""
+
+#
+msgid "The package doesn't contain anything."
+msgstr "Paket ne sadrži ništa."
+
+#
+#, python-format
+msgid "The path %s already exists."
+msgstr "Putanja %s već postoji."
+
+#
+msgid "The pin code you entered is wrong."
+msgstr "Uneti pin kod je pogrešan."
+
+msgid "The program will exit now."
+msgstr ""
+
+#
+#, python-format
+msgid "The results have been written to %s."
+msgstr "Rezultati su zapisani u %s."
+
+#
+msgid "The sleep timer has been activated."
+msgstr "Tajmer spavanja je aktiviran."
+
+#
+msgid "The sleep timer has been disabled."
+msgstr "Tajmer je onemogućen."
+
+msgid "The sleep timer is invalid."
+msgstr ""
+
+#
+msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+msgstr "Tajmer datoteka (timers.xml) je nepravilna i ne može biti ubačena."
+
+#
+msgid ""
+"The wireless LAN plugin is not installed!\n"
+"Please install it and choose what you want to do next."
+msgstr ""
+"Bežični LAN dodatak nije instaliran!\n"
+"Molimo instalirajte ga i izaberite šta sledeće da činite."
+
+#
+msgid ""
+"The wireless LAN plugin is not installed!\n"
+"Please install it."
+msgstr ""
+"Bežični LAN dodatak nije instaliran!\n"
+"Molimo instalirajte ga."
+
+#
+msgid ""
+"The wizard can backup your current settings. Do you want to do a backup now?"
+msgstr ""
+"Čarobnjak može napraviti sigurnosnu kopiju postavki. Želite li je napraviti "
+"sada?"
+
+#
+msgid "The wizard is finished now."
+msgstr "Čarobnjak je sada gotov."
+
+#
+msgid "There are at least "
+msgstr "Postoji najmanje"
+
+#
+msgid "There are currently no outstanding actions."
+msgstr "Trenutno nema izrazitih dešavanja."
+
+#
+msgid "There are no default services lists in your image."
+msgstr "Nema osnovne liste kanala u vašem imidžu."
+
+#
+msgid "There are no default settings in your image."
+msgstr "Nema osnovnih postavki u vašem imidžu."
+
+#
+msgid "There are no updates available."
+msgstr "Nema dostupnih ažuriranja."
+
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr ""
+
+msgid ""
+"There is a valid USB-flashdrive detected in one of the USB-ports, therefore "
+"an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr ""
+
+#
+msgid ""
+"There might not be enough Space on the selected Partition.\n"
+"Do you really want to continue?"
+msgstr ""
+"Moguće je da nema dovoljno prostora na izabranoj particiji.\n"
+"Da li stvarno želite nastaviti?"
+
+#
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Greška kod skidanja liste paketa. Molimo pokušajte ponovo."
+
+#
+msgid ""
+"This DVD RW medium is already formatted - reformatting will erase all "
+"content on the disc."
+msgstr ""
+"Ovaj DVD RW medij je već formatiran-ponovno formatiranje će izbrisati ceo "
+"sadržaj diska."
+
+msgid "This Plugin doesn't support on SOLO/DUO"
+msgstr ""
+
+msgid "This Plugin only support for ULTIMO"
+msgstr ""
+
+#, python-format
+msgid "This STB can't decode %s streams!"
+msgstr ""
+
+msgid "This is dlna server using minidlna."
+msgstr ""
+
+msgid "This is dlna/upnp client using djmount."
+msgstr ""
+
+#
+msgid "This is step number 2."
+msgstr "Ovo je korak broj 2."
+
+msgid "This model is not support transcoding."
+msgstr ""
+
+msgid "This only takes about 20 seconds....."
+msgstr ""
+
+msgid ""
+"This partition is not mountable.\n"
+"You need to check or format this partition."
+msgstr ""
+
+#
+msgid "This plugin is installed."
+msgstr "Ovaj dodatak je instaliran."
+
+#
+msgid "This plugin is not installed."
+msgstr "Ovaj dodatak nije instaliran."
+
+#
+msgid "This plugin will be installed."
+msgstr "Ovaj dodatak će biti instaliran."
+
+#
+msgid "This plugin will be removed."
+msgstr "Ovaj dodatak će biti uklonjen."
+
+#
+msgid ""
+"This test checks for configured Nameservers.\n"
+"If you get a \"unconfirmed\" message:\n"
+"- please check your DHCP, cabling and Adapter setup\n"
+"- if you configured your Nameservers manually please verify your entries in "
+"the \"Nameserver\" Configuration"
+msgstr ""
+"Ovaj test proverava konfigurisane nejmservere.\n"
+"Ako dobijete poruku \"nepotvrđen\":\n"
+"-proverite vaš DHCP.kablove i postavke adaptera\n"
+"-ako ste nejmserver ručno konfigurisali,molimo proverite vaše unose u  "
+"\"Nejmserver \" konfiguraciji"
+
+#
+msgid ""
+"This test checks whether a network cable is connected to your LAN-Adapter.\n"
+"If you get a \"disconnected\" message:\n"
+"- verify that a network cable is attached\n"
+"- verify that the cable is not broken"
+msgstr ""
+"Ovaj test proverava da li je vaš mrežni kabal povezan sa LAN adapterom.\n"
+"Ako dobijete poruku \"nepovezan\":\n"
+"-proverite da je mrežni kabal uključen\n"
+"-proverite da kabal nije prekinut"
+
+msgid ""
+"This test checks whether a network cable is connected to your Wireless LAN-"
+"Adapter."
+msgstr ""
+
+#
+msgid ""
+"This test checks whether a valid IP Address is found for your LAN Adapter.\n"
+"If you get a \"unconfirmed\" message:\n"
+"- no valid IP Address was found\n"
+"- please check your DHCP, cabling and adapter setup"
+msgstr ""
+"Ovaj test proverava da li je nađena važeća IP adresa za vaš LAN adapter.\n"
+"Ako dobijete poruku \"nepotvrđeno\":\n"
+"-nije pronađena validna IP adresa\n"
+"-molimo proverite vaš DHCP,kablove i postavke adaptera "
+
+#
+msgid ""
+"This test checks whether your LAN Adapter is set up for automatic IP Address "
+"configuration with DHCP.\n"
+"If you get a \"disabled\" message:\n"
+" - then your LAN Adapter is configured for manual IP Setup\n"
+"- verify thay you have entered correct IP informations in the AdapterSetup "
+"dialog.\n"
+"If you get an \"enabeld\" message:\n"
+"-verify that you have a configured and working DHCP Server in your network."
+msgstr ""
+"Ovaj test proverava da li je vaš adapter postavljen za automatski izbor IP "
+"adrese sa DHCP.\n"
+"Ako dobijete poruku \"onemogućen \":\n"
+"-onda je vaš adapter konfigurisan za manuelne IP postavke\n"
+"-proverite da li ste uneli ispravne IP podatke u dijalog postavkama "
+"adaptera.\n"
+"Ako ste dobili poruku  \"omogućen \":\n"
+"-proverite da li u vašoj mreži postoji konfigurisan i u funkciji DHCP server."
+
+msgid ""
+"This test checks whether your Wireless LAN Adapter is set up for automatic "
+"IP Address configuration with DHCP.\n"
+"If you get a \"disabled\" message:\n"
+" - then your Wireless LAN Adapter is configured for manual IP Setup\n"
+"- verify thay you have entered correct IP informations in the AdapterSetup "
+"dialog.\n"
+"If you get an \"enabeld\" message:\n"
+"-verify that you have a configured and working DHCP Server in your network."
+msgstr ""
+
+#
+msgid "This test detects your configured LAN-Adapter."
+msgstr "Ovaj test otkriva vaš konfigurisani LAN-adapter"
+
+msgid "This test detects your configured Wireless LAN-Adapter."
+msgstr ""
+
+#
+msgid "Three"
+msgstr "Tri"
+
+#
+msgid "Threshold"
+msgstr "Prag"
+
+#
+msgid "Thu"
+msgstr "Čet"
+
+#
+msgid "Thumbnails"
+msgstr "Sličice"
+
+#
+msgid "Thursday"
+msgstr "Četvrtak"
+
+#
+msgid "Time"
+msgstr "Vreme"
+
+msgid "Time for next VFD scrolling"
+msgstr ""
+
+msgid "Time required for this process: "
+msgstr ""
+
+#
+msgid "Time/Date Input"
+msgstr "Unos Vremena/Datuma"
+
+msgid "Timeout for number zap in milliseconds"
+msgstr ""
+
+#
+msgid "Timer"
+msgstr "Tajmer"
+
+#
+msgid "Timer Edit"
+msgstr "Uređivanje tajmera"
+
+#
+msgid "Timer Editor"
+msgstr "Editor tajmera"
+
+#
+msgid "Timer Type"
+msgstr "Tip tajmera"
+
+#
+msgid "Timer entry"
+msgstr "Unos Tajmera"
+
+#
+msgid "Timer log"
+msgstr "Tajmer log"
+
+#
+msgid ""
+"Timer overlap in timers.xml detected!\n"
+"Please recheck it!"
+msgstr ""
+"Otkriveno preklapanje tajmera u timers.xml!\n"
+"Molimo ponovo proverite!"
+
+#
+msgid "Timer record location"
+msgstr "Lokacija snimanja po tajmeru"
+
+#
+msgid "Timer sanity error"
+msgstr "Greška nerazumnog tajmera"
+
+#
+msgid "Timer selection"
+msgstr "Izbor tajmera "
+
+#
+msgid "Timer status:"
+msgstr "Status tajmera:"
+
+#
+msgid "Timeshift"
+msgstr "Vrem. pomak"
+
+#
+msgid "Timeshift location"
+msgstr "Lokacija vrem. pomaka"
+
+#
+msgid "Timeshift not possible!"
+msgstr "Vrem.i pomak nije moguć!"
+
+#
+msgid "Timezone"
+msgstr "Vremenska zona"
+
+#
+msgid "Title"
+msgstr "Naslov"
+
+#
+msgid "Title properties"
+msgstr "Svojstva naziva"
+
+#
+msgid "Titleset mode"
+msgstr "Način postavki naziva"
+
+msgid ""
+"To back-up directly to the USB-stick, the USB-stick MUST contain a file with "
+"the name:"
+msgstr ""
+
+msgid "To restore the image:"
+msgstr ""
+
+#
+msgid "Today"
+msgstr "Danas"
+
+#
+msgid "Tone Amplitude"
+msgstr "Ton amplituda"
+
+#
+msgid "Tone mode"
+msgstr "Ton mod"
+
+#
+msgid "Toneburst"
+msgstr "Toneburst"
+
+#
+msgid "Toneburst A/B"
+msgstr "Toneburst A/B"
+
+msgid "Tools"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Top and Bottom"
+msgstr ""
+
+msgid "Touch LED Blinking time"
+msgstr ""
+
+msgid "Touch LED Brightness at Deep Standby"
+msgstr ""
+
+msgid "Touch LED Brightness at Normal state"
+msgstr ""
+
+msgid "Touch LED Brightness at Standby"
+msgstr ""
+
+#
+msgid "Track"
+msgstr "Trag"
+
+msgid "Transcoding"
+msgstr ""
+
+msgid "Transcoding Setup"
+msgstr ""
+
+msgid ""
+"Transcoding can be started when there is no corresponding channel recordings."
+msgstr ""
+
+msgid "TranscodingSetup"
+msgstr ""
+
+#
+msgid "Translation"
+msgstr "Prevod"
+
+#
+msgid "Translation:"
+msgstr "Prevod:"
+
+#
+msgid "Transmission mode"
+msgstr "Mod transmisije"
+
+#
+msgid "Transponder"
+msgstr "Transponder"
+
+#
+msgid "Tries left:"
+msgstr "Pokušaja ostalo:"
+
+#
+msgid "Try to find used Transponders in cable network.. please wait..."
+msgstr ""
+"Pokušavam pronaći korišćene transpondere u kablovskoj mreži.. molim "
+"pričekajte..."
+
+#
+msgid "Try to find used transponders in cable network.. please wait..."
+msgstr ""
+"Pokušavam pronaći korišćene transpondere u kablovskoj mreži.. molim "
+"pričekajte..."
+
+#
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Pokušavam skinuti novu listu paketa.Molim sačekajte..."
+
+#
+msgid "Tue"
+msgstr "Uto"
+
+#
+msgid "Tuesday"
+msgstr "Utorak"
+
+#
+msgid "Tune"
+msgstr "Uskladiti"
+
+#
+msgid "Tune failed!"
+msgstr "Greška tjunera!"
+
+#, python-format
+msgid "Tune%d %s Locking Fail..."
+msgstr ""
+
+#
+msgid "Tuner"
+msgstr "Tjuner"
+
+#
+msgid "Tuner "
+msgstr "Tjuner"
+
+#
+msgid "Tuner Slot"
+msgstr "Otvor tjunera"
+
+#
+msgid "Tuner configuration"
+msgstr "Konfiguracija tjunera"
+
+#
+msgid "Tuner status"
+msgstr "Status tjunera"
+
+#
+msgid "Tuner type"
+msgstr "Tip tjunera"
+
+#
+msgid "Turkish"
+msgstr "Turski"
+
+#
+msgid "Two"
+msgstr "Dva"
+
+#
+msgid "Type"
+msgstr "Tip"
+
+#, python-format
+msgid "Type : %s"
+msgstr ""
+
+#
+msgid "Type of scan"
+msgstr "Tip skeniranja"
+
+msgid "UI 3D setup"
+msgstr ""
+
+msgid "UI position setup"
+msgstr ""
+
+msgid "UPNP"
+msgstr ""
+
+#
+msgid "USALS"
+msgstr "USALS"
+
+msgid "USB Image created in: "
+msgstr ""
+
+#
+msgid "USB Stick"
+msgstr "USB stik"
+
+#, python-format
+msgid "USB test error : Success-%d"
+msgstr ""
+
+#, python-format
+msgid ""
+"USB test pass %d devices\n"
+"Press 'OK' button!"
+msgstr ""
+
+#, python-format
+msgid "UUID : %s"
+msgstr ""
+
+#
+msgid "Ukrainian"
+msgstr "Ukrajinski"
+
+msgid "Umount"
+msgstr ""
+
+#
+msgid ""
+"Unable to complete filesystem check.\n"
+"Error: "
+msgstr ""
+"Nemoguće završiti proveru sistemskih datoteka.\n"
+"Greška:"
+
+#
+msgid ""
+"Unable to initialize harddisk.\n"
+"Error: "
+msgstr ""
+"Onemogućeno inicijaliziranje hard diska.\n"
+"Greška:"
+
+#
+msgid "Uncommitted DiSEqC command"
+msgstr "Nedodeljena DiSEqC komanda"
+
+#
+msgid "Undo install"
+msgstr "Poništi instaliranje"
+
+#
+msgid "Undo uninstall"
+msgstr "Poništi deinstalaciju"
+
+msgid "Unencrypted"
+msgstr ""
+
+#
+msgid "UnhandledKey"
+msgstr "Neupravljan ključ"
+
+#
+msgid "Unicable"
+msgstr "Unikabl"
+
+#
+msgid "Unicable LNB"
+msgstr "Unikabl LNB"
+
+#
+msgid "Unicable Martix"
+msgstr "Unikabl Matrix"
+
+#
+msgid "Uninstall"
+msgstr "Deinstaliraj"
+
+#
+msgid "Universal LNB"
+msgstr "Univerzalni LNB"
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown network adapter"
+msgstr ""
+
+#
+msgid "Unmount failed"
+msgstr "Demauntiranje nije uspelo"
+
+#
+msgid "Unsupported"
+msgstr "Nepodržano"
+
+msgid "Up"
+msgstr ""
+
+msgid "Up Key"
+msgstr ""
+
+#
+msgid "Update"
+msgstr "Ažuriranje"
+
+#
+msgid "Updatefeed not available."
+msgstr "Fid ažuriranja nije dostupan."
+
+#
+msgid "Updating finished. Here is the result:"
+msgstr "Ažuriranje završeno. Evo rezultata:"
+
+#
+msgid "Updating software catalog"
+msgstr "Ažuriranje kataloga softvera"
+
+#
+msgid "Updating... Please wait... This can take some minutes..."
+msgstr "Ažuriram... Molim čekajte... To može potrajati nekoliko minuta..."
+
+#
+msgid "Upgrade"
+msgstr "Nadogradi"
+
+msgid "Upgrade FPGA.."
+msgstr ""
+
+msgid "Upgrade Firmware.."
+msgstr ""
+
+#
+msgid "Upgrade finished."
+msgstr "Nadogradnja završena."
+
+msgid ""
+"Upgrade will take about 5 minutes to finish.\n"
+"Do you want to upgrade?"
+msgstr ""
+
+#
+msgid "Upgrading"
+msgstr "Nadograđujem"
+
+msgid "Upgrading STB... Please wait"
+msgstr ""
+
+msgid "Url"
+msgstr ""
+
+#
+msgid "Use"
+msgstr "Koristi"
+
+msgid "Use AP Mode"
+msgstr ""
+
+#
+msgid "Use DHCP"
+msgstr "Koristi DHCP"
+
+msgid "Use Device"
+msgstr ""
+
+msgid "Use EIT EPG"
+msgstr ""
+
+msgid "Use EXIT-Button to leave movie player"
+msgstr ""
+
+msgid "Use Fan timer"
+msgstr ""
+
+msgid "Use Gateway"
+msgstr ""
+
+#
+msgid "Use Interface"
+msgstr "Koristi interfejs"
+
+msgid "Use Manual dns-nameserver"
+msgstr ""
+
+msgid "Use PiP at EPGBar"
+msgstr ""
+
+msgid "Use PictureInGraphic (PiG)"
+msgstr ""
+
+#
+msgid "Use Power Measurement"
+msgstr "Koristi merenje snage"
+
+msgid "Use TV remotecontrol:"
+msgstr ""
+
+#
+msgid "Use a gateway"
+msgstr "Koristi prolaz"
+
+msgid "Use custom main menu"
+msgstr ""
+
+msgid "Use matrix mode for service list"
+msgstr ""
+
+msgid "Use package maintainer config files"
+msgstr ""
+
+#
+msgid "Use power measurement"
+msgstr "Koristi merenje snage"
+
+msgid "Use silent recording mode"
+msgstr ""
+
+msgid "Use startup service for leaving standby"
+msgstr ""
+
+#
+msgid "Use the Networkwizard to configure selected network adapter"
+msgstr "Koristi mrežni čarobnjak da konfigurišeš izabrani mrežni adapter"
+
+#
+msgid "Use the Networkwizard to configure your Network\n"
+msgstr "Koristite mrežni čarobnjak da konfigurišete vašu mrežu\n"
+
+#
+msgid ""
+"Use the left and right buttons to change an option.\n"
+"\n"
+"Please set up tuner A"
+msgstr ""
+"Koristite tipke levo i desno za promjenu opcija.\n"
+"\n"
+"Molim podesite tuner A"
+
+#
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, "
+"press OK."
+msgstr ""
+"Koristite gore/dole tipke na vašem daljinskom upravljaču za izbor opcije. "
+"Posle toga, pritisnite OK."
+
+msgid "Use this input device settings?"
+msgstr "Koristi postavke ovog ulaznog uređaja?"
+
+msgid "Use this settings?"
+msgstr "Koristi ove postavke?"
+
+#
+msgid "Use this video enhancement settings?"
+msgstr "Koristi postavke ovog video poboljšavanja?"
+
+#
+msgid "Use time of currently running service"
+msgstr "Koristi vreme trenutnog kanala"
+
+#
+msgid "Use usals for this sat"
+msgstr "Koristi USALS za ovaj satelit"
+
+#
+msgid "Use wizard to set up basic features"
+msgstr "Koristite čarobnjaka za postavljanje osnovnih postavki"
+
+#
+msgid "Used service scan type"
+msgstr "Korišćeni tip skeniranja kanala"
+
+msgid "User :"
+msgstr ""
+
+msgid "User Email"
+msgstr ""
+
+msgid "User ID"
+msgstr ""
+
+msgid "User Interface"
+msgstr ""
+
+#
+msgid "User defined"
+msgstr "Definisano od korisnika"
+
+msgid "User manually Set up a Mount Point"
+msgstr ""
+
+msgid "User name"
+msgstr ""
+
+#
+msgid "Username"
+msgstr "Korisn. ime"
+
+msgid "Using a Wireless module as access point."
+msgstr ""
+
+#
+msgid "VCR scart"
+msgstr "VCR skart"
+
+msgid "VFD Controller"
+msgstr ""
+
+msgid "VFD scroll speed"
+msgstr ""
+
+#
+msgid "VMGM (intro trailer)"
+msgstr "VMGM (unutrašnji trejler)"
+
+msgid "VTI"
+msgstr ""
+
+msgid "VU deepstandby => TV activity:"
+msgstr ""
+
+msgid "VU on => TV activity:"
+msgstr ""
+
+msgid "VU standby => TV activity:"
+msgstr ""
+
+msgid "Verifying your internet connection..."
+msgstr "Provera vaše internet veze..."
+
+msgid "Version"
+msgstr ""
+
+#
+msgid "Vertical"
+msgstr "Vertikalno"
+
+msgid "Video Directory"
+msgstr ""
+
+#
+msgid "Video Fine-Tuning"
+msgstr "Video fino podešavanje"
+
+#
+msgid "Video Fine-Tuning Wizard"
+msgstr "Čarobnjak za fino video podešavanje"
+
+msgid "Video PID"
+msgstr "Video PID"
+
+#
+msgid "Video enhancement preview"
+msgstr "Pregled video poboljšavanja"
+
+#
+msgid "Video enhancement settings"
+msgstr "Postavke video poboljšavanja"
+
+#
+msgid "Video enhancement setup"
+msgstr "Podešavanje video poboljšavanja"
+
+msgid ""
+"Video input selection\n"
+"\n"
+"Please press OK if you can see this page on your TV or select a different "
+"input port.\n"
+"\n"
+"The next input port will be automatically probed in 20 seconds"
+msgstr ""
+
+msgid "Video mode selection"
+msgstr ""
+
+#
+msgid "Videoenhancement Setup"
+msgstr "Podešavanje video poboljšavanja"
+
+#
+msgid "View Movies..."
+msgstr "Vidi filmove..."
+
+#
+msgid "View Photos..."
+msgstr "Vidi fotografije..."
+
+#
+msgid "View Rass interactive..."
+msgstr "Gledaj Rass interaktivno..."
+
+#
+msgid "View Video CD..."
+msgstr "Vidi video CD"
+
+#
+msgid "View details"
+msgstr "Vidi detalje"
+
+#
+msgid "View list of available "
+msgstr "Vidi listu mogućih"
+
+#
+msgid "View list of available CommonInterface extensions"
+msgstr "Vidi listu mogućih proširenja za opšti interfejs"
+
+#
+msgid "View list of available Display and Userinterface extensions."
+msgstr "Vidi listu mogućih proširenja za displej i korisnički interfejs"
+
+#
+msgid "View list of available EPG extensions."
+msgstr "Vidi listu mogućih EPG proširenja"
+
+#
+msgid "View list of available Satellite equipment extensions."
+msgstr "Vidi listu mogućih proširenja satelitske opreme."
+
+#
+msgid "View list of available communication extensions."
+msgstr "Vidi listu mogućih proširenja za povezivanje."
+
+#
+msgid "View list of available default settings"
+msgstr "Vidi listu mogućih osnovnih postavki"
+
+#
+msgid "View list of available multimedia extensions."
+msgstr "Vidi listu mogućih multimedija proširenja"
+
+#
+msgid "View list of available networking extensions"
+msgstr "Vidi listu mogućih mrežnih proširenja "
+
+#
+msgid "View list of available recording extensions"
+msgstr "Vidi listu mogućih proširenja za snimanje"
+
+#
+msgid "View list of available skins"
+msgstr "Vidi listu mogućih maski"
+
+#
+msgid "View list of available software extensions"
+msgstr "Vidi listu mogućih softverskih proširenja"
+
+#
+msgid "View list of available system extensions"
+msgstr "Vidi listu mogućih sistemskih proširenja"
+
+#
+msgid "View teletext..."
+msgstr "Pregled teleteksta..."
+
+#
+msgid "Virtual KeyBoard"
+msgstr "Virtuelna tastatura"
+
+#
+msgid "Voltage mode"
+msgstr "Mod Napona"
+
+#
+msgid "Volume"
+msgstr "Volumen"
+
+#
+msgid "W"
+msgstr "W"
+
+#
+msgid "WEP"
+msgstr "WEP"
+
+msgid "WEP Key (HEX)"
+msgstr ""
+
+msgid "WLAN adapter"
+msgstr ""
+
+msgid "WLAN adapter."
+msgstr "WLAN adapter."
+
+msgid "WLAN connection"
+msgstr "WLAN veza"
+
+#
+msgid "WPA"
+msgstr "WPA"
+
+#
+msgid "WPA or WPA2"
+msgstr "WPA ili WPA2"
+
+msgid "WPA/WPA2"
+msgstr ""
+
+#
+msgid "WPA2"
+msgstr "WPA2"
+
+#
+msgid "WSS on 4:3"
+msgstr "WSS na 4:3"
+
+msgid "Wait a moment"
+msgstr ""
+
+msgid "Wait a moment..."
+msgstr ""
+
+#
+msgid "Waiting"
+msgstr "Čekanje"
+
+msgid "WakeOnLan Enable"
+msgstr ""
+
+msgid "WakeOnLan Setup"
+msgstr ""
+
+msgid "Web Browser"
+msgstr ""
+
+#
+msgid "Wed"
+msgstr "Sre"
+
+#
+msgid "Wednesday"
+msgstr "Sreda"
+
+#
+msgid "Weekday"
+msgstr "Nedeljnii dan"
+
+#
+msgid ""
+"Welcome to the Cutlist editor.\n"
+"\n"
+"Seek to the start of the stuff you want to cut away. Press OK, select 'start "
+"cut'.\n"
+"\n"
+"Then seek to the end, press OK, select 'end cut'. That's it."
+msgstr ""
+"Dobrodošli na uređivač liste.\n"
+"\n"
+"Tražite početak onoga što želite da odbacite.Pritisnite OK,izaberite \"počni "
+"isecanje\".\n"
+"\n"
+"Zatim tražite kraj,pritisnite OK,izaberite \"završi isecanje\".To je to."
+
+msgid ""
+"Welcome to the Image upgrade wizard. The wizard will assist you in upgrading "
+"the firmware of your STB by providing a backup facility for your current "
+"settings and a short explanation of how to upgrade your firmware."
+msgstr ""
+
+msgid ""
+"Welcome.\n"
+"\n"
+"If you want to connect your STB to the Internet, this wizard will guide you "
+"through the basic network setup of your STB.\n"
+"\n"
+"Press OK to start configuring your network"
+msgstr ""
+
+#
+msgid "Welcome..."
+msgstr "Dobrodošli..."
+
+#
+msgid "West"
+msgstr "Zapad"
+
+#
+msgid "What do you want to scan?"
+msgstr "Šta želite skenirati?"
+
+msgid "Wheel RIGHT"
+msgstr ""
+
+#
+msgid ""
+"When you do a factory reset, you will lose ALL your configuration data\n"
+"(including bouquets, services, satellite data ...)\n"
+"After completion of factory reset, your receiver will restart "
+"automatically!\n"
+"\n"
+"Really do a factory reset?"
+msgstr ""
+"Kad radite resetovanje na fabričke vrednosti,izgubićete sve konfiguracijske "
+"podatke\n"
+"(uključujući bukete,kanale,podatke o satelitima...)\n"
+"Posle kompletnog resetovanja,vaš risiver će automatski restartovati!\n"
+"\n"
+"Stvarno uraditi reset na fabričke vrednosti?"
+
+#
+msgid "Where do you want to backup your settings?"
+msgstr "Gdje želite sačuvati ovu sigurnosnu kopiju liste kanala?"
+
+#
+msgid "Where to save temporary timeshift recordings?"
+msgstr "Gde sačuvati privrem. snimanja uz pomoć vrem. pomaka?"
+
+msgid "Width of channel name (matrix mode)"
+msgstr ""
+
+msgid "Wireless Access Point"
+msgstr ""
+
+#
+msgid "Wireless LAN"
+msgstr "Bežični LAN"
+
+msgid "Wireless LAN Setup"
+msgstr ""
+
+msgid "Wireless Lan Device is not detected."
+msgstr ""
+
+#
+msgid "Wireless Network"
+msgstr "Bežična mreža"
+
+msgid "Wireless network connection setup"
+msgstr ""
+
+msgid "Wireless network connection setup."
+msgstr ""
+
+msgid "Wireless network state"
+msgstr ""
+
+#
+msgid "Write error while recording. Disk full?\n"
+msgstr "Greška tokom snimanja. Disk Pun?\n"
+
+#
+msgid "Write failed!"
+msgstr "Upisivanje nije uspelo!"
+
+#
+msgid "YPbPr"
+msgstr "YPbPr"
+
+#
+msgid "Year"
+msgstr "Godina"
+
+msgid "Yellow font for DVB subtitles"
+msgstr ""
+
+#
+msgid "Yes"
+msgstr "Da"
+
+#
+msgid "Yes to all"
+msgstr "Da za sve"
+
+msgid "Yes, always"
+msgstr "Da,uvek"
+
+#
+msgid "Yes, and delete this movie"
+msgstr "Da i izbrišite ovaj film"
+
+#
+msgid "Yes, backup my settings!"
+msgstr "Da, napravi sigurnosnu kopiju mojih postavki."
+
+#
+msgid "Yes, do a manual scan now"
+msgstr "Da, započeti ručnu pretragu sada"
+
+#
+msgid "Yes, do an automatic scan now"
+msgstr "Da, započni automatsko pretraživanje sada"
+
+#
+msgid "Yes, do another manual scan now"
+msgstr "Da, započni drugu ručnu pretragu sada"
+
+#
+msgid "Yes, perform a shutdown now."
+msgstr "Da, započni isključivanje sada"
+
+#
+msgid "Yes, restore the settings now"
+msgstr "Da, vrati sačuvane postavke sada"
+
+#
+msgid "Yes, returning to movie list"
+msgstr "Da,vratiti se na listu filmova"
+
+#
+msgid "Yes, view the tutorial"
+msgstr "Da, prikaži vodič"
+
+#
+msgid "You can cancel the installation."
+msgstr "Možete otkazati instaliranje."
+
+#
+msgid "You can cancel the removal."
+msgstr "Možete otkazati uklanjanje."
+
+#
+msgid ""
+"You can choose some default settings now. Please select the settings you "
+"want to be installed."
+msgstr ""
+"Sada možete izabrati neke osnovne postavke.Molimo izaberite postavke koje "
+"želite instalirati."
+
+#
+msgid "You can choose, what you want to install..."
+msgstr "Možete izabrati šta želite da instalirate..."
+
+#
+msgid "You can install this plugin."
+msgstr "Možete instalirati ovaj dodatak."
+
+msgid "You can only burn STB recordings!"
+msgstr ""
+
+#
+msgid "You can remove this plugin."
+msgstr "Možete ukloniti ovaj dodatak."
+
+msgid ""
+"You can't cancel during upgrade.\n"
+"Do you want to continue ?"
+msgstr ""
+
+#
+msgid "You cannot delete this!"
+msgstr "Ne možete ovo obrisati!"
+
+msgid "You choose the incorrect file. "
+msgstr ""
+
+#
+msgid "You chose not to install any default services lists."
+msgstr "Izabrali ste da ne instalirate osnovnu listu kanala."
+
+#
+msgid ""
+"You chose not to install any default settings. You can however install the "
+"default settings later in the settings menu."
+msgstr ""
+"Izabrali ste da ne instalirate bilo koje osnovne postavke.Svakako možete "
+"instalirati osnovne postavke kasnije u meniu postavki."
+
+#
+msgid ""
+"You chose not to install anything. Please press OK finish the install wizard."
+msgstr ""
+"Izabrali ste da ništa ne instalirate.Molimo pritisnite OK da završite "
+"čarobnjaka za instalaciju."
+
+msgid "You didn't select a channel to record from."
+msgstr "Niste odabrali kanal sa koga ćete snimati."
+
+#
+msgid ""
+"You have chosen to backup your settings. Please press OK to start the backup "
+"now."
+msgstr ""
+"Izabrali ste da snimite svoje postavke.Molimo pritisnite OK da sada počnete "
+"snimanje."
+
+#
+msgid ""
+"You have chosen to restore your settings. Enigma2 will restart after "
+"restore. Please press OK to start the restore now."
+msgstr ""
+"Izabrali ste da povratite vaše postavke.Enigma2 će ponovo startovati posle "
+"vraćanja.Molim sada pritisnite OK da počnete vraćanje."
+
+#
+#, python-format
+msgid "You have to wait %s!"
+msgstr "Morate pričekati %s!"
+
+msgid ""
+"You need a PC connected to your STB. If you need further instructions, "
+"please visit the website http://www.dm7025.de.\n"
+"Your STB will now be halted. After you have performed the update "
+"instructions from the website, your new firmware will ask you to restore "
+"your settings."
+msgstr ""
+
+msgid ""
+"You need to set a PIN code and hide it from your children.\n"
+"\n"
+"Do you want to set the pin now?"
+msgstr ""
+"Treba da postavite PIN kod i sakrijete ga od vaše dece.\n"
+"\n"
+"Da li sada želite da postavite PIN?"
+
+msgid ""
+"Your STB is now ready to use.\n"
+"\n"
+"Your internet connection is working now.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Your STB is now ready to use.\n"
+"\n"
+"Your internet connection is working now.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+
+msgid "Your STB is shutting down. Please stand by..."
+msgstr ""
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+
+msgid "Your STB will restart after pressing OK on your remote control."
+msgstr ""
+
+#
+msgid ""
+"Your backup succeeded. We will now continue to explain the further upgrade "
+"process."
+msgstr ""
+"Sigurnosna kopija je uspešno napravljena. Sada ćemo dalje objasniti za "
+"sljedeći proces nadogradnje."
+
+#
+msgid ""
+"Your collection exceeds the size of a single layer medium, you will need a "
+"blank dual layer DVD!"
+msgstr ""
+"Vaša kolekcija prelazi veličinu jednoslojnog medija,trebate prazan dvoslojni "
+"DVD!  "
+
+#
+msgid "Your current collection will get lost!"
+msgstr "Vaša aktuelna kolekcija će biti izgubljena!"
+
+#
+msgid ""
+"Your internet connection is not working!\n"
+"Please choose what you want to do next."
+msgstr ""
+"Vaša internet veza ne radi!\n"
+"Molim izaberite šta želite sledeće učiniti."
+
+#
+msgid "Your network configuration has been activated."
+msgstr "Vaša mrežna konfiguracija je aktivirana."
+
+msgid "Your network is not working. Please try again."
+msgstr "Vaša mreža ne radi. Molim pokušajte ponovo."
+
+#
+msgid ""
+"Your wireless LAN internet connection could not be started!\n"
+"Have you attached your USB WLAN Stick?\n"
+"\n"
+"Please choose what you want to do next."
+msgstr ""
+"Vaša bežična LAN internet veza ne može biti pokrenuta!\n"
+"Da li ste spojili vaš USB WLAN stik?\n"
+"\n"
+"Molim izaberite šta želite sledeće da učinite."
+
+msgid "Zap"
+msgstr ""
+
+msgid "Zap PiP and not main screen"
+msgstr ""
+
+#
+msgid "Zap back to previously tuned service?"
+msgstr "Vratiti se nazad na prethodni kanal?"
+
+#
+msgid "Zap back to service before positioner setup?"
+msgstr "Prebaciti na zadnji kanal pre podešavanja motora?"
+
+#
+msgid "Zap back to service before satfinder?"
+msgstr "Prebaciti natrag na kanal pre sat. tražitelja?"
+
+#
+msgid "Zap back to service before tuner setup?"
+msgstr "Vratiti se nazad na kanal pre podešavanja tjunera?"
+
+msgid "Zapping Mode"
+msgstr ""
+
+msgid "Zapping Mode Selection"
+msgstr ""
+
+msgid "ZappingModeSelection"
+msgstr ""
+
+msgid "Zydas"
+msgstr "Zidas"
+
+msgid "[ N/A ]"
+msgstr ""
+
+#
+msgid "[alternative edit]"
+msgstr "[uređivanje alternative]"
+
+#
+msgid "[bouquet edit]"
+msgstr "[uređivanje buketa]"
+
+#
+msgid "[favourite edit]"
+msgstr "[uređivanje favorita]"
+
+#
+msgid "[move mode]"
+msgstr "[mod premeštanja]"
+
+#
+msgid "a gui to assign services/providers to common interface modules"
+msgstr "Gui da dodeli kanale/provajdere modulima opšteg interfejsa"
+
+#
+msgid "a gui to assign services/providers/caids to common interface modules"
+msgstr "Gui da dodeli kanale/provajdere/kaide modulima opšteg interfejsa"
+
+#
+msgid "abort alternatives edit"
+msgstr "odustani od uređivanja alternative"
+
+#
+msgid "abort bouquet edit"
+msgstr "prekini uređivanje buketa"
+
+#
+msgid "abort favourites edit"
+msgstr "odustani od uređivanja favorita"
+
+#
+msgid "about to start"
+msgstr "spremni za početak"
+
+#
+msgid "activate current configuration"
+msgstr "Aktivirajte aktuelnu konfiguraciju"
+
+#
+msgid "activate network adapter configuration"
+msgstr "Aktivirajte konfiguraciju mrežnog adaptera"
+
+#
+msgid "add Provider"
+msgstr "Dodaj provajdera"
+
+#
+msgid "add Service"
+msgstr "Dodaj kanal"
+
+#
+msgid "add a nameserver entry"
+msgstr "Dodaj nejmserver"
+
+#
+msgid "add alternatives"
+msgstr "dodaj alternative"
+
+#
+msgid "add bookmark"
+msgstr "Dodaj oznaku"
+
+#
+msgid "add bouquet"
+msgstr "dodaj buket"
+
+#
+msgid "add directory to playlist"
+msgstr "dodaj direktorijum u plejlistu"
+
+#
+msgid "add file to playlist"
+msgstr "dodaj datoteku u plejlistu"
+
+#
+msgid "add files to playlist"
+msgstr "dodaj datoteke u plejlistu"
+
+#
+msgid "add marker"
+msgstr "dodaj oznaku"
+
+#
+msgid "add recording (enter recording duration)"
+msgstr "dodaj snimanje (unesite dužinu snimanja)"
+
+#
+msgid "add recording (enter recording endtime)"
+msgstr "dodaj snimanje (unesi završno vreme snimanja)"
+
+#
+msgid "add recording (indefinitely)"
+msgstr "dodaj snimanje (nedefinisano)"
+
+#
+msgid "add recording (stop after current event)"
+msgstr "dodaj snimanje (zaustavi posle trenutnog događaja)"
+
+#
+msgid "add service to bouquet"
+msgstr "dodaj kanal u buket "
+
+#
+msgid "add service to favourites"
+msgstr "dodaj kanal u favorite"
+
+#
+msgid "add to parental protection"
+msgstr "dodaj u roditeljsku zaštitu"
+
+#
+msgid "advanced"
+msgstr "napredno"
+
+#
+msgid "alphabetic sort"
+msgstr "sortiraj abecedno"
+
+msgid "and there is made an extra copy in: "
+msgstr ""
+
+#
+msgid "assigned CAIds:"
+msgstr "dodeljeni CAIdi:"
+
+#
+msgid "assigned Services/Provider:"
+msgstr "Dodeljeni kanali/Provajder:"
+
+msgid "at beginning"
+msgstr "na početku"
+
+msgid "at end"
+msgstr "na kraju"
+
+#
+#, python-format
+msgid "audio track (%s) format"
+msgstr "Audio zapis(%s) format"
+
+#
+#, python-format
+msgid "audio track (%s) language"
+msgstr "Audio zapis (%s) jezik"
+
+#
+msgid "audio tracks"
+msgstr "Audio zapisi"
+
+#
+msgid "auto"
+msgstr "Auto"
+
+msgid "auto (off)"
+msgstr ""
+
+msgid "available "
+msgstr ""
+
+#
+msgid "back"
+msgstr "natrag"
+
+#
+msgid "background image"
+msgstr "Pozadinska slika"
+
+#
+msgid "backgroundcolor"
+msgstr "Boja pozadine"
+
+msgid "backupstick or"
+msgstr ""
+
+msgid "backupstick.txt"
+msgstr ""
+
+#
+msgid "better"
+msgstr "bolje"
+
+#
+msgid "black"
+msgstr "Crno "
+
+msgid "black screen"
+msgstr ""
+
+#
+msgid "blacklist"
+msgstr "crna lista"
+
+#
+msgid "blue"
+msgstr "Plavo"
+
+msgid "bookmark"
+msgstr ""
+
+#
+#, python-format
+msgid "burn audio track (%s)"
+msgstr "Nareži audio zapis (%s)"
+
+msgid "cat /proc/bus/input/devices"
+msgstr ""
+
+msgid "change channel on timeout"
+msgstr ""
+
+#
+msgid "change recording (duration)"
+msgstr "promeni dužinu snimanja"
+
+#
+msgid "change recording (endtime)"
+msgstr "promeni snimanje (završno vreme)"
+
+msgid "change recording (timer editor)"
+msgstr ""
+
+msgid "change tuner on timeout"
+msgstr ""
+
+#
+msgid "chapters"
+msgstr "Poglavlja"
+
+#
+msgid "circular left"
+msgstr "leva cirkularna"
+
+#
+msgid "circular right"
+msgstr "desna cirkularna"
+
+#
+msgid "clear playlist"
+msgstr "očisti Plejlistu"
+
+#
+msgid "complex"
+msgstr "kompleksno"
+
+#
+msgid "config menu"
+msgstr "konfig  meni"
+
+#
+msgid "confirmed"
+msgstr "Potvrđeno"
+
+#
+msgid "connected"
+msgstr "Povezano"
+
+msgid "continue/pause"
+msgstr ""
+
+msgid "copy"
+msgstr ""
+
+#, python-format
+msgid "copy : %s"
+msgstr ""
+
+#
+msgid "copy to bouquets"
+msgstr "kopiraj u bukete"
+
+#
+msgid "create directory"
+msgstr "Kreiraj direktorijum"
+
+msgid "customize color buttons"
+msgstr ""
+
+msgid "cyan"
+msgstr ""
+
+#
+msgid "daily"
+msgstr "dnevno"
+
+msgid "dark yellow"
+msgstr ""
+
+#
+msgid "day"
+msgstr "Dan"
+
+msgid "deactivate startup service"
+msgstr ""
+
+msgid "debug"
+msgstr ""
+
+msgid "default"
+msgstr "standardni"
+
+#
+msgid "delete"
+msgstr "Obriši"
+
+#, python-format
+msgid "delete : %s"
+msgstr ""
+
+#
+msgid "delete cut"
+msgstr "obriši rez"
+
+#
+msgid "delete file"
+msgstr "Obriši datoteku"
+
+#
+msgid "delete playlist entry"
+msgstr "obriši unos plejliste"
+
+#
+msgid "delete saved playlist"
+msgstr "obriši sačuvanu plejlistu"
+
+#, python-format
+msgid "device : %s"
+msgstr ""
+
+#
+msgid "disable"
+msgstr "onemogući"
+
+#
+msgid "disable move mode"
+msgstr "onemoguće mod premeštanja"
+
+#
+msgid "disabled"
+msgstr "onemogućeno"
+
+#
+msgid "disconnected"
+msgstr "nepovezan"
+
+#
+msgid "do not change"
+msgstr "ne menjaj"
+
+#
+msgid "do nothing"
+msgstr "ne čini ništa "
+
+#
+msgid "done!"
+msgstr "Učinjeno!"
+
+#
+msgid "edit alternatives"
+msgstr "Uredi alternative"
+
+#
+msgid "empty"
+msgstr "prazno"
+
+#
+msgid "enable"
+msgstr "omogući"
+
+#
+msgid "enable bouquet edit"
+msgstr "omogući uređivanje paketa"
+
+#
+msgid "enable favourite edit"
+msgstr "omogući uređivanje favorita"
+
+#
+msgid "enable move mode"
+msgstr "uključi mod za premeštanje"
+
+#
+msgid "enabled"
+msgstr "omogućeno"
+
+#
+msgid "end alternatives edit"
+msgstr "kraj uređivanja alternativa"
+
+#
+msgid "end bouquet edit"
+msgstr "završi uređivanje buketa"
+
+#
+msgid "end cut here"
+msgstr "završi rez ovde"
+
+#
+msgid "end favourites edit"
+msgstr "završi uređivanje favorita"
+
+#
+msgid "equal to"
+msgstr "jednako"
+
+msgid "error"
+msgstr ""
+
+msgid "exit"
+msgstr ""
+
+#
+msgid "exit DVD player or return to file browser"
+msgstr "Napustite DVD plejer ili se vratite na pretraživač datoteka"
+
+#
+msgid "exit mediaplayer"
+msgstr "Izađi iz medija plejera"
+
+#
+msgid "exit movielist"
+msgstr "izađi iz liste filmova"
+
+#
+msgid "exit nameserver configuration"
+msgstr "Napustite konfiguraciju nejmservera"
+
+#
+msgid "exit network adapter configuration"
+msgstr "Napustite konfiguraciju mrežnog adaptera"
+
+#
+msgid "exit network interface list"
+msgstr "Napustite listu mrežnih interfejsa"
+
+#
+msgid "exit networkadapter setup menu"
+msgstr "Napustite meni postavki mrežnog adaptera"
+
+msgid "ext2 - recommended for USB flash memory"
+msgstr ""
+
+msgid "ext3 - recommended for harddisks"
+msgstr ""
+
+msgid "ext4 - experimental"
+msgstr ""
+
+msgid "fast"
+msgstr ""
+
+#
+msgid "fileformats (BMP, PNG, JPG, GIF)"
+msgstr "Formati datoteka (BMP,PNG,JPG,GIF)"
+
+#
+msgid "filename"
+msgstr "Ime datoteke"
+
+#
+msgid "fine-tune your display"
+msgstr "Fino podesite vaš displej"
+
+#
+msgid "forward to the next chapter"
+msgstr "Napred na sledeće poglavlje"
+
+#
+msgid "free"
+msgstr "slobodno"
+
+#
+msgid "free diskspace"
+msgstr "slobodan prostor na disku"
+
+msgid "full transparency"
+msgstr ""
+
+#
+msgid "go to deep standby"
+msgstr "pokreni isključivanje drimboxa"
+
+#
+msgid "go to standby"
+msgstr "pođi u pripravnost"
+
+#
+msgid "grab this frame as bitmap"
+msgstr "Postavite ovaj frejm kao bitmapu"
+
+#
+msgid "green"
+msgstr "zeleno"
+
+msgid "grey"
+msgstr ""
+
+#
+msgid "hear radio..."
+msgstr "slušaj radio..."
+
+msgid "height"
+msgstr ""
+
+#
+msgid "help..."
+msgstr "pomoć..."
+
+msgid "hi_low"
+msgstr ""
+
+#
+msgid "hide extended description"
+msgstr "sakrij prošireni opis"
+
+#
+msgid "hide player"
+msgstr "sakrij plejer"
+
+msgid "high"
+msgstr ""
+
+#
+msgid "horizontal"
+msgstr "horizontalno"
+
+msgid "horizontal_vertical"
+msgstr ""
+
+#
+msgid "hour"
+msgstr "sat"
+
+#
+msgid "hours"
+msgstr "sati"
+
+#
+msgid "immediate shutdown"
+msgstr "odmah isključi"
+
+#
+msgid "init module"
+msgstr "Iniciraj blok"
+
+#
+msgid "init modules"
+msgstr "iniciraj blokove"
+
+#
+msgid "insert mark here"
+msgstr "unesi oznaku ovdje"
+
+msgid "invalid model"
+msgstr ""
+
+#
+msgid "jump back to the previous title"
+msgstr "Skoči nazad na prethodni naslov"
+
+#
+msgid "jump forward to the next title"
+msgstr "Skoči napred na naredni naslov"
+
+#
+msgid "jump to listbegin"
+msgstr "skoči na početak liste"
+
+#
+msgid "jump to listend"
+msgstr "skoči na kraj liste"
+
+#
+msgid "jump to next marked position"
+msgstr "skoči do sledeće označene pozicije"
+
+#
+msgid "jump to previous marked position"
+msgstr "skoči do predhodne označene pozicije"
+
+#
+msgid "leave movie player..."
+msgstr "napusti video plejer"
+
+#
+msgid "left"
+msgstr "levi"
+
+#
+msgid "length"
+msgstr "dužina"
+
+#
+msgid "list of EPG views..."
+msgstr "lista EPG pregleda..."
+
+#
+msgid "list style compact"
+msgstr "kompaktni stil liste"
+
+#
+msgid "list style compact with description"
+msgstr "kompaktni stil liste sa opisom"
+
+#
+msgid "list style default"
+msgstr "standardne postavke stila liste"
+
+#
+msgid "list style single line"
+msgstr "kompaktni jednostruki stil liste"
+
+#
+msgid "load playlist"
+msgstr "učitaj plejlistu"
+
+#
+msgid "locked"
+msgstr "zaključan"
+
+#
+msgid "loopthrough to"
+msgstr "Prolaz do"
+
+msgid "low"
+msgstr ""
+
+msgid "manage block devices of your VU+"
+msgstr ""
+
+msgid "management 3g modem"
+msgstr ""
+
+#
+msgid "manual"
+msgstr "ručno"
+
+#
+msgid "menu"
+msgstr "meni"
+
+msgid "min"
+msgstr ""
+
+#
+msgid "mins"
+msgstr "mins"
+
+#
+msgid "minute"
+msgstr "minut"
+
+#
+msgid "minutes"
+msgstr "minuti"
+
+#
+msgid "month"
+msgstr "Mesec"
+
+msgid "move"
+msgstr ""
+
+#, python-format
+msgid "move : %s"
+msgstr ""
+
+#
+msgid "move PiP to main picture"
+msgstr "premesti SuS na glavnu sliku"
+
+#
+msgid "move down to last entry"
+msgstr "Pomeri dole na poslednji unos"
+
+#
+msgid "move down to next entry"
+msgstr "Pomeri dole na naredni unos"
+
+#
+msgid "move up to first entry"
+msgstr "Pomeri gore na prvi unos"
+
+#
+msgid "move up to previous entry"
+msgstr "Pomeri gore na prethodni unos"
+
+#
+msgid "movie list"
+msgstr "lista filmova"
+
+#
+msgid "multinorm"
+msgstr "multinorm"
+
+#
+msgid "never"
+msgstr "nikad"
+
+#
+msgid "next channel"
+msgstr "sjedeći kanal"
+
+#
+msgid "next channel in history"
+msgstr "sledeći kanal u istoriji"
+
+#
+msgid "no"
+msgstr "Ne"
+
+#
+msgid "no CAId selected"
+msgstr "CAId nije izabran"
+
+#
+msgid "no CI slots found"
+msgstr "CI otvor nije nađen"
+
+#
+msgid "no HDD found"
+msgstr "Hard disk nije pronađen"
+
+#
+msgid "no Services/Providers selected"
+msgstr "nijedni kanali/provajderi nisu izabrani"
+
+#
+msgid "no module found"
+msgstr "nema modula "
+
+#
+msgid "no standby"
+msgstr "ne stanje pripravnosti"
+
+#
+msgid "no timeout"
+msgstr "nema vremenskog ograničenja"
+
+msgid "no transparency"
+msgstr ""
+
+#
+msgid "none"
+msgstr "prazno"
+
+msgid "normal"
+msgstr ""
+
+msgid "not available"
+msgstr ""
+
+#
+msgid "not configured"
+msgstr "nije konfigurisano"
+
+msgid "not found, the backup process will be aborted!"
+msgstr ""
+
+#
+msgid "not locked"
+msgstr "nije prihvaćen"
+
+msgid "not mounted"
+msgstr ""
+
+msgid "not set"
+msgstr ""
+
+msgid "not supported"
+msgstr "nije podržano"
+
+#
+msgid "not used"
+msgstr "nije u upotrebi"
+
+#
+msgid "nothing connected"
+msgstr "ništa nije spojeno"
+
+#
+msgid "of a DUAL layer medium used."
+msgstr "Dvoslojni medij se koristi"
+
+#
+msgid "of a SINGLE layer medium used."
+msgstr "Jednoslojni medij se koristi"
+
+#
+msgid "off"
+msgstr "isključi"
+
+#
+msgid "on"
+msgstr "uključi"
+
+#
+msgid "on READ ONLY medium."
+msgstr "na mediju samo za čitanje"
+
+#
+msgid "once"
+msgstr "jednom"
+
+msgid "only calculate"
+msgstr ""
+
+msgid "open VTi Panel"
+msgstr ""
+
+#
+msgid "open servicelist"
+msgstr "otvori listu kanala"
+
+#
+msgid "open servicelist(down)"
+msgstr "otvori listu kanala(dole)"
+
+#
+msgid "open servicelist(up)"
+msgstr "otvori listu kanala(gore)"
+
+msgid "original"
+msgstr ""
+
+#
+msgid "pass"
+msgstr "lozinka"
+
+#
+msgid "pause"
+msgstr "pauza"
+
+msgid "percent"
+msgstr ""
+
+#
+msgid "play entry"
+msgstr "reprodukuj unos"
+
+#
+msgid "play from next mark or playlist entry"
+msgstr "Reprodukuj od sledeće oznake ili naslova sa liste za reprodukciju"
+
+#
+msgid "play from previous mark or playlist entry"
+msgstr "Reprodukuj od prethodne oznake ili naslova sa liste za reprodukciju"
+
+#
+msgid "please press OK when ready"
+msgstr "pritisni OK kada si spreman"
+
+#
+msgid "please wait, loading picture..."
+msgstr "molim pričekajte, učitavam sliku..."
+
+#
+msgid "previous channel"
+msgstr "prethodni kanal"
+
+#
+msgid "previous channel in history"
+msgstr "predhodni kanal u istoriji"
+
+msgid "progress bar"
+msgstr ""
+
+#, python-format
+msgid "python %s %s %s %s"
+msgstr ""
+
+#
+msgid "record"
+msgstr "Snimi"
+
+#
+msgid "recording..."
+msgstr "snimanje..."
+
+#
+msgid "red"
+msgstr "Crveno"
+
+msgid "remove"
+msgstr ""
+
+#
+msgid "remove a nameserver entry"
+msgstr "Uklonite unos nejmservera"
+
+#
+msgid "remove after this position"
+msgstr "obriši posle ove pozicije"
+
+#
+msgid "remove all alternatives"
+msgstr "obriši sve alternative"
+
+#
+msgid "remove all new found flags"
+msgstr "obriši sve novo nađene zastave"
+
+msgid "remove all services without bouquet entry"
+msgstr ""
+
+#
+msgid "remove before this position"
+msgstr "obriši pre ove pozicije"
+
+#
+msgid "remove bookmark"
+msgstr "uklonite oznaku"
+
+#
+msgid "remove directory"
+msgstr "Uklonite direktorijum"
+
+#
+msgid "remove entry"
+msgstr "obriši unos"
+
+#
+msgid "remove from parental protection"
+msgstr "obriši iz roditeljske zaštite"
+
+#
+msgid "remove new found flag"
+msgstr "obriši novo nađenu zastavu"
+
+#
+msgid "remove selected satellite"
+msgstr "Uklonite izabrani satelit"
+
+#
+msgid "remove this mark"
+msgstr "obriši ovu oznaku"
+
+#
+msgid "repeat playlist"
+msgstr "Ponovite listu za reprodukciju"
+
+#
+msgid "repeated"
+msgstr "ponavljam"
+
+msgid "reset play progress"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+#
+msgid "rewind to the previous chapter"
+msgstr "Premotaj na prethodno poglavlje"
+
+#
+msgid "right"
+msgstr "desno"
+
+#
+msgid "save last directory on exit"
+msgstr "Sačuvajte poslednji direktorijum kod izlaska"
+
+#
+msgid "save playlist"
+msgstr "sačuvaj plejlistu"
+
+#
+msgid "save playlist on exit"
+msgstr "Sačuvajte listu za reprodukciju kod izlaska "
+
+#
+msgid "scan done!"
+msgstr "pretraživanje završeno!"
+
+#
+#, python-format
+msgid "scan in progress - %d%% done!"
+msgstr "pretraživanje u toku - %d%% gotovo!"
+
+#
+msgid "scan state"
+msgstr "status skeniranja"
+
+msgid "scan type(DVB-S)"
+msgstr ""
+
+#
+msgid "second"
+msgstr "drugi"
+
+#
+msgid "second cable of motorized LNB"
+msgstr "drugi kabal od motorizovanog LNB-a"
+
+#
+msgid "seconds"
+msgstr "sekundi"
+
+#
+msgid "select"
+msgstr "Izaberite"
+
+#
+msgid "select CAId"
+msgstr "Izaberite CAId"
+
+#
+msgid "select CAId's"
+msgstr "Izaberite CAId-e"
+
+#
+msgid "select interface"
+msgstr "Izaberite interfejs"
+
+#
+msgid "select menu entry"
+msgstr "Izaberite meni ulaz"
+
+#
+msgid "select movie"
+msgstr "odaberi film"
+
+#
+msgid "select the movie path"
+msgstr "Izaberite putanju filma"
+
+msgid "service PIN"
+msgstr "PIN kanala"
+
+msgid "setup Fancontrol inStandby mode"
+msgstr ""
+
+msgid "setup PIN"
+msgstr "podesi PIN"
+
+msgid "setup Remote Control System Code Type"
+msgstr ""
+
+msgid ""
+"sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' "
+"en_EN"
+msgstr ""
+
+msgid ""
+"sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' "
+"en_EN"
+msgstr ""
+
+#
+msgid "show DVD main menu"
+msgstr "Pokaži glavni DVD meni"
+
+#
+msgid "show EPG..."
+msgstr "prikaži EPG..."
+
+msgid "show Favourites"
+msgstr ""
+
+#
+msgid "show Infoline"
+msgstr "Pokaži Info liniju "
+
+msgid "show VTi system informations"
+msgstr ""
+
+#
+msgid "show all"
+msgstr "prikaži sve"
+
+#
+msgid "show alternatives"
+msgstr "prikaži alternative"
+
+#
+msgid "show event details"
+msgstr "prikaži proširene infor. "
+
+#
+msgid "show extended description"
+msgstr "prikaži proširene informacije"
+
+#
+msgid "show first selected tag"
+msgstr "Pokaži prvu izabranu oznaku"
+
+msgid "show record menu"
+msgstr ""
+
+msgid "show running records"
+msgstr ""
+
+#
+msgid "show second selected tag"
+msgstr "Pokaži drugu izabranu oznaku"
+
+msgid "show service EPGBar..."
+msgstr ""
+
+#
+msgid "show shutdown menu"
+msgstr "prikaži meni isključivanja"
+
+#
+msgid "show single service EPG..."
+msgstr "prikaži EPG jednog kanala..."
+
+#
+msgid "show tag menu"
+msgstr "prikaži citat menia"
+
+msgid "show timer list"
+msgstr ""
+
+#
+msgid "show transponder info"
+msgstr "prikaži info transpondera"
+
+#
+msgid "shuffle playlist"
+msgstr "sam biraj iz plejliste"
+
+#
+msgid "shut down"
+msgstr "isključi "
+
+#
+msgid "shutdown"
+msgstr "isključi"
+
+#
+msgid "simple"
+msgstr "jednostavno"
+
+msgid "skip backward"
+msgstr "preskoči unazad"
+
+#
+msgid "skip backward (enter time)"
+msgstr "preskoči unazad (unesi vreme)"
+
+#
+msgid "skip forward"
+msgstr "preskoči unapred"
+
+#
+msgid "skip forward (enter time)"
+msgstr "preskoči napred (unesi vreme)"
+
+#
+msgid "slide picture in loop"
+msgstr "Pomeraj sliku u okviru"
+
+msgid "slow"
+msgstr ""
+
+msgid "sort"
+msgstr ""
+
+#
+msgid "sort by date"
+msgstr "sortiraj po datumu"
+
+#
+msgid "special characters"
+msgstr "posebni karakteri"
+
+#
+msgid "standard"
+msgstr "standardno"
+
+#
+msgid "standby"
+msgstr "stanje pripravnosti"
+
+#
+msgid "start cut here"
+msgstr "počni rez ovde"
+
+#
+msgid "start directory"
+msgstr "Početni direktorijum"
+
+msgid "start opera web browser"
+msgstr ""
+
+#
+msgid "start timeshift"
+msgstr "pokreni vrem.pomak"
+
+msgid "start web browser"
+msgstr ""
+
+#
+msgid "stereo"
+msgstr "stereo"
+
+msgid "still picture"
+msgstr ""
+
+#
+msgid "stop PiP"
+msgstr "zaustavi PiP"
+
+#
+msgid "stop entry"
+msgstr "zaustavi unos"
+
+#
+msgid "stop recording"
+msgstr "zaustavi snimanje"
+
+#
+msgid "stop timeshift"
+msgstr "zaustavi vrem.pomak"
+
+#
+msgid "swap PiP and main picture"
+msgstr "zameni SuS sa glavnom slikom"
+
+#
+msgid "switch to bookmarks"
+msgstr "Prebaci na oznake"
+
+#
+msgid "switch to filelist"
+msgstr "prebaci u listu datoteka"
+
+#
+msgid "switch to playlist"
+msgstr "prebaci u plejlistu"
+
+#
+msgid "switch to the next angle"
+msgstr "Prebaci na sledeći ugao"
+
+#
+msgid "switch to the next audio track"
+msgstr "Prebaci na sledeći audio zapis"
+
+#
+msgid "switch to the next subtitle language"
+msgstr "Prebaci na sledeći jezik titla"
+
+#
+msgid "template file"
+msgstr "Šablon datoteka"
+
+#
+msgid "textcolor"
+msgstr "Boja teksta"
+
+#
+msgid "this recording"
+msgstr "ovo snimanje"
+
+#
+msgid "this service is protected by a parental control pin"
+msgstr "kanal je zaštićen s pin kodom roditeljske kontrole"
+
+#
+msgid "toggle a cut mark at the current position"
+msgstr "aktiviraj rezanje na trenutno označenoj poziciji"
+
+#
+msgid "toggle time, chapter, audio, subtitle info"
+msgstr "Prebacuj vreme,poglavlje,audio,subtitl informacije"
+
+msgid "top"
+msgstr ""
+
+msgid "tuner is not supported"
+msgstr "tjuner nije podržan"
+
+msgid "umounting failed!Maybe some files in mount point are open"
+msgstr ""
+
+#
+msgid "unconfirmed"
+msgstr "Nepotvrđeno"
+
+#
+msgid "unknown"
+msgstr "Nepoznato"
+
+#
+msgid "unknown service"
+msgstr "Nepoznat kanal"
+
+#
+msgid "until standby/restart"
+msgstr "do spreman/restart"
+
+msgid "use as startup service"
+msgstr ""
+
+#
+msgid "user defined"
+msgstr "korisnički definisano"
+
+#
+msgid "vertical"
+msgstr "vertikalno"
+
+msgid "vfat - for USB flash memory"
+msgstr ""
+
+msgid "video tune"
+msgstr ""
+
+#
+msgid "view extensions..."
+msgstr "gledaj ekstenzije..."
+
+#
+msgid "view recordings..."
+msgstr "gledaj snimke..."
+
+#
+msgid "wait for ci..."
+msgstr "čekaj ci..."
+
+#
+msgid "wait for mmi..."
+msgstr "čekam mmi..."
+
+#
+msgid "waiting"
+msgstr "čekam"
+
+msgid "warn"
+msgstr ""
+
+#
+msgid "weekly"
+msgstr "nedeljno"
+
+msgid "white"
+msgstr ""
+
+#
+msgid "whitelist"
+msgstr "bela lista"
+
+msgid "width"
+msgstr ""
+
+msgid "wireless network interface"
+msgstr ""
+
+#
+msgid "working"
+msgstr "U radu"
+
+msgid "wpa_supplicant.conf open error."
+msgstr ""
+
+#
+msgid "yellow"
+msgstr "Žuto"
+
+#
+msgid "yes"
+msgstr "Da "
+
+#
+msgid "yes (keep feeds)"
+msgstr "Da ( zadrži fidove)"
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+
+#
+msgid "zap"
+msgstr "zap"
+
+#
+msgid "zapped"
+msgstr "prebačen"
+
+msgid "zapping interval (sec) "
+msgstr ""
