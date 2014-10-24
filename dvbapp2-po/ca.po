@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-25 14:33+0200\n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2013-08-25 14:40+0100\n"
 "Last-Translator: plnick\n"
 "Language-Team: \n"
@@ -1108,6 +1108,10 @@ msgstr ""
 
 #, python-format
 msgid "Bookmark for button %s:"
+msgstr ""
+
+#
+msgid "Bookmark for button %s (long):"
 msgstr ""
 
 #
@@ -2339,7 +2343,7 @@ msgid ""
 "If you experience any problems please contact\n"
 "stephan@reichholf.net\n"
 "\n"
-"© 2006 - Stephan Reichholf"
+" 2006 - Stephan Reichholf"
 msgstr ""
 
 msgid "Enter Key"
@@ -3635,6 +3639,14 @@ msgid "Movies / Timers"
 msgstr ""
 
 #
+msgid "Movies"
+msgstr ""
+
+#
+msgid "Timer"
+msgstr "Programació"
+
+#
 msgid "Multi EPG"
 msgstr "Multi EPG"
 
@@ -4419,6 +4431,10 @@ msgid "Please select tag to filter..."
 msgstr ""
 
 msgid "Please select the destination path..."
+msgstr ""
+
+#
+msgid "Please select the source path..."
 msgstr ""
 
 #
@@ -5382,8 +5398,13 @@ msgstr "Posicionar"
 msgid "Select"
 msgstr ""
 
+#
 #, python-format
-msgid "Select %s button function :"
+msgid "Select %s button function:"
+msgstr ""
+
+#
+msgid "Select %s (long) button function:"
 msgstr ""
 
 #
@@ -5587,6 +5608,14 @@ msgstr "Configuració"
 msgid "Setup - Movies / Timers"
 msgstr ""
 
+#
+msgid "Setup - Movies"
+msgstr ""
+
+#
+msgid "Setup - Timer"
+msgstr ""
+
 msgid "Setup - Service List"
 msgstr ""
 
@@ -5625,8 +5654,13 @@ msgstr ""
 msgid "Short filenames"
 msgstr ""
 
+#
 #, python-format
-msgid "Short name for button  %s:"
+msgid "Short name for bookmark %s:"
+msgstr ""
+
+#
+msgid "Short name for bookmark %s (long):"
 msgstr ""
 
 msgid "Show DVB subtitles centered"
@@ -6571,10 +6605,6 @@ msgid "Timeout for number zap in milliseconds"
 msgstr ""
 
 #
-msgid "Timer"
-msgstr "Programació"
-
-#
 msgid "Timer Edit"
 msgstr "Editar hora"
 
@@ -7477,6 +7507,10 @@ msgstr ""
 
 #
 msgid "Yes, and delete this movie"
+msgstr ""
+
+#
+msgid "Yes, delete this movie and go back to movie list"
 msgstr ""
 
 #
@@ -9095,4 +9129,647 @@ msgid "zapped"
 msgstr "zappejat"
 
 msgid "zapping interval (sec) "
+msgstr ""
+
+#
+msgid "zap and record"
+msgstr ""
+
+#
+msgid "reminder"
+msgstr ""
+
+#
+msgid "Reminder"
+msgstr ""
+
+#
+msgid ""
+"Reminder !\n"
+"Following preferred service starts now :\n"
+"\n"
+"%s\n"
+"%s\n"
+"\n"
+"Do you want to zap ?"
+msgstr ""
+
+#
+msgid "You have to stop your playing Movie before"
+msgstr ""
+
+#
+msgid "Use preview mode in service list (2x OK mode)"
+msgstr ""
+
+#
+msgid "Show EPG data in timer list"
+msgstr ""
+
+#
+msgid "create folder"
+msgstr ""
+
+#
+msgid "January"
+msgstr ""
+
+#
+msgid "February"
+msgstr ""
+
+#
+msgid "March"
+msgstr ""
+
+#
+msgid "April"
+msgstr ""
+
+#
+msgid "May"
+msgstr ""
+
+#
+msgid "June"
+msgstr ""
+
+#
+msgid "July"
+msgstr ""
+
+#
+msgid "August"
+msgstr ""
+
+#
+msgid "September"
+msgstr ""
+
+#
+msgid "October"
+msgstr ""
+
+#
+msgid "November"
+msgstr ""
+
+#
+msgid "December"
+msgstr ""
+
+#
+msgid "Jan"
+msgstr ""
+
+#
+msgid "Feb"
+msgstr ""
+
+#
+msgid "Mar"
+msgstr ""
+
+#
+msgid "Apr"
+msgstr ""
+
+#
+msgid "Jun"
+msgstr ""
+
+#
+msgid "Jul"
+msgstr ""
+
+#
+msgid "Aug"
+msgstr ""
+
+#
+msgid "Sep"
+msgstr ""
+
+#
+msgid "Oct"
+msgstr ""
+
+#
+msgid "Nov"
+msgstr ""
+
+#
+msgid "Dec"
+msgstr ""
+
+#
+msgid "Display > 16:9 content as"
+msgstr ""
+
+#
+msgid "Display 4:3 content as"
+msgstr ""
+
+#
+msgid "Video Output"
+msgstr ""
+
+#
+msgid "Video Setup"
+msgstr ""
+
+#
+msgid "Video Wizard"
+msgstr ""
+
+#
+msgid "Refresh Rate"
+msgstr ""
+
+#
+msgid "General Dolby Digital delay(ms)"
+msgstr ""
+
+#
+msgid "General PCM delay(ms)"
+msgstr ""
+
+#
+msgid "OSD visibility"
+msgstr ""
+
+#
+msgid "Automatic Volume Leveling (AVL)"
+msgstr ""
+
+#
+msgid "Speaker position"
+msgstr ""
+
+#
+msgid "AAC downmix"
+msgstr ""
+
+#
+msgid "Scale picons to given skin size"
+msgstr ""
+
+#
+msgid "Show duration in minutes in movie list"
+msgstr ""
+
+#
+msgid "Show picons in movie list (VTi list style)"
+msgstr ""
+
+#
+msgid "Show duration in movie list (VTi list style)"
+msgstr ""
+
+#
+msgid "Use only date for record time in movie list (VTi list style)"
+msgstr ""
+
+#
+msgid "Show channel info in movie list (VTi list style)"
+msgstr ""
+
+#
+msgid "Show recording date in movie list (VTi list style)"
+msgstr ""
+
+#
+msgid "Search for updates every X hours ( 0 = off )"
+msgstr ""
+
+#
+msgid "Append begin date at end of recording file name"
+msgstr ""
+
+#
+msgid "Protect main menu"
+msgstr ""
+
+#
+msgid "Protect configuration"
+msgstr ""
+
+#
+msgid "Protect movie list"
+msgstr ""
+
+#
+msgid "Protect timer list"
+msgstr ""
+
+#
+msgid "Protect plugin browser"
+msgstr ""
+
+#
+msgid "Protect standby menu"
+msgstr ""
+
+#
+msgid "Protect VTi menu"
+msgstr ""
+
+#
+msgid "Protect VTi Panel"
+msgstr ""
+
+#
+msgid "Movie archive"
+msgstr ""
+
+#
+msgid "Play back media files"
+msgstr ""
+
+#
+msgid "show in main menu"
+msgstr ""
+
+msgid "show in plugin browser"
+msgstr ""
+
+#
+msgid "Play DVDs"
+msgstr ""
+
+#
+msgid "Delete movies without confirmation"
+msgstr ""
+
+#
+msgid "show more movie list options"
+msgstr ""
+
+#
+msgid ""
+"You should now reboot your STB in order to ralink device operate in AP "
+"mode.\n"
+"\n"
+"Reboot now ?\n"
+"\n"
+msgstr ""
+
+#
+msgid ""
+"You should now reboot your STB to better performance of ralink device in STA "
+"mode.\n"
+"\n"
+"Reboot now ?\n"
+"\n"
+msgstr ""
+
+#
+msgid "Multichannel PCM"
+msgstr ""
+
+#
+msgid "show folder"
+msgstr ""
+
+#
+msgid "Show file size in movie list (VTi list style)"
+msgstr ""
+
+#
+msgid "Show notification when update is available"
+msgstr ""
+
+#
+msgid "Short without date"
+msgstr ""
+
+#
+msgid "without function"
+msgstr ""
+
+#
+msgid "change list view"
+msgstr ""
+
+#
+msgid "Color Buttons"
+msgstr ""
+
+#
+msgid "Context Menu"
+msgstr ""
+
+#
+msgid "Toggle short/long key press for color keys"
+msgstr ""
+
+#
+msgid "assign bookmark"
+msgstr ""
+
+#
+msgid "select bookmark"
+msgstr ""
+
+#
+msgid "use virtual keyboard for text input"
+msgstr ""
+
+#
+msgid "create symlink"
+msgstr ""
+
+#
+msgid "Creating symlink failed."
+msgstr ""
+
+#
+msgid "create bookmark : %s"
+msgstr ""
+
+#
+msgid "Start next media file"
+msgstr ""
+
+msgid "Yes, and play next media file"
+msgstr ""
+
+#
+msgid "Play next media file in directory"
+msgstr ""
+
+#
+msgid "Play previous media file in directory"
+msgstr ""
+
+#
+msgid "Default play mode"
+msgstr ""
+
+#
+msgid "Shuffle play"
+msgstr ""
+
+#
+msgid "Play all"
+msgstr ""
+
+#
+msgid "Please select play mode :"
+msgstr ""
+
+#
+msgid "Show movie cover"
+msgstr ""
+
+#
+msgid "Down"
+msgstr ""
+
+#
+msgid "Select key"
+msgstr ""
+
+#
+msgid "Move cursor left"
+msgstr ""
+
+#
+msgid "Move cursor right"
+msgstr ""
+
+#
+msgid "Delete (right of the cursor)"
+msgstr ""
+
+#
+msgid "Delete (left of the cursor)"
+msgstr ""
+
+#
+msgid "Switch keyboard layout"
+msgstr ""
+
+#
+msgid "Toggle SHIFT mode"
+msgstr ""
+
+#
+msgid "Move to begin"
+msgstr ""
+
+#
+msgid "Move to end"
+msgstr ""
+
+#
+msgid "Show last stop time in movie list"
+msgstr ""
+
+#
+msgid "start last played movie"
+msgstr ""
+
+#
+msgid "last video"
+msgstr ""
+
+#
+msgid "Resume movies which are marked as seen"
+msgstr ""
+
+#
+msgid "Activate Split Screen"
+msgstr ""
+
+#
+msgid "Deactivate Split Screen"
+msgstr ""
+
+#
+msgid "(de)activate Split Screen..."
+msgstr ""
+
+#
+msgid "Show infobar on channel change at split screen"
+msgstr ""
+
+#
+msgid "Default function for button EXIT long"
+msgstr ""
+
+#
+msgid "Split Screen"
+msgstr ""
+
+#
+msgid "Picture in Picture"
+msgstr ""
+
+#
+msgid "Audio Zap"
+msgstr ""
+
+#
+msgid "Activate Audio Zap"
+msgstr ""
+
+#
+msgid "Deactivate Audio Zap"
+msgstr ""
+
+#
+msgid "(de)activate Audio Zap..."
+msgstr ""
+
+#
+msgid "Start last service when returning to movie list (PiG)"
+msgstr ""
+
+#
+msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
+msgstr ""
+
+#
+msgid "Video"
+msgstr ""
+
+#
+msgid "Zap focus: "
+msgstr ""
+
+#
+msgid "Main window"
+msgstr ""
+
+#
+msgid "Second window"
+msgstr ""
+
+#
+msgid "Mini TV"
+msgstr ""
+
+#
+msgid "Live TV"
+msgstr ""
+
+#
+msgid "Use extended PictureInGraphic (PiG + transparent skin)"
+msgstr ""
+
+#
+msgid "Use extended PiG also in service list"
+msgstr ""
+
+#
+msgid "toggle zap focus"
+msgstr ""
+
+#
+msgid "Behavior of 0 key (double-click) in PiP-mode"
+msgstr ""
+
+#
+msgid "Timeout for 0 key double-click (ms)"
+msgstr ""
+
+#
+msgid "Default function for 0 key (double-click)"
+msgstr ""
+
+#
+msgid ""
+"GUI needs a restart to apply new configuration.\n"
+"Do you want to restart the GUI now ?"
+msgstr ""
+
+#
+msgid "toggle select mode"
+msgstr ""
+
+#
+msgid "delete selected items"
+msgstr ""
+
+#
+msgid "copy selected items"
+msgstr ""
+
+#
+msgid "move selected items"
+msgstr ""
+
+#
+msgid "play selected items"
+msgstr ""
+
+#
+msgid "show selected items"
+msgstr ""
+
+#
+msgid "no selected item"
+msgstr ""
+
+#
+msgid "reset play progress of selected items"
+msgstr ""
+
+#
+msgid "disable select mode"
+msgstr ""
+
+#
+msgid "enable select mode"
+msgstr ""
+
+#
+msgid "Do you really want to delete all selected items ?"
+msgstr ""
+
+#
+msgid "Not all items could be deleted !"
+msgstr ""
+
+#
+msgid "Recorded files"
+msgstr ""
+
+#
+msgid "Select mode"
+msgstr ""
+
+#
+msgid "movie trash"
+msgstr ""
+
+#
+msgid "clear movie trash"
+msgstr ""
+
+#
+msgid "Show movie trash folder in movie list"
+msgstr ""
+
+#
+msgid "Use movie trash for deleting files"
+msgstr ""
+
+#
+msgid ""
+"Delete failed, because there is no movie trash !\n"
+"Disable movie trash in configuration to delete this item"
+msgstr ""
+
+#
+msgid "Do you really want to delete the movie trash of this device ?"
+msgstr ""
+
+#
+msgid "Movie trash function is not available at this memory device !"
+msgstr ""
+
+#
+msgid "change play mode..."
 msgstr ""
