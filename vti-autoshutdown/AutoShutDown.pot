@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AutoShutDown\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-15 13:58+0100\n"
+"PO-Revision-Date: 2013-12-15 13:58+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: LANGUAGE <plnick@vuplus-support.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "Standby"
+msgstr ""
+
+msgid "Deepstandby"
+msgstr ""
+
+msgid "Go to standby"
+msgstr ""
+
+msgid "Power off STB"
+msgstr ""
+
+#, python-format
+msgid "AutoShutDown: %s ?"
+msgstr ""
+
+msgid "AutoShutDown settings"
+msgstr ""
+
+msgid "AutoShutDown Setup"
+msgstr ""
+
+msgid "configure automated power off / standby"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Choose media file"
+msgstr ""
+
+msgid "Configuration for automatic power off in standby"
+msgstr ""
+
+msgid "Enable automatic power off in standby:"
+msgstr ""
+
+msgid "Time in standby for power off (min):"
+msgstr ""
+
+msgid "Disable power off for given interval:"
+msgstr ""
+
+msgid "Begin of excluded interval (hh:mm):"
+msgstr ""
+
+msgid "End of excluded interval (hh:mm):"
+msgstr ""
+
+msgid "Configuration for inactivity actions"
+msgstr ""
+
+msgid "Enable action after inactivity:"
+msgstr ""
+
+msgid "Time for inactivity (min):"
+msgstr ""
+
+msgid "Action for inactivity:"
+msgstr ""
+
+msgid "Disable inactivity action at timeshift:"
+msgstr ""
+
+msgid "Show message before inactivity action:"
+msgstr ""
+
+msgid "Message timeout (sec):"
+msgstr ""
+
+msgid "Play media file before inactivity action:"
+msgstr ""
+
+msgid "Disable inactivity action for given interval:"
+msgstr ""
+
+msgid "Common configuration"
+msgstr ""
+
+msgid "Disable power off in EPGRefresh interval:"
+msgstr ""
+
+msgid "Disable power off until a hard disk is active:"
+msgstr ""
+
+msgid "Disable power off until a given device is pingable:"
+msgstr ""
+
+msgid "IP address of network device:"
+msgstr ""
+
+msgid "Show in Extensions/Plugins:"
+msgstr ""
+
+msgid "Really close without saving settings?"
+msgstr ""
+
+msgid "Reset AutoShutDown settings to defaults?"
+msgstr ""
+
+msgid "Select a media file for AutoShutDown"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Invalid Choice"
+msgstr ""
