@@ -1,0 +1,593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-21 17:46+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: plnick\n"
+"Language-Team: Roxy\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Autostart"
+msgstr "Aut.start"
+
+msgid "Main menu"
+msgstr "Hl.menu"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "OK/EXIT"
+msgstr "OK/EXIT"
+
+msgid "Restore"
+msgstr "Obnovit"
+
+msgid "Backup"
+msgstr "Záloha"
+
+msgid "red"
+msgstr "červené ... "
+
+msgid " long"
+msgstr " dlouhé ... "
+
+msgid "green"
+msgstr "zelené ... "
+
+msgid "yellow"
+msgstr "žluté ... "
+
+msgid "blue"
+msgstr "modré ... "
+
+msgid "TEXT"
+msgstr "TEXT ... "
+
+msgid "HELP"
+msgstr "HELP ... "
+
+msgid "VU+ EPG / INFO"
+msgstr "EPG Kanály ... "
+
+msgid "HOME"
+msgstr "HOME ... "
+
+msgid "END"
+msgstr "END ... "
+
+msgid "Subtitle"
+msgstr "Titul ... "
+
+msgid "VU+ R-Button"
+msgstr "Files ... "
+
+msgid "RADIO"
+msgstr "RADIO ... "
+
+msgid "TV"
+msgstr "TV ... "
+
+msgid "Cross Up"
+msgstr "Kříž nahoru ... "
+
+msgid "Cross Down"
+msgstr "Kříž dolů ... "
+
+msgid "Cross Left"
+msgstr "Kříž vlevo ... "
+
+msgid "Cross Right"
+msgstr "Kříž vpravo ... "
+
+msgid "Channel +"
+msgstr "Kanál zap + ... "
+
+msgid "Channel -"
+msgstr "Kanál zap. - ... "
+
+msgid "Forward >"
+msgstr "Dopředu > ... "
+
+msgid "Backward <"
+msgstr "Zpět < ... "
+
+msgid "Volume +"
+msgstr "Hlasitost + ... "
+
+msgid "Volume -"
+msgstr "Hlasitost - ... "
+
+msgid "Mute"
+msgstr "Umlčet ... "
+
+msgid "Power"
+msgstr "Off napájení ... "
+
+msgid "Audio"
+msgstr "Audio ... "
+
+msgid "EXIT"
+msgstr "EXIT ... "
+
+msgid "Play"
+msgstr "Přehrát ... "
+
+msgid "Pause"
+msgstr "pauza ... "
+
+msgid "Stop"
+msgstr "Stop ... "
+
+msgid "Rewind <<"
+msgstr "Zpět << ... "
+
+msgid "FastForward >>"
+msgstr "Rychle dopředu >> ... "
+
+msgid "on"
+msgstr "zap."
+
+msgid "off"
+msgstr "vyp."
+
+#, python-format
+msgid "Quickbutton Key : %s"
+msgstr "Tlačítko : %s"
+
+msgid "Please select the backup path..."
+msgstr "Prosím, zadejte umístění zálohy..."
+
+msgid "Overwrite existing Backup?."
+msgstr "Přepsat existující zálohu ?"
+
+msgid "Backup Settings..."
+msgstr "Nastavení zálohy..."
+
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr "Složka %s neexistuje"
+
+msgid "Please select the restore path..."
+msgstr "Prosím, zadejte obnovenou cestu..."
+
+msgid "Overwrite existing Settings?."
+msgstr "Přepsat existující nastavení ?"
+
+#, python-format
+msgid "File %s nonexistent."
+msgstr "Soubor %s neexistuje !"
+
+msgid "Restore Settings..."
+msgstr "Obnovit nastavení..."
+
+msgid ""
+"Restarting Enigma2 to set\n"
+"Multi QuickButton Autostart"
+msgstr ""
+"Restart Enigmy po nastavení, \n"
+"aut.spouštění modulu Multi QuickButton."
+
+msgid "Restarting Enigma2 to load:\n"
+msgstr "Restart Enigmy pro načtení : \n"
+
+msgid "Multi QuickButton settings"
+msgstr "Multi QuickButton - nastavení"
+
+msgid "Cancel"
+msgstr "Storno"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "delete"
+msgstr "Odebrat"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "MQB Functions and Plugins"
+msgstr "Funkce a moduly"
+
+msgid "No valid selection"
+msgstr "Neplatný výběr"
+
+msgid "Add Functions to MQB Key"
+msgstr "Přidat funkci pod tlačítko"
+
+msgid "Add Plugins to MQB Key"
+msgstr "Přidat modul pod tlačítko"
+
+msgid "Add Macro to MQB Key"
+msgstr "Přidat makro pod tlačítko"
+
+#, fuzzy
+msgid "Add Script/Binary to MQB Key"
+msgstr "Přidat funkci pod tlačítko"
+
+msgid "Functions"
+msgstr "Funkce"
+
+msgid "No valid function file found"
+msgstr "Platný soubor není dostupný "
+
+msgid "Plugins"
+msgstr "Zásuvné moduly"
+
+#, python-format
+msgid "Entry %s already exists."
+msgstr "Makro :  %s  je již použito !"
+
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+msgid "MultiQuickButton macro configuration"
+msgstr "Multi QuickButton - konfigurace makra"
+
+msgid "Name"
+msgstr "Název"
+
+msgid "Modify"
+msgstr "Upravit"
+
+msgid "Delete"
+msgstr "Odstranit"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "VU+ EPG / Info"
+msgstr "EPG kanály ... "
+
+msgid "OK"
+msgstr "OK ... "
+
+msgid "Record"
+msgstr "Nahrávání"
+
+msgid "Ok"
+msgstr "OK ... "
+
+msgid "Button : "
+msgstr "Tlačítko : "
+
+msgid "Input name for MQB macro"
+msgstr "Název pro makro"
+
+msgid "Input name for MQB macro : "
+msgstr "Název pro makro :"
+
+msgid "Select a file to execute"
+msgstr ""
+
+msgid "Invalid Choice"
+msgstr ""
+
+#, fuzzy
+msgid "File is not executable"
+msgstr "Soubor %s neexistuje !"
+
+msgid "Script"
+msgstr ""
+
+msgid "Add command line options ?"
+msgstr ""
+
+msgid " "
+msgstr ""
+
+msgid "Please enter the command line options"
+msgstr ""
+
+msgid "chmod 755"
+msgstr ""
+
+msgid "VTI Panel"
+msgstr "VTI - panel"
+
+msgid "Restart SoftCam"
+msgstr "Restart SoftCam"
+
+msgid "Plugin Browser"
+msgstr "Seznam zásuvných modulů"
+
+msgid "Extension Selection"
+msgstr "Výběr balíčků"
+
+msgid "Sleeptimer"
+msgstr "Čas uspání"
+
+msgid "Timer"
+msgstr "Časovač"
+
+msgid "Channel zap +"
+msgstr "Kanál +"
+
+msgid "Channel zap -"
+msgstr "Kanál -"
+
+msgid "Channel zap (list) +"
+msgstr "Kanál v seznamu +"
+
+msgid "Channel zap (list) -"
+msgstr "Kanál v seznamu -"
+
+msgid "Dolby Digital downmix on/off"
+msgstr "Dolby Digital downmix zap/vyp."
+
+msgid "List of Bouquets"
+msgstr "Sady programů"
+
+msgid "Channel list"
+msgstr "Kanály_%"
+
+msgid "Zap history back"
+msgstr "Historie - zpět"
+
+msgid "Zap history next"
+msgstr "Historie - další"
+
+msgid "InfoBar"
+msgstr "Info panel"
+
+msgid "InfoBar EventInfoPlugins"
+msgstr "Kanály_multi_gr/akt/pás"
+
+msgid "InfoBar EventView"
+msgstr "Kanály_volby"
+
+msgid "InfoBar EPG"
+msgstr "Seznam kanálů"
+
+msgid "InfoBar Multi EPG"
+msgstr "Kanály_pásky"
+
+msgid "InfoBar Audio Selection"
+msgstr "Nastavení audia"
+
+msgid "InfoBar Show Radio"
+msgstr "Menu pro Rádio"
+
+msgid "InfoBar Show Tv"
+msgstr "Menu pro TV"
+
+msgid "Movie Archive"
+msgstr ""
+
+msgid "InfoBar Record"
+msgstr "Nahrávání"
+
+msgid "InfoBar Instant Record"
+msgstr "Rychlé nahrávání"
+
+msgid "Start Timeshift"
+msgstr "Start Timeshiftu"
+
+msgid "Start Teletext"
+msgstr "Teletext"
+
+msgid "Favourite channel 1"
+msgstr "Oblíbený kanál 1"
+
+msgid "Favourite channel 2"
+msgstr "Oblíbený kanál 2"
+
+msgid "Favourite channel 3"
+msgstr "Oblíbený kanál 3"
+
+msgid "Favourite channel 4"
+msgstr "Oblíbený kanál 4"
+
+msgid "Favourite channel 5"
+msgstr "Oblíbený kanál 5"
+
+msgid "Toggle AtmoLight"
+msgstr "AtmoLight zap/vyp."
+
+msgid "Subservice Selection"
+msgstr "Volba kanálů"
+
+msgid "Subtitles"
+msgstr "Titulky"
+
+msgid "MediaPlayer"
+msgstr "Media Player"
+
+msgid "DVDPlayer"
+msgstr "DVD Player"
+
+msgid "Picture Player"
+msgstr "Fotografie"
+
+msgid "Cool TV Guide"
+msgstr "Cool TV průvodce"
+
+msgid "A/V Settings"
+msgstr "Audio/Video nastavení"
+
+msgid "Switch 4:3 (Pillarbox) (Pan&Scan)"
+msgstr "Přepnout velikost obrazu"
+
+msgid "Mount info"
+msgstr "Info o připojení "
+
+msgid "Show PIP"
+msgstr "Zapnout PIP"
+
+msgid "Swap PIP"
+msgstr "Přepnout PIP"
+
+msgid "Move PIP"
+msgstr "Přesunout PIP okno"
+
+msgid "VTI EPG Settings"
+msgstr "VTI - seznam kanálů"
+
+msgid "VTI DeviceManager"
+msgstr "VTI - správa disků"
+
+msgid "VTI CamCenter"
+msgstr "VTI - správa CAM "
+
+msgid "VTI Backup Tools"
+msgstr "VTI - zálovací nástroje"
+
+msgid "VTI Image Tools"
+msgstr "VTI - nástroje Image "
+
+msgid "VTI System Tools"
+msgstr "VTI - systémové nástroje"
+
+msgid "VTI Info Tools"
+msgstr "VTI - systémové informace"
+
+msgid "VTI Manual Package Installation"
+msgstr "VTI - manuální inst.balíčků (USB/Temp)"
+
+msgid "VTI BitrateViewer"
+msgstr "VTI - zobrazení bitrate"
+
+msgid "VTI System InfoPanel"
+msgstr "VTI - systémový InfoPanel"
+
+msgid "VTI USB DVB-T/C/S2 Panel"
+msgstr "VTI - USB DVB-T/C/S2 panel"
+
+msgid "VTI CronManager"
+msgstr "VTI - správa Cron"
+
+msgid "VTI ExeManager"
+msgstr "VTI - správa EXE "
+
+msgid "VTI News"
+msgstr "VTI - novinky"
+
+msgid "Reboot"
+msgstr "Restart"
+
+msgid "GUI Restart"
+msgstr "Restart Enigmy"
+
+msgid "DeepStandby"
+msgstr "Vypnout sat.přijímač"
+
+msgid "Remount Network Shares"
+msgstr "Obnovit sdílení sítě"
+
+msgid "Remote control macro I"
+msgstr "Makro ovladače I"
+
+msgid "Remote control macro II"
+msgstr "Makro ovladače II"
+
+msgid "Remote control macro III"
+msgstr "Makro ovladače III"
+
+msgid "Remote control macro IV"
+msgstr "Makro ovladače IV"
+
+msgid "Remote control macro V"
+msgstr "Makro ovladače V"
+
+msgid "AutoResolution on/off"
+msgstr "Aut.rozlišení zap/vyp."
+
+msgid "AutoResolution is disabled"
+msgstr "Aut.rozlišení je zakázané !"
+
+msgid "AutoResolution is enabled"
+msgstr "Aut.rozlišení je povolené"
+
+msgid "HDMI-CEC TV on"
+msgstr "HDMI-CEC TV zap."
+
+msgid "HDMI-CEC TV off"
+msgstr "HDMI-CEC TV vyp."
+
+msgid "HDMI-CEC A/V on"
+msgstr "HDMI-CEC A/V zap."
+
+msgid "HDMI-CEC A/V off"
+msgstr "HDMI-CEC A/V vyp."
+
+msgid "HDMI-CEC A/V Volume +"
+msgstr "HDMI-CEC A/V hlasitost +"
+
+msgid "HDMI-CEC A/V Volume -"
+msgstr "HDMI-CEC A/V hlasitost -"
+
+msgid "HDMI-CEC A/V Volume mute"
+msgstr "HDMI-CEC A/V umlčení"
+
+msgid "HDMI-CEC message was sent"
+msgstr "HDMI-CEC hlášení odesláno"
+
+msgid "Power long"
+msgstr "Vypnutí - dlouhý stisk"
+
+msgid "VTI BackupSuite (Restore)"
+msgstr "VTI - BackupSuite (obnova)"
+
+msgid "VTI BackupSuite (Backup)"
+msgstr "VTI - BackupSuite (záloha)"
+
+msgid "show EPGBar"
+msgstr "EPG info-panel"
+
+msgid "(De)/Activate SplitScreen"
+msgstr ""
+
+msgid "(De)/Activate AudioZap"
+msgstr ""
+
+msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
+msgstr ""
+
+msgid "Quickbutton: Key "
+msgstr "Tlačítko : klíč"
+
+#, python-format
+msgid "file %s not found!"
+msgstr "Soubor %s není dostupný !"
+
+msgid "Multi Quickbutton"
+msgstr "Multi Quickbutton"
+
+#~ msgid "Channel"
+#~ msgstr "Kanál ... "
+
+#~ msgid "Channel Selection"
+#~ msgstr "Vybrat kanál ... "
+
+#~ msgid "Channels"
+#~ msgstr "Kanály"
+
+#~ msgid "Configure macro"
+#~ msgstr "Konfigurovat makro"
+
+#~ msgid "Exit"
+#~ msgstr "Exit"
+
+#~ msgid "InfoBar Show Movies"
+#~ msgstr "Zobrazení nahrávek"
+
+#~ msgid "Macros"
+#~ msgstr "Makra"
+
+#~ msgid "Multi Quickbutton for Keyboard and RC VU+Version"
+#~ msgstr "Multi QuickButton - mapování tlačítek ovladače VU+Ultimo"
+
+#~ msgid "Quickbutton Key : "
+#~ msgstr "Tlačítko, klíč :"
+
+#~ msgid "Quite without saving changes ?"
+#~ msgstr "Ukončit bez uložení změn ?"

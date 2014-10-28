@@ -1,0 +1,601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-21 17:46+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: plnick\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Autostart"
+msgstr "Autostart"
+
+msgid "Main menu"
+msgstr "Hoofdmenu"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "OK/EXIT"
+msgstr "OK/EXIT"
+
+msgid "Restore"
+msgstr "Herstel"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "red"
+msgstr "rood"
+
+msgid " long"
+msgstr "lang"
+
+msgid "green"
+msgstr "groen"
+
+msgid "yellow"
+msgstr "geel"
+
+msgid "blue"
+msgstr "blauw"
+
+msgid "TEXT"
+msgstr "Tekst"
+
+msgid "HELP"
+msgstr "Help"
+
+msgid "VU+ EPG / INFO"
+msgstr "VU+ EPG / INFO"
+
+msgid "HOME"
+msgstr "Home"
+
+msgid "END"
+msgstr "End"
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "VU+ R-Button"
+msgstr "VU+ R-knop"
+
+msgid "RADIO"
+msgstr "Radio"
+
+msgid "TV"
+msgstr ""
+
+msgid "Cross Up"
+msgstr "Pijl omhoog"
+
+msgid "Cross Down"
+msgstr "Pijl omlaag"
+
+msgid "Cross Left"
+msgstr "Pijl links"
+
+msgid "Cross Right"
+msgstr "Pijl rechts"
+
+msgid "Channel +"
+msgstr "Kanaal +"
+
+msgid "Channel -"
+msgstr "Kanaal -"
+
+msgid "Forward >"
+msgstr "Vooruit >"
+
+msgid "Backward <"
+msgstr "Achteruit <"
+
+msgid "Volume +"
+msgstr ""
+
+msgid "Volume -"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "EXIT"
+msgstr "Exit"
+
+msgid "Play"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Rewind <<"
+msgstr ""
+
+#, fuzzy
+msgid "FastForward >>"
+msgstr "Vooruit >"
+
+msgid "on"
+msgstr "aan"
+
+msgid "off"
+msgstr "uit"
+
+#, fuzzy, python-format
+msgid "Quickbutton Key : %s"
+msgstr "Quickbutton: Knop"
+
+msgid "Please select the backup path..."
+msgstr "Kies de backup locatie"
+
+msgid "Overwrite existing Backup?."
+msgstr "Overschrijf de bestaande back-up?"
+
+msgid "Backup Settings..."
+msgstr "Back-up instellingen"
+
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr "Map %s bestaat niet"
+
+msgid "Please select the restore path..."
+msgstr "Kies de locatie van de bestaande back-up"
+
+msgid "Overwrite existing Settings?."
+msgstr "Bestaande instellingen overschrijven?"
+
+#, python-format
+msgid "File %s nonexistent."
+msgstr "Bestand %s bestaat niet"
+
+msgid "Restore Settings..."
+msgstr "Herstel instellingen"
+
+msgid ""
+"Restarting Enigma2 to set\n"
+"Multi QuickButton Autostart"
+msgstr ""
+"Herstarting Enigma2 om in te stellen\n"
+"Multi QuickButton Autostart"
+
+msgid "Restarting Enigma2 to load:\n"
+msgstr "Enigma2 wordt herstart om in te stellen:\n"
+
+msgid "Multi QuickButton settings"
+msgstr "Multi QuickButton instellingen"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Save"
+msgstr "Sla op"
+
+msgid "delete"
+msgstr "verwijder"
+
+msgid "Add"
+msgstr "Voeg toe"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "MQB Functions and Plugins"
+msgstr ""
+
+#, fuzzy
+msgid "No valid selection"
+msgstr "Kanaal keuze"
+
+msgid "Add Functions to MQB Key"
+msgstr ""
+
+msgid "Add Plugins to MQB Key"
+msgstr ""
+
+msgid "Add Macro to MQB Key"
+msgstr ""
+
+msgid "Add Script/Binary to MQB Key"
+msgstr ""
+
+msgid "Functions"
+msgstr ""
+
+msgid "No valid function file found"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+#, python-format
+msgid "Entry %s already exists."
+msgstr "Waarde %s bestaat al"
+
+msgid "Save Settings"
+msgstr "Sla de instellingen op"
+
+#, fuzzy
+msgid "MultiQuickButton macro configuration"
+msgstr "Multi QuickButton instellingen"
+
+msgid "Name"
+msgstr ""
+
+msgid "Modify"
+msgstr ""
+
+#, fuzzy
+msgid "Delete"
+msgstr "verwijder"
+
+msgid "Menu"
+msgstr ""
+
+#, fuzzy
+msgid "VU+ EPG / Info"
+msgstr "VU+ EPG / INFO"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Record"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Button : "
+msgstr ""
+
+msgid "Input name for MQB macro"
+msgstr ""
+
+msgid "Input name for MQB macro : "
+msgstr ""
+
+msgid "Select a file to execute"
+msgstr ""
+
+msgid "Invalid Choice"
+msgstr ""
+
+#, fuzzy
+msgid "File is not executable"
+msgstr "Bestand %s bestaat niet"
+
+msgid "Script"
+msgstr ""
+
+msgid "Add command line options ?"
+msgstr ""
+
+msgid " "
+msgstr ""
+
+msgid "Please enter the command line options"
+msgstr ""
+
+msgid "chmod 755"
+msgstr ""
+
+msgid "VTI Panel"
+msgstr ""
+
+msgid "Restart SoftCam"
+msgstr ""
+
+msgid "Plugin Browser"
+msgstr ""
+
+#, fuzzy
+msgid "Extension Selection"
+msgstr "Kanaal keuze"
+
+msgid "Sleeptimer"
+msgstr ""
+
+msgid "Timer"
+msgstr ""
+
+#, fuzzy
+msgid "Channel zap +"
+msgstr "Kanaal +"
+
+#, fuzzy
+msgid "Channel zap -"
+msgstr "Kanaal -"
+
+#, fuzzy
+msgid "Channel zap (list) +"
+msgstr "Kanaal +"
+
+#, fuzzy
+msgid "Channel zap (list) -"
+msgstr "Kanaal -"
+
+msgid "Dolby Digital downmix on/off"
+msgstr ""
+
+msgid "List of Bouquets"
+msgstr ""
+
+#, fuzzy
+msgid "Channel list"
+msgstr "Kanalen"
+
+msgid "Zap history back"
+msgstr ""
+
+msgid "Zap history next"
+msgstr ""
+
+#, fuzzy
+msgid "InfoBar"
+msgstr "Info"
+
+msgid "InfoBar EventInfoPlugins"
+msgstr ""
+
+msgid "InfoBar EventView"
+msgstr ""
+
+msgid "InfoBar EPG"
+msgstr ""
+
+msgid "InfoBar Multi EPG"
+msgstr ""
+
+msgid "InfoBar Audio Selection"
+msgstr ""
+
+msgid "InfoBar Show Radio"
+msgstr ""
+
+msgid "InfoBar Show Tv"
+msgstr ""
+
+msgid "Movie Archive"
+msgstr ""
+
+msgid "InfoBar Record"
+msgstr ""
+
+msgid "InfoBar Instant Record"
+msgstr ""
+
+msgid "Start Timeshift"
+msgstr ""
+
+msgid "Start Teletext"
+msgstr ""
+
+msgid "Favourite channel 1"
+msgstr ""
+
+msgid "Favourite channel 2"
+msgstr ""
+
+msgid "Favourite channel 3"
+msgstr ""
+
+msgid "Favourite channel 4"
+msgstr ""
+
+msgid "Favourite channel 5"
+msgstr ""
+
+msgid "Toggle AtmoLight"
+msgstr ""
+
+msgid "Subservice Selection"
+msgstr ""
+
+msgid "Subtitles"
+msgstr ""
+
+msgid "MediaPlayer"
+msgstr ""
+
+msgid "DVDPlayer"
+msgstr ""
+
+msgid "Picture Player"
+msgstr ""
+
+msgid "Cool TV Guide"
+msgstr ""
+
+#, fuzzy
+msgid "A/V Settings"
+msgstr "Sla de instellingen op"
+
+msgid "Switch 4:3 (Pillarbox) (Pan&Scan)"
+msgstr ""
+
+msgid "Mount info"
+msgstr ""
+
+msgid "Show PIP"
+msgstr ""
+
+msgid "Swap PIP"
+msgstr ""
+
+msgid "Move PIP"
+msgstr ""
+
+#, fuzzy
+msgid "VTI EPG Settings"
+msgstr "Sla de instellingen op"
+
+msgid "VTI DeviceManager"
+msgstr ""
+
+msgid "VTI CamCenter"
+msgstr ""
+
+msgid "VTI Backup Tools"
+msgstr ""
+
+msgid "VTI Image Tools"
+msgstr ""
+
+msgid "VTI System Tools"
+msgstr ""
+
+msgid "VTI Info Tools"
+msgstr ""
+
+msgid "VTI Manual Package Installation"
+msgstr ""
+
+msgid "VTI BitrateViewer"
+msgstr ""
+
+msgid "VTI System InfoPanel"
+msgstr ""
+
+msgid "VTI USB DVB-T/C/S2 Panel"
+msgstr ""
+
+msgid "VTI CronManager"
+msgstr ""
+
+msgid "VTI ExeManager"
+msgstr ""
+
+msgid "VTI News"
+msgstr ""
+
+msgid "Reboot"
+msgstr ""
+
+msgid "GUI Restart"
+msgstr ""
+
+msgid "DeepStandby"
+msgstr ""
+
+msgid "Remount Network Shares"
+msgstr ""
+
+msgid "Remote control macro I"
+msgstr ""
+
+msgid "Remote control macro II"
+msgstr ""
+
+msgid "Remote control macro III"
+msgstr ""
+
+msgid "Remote control macro IV"
+msgstr ""
+
+msgid "Remote control macro V"
+msgstr ""
+
+msgid "AutoResolution on/off"
+msgstr ""
+
+msgid "AutoResolution is disabled"
+msgstr ""
+
+msgid "AutoResolution is enabled"
+msgstr ""
+
+msgid "HDMI-CEC TV on"
+msgstr ""
+
+msgid "HDMI-CEC TV off"
+msgstr ""
+
+msgid "HDMI-CEC A/V on"
+msgstr ""
+
+msgid "HDMI-CEC A/V off"
+msgstr ""
+
+msgid "HDMI-CEC A/V Volume +"
+msgstr ""
+
+msgid "HDMI-CEC A/V Volume -"
+msgstr ""
+
+msgid "HDMI-CEC A/V Volume mute"
+msgstr ""
+
+msgid "HDMI-CEC message was sent"
+msgstr ""
+
+#, fuzzy
+msgid "Power long"
+msgstr "lang"
+
+msgid "VTI BackupSuite (Restore)"
+msgstr ""
+
+msgid "VTI BackupSuite (Backup)"
+msgstr ""
+
+msgid "show EPGBar"
+msgstr ""
+
+msgid "(De)/Activate SplitScreen"
+msgstr ""
+
+msgid "(De)/Activate AudioZap"
+msgstr ""
+
+msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
+msgstr ""
+
+msgid "Quickbutton: Key "
+msgstr "Quickbutton: Knop"
+
+#, python-format
+msgid "file %s not found!"
+msgstr "bestand %s niet gevonden"
+
+msgid "Multi Quickbutton"
+msgstr "Multi Quickbutton"
+
+#~ msgid "Channels"
+#~ msgstr "Kanalen"
+
+#~ msgid "About"
+#~ msgstr "Over"
+
+#~ msgid "Please Restart MultiQuickButton"
+#~ msgstr "Herstart MultiQuickButton"
+
+#~ msgid ""
+#~ "Restarting Enigma2 to (de)activate:\n"
+#~ "OK and EXIT Button"
+#~ msgstr ""
+#~ "Enigma2 wordt opnieuw gestart om te (de)activeren:\n"
+#~ "OK en EXIT knop"
+
+#~ msgid "Channel"
+#~ msgstr "Kanaal"
+
+#~ msgid "Channel Selection"
+#~ msgstr "Kanaal keuze"
+
+#~ msgid "Quite without saving changes ?"
+#~ msgstr "Afsluiten zonder op te slaan?"

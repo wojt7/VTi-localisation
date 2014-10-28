@@ -1,0 +1,563 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MultiQuickButton\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-21 17:46+0100\n"
+"PO-Revision-Date: 2014-08-21 17:46+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: plnick <plnick@vuplus-support.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+msgid "Autostart"
+msgstr ""
+
+msgid "Main menu"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "OK/EXIT"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+msgid "red"
+msgstr ""
+
+msgid " long"
+msgstr ""
+
+msgid "green"
+msgstr ""
+
+msgid "yellow"
+msgstr ""
+
+msgid "blue"
+msgstr ""
+
+msgid "TEXT"
+msgstr ""
+
+msgid "HELP"
+msgstr ""
+
+msgid "VU+ EPG / INFO"
+msgstr ""
+
+msgid "HOME"
+msgstr ""
+
+msgid "END"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "VU+ R-Button"
+msgstr ""
+
+msgid "RADIO"
+msgstr ""
+
+msgid "TV"
+msgstr ""
+
+msgid "Cross Up"
+msgstr ""
+
+msgid "Cross Down"
+msgstr ""
+
+msgid "Cross Left"
+msgstr ""
+
+msgid "Cross Right"
+msgstr ""
+
+msgid "Channel +"
+msgstr ""
+
+msgid "Channel -"
+msgstr ""
+
+msgid "Forward >"
+msgstr ""
+
+msgid "Backward <"
+msgstr ""
+
+msgid "Volume +"
+msgstr ""
+
+msgid "Volume -"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "EXIT"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Rewind <<"
+msgstr ""
+
+msgid "FastForward >>"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "off"
+msgstr ""
+
+#, python-format
+msgid "Quickbutton Key : %s"
+msgstr ""
+
+msgid "Please select the backup path..."
+msgstr ""
+
+msgid "Overwrite existing Backup?."
+msgstr ""
+
+msgid "Backup Settings..."
+msgstr ""
+
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr ""
+
+msgid "Please select the restore path..."
+msgstr ""
+
+msgid "Overwrite existing Settings?."
+msgstr ""
+
+#, python-format
+msgid "File %s nonexistent."
+msgstr ""
+
+msgid "Restore Settings..."
+msgstr ""
+
+msgid ""
+"Restarting Enigma2 to set\n"
+"Multi QuickButton Autostart"
+msgstr ""
+
+msgid "Restarting Enigma2 to load:\n"
+msgstr ""
+
+msgid "Multi QuickButton settings"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "MQB Functions and Plugins"
+msgstr ""
+
+msgid "No valid selection"
+msgstr ""
+
+msgid "Add Functions to MQB Key"
+msgstr ""
+
+msgid "Add Plugins to MQB Key"
+msgstr ""
+
+msgid "Add Macro to MQB Key"
+msgstr ""
+
+msgid "Add Script/Binary to MQB Key"
+msgstr ""
+
+msgid "Functions"
+msgstr ""
+
+msgid "No valid function file found"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+#, python-format
+msgid "Entry %s already exists."
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "MultiQuickButton macro configuration"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Modify"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "VU+ EPG / Info"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Button : "
+msgstr ""
+
+msgid "Input name for MQB macro"
+msgstr ""
+
+msgid "Input name for MQB macro : "
+msgstr ""
+
+msgid "Select a file to execute"
+msgstr ""
+
+msgid "Invalid Choice"
+msgstr ""
+
+msgid "File is not executable"
+msgstr ""
+
+msgid "Script"
+msgstr ""
+
+msgid "Add command line options ?"
+msgstr ""
+
+msgid " "
+msgstr ""
+
+msgid "Please enter the command line options"
+msgstr ""
+
+msgid "chmod 755"
+msgstr ""
+
+msgid "VTI Panel"
+msgstr ""
+
+msgid "Restart SoftCam"
+msgstr ""
+
+msgid "Plugin Browser"
+msgstr ""
+
+msgid "Extension Selection"
+msgstr ""
+
+msgid "Sleeptimer"
+msgstr ""
+
+msgid "Timer"
+msgstr ""
+
+msgid "Channel zap +"
+msgstr ""
+
+msgid "Channel zap -"
+msgstr ""
+
+msgid "Channel zap (list) +"
+msgstr ""
+
+msgid "Channel zap (list) -"
+msgstr ""
+
+msgid "Dolby Digital downmix on/off"
+msgstr ""
+
+msgid "List of Bouquets"
+msgstr ""
+
+msgid "Channel list"
+msgstr ""
+
+msgid "Zap history back"
+msgstr ""
+
+msgid "Zap history next"
+msgstr ""
+
+msgid "InfoBar"
+msgstr ""
+
+msgid "InfoBar EventInfoPlugins"
+msgstr ""
+
+msgid "InfoBar EventView"
+msgstr ""
+
+msgid "InfoBar EPG"
+msgstr ""
+
+msgid "InfoBar Multi EPG"
+msgstr ""
+
+msgid "InfoBar Audio Selection"
+msgstr ""
+
+msgid "InfoBar Show Radio"
+msgstr ""
+
+msgid "InfoBar Show Tv"
+msgstr ""
+
+msgid "Movie Archive"
+msgstr ""
+
+msgid "InfoBar Record"
+msgstr ""
+
+msgid "InfoBar Instant Record"
+msgstr ""
+
+msgid "Start Timeshift"
+msgstr ""
+
+msgid "Start Teletext"
+msgstr ""
+
+msgid "Favourite channel 1"
+msgstr ""
+
+msgid "Favourite channel 2"
+msgstr ""
+
+msgid "Favourite channel 3"
+msgstr ""
+
+msgid "Favourite channel 4"
+msgstr ""
+
+msgid "Favourite channel 5"
+msgstr ""
+
+msgid "Toggle AtmoLight"
+msgstr ""
+
+msgid "Subservice Selection"
+msgstr ""
+
+msgid "Subtitles"
+msgstr ""
+
+msgid "MediaPlayer"
+msgstr ""
+
+msgid "DVDPlayer"
+msgstr ""
+
+msgid "Picture Player"
+msgstr ""
+
+msgid "Cool TV Guide"
+msgstr ""
+
+msgid "A/V Settings"
+msgstr ""
+
+msgid "Switch 4:3 (Pillarbox) (Pan&Scan)"
+msgstr ""
+
+msgid "Mount info"
+msgstr ""
+
+msgid "Show PIP"
+msgstr ""
+
+msgid "Swap PIP"
+msgstr ""
+
+msgid "Move PIP"
+msgstr ""
+
+msgid "VTI EPG Settings"
+msgstr ""
+
+msgid "VTI DeviceManager"
+msgstr ""
+
+msgid "VTI CamCenter"
+msgstr ""
+
+msgid "VTI Backup Tools"
+msgstr ""
+
+msgid "VTI Image Tools"
+msgstr ""
+
+msgid "VTI System Tools"
+msgstr ""
+
+msgid "VTI Info Tools"
+msgstr ""
+
+msgid "VTI Manual Package Installation"
+msgstr ""
+
+msgid "VTI BitrateViewer"
+msgstr ""
+
+msgid "VTI System InfoPanel"
+msgstr ""
+
+msgid "VTI USB DVB-T/C/S2 Panel"
+msgstr ""
+
+msgid "VTI CronManager"
+msgstr ""
+
+msgid "VTI ExeManager"
+msgstr ""
+
+msgid "VTI News"
+msgstr ""
+
+msgid "Reboot"
+msgstr ""
+
+msgid "GUI Restart"
+msgstr ""
+
+msgid "DeepStandby"
+msgstr ""
+
+msgid "Remount Network Shares"
+msgstr ""
+
+msgid "Remote control macro I"
+msgstr ""
+
+msgid "Remote control macro II"
+msgstr ""
+
+msgid "Remote control macro III"
+msgstr ""
+
+msgid "Remote control macro IV"
+msgstr ""
+
+msgid "Remote control macro V"
+msgstr ""
+
+msgid "AutoResolution on/off"
+msgstr ""
+
+msgid "AutoResolution is disabled"
+msgstr ""
+
+msgid "AutoResolution is enabled"
+msgstr ""
+
+msgid "HDMI-CEC TV on"
+msgstr ""
+
+msgid "HDMI-CEC TV off"
+msgstr ""
+
+msgid "HDMI-CEC A/V on"
+msgstr ""
+
+msgid "HDMI-CEC A/V off"
+msgstr ""
+
+msgid "HDMI-CEC A/V Volume +"
+msgstr ""
+
+msgid "HDMI-CEC A/V Volume -"
+msgstr ""
+
+msgid "HDMI-CEC A/V Volume mute"
+msgstr ""
+
+msgid "HDMI-CEC message was sent"
+msgstr ""
+
+msgid "Power long"
+msgstr ""
+
+msgid "VTI BackupSuite (Restore)"
+msgstr ""
+
+msgid "VTI BackupSuite (Backup)"
+msgstr ""
+
+msgid "show EPGBar"
+msgstr ""
+
+msgid "(De)/Activate SplitScreen"
+msgstr ""
+
+msgid "(De)/Activate AudioZap"
+msgstr ""
+
+msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
+msgstr ""
+
+msgid "Quickbutton: Key "
+msgstr ""
+
+#, python-format
+msgid "file %s not found!"
+msgstr ""
+
+msgid "Multi Quickbutton"
+msgstr ""
