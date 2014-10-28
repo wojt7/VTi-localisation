@@ -1,0 +1,1798 @@
+# Dutch translations for enigma2-plugins package.
+# Copyright (C) 2010 THE enigma2-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-plugins package.
+# Automatically generated, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 18:32+0100\n"
+"PO-Revision-Date: 2011-12-11 18:33+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: VTI Team <www.vuplus-support.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../EPGPanel.py:38
+msgid "/hdd"
+msgstr "/hdd"
+
+#: ../EPGPanel.py:38
+msgid "/media/hdd"
+msgstr "/media/hdd"
+
+#: ../EPGPanel.py:38
+msgid "/media/usb"
+msgstr "/media/usb"
+
+#: ../EPGPanel.py:38
+msgid "/media/hdd1"
+msgstr "/media/hdd1"
+
+#: ../EPGPanel.py:38
+msgid "/media/usb1"
+msgstr "/media/usb1"
+
+#: ../EPGPanel.py:42
+msgid "VTI EPG Panel"
+msgstr "VTI EPG Panel"
+
+#: ../EPGPanel.py:48
+#: ../DriverManager.py:62
+#: ../DriverManager.py:230
+#: ../plugin.py:1514
+#: ../BackupSuite.py:108
+msgid "Exit"
+msgstr "Verlaten"
+
+#: ../EPGPanel.py:49
+#: ../BackupRestore.py:113
+#: ../ExeManager.py:208
+#: ../ExeManager.py:270
+#: ../CronManager.py:247
+#: ../CronManager.py:365
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../EPGPanel.py:65
+msgid "EPG Path :"
+msgstr "EPG Pad :"
+
+#: ../EPGPanel.py:66
+msgid "Save EPG cache to epg.dat"
+msgstr "Sla EPG cache op naar epg.dat"
+
+#: ../EPGPanel.py:67
+msgid "Load EPG data from epg.dat"
+msgstr "Laad EPG data van epg.dat"
+
+#: ../EPGPanel.py:68
+msgid "Delete broken epg.dat"
+msgstr "Verwijder defecte epg.dat"
+
+#: ../EPGPanel.py:81
+#, python-format
+msgid "EPG path set to : %s"
+msgstr "EPG pad is : %s"
+
+#: ../EPGPanel.py:97
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "Opslaan van EPG cache naar %s gereed"
+
+#: ../EPGPanel.py:105
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "Laden van EPG data van %s gereed"
+
+#: ../EPGPanel.py:108
+msgid ""
+"Do you really want to delete epg.dat ?\n"
+"Note: This will restart your VU+ STB"
+msgstr ""
+"Wilt U werkelijk epg.dat verwijderen ?\n"
+"Opmerking: Dit zal Uw VU+ doen herstarten"
+
+#: ../DriverManager.py:54
+#: ../DriverManager.py:106
+#: ../DriverManager.py:117
+#: ../DriverManager.py:120
+#: ../DriverManager.py:222
+#: ../DriverManager.py:332
+msgid "VTI DriverManager"
+msgstr "VTI DriverManager"
+
+#: ../DriverManager.py:63
+#: ../DriverManager.py:150
+#: ../ExeManager.py:344
+#: ../CronManager.py:457
+msgid "OK"
+msgstr "OK"
+
+#: ../DriverManager.py:82
+msgid "not available"
+msgstr ""
+
+#: ../DriverManager.py:83
+msgid "Current drivers: "
+msgstr "Huidige drivers:"
+
+#: ../DriverManager.py:89
+msgid "Install drivers from a local device"
+msgstr "Installeer de drivers van een lokaal apparaat"
+
+#: ../DriverManager.py:89
+msgid "choose drivers from local filesystem to install"
+msgstr "Selecteer drivers van het lokale bestandssysteem om te installeren"
+
+#: ../DriverManager.py:90
+msgid "Download and install drivers from Vu+ website"
+msgstr "Download en installeer drivers van Vu website"
+
+#: ../DriverManager.py:90
+msgid "choose drivers for download/install"
+msgstr "Selecteer drivers om te downloaden/installeren"
+
+#: ../DriverManager.py:105
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+"Bent U zeker dat U onderstaande drivers wilt instaleren\n"
+"drivers:\n"
+
+#: ../DriverManager.py:116
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+"Drivers met succes geïnstalleerd !\n"
+"Uw VU+ STB moet opnieuw opstarten:\n"
+"Nu opnieuw opstarten ?"
+
+#: ../DriverManager.py:119
+msgid "Installation of drivers failed !!!"
+msgstr "Installatie van de drivers is mislukt !"
+
+#: ../DriverManager.py:144
+msgid "Select a drivers to install"
+msgstr "Selecteer een driver om te instaleren"
+
+#: ../DriverManager.py:149
+#: ../BackupRestore.py:112
+#: ../BackupRestore.py:192
+#: ../BackupRestore.py:322
+#: ../ExeManager.py:207
+#: ../ExeManager.py:269
+#: ../ExeManager.py:343
+#: ../CronManager.py:246
+#: ../CronManager.py:364
+#: ../CronManager.py:456
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../DriverManager.py:158
+#: ../ExeManager.py:351
+#: ../ExeManager.py:422
+#: ../CronManager.py:464
+#: ../CronManager.py:535
+msgid "Invalid Choice"
+msgstr "Ongeldige keuze"
+
+#: ../DriverManager.py:167
+#: ../DriverManager.py:207
+#: ../DriverManager.py:215
+msgid "no valid drivers"
+msgstr "Geen geldige drivers"
+
+#: ../DriverManager.py:228
+#: ../DriverManager.py:253
+msgid "Please wait ..."
+msgstr "Een ogenblik geduld ..."
+
+#: ../DriverManager.py:228
+#: ../DriverManager.py:253
+msgid " downloading available drivers information"
+msgstr "downloaden van beschikbare Driver Informatie"
+
+#: ../DriverManager.py:231
+msgid "Download"
+msgstr "Download"
+
+#: ../DriverManager.py:302
+#, python-format
+msgid "Driver : %s"
+msgstr "Driver : %s"
+
+#: ../DriverManager.py:302
+msgid "choose this drivers for download"
+msgstr "Selecteer deze driver om te downloaden"
+
+#: ../DriverManager.py:316
+msgid "Please wait, downloading drivers: "
+msgstr "Even geduld aub, download drivers"
+
+#: ../DriverManager.py:331
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+"Download mislukt !\n"
+"Controleer U internetverbinding"
+
+#: ../plugin.py:130
+#: ../plugin.py:264
+#: ../plugin.py:468
+#: ../plugin.py:1584
+#: ../plugin.py:1816
+#: ../MyPluginManager.py:52
+#: ../BackupSuite.py:330
+msgid "Close"
+msgstr "Sluiten"
+
+#: ../plugin.py:131
+msgid "News"
+msgstr "Nieuws"
+
+#: ../plugin.py:132
+msgid "System Tools"
+msgstr "Systeem Gereedschap"
+
+#: ../plugin.py:133
+msgid "Cam Center"
+msgstr "Cam Center"
+
+#: ../plugin.py:137
+msgid "VTI Panel"
+msgstr "VTI Panel"
+
+#: ../plugin.py:181
+msgid "VTI Cam Center"
+msgstr "VTI Cam Center"
+
+#: ../plugin.py:181
+msgid "select or install your favourite cam"
+msgstr "Selecteer of Installeer uw favoriete Cam"
+
+#: ../plugin.py:182
+msgid "VTI System Info"
+msgstr "VTI Systeem Info"
+
+#: ../plugin.py:182
+msgid "Infos about your VU+Duo"
+msgstr "Info`s over je VU + Duo"
+
+#: ../plugin.py:183
+#: ../plugin.py:448
+msgid "VTI System Tools"
+msgstr "VTI Systeem Gereedschap"
+
+#: ../plugin.py:183
+msgid "manage your VU+Duo"
+msgstr "beheer U  VU+Duo"
+
+#: ../plugin.py:184
+#: ../plugin.py:422
+msgid "VTI Image Tools"
+msgstr "VTI Image Tools"
+
+#: ../plugin.py:184
+msgid "backup or flash an image"
+msgstr "Back-up of flash een image"
+
+#: ../plugin.py:185
+#: ../plugin.py:407
+msgid "VTI Backup Tools"
+msgstr "VTI Backup Tools"
+
+#: ../plugin.py:185
+msgid "backup or restore your settings"
+msgstr "Back-up of herstel u instellingen"
+
+#: ../plugin.py:186
+msgid "VTI Software Manager"
+msgstr ""
+
+#: ../plugin.py:186
+msgid "install/download software for your Vu+"
+msgstr ""
+
+#: ../plugin.py:187
+msgid "manual Installer"
+msgstr "Handmatig installeren"
+
+#: ../plugin.py:187
+msgid "install .tar.gz or ipkg manually"
+msgstr "installeer .tar.gz of ipkg handmatig"
+
+#: ../plugin.py:188
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../plugin.py:188
+msgid "open enigma2 Plugin Menu"
+msgstr "Open enigma2 Plugin Menu"
+
+#: ../plugin.py:258
+#: ../plugin.py:300
+#: ../plugin.py:454
+msgid "News about VTI"
+msgstr "Nieuws over VTi"
+
+#: ../plugin.py:265
+msgid "Update"
+msgstr "Update"
+
+#: ../plugin.py:266
+#: ../plugin.py:294
+#: ../plugin.py:304
+#: ../ExeManager.py:372
+#: ../ExeManager.py:409
+#: ../ExeManager.py:415
+#: ../ExeManager.py:420
+#: ../ExeManager.py:423
+#: ../CronManager.py:485
+#: ../CronManager.py:522
+#: ../CronManager.py:528
+#: ../CronManager.py:533
+#: ../CronManager.py:536
+msgid " "
+msgstr ""
+
+#: ../plugin.py:267
+#: ../plugin.py:303
+msgid "show Updates"
+msgstr "Laat Updates zien"
+
+#: ../plugin.py:291
+msgid "Upgradable Packages"
+msgstr "Updatebare Pakketten"
+
+#: ../plugin.py:295
+msgid "show News"
+msgstr "laat nieuws zien"
+
+#: ../plugin.py:344
+#: ../plugin.py:347
+#: ../plugin.py:373
+msgid ""
+"There are no news or your\n"
+"Internet connection is not ok"
+msgstr ""
+"Er is geen nieuws of Uw\n"
+"Internet verbinding is niet ok"
+
+#: ../plugin.py:367
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+" old version : %s | new version : %s \n"
+msgstr ""
+"\n"
+"Pakket : %s \n"
+" oude versie : %s | nieuwe versie : %s \n"
+
+#: ../plugin.py:370
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Uw Systeem is up to date"
+
+#: ../plugin.py:389
+msgid "VTI Sub Menu"
+msgstr "VTI Sub Menu"
+
+#: ../plugin.py:401
+msgid "VTI Backupsuite"
+msgstr "VTI Backupsuite"
+
+#: ../plugin.py:401
+msgid "Restore and backup installed channellist and plugins"
+msgstr "Herstel en Backup geïnstalleerde zenderlijsten en plugins"
+
+#: ../plugin.py:402
+msgid "Backup system settings"
+msgstr "Back-up u systeem instellingen"
+
+#: ../plugin.py:402
+msgid "Backup your STB settings."
+msgstr "Back-up u STB instellingen."
+
+#: ../plugin.py:403
+msgid "Restore system settings"
+msgstr "Systeem instellingen terugzetten"
+
+#: ../plugin.py:403
+msgid "Restore your STB settings."
+msgstr "Instellingen terugzetten."
+
+#: ../plugin.py:404
+#: ../plugin.py:420
+msgid "Advanced restore"
+msgstr "Geavanceerd herstellen"
+
+#: ../plugin.py:404
+#: ../plugin.py:420
+msgid "Restore your backups by date."
+msgstr "Selecteer een Gebackupped Image."
+
+#: ../plugin.py:405
+#: ../plugin.py:421
+msgid "Choose backup location"
+msgstr "Selecteer Back-up locatie"
+
+#: ../plugin.py:405
+#: ../plugin.py:421
+msgid "Select your backup device. "
+msgstr "Selecteer u Back-up medium. "
+
+#: ../plugin.py:406
+msgid "Choose backup files"
+msgstr "Selecteer Back-up bestanden"
+
+#: ../plugin.py:406
+msgid "Select files for backup. "
+msgstr "Selecteer bestanden voor Back-up. "
+
+#: ../plugin.py:410
+msgid "Install .tar.gz "
+msgstr ".tar.gz installeren "
+
+#: ../plugin.py:410
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Installeren .tar.gz bestand uit /tmp "
+
+#: ../plugin.py:411
+msgid "Install Ipkg"
+msgstr "Ipkg installeren"
+
+#: ../plugin.py:411
+msgid "Install local ipkg"
+msgstr "Installeren Ipkg bestand uit /tmp"
+
+#: ../plugin.py:412
+msgid "Advanced Ipkg Install"
+msgstr "Geavanceerd IPKG Installeren"
+
+#: ../plugin.py:412
+msgid "Install local ipkg with --force overwrite"
+msgstr "Installeren lokale ipkg met --force overwrite"
+
+#: ../plugin.py:413
+msgid "VTI manual Addon Installer"
+msgstr "VTI manual Addon Installer"
+
+#: ../plugin.py:416
+msgid "Update Image"
+msgstr "Update Image"
+
+#: ../plugin.py:416
+msgid "Update your STB image from Internet."
+msgstr "Update uw STB Image via Internet."
+
+#: ../plugin.py:418
+msgid "Backup Image"
+msgstr "Back-up Image"
+
+#: ../plugin.py:418
+msgid "Backup your running STB image."
+msgstr "Back-up u huidig STB image."
+
+#: ../plugin.py:419
+msgid "Restore Image"
+msgstr "Image terugzetten"
+
+#: ../plugin.py:419
+msgid "Restore your backuped STB image."
+msgstr "Een Back-up image terugzetten."
+
+#: ../plugin.py:426
+msgid "Device Manager"
+msgstr "Apparaat beheer"
+
+#: ../plugin.py:426
+msgid "manage your HDD's and USB devices"
+msgstr "Beheer Uw HDD`s en USB apparaten"
+
+#: ../plugin.py:428
+msgid "File Manager"
+msgstr "Bestands beheer"
+
+#: ../plugin.py:428
+msgid "open Filemanager"
+msgstr "Open bestandsmanager"
+
+#: ../plugin.py:430
+msgid "Network Browser"
+msgstr "Netwerk Verkenner"
+
+#: ../plugin.py:430
+msgid "open NetworkBrowswer"
+msgstr "open NetwerkVerkenner"
+
+#: ../plugin.py:431
+msgid "Driver Manager"
+msgstr "Driver Manager"
+
+#: ../plugin.py:431
+msgid "install/download driver for your Vu+"
+msgstr "Installeer-download drivers voor U Vu+"
+
+#: ../plugin.py:432
+msgid "EPG Settings"
+msgstr "EPG Instellingen"
+
+#: ../plugin.py:432
+msgid "set EPG path, restore or backup EPG data"
+msgstr "Geef EPG pad, herstellen of backuppen van EPG data"
+
+#: ../plugin.py:433
+msgid "Cronjob Manager"
+msgstr "Cronjob Manager"
+
+#: ../plugin.py:433
+msgid "manage cronjobs of your VU+"
+msgstr "beheer de cron opdrachten op Uw VU+"
+
+#: ../plugin.py:434
+msgid "Run Command"
+msgstr "Uitvoeren"
+
+#: ../plugin.py:434
+msgid "run executable files of your VU+"
+msgstr "Voer een bestand of een script uit op Uw VU+"
+
+#: ../plugin.py:435
+msgid "Set Root Password"
+msgstr "Stel Root wachtwoord in"
+
+#: ../plugin.py:435
+msgid "set root password of your stb"
+msgstr "stel root wachtwoord in voor de stb"
+
+#: ../plugin.py:437
+msgid "Services"
+msgstr "Services"
+
+#: ../plugin.py:437
+msgid "enable/disable Systemservices"
+msgstr "inschakelen/uitschakelen Systemservices"
+
+#: ../plugin.py:438
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "USB DVB-T/C/S2 Paneel"
+
+#: ../plugin.py:438
+msgid "manage Sundtek USB DVB Stick"
+msgstr "Beheer Sundtek USB DVB Stick"
+
+#: ../plugin.py:439
+#, fuzzy
+msgid "Remove WebBrowser"
+msgstr "Netwerk Verkenner"
+
+#: ../plugin.py:439
+msgid "removes WebBrowser and dependencies"
+msgstr ""
+
+#: ../plugin.py:440
+msgid "IPK Uninstaller"
+msgstr "IPK Deinstaleren"
+
+#: ../plugin.py:440
+msgid "remove seletected package from stb"
+msgstr "Verwijder geselecteerd pakket van stb"
+
+#: ../plugin.py:442
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Zuiver Enigma2 Crashlogs"
+
+#: ../plugin.py:442
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "Selectief verwijderen van Enigma2 crashlogs"
+
+#: ../plugin.py:443
+msgid "Remove Skins"
+msgstr "Verwijder Skins"
+
+#: ../plugin.py:443
+msgid "choose skin to remove"
+msgstr "Kies een skin om te verwijderen"
+
+#: ../plugin.py:445
+msgid "Swapfile"
+msgstr "Swapfile"
+
+#: ../plugin.py:445
+msgid "create and manage your Swapfile"
+msgstr "Maak en beheer U swapfile"
+
+#: ../plugin.py:446
+msgid "Set NTP Time"
+msgstr "Stel NTP Tijd in"
+
+#: ../plugin.py:446
+msgid "refresh time for enigma2 from ntp server"
+msgstr "Vernieuwingstijd voor enigma2 van de NTP-server"
+
+#: ../plugin.py:447
+msgid "Harddisk Standby"
+msgstr "Hardeschijf Standby"
+
+#: ../plugin.py:447
+msgid "turns hdd immediately into standby mode"
+msgstr "Zet de HDD direct in standby modus"
+
+#: ../plugin.py:451
+#: ../plugin.py:1508
+msgid "Bitrate Viewer"
+msgstr "Bitrate Viewer"
+
+#: ../plugin.py:451
+msgid "Show Advanced Bitrate infos"
+msgstr "Toon geavanceerde Bitrate informatie"
+
+#: ../plugin.py:453
+msgid "ECM Info"
+msgstr "ECM Informatie"
+
+#: ../plugin.py:453
+msgid "show ecm infos from temp dir"
+msgstr "Toon ecm infos van temp dir"
+
+#: ../plugin.py:454
+msgid "show Feed updates"
+msgstr "laat Feed updates zien"
+
+#: ../plugin.py:455
+msgid "Show processes"
+msgstr "Toon processen"
+
+#: ../plugin.py:455
+msgid "show running processes"
+msgstr "toon lopende processen"
+
+#: ../plugin.py:456
+msgid "Show filesystem mounts"
+msgstr "Toon bestandssysteem koppelingen"
+
+#: ../plugin.py:456
+msgid "show active mounts"
+msgstr "toon actieve koppelingen"
+
+#: ../plugin.py:457
+msgid "Harddisk Temperature"
+msgstr "Hardeschijf temperatuur"
+
+#: ../plugin.py:457
+msgid "show HDD Temperature"
+msgstr "toon HDD temperatuur"
+
+#: ../plugin.py:458
+msgid "Show Consolesessions"
+msgstr "Toon Terminal sessies"
+
+#: ../plugin.py:458
+msgid "show all active user sessions"
+msgstr "toon alle actieve gebruiker sessies"
+
+#: ../plugin.py:459
+msgid "Show Uptime"
+msgstr "Toon Uptime informatie"
+
+#: ../plugin.py:459
+msgid "show operating system uptime of stb"
+msgstr "toon besturingssysteem uptime van stb"
+
+#: ../plugin.py:460
+msgid "Show Networkconnections"
+msgstr "Toon Netwerk verbindingen"
+
+#: ../plugin.py:460
+msgid "show all connected sockets from ip-stack"
+msgstr "toon alle aangesloten bussen van ip-stack"
+
+#: ../plugin.py:461
+msgid "Show Systemmemory Info"
+msgstr "Toon Systeemgeheugen informatie"
+
+#: ../plugin.py:461
+msgid "show whole system memory usage"
+msgstr "Toon geheel systeemgeheugen gebruik"
+
+#: ../plugin.py:462
+msgid "Show Networkdetails"
+msgstr "Toon Netwerk details"
+
+#: ../plugin.py:462
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "toon toegewezen ip-adressen, routingtable en nameserver"
+
+#: ../plugin.py:463
+msgid "Show diskspace"
+msgstr "Toon schijfruimte"
+
+#: ../plugin.py:463
+msgid "show diskpace"
+msgstr "Toon schijfruimte"
+
+#: ../plugin.py:464
+msgid "Image Info"
+msgstr "Image Info"
+
+#: ../plugin.py:464
+msgid "show simple Image infos"
+msgstr "Toon eenvoudige Image Informatie"
+
+#: ../plugin.py:465
+msgid "VTI System Infos"
+msgstr "VTI Systeem Infos"
+
+#: ../plugin.py:469
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Druk OK op de afstandsbediening om verder te gaan."
+
+#: ../plugin.py:525
+#: ../plugin.py:557
+#: ../BackupSuite.py:164
+msgid "Please select medium to use as backup location"
+msgstr "Selecteer medium als Back-up locatie"
+
+#: ../plugin.py:534
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Weet u zeker dat u de Enigma2 Back-up wilt terugzetten?\n"
+"Enigma2 zal herstarten na het terugzetten"
+
+#: ../plugin.py:536
+msgid "Sorry no backups found!"
+msgstr "Sorry geen Back-ups gevonden!"
+
+#: ../plugin.py:542
+msgid "VTI .tar.gz installer"
+msgstr "VTI .tar.gz installer"
+
+#: ../plugin.py:544
+#: ../plugin.py:546
+msgid "VTI IPK Installer"
+msgstr "VTI IPK Installer"
+
+#: ../plugin.py:562
+msgid "Do you really want to restore your last saved image ?"
+msgstr "Weet U zeker dat U het laatst gemaakte Image wil terugzetten ?"
+
+#: ../plugin.py:564
+msgid "Menu "
+msgstr "Menu "
+
+#: ../plugin.py:564
+msgid ""
+" not implemented yet\n"
+"\n"
+"Please choose another one."
+msgstr ""
+" nog niet geimplementeerd\n"
+"\n"
+"Selecteer A.U.B een andere."
+
+#: ../plugin.py:568
+msgid "VTI Backup Image"
+msgstr "VTI Backup Image"
+
+#: ../plugin.py:570
+msgid ""
+"No valid Backupdestion found!!!! \n"
+"\n"
+"Please install an internal Harddisk first to create Backups."
+msgstr ""
+"Geen geldige Backup locatie gevonden!!!! \n"
+"\n"
+"instaleer eerst een interne HDD om Backups te kunnen maken."
+
+#: ../plugin.py:579
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Apparaat beheer is niet Genstalleerd!\n"
+"Instaleer deze A.U.B."
+
+#: ../plugin.py:587
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"Bestandsmanager is niet Genstalleerd!\n"
+"Instaleer deze A.U.B."
+
+#: ../plugin.py:595
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"De NetworkBrowser is niet geïnstalleerd !\n"
+"AUB eerst installeren."
+
+#: ../plugin.py:641
+msgid "VTI Harddisk Standbymode"
+msgstr "VTI Harddisk Standbymodus"
+
+#: ../plugin.py:646
+msgid "VTI show ecm.info"
+msgstr "VTI toon ecm.info"
+
+#: ../plugin.py:648
+msgid "VTI show running processes"
+msgstr "VTI toon lopende processen"
+
+#: ../plugin.py:652
+msgid "VTI show mounted filesystems"
+msgstr "VTI toon gekoppelde bestandssystemen"
+
+#: ../plugin.py:654
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "VTI toon netwerkconfiguratie en routingtabel"
+
+#: ../plugin.py:657
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "HDD Fabrikant, Type en Temperatuur :"
+
+#: ../plugin.py:657
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "Weet U zeker dat U de HDD in de standby modus wilt zetten ?"
+
+#: ../plugin.py:658
+msgid "HDD Temperature"
+msgstr "HDD temperatuur"
+
+#: ../plugin.py:660
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check harddisk temperature."
+msgstr ""
+"Geen interne HDD gevonden!!!! \n"
+"\n"
+"Installeer eerst een interne harde schijf om de optie te hebben om de harddisk temperatuur te controleren."
+
+#: ../plugin.py:662
+msgid "Active Usersessions :"
+msgstr "Actieve Gebruiker sessies :"
+
+#: ../plugin.py:664
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Momentele tijd, werkduur en gemiddelde belasting :"
+
+#: ../plugin.py:665
+msgid "Uptime"
+msgstr "Uptime"
+
+#: ../plugin.py:668
+msgid "VTI show network stats"
+msgstr "VTI toon netwerk statistieken"
+
+#: ../plugin.py:670
+msgid "Current Memory Usage :"
+msgstr "Momenteel geheugen gebruik :"
+
+#: ../plugin.py:671
+msgid "Memory Usage"
+msgstr "Geheugengebruik"
+
+#: ../plugin.py:673
+msgid "VTI show free diskspace"
+msgstr "VTI toon vrije schijfruimte"
+
+#: ../plugin.py:677
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Menu nog niet geïmplementeerd!!!  \n"
+"\n"
+"Voel je vrij om dit menu te programmeren ;-)"
+
+#: ../plugin.py:680
+msgid "Install/update finished."
+msgstr "Installatie/Update voltooid."
+
+#: ../plugin.py:680
+msgid "Do you want to reboot your STB?"
+msgstr "Wilt u de STB herstarten?"
+
+#: ../plugin.py:685
+#: ../plugin.py:687
+#: ../plugin.py:689
+#: ../plugin.py:691
+#: ../BackupRestore.py:387
+#: ../BackupRestore.py:389
+#: ../BackupRestore.py:391
+#: ../BackupRestore.py:393
+msgid "VTI Restore Image"
+msgstr "VTI Herstel Image"
+
+#: ../plugin.py:693
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Geen Image gevonden!!!! \n"
+"\n"
+"Kopieer USB of Back-up image naar /media/hdd/vuplus/MODEL."
+
+#: ../plugin.py:725
+#: ../plugin.py:734
+#: ../BackupSuite.py:249
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Sorry, uw Back-up lokatie is niet schrijfbaar.\n"
+"\n"
+"Selecteer een andere Back-up lokatie A.U.B."
+
+#: ../plugin.py:738
+msgid "VTI-Backup done."
+msgstr "VTI-Backup gereed."
+
+#: ../plugin.py:740
+msgid "VTI-Backup failed."
+msgstr "VTI-Back-up mislukt."
+
+#: ../plugin.py:758
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr "Geen HDD of HDD met S.M.A.R.T mogelijkheden gevonden"
+
+#: ../plugin.py:764
+msgid "At"
+msgstr "van"
+
+#: ../plugin.py:768
+msgid "Could not grep Uptime Information from busybox"
+msgstr "Kon geen Uptime informatie verkrijgen van busybox"
+
+#: ../plugin.py:780
+msgid "Could not grep socket information from busybox"
+msgstr "Kon geen socket informatie verkrijgen van busybox"
+
+#: ../plugin.py:792
+msgid "Could not grep Memory Usage information from busybox"
+msgstr "Kon geen geheugengebruik informatie verkrijgen van busybox"
+
+#: ../plugin.py:828
+#: ../plugin.py:893
+msgid "VTI Status List Menu"
+msgstr "VTI Status Lijst Menu"
+
+#: ../plugin.py:835
+msgid "Stop Swap"
+msgstr "Stop Swap"
+
+#: ../plugin.py:836
+msgid "Start Swap"
+msgstr "Start Swap"
+
+#: ../plugin.py:841
+msgid "VTI SwapFile Menu"
+msgstr "VTI SwapFile Menu"
+
+#: ../plugin.py:844
+msgid "Stop"
+msgstr "Stop"
+
+#: ../plugin.py:845
+#: ../BackupSuite.py:379
+msgid "Start"
+msgstr "Start"
+
+#: ../plugin.py:846
+msgid "Restart"
+msgstr "Herstart"
+
+#: ../plugin.py:849
+msgid "VTI Services Menu"
+msgstr "VTI Services Menu"
+
+#: ../plugin.py:852
+msgid "Uninstall"
+msgstr "Deinstaleren"
+
+#: ../plugin.py:853
+msgid "Force uninst."
+msgstr "Forceer deinstalatie"
+
+#: ../plugin.py:858
+msgid "VTI IPK Uninstaller Menu"
+msgstr "VTI IPK Deinstaleer Menu"
+
+#: ../plugin.py:861
+msgid "Remove Skin"
+msgstr "Verwijder Skin"
+
+#: ../plugin.py:868
+msgid "VTI Skinremove Menu"
+msgstr "VTI Skin verwijder Menu"
+
+#: ../plugin.py:871
+msgid "Remove selected"
+msgstr "Verwijder geselecteerde"
+
+#: ../plugin.py:872
+msgid "Remove all"
+msgstr "Verwijder alle"
+
+#: ../plugin.py:873
+msgid "Remove older 7 Days"
+msgstr "Verwijder ouder dan 7 dagen"
+
+#: ../plugin.py:876
+msgid "VTI Crashlogremove Menu"
+msgstr "VTI Crashlog verwijder Menu"
+
+#: ../plugin.py:880
+msgid "Ok"
+msgstr "Ok"
+
+#: ../plugin.py:886
+#: ../plugin.py:1179
+msgid "VTI USB DVB-Panel"
+msgstr "VTI USB DVB-Panel"
+
+#: ../plugin.py:889
+#: ../plugin.py:890
+#: ../plugin.py:891
+#: ../plugin.py:892
+msgid "not in use"
+msgstr "niet in gebruik"
+
+#: ../plugin.py:1106
+msgid "MB swapfile on "
+msgstr "MB swapfile op"
+
+#: ../plugin.py:1121
+msgid "Are you sure to delete swapfile ?"
+msgstr "Weet U zeker dat de swapfile verwijdert moet worden ?"
+
+#: ../plugin.py:1123
+#, python-format
+msgid "Are you sure to %s ?"
+msgstr "Bent U zeker om te %s ?"
+
+#: ../plugin.py:1130
+msgid "VTI Start Service"
+msgstr "VTI Start Service"
+
+#: ../plugin.py:1132
+msgid "VTI Stop Service"
+msgstr "VTI Stop Service"
+
+#: ../plugin.py:1134
+msgid "VTI Restart Service"
+msgstr "VTI Hestart Service"
+
+#: ../plugin.py:1151
+msgid "VTI Skinremoval"
+msgstr "VTI Skin verwijderen"
+
+#: ../plugin.py:1159
+#: ../plugin.py:1161
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr "VTI Verwijder Enigma2 Crashlog"
+
+#: ../plugin.py:1172
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr "Verwijder Crashlogs ouder dan 7 dagen..."
+
+#: ../plugin.py:1213
+msgid "stopping swap for "
+msgstr "stop swap voor"
+
+#: ../plugin.py:1213
+msgid "swapfile was deleted successfully"
+msgstr "Swapfile succesvol verwijdert"
+
+#: ../plugin.py:1214
+#: ../plugin.py:1230
+msgid "VTI create SwapFile"
+msgstr "VTI maak SwapFile aan"
+
+#: ../plugin.py:1216
+msgid "no swapfile active..."
+msgstr "Geen swapfile actief..."
+
+#: ../plugin.py:1228
+msgid "swapfile was created successfully"
+msgstr "Swapfile succesvol aangemaakt"
+
+#: ../plugin.py:1250
+msgid "VTI IPK Uninstall"
+msgstr "VTI IPK Deinstaleer"
+
+#: ../plugin.py:1256
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr "VTI IPK Deinstaleren negeer afhankelijkheden "
+
+#: ../plugin.py:1266
+msgid "Stop Cam"
+msgstr "Stop Cam"
+
+#: ../plugin.py:1267
+msgid "Start Cam"
+msgstr "Start Cam"
+
+#: ../plugin.py:1268
+msgid "Restart Cam"
+msgstr "Herstarten Cam"
+
+#: ../plugin.py:1269
+msgid "Manage Cams"
+msgstr "Beheer Cams"
+
+#: ../plugin.py:1270
+msgid "Select Cam and press OK to activate"
+msgstr "Selecteer Cam en druk OK om te activeren"
+
+#: ../plugin.py:1431
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr "GEEN CAM ACTIEF !!! Cam herstart niet mogelijk "
+
+#: ../plugin.py:1440
+msgid "cam info : "
+msgstr "Cam info : "
+
+#: ../plugin.py:1440
+msgid " -- "
+msgstr " -- "
+
+#: ../plugin.py:1449
+msgid "Starting cam : "
+msgstr "Bezig met starten van de Cam : "
+
+#: ../plugin.py:1457
+msgid "Stopping cam : "
+msgstr "Bezig met stoppen van de Cam : "
+
+#: ../plugin.py:1459
+msgid "Restarting cam : "
+msgstr "Bezig met herstarten Cam : "
+
+#: ../plugin.py:1515
+msgid "Video"
+msgstr "Video"
+
+#: ../plugin.py:1516
+msgid "Audio"
+msgstr "Audio"
+
+#: ../plugin.py:1517
+msgid "Min"
+msgstr "Min"
+
+#: ../plugin.py:1518
+msgid "Max"
+msgstr "Max"
+
+#: ../plugin.py:1519
+msgid "Current"
+msgstr "Momenteel"
+
+#: ../plugin.py:1520
+msgid "Average"
+msgstr "Gemiddelde"
+
+#: ../plugin.py:1585
+msgid "Reload"
+msgstr "Vernieuwen"
+
+#: ../plugin.py:1586
+msgid "Download or delete Cam"
+msgstr "Download of verwijder Cam"
+
+#: ../plugin.py:1602
+#: ../MyPluginManager.py:73
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Na op OK gedrukt te hebben, even geduld aub!"
+
+#: ../plugin.py:1645
+#: ../MyPluginManager.py:135
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Bezig met een nieuwe pakketlijst te downloaden. even geduld..."
+
+#: ../plugin.py:1645
+#: ../MyPluginManager.py:135
+msgid "Package list update"
+msgstr "Pakket lijst update"
+
+#: ../plugin.py:1649
+#: ../MyPluginManager.py:139
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Er is een fout opgetreden bij het downloaden van de pakketlijst. Probeer opnieuw A.U.B."
+
+#: ../plugin.py:1649
+#: ../MyPluginManager.py:139
+msgid "Error"
+msgstr "Fout"
+
+#: ../plugin.py:1674
+#: ../MyPluginManager.py:208
+msgid "Do you want to remove the package:\n"
+msgstr "Wilt u het pakket verwijderen?:\n"
+
+#: ../plugin.py:1678
+#: ../MyPluginManager.py:212
+msgid "Do you want to upgrade the package:\n"
+msgstr "Wilt u het pakket updaten?:\n"
+
+#: ../plugin.py:1682
+#: ../MyPluginManager.py:216
+msgid "Do you want to install the package:\n"
+msgstr "Wilt u het pakket installeren:\n"
+
+#: ../plugin.py:1804
+msgid "Change Root Password"
+msgstr "Verander Root Wachtwoord"
+
+#: ../plugin.py:1817
+msgid "Set Password"
+msgstr "Stel wachtwoord in"
+
+#: ../plugin.py:1818
+msgid "new Random"
+msgstr "nieuw willekeurig"
+
+#: ../plugin.py:1819
+msgid "virt. Keyboard"
+msgstr "Virt. toetsenbord"
+
+#: ../plugin.py:1839
+msgid "Enter new Password"
+msgstr "Geef nieuw wachtwoord in"
+
+#: ../plugin.py:1855
+#, python-format
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+"Wachtwoord voor de Gebruiker root succesvol gewijzigd in:\n"
+"%s"
+
+#: ../plugin.py:1857
+msgid "Unable to change/reset password for root user"
+msgstr "Niet in staat om het wachtoord voor de gebruiker root te veranderen/resetten"
+
+#: ../plugin.py:1879
+msgid "Enter your password here:"
+msgstr "Vul hier uw wachtwoord in:"
+
+#: ../plugin.py:1958
+msgid "Manage your VU+ Team Image"
+msgstr "Beheer uw VU + Team Image"
+
+#: ../MyPluginManager.py:54
+#: ../MyPluginManager.py:126
+msgid "reload package data"
+msgstr ""
+
+#: ../MyPluginManager.py:55
+msgid "Download or delete Software"
+msgstr ""
+
+#: ../MyPluginManager.py:118
+msgid "Remove"
+msgstr ""
+
+#: ../MyPluginManager.py:120
+#: ../BackupSuite.py:331
+msgid "Install"
+msgstr "Instaleren"
+
+#: ../MyPluginManager.py:122
+msgid "Upgrade"
+msgstr ""
+
+#: ../MyPluginManager.py:142
+msgid "Extensions"
+msgstr ""
+
+#: ../MyPluginManager.py:142
+msgid "install/remove common plugins"
+msgstr ""
+
+#: ../MyPluginManager.py:143
+msgid "Systemplugins"
+msgstr ""
+
+#: ../MyPluginManager.py:143
+msgid "install/remove systemplugins"
+msgstr ""
+
+#: ../MyPluginManager.py:144
+msgid "Skins"
+msgstr ""
+
+#: ../MyPluginManager.py:144
+msgid "install/remove skins to change look of OSD"
+msgstr ""
+
+#: ../MyPluginManager.py:145
+msgid "SoftCams"
+msgstr ""
+
+#: ../MyPluginManager.py:145
+msgid "install/remove softcams"
+msgstr ""
+
+#: ../MyPluginManager.py:146
+msgid "Configurations"
+msgstr ""
+
+#: ../MyPluginManager.py:146
+msgid "install/remove configuration files for softcams"
+msgstr ""
+
+#: ../MyPluginManager.py:147
+msgid "Driver"
+msgstr ""
+
+#: ../MyPluginManager.py:147
+msgid "install/remove drivers for additional usb tuners"
+msgstr ""
+
+#: ../MyPluginManager.py:148
+msgid "Picons"
+msgstr ""
+
+#: ../MyPluginManager.py:148
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr ""
+
+#: ../MyPluginManager.py:149
+msgid "Settings"
+msgstr ""
+
+#: ../MyPluginManager.py:149
+msgid "install/remove channel lists"
+msgstr ""
+
+#: ../MyPluginManager.py:150
+msgid "Kernel modules"
+msgstr ""
+
+#: ../MyPluginManager.py:150
+msgid "install/remove kernel modules"
+msgstr ""
+
+#: ../ntpserver.py:47
+msgid "NTP server "
+msgstr "NTP server"
+
+#: ../ntpserver.py:47
+msgid " is activated."
+msgstr "is geactiveerd."
+
+#: ../ntpserver.py:51
+msgid "NTP-Server Country Selection"
+msgstr "NTP-server Land Selectie"
+
+#: ../ntpserver.py:78
+msgid "NTP-Server Contenant Selection"
+msgstr "NTP-server Continent Selectie"
+
+#: ../BackupRestore.py:73
+#: ../BackupRestore.py:88
+#: ../BackupRestore.py:90
+msgid "VTI-Backup is running..."
+msgstr "VTI-Backup is bezig..."
+
+#: ../BackupRestore.py:93
+#: ../BackupRestore.py:95
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Sorry, uw back-up bestemming is niet beschrijfbaar.\n"
+"Kies AUB een andere."
+
+#: ../BackupRestore.py:145
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr "VTI-Backup - Selecteer files/folders om te backuppen"
+
+#: ../BackupRestore.py:150
+msgid "Deselect"
+msgstr "Deselecteer"
+
+#: ../BackupRestore.py:152
+msgid "Select"
+msgstr "Selecteren"
+
+#: ../BackupRestore.py:193
+#: ../BackupRestore.py:323
+#: ../BackupSuite.py:110
+msgid "Restore"
+msgstr "Herstel"
+
+#: ../BackupRestore.py:194
+#: ../BackupRestore.py:324
+#: ../ExeManager.py:118
+#: ../BackupSuite.py:332
+#: ../CronManager.py:161
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../BackupRestore.py:224
+#: ../BackupRestore.py:354
+msgid "VTI-Restore backups"
+msgstr "VTI-Herstel backups"
+
+#: ../BackupRestore.py:243
+#: ../BackupRestore.py:373
+#: ../BackupSuite.py:396
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Weet U zeker dat U\n"
+"following backup:\n"
+" wilt herstellen\n"
+
+#: ../BackupRestore.py:243
+#: ../BackupRestore.py:373
+#: ../BackupSuite.py:396
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Systeem word na herstel opnieuw gestart!"
+
+#: ../BackupRestore.py:251
+#: ../BackupSuite.py:441
+msgid "Restore running"
+msgstr "Backup loopt"
+
+#: ../BackupRestore.py:257
+#: ../BackupRestore.py:401
+#: ../BackupSuite.py:447
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Weet U zeker dat U\n"
+"volgende backup:\n"
+" wilt verwijderen\n"
+
+#: ../BackupRestore.py:294
+#: ../BackupRestore.py:304
+#: ../BackupSuite.py:427
+msgid "VTI-Restore is running..."
+msgstr "VTI-Backup Herstel is bezig..."
+
+#: ../BackupRestore.py:302
+msgid "Restore is running..."
+msgstr "Backuppen loopt..."
+
+#: ../BackupRestore.py:395
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or ultimo ."
+msgstr ""
+"Geen Image gevonden!!!! \n"
+"\n"
+"Kopieer USB of Back-up image naar /media/hdd/vuplus/duo/solo/uno/ultimo ."
+
+#: ../ExeManager.py:111
+#: ../ExeManager.py:188
+msgid "Execute: "
+msgstr "Uitvoeren:"
+
+#: ../ExeManager.py:112
+#: ../ExeManager.py:165
+msgid "VTI ExeManager"
+msgstr "VTI ExeManager"
+
+#: ../ExeManager.py:119
+#: ../CronManager.py:162
+msgid "Add"
+msgstr "Toevoegen"
+
+#: ../ExeManager.py:120
+#: ../CronManager.py:163
+msgid "Modify"
+msgstr "Bewerken"
+
+#: ../ExeManager.py:121
+#: ../CronManager.py:164
+msgid "Execute"
+msgstr "Uitvoeren"
+
+#: ../ExeManager.py:159
+#, python-format
+msgid "File %s was not found"
+msgstr "Bestand %s niet gevonden"
+
+#: ../ExeManager.py:162
+#, python-format
+msgid "File %s is not executable"
+msgstr "Bestand %s is niet uitvoerbaar"
+
+#: ../ExeManager.py:168
+#: ../CronManager.py:198
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Opdracht: %s werd uitgevoerd"
+
+#: ../ExeManager.py:199
+msgid "your executable"
+msgstr "Uw uitvoerbaar bestand"
+
+#: ../ExeManager.py:201
+#: ../ExeManager.py:263
+msgid "no"
+msgstr "nee"
+
+#: ../ExeManager.py:201
+#: ../ExeManager.py:263
+msgid "yes"
+msgstr "ja"
+
+#: ../ExeManager.py:202
+msgid "Add a executable to ExeManager"
+msgstr "Voeg een uitvoerbaar bestand toe aan Exemanager"
+
+#: ../ExeManager.py:222
+#: ../ExeManager.py:284
+#: ../CronManager.py:261
+#: ../CronManager.py:379
+msgid "Command to execute : "
+msgstr "Opdracht om uit te voeren :"
+
+#: ../ExeManager.py:223
+#: ../ExeManager.py:285
+#: ../CronManager.py:262
+msgid "Additional command options : "
+msgstr "Meer opdracht opties :"
+
+#: ../ExeManager.py:224
+#: ../ExeManager.py:286
+msgid "Show command output : "
+msgstr "Toon opdracht output :"
+
+#: ../ExeManager.py:264
+msgid "Modify execute command"
+msgstr "Uitvoer commando aanpassen"
+
+#: ../ExeManager.py:338
+msgid "Select a file to execute"
+msgstr "Selecteer een  bestanden om uit te voeren. "
+
+#: ../ExeManager.py:359
+#: ../ExeManager.py:411
+#: ../CronManager.py:472
+#: ../CronManager.py:524
+msgid "File is not executable"
+msgstr "File is niet uitvoerbaar"
+
+#: ../ExeManager.py:412
+#: ../CronManager.py:525
+msgid "chmod 755"
+msgstr "chmod 755"
+
+#: ../BackupSuite.py:93
+#: ../BackupSuite.py:146
+#: ../BackupSuite.py:165
+#: ../BackupSuite.py:169
+#: ../BackupSuite.py:172
+#: ../BackupSuite.py:179
+#: ../BackupSuite.py:182
+#: ../BackupSuite.py:192
+#: ../BackupSuite.py:195
+#: ../BackupSuite.py:324
+#: ../BackupSuite.py:397
+#: ../BackupSuite.py:400
+msgid "VTI BackupSuite"
+msgstr "VTI BackupSuite"
+
+#: ../BackupSuite.py:109
+msgid "Backup"
+msgstr "Backup"
+
+#: ../BackupSuite.py:129
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr "Backup/herstel apparaat : %s"
+
+#: ../BackupSuite.py:129
+msgid "set device for directory vti-backupsuite"
+msgstr "Selecteer apparaat voor directory vti-backupsuite"
+
+#: ../BackupSuite.py:131
+msgid "Backup installed plugins"
+msgstr "Backup geïnstalleerde plugins"
+
+#: ../BackupSuite.py:131
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr "maakt een lijst van geïnstalleerde plugins, skins en softcams"
+
+#: ../BackupSuite.py:132
+msgid "Backup channel settings"
+msgstr "Backup zender instellingen"
+
+#: ../BackupSuite.py:132
+msgid "save channel and bouquet settings"
+msgstr "Opslaan van zender en bouquet instellingen"
+
+#: ../BackupSuite.py:133
+msgid "Backup configurations"
+msgstr "Backup configuraties"
+
+#: ../BackupSuite.py:133
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr "opslaan van algemene configuraties voor GUI, plugins en softcams"
+
+#: ../BackupSuite.py:135
+msgid "Restore plugins from saved list"
+msgstr "Herstel plugins van opgeslagen lijst"
+
+#: ../BackupSuite.py:135
+msgid "installs all available plugins from online feed"
+msgstr "installeert alle beschikbare plugins van de online server"
+
+#: ../BackupSuite.py:136
+msgid "Restore channel settings"
+msgstr "Herstel zender instellingen"
+
+#: ../BackupSuite.py:136
+msgid "reload saved channel and bouquet settings"
+msgstr "herlaad opgeslagen zender en bouquet instellingen"
+
+#: ../BackupSuite.py:137
+msgid "Restore configurations"
+msgstr "Herstel configuraties"
+
+#: ../BackupSuite.py:137
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr "herstellen van algemene configuraties voor GUI, plugins en softcams"
+
+#: ../BackupSuite.py:138
+msgid "Install local packages"
+msgstr "Installeer lokale pakketten"
+
+#: ../BackupSuite.py:138
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr "van %s/vti-backupsuite/plugins"
+
+#: ../BackupSuite.py:139
+msgid "Run personal script"
+msgstr "Uitvoeren van persoonlijke scripts"
+
+#: ../BackupSuite.py:139
+msgid "executes your personal backup/restore scripts"
+msgstr "voert U persoonlijk backup/restore script uit"
+
+#: ../BackupSuite.py:145
+msgid ""
+"Reminder !!!\n"
+"Do not forget to create a full backup\n"
+"of your running image => VTIPanel Image Tools\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+"Herrinering !!!\n"
+"Vergeet niet om een volledige backup\n"
+"te maken van uw lopende image => VTIPanel Image Tools\n"
+"VTI-Team is niet verantwoordelijk voor verlies van gegevens\n"
+"Accepteren ?"
+
+#: ../BackupSuite.py:168
+msgid "List of installed plugins was created succesfully"
+msgstr "Lijst van geïnstalleerde plug-ins is aangemaakt"
+
+#: ../BackupSuite.py:171
+msgid "Creating list of installed plugins failed"
+msgstr "Het creëren van de lijst met geïnstalleerde plugins is mislukt"
+
+#: ../BackupSuite.py:178
+msgid "Settings backup finished succesfully"
+msgstr "Zenderlijst Backup succesvol afgesloten"
+
+#: ../BackupSuite.py:181
+msgid "Backup settings failed"
+msgstr "Backup van zenderlijsten is mislukt"
+
+#: ../BackupSuite.py:191
+msgid "Common configuration backup finished succesfully"
+msgstr "Algemene configuratie backup succesvol afgesloten"
+
+#: ../BackupSuite.py:194
+msgid "Backup of common configurations failed"
+msgstr "Backup van algemene configuratie misliukt"
+
+#: ../BackupSuite.py:392
+msgid "Restoring settings finished successfully"
+msgstr "Het herstellen van de instellingen succesvol afgerond"
+
+#: ../BackupSuite.py:394
+msgid "Restoring settings failed"
+msgstr "Het herstellen van de instellingen is mislukt"
+
+#: ../BackupSuite.py:399
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+"Ben je zeker dat je het navolgend script\n"
+"wilt uitvoerent:\n"
+
+#: ../BackupSuite.py:433
+msgid "VTI BackupSuite is running personal script ..."
+msgstr "VTI BackupSuite voert persoonlijk script uit..."
+
+#: ../CronManager.py:155
+msgid "VTI CronManager"
+msgstr "VTI CronManager"
+
+#: ../CronManager.py:235
+msgid "your cronjob"
+msgstr "Uw cronjob"
+
+#: ../CronManager.py:241
+msgid "Add a job to CronManager"
+msgstr "Voeg een cron opdracht toe"
+
+#: ../CronManager.py:263
+#: ../CronManager.py:380
+msgid "Input minute : "
+msgstr "Invoeren minuten :"
+
+#: ../CronManager.py:264
+#: ../CronManager.py:381
+msgid "Input hour : "
+msgstr "Invoeren uren :"
+
+#: ../CronManager.py:265
+#: ../CronManager.py:382
+msgid "Input day : "
+msgstr "Invoeren dag :"
+
+#: ../CronManager.py:266
+#: ../CronManager.py:383
+msgid "Input month : "
+msgstr "Invoeren maand :"
+
+#: ../CronManager.py:267
+#: ../CronManager.py:384
+msgid "Input weekday : "
+msgstr "Invoeren weekdag :"
+
+#: ../CronManager.py:359
+msgid "Modify a CronManager job"
+msgstr "Bewerk een Cronmanager opdracht"
+
+#: ../CronManager.py:451
+msgid "Select a executable file for a cronjob"
+msgstr "Selecteer een uitvoerbare file voor een cron opdracht"
+

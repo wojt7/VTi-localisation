@@ -1,0 +1,1375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VTIPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-25 09:56+0100\n"
+"PO-Revision-Date: 2011-07-05 21:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <VTI>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../EPGPanel.py:33
+msgid "/hdd"
+msgstr "/hdd"
+
+#: ../EPGPanel.py:33
+msgid "/media/hdd"
+msgstr "/media/hdd"
+
+#: ../EPGPanel.py:33
+msgid "/media/usb"
+msgstr "/media/usb"
+
+#: ../EPGPanel.py:33
+msgid "/media/hdd1"
+msgstr "/media/hdd1"
+
+#: ../EPGPanel.py:33
+msgid "/media/usb1"
+msgstr "/media/usb1"
+
+#: ../EPGPanel.py:36
+msgid "VTI EPG Panel"
+msgstr "VTI EPG Tablosu"
+
+#: ../EPGPanel.py:42
+#: ../plugin.py:1420
+msgid "Exit"
+msgstr "Cikis"
+
+#: ../EPGPanel.py:43
+#: ../BackupRestore.py:113
+#: ../ExeManager.py:204
+#: ../ExeManager.py:266
+#: ../CronManager.py:236
+#: ../CronManager.py:354
+msgid "Save"
+msgstr "Kayit"
+
+#: ../EPGPanel.py:59
+msgid "EPG Path :"
+msgstr "EPG Dosyasi :"
+
+#: ../EPGPanel.py:60
+msgid "Save EPG cache to epg.dat"
+msgstr "Kayitli EPG hafizayi epg e cevir.dat"
+
+#: ../EPGPanel.py:61
+msgid "Load EPG data from epg.dat"
+msgstr "EPG bilgileri epg den yükle.dat"
+
+#: ../EPGPanel.py:73
+#, python-format
+msgid "EPG path set to : %s"
+msgstr "EPG bölümü cevir : %s"
+
+#: ../EPGPanel.py:89
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "EPG hafiza kayidi %s tamamlanmisdir"
+
+#: ../EPGPanel.py:97
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "EPG bilgileri yükleme %s tamamlanmisdir"
+
+#: ../plugin.py:84
+#: ../plugin.py:213
+#: ../plugin.py:414
+#: ../plugin.py:1490
+#: ../plugin.py:1719
+msgid "Close"
+msgstr "Kapat"
+
+#: ../plugin.py:85
+msgid "News"
+msgstr "Haberler"
+
+#: ../plugin.py:86
+msgid "System Tools"
+msgstr "Sistem ayarlari"
+
+#: ../plugin.py:87
+msgid "Cam Center"
+msgstr "Cam Merkezi"
+
+#: ../plugin.py:91
+msgid "VTI Panel"
+msgstr "VTI Tablosu"
+
+#: ../plugin.py:138
+msgid "VTI Cam Center"
+msgstr "VTI Cam Merkezi"
+
+#: ../plugin.py:138
+msgid "select or install your favourite cam"
+msgstr "favori cami sec veya yükle"
+
+#: ../plugin.py:139
+msgid "VTI System Info"
+msgstr "VTI Sistem bilgileri"
+
+#: ../plugin.py:139
+msgid "Infos about your VU+Duo"
+msgstr "Senin VU+Duo hakkinda bilgiler"
+
+#: ../plugin.py:140
+#: ../plugin.py:394
+msgid "VTI System Tools"
+msgstr "VTI Sistem ayarlari"
+
+#: ../plugin.py:140
+msgid "manage your VU+Duo"
+msgstr "VU+Duo'nu yönelt"
+
+#: ../plugin.py:141
+#: ../plugin.py:370
+msgid "VTI Image Tools"
+msgstr "VTI Image ayarlari"
+
+#: ../plugin.py:141
+msgid "backup or flash an image"
+msgstr "Image'i yükle veya kopyala"
+
+#: ../plugin.py:142
+#: ../plugin.py:355
+msgid "VTI Backup Tools"
+msgstr "VTI kopyalama ayarlari"
+
+#: ../plugin.py:142
+msgid "backup or restore your settings"
+msgstr "Settingsleri kopyala veya sil"
+
+#: ../plugin.py:143
+msgid "manual Installer"
+msgstr "manuel yükleme"
+
+#: ../plugin.py:143
+msgid "install .tar.gz or ipkg manually"
+msgstr ".tar.gz veya ipkg manuel yükleme"
+
+#: ../plugin.py:144
+msgid "Plugins"
+msgstr "Ilaveler"
+
+#: ../plugin.py:144
+msgid "open enigma2 Plugin Menu"
+msgstr "acik enigma2 ilave menüsü"
+
+#: ../plugin.py:207
+#: ../plugin.py:249
+#: ../plugin.py:400
+msgid "News about VTI"
+msgstr "VTI Haberleri"
+
+#: ../plugin.py:214
+msgid "Update"
+msgstr "Güncelleme"
+
+#: ../plugin.py:215
+#: ../plugin.py:243
+#: ../plugin.py:253
+#: ../ExeManager.py:368
+#: ../ExeManager.py:405
+#: ../ExeManager.py:411
+#: ../ExeManager.py:416
+#: ../ExeManager.py:419
+#: ../CronManager.py:474
+#: ../CronManager.py:511
+#: ../CronManager.py:517
+#: ../CronManager.py:522
+#: ../CronManager.py:525
+msgid " "
+msgstr ""
+
+#: ../plugin.py:216
+#: ../plugin.py:252
+msgid "show Updates"
+msgstr "Güncellemeleri ara"
+
+#: ../plugin.py:240
+msgid "Upgradable Packages"
+msgstr "Güncellenebilir Paket"
+
+#: ../plugin.py:244
+msgid "show News"
+msgstr "Haberleri ara"
+
+#: ../plugin.py:293
+#: ../plugin.py:296
+#: ../plugin.py:322
+msgid ""
+"There are no news or your\n"
+"Internet connection is not ok"
+msgstr "Yeni Haber yoktur veya Internet baglantisinda bir sorun var"
+
+#: ../plugin.py:317
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+" old version : %s | new version : %s \n"
+msgstr ""
+"\n"
+"Paket : %s \n"
+"eski version : %s | yeni version : %s \n"
+
+#: ../plugin.py:319
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Sisteminiz günceldir"
+
+#: ../plugin.py:338
+msgid "VTI Sub Menu"
+msgstr "VTI alt menüsü"
+
+#: ../plugin.py:350
+msgid "Backup system settings"
+msgstr "Sistem ayarlari kopyala"
+
+#: ../plugin.py:350
+msgid "Backup your STB settings."
+msgstr "Cihazini ayarlari kopyala"
+
+#: ../plugin.py:351
+msgid "Restore system settings"
+msgstr "Sistem ayarlari sil"
+
+#: ../plugin.py:351
+msgid "Restore your STB settings."
+msgstr "Cihaz ayarlari sil"
+
+#: ../plugin.py:352
+#: ../plugin.py:368
+msgid "Advanced restore"
+msgstr "ilerlemeyi sil"
+
+#: ../plugin.py:352
+#: ../plugin.py:368
+msgid "Restore your backups by date."
+msgstr "Kopyalari tarihine göre sil"
+
+#: ../plugin.py:353
+#: ../plugin.py:369
+msgid "Choose backup location"
+msgstr "Kopya kayit secenek"
+
+#: ../plugin.py:353
+#: ../plugin.py:369
+msgid "Select your backup device. "
+msgstr "Kopya secenekleri seciniz"
+
+#: ../plugin.py:354
+msgid "Choose backup files"
+msgstr "Kopya dosyasini sec"
+
+#: ../plugin.py:354
+msgid "Select files for backup. "
+msgstr "Kopyalanacak dosyalari seciniz."
+
+#: ../plugin.py:358
+msgid "Install .tar.gz "
+msgstr ".tar.gz yükle"
+
+#: ../plugin.py:358
+msgid "Install all .tar.gz file form /tmp "
+msgstr "tüm .tar.gz dosyalari /tmp'den yükle"
+
+#: ../plugin.py:359
+msgid "Install Ipkg"
+msgstr "Ipkg yükle"
+
+#: ../plugin.py:359
+msgid "Install local ipkg"
+msgstr "Yerel ipkg yükle"
+
+#: ../plugin.py:360
+msgid "Advanced Ipkg Install"
+msgstr "Ilerlemis Ipkg yükle"
+
+#: ../plugin.py:360
+msgid "Install local ipkg with --force overwrite"
+msgstr "Yerel ipkg'leri  üstüne yükle"
+
+#: ../plugin.py:361
+msgid "VTI manual Addon Installer"
+msgstr "VTI manuel Ilave yükler"
+
+#: ../plugin.py:364
+msgid "Update Image"
+msgstr "Image'i günlelle"
+
+#: ../plugin.py:364
+msgid "Update your STB image from Internet."
+msgstr "Cihazinizi Internet'den güncelle"
+
+#: ../plugin.py:366
+msgid "Backup Image"
+msgstr "Image kopyalama"
+
+#: ../plugin.py:366
+msgid "Backup your running STB image."
+msgstr "Calisir Cihazinizin Image'ini kopyala"
+
+#: ../plugin.py:367
+msgid "Restore Image"
+msgstr "Imagi sil"
+
+#: ../plugin.py:367
+msgid "Restore your backuped STB image."
+msgstr "Kopyalanmis Cihaz image'i sil"
+
+#: ../plugin.py:374
+msgid "Device Manager"
+msgstr "Cihaz menejer"
+
+#: ../plugin.py:374
+msgid "manage your HDD's and USB devices"
+msgstr "HDD'ni ve USB Cihazlarini düzenle"
+
+#: ../plugin.py:376
+msgid "File Manager"
+msgstr "Dosyalarini düzenle"
+
+#: ../plugin.py:376
+msgid "open Filemanager"
+msgstr "acik Dosyadüzenleyici"
+
+#: ../plugin.py:378
+msgid "Network Browser"
+msgstr "Sebeke tarayici"
+
+#: ../plugin.py:378
+msgid "open NetworkBrowswer"
+msgstr "acik Sebeke tarayici"
+
+#: ../plugin.py:379
+msgid "EPG Settings"
+msgstr "EPG ayarlari"
+
+#: ../plugin.py:379
+msgid "set EPG path, restore or backup EPG data"
+msgstr "EPG dosyani ayarla, EPG kopyasini sil"
+
+#: ../plugin.py:380
+msgid "Cronjob Manager"
+msgstr "Tacgörevi düzenliyici"
+
+#: ../plugin.py:380
+msgid "manage cronjobs of your VU+"
+msgstr "VU+'un Tacgörevini düzenle"
+
+#: ../plugin.py:381
+msgid "Run Command"
+msgstr "Emiri baslat"
+
+#: ../plugin.py:381
+msgid "run executable files of your VU+"
+msgstr "calisir dosyalari baslat"
+
+#: ../plugin.py:382
+msgid "Set Root Password"
+msgstr "Root sifreni ver"
+
+#: ../plugin.py:382
+msgid "set root password of your stb"
+msgstr "Cihazin Root sifresini ver"
+
+#: ../plugin.py:384
+msgid "Services"
+msgstr "Servisler"
+
+#: ../plugin.py:384
+msgid "enable/disable Systemservices"
+msgstr "Sistemservisini ac/kapalt"
+
+#: ../plugin.py:385
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "USB DVB-T/C/S2 Tablosu"
+
+#: ../plugin.py:385
+msgid "manage Sundtek USB DVB Stick"
+msgstr "Sundtek USB DVB Stick Yönetimi"
+
+#: ../plugin.py:386
+msgid "IPK Uninstaller"
+msgstr "IPK silici"
+
+#: ../plugin.py:386
+msgid "remove seletected package from stb"
+msgstr "Secilen Paketi Cihaz'dan sil"
+
+#: ../plugin.py:388
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Pruge Enigma2 kaza raporu"
+
+#: ../plugin.py:388
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "Anketdeki Enigma2 kaza raporunu silici"
+
+#: ../plugin.py:389
+msgid "Remove Skins"
+msgstr "Skini sil"
+
+#: ../plugin.py:389
+msgid "choose skin to remove"
+msgstr "Silinecek Skini sec"
+
+#: ../plugin.py:391
+msgid "Swapfile"
+msgstr "Dosya degistir"
+
+#: ../plugin.py:391
+msgid "create and manage your Swapfile"
+msgstr "Degisecek Dosyayi yarat ve yönet"
+
+#: ../plugin.py:392
+msgid "Set NTP Time"
+msgstr "NTP Saatini sec"
+
+#: ../plugin.py:392
+msgid "refresh time for enigma2 from ntp server"
+msgstr "ntp bankasindan saat ayarla"
+
+#: ../plugin.py:393
+msgid "Harddisk Standby"
+msgstr "Harddiski söndür"
+
+#: ../plugin.py:393
+msgid "turns hdd immediately into standby mode"
+msgstr "hdd'i hemen söndür"
+
+#: ../plugin.py:397
+#: ../plugin.py:1414
+msgid "Bitrate Viewer"
+msgstr "Bitare görterge"
+
+#: ../plugin.py:397
+msgid "Show Advanced Bitrate infos"
+msgstr "Bitrate durumuna bak"
+
+#: ../plugin.py:399
+msgid "ECM Info"
+msgstr "ECM durumu"
+
+#: ../plugin.py:399
+msgid "show ecm infos from temp dir"
+msgstr "ecm durumuna temp klasöründen bak"
+
+#: ../plugin.py:400
+msgid "show Feed updates"
+msgstr "Feed güncellemeye bak"
+
+#: ../plugin.py:401
+msgid "Show processes"
+msgstr "Proseslere bak"
+
+#: ../plugin.py:401
+msgid "show running processes"
+msgstr "calisir proseslere bak"
+
+#: ../plugin.py:402
+msgid "Show filesystem mounts"
+msgstr "mountlanmis sistemdosyasina bak"
+
+#: ../plugin.py:402
+msgid "show active mounts"
+msgstr "aktif mountlara bak"
+
+#: ../plugin.py:403
+msgid "Harddisk Temperature"
+msgstr "Harddisk derecesi"
+
+#: ../plugin.py:403
+msgid "show HDD Temperature"
+msgstr "hdd isisina bak"
+
+#: ../plugin.py:404
+msgid "Show Consolesessions"
+msgstr "konsolrezisyonlara bak"
+
+#: ../plugin.py:404
+msgid "show all active user sessions"
+msgstr "tüm kullanici sesonlara bak"
+
+#: ../plugin.py:405
+msgid "Show Uptime"
+msgstr "baslangic saatine bak"
+
+#: ../plugin.py:405
+msgid "show operating system uptime of stb"
+msgstr "cihaz baslangic saatine bak"
+
+#: ../plugin.py:406
+msgid "Show Networkconnections"
+msgstr "Sebeke baglantilarina bak"
+
+#: ../plugin.py:406
+msgid "show all connected sockets from ip-stack"
+msgstr "tüm baglantilara ip-stack'dan bak"
+
+#: ../plugin.py:407
+msgid "Show Systemmemory Info"
+msgstr "Sistem hafiza durumuna bak"
+
+#: ../plugin.py:407
+msgid "show whole system memory usage"
+msgstr "kullanilan sistem hafizasina bak"
+
+#: ../plugin.py:408
+msgid "Show Networkdetails"
+msgstr "Sebeke bilgileri"
+
+#: ../plugin.py:408
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "tain edilen IP-adresi, agdairesi ve santralismine bak"
+
+#: ../plugin.py:409
+msgid "Show diskspace"
+msgstr "Harddisk bosluguna bak"
+
+#: ../plugin.py:409
+msgid "show diskpace"
+msgstr "Harddisk bosluguna bak"
+
+#: ../plugin.py:410
+msgid "Image Info"
+msgstr "Image durumu"
+
+#: ../plugin.py:410
+msgid "show simple Image infos"
+msgstr "kisatilmis Image durumuna bak"
+
+#: ../plugin.py:411
+msgid "VTI System Infos"
+msgstr "VTI sistem durumu"
+
+#: ../plugin.py:415
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"devam etmek icin kumandanin OK tusuna basiniz."
+
+#: ../plugin.py:454
+#: ../plugin.py:483
+msgid "Please select medium to use as backup location"
+msgstr "Lütfen kullanacaginiz kopyanin kayidini seciniz"
+
+#: ../plugin.py:463
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Eski ayara dönmek istediginizden eminmisiniz?\n"
+"Enigma2 yeniden start olacak islem bittikten sonra"
+
+#: ../plugin.py:465
+msgid "Sorry no backups found!"
+msgstr "Üzgünüm kopya bulunamadi"
+
+#: ../plugin.py:468
+msgid "VTI .tar.gz installer"
+msgstr "VTI .ta.gz yükler"
+
+#: ../plugin.py:470
+#: ../plugin.py:472
+msgid "VTI IPK Installer"
+msgstr "VTI IPK Yükler"
+
+#: ../plugin.py:489
+#: ../plugin.py:491
+#: ../plugin.py:493
+#: ../plugin.py:495
+#: ../BackupRestore.py:385
+#: ../BackupRestore.py:387
+#: ../BackupRestore.py:389
+#: ../BackupRestore.py:391
+msgid "VTI Restore Image"
+msgstr "VTI Image eski hali"
+
+#: ../plugin.py:497
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Image bulunamadi!!!! \n"
+"\n"
+"Lütfen Image'i usb'den kopyalayin veya eski Image dönün /media/hdd/vuplus/MODEL."
+
+#: ../plugin.py:499
+msgid "Menu "
+msgstr "Menü"
+
+#: ../plugin.py:499
+msgid ""
+" not implemented yet\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"faliyete gecmedi\n"
+"\n"
+"Lütfen baskasini secin."
+
+#: ../plugin.py:503
+msgid "VTI Backup Image"
+msgstr "VTI kopya Image"
+
+#: ../plugin.py:505
+msgid ""
+"No valid Backupdestion found!!!! \n"
+"\n"
+"Please install an internal Harddisk first to create Backups."
+msgstr ""
+"Gecerli Kopya bulunamadi!!!! \n"
+"\n"
+"Lütfen icerik Harddisk takip ilk kopyanizi yapin."
+
+#: ../plugin.py:514
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Cihaz Menejeri yüklü degil!\n"
+"Lütfen yükleyin."
+
+#: ../plugin.py:522
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"Dosya Menejeri yüklü degil!\n"
+"Lütfen yükleyin."
+
+#: ../plugin.py:530
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"Sebeke düzenliyici yüklü degil!\n"
+"Lütfen yükleyin."
+
+#: ../plugin.py:563
+msgid "VTI Harddisk Standbymode"
+msgstr "VTI Harddisk Standby modunda"
+
+#: ../plugin.py:568
+msgid "VTI show ecm.info"
+msgstr "VTI ecm.habere bak"
+
+#: ../plugin.py:570
+msgid "VTI show running processes"
+msgstr "VTI calisir proseslere bak"
+
+#: ../plugin.py:574
+msgid "VTI show mounted filesystems"
+msgstr "VTI mountlanmis dosyasistemine bak"
+
+#: ../plugin.py:576
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "VTI Sebeke ayarlarina bak"
+
+#: ../plugin.py:579
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "Harddisk Üreticisi, Tipi ve derecesi:"
+
+#: ../plugin.py:579
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "hdd'yi standby moduna ayarlamak istediginizden eminmisiniz?"
+
+#: ../plugin.py:580
+msgid "HDD Temperature"
+msgstr "HDD Derecesi"
+
+#: ../plugin.py:582
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check harddisk temperature."
+msgstr ""
+"Icerik Harddisk bagli degil!!!\n"
+"\n"
+"Önce icerik Harddisk takip, sonra bu notadan Harddisk derecesini control edebilirsiniz."
+
+#: ../plugin.py:584
+msgid "Active Usersessions :"
+msgstr "Aktif Kullanici seson :"
+
+#: ../plugin.py:586
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Suanki Saat, Kullanim saati ve yükleme ortalamasi"
+
+#: ../plugin.py:587
+msgid "Uptime"
+msgstr "Kullanim saati"
+
+#: ../plugin.py:590
+msgid "VTI show network stats"
+msgstr "VTI sebeke durumua bak"
+
+#: ../plugin.py:592
+msgid "Current Memory Usage :"
+msgstr "Suanki kullanilan Hafiza"
+
+#: ../plugin.py:593
+msgid "Memory Usage"
+msgstr "Kullanilan Hafiza"
+
+#: ../plugin.py:595
+msgid "VTI show free diskspace"
+msgstr "VTI Harddisk bos bölgesine bak"
+
+#: ../plugin.py:599
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Menu implement degil!!! \n"
+"\n"
+"herhangi sifreyi bu menüye kullanabillirsiniz ;)"
+
+#: ../plugin.py:602
+msgid "Install/update finished."
+msgstr "Yükleme/Güncelleme Tamam."
+
+#: ../plugin.py:602
+msgid "Do you want to reboot your STB?"
+msgstr "Cihazinizi reboot etmek istermisiniz?"
+
+#: ../plugin.py:634
+#: ../plugin.py:643
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Üzgünüm, kopya hedefiniz yazinilamaz. \n"
+"\n"
+"Lütfen baski birini seciniz."
+
+#: ../plugin.py:647
+msgid "VTI-Backup done."
+msgstr "VTI-Kopya tamamlanmistir."
+
+#: ../plugin.py:649
+msgid "VTI-Backup failed."
+msgstr "VTI-Kopya olmadi."
+
+#: ../plugin.py:667
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr "Harddisk yok veya S.M.A.R.T özellikli Harddisk takili degil."
+
+#: ../plugin.py:673
+msgid "At"
+msgstr "orda"
+
+#: ../plugin.py:677
+msgid "Could not grep Uptime Information from busybox"
+msgstr "Kullanim zamani bilgileri allinamadi"
+
+#: ../plugin.py:689
+msgid "Could not grep socket information from busybox"
+msgstr "Giris bilgileri allinamadi"
+
+#: ../plugin.py:701
+msgid "Could not grep Memory Usage information from busybox"
+msgstr "Kullanilan hafiza bilgileri alinamadi"
+
+#: ../plugin.py:737
+#: ../plugin.py:802
+msgid "VTI Status List Menu"
+msgstr "VTI durumu menü listesi"
+
+#: ../plugin.py:744
+msgid "Stop Swap"
+msgstr "Degistirmeyi durdur"
+
+#: ../plugin.py:745
+msgid "Start Swap"
+msgstr "Degistirmeyi baslat"
+
+#: ../plugin.py:750
+msgid "VTI SwapFile Menu"
+msgstr "VTI Dosya degistirme Menüsü"
+
+#: ../plugin.py:753
+msgid "Stop"
+msgstr "Durdur"
+
+#: ../plugin.py:754
+msgid "Start"
+msgstr "Baslat"
+
+#: ../plugin.py:755
+msgid "Restart"
+msgstr "Tekrar baslat"
+
+#: ../plugin.py:758
+msgid "VTI Services Menu"
+msgstr "VTI servis menüsü"
+
+#: ../plugin.py:761
+msgid "Uninstall"
+msgstr "Sildir"
+
+#: ../plugin.py:762
+msgid "Force uninst."
+msgstr "Güclü sildir"
+
+#: ../plugin.py:767
+msgid "VTI IPK Uninstaller Menu"
+msgstr "VTI IPK sildirme menüsü"
+
+#: ../plugin.py:770
+msgid "Remove Skin"
+msgstr "Skin'i sildir"
+
+#: ../plugin.py:777
+msgid "VTI Skinremove Menu"
+msgstr "VTI Skin silici Menü"
+
+#: ../plugin.py:780
+msgid "Remove selected"
+msgstr "Secileni sil"
+
+#: ../plugin.py:781
+msgid "Remove all"
+msgstr "Tümünü sil"
+
+#: ../plugin.py:782
+msgid "Remove older 7 Days"
+msgstr "7 günden eski olani sil"
+
+#: ../plugin.py:785
+msgid "VTI Crashlogremove Menu"
+msgstr "VTI Crashlog silme menüsü"
+
+#: ../plugin.py:789
+msgid "Ok"
+msgstr "Tamam"
+
+#: ../plugin.py:795
+#: ../plugin.py:1087
+msgid "VTI USB DVB-Panel"
+msgstr "VTI USB DVB Tablosu"
+
+#: ../plugin.py:798
+#: ../plugin.py:799
+#: ../plugin.py:800
+#: ../plugin.py:801
+msgid "not in use"
+msgstr "Kullanilmamakta"
+
+#: ../plugin.py:1014
+msgid "MB swapfile on "
+msgstr "MB gereksiz dosya acik"
+
+#: ../plugin.py:1029
+msgid "Are you sure to delete swapfile ?"
+msgstr "Gereksiz dosyalari silmek istediginizden eminmisiniz?"
+
+#: ../plugin.py:1031
+#, python-format
+msgid "Are you sure to %s ?"
+msgstr "Eminmisiiniz %s?"
+
+#: ../plugin.py:1038
+msgid "VTI Start Service"
+msgstr "VTI Baslatma servisi"
+
+#: ../plugin.py:1040
+msgid "VTI Stop Service"
+msgstr "VTI durdurma servisi"
+
+#: ../plugin.py:1042
+msgid "VTI Restart Service"
+msgstr "VTI yeniden baslat servisi"
+
+#: ../plugin.py:1059
+msgid "VTI Skinremoval"
+msgstr "VTI Skin sildir"
+
+#: ../plugin.py:1067
+#: ../plugin.py:1069
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr "VTI Enigma2 Crashlogu sil"
+
+#: ../plugin.py:1080
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr "7 günden eski Crshlog silindi..."
+
+#: ../plugin.py:1121
+msgid "stopping swap for "
+msgstr "Degisim durdu"
+
+#: ../plugin.py:1121
+msgid "swapfile was deleted successfully"
+msgstr "Gereksiz dosya basariyla silindi"
+
+#: ../plugin.py:1122
+#: ../plugin.py:1138
+msgid "VTI create SwapFile"
+msgstr "VTI gecici Dosya yarat"
+
+#: ../plugin.py:1124
+msgid "no swapfile active..."
+msgstr "Gecici Dosya aktif degil"
+
+#: ../plugin.py:1136
+msgid "swapfile was created successfully"
+msgstr "Gecici Dosya basariyla yaratildi"
+
+#: ../plugin.py:1158
+msgid "VTI IPK Uninstall"
+msgstr "VTI IPK Sildirme"
+
+#: ../plugin.py:1164
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr "VTI IPK bagimliligi hice say"
+
+#: ../plugin.py:1172
+msgid "Stop Cam"
+msgstr "Cam'i durdur"
+
+#: ../plugin.py:1173
+msgid "Start Cam"
+msgstr "Cam'i baslat"
+
+#: ../plugin.py:1174
+msgid "Restart Cam"
+msgstr "Cam'i yeniden baslat"
+
+#: ../plugin.py:1175
+msgid "Manage Cams"
+msgstr "Cam'i yönet"
+
+#: ../plugin.py:1176
+msgid "Select Cam and press OK to activate"
+msgstr "Cam'i seciniz ve aktif hale getirmek icin OK tusuna basiniz"
+
+#: ../plugin.py:1337
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr "AKTIF CAM YOK!!! Yeniden baslatilamaz "
+
+#: ../plugin.py:1346
+msgid "cam info : "
+msgstr "Cam Haber:"
+
+#: ../plugin.py:1346
+msgid " -- "
+msgstr "--"
+
+#: ../plugin.py:1355
+msgid "Starting cam : "
+msgstr "Cam basliyor"
+
+#: ../plugin.py:1363
+msgid "Stopping cam : "
+msgstr "Cam duruyor"
+
+#: ../plugin.py:1365
+msgid "Restarting cam : "
+msgstr "Cam yeniden basliyor"
+
+#: ../plugin.py:1421
+msgid "Video"
+msgstr "Video"
+
+#: ../plugin.py:1422
+msgid "Audio"
+msgstr "Ses"
+
+#: ../plugin.py:1423
+msgid "Min"
+msgstr "Minimum"
+
+#: ../plugin.py:1424
+msgid "Max"
+msgstr "Maksimum"
+
+#: ../plugin.py:1425
+msgid "Current"
+msgstr "su an"
+
+#: ../plugin.py:1426
+msgid "Average"
+msgstr "ortalama"
+
+#: ../plugin.py:1491
+msgid "Reload"
+msgstr "tekrar yükle"
+
+#: ../plugin.py:1492
+msgid "Download or delete Cam"
+msgstr "Cam'i indir veya sil"
+
+#: ../plugin.py:1508
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"OK tusuna bastiktan sonra bekleyiniz!"
+
+#: ../plugin.py:1551
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Yeni Pekt listesi indirilmekte. Lütfen bekleyiniz..."
+
+#: ../plugin.py:1551
+msgid "Package list update"
+msgstr "Paket listesini güncelle"
+
+#: ../plugin.py:1555
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Paket listesini indiriken bir hata olustu. Tekrar deneyiniz."
+
+#: ../plugin.py:1555
+msgid "Error"
+msgstr "hata"
+
+#: ../plugin.py:1580
+msgid "Do you want to remove the package:\n"
+msgstr "Paket'i silmekmi istiyorsunuz?\n"
+
+#: ../plugin.py:1584
+msgid "Do you want to upgrade the package:\n"
+msgstr "Paket'i güncellemekmi istiyorsunz?\n"
+
+#: ../plugin.py:1588
+msgid "Do you want to install the package:\n"
+msgstr "Paket'i yüklemekmi istiyorsunuz?\n"
+
+#: ../plugin.py:1707
+msgid "Change Root Password"
+msgstr "Root sifreniyi degistir"
+
+#: ../plugin.py:1720
+msgid "Set Password"
+msgstr "Sifre sec"
+
+#: ../plugin.py:1721
+msgid "new Random"
+msgstr "rasgele yeni"
+
+#: ../plugin.py:1722
+msgid "virt. Keyboard"
+msgstr "hayali klavye"
+
+#: ../plugin.py:1742
+msgid "Enter new Password"
+msgstr "yeni bir sifre giriniz"
+
+#: ../plugin.py:1758
+#, python-format
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+"Root kullanici sifreniz basariyla \n"
+"%sdegismistir"
+
+#: ../plugin.py:1760
+msgid "Unable to change/reset password for root user"
+msgstr "Root kullanici sifreniz degisilemez/silinemez"
+
+#: ../plugin.py:1782
+msgid "Enter your password here:"
+msgstr "Sifrenizi buraya giriniz:"
+
+#: ../plugin.py:1861
+msgid "Manage your VU+ Team Image"
+msgstr "VU+ Team Image'i yönet"
+
+#: ../ntpserver.py:47
+msgid "NTP server "
+msgstr "NTP santrali"
+
+#: ../ntpserver.py:47
+msgid " is activated."
+msgstr "aktiflesdi"
+
+#: ../ntpserver.py:51
+msgid "NTP-Server Country Selection"
+msgstr "NTP-Santral Ülke secme"
+
+#: ../ntpserver.py:78
+msgid "NTP-Server Contenant Selection"
+msgstr "NTP-Santral kita secme"
+
+#: ../BackupRestore.py:73
+#: ../BackupRestore.py:88
+#: ../BackupRestore.py:90
+msgid "VTI-Backup is running..."
+msgstr "VTI-Kopya basladi"
+
+#: ../BackupRestore.py:93
+#: ../BackupRestore.py:95
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Malesef kopyaniz hedefe yazilamaz.\n"
+"Lütfen baska birini seciniz."
+
+#: ../BackupRestore.py:112
+#: ../BackupRestore.py:192
+#: ../BackupRestore.py:321
+#: ../ExeManager.py:203
+#: ../ExeManager.py:265
+#: ../ExeManager.py:339
+#: ../CronManager.py:235
+#: ../CronManager.py:353
+#: ../CronManager.py:445
+msgid "Cancel"
+msgstr "vaz gec"
+
+#: ../BackupRestore.py:145
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr "VTI Kopya - kopya icin Dosya/Klasör sec"
+
+#: ../BackupRestore.py:150
+msgid "Deselect"
+msgstr "iptal et"
+
+#: ../BackupRestore.py:152
+msgid "Select"
+msgstr "sec"
+
+#: ../BackupRestore.py:193
+#: ../BackupRestore.py:322
+msgid "Restore"
+msgstr "eski ayara dön"
+
+#: ../BackupRestore.py:194
+#: ../BackupRestore.py:323
+#: ../ExeManager.py:114
+#: ../CronManager.py:150
+msgid "Delete"
+msgstr "sil"
+
+#: ../BackupRestore.py:224
+#: ../BackupRestore.py:353
+msgid "VTI-Restore backups"
+msgstr "VTI-Eski kopya ayarina dön"
+
+#: ../BackupRestore.py:242
+#: ../BackupRestore.py:371
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"eski \n"
+" ayarina dönmek istediginizden eminmisinizkopyayi izle: \n"
+
+#: ../BackupRestore.py:242
+#: ../BackupRestore.py:371
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Sistem sildikten sonra yeniden baslayacak!"
+
+#: ../BackupRestore.py:250
+msgid "Restore running"
+msgstr "geri dönüs basladi"
+
+#: ../BackupRestore.py:256
+#: ../BackupRestore.py:399
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"silmek istediginizden\n"
+"eminmisinizkopyayi izle: \n"
+
+#: ../BackupRestore.py:293
+#: ../BackupRestore.py:303
+msgid "VTI-Restore is running..."
+msgstr "VTI-Geri dönüs basladi"
+
+#: ../BackupRestore.py:301
+msgid "Restore is running..."
+msgstr "Geri dönüs basladi"
+
+#: ../BackupRestore.py:393
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or ultimo ."
+msgstr ""
+"Image bulunamadi!!! \n"
+"\n"
+"Lütfen image'i usb'ye yükleyin yada image'e geri dönün /media/hdd/vuplus/duo/solo/uno veya ultimo."
+
+#: ../ExeManager.py:107
+#: ../ExeManager.py:184
+msgid "Execute: "
+msgstr "islet:"
+
+#: ../ExeManager.py:108
+#: ../ExeManager.py:161
+msgid "VTI ExeManager"
+msgstr "VTI Exe yönetimi"
+
+#: ../ExeManager.py:115
+#: ../CronManager.py:151
+msgid "Add"
+msgstr "ekle"
+
+#: ../ExeManager.py:116
+#: ../CronManager.py:152
+msgid "Modify"
+msgstr "degistir"
+
+#: ../ExeManager.py:117
+#: ../CronManager.py:153
+msgid "Execute"
+msgstr "islet"
+
+#: ../ExeManager.py:155
+#, python-format
+msgid "File %s was not found"
+msgstr "Dosya %s bulunamadi"
+
+#: ../ExeManager.py:158
+#, python-format
+msgid "File %s is not executable"
+msgstr "Dosya %s isletilemez"
+
+#: ../ExeManager.py:164
+#: ../CronManager.py:187
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Secenek: %s islemlendi"
+
+#: ../ExeManager.py:195
+msgid "your executable"
+msgstr "sizin isletilebilir"
+
+#: ../ExeManager.py:197
+#: ../ExeManager.py:259
+msgid "no"
+msgstr "Hayir"
+
+#: ../ExeManager.py:197
+#: ../ExeManager.py:259
+msgid "yes"
+msgstr "evet"
+
+#: ../ExeManager.py:198
+msgid "Add a executable to ExeManager"
+msgstr "Bir islem Exemenejere ekleyiniz"
+
+#: ../ExeManager.py:218
+#: ../ExeManager.py:280
+#: ../CronManager.py:250
+#: ../CronManager.py:368
+msgid "Command to execute : "
+msgstr "Islem emri:"
+
+#: ../ExeManager.py:219
+#: ../ExeManager.py:281
+#: ../CronManager.py:251
+msgid "Additional command options : "
+msgstr "Eklenebilir emir seceneyi"
+
+#: ../ExeManager.py:220
+#: ../ExeManager.py:282
+msgid "Show command output : "
+msgstr "Islem sonucuna bak :"
+
+#: ../ExeManager.py:260
+msgid "Modify execute command"
+msgstr "Degisik islem emri"
+
+#: ../ExeManager.py:334
+msgid "Select a file to execute"
+msgstr "islenecek dosyayi seciniz"
+
+#: ../ExeManager.py:340
+#: ../CronManager.py:446
+msgid "OK"
+msgstr "OK"
+
+#: ../ExeManager.py:347
+#: ../ExeManager.py:418
+#: ../CronManager.py:453
+#: ../CronManager.py:524
+msgid "Invalid Choice"
+msgstr "Gecersiz secim"
+
+#: ../ExeManager.py:355
+#: ../ExeManager.py:407
+#: ../CronManager.py:461
+#: ../CronManager.py:513
+msgid "File is not executable"
+msgstr "Dosya islenilemez"
+
+#: ../ExeManager.py:408
+#: ../CronManager.py:514
+msgid "chmod 755"
+msgstr "chmeod 755"
+
+#: ../CronManager.py:144
+msgid "VTI CronManager"
+msgstr "VTI Cron yönetimi"
+
+#: ../CronManager.py:224
+msgid "your cronjob"
+msgstr "cron isleminiz"
+
+#: ../CronManager.py:230
+msgid "Add a job to CronManager"
+msgstr "Cron yönetimine bir görev ekleyiniz"
+
+#: ../CronManager.py:252
+#: ../CronManager.py:369
+msgid "Input minute : "
+msgstr "dakikayi gir"
+
+#: ../CronManager.py:253
+#: ../CronManager.py:370
+msgid "Input hour : "
+msgstr "Saati gir"
+
+#: ../CronManager.py:254
+#: ../CronManager.py:371
+msgid "Input day : "
+msgstr "Günü gir :"
+
+#: ../CronManager.py:255
+#: ../CronManager.py:372
+msgid "Input month : "
+msgstr "Ay'i gir :"
+
+#: ../CronManager.py:256
+#: ../CronManager.py:373
+msgid "Input weekday : "
+msgstr "Haftagününü gir :"
+
+#: ../CronManager.py:348
+msgid "Modify a CronManager job"
+msgstr "Cron yönetiminde degisen görev"
+
+#: ../CronManager.py:440
+msgid "Select a executable file for a cronjob"
+msgstr "Cron görevi icin islenebilir Dosya seciniz"
+

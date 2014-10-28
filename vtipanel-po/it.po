@@ -1,0 +1,1611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VTi Panel from 6.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-25 17:38+0200\n"
+"PO-Revision-Date: 2014-03-12 22:02+0100\n"
+"Last-Translator: Diamante <diavar@tin.it>\n"
+"Language-Team: Diamondear <diavar@tin.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-Bookmarks: -1,-1,392,-1,-1,-1,-1,191,-1,-1\n"
+"X-Generator: Poedit 1.6.4\n"
+
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
+"\n"
+"\n"
+"Si prega di dare un'occhiata al\n"
+"%s\n"
+"per maggiori dettagli"
+
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Dopo aver premuto OK, si prega di attendere!"
+
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+"\n"
+"Pacchetto: %s \n"
+"Vecchia versione: %s \n"
+"Nuova versione: %s\n"
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Premere OK sul telecomando per continuare."
+
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Il Sistema verrà riavviato dopo il ripristino!"
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Il tuo Sistema è aggiornato"
+
+msgid " -- "
+msgstr " --"
+
+msgid " downloading available drivers information"
+msgstr "Scaricare i driver, informazioni disponibili"
+
+msgid " is activated."
+msgstr "è attivato."
+
+msgid "/hdd"
+msgstr "/hdd"
+
+msgid "/media/hdd"
+msgstr "/media/hdd"
+
+msgid "/media/hdd1"
+msgstr "/media/hdd1"
+
+msgid "/media/usb"
+msgstr "/media/usb"
+
+msgid "/media/usb1"
+msgstr "/media/usb1"
+
+msgid "Active Usersessions :"
+msgstr "Sessioni utente attive:"
+
+msgid "Add"
+msgstr "Aggiungere"
+
+msgid "Add a executable to ExeManager"
+msgstr "Aggiungi un eseguibile per ExeManager"
+
+msgid "Add a job to CronManager"
+msgstr "Aggiungi un processo al CronManager"
+
+msgid "Additional command options : "
+msgstr "Ulteriori opzioni del comando:"
+
+msgid "Advanced Ipkg Install"
+msgstr "Installazione Avanzata ipkg"
+
+msgid "Advanced restore"
+msgstr "Ripristino avanzato"
+
+msgid "Are you sure to %s ?"
+msgstr "Siete sicuri di %s ?"
+
+msgid "Are you sure to delete swapfile ?"
+msgstr "Sei sicuro di voler cancellare lo swapfile ?"
+
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "Sei sicuro di Sospendere l'HDD ?"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Sei sicuro di voler cancellare\n"
+"seguenti salvataggi:\n"
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+"Sei sicuro che si desidera installare\n"
+"seguenti driver:\n"
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Sei sicuro di voler ripristinare\n"
+"seguenti salvataggi:\n"
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Sei sicuro di voler ripristinare il salvataggio di Enigma2?\n"
+"Enigma2 verrà riavviato dopo il ripristino"
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+"Sei sicuro che si desidera eseguire\n"
+"seguenti script:\n"
+
+msgid "At"
+msgstr "A"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Average"
+msgstr "Media"
+
+msgid "Backup"
+msgstr "Salva"
+
+msgid "Backup Image"
+msgstr "Salvataggio Immagine"
+
+msgid "Backup channel settings"
+msgstr "Salvataggio impostazioni dei canali"
+
+msgid "Backup configurations"
+msgstr "Salvataggio configurazioni"
+
+msgid "Backup installed channellist and plugins"
+msgstr "Salva la lista dei Canali e Plugin"
+
+msgid "Backup installed plugins"
+msgstr "Salvataggio Plugin installati"
+
+msgid "Backup of boot filesystem failed"
+msgstr "Salvataggio del FileSystem di boot fallito"
+
+msgid "Backup of common configurations failed"
+msgstr "Salvataggio di configurazioni comuni falliti"
+
+msgid "Backup of kernel failed"
+msgstr "Salvataggio del kernel non riuscito"
+
+msgid "Backup of root filesystem failed"
+msgstr "Salvataggio del FileSystem di root fallito"
+
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
+"Salvataggio della tua immagine in corso. \n"
+"Il salvataggio può richiedere alcuni minuti\n"
+"Attendere prego ... "
+
+msgid "Backup settings failed"
+msgstr "Salvataggio impostazioni falliti"
+
+msgid "Backup system settings"
+msgstr "Salvataggio Impostazioni di Sistema"
+
+msgid "Backup your STB settings."
+msgstr "Salva le impostazioni del VU+."
+
+msgid "Backup your running STB image."
+msgstr "Avvia il Salvataggio dell'immagine VU+."
+
+msgid "Backup/restore device : %s"
+msgstr "Salvataggio/Ripristino dispositivo: %s"
+
+msgid "Bitrate Viewer"
+msgstr "Visualizzazione Bitrate"
+
+msgid "CPU %"
+msgstr "CPU %"
+
+msgid "Cam Center"
+msgstr "Centro Cam"
+
+msgid "Cancel"
+msgstr "Chiudi"
+
+msgid "Change Root Password"
+msgstr "Cambiare Root Password"
+
+msgid "Change password for VTI Panel"
+msgstr "Cambiare password per il Pannello VTi"
+
+msgid "Choose backup files"
+msgstr "Scegli il file di salvataggio"
+
+msgid "Choose backup location"
+msgstr "Scegli la posizione di salvataggio"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Command to execute : "
+msgstr "Comando da eseguire:"
+
+msgid "Command: %s was executed"
+msgstr "Comando: %s stato eseguito"
+
+msgid "Common configuration backup finished succesfully"
+msgstr "Salvataggio configurazione comune terminato con successo."
+
+msgid "Configurations"
+msgstr "Configurazioni"
+
+msgid "Configuring"
+msgstr "Configurazione"
+
+msgid "Could not grep Memory Usage information from busybox"
+msgstr "Impossibile usare grep per le informazioni sulla memoria da busybox "
+
+msgid "Could not grep Uptime Information from busybox"
+msgstr "Impossibile usare grep per le informazioni sul Uptime da busybox "
+
+msgid "Could not grep socket information from busybox"
+msgstr "Impossibile usare grep per le informazioni sulla socket da busybox "
+
+msgid "Creating list of installed plugins failed"
+msgstr "Creazione elenco dei Plugin non installati"
+
+msgid "Cronjob Manager"
+msgstr "Gestione dei CronJob "
+
+msgid "Current"
+msgstr "Attuale"
+
+msgid "Current Memory Usage :"
+msgstr "Uso della memoria corrente:"
+
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Ora Corrente, Tempo di Funzionamento e Carico Medio:"
+
+msgid "Current drivers: "
+msgstr "Driver Correnti: "
+
+msgid "Custom Main Menu"
+msgstr "Personalizzazione Menù Principale"
+
+msgid "DEVICE"
+msgstr "DEVICE"
+
+msgid "Deactivate"
+msgstr "Disattiva"
+
+msgid "Default"
+msgstr "Predefinito"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Delete broken epg.dat"
+msgstr "Elimina epg.dat corrotto"
+
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr "Elimina Crashlog più vecchi di 7 giorni ..."
+
+msgid "Deselect"
+msgstr "Deseleziona"
+
+msgid "Device Manager"
+msgstr "Gestione dei Dispositivi"
+
+msgid ""
+"Do you really want to delete epg.dat ?\n"
+"Note: This will restart your VU+ STB"
+msgstr ""
+"Sei sicuro di voler cancellare epg.dat ?\n"
+"Nota: per questa operazione riavviare il VU+"
+
+msgid "Do you want to install the package:\n"
+msgstr "Si desidera installare il pacchetto:\n"
+
+msgid "Do you want to reboot your STB?"
+msgstr "Vuoi riavviare il tuo VU+?"
+
+msgid "Do you want to remove the package:\n"
+msgstr "Vuoi rimuovere il pacchetto:\n"
+
+msgid "Do you want to restart GUI ?"
+msgstr "Vuoi riavviare la GUI ?"
+
+msgid "Do you want to upgrade the package:\n"
+msgstr "Vuoi aggiornare il pacchetto:\n"
+
+msgid "Done - Installed or upgraded %d packages"
+msgstr "Fatto - Installato o aggiornato %d pacchetti"
+
+msgid "Download"
+msgstr "Scarica"
+
+msgid "Download and install drivers from Vu+ website"
+msgstr "Scarica e installa i driver dal sito VU+"
+
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+"Scaricamento non riuscito!\n"
+"Verifica la tua connessione a Internet"
+
+msgid "Download or delete Cam"
+msgstr "Scarica o elimina la Cam"
+
+msgid "Download or delete Software"
+msgstr "Scarica o elimina il Software"
+
+msgid "Downloading"
+msgstr "Scaricamento in corso ..."
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Driver : %s"
+msgstr "Driver : %s"
+
+msgid "Driver Manager"
+msgstr "Gestione dei Driver"
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+"Driver installato con successo !\n"
+"È necessario riavviare il VU+:\n"
+"Riavviare ora ?"
+
+msgid "ECM Info"
+msgstr "Informazioni ECM"
+
+msgid "EPG Path :"
+msgstr "Percorso EPG :"
+
+msgid "EPG Settings"
+msgstr "Impostazioni EPG"
+
+msgid "EPG path set to : %s"
+msgstr "EPG imposta percorso: %s"
+
+msgid "Enter new Password"
+msgstr "Immettere la nuova Password"
+
+msgid "Enter your password here:"
+msgstr "Inserisci la tua password qui:"
+
+msgid "Error"
+msgstr "Errore"
+
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
+"Errore nella creazione della cartella di salvataggio\n"
+"Si prega di provare un'altra posizione di salvataggio"
+
+msgid "Error at preparing system for backup"
+msgstr "Fehler bei der Vorbereitung der Sicherung"
+
+msgid "Excecute"
+msgstr "Eseguire"
+
+msgid "Execute"
+msgstr "Eseguire"
+
+msgid "Execute: "
+msgstr "Eseguire:"
+
+msgid "Execution finished.\n"
+msgstr "Esecuzione terminata.\n"
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "Expert Backup / Restore"
+msgstr "Salvataggio/Ripristino - Esperti"
+
+msgid "Extensions"
+msgstr "Estensioni"
+
+msgid "FAN : "
+msgstr "VENTOLA : "
+
+msgid "FREE"
+msgstr "LIBERA"
+
+msgid "FREE :"
+msgstr "LIBERA :"
+
+msgid "FS"
+msgstr "FS"
+
+msgid "File %s is not executable"
+msgstr "Il file %s non è eseguibile"
+
+msgid "File %s was not found"
+msgstr "Il file %s non è stato trovato"
+
+msgid "File Manager"
+msgstr "Gestione File"
+
+msgid "File is not executable"
+msgstr "Il file non è eseguibile"
+
+msgid "Force uninst."
+msgstr "Forza Disinstallazione"
+
+msgid "Free Flash"
+msgstr "Flash Libera"
+
+msgid "Free space at flash memory : %d MB\n"
+msgstr "Spazio libero su memoria Flash: %d MB\n"
+
+msgid "HDD Temperature"
+msgstr "Temperatura HDD"
+
+msgid "Harddisk Standby"
+msgstr "Sospensione Hard Disk"
+
+msgid "Harddisk Temperature"
+msgstr "Temperatura Hard Disk"
+
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "Produttore Hard Disk, Tipo e Temperatura:"
+
+msgid "IMAGE : "
+msgstr "IMMAGINE : "
+
+msgid "IPK Uninstaller"
+msgstr "Disinstallazione IPK"
+
+msgid "Image Backup / Restore"
+msgstr "Salvataggio/Ripristino Immagine"
+
+msgid "Image Info"
+msgstr "Informazione Immagine"
+
+msgid "Image backup finished successfully"
+msgstr "Salvataggio dell'immagine completata."
+
+msgid "Info about current system"
+msgstr "Informazioni sul Sistema attuale"
+
+msgid "Infos about your VU+Duo"
+msgstr "Informazioni del tuo VU+"
+
+msgid "Infos about your Vu+ STB"
+msgstr "Informazioni del tuo VU+"
+
+msgid "Input day : "
+msgstr "Inserisci giorno ( 1 - 31 [* / - ,] ) :"
+
+msgid "Input hour : "
+msgstr "Inserisci ora ( 0 - 23 [* / - ,] ) :"
+
+msgid "Input minute : "
+msgstr "Inserisci minuti ( 0 - 60 [* / - ,] ) :"
+
+msgid "Input month : "
+msgstr "Inserisci mese ( 1 - 12 [* / - ,] ) :"
+
+msgid "Input password for VTI Panel"
+msgstr "Inserire la password per il Pannello VTi"
+
+msgid "Input weekday : "
+msgstr "Inserisci giorno ( 0 - 7 [* / - ,] )  :"
+
+msgid "Input your VTI Panel password : "
+msgstr "Inserire la password del Pannello VTi :"
+
+msgid "Input your new VTI Panel password : "
+msgstr "Inserire la nuova password del Pannello VTii:"
+
+msgid "Install"
+msgstr "Installa"
+
+msgid "Install .tar.gz "
+msgstr "Installa .tar.gz"
+
+msgid "Install Ipkg"
+msgstr "Installa Ipkg"
+
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Installa tutti .tar.gz dalla cartela /tmp"
+
+msgid "Install drivers from a local device"
+msgstr "Installa i driver dal dispositivo locale"
+
+msgid "Install local ipkg"
+msgstr "Installa ipkg locale"
+
+msgid "Install local ipkg with --force overwrite"
+msgstr "Installa ipkg locale -- Forza Sovrascrittura"
+
+msgid "Install local packages"
+msgstr "Installazione pacchetti locali"
+
+msgid "Install/update finished."
+msgstr "Installazione/aggiornamento terminato."
+
+msgid "Installation of drivers failed !!!"
+msgstr "Installazione dei driver non riuscita !!!"
+
+msgid "Installing"
+msgstr "Installazione"
+
+msgid "Invalid Choice"
+msgstr "Scelta non valida"
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr "Sembra che la connessione a Internet non è OK, prego controllare"
+
+msgid "KERNEL : "
+msgstr "KERNEL : "
+
+msgid "Kernel modules"
+msgstr "Modulo Kernel"
+
+msgid "LOAD : "
+msgstr "CARICO : "
+
+msgid "Language packages"
+msgstr "Pacchetti Aggiornabili"
+
+msgid "List of installed plugins was created succesfully"
+msgstr "L'elenco dei Plugin installati è stato creato con successo."
+
+msgid "Load EPG data from epg.dat"
+msgstr "Carica i dati EPG da epg.dat"
+
+msgid "Loading EPG data from %s finished"
+msgstr "Caricare dati EPG da %s terminato"
+
+msgid "MB swapfile on "
+msgstr "MB Swapfile in funzione "
+
+msgid "MEM %"
+msgstr "MEM %"
+
+msgid "MOUNTPOINT"
+msgstr "PUNTO DI MONTAGGIO"
+
+msgid "Manage Cams"
+msgstr "Gestisci CAM"
+
+msgid "Manage your VU+ Team Image"
+msgstr "Gestisci l'immagine del Team VU+"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Memory Usage"
+msgstr "Memoria Usata"
+
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Menù non ancora implementato!!!\n"
+"\n"
+"sentitevi liberi di codificare questo Menù ora ;)"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Modify"
+msgstr "Modificare"
+
+msgid "Modify a CronManager job"
+msgstr "Modificare il processo di CronManager"
+
+msgid "Modify execute command"
+msgstr "Modifica l'esecuzione del comando"
+
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr "CAM NON ATTIVA !!! Impossibile riavviare la Cam corrente"
+
+msgid "NTP server "
+msgstr "NTP Server"
+
+msgid "NTP-Server Contenant Selection"
+msgstr "Selezionare il Continente"
+
+msgid "NTP-Server Country Selection"
+msgstr "Selezionare la Nazione"
+
+msgid "Network Browser"
+msgstr "Risorse di Rete"
+
+msgid "News"
+msgstr "Notizie"
+
+msgid "News about VTI"
+msgstr "Notizie VTi"
+
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr "Nessun Hard Disk o Hard Disk con funzionalità S.M.A.R.T. rilevato"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Nessuna immagine trovata!!! \n"
+"\n"
+"Si prega di copiare l'immagine usb o ripristinare l'immagine su\n"
+"/media/hdd/vuplus/Duo/Solo/Uno o Ultimo."
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or "
+"ultimo ."
+msgstr ""
+"Nessuna immagine trovata!!! \n"
+"\n"
+"Si prega di copiare l'immagine usb o ripristinare l'immagine su\n"
+"/media/hdd/vuplus/Duo/Solo/Uno o Ultimo."
+
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check "
+"harddisk temperature."
+msgstr ""
+"Nessun Hard Disk interno rilevato!!! \n"
+"\n"
+"Si prega di installare prima un Hard Disk interno per essere in grado di "
+"controllare la temperatura dell' Hard Disk."
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+"Non ci sono ancora pacchetti da aggiornare. Controllare la rete e riprovare."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "PROCESS"
+msgstr "PROCESSI"
+
+msgid "Package list update"
+msgstr "Aggiornamento elenco pacchetti"
+
+msgid "Picons"
+msgstr "Picons"
+
+msgid "Please select medium to use as backup location"
+msgstr "Selezionare il dispositivo per il salvataggio"
+
+msgid "Please wait ..."
+msgstr "Si prega di attendere ..."
+
+msgid "Please wait, downloading drivers: "
+msgstr "Si prega di attendere, scarico del driver:"
+
+msgid "Please wait..."
+msgstr "Si prega di attendere ..."
+
+msgid "Plugins"
+msgstr "Plugin"
+
+msgid "Press OK on your remote control to continue."
+msgstr "Premere OK sul telecomando per continuare."
+
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Pulizia Crashlog di Enigma2"
+
+msgid "RAM"
+msgstr "RAM"
+
+msgid "RECEIVED"
+msgstr "RICEVUTI"
+
+msgid "Reload"
+msgstr "Ricarica"
+
+msgid "Remove"
+msgstr "Rimuovi"
+
+msgid "Remove HbbTV support"
+msgstr "Rimuovi il supporto HbbTV"
+
+msgid "Remove Opera HbbTV"
+msgstr "Rimozione di Opera HbbTV"
+
+msgid "Remove Skin"
+msgstr "Rimuovi Skin"
+
+msgid "Remove USB tuner support"
+msgstr "Rimuovi il supporto del Tuner USB"
+
+msgid "Remove WLAN support"
+msgstr "Rimuovi il supporto WLAN"
+
+msgid "Remove WebBrowser"
+msgstr "Rimuovi WebBrowser"
+
+msgid "Remove all"
+msgstr "Rimuovi tutti"
+
+msgid "Remove language files"
+msgstr "Rimuovi i file della lingua"
+
+msgid "Remove older 7 Days"
+msgstr "Rimuovi vecchi di 7gg"
+
+msgid "Remove preinstalled packages from image"
+msgstr "Rimuovi i pacchetti preinstallati dall'immagine"
+
+msgid "Remove preinstalled plugins"
+msgstr "Rimuovi i Plugin preinstallati"
+
+msgid "Remove samba server"
+msgstr "Rimuovi il Server Samba"
+
+msgid "Remove selected"
+msgstr "Rimuovi selezionati"
+
+msgid "Removing"
+msgstr "Rimozione"
+
+msgid "Restart"
+msgstr "Riavvia"
+
+msgid "Restart Cam"
+msgstr "Riavvia CAM"
+
+msgid "Restarting cam : "
+msgstr "Riavvia CAM :"
+
+msgid "Restore"
+msgstr "Ripristina"
+
+msgid "Restore Image"
+msgstr "Ripristino Immagine"
+
+msgid "Restore and backup installed channellist and plugins"
+msgstr "Ripristina e Salva la lista dei canali e Plugin"
+
+msgid "Restore channel settings"
+msgstr "Ripristino impostazioni canali"
+
+msgid "Restore configurations"
+msgstr "Ripristino configurazioni"
+
+msgid "Restore installed channellist and plugins"
+msgstr "Ripristina la lista dei Canali e Plugin"
+
+msgid "Restore is running..."
+msgstr "Ripristino in corso ..."
+
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
+"Ripristino dell'immagine selezionata in corso.\n"
+"Il tuo Vu+ verrà riavviato dopo processo di scrittura\n"
+"Non spegnere !!!\n"
+"\n"
+"Attendere prego ... "
+
+msgid "Restore plugins from saved list"
+msgstr "Ripristino Plugin dalla lista salvata"
+
+msgid "Restore running"
+msgstr "Ripristino avviato"
+
+msgid "Restore system settings"
+msgstr "Ripristina impostazioni di Sistema"
+
+msgid "Restore your STB settings."
+msgstr "Ripristina le impostazioni VU+."
+
+msgid "Restore your backuped STB image."
+msgstr "Ripristina l'immagine salvata del tuo VU+."
+
+msgid "Restore your backups by date."
+msgstr "Ripristina i salvataggi in base alla data."
+
+msgid "Restoring settings failed"
+msgstr "Ripristino delle impostazioni non riuscita"
+
+msgid "Restoring settings finished successfully"
+msgstr "Ripristino delle impostazioni completata con successo."
+
+msgid "Run Command"
+msgstr "Esecuzione Comandi"
+
+msgid "Run personal script"
+msgstr "Esecuzione Script Personale"
+
+msgid "SENT"
+msgstr "INVIATI"
+
+msgid "SIZE"
+msgstr "SIZE"
+
+msgid "SWAP"
+msgstr "SWAP"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Save EPG cache to epg.dat"
+msgstr "Salva cache EPG epg.dat"
+
+msgid "Saving of EPG cache to %s finished"
+msgstr "Salvataggio cache EPG %s terminata"
+
+msgid "Screenshot"
+msgstr "ScreenShot"
+
+msgid "Select"
+msgstr "Seleziona"
+
+msgid "Select Cam and press OK to activate"
+msgstr "Seleziona la CAM e premi OK per attivare"
+
+msgid "Select a drivers to install"
+msgstr "Seleziona un driver da installare"
+
+msgid "Select a executable file for a cronjob"
+msgstr "Selezionare un file eseguibile per un CronJob"
+
+msgid "Select a file to execute"
+msgstr "Seleziona un file da eseguire"
+
+msgid "Select files for backup. "
+msgstr "Seleziona i file per il salvataggio."
+
+msgid "Select your backup device. "
+msgstr "Seleziona il dispositivo di salvataggio."
+
+msgid "Services"
+msgstr "Servizi"
+
+msgid "Set NTP Time"
+msgstr "Impostazione NTP Time"
+
+msgid "Set Password"
+msgstr "Imposta Password"
+
+msgid "Set Root Password"
+msgstr "Impostazione Password di Root"
+
+msgid "Set VTI Panel Password"
+msgstr "Impostazione Password Pannello VTi"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Settings backup finished succesfully"
+msgstr "Impostazioni di salvataggio terminati con successo."
+
+msgid "Show Advanced Bitrate infos"
+msgstr "Mostra informazioni avanzate del Bitrate"
+
+msgid "Show Consolesessions"
+msgstr "Visualizzazione Sessioni Console"
+
+msgid "Show Networkconnections"
+msgstr "Connessioni di Rete"
+
+msgid "Show Networkdetails"
+msgstr "Dettagli di Rete"
+
+msgid "Show Systemmemory Info"
+msgstr "Informazioni della memoria di Sistema"
+
+msgid "Show Uptime"
+msgstr "Visualizzazione Tempi di attività"
+
+msgid "Show command output : "
+msgstr "Mostra l'output del comando : "
+
+msgid "Show diskspace"
+msgstr "Visualizzazione spazio su Disco"
+
+msgid "Show filesystem mounts"
+msgstr "Visualizzazione del File System"
+
+msgid "Show processes"
+msgstr "Visualizzazione dei Processi"
+
+msgid "Skins"
+msgstr "Skins"
+
+msgid "SoftCams"
+msgstr "SoftCams"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Software Update"
+msgstr "Software Update"
+
+msgid "Software Update..."
+msgstr "Aggiornamento Software ..."
+
+msgid "Sorry no backups found!"
+msgstr "Spiacente, nessun salvataggio trovato!"
+
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Spiacente la destinazione di salvataggio non è scrivibile.\n"
+"Scegliere un'altra destinazione."
+
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Spiacenti, la tua destinazione di salvataggio non è scrivibile.\n"
+"\n"
+"Si prega di scegliere un'altra destinazione."
+
+msgid "Start"
+msgstr "Avvia"
+
+msgid "Start Cam"
+msgstr "Avvia CAM"
+
+msgid "Start Swap"
+msgstr "Avvia Swap"
+
+msgid "Starting cam : "
+msgstr "Avvio Cam :"
+
+msgid "Stop"
+msgstr "Arresta"
+
+msgid "Stop Cam"
+msgstr "Arresta CAM"
+
+msgid "Stop Swap"
+msgstr "Arresta Swap"
+
+msgid "Stopping cam : "
+msgstr "Arresto Cam :"
+
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+"La Password per l'utente Root è stata cambiata con successo:\n"
+"%s"
+
+msgid "Swapfile"
+msgstr "Gestione Swapfile"
+
+msgid "System Tools"
+msgstr "Strumenti di Sistema"
+
+msgid "Systemplugins"
+msgstr "Plugin di Sistema"
+
+msgid "TEMP : "
+msgstr "TEMPERATURA : "
+
+msgid "TOTAL :"
+msgstr "TOTALE :"
+
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"La gestione dei dispositivi non è installata!\n"
+"Si prega di installarlo."
+
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"La Gestione File non è installata!\n"
+"Si prega di installarlo."
+
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"Risorse di Rete non è installato!\n"
+"Si prega di installarlo."
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr ""
+"Il file delle notizie non può essere analizzato, ti preghiamo di essere "
+"paziente e riprovare più tardi"
+
+msgid "The system is missing some necessary files !"
+msgstr "Il Sistema è mancante di alcuni file necessari !"
+
+msgid ""
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
+msgstr ""
+"Ci sono solo %d MB di spazio libero disponibile in FLASH\n"
+"Installando o aggiornando il software, può causare seri problemi di "
+"instabilità !\n"
+"Continuare l'installazione/aggiornamento del software (a proprio rischio)?"
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+"Ci sono aggiornamenti disponibili.\n"
+"Vuoi aprire il menù Aggiornamento Software?"
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+"C'è stato un problema a creare un backup automatico per la Suite di "
+"Salvataggio VTi. Sei sicuro di voler continuare ?"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr ""
+"Si è verificato un errore durante lo scarico del pacchetto. Si prega di "
+"riprovare."
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Ricerca di nuovi pacchetti. Si prega di attendere ..."
+
+msgid "UPTIME : "
+msgstr "UPTIME : "
+
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "USB DVB-T/C/S2 Panel"
+
+msgid "USED :"
+msgstr "USATA :"
+
+msgid "Unable to change/reset password for root user"
+msgstr "Impossibile cambiare/resettare la password per l'utente Root"
+
+msgid "Uninstall"
+msgstr "Disinstalla"
+
+msgid "Update"
+msgstr "Aggiorna"
+
+msgid "Update Image"
+msgstr "Aggiorna Immagine"
+
+msgid "Update your STB image from Internet."
+msgstr "Aggiorna la tua Immagine del VU+ da Internet."
+
+msgid "Upgradable Packages"
+msgstr "Pacchetti Aggiornabili"
+
+msgid "Upgrade"
+msgstr "Aggiornamento"
+
+msgid "Upgrade finished."
+msgstr "Aggiornamento terminato."
+
+msgid "Upgrading"
+msgstr "Aggiornamento"
+
+msgid "Upgrading STB... Please wait"
+msgstr "Aggiornamento del VU+. Si prega di attendere ..."
+
+msgid "Uptime"
+msgstr "Tempo di attività"
+
+msgid "VTI .tar.gz installer"
+msgstr "VTi Installazione .tar.gz"
+
+msgid "VTI Backup Image"
+msgstr "VTi Salvataggio Immagine"
+
+msgid "VTI Backup Tools"
+msgstr "VTi Strumenti di Salvataggio"
+
+msgid "VTI BackupSuite"
+msgstr "VTi Suite di Salvataggio"
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr "VTi Suite di Salvataggio è in esecuzione lo script personale ..."
+
+msgid "VTI Backupsuite"
+msgstr "VTi Suite di Salvataggio"
+
+msgid "VTI Cam Center"
+msgstr "VTi Centro CAM"
+
+msgid "VTI Crashlogremove Menu"
+msgstr "VTi Menù Rimozione Crashlog"
+
+msgid "VTI CronManager"
+msgstr "VTi Gestione Cron"
+
+msgid "VTI DriverManager"
+msgstr "VTi Gestione Driver"
+
+msgid "VTI EPG Panel"
+msgstr "VTi Pannello EPG"
+
+msgid "VTI ExeManager"
+msgstr "VTi Gestione Exe"
+
+msgid "VTI Expert Backup/Restore"
+msgstr "VTi Salvataggio/Ripristino - Esperti"
+
+msgid "VTI Harddisk Standbymode"
+msgstr "VTi Modalità Sospensione Hard Disk"
+
+msgid "VTI IPK Installer"
+msgstr "VTi Installazione IPK"
+
+msgid "VTI IPK Uninstall"
+msgstr "VTi Disinstallazione IPK"
+
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr "VTi Disinstallazione IPK ignorare dipendenze"
+
+msgid "VTI IPK Uninstaller Menu"
+msgstr "VTi Menù Disinstallazione IPK "
+
+msgid "VTI Image Backup/Restore"
+msgstr "VTi Immagine Salvataggio/Ripristino"
+
+msgid "VTI Image Tools"
+msgstr "VTi Strumenti Immagini"
+
+msgid "VTI Panel"
+msgstr "Pannello VTi"
+
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr "VTi Rimuovi Crashlog di Enigma2 "
+
+msgid "VTI Restart Service"
+msgstr "VTi Riavvia Servizio"
+
+msgid "VTI Restore Image"
+msgstr "VTi Ripristino Immagine"
+
+msgid "VTI Services Menu"
+msgstr "VTi Menù Servizi"
+
+msgid "VTI Skinremoval"
+msgstr "VTi Rimozione Skin"
+
+msgid "VTI Skinremove Menu"
+msgstr "VTi Menù Rimozione Skin"
+
+msgid "VTI Software Manager"
+msgstr "VTi Gestione Software"
+
+msgid "VTI Start Service"
+msgstr "VTi Avvio Servizio"
+
+msgid "VTI Status List Menu"
+msgstr "VTi Menù Lista di Ascolto"
+
+msgid "VTI Stop Service"
+msgstr "VTi Stop Servizio"
+
+msgid "VTI Sub Menu"
+msgstr "VTi SottoMenù"
+
+msgid "VTI SwapFile Menu"
+msgstr "VTi Menù SwapFile"
+
+msgid "VTI System Info"
+msgstr "VTi Informazione di Sistema"
+
+msgid "VTI System Infos"
+msgstr "VTi Informazioni di Sistema"
+
+msgid "VTI System Tools"
+msgstr "VTi Strumenti di Sistema"
+
+msgid "VTI USB DVB-Panel"
+msgstr "VTi Pannello USB DVB"
+
+msgid "VTI create SwapFile"
+msgstr "VTi Creare file di Swap"
+
+msgid "VTI custom main menu"
+msgstr "VTi Personalizzazione Menù Principale"
+
+msgid "VTI manual Addon Installer"
+msgstr "VTi Installazione Manuale Addon"
+
+msgid "VTI show ecm.info"
+msgstr "VTi Mostra ecm.info"
+
+msgid "VTI show free diskspace"
+msgstr "VTi Mostra spazio libero su disco"
+
+msgid "VTI show mounted filesystems"
+msgstr "VTi Mostra il File System montato"
+
+msgid "VTI show network stats"
+msgstr "VTi Mostra Statistiche di Rete"
+
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "VTi Mostra la configurazione di Rete e la tabella di routing"
+
+msgid "VTI show running processes"
+msgstr "VTi Mostra i processi in esecuzione"
+
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr "VTi-Salvataggio - Seleziona i file/cartelle per il salvataggio"
+
+msgid "VTI-Backup done."
+msgstr "VTi-Salvataggio terminato."
+
+msgid "VTI-Backup failed."
+msgstr "VTi-Salvataggio non riuscito."
+
+msgid "VTI-Backup is running..."
+msgstr "VTi-Salvataggio in esecuzione ..."
+
+msgid "VTI-Restore backups"
+msgstr "VTi-Ripristinare i salvataggi"
+
+msgid "VTI-Restore is running..."
+msgstr "VTi-Ripristino in esecuzione ..."
+
+msgid "VTi Restore Image"
+msgstr "VTi Ripristino Immagine"
+
+msgid "VTi ZerO"
+msgstr "VTi ZerO"
+
+msgid "Verifying your internet connection..."
+msgstr "Verifica della tua connessione Internet ..."
+
+msgid "Video"
+msgstr "Video"
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+"A T T E N Z I O N E !!!\n"
+"Non è necessario cancellare tutti i pacchetti che hai ancora bisogno\n"
+"Il Team VTi non è responsabile per la perdita di dati\n"
+"Accetti?"
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+"Il tuo VU+ non è connesso a Internet correttamente. Si prega di verificare e "
+"riprovare."
+
+msgid "Your network is not working. Please try again."
+msgstr "La Rete non funziona. Si prega di riprovare."
+
+msgid "[ ok ]"
+msgstr "[ ok ]"
+
+msgid "activate/change password for VTI Panel"
+msgstr "Attiva/modifica la password del Pannello VTi"
+
+msgid "backup of running kernel"
+msgstr "Salvataggio del Kernel in esecuzione"
+
+msgid "backup or flash an image"
+msgstr "Esegui il salvataggio o carica una immagine"
+
+msgid "backup or restore your settings"
+msgstr "Esegui il salvataggio o ripristina le impostazioni"
+
+msgid "backup or restore your settings (only for experts)"
+msgstr "Salva o ripristina le impostazioni (solo per esperti)"
+
+msgid "backup root filesystem"
+msgstr "Salvataggio del FileSystem di root"
+
+msgid "cam info : "
+msgstr "Informazioni Cam :"
+
+msgid "chmod 755"
+msgstr "chmod 755"
+
+msgid "choose drivers for download/install"
+msgstr "Scegliere i driver per scaricare/installare"
+
+msgid "choose drivers from local filesystem to install"
+msgstr "Scegliere i driver di installazione dal File System locale"
+
+msgid "choose this drivers for download"
+msgstr "Scegliere questo driver da scaricare"
+
+msgid "create and manage your Swapfile"
+msgstr "Crea e gestisci il file di Swap"
+
+msgid "create flashable file of root filesystem"
+msgstr "Creazione file flashabile del FileSystem di root"
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr "Crea un elenco dei Plugin installati, Skin e Softcam"
+
+msgid "delete entries from main menu of your VU+"
+msgstr "Elimina le voci dal Menù Principale del VU+"
+
+msgid "delete translation files expect configured language"
+msgstr ""
+"Rimuovi i file di traduzione della lingua ad eccezione per quella configurata"
+
+msgid "enable/disable Systemservices"
+msgstr "Abilita/disabilita i Servizi di Sistema"
+
+msgid "executes your personal backup/restore scripts"
+msgstr "Esegui il salvataggio/ripristino personale con Script"
+
+msgid "from %s/vti-backupsuite/plugins"
+msgstr "da %s/VTi-Suite di Salvataggio/plugin"
+
+msgid "install .tar.gz or ipkg manually"
+msgstr "Installa .tar.gz o ipkg manualmente"
+
+msgid "install/download driver for your Vu+"
+msgstr "Installa/scarica i driver per il VU+"
+
+msgid "install/download software for your Vu+"
+msgstr "Installa/scarica il software per il VU+"
+
+msgid "install/remove channel lists"
+msgstr "Installa/rimuovi le liste di canali"
+
+msgid "install/remove common plugins"
+msgstr "Installa/rimuovi i Plugin più comuni"
+
+msgid "install/remove configuration files for softcams"
+msgstr "Installa/rimuovi i file di configurazione per le Softcams"
+
+msgid "install/remove drivers for additional usb tuners"
+msgstr "Installa/rimuovi i driver per ulteriori Tuner USB"
+
+msgid "install/remove kernel modules"
+msgstr "Installa/rimuovi i moduli del kernel"
+
+msgid "install/remove language packages for dvbapp2"
+msgstr "Installa/rimuovi i pacchetti della lingua per enigma2"
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr "Installa/rimuovi Picons per OSD e grafica VFD"
+
+msgid "install/remove skins to change look of OSD"
+msgstr "Installa/rimuovi skin per cambiare l'aspetto del Menù OSD"
+
+msgid "install/remove softcams"
+msgstr "Installa/rimuovi le Softcams"
+
+msgid "install/remove systemplugins"
+msgstr "Installa/rimuovi i Plugin di Sistema"
+
+msgid "installs all available plugins from online feed"
+msgstr "Installa tutti i Plugin disponibili dal feed online"
+
+msgid "manage Sundtek USB DVB Stick"
+msgstr "Gestisci Stick USB DVB Sundtek"
+
+msgid "manage cronjobs of your VU+"
+msgstr "Gestisci CronJobs del tuo VU+"
+
+msgid "manage your HDD's and USB devices"
+msgstr "Gestisci i tuoi HDD e dispositivi USB"
+
+msgid "manage your VU+Duo"
+msgstr "Gestisci il tuo VU+"
+
+msgid "manage your Vu+ STB"
+msgstr "Gestisci il tuo VU+"
+
+msgid "manual Installer"
+msgstr "Installazione manuale"
+
+msgid "new Random"
+msgstr "Nuova Password casuale"
+
+msgid "no"
+msgstr "No"
+
+msgid "no swapfile active..."
+msgstr "Nessun Swapfile attivo ..."
+
+msgid "no valid drivers"
+msgstr "Nessun driver valido"
+
+msgid "not available"
+msgstr "Non disponibile"
+
+msgid "not in use"
+msgstr "Non in uso"
+
+msgid "open Filemanager"
+msgstr "File Manager aperto"
+
+msgid "open NetworkBrowswer"
+msgstr "Visualizza le Risorse di Rete"
+
+msgid "open enigma2 Plugin Menu"
+msgstr "Apri il Menù dei Plugin di Enigma2"
+
+msgid "preparing backup of image"
+msgstr "Preparazione di Salvataggio dell'immagine"
+
+msgid "refresh time for enigma2 from ntp server"
+msgstr "Intervallo di Aggiornamento per Enigma2 dal Server NTP"
+
+msgid "reload package data"
+msgstr "Ricarica i Pacchetti"
+
+msgid "reload saved channel and bouquet settings"
+msgstr "Ricarica la lista Canali e Bouquet"
+
+msgid "remove WLAN plugins and drivers"
+msgstr "Rimuovi i Plugin e Driver della WLAN"
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr "Rimuovi quasi tutti i Plugin preinstallati e le loro dipendenze"
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr "Rimuovi il Server Samba, non il supporto per il File System CIFS"
+
+msgid "remove seletected package from stb"
+msgstr "Rimuovi il pacchetto selezionato dal VU+"
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr "Rimuovi Opera HbbTV e le dipendenze"
+
+msgid "removes WebBrowser and dependencies"
+msgstr "Rimuovi WebBrowser e le dipendenze"
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr "Ripristina le configurazioni comuni per la GUI, Plugin e Softcam"
+
+msgid "run executable files of your VU+"
+msgstr "Avvia i file eseguibili dal tuo VU+"
+
+msgid "save channel and bouquet settings"
+msgstr "Salva le impostazioni dei Canali e dei Bouquet"
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr "Salva le configurazioni comuni per la GUI, Plugin e Softcam"
+
+msgid "select or install your favourite cam"
+msgstr "Seleziona o installa la tua Cam preferita"
+
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "Cancella selettivamente i Crashlog di Enigma2"
+
+msgid "set EPG path, restore or backup EPG data"
+msgstr "Imposta il percorso EPG, ripristina o salva i dati EPG"
+
+msgid "set device for directory vti-backupsuite"
+msgstr "Imposta la periferica per la cartella di VTi Suite di Salvataggio"
+
+msgid "set root password of your stb"
+msgstr "Imposta la Password di Root del vostro VU+"
+
+msgid "show Feed updates"
+msgstr "Mostra gli aggiornamenti dei Feed"
+
+msgid "show HDD Temperature"
+msgstr "Mostra la Temperatura del HDD"
+
+msgid "show News"
+msgstr "Mostra Notizie"
+
+msgid "show Updates"
+msgstr "Mostra Aggiornamenti"
+
+msgid "show active mounts"
+msgstr "Mostra supporti attivi"
+
+msgid "show all active user sessions"
+msgstr "Mostra tutte le sessioni utente attive"
+
+msgid "show all connected sockets from ip-stack"
+msgstr "Mostra tutte le connessioni dello Stack-TCP-IP"
+
+msgid "show diskpace"
+msgstr "Mostra lo spazio su Disco"
+
+msgid "show ecm infos from temp dir"
+msgstr "Mostra informazioni ECM dalla cartella temp"
+
+msgid "show information about processes, load, mounts ..."
+msgstr "Mostra le informazioni sui processi, il carico, i supporti ..."
+
+msgid "show operating system uptime of stb"
+msgstr "Mostra tempi di attività del Sistema operativo del VU+"
+
+msgid "show running processes"
+msgstr "Mostra i processi in esecuzione"
+
+msgid "show simple Image infos"
+msgstr "Mostra semplici informazioni sull'immagine"
+
+msgid "show whole system memory usage"
+msgstr "Mostra tutto l'utilizzo della memoria di Sistema"
+
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "Mostra gli indirizzi IP assegnati, tabella di routing e server di nomi"
+
+msgid "stopping swap for "
+msgstr "Arresto Swap per"
+
+msgid "swapfile was created successfully"
+msgstr "Lo Swapfile è stato creato con successo."
+
+msgid "swapfile was deleted successfully"
+msgstr "Lo Swapfile è stato eliminato con successo."
+
+msgid "turns hdd immediately into standby mode"
+msgstr "Sospendi immediatamente l'HDD "
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr "Disinstalla il Plugin e il Browser di HbbTV"
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr "Disinstalla i moduli del kernel e i pacchetti firmware per i Tuner USB"
+
+msgid "upgrade"
+msgstr "Aggiornamento"
+
+msgid "virt. Keyboard"
+msgstr "Tastiera Virtuale"
+
+msgid "yes"
+msgstr "Si"
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+"Il tuo VU+ potrebbe risultare inutilizzabile ora. Si prega di consultare il "
+"manuale per ulteriori informazioni prima di riavviare il vostro VU+."
+
+msgid "your cronjob"
+msgstr "Tuo CronJob"
+
+msgid "your executable"
+msgstr "Tuo eseguibile"

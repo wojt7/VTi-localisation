@@ -1,0 +1,1378 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VTIPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-25 09:56+0100\n"
+"PO-Revision-Date: 2011-07-07 23:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <VTI>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: ALGERIA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../EPGPanel.py:33
+msgid "/hdd"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/hdd"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/usb"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/hdd1"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/usb1"
+msgstr ""
+
+#: ../EPGPanel.py:36
+msgid "VTI EPG Panel"
+msgstr "EPG لوحة VTI"
+
+#: ../EPGPanel.py:42
+#: ../plugin.py:1420
+msgid "Exit"
+msgstr "خروج"
+
+#: ../EPGPanel.py:43
+#: ../BackupRestore.py:113
+#: ../ExeManager.py:204
+#: ../ExeManager.py:266
+#: ../CronManager.py:236
+#: ../CronManager.py:354
+msgid "Save"
+msgstr "حفظ"
+
+#: ../EPGPanel.py:59
+msgid "EPG Path :"
+msgstr ": EPGمسار الـ"
+
+#: ../EPGPanel.py:60
+msgid "Save EPG cache to epg.dat"
+msgstr "epg.dat في  EPGحفظ معلومات الـ"
+
+#: ../EPGPanel.py:61
+msgid "Load EPG data from epg.dat"
+msgstr " epg.dat من EPGتحميل داتا الـ"
+
+#: ../EPGPanel.py:73
+#, python-format
+msgid "EPG path set to : %s"
+msgstr "%s : الى EPGتحديد مسار الـ"
+
+#: ../EPGPanel.py:89
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "%s  في  EPGنهاية حفظ معلومات الـ"
+
+#: ../EPGPanel.py:97
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "%s  من EPG نهاية تحميل داتا "
+
+#: ../plugin.py:84
+#: ../plugin.py:213
+#: ../plugin.py:414
+#: ../plugin.py:1490
+#: ../plugin.py:1719
+msgid "Close"
+msgstr "إغلاق"
+
+#: ../plugin.py:85
+msgid "News"
+msgstr "أخبار"
+
+#: ../plugin.py:86
+msgid "System Tools"
+msgstr "أدوات النظام"
+
+#: ../plugin.py:87
+msgid "Cam Center"
+msgstr "مركز الكامات"
+
+#: ../plugin.py:91
+msgid "VTI Panel"
+msgstr "VTI لوحة التحكم "
+
+#: ../plugin.py:138
+msgid "VTI Cam Center"
+msgstr "للكامات VTI مركز"
+
+#: ../plugin.py:138
+msgid "select or install your favourite cam"
+msgstr "تحديد او تثبيت الكامة المفضلة"
+
+#: ../plugin.py:139
+msgid "VTI System Info"
+msgstr "VTI معلومات نظام "
+
+#: ../plugin.py:139
+msgid "Infos about your VU+Duo"
+msgstr "VU+Duo معلومات حول جهازك"
+
+#: ../plugin.py:140
+#: ../plugin.py:394
+msgid "VTI System Tools"
+msgstr "VTI ادوات النظام"
+
+#: ../plugin.py:140
+msgid "manage your VU+Duo"
+msgstr "VU+Duo إدارة جهازك "
+
+#: ../plugin.py:141
+#: ../plugin.py:370
+msgid "VTI Image Tools"
+msgstr "VTI ادوات صورة "
+
+#: ../plugin.py:141
+msgid "backup or flash an image"
+msgstr "نسخ او فلاش صورة"
+
+#: ../plugin.py:142
+#: ../plugin.py:355
+msgid "VTI Backup Tools"
+msgstr "VTI أدوات النسخ "
+
+#: ../plugin.py:142
+msgid "backup or restore your settings"
+msgstr "نسخ او إستعادة إعداداتك"
+
+#: ../plugin.py:143
+msgid "manual Installer"
+msgstr "تثبيت يدوي"
+
+#: ../plugin.py:143
+msgid "install .tar.gz or ipkg manually"
+msgstr "يدويا ipkg او  .tar.gz تثبيت"
+
+#: ../plugin.py:144
+msgid "Plugins"
+msgstr "الإضافات"
+
+#: ../plugin.py:144
+msgid "open enigma2 Plugin Menu"
+msgstr "enigmaفتح قائمة الاضافات لـ2"
+
+#: ../plugin.py:207
+#: ../plugin.py:249
+#: ../plugin.py:400
+msgid "News about VTI"
+msgstr "VTI جديد من"
+
+#: ../plugin.py:214
+msgid "Update"
+msgstr "تحديث"
+
+#: ../plugin.py:215
+#: ../plugin.py:243
+#: ../plugin.py:253
+#: ../ExeManager.py:368
+#: ../ExeManager.py:405
+#: ../ExeManager.py:411
+#: ../ExeManager.py:416
+#: ../ExeManager.py:419
+#: ../CronManager.py:474
+#: ../CronManager.py:511
+#: ../CronManager.py:517
+#: ../CronManager.py:522
+#: ../CronManager.py:525
+msgid " "
+msgstr " "
+
+#: ../plugin.py:216
+#: ../plugin.py:252
+msgid "show Updates"
+msgstr "عرض التحديثات"
+
+#: ../plugin.py:240
+msgid "Upgradable Packages"
+msgstr "حزمة الترقية"
+
+#: ../plugin.py:244
+msgid "show News"
+msgstr "عرض الاخبار"
+
+#: ../plugin.py:293
+#: ../plugin.py:296
+#: ../plugin.py:322
+msgid ""
+"There are no news or your\n"
+"Internet connection is not ok"
+msgstr ""
+"لاتوجد اي معلومات او\n"
+"الانترنت خاصتك معطلة"
+
+#: ../plugin.py:317
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+" old version : %s | new version : %s \n"
+msgstr ""
+"\n"
+"حزمة : %s \n"
+" النسخة القديمة : %s | النسخة الجديدة : %s \n"
+
+#: ../plugin.py:319
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"نظامك محدث"
+
+#: ../plugin.py:338
+msgid "VTI Sub Menu"
+msgstr " VTI القائمة الفرعية"
+
+#: ../plugin.py:350
+msgid "Backup system settings"
+msgstr ".نسخ إعدادات النظام"
+
+#: ../plugin.py:350
+msgid "Backup your STB settings."
+msgstr ".نسخ إعدادات جهازك"
+
+#: ../plugin.py:351
+msgid "Restore system settings"
+msgstr ".إستعادة إعدادت النظام"
+
+#: ../plugin.py:351
+msgid "Restore your STB settings."
+msgstr ".إستعادة إعدادات جهازك"
+
+#: ../plugin.py:352
+#: ../plugin.py:368
+msgid "Advanced restore"
+msgstr "إستعادة متقدمة"
+
+#: ../plugin.py:352
+#: ../plugin.py:368
+msgid "Restore your backups by date."
+msgstr ".إستعادة النسخ الاحتياطية بالتاريخ"
+
+#: ../plugin.py:353
+#: ../plugin.py:369
+msgid "Choose backup location"
+msgstr "تحديد مكان النسخة الاحتياطية"
+
+#: ../plugin.py:353
+#: ../plugin.py:369
+msgid "Select your backup device. "
+msgstr "تحديد أداة النسخة الاحتياطية"
+
+#: ../plugin.py:354
+msgid "Choose backup files"
+msgstr "اختر ملفات النسخة الاحتياطية"
+
+#: ../plugin.py:354
+msgid "Select files for backup. "
+msgstr ".تحديد ملفات للنسخة الاحتياطية"
+
+#: ../plugin.py:358
+msgid "Install .tar.gz "
+msgstr " .tar.gz تثبيت  "
+
+#: ../plugin.py:358
+msgid "Install all .tar.gz file form /tmp "
+msgstr "/tmp  من  .tar.gz تثبيت كل ملفات"
+
+#: ../plugin.py:359
+msgid "Install Ipkg"
+msgstr "Ipkg تثبيت "
+
+#: ../plugin.py:359
+msgid "Install local ipkg"
+msgstr "داخلي ipkg تثبيت"
+
+#: ../plugin.py:360
+msgid "Advanced Ipkg Install"
+msgstr "متقدم Ipkg تثبيت "
+
+#: ../plugin.py:360
+msgid "Install local ipkg with --force overwrite"
+msgstr "بالاستبدال الاجباري --  ipkg  تثبيت ملفات "
+
+#: ../plugin.py:361
+msgid "VTI manual Addon Installer"
+msgstr "VTI التثبيت اليدوي للملحقات "
+
+#: ../plugin.py:364
+msgid "Update Image"
+msgstr "تحديث الصورة"
+
+#: ../plugin.py:364
+msgid "Update your STB image from Internet."
+msgstr ".تحديث صورة جهازك من الانترنت"
+
+#: ../plugin.py:366
+msgid "Backup Image"
+msgstr "نسخ الصورة"
+
+#: ../plugin.py:366
+msgid "Backup your running STB image."
+msgstr ".نسخ الصورة الشغالة حاليا"
+
+#: ../plugin.py:367
+msgid "Restore Image"
+msgstr "إستعادة الصورة"
+
+#: ../plugin.py:367
+msgid "Restore your backuped STB image."
+msgstr "إستعادة الصورة المنسوخة من جهازك"
+
+#: ../plugin.py:374
+msgid "Device Manager"
+msgstr "إدارة الاجهزة"
+
+#: ../plugin.py:374
+msgid "manage your HDD's and USB devices"
+msgstr "USB إدارة أقراصك الصلبة و أجهزة"
+
+#: ../plugin.py:376
+msgid "File Manager"
+msgstr "مدير الملفات"
+
+#: ../plugin.py:376
+msgid "open Filemanager"
+msgstr "فتح مدير الملفات"
+
+#: ../plugin.py:378
+msgid "Network Browser"
+msgstr "متصفح الشبكة "
+
+#: ../plugin.py:378
+msgid "open NetworkBrowswer"
+msgstr "فتح متصفح الشبكة"
+
+#: ../plugin.py:379
+msgid "EPG Settings"
+msgstr "EPG إعدادات"
+
+#: ../plugin.py:379
+msgid "set EPG path, restore or backup EPG data"
+msgstr "EPG ، إستعادة او نسخ بيانات EPG تحديد مسار "
+
+#: ../plugin.py:380
+msgid "Cronjob Manager"
+msgstr " Cronjobs مدير"
+
+#: ../plugin.py:380
+msgid "manage cronjobs of your VU+"
+msgstr "VU+ لجهازك cronjobs إدارة"
+
+#: ../plugin.py:381
+msgid "Run Command"
+msgstr "تشغيل أمر"
+
+#: ../plugin.py:381
+msgid "run executable files of your VU+"
+msgstr "VU+ تشغيل ملفات تنفيذية من جهازك"
+
+#: ../plugin.py:382
+msgid "Set Root Password"
+msgstr "Rootتحديد كلمة سرية لـ"
+
+#: ../plugin.py:382
+msgid "set root password of your stb"
+msgstr "تحديد كلمة سرية لجهازك"
+
+#: ../plugin.py:384
+msgid "Services"
+msgstr "خدمات"
+
+#: ../plugin.py:384
+msgid "enable/disable Systemservices"
+msgstr "تفعيل/ تعطيل خدمات النظام"
+
+#: ../plugin.py:385
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "USB DVB-T/C/S2 لوحة"
+
+#: ../plugin.py:385
+msgid "manage Sundtek USB DVB Stick"
+msgstr "Sundtek USB DVB Stick إدارة"
+
+#: ../plugin.py:386
+msgid "IPK Uninstaller"
+msgstr "IPK مزيل"
+
+#: ../plugin.py:386
+msgid "remove seletected package from stb"
+msgstr "إزالة الحزمة المحددة من الجهاز"
+
+#: ../plugin.py:388
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Enigmaتطهير سجلات الاعطاب لـ2"
+
+#: ../plugin.py:388
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "enigma2 تحديد مسح لسجلات الاعطاب الخاصة بـ"
+
+#: ../plugin.py:389
+msgid "Remove Skins"
+msgstr "إزالة السكينات"
+
+#: ../plugin.py:389
+msgid "choose skin to remove"
+msgstr "إختر سكين للازالة"
+
+#: ../plugin.py:391
+msgid "Swapfile"
+msgstr "ملف التبادل"
+
+#: ../plugin.py:391
+msgid "create and manage your Swapfile"
+msgstr "إنشاء وإدارة ملف التبادل خاصتك"
+
+#: ../plugin.py:392
+msgid "Set NTP Time"
+msgstr "NTP تحديد وقت "
+
+#: ../plugin.py:392
+msgid "refresh time for enigma2 from ntp server"
+msgstr "ntp من سيرفر  enigmaتحديث الوقت للـ2"
+
+#: ../plugin.py:393
+msgid "Harddisk Standby"
+msgstr "إطفاء القرص الصلب"
+
+#: ../plugin.py:393
+msgid "turns hdd immediately into standby mode"
+msgstr "جعل القرص الصلب في وضعية النوم حالا"
+
+#: ../plugin.py:397
+#: ../plugin.py:1414
+msgid "Bitrate Viewer"
+msgstr "معدل البث"
+
+#: ../plugin.py:397
+msgid "Show Advanced Bitrate infos"
+msgstr "عرض معلومات  متقدمة عن معدل البث "
+
+#: ../plugin.py:399
+msgid "ECM Info"
+msgstr "ECM معلومات"
+
+#: ../plugin.py:399
+msgid "show ecm infos from temp dir"
+msgstr "temp dir من  ecmعرض معلومات الـ"
+
+#: ../plugin.py:400
+msgid "show Feed updates"
+msgstr "عرض فيد التحديثات"
+
+#: ../plugin.py:401
+msgid "Show processes"
+msgstr "عرض العمليات"
+
+#: ../plugin.py:401
+msgid "show running processes"
+msgstr "عرض العمليات الجارية"
+
+#: ../plugin.py:402
+msgid "Show filesystem mounts"
+msgstr "عرض ملفات النظام المرفوعة"
+
+#: ../plugin.py:402
+msgid "show active mounts"
+msgstr "عرض المرفوعات المفعلة "
+
+#: ../plugin.py:403
+msgid "Harddisk Temperature"
+msgstr "حرارة القرص الصلب"
+
+#: ../plugin.py:403
+msgid "show HDD Temperature"
+msgstr "عرض  حرارة القرص الصلب"
+
+#: ../plugin.py:404
+msgid "Show Consolesessions"
+msgstr "عرض نوافذ الجهاز"
+
+#: ../plugin.py:404
+msgid "show all active user sessions"
+msgstr "عرض جميع الاعضاء المفعلين"
+
+#: ../plugin.py:405
+msgid "Show Uptime"
+msgstr "عرض مدة التشغيل"
+
+#: ../plugin.py:405
+msgid "show operating system uptime of stb"
+msgstr "عرض الوقت المنصرم لنظام التشغيل الخاص بالجهاز"
+
+#: ../plugin.py:406
+msgid "Show Networkconnections"
+msgstr "عرض اتصالات الشبكة"
+
+#: ../plugin.py:406
+msgid "show all connected sockets from ip-stack"
+msgstr "عرض جميع المآخذ الموصولة من الايبي المكدس"
+
+#: ../plugin.py:407
+msgid "Show Systemmemory Info"
+msgstr "عرض معلومات ذاكرة النظام"
+
+#: ../plugin.py:407
+msgid "show whole system memory usage"
+msgstr "عرض الاستخدام العام لذاكرة النظام"
+
+#: ../plugin.py:408
+msgid "Show Networkdetails"
+msgstr "عرض تفاصيل الشبكة"
+
+#: ../plugin.py:408
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "عرض عناوين الايبي المعينة ، الروتر ، و اسم السيرفر"
+
+#: ../plugin.py:409
+msgid "Show diskspace"
+msgstr "عرض مساحة الأقراص"
+
+#: ../plugin.py:409
+msgid "show diskpace"
+msgstr "عرض مساحة القرص"
+
+#: ../plugin.py:410
+msgid "Image Info"
+msgstr "معلومات الصورة"
+
+#: ../plugin.py:410
+msgid "show simple Image infos"
+msgstr "عرض معلومات مبسطة للصورة"
+
+#: ../plugin.py:411
+msgid "VTI System Infos"
+msgstr "VTI معلومات النظام "
+
+#: ../plugin.py:415
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+". في جهاز التحكم للمواصلة OK قم بالضغط على "
+
+#: ../plugin.py:454
+#: ../plugin.py:483
+msgid "Please select medium to use as backup location"
+msgstr "فضلا اختر المتوسط لاستعمالة كمسار للنسخة الاحتياطية"
+
+#: ../plugin.py:463
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"؟Enigmaهل أنت متاكد من إستعادة النسخة الاحتياطية لـ2\n"
+".باعادة التشغيل Enigma2 سيقوم نظام   "
+
+#: ../plugin.py:465
+msgid "Sorry no backups found!"
+msgstr "عذرا لا وجود لاي نسخة احتياطية"
+
+#: ../plugin.py:468
+msgid "VTI .tar.gz installer"
+msgstr ".tar.gzلـ VTI مثبت   "
+
+#: ../plugin.py:470
+#: ../plugin.py:472
+msgid "VTI IPK Installer"
+msgstr "IPKلـ VTI مثبت "
+
+#: ../plugin.py:489
+#: ../plugin.py:491
+#: ../plugin.py:493
+#: ../plugin.py:495
+#: ../BackupRestore.py:385
+#: ../BackupRestore.py:387
+#: ../BackupRestore.py:389
+#: ../BackupRestore.py:391
+msgid "VTI Restore Image"
+msgstr "إستعادة الصورة VTI"
+
+#: ../plugin.py:497
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"لم يتم العثور على اي صورة!!!! \n"
+"\n"
+" /media/hdd/vuplus/MODEL. او إستعادة صورة من usb  فضلا قم بنسخ صورة  "
+
+#: ../plugin.py:499
+msgid "Menu "
+msgstr "القائمة الرئيسية "
+
+#: ../plugin.py:499
+msgid ""
+" not implemented yet\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"لم تنفذ بعد\n"
+"\n"
+".فضلا اختر اخرى"
+
+#: ../plugin.py:503
+msgid "VTI Backup Image"
+msgstr "صورة النسخة الاحتياطية VTI"
+
+#: ../plugin.py:505
+msgid ""
+"No valid Backupdestion found!!!! \n"
+"\n"
+"Please install an internal Harddisk first to create Backups."
+msgstr ""
+"لا وجود للمسار المطلوب!!!! \n"
+"\n"
+".فضلا قم بتثبيت قرص صلب داخلي أولا لحفظ نسخ احتياطية"
+
+#: ../plugin.py:514
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"مدير الأجهزة غير مثبت!\n"
+".فضلا قم بتثبيته"
+
+#: ../plugin.py:522
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"مدير الملفات غير مثبت!\n"
+".فضلا قم بتثبيته"
+
+#: ../plugin.py:530
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"متصفح الشبكة غير مثبت!\n"
+".فضلا قم بتثبيته"
+
+#: ../plugin.py:563
+msgid "VTI Harddisk Standbymode"
+msgstr "وضعية التعطيل للقرص الصلب VTI"
+
+#: ../plugin.py:568
+msgid "VTI show ecm.info"
+msgstr "ecm.info عرض VTI"
+
+#: ../plugin.py:570
+msgid "VTI show running processes"
+msgstr "عرض المهام المشغلة VTI "
+
+#: ../plugin.py:574
+msgid "VTI show mounted filesystems"
+msgstr " عرض ملفات النظام المحملة VTI"
+
+#: ../plugin.py:576
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "عرض إعدادات الشبكة و الروتر VTI"
+
+#: ../plugin.py:579
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr ": مصنع القرص الصلب ، النوع و درجة حرارته "
+
+#: ../plugin.py:579
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "هل انت متاكد من وضع القرص الصلب في وضع التعطيل ؟"
+
+#: ../plugin.py:580
+msgid "HDD Temperature"
+msgstr "حرارة القرص الصلب"
+
+#: ../plugin.py:582
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check harddisk temperature."
+msgstr ""
+"لم يتم العثور على اي قرص صلب داخلي!!!! \n"
+"\n"
+".فضلا قم بتثبيت قرص صلب داخلي أولا كي تكون قادرا على فحص حرارته"
+
+#: ../plugin.py:584
+msgid "Active Usersessions :"
+msgstr ": المستخدمين الناشطين "
+
+#: ../plugin.py:586
+msgid "Current Time, Operating Time and Load Average :"
+msgstr ": الوقت الحالي ، وقت التشغيل و معدل التحميل "
+
+#: ../plugin.py:587
+msgid "Uptime"
+msgstr "الوقت منذ التشغيل"
+
+#: ../plugin.py:590
+msgid "VTI show network stats"
+msgstr "احصائيات الشبكة VTI"
+
+#: ../plugin.py:592
+msgid "Current Memory Usage :"
+msgstr ": الاستخدام الحالي للذاكرة "
+
+#: ../plugin.py:593
+msgid "Memory Usage"
+msgstr "استخدام الذاكرة"
+
+#: ../plugin.py:595
+msgid "VTI show free diskspace"
+msgstr "المساحة الحرة VTI"
+
+#: ../plugin.py:599
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"القائمة لم تنفذ بعد!!!! \n"
+"\n"
+"قم بتحيين القائمة الان ;)"
+
+#: ../plugin.py:602
+msgid "Install/update finished."
+msgstr "تثبيت/تحديث انتهى."
+
+#: ../plugin.py:602
+msgid "Do you want to reboot your STB?"
+msgstr "هل تريد اعادة تشغيل جهازك ؟"
+
+#: ../plugin.py:634
+#: ../plugin.py:643
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"عذرا مسار النسخ خاصتك غير قابل للكتابة.\n"
+"\n"
+".فضلا اختر مسار اخر"
+
+#: ../plugin.py:647
+msgid "VTI-Backup done."
+msgstr ". بنجاح VTI-تم النسخ "
+
+#: ../plugin.py:649
+msgid "VTI-Backup failed."
+msgstr ". في النسخ VTI فشل"
+
+#: ../plugin.py:667
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr " تم العثور عليه S.M.A.R.T لا  وجود لقرص صلب او قرص صلب يدعم خاصية "
+
+#: ../plugin.py:673
+msgid "At"
+msgstr "At"
+
+#: ../plugin.py:677
+msgid "Could not grep Uptime Information from busybox"
+msgstr "لا يمكن استنتاج الوقت المنصرم من جهاز مشغول"
+
+#: ../plugin.py:689
+msgid "Could not grep socket information from busybox"
+msgstr "لا يمكن استنتاج معلومات المعالج من جهاز مشغول"
+
+#: ../plugin.py:701
+msgid "Could not grep Memory Usage information from busybox"
+msgstr "لا يمكن استنتاج معلومات الذاكرة من جهاز مشغول"
+
+#: ../plugin.py:737
+#: ../plugin.py:802
+msgid "VTI Status List Menu"
+msgstr "لحالة القائمة VTI قائمة "
+
+#: ../plugin.py:744
+msgid "Stop Swap"
+msgstr "توقيف التبادل"
+
+#: ../plugin.py:745
+msgid "Start Swap"
+msgstr "بدء التبادل"
+
+#: ../plugin.py:750
+msgid "VTI SwapFile Menu"
+msgstr "لملف التبادل VTI قائمة "
+
+#: ../plugin.py:753
+msgid "Stop"
+msgstr "توقيف"
+
+#: ../plugin.py:754
+msgid "Start"
+msgstr "تشغيل"
+
+#: ../plugin.py:755
+msgid "Restart"
+msgstr "إعادة التشغيل"
+
+#: ../plugin.py:758
+msgid "VTI Services Menu"
+msgstr " للخدمات VTI قائمة"
+
+#: ../plugin.py:761
+msgid "Uninstall"
+msgstr "إلغاء"
+
+#: ../plugin.py:762
+msgid "Force uninst."
+msgstr ".إلغاء إجباري"
+
+#: ../plugin.py:767
+msgid "VTI IPK Uninstaller Menu"
+msgstr "IPK لإزالة VTI قائمة"
+
+#: ../plugin.py:770
+msgid "Remove Skin"
+msgstr "حذف السكين"
+
+#: ../plugin.py:777
+msgid "VTI Skinremove Menu"
+msgstr "لالغاء السكين VTI قائمة"
+
+#: ../plugin.py:780
+msgid "Remove selected"
+msgstr "حذف التحديد"
+
+#: ../plugin.py:781
+msgid "Remove all"
+msgstr "حذف الكل"
+
+#: ../plugin.py:782
+msgid "Remove older 7 Days"
+msgstr "حذف اكثر من 7 أيام"
+
+#: ../plugin.py:785
+msgid "VTI Crashlogremove Menu"
+msgstr "لحذف سجل الاعطاب VTI قائمة"
+
+#: ../plugin.py:789
+msgid "Ok"
+msgstr "Ok"
+
+#: ../plugin.py:795
+#: ../plugin.py:1087
+msgid "VTI USB DVB-Panel"
+msgstr "VTI USB DVB-لوحة"
+
+#: ../plugin.py:798
+#: ../plugin.py:799
+#: ../plugin.py:800
+#: ../plugin.py:801
+msgid "not in use"
+msgstr "ليس في الاستعمال"
+
+#: ../plugin.py:1014
+msgid "MB swapfile on "
+msgstr "م ب ملف التبادل في"
+
+#: ../plugin.py:1029
+msgid "Are you sure to delete swapfile ?"
+msgstr "هل انت متاكد من حذف ملف التبادل ؟"
+
+#: ../plugin.py:1031
+#, python-format
+msgid "Are you sure to %s ?"
+msgstr "هل انت متاكد من %s  ؟"
+
+#: ../plugin.py:1038
+msgid "VTI Start Service"
+msgstr "تشغيل الخدمة VTI"
+
+#: ../plugin.py:1040
+msgid "VTI Stop Service"
+msgstr "توقيف الخدمة VTI"
+
+#: ../plugin.py:1042
+msgid "VTI Restart Service"
+msgstr "إعادة تشغيل الخدمة VTI"
+
+#: ../plugin.py:1059
+msgid "VTI Skinremoval"
+msgstr "حذف السكين VTI"
+
+#: ../plugin.py:1067
+#: ../plugin.py:1069
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr "enigmaحذف سجل العطب لـ 2 VTI"
+
+#: ../plugin.py:1080
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr "...حذف سجلات الأعطاب الاكثر من 7 أيام"
+
+#: ../plugin.py:1121
+msgid "stopping swap for "
+msgstr "توقيف ملف التبادل"
+
+#: ../plugin.py:1121
+msgid "swapfile was deleted successfully"
+msgstr "تم حذف ملف التبادل بنجاح"
+
+#: ../plugin.py:1122
+#: ../plugin.py:1138
+msgid "VTI create SwapFile"
+msgstr "إنشاء ملف تبادل VTI"
+
+#: ../plugin.py:1124
+msgid "no swapfile active..."
+msgstr "لا يوجد اي ملف تبادل مفعل"
+
+#: ../plugin.py:1136
+msgid "swapfile was created successfully"
+msgstr "تم إنشاء ملف التبادل بنجاح"
+
+#: ../plugin.py:1158
+msgid "VTI IPK Uninstall"
+msgstr "IPK  حذف  VTI"
+
+#: ../plugin.py:1164
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr "بتجاهل IPK  حذف  VTI"
+
+#: ../plugin.py:1172
+msgid "Stop Cam"
+msgstr "توقيف كام"
+
+#: ../plugin.py:1173
+msgid "Start Cam"
+msgstr "تشغيل كام"
+
+#: ../plugin.py:1174
+msgid "Restart Cam"
+msgstr "إعادة تشغيل كام"
+
+#: ../plugin.py:1175
+msgid "Manage Cams"
+msgstr "إدارة الكامات"
+
+#: ../plugin.py:1176
+msgid "Select Cam and press OK to activate"
+msgstr "للتفعيل OK حدد كام واضغط "
+
+#: ../plugin.py:1337
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr "لايمكن إعادة تشغيل الكام الحالية!!!لا توجد اي كام مفعلة"
+
+#: ../plugin.py:1346
+msgid "cam info : "
+msgstr ": معلومات الكام "
+
+#: ../plugin.py:1346
+msgid " -- "
+msgstr " -- "
+
+#: ../plugin.py:1355
+msgid "Starting cam : "
+msgstr ": تشغيل الكام "
+
+#: ../plugin.py:1363
+msgid "Stopping cam : "
+msgstr ": توقيف الكام"
+
+#: ../plugin.py:1365
+msgid "Restarting cam : "
+msgstr ": إعادة تشغيل الكام "
+
+#: ../plugin.py:1421
+msgid "Video"
+msgstr "الفيديو"
+
+#: ../plugin.py:1422
+msgid "Audio"
+msgstr "الصوت"
+
+#: ../plugin.py:1423
+msgid "Min"
+msgstr "الأدنى"
+
+#: ../plugin.py:1424
+msgid "Max"
+msgstr "الأقصى"
+
+#: ../plugin.py:1425
+msgid "Current"
+msgstr "الحالي"
+
+#: ../plugin.py:1426
+msgid "Average"
+msgstr "المعدل"
+
+#: ../plugin.py:1491
+msgid "Reload"
+msgstr "تحديث"
+
+#: ../plugin.py:1492
+msgid "Download or delete Cam"
+msgstr "تحميل او حذف كام"
+
+#: ../plugin.py:1508
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"OK الرجاء الانتظار،بعد الضغط على "
+
+#: ../plugin.py:1551
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "فضلا انتظر...محاولة تحميل حزمة جديدة"
+
+#: ../plugin.py:1551
+msgid "Package list update"
+msgstr "تحديث قائمة الحزمة"
+
+#: ../plugin.py:1555
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr ".أعد المحاولة مجددا .كان هناك خطأ في تحميل الحزمة"
+
+#: ../plugin.py:1555
+msgid "Error"
+msgstr "خطأ"
+
+#: ../plugin.py:1580
+msgid "Do you want to remove the package:\n"
+msgstr "هل تريد إزالة الحزمة:\n"
+
+#: ../plugin.py:1584
+msgid "Do you want to upgrade the package:\n"
+msgstr "هل تريد ترقية الحزمة:\n"
+
+#: ../plugin.py:1588
+msgid "Do you want to install the package:\n"
+msgstr "هل تريد تثبيت الحزمة:\n"
+
+#: ../plugin.py:1707
+msgid "Change Root Password"
+msgstr " Rootالكلمة السرية لـ تغيير "
+
+#: ../plugin.py:1720
+msgid "Set Password"
+msgstr "وضع كلمة سرية"
+
+#: ../plugin.py:1721
+msgid "new Random"
+msgstr "جديد عشوائي"
+
+#: ../plugin.py:1722
+msgid "virt. Keyboard"
+msgstr "لوحة مفاتيح افتراضية"
+
+#: ../plugin.py:1742
+msgid "Enter new Password"
+msgstr "أدخل كلمة السرية الجديدة"
+
+#: ../plugin.py:1758
+#, python-format
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+"الى root  تم تغيير الكلمة السرية بنجاح للمستخدم :\n"
+"%s "
+
+#: ../plugin.py:1760
+msgid "Unable to change/reset password for root user"
+msgstr "root لا يمكن تغيير/ إستعادة الكلمة السرية للمستخدم "
+
+#: ../plugin.py:1782
+msgid "Enter your password here:"
+msgstr ":أدخل كلمتك السرية هنا "
+
+#: ../plugin.py:1861
+msgid "Manage your VU+ Team Image"
+msgstr "خاصتك VU+ Team  إدارة صورة فريق "
+
+#: ../ntpserver.py:47
+msgid "NTP server "
+msgstr "NTP server "
+
+#: ../ntpserver.py:47
+msgid " is activated."
+msgstr ".مفعلة"
+
+#: ../ntpserver.py:51
+msgid "NTP-Server Country Selection"
+msgstr "NTP-Server تحديد البلد"
+
+#: ../ntpserver.py:78
+msgid "NTP-Server Contenant Selection"
+msgstr "NTP-Server تحديد القارة "
+
+#: ../BackupRestore.py:73
+#: ../BackupRestore.py:88
+#: ../BackupRestore.py:90
+msgid "VTI-Backup is running..."
+msgstr "...جاري VTI-نسخ"
+
+#: ../BackupRestore.py:93
+#: ../BackupRestore.py:95
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+".للاسف مسار النسخ خاصتك غير قابل للكتابة\n"
+".فضلا اختر مسارا اخر"
+
+#: ../BackupRestore.py:112
+#: ../BackupRestore.py:192
+#: ../BackupRestore.py:321
+#: ../ExeManager.py:203
+#: ../ExeManager.py:265
+#: ../ExeManager.py:339
+#: ../CronManager.py:235
+#: ../CronManager.py:353
+#: ../CronManager.py:445
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: ../BackupRestore.py:145
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr "حدد ملفات/مجلدات للنسخ -VTI-نسخ"
+
+#: ../BackupRestore.py:150
+msgid "Deselect"
+msgstr "إلغاء التحديد"
+
+#: ../BackupRestore.py:152
+msgid "Select"
+msgstr "تحديد"
+
+#: ../BackupRestore.py:193
+#: ../BackupRestore.py:322
+msgid "Restore"
+msgstr "إستعادة"
+
+#: ../BackupRestore.py:194
+#: ../BackupRestore.py:323
+#: ../ExeManager.py:114
+#: ../CronManager.py:150
+msgid "Delete"
+msgstr "حذف"
+
+#: ../BackupRestore.py:224
+#: ../BackupRestore.py:353
+msgid "VTI-Restore backups"
+msgstr "للنسخ الاحتياطية VTIإستعادة- "
+
+#: ../BackupRestore.py:242
+#: ../BackupRestore.py:371
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"هل انت متاكد من إستعادة\n"
+"النسخة التالية:\n"
+
+#: ../BackupRestore.py:242
+#: ../BackupRestore.py:371
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"النظام سيعيد التشغيل بعد الاستعادة"
+
+#: ../BackupRestore.py:250
+msgid "Restore running"
+msgstr "الاستعادة جارية"
+
+#: ../BackupRestore.py:256
+#: ../BackupRestore.py:399
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"هل انت متاكد من حذف\n"
+"النسخة التالية:\n"
+
+#: ../BackupRestore.py:293
+#: ../BackupRestore.py:303
+msgid "VTI-Restore is running..."
+msgstr "...جارية VTI-إستعادة"
+
+#: ../BackupRestore.py:301
+msgid "Restore is running..."
+msgstr "...الاستعادة جارية "
+
+#: ../BackupRestore.py:393
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or ultimo ."
+msgstr ""
+"!!!لم يتم العثور على اي صورة\n"
+"\n"
+"  /media/hdd/vuplus/duo/solo/uno او ultimo  او إستعادة صورة الى usb رجاءا قم بنسخ صورة "
+
+#: ../ExeManager.py:107
+#: ../ExeManager.py:184
+msgid "Execute: "
+msgstr ":تنفيذ  "
+
+#: ../ExeManager.py:108
+#: ../ExeManager.py:161
+msgid "VTI ExeManager"
+msgstr "مدير التنفيذ VTI"
+
+#: ../ExeManager.py:115
+#: ../CronManager.py:151
+msgid "Add"
+msgstr "إضافة"
+
+#: ../ExeManager.py:116
+#: ../CronManager.py:152
+msgid "Modify"
+msgstr "تعديل"
+
+#: ../ExeManager.py:117
+#: ../CronManager.py:153
+msgid "Execute"
+msgstr "تنفيذ"
+
+#: ../ExeManager.py:155
+#, python-format
+msgid "File %s was not found"
+msgstr "%s الملف  لم يتم العثور على"
+
+#: ../ExeManager.py:158
+#, python-format
+msgid "File %s is not executable"
+msgstr "ليس تنفيذي %s الملف "
+
+#: ../ExeManager.py:164
+#: ../CronManager.py:187
+#, python-format
+msgid "Command: %s was executed"
+msgstr "تم تنفيذه %s الأمر :  "
+
+#: ../ExeManager.py:195
+msgid "your executable"
+msgstr "القابل للتنفيذ خاصتك"
+
+#: ../ExeManager.py:197
+#: ../ExeManager.py:259
+msgid "no"
+msgstr "لا"
+
+#: ../ExeManager.py:197
+#: ../ExeManager.py:259
+msgid "yes"
+msgstr "نعم"
+
+#: ../ExeManager.py:198
+msgid "Add a executable to ExeManager"
+msgstr "اضف تنفيذ لمدير التنفيذات"
+
+#: ../ExeManager.py:218
+#: ../ExeManager.py:280
+#: ../CronManager.py:250
+#: ../CronManager.py:368
+msgid "Command to execute : "
+msgstr ": أمر للتنفيذ   "
+
+#: ../ExeManager.py:219
+#: ../ExeManager.py:281
+#: ../CronManager.py:251
+msgid "Additional command options : "
+msgstr ": خيارات اوامر إضافية "
+
+#: ../ExeManager.py:220
+#: ../ExeManager.py:282
+msgid "Show command output : "
+msgstr ": إظهار مسار الامر"
+
+#: ../ExeManager.py:260
+msgid "Modify execute command"
+msgstr "تعديل أمر التنفيذ"
+
+#: ../ExeManager.py:334
+msgid "Select a file to execute"
+msgstr "اختيار ملف للتنفيذ"
+
+#: ../ExeManager.py:340
+#: ../CronManager.py:446
+msgid "OK"
+msgstr "OK"
+
+#: ../ExeManager.py:347
+#: ../ExeManager.py:418
+#: ../CronManager.py:453
+#: ../CronManager.py:524
+msgid "Invalid Choice"
+msgstr "خيار غير موجود"
+
+#: ../ExeManager.py:355
+#: ../ExeManager.py:407
+#: ../CronManager.py:461
+#: ../CronManager.py:513
+msgid "File is not executable"
+msgstr "الملف ليس تنفيذي"
+
+#: ../ExeManager.py:408
+#: ../CronManager.py:514
+msgid "chmod 755"
+msgstr "chmod 755"
+
+#: ../CronManager.py:144
+msgid "VTI CronManager"
+msgstr "VTI CronManager"
+
+#: ../CronManager.py:224
+msgid "your cronjob"
+msgstr "الخاصة بك cronjob"
+
+#: ../CronManager.py:230
+msgid "Add a job to CronManager"
+msgstr "CronManagerإضافة مهمة للـ"
+
+#: ../CronManager.py:252
+#: ../CronManager.py:369
+msgid "Input minute : "
+msgstr ": إدخال دقيقة"
+
+#: ../CronManager.py:253
+#: ../CronManager.py:370
+msgid "Input hour : "
+msgstr ": إدخال ساعة "
+
+#: ../CronManager.py:254
+#: ../CronManager.py:371
+msgid "Input day : "
+msgstr ": إدخال يوم"
+
+#: ../CronManager.py:255
+#: ../CronManager.py:372
+msgid "Input month : "
+msgstr ": إدخال شهر"
+
+#: ../CronManager.py:256
+#: ../CronManager.py:373
+msgid "Input weekday : "
+msgstr ": إدخال ايام الاسبوع "
+
+#: ../CronManager.py:348
+msgid "Modify a CronManager job"
+msgstr "CronManager تعديل امر "
+
+#: ../CronManager.py:440
+msgid "Select a executable file for a cronjob"
+msgstr "cronjob حدد ملف تنفيذي من"
+

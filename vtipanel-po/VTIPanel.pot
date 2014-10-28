@@ -1,0 +1,1605 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VTIPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-08 21:39+0100\n"
+"PO-Revision-Date: 2014-07-08 21:39+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: LANGUAGE <VTI>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "VTI DriverManager"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "not available"
+msgstr ""
+
+msgid "Current drivers: "
+msgstr ""
+
+msgid "Install drivers from a local device"
+msgstr ""
+
+msgid "choose drivers from local filesystem to install"
+msgstr ""
+
+msgid "Download and install drivers from Vu+ website"
+msgstr ""
+
+msgid "choose drivers for download/install"
+msgstr ""
+
+msgid "Sorry, detection of current kernel version failed !"
+msgstr ""
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+
+msgid "Installation of drivers failed !!!"
+msgstr ""
+
+msgid "Select a drivers to install"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Invalid Choice"
+msgstr ""
+
+msgid "no valid drivers"
+msgstr ""
+
+msgid "Please wait ..."
+msgstr ""
+
+msgid " downloading available drivers information"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+#, python-format
+msgid "Driver : %s"
+msgstr ""
+
+msgid "choose this drivers for download"
+msgstr ""
+
+msgid "Please wait, downloading drivers: "
+msgstr ""
+
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "reload package data"
+msgstr ""
+
+msgid "Download or delete Software"
+msgstr ""
+
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+
+#, python-format
+msgid ""
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
+msgstr ""
+
+msgid "Excecute"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Package list update"
+msgstr ""
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr ""
+
+msgid "Extensions"
+msgstr ""
+
+msgid "install/remove common plugins"
+msgstr ""
+
+msgid "Systemplugins"
+msgstr ""
+
+msgid "install/remove systemplugins"
+msgstr ""
+
+msgid "Skins"
+msgstr ""
+
+msgid "install/remove skins to change look of OSD"
+msgstr ""
+
+msgid "SoftCams"
+msgstr ""
+
+msgid "install/remove softcams"
+msgstr ""
+
+msgid "Configurations"
+msgstr ""
+
+msgid "install/remove configuration files for softcams"
+msgstr ""
+
+msgid "Picons"
+msgstr ""
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "install/remove channel lists"
+msgstr ""
+
+msgid "Kernel modules"
+msgstr ""
+
+msgid "install/remove kernel modules"
+msgstr ""
+
+msgid "Language packages"
+msgstr ""
+
+msgid "install/remove language packages for dvbapp2"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Execution finished.\n"
+msgstr ""
+
+msgid "Do you want to restart GUI ?"
+msgstr ""
+
+msgid "VTi ZerO"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Free Flash"
+msgstr ""
+
+msgid "Remove preinstalled plugins"
+msgstr ""
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr ""
+
+msgid "Remove WLAN support"
+msgstr ""
+
+msgid "remove WLAN plugins and drivers"
+msgstr ""
+
+msgid "Remove HbbTV support"
+msgstr ""
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr ""
+
+msgid "Remove samba server"
+msgstr ""
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr ""
+
+msgid "Remove USB tuner support"
+msgstr ""
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr ""
+
+msgid "Remove language files"
+msgstr ""
+
+msgid "delete translation files expect configured language"
+msgstr ""
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+
+#, python-format
+msgid "Free space at flash memory : %d MB\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+
+msgid "VTI BackupSuite"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr ""
+
+msgid "set device for directory vti-backupsuite"
+msgstr ""
+
+msgid "Backup installed plugins"
+msgstr ""
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr ""
+
+msgid "Backup channel settings"
+msgstr ""
+
+msgid "save channel and bouquet settings"
+msgstr ""
+
+msgid "Backup configurations"
+msgstr ""
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Restore plugins from saved list"
+msgstr ""
+
+msgid "installs all available plugins from online feed"
+msgstr ""
+
+msgid "Restore channel settings"
+msgstr ""
+
+msgid "reload saved channel and bouquet settings"
+msgstr ""
+
+msgid "Restore configurations"
+msgstr ""
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Install local packages"
+msgstr ""
+
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr ""
+
+msgid "Run personal script"
+msgstr ""
+
+msgid "executes your personal backup/restore scripts"
+msgstr ""
+
+msgid "Please select medium to use as backup location"
+msgstr ""
+
+msgid "List of installed plugins was created succesfully"
+msgstr ""
+
+msgid "Creating list of installed plugins failed"
+msgstr ""
+
+msgid "Settings backup finished succesfully"
+msgstr ""
+
+msgid "Backup settings failed"
+msgstr ""
+
+msgid "Common configuration backup finished succesfully"
+msgstr ""
+
+msgid "Backup of common configurations failed"
+msgstr ""
+
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Restoring settings finished successfully"
+msgstr ""
+
+msgid "Restoring settings failed"
+msgstr ""
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr ""
+
+msgid "Restore running"
+msgstr ""
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "System Tools"
+msgstr ""
+
+msgid "Cam Center"
+msgstr ""
+
+msgid "VTI Panel"
+msgstr ""
+
+msgid "VTI Cam Center"
+msgstr ""
+
+msgid "select or install your favourite cam"
+msgstr ""
+
+msgid "VTI System Info"
+msgstr ""
+
+msgid "Infos about your Vu+ STB"
+msgstr ""
+
+msgid "VTI System Tools"
+msgstr ""
+
+msgid "manage your Vu+ STB"
+msgstr ""
+
+msgid "VTI Software Tools"
+msgstr ""
+
+msgid "backup/restore or install software"
+msgstr ""
+
+msgid "VTI Software Manager"
+msgstr ""
+
+msgid "install/download software for your Vu+"
+msgstr ""
+
+msgid "manual Installer"
+msgstr ""
+
+msgid "install .tar.gz or ipkg manually"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "open enigma2 Plugin Menu"
+msgstr ""
+
+msgid "VTI Sub Menu"
+msgstr ""
+
+msgid "Restore and backup installed channellist and plugins"
+msgstr ""
+
+msgid "Image Backup / Restore"
+msgstr ""
+
+msgid "backup or flash an image"
+msgstr ""
+
+msgid "Image Flash Tool"
+msgstr ""
+
+msgid "download images from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Driver Manager"
+msgstr ""
+
+msgid "install/download driver for your Vu+"
+msgstr ""
+
+msgid "Expert Backup / Restore"
+msgstr ""
+
+msgid "backup or restore your settings (only for experts)"
+msgstr ""
+
+msgid "Install .tar.gz "
+msgstr ""
+
+msgid "Install all .tar.gz file form /tmp "
+msgstr ""
+
+msgid "Install Ipkg"
+msgstr ""
+
+msgid "Install local ipkg"
+msgstr ""
+
+msgid "Advanced Ipkg Install"
+msgstr ""
+
+msgid "Install local ipkg with --force overwrite"
+msgstr ""
+
+msgid "VTI manual Addon Installer"
+msgstr ""
+
+msgid "Update Image"
+msgstr ""
+
+msgid "Update your STB image from Internet."
+msgstr ""
+
+msgid "VTI Image Tools"
+msgstr ""
+
+msgid "Device Manager"
+msgstr ""
+
+msgid "manage your HDD's and USB devices"
+msgstr ""
+
+msgid "File Manager"
+msgstr ""
+
+msgid "open Filemanager"
+msgstr ""
+
+msgid "Network Browser"
+msgstr ""
+
+msgid "open NetworkBrowswer"
+msgstr ""
+
+msgid "Remove preinstalled packages from image"
+msgstr ""
+
+msgid "EPG Settings"
+msgstr ""
+
+msgid "set EPG path, restore or backup EPG data"
+msgstr ""
+
+msgid "Custom Main Menu"
+msgstr ""
+
+msgid "delete entries from main menu of your VU+"
+msgstr ""
+
+msgid "Cronjob Manager"
+msgstr ""
+
+msgid "manage cronjobs of your VU+"
+msgstr ""
+
+msgid "Run Command"
+msgstr ""
+
+msgid "run executable files of your VU+"
+msgstr ""
+
+msgid "Set VTI Panel Password"
+msgstr ""
+
+msgid "activate/change password for VTI Panel"
+msgstr ""
+
+msgid "Set Root Password"
+msgstr ""
+
+msgid "set root password of your stb"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "enable/disable Systemservices"
+msgstr ""
+
+msgid "USB DVB-T/C/S2 Panel"
+msgstr ""
+
+msgid "manage Sundtek USB DVB Stick"
+msgstr ""
+
+msgid "Remove WebBrowser"
+msgstr ""
+
+msgid "removes WebBrowser and dependencies"
+msgstr ""
+
+msgid "Remove Opera HbbTV"
+msgstr ""
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr ""
+
+msgid "IPK Uninstaller"
+msgstr ""
+
+msgid "remove seletected package from stb"
+msgstr ""
+
+msgid "Purge Enigma2 Crashlogs"
+msgstr ""
+
+msgid "selective wipe of enigma2 crashlogs"
+msgstr ""
+
+msgid "Swapfile"
+msgstr ""
+
+msgid "create and manage your Swapfile"
+msgstr ""
+
+msgid "Set NTP Time"
+msgstr ""
+
+msgid "refresh time for enigma2 from ntp server"
+msgstr ""
+
+msgid "Harddisk Standby"
+msgstr ""
+
+msgid "turns hdd immediately into standby mode"
+msgstr ""
+
+msgid "Bitrate Viewer"
+msgstr ""
+
+msgid "Show Advanced Bitrate infos"
+msgstr ""
+
+msgid "ECM Info"
+msgstr ""
+
+msgid "show ecm infos from temp dir"
+msgstr ""
+
+msgid "News about VTI"
+msgstr ""
+
+msgid "show Feed updates"
+msgstr ""
+
+msgid "Info about current system"
+msgstr ""
+
+msgid "show information about processes, load, mounts ..."
+msgstr ""
+
+msgid "Show processes"
+msgstr ""
+
+msgid "show running processes"
+msgstr ""
+
+msgid "Show filesystem mounts"
+msgstr ""
+
+msgid "show active mounts"
+msgstr ""
+
+msgid "Harddisk Temperature"
+msgstr ""
+
+msgid "show HDD Temperature"
+msgstr ""
+
+msgid "Show Consolesessions"
+msgstr ""
+
+msgid "show all active user sessions"
+msgstr ""
+
+msgid "Show Uptime"
+msgstr ""
+
+msgid "show operating system uptime of stb"
+msgstr ""
+
+msgid "Show Networkconnections"
+msgstr ""
+
+msgid "show all connected sockets from ip-stack"
+msgstr ""
+
+msgid "Show Systemmemory Info"
+msgstr ""
+
+msgid "show whole system memory usage"
+msgstr ""
+
+msgid "Show Networkdetails"
+msgstr ""
+
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr ""
+
+msgid "Show diskspace"
+msgstr ""
+
+msgid "show diskpace"
+msgstr ""
+
+msgid "Image Info"
+msgstr ""
+
+msgid "show simple Image infos"
+msgstr ""
+
+msgid "VTI System Infos"
+msgstr ""
+
+msgid "VTI Backupsuite"
+msgstr ""
+
+msgid "Backup installed channellist and plugins"
+msgstr ""
+
+msgid "Restore installed channellist and plugins"
+msgstr ""
+
+msgid "Backup Image"
+msgstr ""
+
+msgid "Backup your running STB image."
+msgstr ""
+
+msgid "Restore Image"
+msgstr ""
+
+msgid "Restore your backuped STB image."
+msgstr ""
+
+msgid "Choose backup location"
+msgstr ""
+
+msgid "Select your backup device. "
+msgstr ""
+
+msgid "VTI Image Backup/Restore"
+msgstr ""
+
+msgid "Backup system settings"
+msgstr ""
+
+msgid "Backup your STB settings."
+msgstr ""
+
+msgid "Restore system settings"
+msgstr ""
+
+msgid "Restore your STB settings."
+msgstr ""
+
+msgid "Advanced restore"
+msgstr ""
+
+msgid "Restore your backups by date."
+msgstr ""
+
+msgid "Choose backup files"
+msgstr ""
+
+msgid "Select files for backup. "
+msgstr ""
+
+msgid "VTI Expert Backup/Restore"
+msgstr ""
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+
+msgid "VTI .tar.gz installer"
+msgstr ""
+
+msgid "VTI IPK Installer"
+msgstr ""
+
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+
+msgid "VTI Harddisk Standbymode"
+msgstr ""
+
+msgid "VTI show ecm.info"
+msgstr ""
+
+msgid "VTI show running processes"
+msgstr ""
+
+msgid "VTI show mounted filesystems"
+msgstr ""
+
+msgid "VTI show networkconfiguration and routingtable"
+msgstr ""
+
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr ""
+
+msgid "Are you sure to set hdd in standby mode?"
+msgstr ""
+
+msgid "HDD Temperature"
+msgstr ""
+
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check "
+"harddisk temperature."
+msgstr ""
+
+msgid "Active Usersessions :"
+msgstr ""
+
+msgid "Current Time, Operating Time and Load Average :"
+msgstr ""
+
+msgid "Uptime"
+msgstr ""
+
+msgid "VTI show network stats"
+msgstr ""
+
+msgid "Current Memory Usage :"
+msgstr ""
+
+msgid "Memory Usage"
+msgstr ""
+
+msgid "VTI show free diskspace"
+msgstr ""
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+
+msgid "Sorry no backups found!"
+msgstr ""
+
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+
+msgid "Install/update finished."
+msgstr ""
+
+msgid "Do you want to reboot your STB?"
+msgstr ""
+
+msgid "VTI Restore Image"
+msgstr ""
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+
+msgid "VTI-Backup done."
+msgstr ""
+
+msgid "VTI-Backup failed."
+msgstr ""
+
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr ""
+
+msgid "At"
+msgstr ""
+
+msgid "Could not grep Uptime Information from busybox"
+msgstr ""
+
+msgid "Could not grep socket information from busybox"
+msgstr ""
+
+msgid "Could not grep Memory Usage information from busybox"
+msgstr ""
+
+msgid "VTI Status List Menu"
+msgstr ""
+
+msgid "Stop Swap"
+msgstr ""
+
+msgid "Start Swap"
+msgstr ""
+
+msgid "VTI SwapFile Menu"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "VTI Services Menu"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Force uninst."
+msgstr ""
+
+msgid "VTI IPK Uninstaller Menu"
+msgstr ""
+
+msgid "Remove Skin"
+msgstr ""
+
+msgid "VTI Skinremove Menu"
+msgstr ""
+
+msgid "Remove selected"
+msgstr ""
+
+msgid "Remove all"
+msgstr ""
+
+msgid "Remove older 7 Days"
+msgstr ""
+
+msgid "VTI Crashlogremove Menu"
+msgstr ""
+
+msgid "VTI USB DVB-Panel"
+msgstr ""
+
+msgid "not in use"
+msgstr ""
+
+msgid "MB swapfile on "
+msgstr ""
+
+msgid "Are you sure to delete swapfile ?"
+msgstr ""
+
+#, python-format
+msgid "Are you sure to %s ?"
+msgstr ""
+
+msgid "VTI Start Service"
+msgstr ""
+
+msgid "VTI Stop Service"
+msgstr ""
+
+msgid "VTI Restart Service"
+msgstr ""
+
+msgid "VTI Skinremoval"
+msgstr ""
+
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr ""
+
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr ""
+
+msgid "stopping swap for "
+msgstr ""
+
+msgid "swapfile was deleted successfully"
+msgstr ""
+
+msgid "VTI create SwapFile"
+msgstr ""
+
+msgid "no swapfile active..."
+msgstr ""
+
+msgid "swapfile was created successfully"
+msgstr ""
+
+msgid "VTI IPK Uninstall"
+msgstr ""
+
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr ""
+
+msgid "Stop Cam"
+msgstr ""
+
+msgid "Start Cam"
+msgstr ""
+
+msgid "Restart Cam"
+msgstr ""
+
+msgid "Manage Cams"
+msgstr ""
+
+msgid "Select Cam and press OK to activate"
+msgstr ""
+
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr ""
+
+msgid "cam info : "
+msgstr ""
+
+msgid " -- "
+msgstr ""
+
+msgid "Starting cam : "
+msgstr ""
+
+msgid "Stopping cam : "
+msgstr ""
+
+msgid "Restarting cam : "
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Average"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Download or delete Cam"
+msgstr ""
+
+msgid "Do you want to remove the package:\n"
+msgstr ""
+
+msgid "Do you want to upgrade the package:\n"
+msgstr ""
+
+msgid "Do you want to install the package:\n"
+msgstr ""
+
+msgid "Change Root Password"
+msgstr ""
+
+msgid "Set Password"
+msgstr ""
+
+msgid "new Random"
+msgstr ""
+
+msgid "virt. Keyboard"
+msgstr ""
+
+msgid "Enter new Password"
+msgstr ""
+
+#, python-format
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+
+msgid "Unable to change/reset password for root user"
+msgstr ""
+
+msgid "Enter your password here:"
+msgstr ""
+
+msgid "Software Update"
+msgstr ""
+
+msgid "Manage your VU+ Team Image"
+msgstr ""
+
+msgid "VTI CronManager"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Modify"
+msgstr ""
+
+msgid "Execute"
+msgstr ""
+
+#, python-format
+msgid "Command: %s was executed"
+msgstr ""
+
+msgid "your cronjob"
+msgstr ""
+
+msgid "Add a job to CronManager"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Command to execute : "
+msgstr ""
+
+msgid "Additional command options : "
+msgstr ""
+
+msgid "Input minute : "
+msgstr ""
+
+msgid "Input hour : "
+msgstr ""
+
+msgid "Input day : "
+msgstr ""
+
+msgid "Input month : "
+msgstr ""
+
+msgid "Input weekday : "
+msgstr ""
+
+msgid "Modify a CronManager job"
+msgstr ""
+
+msgid "Select a executable file for a cronjob"
+msgstr ""
+
+msgid "File is not executable"
+msgstr ""
+
+msgid " "
+msgstr ""
+
+msgid "chmod 755"
+msgstr ""
+
+msgid "NTP server "
+msgstr ""
+
+msgid " is activated."
+msgstr ""
+
+msgid "NTP-Server Country Selection"
+msgstr ""
+
+msgid "NTP-Server Contenant Selection"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "show Updates"
+msgstr ""
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr ""
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr ""
+
+msgid "Upgradable Packages"
+msgstr ""
+
+msgid "show News"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+
+msgid "VTI custom main menu"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Execute: "
+msgstr ""
+
+msgid "VTI ExeManager"
+msgstr ""
+
+#, python-format
+msgid "File %s was not found"
+msgstr ""
+
+#, python-format
+msgid "File %s is not executable"
+msgstr ""
+
+msgid "your executable"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "Add a executable to ExeManager"
+msgstr ""
+
+msgid "Show command output : "
+msgstr ""
+
+msgid "Modify execute command"
+msgstr ""
+
+msgid "Select a file to execute"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "PROCESS"
+msgstr ""
+
+msgid "CPU %"
+msgstr ""
+
+msgid "MEM %"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid "MOUNTPOINT"
+msgstr ""
+
+msgid "FS"
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "KERNEL : "
+msgstr ""
+
+msgid "IMAGE : "
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "SWAP"
+msgstr ""
+
+msgid "USED :"
+msgstr ""
+
+msgid "FREE :"
+msgstr ""
+
+msgid "TOTAL :"
+msgstr ""
+
+msgid "UPTIME : "
+msgstr ""
+
+msgid "LOAD : "
+msgstr ""
+
+msgid "TEMP : "
+msgstr ""
+
+msgid "FAN : "
+msgstr ""
+
+msgid "RECEIVED"
+msgstr ""
+
+msgid "SENT"
+msgstr ""
+
+msgid "VTI EPG Panel"
+msgstr ""
+
+msgid "EPG Path :"
+msgstr ""
+
+msgid "Save EPG cache to epg.dat"
+msgstr ""
+
+msgid "Load EPG data from epg.dat"
+msgstr ""
+
+msgid "Delete broken epg.dat"
+msgstr ""
+
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr ""
+
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr ""
+
+msgid ""
+"Do you really want to delete epg.dat ?\n"
+"Note: This will restart your VU+ STB"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Verifying your internet connection..."
+msgstr ""
+
+msgid "Press OK on your remote control to continue."
+msgstr ""
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+
+msgid "Upgrading STB... Please wait"
+msgstr ""
+
+msgid "Your network is not working. Please try again."
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Upgrading"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Removing"
+msgstr ""
+
+msgid "Configuring"
+msgstr ""
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr ""
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+
+msgid "Upgrade finished."
+msgstr ""
+
+msgid "VTi Image Download"
+msgstr ""
+
+msgid "Do your really want to cancel the image download ?"
+msgstr ""
+
+msgid "Select image for flash process"
+msgstr ""
+
+msgid "Install this image"
+msgstr ""
+
+msgid "VTI Image Flash Tool"
+msgstr ""
+
+msgid " downloading available image information"
+msgstr ""
+
+msgid "Flash extracted image from storage device"
+msgstr ""
+
+#, python-format
+msgid "Image: %s"
+msgstr ""
+
+msgid "Download image from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Sorry ..."
+msgstr ""
+
+msgid "The image list can not be loaded, please be patient and try again later"
+msgstr ""
+
+msgid ""
+"This will flash the selected image without further questions.\n"
+"Your current software installation will be deleted and overwritten\n"
+"Really continue ?"
+msgstr ""
+
+msgid "Please select medium to use as image location"
+msgstr ""
+
+msgid ""
+"Error at creating download destination !\n"
+"Please select another device."
+msgstr ""
+
+msgid ""
+"There is to low free memory at choosen device\n"
+"Please select another device."
+msgstr ""
+
+#, python-format
+msgid "Download %s"
+msgstr ""
+
+msgid "Extracting image ..."
+msgstr ""
+
+msgid ""
+"Sorry, download verification failed\n"
+"Please try again."
+msgstr ""
+
+msgid "Verifying download ..."
+msgstr ""
+
+msgid ""
+"This will flash the downloaded image.\n"
+"Your current software installation will be deleted and overwritten\n"
+"If you cancel here the downloaded image will be stored and you flash it "
+"later\n"
+"Really continue ?"
+msgstr ""
+
+msgid ""
+"Sorry, necessary files are missing\n"
+"Please try again."
+msgstr ""
+
+msgid ""
+"Sorry, extracting of image failed\n"
+"Please try again."
+msgstr ""
+
+msgid "VTi Image Flash Process"
+msgstr ""
+
+msgid "Change password for VTI Panel"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Input your new VTI Panel password : "
+msgstr ""
+
+msgid "Input password for VTI Panel"
+msgstr ""
+
+msgid "Input your VTI Panel password : "
+msgstr ""
+
+msgid "VTI-Backup is running..."
+msgstr ""
+
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr ""
+
+msgid "Deselect"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "VTI-Restore backups"
+msgstr ""
+
+msgid "VTI-Restore is running..."
+msgstr ""
+
+msgid "Restore is running..."
+msgstr ""
+
+msgid "VTi Restore Image"
+msgstr ""
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or "
+"ultimo ."
+msgstr ""
+
+msgid "[ ok ]"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
+
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
+
+msgid ""
+"Flash process of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
+
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
+
+msgid "preparing backup of image"
+msgstr ""
+
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
+
+msgid "The system is missing some necessary files !"
+msgstr ""
+
+msgid "Backup of root filesystem failed"
+msgstr ""
+
+msgid "backup root filesystem"
+msgstr ""
+
+msgid "Error at preparing system for backup"
+msgstr ""
+
+msgid "create flashable file of root filesystem"
+msgstr ""
+
+msgid "backup of running kernel"
+msgstr ""
+
+msgid "Backup of kernel failed"
+msgstr ""
+
+msgid "Image backup finished successfully"
+msgstr ""

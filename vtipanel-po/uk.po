@@ -1,0 +1,1375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VTIPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-25 09:56+0100\n"
+"PO-Revision-Date: 2011-07-05 17:09+0200\n"
+"Last-Translator: Люси Сорью <cross.triforce@gmail.com>\n"
+"Language-Team: RUSSIAN <VTI>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../EPGPanel.py:33
+msgid "/hdd"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/hdd"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/usb"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/hdd1"
+msgstr ""
+
+#: ../EPGPanel.py:33
+msgid "/media/usb1"
+msgstr ""
+
+#: ../EPGPanel.py:36
+msgid "VTI EPG Panel"
+msgstr "Панель VTI EPG"
+
+#: ../EPGPanel.py:42
+#: ../plugin.py:1420
+msgid "Exit"
+msgstr "Вихід"
+
+#: ../EPGPanel.py:43
+#: ../BackupRestore.py:113
+#: ../ExeManager.py:204
+#: ../ExeManager.py:266
+#: ../CronManager.py:236
+#: ../CronManager.py:354
+msgid "Save"
+msgstr "Зберігти"
+
+#: ../EPGPanel.py:59
+msgid "EPG Path :"
+msgstr "Шлях EPG :"
+
+#: ../EPGPanel.py:60
+msgid "Save EPG cache to epg.dat"
+msgstr "Зберігти кеш EPG у epg.dat"
+
+#: ../EPGPanel.py:61
+msgid "Load EPG data from epg.dat"
+msgstr "Завантажити дані EPG з epg.dat"
+
+#: ../EPGPanel.py:73
+#, python-format
+msgid "EPG path set to : %s"
+msgstr "Шлях EPG встановлено в : %s"
+
+#: ../EPGPanel.py:89
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "Збереження кешу EPG в %s завершено"
+
+#: ../EPGPanel.py:97
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "Завантаження даних EPG з %s завершено"
+
+#: ../plugin.py:84
+#: ../plugin.py:213
+#: ../plugin.py:414
+#: ../plugin.py:1490
+#: ../plugin.py:1719
+msgid "Close"
+msgstr "Закрити"
+
+#: ../plugin.py:85
+msgid "News"
+msgstr "Новини"
+
+#: ../plugin.py:86
+msgid "System Tools"
+msgstr "Службові програми"
+
+#: ../plugin.py:87
+msgid "Cam Center"
+msgstr "CAM-центр"
+
+#: ../plugin.py:91
+msgid "VTI Panel"
+msgstr "Панель VTI"
+
+#: ../plugin.py:138
+msgid "VTI Cam Center"
+msgstr "Управління CAM-модулями"
+
+#: ../plugin.py:138
+msgid "select or install your favourite cam"
+msgstr "вибрати або встановити ваш обраний CAM-модуль"
+
+#: ../plugin.py:139
+msgid "VTI System Info"
+msgstr "Інформація про систему"
+
+#: ../plugin.py:139
+msgid "Infos about your VU+Duo"
+msgstr "Інформація про Ваш ресівер"
+
+#: ../plugin.py:140
+#: ../plugin.py:394
+msgid "VTI System Tools"
+msgstr "Системні утиліти"
+
+#: ../plugin.py:140
+msgid "manage your VU+Duo"
+msgstr "Управління Вашим ресівером"
+
+#: ../plugin.py:141
+#: ../plugin.py:370
+msgid "VTI Image Tools"
+msgstr "Управління прошивкою"
+
+#: ../plugin.py:141
+msgid "backup or flash an image"
+msgstr "Резервне копіювання прошивки"
+
+#: ../plugin.py:142
+#: ../plugin.py:355
+msgid "VTI Backup Tools"
+msgstr "Резервне копіювання"
+
+#: ../plugin.py:142
+msgid "backup or restore your settings"
+msgstr "Резервне копіювання та відновлення налаштувань"
+
+#: ../plugin.py:143
+msgid "manual Installer"
+msgstr "Ручне встановлення плагінів"
+
+#: ../plugin.py:143
+msgid "install .tar.gz or ipkg manually"
+msgstr "Встановити вручну з *.tar.gz чи ipkg"
+
+#: ../plugin.py:144
+msgid "Plugins"
+msgstr "Плагіни"
+
+#: ../plugin.py:144
+msgid "open enigma2 Plugin Menu"
+msgstr "Відкрити встановлені плагіни"
+
+#: ../plugin.py:207
+#: ../plugin.py:249
+#: ../plugin.py:400
+msgid "News about VTI"
+msgstr "Новини о VTI"
+
+#: ../plugin.py:214
+msgid "Update"
+msgstr "Оновлення"
+
+#: ../plugin.py:215
+#: ../plugin.py:243
+#: ../plugin.py:253
+#: ../ExeManager.py:368
+#: ../ExeManager.py:405
+#: ../ExeManager.py:411
+#: ../ExeManager.py:416
+#: ../ExeManager.py:419
+#: ../CronManager.py:474
+#: ../CronManager.py:511
+#: ../CronManager.py:517
+#: ../CronManager.py:522
+#: ../CronManager.py:525
+msgid " "
+msgstr ""
+
+#: ../plugin.py:216
+#: ../plugin.py:252
+msgid "show Updates"
+msgstr "показати оновлення"
+
+#: ../plugin.py:240
+msgid "Upgradable Packages"
+msgstr "Оновлювані пакети"
+
+#: ../plugin.py:244
+msgid "show News"
+msgstr "показати новини"
+
+#: ../plugin.py:293
+#: ../plugin.py:296
+#: ../plugin.py:322
+msgid ""
+"There are no news or your\n"
+"Internet connection is not ok"
+msgstr ""
+"Новин нема або ваше \n"
+"Інтернет-підключення не в порядку"
+
+#: ../plugin.py:317
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+" old version : %s | new version : %s \n"
+msgstr ""
+"\n"
+"Пакет : %s \n"
+"  стара версія : %s | нова версія : %s \n"
+
+#: ../plugin.py:319
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Вашу систему оновлено"
+
+#: ../plugin.py:338
+msgid "VTI Sub Menu"
+msgstr "Підменю VTI"
+
+#: ../plugin.py:350
+msgid "Backup system settings"
+msgstr "Резервне копіювання системних налаштувань"
+
+#: ../plugin.py:350
+msgid "Backup your STB settings."
+msgstr "Резервне копіювання налаштувань ресівера"
+
+#: ../plugin.py:351
+msgid "Restore system settings"
+msgstr "Відновити системні налаштування"
+
+#: ../plugin.py:351
+msgid "Restore your STB settings."
+msgstr "Відновити налаштування ресівера"
+
+#: ../plugin.py:352
+#: ../plugin.py:368
+msgid "Advanced restore"
+msgstr "Розширене відновлення"
+
+#: ../plugin.py:352
+#: ../plugin.py:368
+msgid "Restore your backups by date."
+msgstr "Відновити архіви по даті"
+
+#: ../plugin.py:353
+#: ../plugin.py:369
+msgid "Choose backup location"
+msgstr "Вибрати місце для розташування резервної копії"
+
+#: ../plugin.py:353
+#: ../plugin.py:369
+msgid "Select your backup device. "
+msgstr "Виберіть пристрій для резервного копіювання"
+
+#: ../plugin.py:354
+msgid "Choose backup files"
+msgstr "Виберіть файли для резервного копіювання"
+
+#: ../plugin.py:354
+msgid "Select files for backup. "
+msgstr "Виберіть файли для резервного копіювання."
+
+#: ../plugin.py:358
+msgid "Install .tar.gz "
+msgstr "Встановити з *.tar.gz"
+
+#: ../plugin.py:358
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Встановити всі *.tar.gz у каталозі /tmp"
+
+#: ../plugin.py:359
+msgid "Install Ipkg"
+msgstr "Встановити з *.ipk"
+
+#: ../plugin.py:359
+msgid "Install local ipkg"
+msgstr "Встановити усі *.ipk в каталозі /tmp"
+
+#: ../plugin.py:360
+msgid "Advanced Ipkg Install"
+msgstr "Розширене встановлення *.ipk"
+
+#: ../plugin.py:360
+msgid "Install local ipkg with --force overwrite"
+msgstr "Встановити всі *.ipk в каталозі /tmp -- перезапис"
+
+#: ../plugin.py:361
+msgid "VTI manual Addon Installer"
+msgstr "Ручне встановлення плагінів"
+
+#: ../plugin.py:364
+msgid "Update Image"
+msgstr "Оновлення прошивки"
+
+#: ../plugin.py:364
+msgid "Update your STB image from Internet."
+msgstr "Оновлення прошивки через Інтернет."
+
+#: ../plugin.py:366
+msgid "Backup Image"
+msgstr "Зберіження прошивки"
+
+#: ../plugin.py:366
+msgid "Backup your running STB image."
+msgstr "Зберігти поточну прошивку ресівера."
+
+#: ../plugin.py:367
+msgid "Restore Image"
+msgstr "Відновлення прошивки"
+
+#: ../plugin.py:367
+msgid "Restore your backuped STB image."
+msgstr "Відновити прошивку ресівера."
+
+#: ../plugin.py:374
+msgid "Device Manager"
+msgstr "Менеджер пристроїв"
+
+#: ../plugin.py:374
+msgid "manage your HDD's and USB devices"
+msgstr "Управління жорстким диском та USB-приладами"
+
+#: ../plugin.py:376
+msgid "File Manager"
+msgstr "Файловий менеджер"
+
+#: ../plugin.py:376
+msgid "open Filemanager"
+msgstr "Відкрити Файловий менеджер"
+
+#: ../plugin.py:378
+msgid "Network Browser"
+msgstr "Браузер мережі"
+
+#: ../plugin.py:378
+msgid "open NetworkBrowswer"
+msgstr "Відкрити браузер мережі"
+
+#: ../plugin.py:379
+msgid "EPG Settings"
+msgstr "Налаштування EPG"
+
+#: ../plugin.py:379
+msgid "set EPG path, restore or backup EPG data"
+msgstr "Встановити шлях EPG, відновити чи зберігти дані EPG"
+
+#: ../plugin.py:380
+msgid "Cronjob Manager"
+msgstr "Управління задачами cron"
+
+#: ../plugin.py:380
+msgid "manage cronjobs of your VU+"
+msgstr "Управління задачами cron вашого ресівера"
+
+#: ../plugin.py:381
+msgid "Run Command"
+msgstr "Виконати команду"
+
+#: ../plugin.py:381
+msgid "run executable files of your VU+"
+msgstr "запустити виконувані файли вашого ресівера"
+
+#: ../plugin.py:382
+msgid "Set Root Password"
+msgstr "Встановлення паролю root"
+
+#: ../plugin.py:382
+msgid "set root password of your stb"
+msgstr "Встановити пароль root на Ваш ресівер"
+
+#: ../plugin.py:384
+msgid "Services"
+msgstr "Сервіси"
+
+#: ../plugin.py:384
+msgid "enable/disable Systemservices"
+msgstr "Зап./Зуп. системних сервісів"
+
+#: ../plugin.py:385
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "Панель USB DVB-T/C/S2"
+
+#: ../plugin.py:385
+msgid "manage Sundtek USB DVB Stick"
+msgstr "управління Sundtek USB DVB Stick"
+
+#: ../plugin.py:386
+msgid "IPK Uninstaller"
+msgstr "Видалення IPK-пакетів"
+
+#: ../plugin.py:386
+msgid "remove seletected package from stb"
+msgstr "Видалення вибраних пакетів"
+
+#: ../plugin.py:388
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Чистка креш-логу Enigma2"
+
+#: ../plugin.py:388
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "Вибіркова чистка креш-логу Enigma2"
+
+#: ../plugin.py:389
+msgid "Remove Skins"
+msgstr "Видалити скіни"
+
+#: ../plugin.py:389
+msgid "choose skin to remove"
+msgstr "Вибрати скін для видалення"
+
+#: ../plugin.py:391
+msgid "Swapfile"
+msgstr "Файл підкачки"
+
+#: ../plugin.py:391
+msgid "create and manage your Swapfile"
+msgstr "Створ-ня і кер-ня swap-файлом"
+
+#: ../plugin.py:392
+msgid "Set NTP Time"
+msgstr "Встановити час по NTP"
+
+#: ../plugin.py:392
+msgid "refresh time for enigma2 from ntp server"
+msgstr "Синхронізування часу через Інтернет"
+
+#: ../plugin.py:393
+msgid "Harddisk Standby"
+msgstr "Режим очікування для жорсткого диску"
+
+#: ../plugin.py:393
+msgid "turns hdd immediately into standby mode"
+msgstr "Вимикнення HDD в сплячому режими"
+
+#: ../plugin.py:397
+#: ../plugin.py:1414
+msgid "Bitrate Viewer"
+msgstr "Переглядач битрейту"
+
+#: ../plugin.py:397
+msgid "Show Advanced Bitrate infos"
+msgstr "Показати додаткову інформацію щодо битрейту"
+
+#: ../plugin.py:399
+msgid "ECM Info"
+msgstr "ECM інфо"
+
+#: ../plugin.py:399
+msgid "show ecm infos from temp dir"
+msgstr "Показати інформацію об ecm"
+
+#: ../plugin.py:400
+msgid "show Feed updates"
+msgstr "Показать обновления фида"
+
+#: ../plugin.py:401
+msgid "Show processes"
+msgstr "Показати процеси"
+
+#: ../plugin.py:401
+msgid "show running processes"
+msgstr "Показати поточні процеси"
+
+#: ../plugin.py:402
+msgid "Show filesystem mounts"
+msgstr "Показати змонтовані файлові системи"
+
+#: ../plugin.py:402
+msgid "show active mounts"
+msgstr "Показати активні змонтовані ресурси"
+
+#: ../plugin.py:403
+msgid "Harddisk Temperature"
+msgstr "Температура жорсткого диску"
+
+#: ../plugin.py:403
+msgid "show HDD Temperature"
+msgstr "Показати температуру HDD"
+
+#: ../plugin.py:404
+msgid "Show Consolesessions"
+msgstr "Показати консольні сесії"
+
+#: ../plugin.py:404
+msgid "show all active user sessions"
+msgstr "Показати усі активні сеанси користувачів"
+
+#: ../plugin.py:405
+msgid "Show Uptime"
+msgstr "Показати час роботи"
+
+#: ../plugin.py:405
+msgid "show operating system uptime of stb"
+msgstr "Показати час роботи"
+
+#: ../plugin.py:406
+msgid "Show Networkconnections"
+msgstr "Показати мережеві з'єднання"
+
+#: ../plugin.py:406
+msgid "show all connected sockets from ip-stack"
+msgstr "Показати усі підключені сокети в ip-стеці"
+
+#: ../plugin.py:407
+msgid "Show Systemmemory Info"
+msgstr "Показати інформацію о пам'яті"
+
+#: ../plugin.py:407
+msgid "show whole system memory usage"
+msgstr "Показати користування пам'яті"
+
+#: ../plugin.py:408
+msgid "Show Networkdetails"
+msgstr "Показати інформацію о мережі"
+
+#: ../plugin.py:408
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "Показати встановленні ip-адресу, dns-сервери і маршрути"
+
+#: ../plugin.py:409
+msgid "Show diskspace"
+msgstr "Показати інформацію щодо дискового простору"
+
+#: ../plugin.py:409
+msgid "show diskpace"
+msgstr "Показати дисковий простір"
+
+#: ../plugin.py:410
+msgid "Image Info"
+msgstr "Інформація щодо прошивки"
+
+#: ../plugin.py:410
+msgid "show simple Image infos"
+msgstr "Показати інформацію щодо прошивки"
+
+#: ../plugin.py:411
+msgid "VTI System Infos"
+msgstr "Системна інформація"
+
+#: ../plugin.py:415
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Нажміть ОК на вашому пульті керування щоби продовжити"
+
+#: ../plugin.py:454
+#: ../plugin.py:483
+msgid "Please select medium to use as backup location"
+msgstr "Будь ласка вкажіть носій для зберігання резервних копій"
+
+#: ../plugin.py:463
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Вы уверены, что хотите восстановить Enigma2 из резервной копии?\n"
+"Enigma2 будет перезагружена после восстановления."
+
+#: ../plugin.py:465
+msgid "Sorry no backups found!"
+msgstr "На жаль, резервних копій не знайдено!"
+
+#: ../plugin.py:468
+msgid "VTI .tar.gz installer"
+msgstr "Ручне встановлення плагінів"
+
+#: ../plugin.py:470
+#: ../plugin.py:472
+msgid "VTI IPK Installer"
+msgstr "Встановлення IPK"
+
+#: ../plugin.py:489
+#: ../plugin.py:491
+#: ../plugin.py:493
+#: ../plugin.py:495
+#: ../BackupRestore.py:385
+#: ../BackupRestore.py:387
+#: ../BackupRestore.py:389
+#: ../BackupRestore.py:391
+msgid "VTI Restore Image"
+msgstr "Відновлення прошивки"
+
+#: ../plugin.py:497
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Прошивку не знайдено! \n"
+"Будь ласка, скопіюйте прошивку на USB чи в папку /media/hdd/vuplus/duo"
+
+#: ../plugin.py:499
+msgid "Menu "
+msgstr "Меню"
+
+#: ../plugin.py:499
+msgid ""
+" not implemented yet\n"
+"\n"
+"Please choose another one."
+msgstr ""
+" ще не здійснено\n"
+"\n"
+"Будь ласка виберіть іншу."
+
+#: ../plugin.py:503
+msgid "VTI Backup Image"
+msgstr "Рез. копіювання прошивки"
+
+#: ../plugin.py:505
+msgid ""
+"No valid Backupdestion found!!!! \n"
+"\n"
+"Please install an internal Harddisk first to create Backups."
+msgstr ""
+"Не знайдено директорію для резервного копіювання! \n"
+"\n"
+"Будь ласка, встановіть внутрішній жорсткий диск перш ніж запускати резервне копіювання."
+
+#: ../plugin.py:514
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Менеджер пристроїв не встановлено! \n"
+"Будь ласка, встановіть його."
+
+#: ../plugin.py:522
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"Файл менеджер не встановлено! \n"
+"Будь ласка, встановіть його."
+
+#: ../plugin.py:530
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"Браузер мережі не встановлено! \n"
+"Будь ласка, встановіть його."
+
+#: ../plugin.py:563
+msgid "VTI Harddisk Standbymode"
+msgstr "Сплячий режим для HDD"
+
+#: ../plugin.py:568
+msgid "VTI show ecm.info"
+msgstr "Показати ecm.info"
+
+#: ../plugin.py:570
+msgid "VTI show running processes"
+msgstr "Показати запущені процеси"
+
+#: ../plugin.py:574
+msgid "VTI show mounted filesystems"
+msgstr "Показати змонтовані файлові системи"
+
+#: ../plugin.py:576
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "Показати мереж. налаштування"
+
+#: ../plugin.py:579
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "Виробник HDD, Тип і Температура:"
+
+#: ../plugin.py:579
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "Ви впевнені, що хочете перевести жорсткий диск в режим очікування?"
+
+#: ../plugin.py:580
+msgid "HDD Temperature"
+msgstr "Температура жорсткого диску"
+
+#: ../plugin.py:582
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check harddisk temperature."
+msgstr ""
+"Не знайдено внутрішній жорсткий диск! \n"
+"\n"
+"Будь ласка, встановіть внутрішній жорсткий диск для перевірки його температури."
+
+#: ../plugin.py:584
+msgid "Active Usersessions :"
+msgstr "Активні сесії користувачів:"
+
+#: ../plugin.py:586
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Поточний час, Робочий час та Середнє навантаження:"
+
+#: ../plugin.py:587
+msgid "Uptime"
+msgstr "Час роботи"
+
+#: ../plugin.py:590
+msgid "VTI show network stats"
+msgstr "Показати статистику мережі"
+
+#: ../plugin.py:592
+msgid "Current Memory Usage :"
+msgstr "Поточне використання пам'яті:"
+
+#: ../plugin.py:593
+msgid "Memory Usage"
+msgstr "Використання пам'яті"
+
+#: ../plugin.py:595
+msgid "VTI show free diskspace"
+msgstr "Показати вільне місце"
+
+#: ../plugin.py:599
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Меню ще не реалізовано! \n"
+"\n"
+"Ви можете написати код цього меню самі ;)"
+
+#: ../plugin.py:602
+msgid "Install/update finished."
+msgstr "Встановлення/оновлення завершено."
+
+#: ../plugin.py:602
+msgid "Do you want to reboot your STB?"
+msgstr "Ви бажаете перезавантажити Ваш ресівер?"
+
+#: ../plugin.py:634
+#: ../plugin.py:643
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Вибачте, але місцезнаходження для резервних копій недоступно для запису.\n"
+"\n"
+"Будь ласка, выберіть інше місцезнаходження."
+
+#: ../plugin.py:647
+msgid "VTI-Backup done."
+msgstr "Рез. копіювання виконано."
+
+#: ../plugin.py:649
+msgid "VTI-Backup failed."
+msgstr "Помилка рез. копіювання."
+
+#: ../plugin.py:667
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr "Нема жорсткого диску чи жорсткого диску із підтримкою S.M.A.R.T"
+
+#: ../plugin.py:673
+msgid "At"
+msgstr "На"
+
+#: ../plugin.py:677
+msgid "Could not grep Uptime Information from busybox"
+msgstr "Не можу відфільтрувати інформацію щодо аптайму в busybox"
+
+#: ../plugin.py:689
+msgid "Could not grep socket information from busybox"
+msgstr "Не можу відфільтрувати інформацію щодо сокетів в busybox"
+
+#: ../plugin.py:701
+msgid "Could not grep Memory Usage information from busybox"
+msgstr "Не можу відфільтрувати інформацію об використанні пам'яти в busybox"
+
+#: ../plugin.py:737
+#: ../plugin.py:802
+msgid "VTI Status List Menu"
+msgstr "Меню списку статусів"
+
+#: ../plugin.py:744
+msgid "Stop Swap"
+msgstr "Стоп Swap"
+
+#: ../plugin.py:745
+msgid "Start Swap"
+msgstr "Старт Swap"
+
+#: ../plugin.py:750
+msgid "VTI SwapFile Menu"
+msgstr "Управління swap-файлом"
+
+#: ../plugin.py:753
+msgid "Stop"
+msgstr "Стоп"
+
+#: ../plugin.py:754
+msgid "Start"
+msgstr "Старт"
+
+#: ../plugin.py:755
+msgid "Restart"
+msgstr "Перезапуск"
+
+#: ../plugin.py:758
+msgid "VTI Services Menu"
+msgstr "Сервіси"
+
+#: ../plugin.py:761
+msgid "Uninstall"
+msgstr "Видалення"
+
+#: ../plugin.py:762
+msgid "Force uninst."
+msgstr "Форс. видал."
+
+#: ../plugin.py:767
+msgid "VTI IPK Uninstaller Menu"
+msgstr "Меню видалення VTI IPK"
+
+#: ../plugin.py:770
+msgid "Remove Skin"
+msgstr "Видалити скін"
+
+#: ../plugin.py:777
+msgid "VTI Skinremove Menu"
+msgstr "Меню видалення скіну VTI"
+
+#: ../plugin.py:780
+msgid "Remove selected"
+msgstr "Видалити виделене"
+
+#: ../plugin.py:781
+msgid "Remove all"
+msgstr "Видалити все"
+
+#: ../plugin.py:782
+msgid "Remove older 7 Days"
+msgstr "Видалити все старше 7 днів"
+
+#: ../plugin.py:785
+msgid "VTI Crashlogremove Menu"
+msgstr "Видалення креш-логу"
+
+#: ../plugin.py:789
+msgid "Ok"
+msgstr "Ок"
+
+#: ../plugin.py:795
+#: ../plugin.py:1087
+msgid "VTI USB DVB-Panel"
+msgstr "Панель VTI"
+
+#: ../plugin.py:798
+#: ../plugin.py:799
+#: ../plugin.py:800
+#: ../plugin.py:801
+msgid "not in use"
+msgstr "не використовується"
+
+#: ../plugin.py:1014
+msgid "MB swapfile on "
+msgstr "Мб файл підкачки вмикнено"
+
+#: ../plugin.py:1029
+msgid "Are you sure to delete swapfile ?"
+msgstr "Ви впевнені, що хочете видалити файл підкачки?"
+
+#: ../plugin.py:1031
+#, python-format
+msgid "Are you sure to %s ?"
+msgstr "Ви впевнені, що %s ?"
+
+#: ../plugin.py:1038
+msgid "VTI Start Service"
+msgstr "Запуск сервісу"
+
+#: ../plugin.py:1040
+msgid "VTI Stop Service"
+msgstr "Зупинка сервісу"
+
+#: ../plugin.py:1042
+msgid "VTI Restart Service"
+msgstr "Перезапуск сервісу"
+
+#: ../plugin.py:1059
+msgid "VTI Skinremoval"
+msgstr "Видалення скінів"
+
+#: ../plugin.py:1067
+#: ../plugin.py:1069
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr "Видалення креш-логу Enigma2"
+
+#: ../plugin.py:1080
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr "Видаляти логи помилок старше 7 днів..."
+
+#: ../plugin.py:1121
+msgid "stopping swap for "
+msgstr "зупинка файлу підкачки на "
+
+#: ../plugin.py:1121
+msgid "swapfile was deleted successfully"
+msgstr "файл підкачки видалено"
+
+#: ../plugin.py:1122
+#: ../plugin.py:1138
+msgid "VTI create SwapFile"
+msgstr "Cтворити swap-файл"
+
+#: ../plugin.py:1124
+msgid "no swapfile active..."
+msgstr "нема активного файлу підкачки..."
+
+#: ../plugin.py:1136
+msgid "swapfile was created successfully"
+msgstr "файл підкачки створено"
+
+#: ../plugin.py:1158
+msgid "VTI IPK Uninstall"
+msgstr "Видалення IPK"
+
+#: ../plugin.py:1164
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr "Видалення IPK, ігнорувати залежності"
+
+#: ../plugin.py:1172
+msgid "Stop Cam"
+msgstr "Стоп CAM"
+
+#: ../plugin.py:1173
+msgid "Start Cam"
+msgstr "Старт CAM"
+
+#: ../plugin.py:1174
+msgid "Restart Cam"
+msgstr "Перезапуск CAM"
+
+#: ../plugin.py:1175
+msgid "Manage Cams"
+msgstr "Управління CAM"
+
+#: ../plugin.py:1176
+msgid "Select Cam and press OK to activate"
+msgstr "Виберіть CAM та нажміть OK, щоб активувати"
+
+#: ../plugin.py:1337
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr "Нема активних CAM модулів! Не вдається перезапустити поточний CAM модуль"
+
+#: ../plugin.py:1346
+msgid "cam info : "
+msgstr "Інформація о СAM: "
+
+#: ../plugin.py:1346
+msgid " -- "
+msgstr " --"
+
+#: ../plugin.py:1355
+msgid "Starting cam : "
+msgstr "Запуск CAM: "
+
+#: ../plugin.py:1363
+msgid "Stopping cam : "
+msgstr "Зупинка CAM: "
+
+#: ../plugin.py:1365
+msgid "Restarting cam : "
+msgstr "Перезавантаження СAM:"
+
+#: ../plugin.py:1421
+msgid "Video"
+msgstr "Відео"
+
+#: ../plugin.py:1422
+msgid "Audio"
+msgstr "Аудіо"
+
+#: ../plugin.py:1423
+msgid "Min"
+msgstr "Мін."
+
+#: ../plugin.py:1424
+msgid "Max"
+msgstr "Макс."
+
+#: ../plugin.py:1425
+msgid "Current"
+msgstr "Поточне"
+
+#: ../plugin.py:1426
+msgid "Average"
+msgstr "Середнє"
+
+#: ../plugin.py:1491
+msgid "Reload"
+msgstr "Перезавантажити"
+
+#: ../plugin.py:1492
+msgid "Download or delete Cam"
+msgstr "Встановлення або видалення CAM-модулів"
+
+#: ../plugin.py:1508
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Після натиснення кнопки OK, будь ласка, зачекайте!"
+
+#: ../plugin.py:1551
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Йде завантаження списку пакетів. Будь ласка, зачекайте..."
+
+#: ../plugin.py:1551
+msgid "Package list update"
+msgstr "Оновлення списку пакетів"
+
+#: ../plugin.py:1555
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Виникли помилки при завантаженні списку пакетів. Будь ласка, спробуйте ще раз."
+
+#: ../plugin.py:1555
+msgid "Error"
+msgstr "Помилка"
+
+#: ../plugin.py:1580
+msgid "Do you want to remove the package:\n"
+msgstr "Ви хочете видалити пакет:\n"
+
+#: ../plugin.py:1584
+msgid "Do you want to upgrade the package:\n"
+msgstr "Вы хочете обновити пакет:\n"
+
+#: ../plugin.py:1588
+msgid "Do you want to install the package:\n"
+msgstr "Вы хочете встановити пакет:\n"
+
+#: ../plugin.py:1707
+msgid "Change Root Password"
+msgstr "Зміна паролю користувача root"
+
+#: ../plugin.py:1720
+msgid "Set Password"
+msgstr "Встановлення паролю"
+
+#: ../plugin.py:1721
+msgid "new Random"
+msgstr "Випадково"
+
+#: ../plugin.py:1722
+msgid "virt. Keyboard"
+msgstr "Вірт. клав-ра"
+
+#: ../plugin.py:1742
+msgid "Enter new Password"
+msgstr "Введіть новий пароль"
+
+#: ../plugin.py:1758
+#, python-format
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+"Пароль користувача root успішно змінено на:\n"
+"%s "
+
+#: ../plugin.py:1760
+msgid "Unable to change/reset password for root user"
+msgstr "Неможливо змінити/скинути пароль для користувача root"
+
+#: ../plugin.py:1782
+msgid "Enter your password here:"
+msgstr "Введіть свій пароль:"
+
+#: ../plugin.py:1861
+msgid "Manage your VU+ Team Image"
+msgstr "Керування Вашою прошивкою"
+
+#: ../ntpserver.py:47
+msgid "NTP server "
+msgstr "NTP-сервер"
+
+#: ../ntpserver.py:47
+msgid " is activated."
+msgstr "активован."
+
+#: ../ntpserver.py:51
+msgid "NTP-Server Country Selection"
+msgstr "Вибір країни NTP-серверу"
+
+#: ../ntpserver.py:78
+msgid "NTP-Server Contenant Selection"
+msgstr "Вібір континенту NTP-серверу"
+
+#: ../BackupRestore.py:73
+#: ../BackupRestore.py:88
+#: ../BackupRestore.py:90
+msgid "VTI-Backup is running..."
+msgstr "Рез. копіювання запущено..."
+
+#: ../BackupRestore.py:93
+#: ../BackupRestore.py:95
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Вибачте, але місцезнаходження для резервних копій недоступно для запису.\n"
+"Будь ласка, виберіть інше місцезнаходження."
+
+#: ../BackupRestore.py:112
+#: ../BackupRestore.py:192
+#: ../BackupRestore.py:321
+#: ../ExeManager.py:203
+#: ../ExeManager.py:265
+#: ../ExeManager.py:339
+#: ../CronManager.py:235
+#: ../CronManager.py:353
+#: ../CronManager.py:445
+msgid "Cancel"
+msgstr "Відмінити"
+
+#: ../BackupRestore.py:145
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr "Вибір файлів та папок для рез. копіювання"
+
+#: ../BackupRestore.py:150
+msgid "Deselect"
+msgstr "Зняти виділення"
+
+#: ../BackupRestore.py:152
+msgid "Select"
+msgstr "Виділити"
+
+#: ../BackupRestore.py:193
+#: ../BackupRestore.py:322
+msgid "Restore"
+msgstr "Відновити"
+
+#: ../BackupRestore.py:194
+#: ../BackupRestore.py:323
+#: ../ExeManager.py:114
+#: ../CronManager.py:150
+msgid "Delete"
+msgstr "Видалити"
+
+#: ../BackupRestore.py:224
+#: ../BackupRestore.py:353
+msgid "VTI-Restore backups"
+msgstr "Відновлення"
+
+#: ../BackupRestore.py:242
+#: ../BackupRestore.py:371
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Ви впевнені, що хочете відновити\n"
+"після резервного копіювання:\n"
+
+#: ../BackupRestore.py:242
+#: ../BackupRestore.py:371
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Систему буде перезавантажено після відновлення!"
+
+#: ../BackupRestore.py:250
+msgid "Restore running"
+msgstr "Відновлення запущено"
+
+#: ../BackupRestore.py:256
+#: ../BackupRestore.py:399
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Ви впевнені, що хочете видалити\n"
+"після резервного копіювання:\n"
+
+#: ../BackupRestore.py:293
+#: ../BackupRestore.py:303
+msgid "VTI-Restore is running..."
+msgstr "Відновлення запущено..."
+
+#: ../BackupRestore.py:301
+msgid "Restore is running..."
+msgstr "Відновлення запущено..."
+
+#: ../BackupRestore.py:393
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or ultimo ."
+msgstr ""
+"Прошивку не знайдено! \n"
+"Будь ласка, скопіюйте прошивку на USB чи в папку /media/hdd/vuplus/duo"
+
+#: ../ExeManager.py:107
+#: ../ExeManager.py:184
+msgid "Execute: "
+msgstr "Виконати:"
+
+#: ../ExeManager.py:108
+#: ../ExeManager.py:161
+msgid "VTI ExeManager"
+msgstr "VTI менеджер *.exe"
+
+#: ../ExeManager.py:115
+#: ../CronManager.py:151
+msgid "Add"
+msgstr "Додати"
+
+#: ../ExeManager.py:116
+#: ../CronManager.py:152
+msgid "Modify"
+msgstr "Модифікувати"
+
+#: ../ExeManager.py:117
+#: ../CronManager.py:153
+msgid "Execute"
+msgstr "Виконати"
+
+#: ../ExeManager.py:155
+#, python-format
+msgid "File %s was not found"
+msgstr "Файл %s не було знайдено"
+
+#: ../ExeManager.py:158
+#, python-format
+msgid "File %s is not executable"
+msgstr "Файл %s не був виконуваним"
+
+#: ../ExeManager.py:164
+#: ../CronManager.py:187
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Команду: %s було виконано"
+
+#: ../ExeManager.py:195
+msgid "your executable"
+msgstr "ваш виконуваний файл"
+
+#: ../ExeManager.py:197
+#: ../ExeManager.py:259
+msgid "no"
+msgstr "ні"
+
+#: ../ExeManager.py:197
+#: ../ExeManager.py:259
+msgid "yes"
+msgstr "так"
+
+#: ../ExeManager.py:198
+msgid "Add a executable to ExeManager"
+msgstr "Додати виконуваний файл в менеджер *.exe"
+
+#: ../ExeManager.py:218
+#: ../ExeManager.py:280
+#: ../CronManager.py:250
+#: ../CronManager.py:368
+msgid "Command to execute : "
+msgstr "Команда на виконання:"
+
+#: ../ExeManager.py:219
+#: ../ExeManager.py:281
+#: ../CronManager.py:251
+msgid "Additional command options : "
+msgstr "Додаткові опції команд:"
+
+#: ../ExeManager.py:220
+#: ../ExeManager.py:282
+msgid "Show command output : "
+msgstr "Показати вивід команд:"
+
+#: ../ExeManager.py:260
+msgid "Modify execute command"
+msgstr "Модифікувати виконувані команди"
+
+#: ../ExeManager.py:334
+msgid "Select a file to execute"
+msgstr "Выбрати файл на виконання"
+
+#: ../ExeManager.py:340
+#: ../CronManager.py:446
+msgid "OK"
+msgstr "Ок"
+
+#: ../ExeManager.py:347
+#: ../ExeManager.py:418
+#: ../CronManager.py:453
+#: ../CronManager.py:524
+msgid "Invalid Choice"
+msgstr "Невірний вибір"
+
+#: ../ExeManager.py:355
+#: ../ExeManager.py:407
+#: ../CronManager.py:461
+#: ../CronManager.py:513
+msgid "File is not executable"
+msgstr "Файл не виконуваний"
+
+#: ../ExeManager.py:408
+#: ../CronManager.py:514
+msgid "chmod 755"
+msgstr ""
+
+#: ../CronManager.py:144
+msgid "VTI CronManager"
+msgstr "VTI менеджер cron"
+
+#: ../CronManager.py:224
+msgid "your cronjob"
+msgstr "Ваша задача cron"
+
+#: ../CronManager.py:230
+msgid "Add a job to CronManager"
+msgstr "Додати задачу до менеджеру cron"
+
+#: ../CronManager.py:252
+#: ../CronManager.py:369
+msgid "Input minute : "
+msgstr "Ввести хвилину:"
+
+#: ../CronManager.py:253
+#: ../CronManager.py:370
+msgid "Input hour : "
+msgstr "Ввести годину:"
+
+#: ../CronManager.py:254
+#: ../CronManager.py:371
+msgid "Input day : "
+msgstr "Ввести день"
+
+#: ../CronManager.py:255
+#: ../CronManager.py:372
+msgid "Input month : "
+msgstr "Ввести місяць:"
+
+#: ../CronManager.py:256
+#: ../CronManager.py:373
+msgid "Input weekday : "
+msgstr "Ввести день тижня:"
+
+#: ../CronManager.py:348
+msgid "Modify a CronManager job"
+msgstr "Модифікувати задачу у менеджері cron"
+
+#: ../CronManager.py:440
+msgid "Select a executable file for a cronjob"
+msgstr "Вибрати виконуваний файл для задачі cron"
+
