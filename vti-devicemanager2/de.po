@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VTI Device Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-05 09:22+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: plnick\n"
+"Language-Team: \n"
+"Language: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "DeviceManager Message"
+msgstr "Gerätemanager Nachricht"
+
+msgid "Exit"
+msgstr "Beenden"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "DeviceManager"
+msgstr "Gerätemanager"
+
+msgid "Initialize"
+msgstr "Initialisiere"
+
+msgid "Show mounts"
+msgstr "Zeige Mounts"
+
+msgid "Size : "
+msgstr "Größe :"
+
+msgid "Model : "
+msgstr "Model :"
+
+msgid "Vendor : "
+msgstr "Hersteller :"
+
+msgid "Format"
+msgstr "Formatieren"
+
+msgid "Loading, please wait ..."
+msgstr "Lade, bitte warten..."
+
+msgid "not mounted"
+msgstr "nicht eingehängt"
+
+msgid "Umount"
+msgstr "Aushängen"
+
+msgid "Mount"
+msgstr "Einhängen"
+
+msgid "Check"
+msgstr "Überprüfe"
+
+#, python-format
+msgid ""
+"Mount path %s\n"
+"is already in use. Please umount current device first"
+msgstr ""
+"Der Pfad %s\n"
+"wird bereits verwendet. Bitte das aktuelle Gerät aushängen"
+
+msgid "Insert mount point:"
+msgstr "Füge Mountpunkt ein:"
+
+msgid "/media/custom"
+msgstr "/media/BENUTZERDEFINIERT"
+
+msgid "default mount point for hdd"
+msgstr "Standardpfad für die erste Festplatte"
+
+msgid "recommended for USB flash memory"
+msgstr "empfohlen für USB Sticks"
+
+msgid "user defined"
+msgstr "benutzerdefiniert"
+
+msgid "Formatting, please wait ..."
+msgstr "Formatiere, bitte warten ..."
+
+#, python-format
+msgid "Device : /dev/%s"
+msgstr "Gerät : %s"
+
+#, python-format
+msgid "Filesystem : %s"
+msgstr "Dateisystem : %s"
+
+#, python-format
+msgid "Size : %s MB"
+msgstr "Größe : %s MB"
+
+#, python-format
+msgid ""
+"Do you really want to initialize your device ?\n"
+"\n"
+"ATTENTION !!!\n"
+"\n"
+"This will delete all data on device %s (/dev/%s)"
+msgstr ""
+"Wollen Sie das Geräte wirklich initialisieren ?\n"
+"\n"
+"ACHTUNG !!!\n"
+"\n"
+"Dies wird den kompletten Inhalt des Gerätes %s (/dev/%s) löschen"
+
+msgid "Partitioning, please wait ..."
+msgstr "Partitioniere, bitte warten ..."
+
+msgid "One partition"
+msgstr "Eine Partition"
+
+msgid "Two partitions (50% / 50%)"
+msgstr "Zwei Partitionen (50% - 50%)"
+
+msgid "Two partitions (75% / 25%)"
+msgstr "Zwei Partitionen (75% - 25%)"
+
+msgid "Three partitions (33% / 33% / 33%)"
+msgstr "Drei Partitionen (33% - 33% - 33%)"
+
+msgid "Four partitions (25% / 25% / 25% / 25%)"
+msgstr "Vier Partitionen (25% - 25% - 25% - 25%)"
+
+msgid "Two partitions (1% / 99%)"
+msgstr "Zwei Partitionen (1% - 99%)"
+
+msgid "ext2"
+msgstr "ext2"
+
+msgid "ext4"
+msgstr "ext4"
+
+msgid "recommended for harddisks"
+msgstr "empfohlen für Festplatten"
+
+msgid "ext3"
+msgstr "ext3"
+
+msgid "fat"
+msgstr "fat"
+
+msgid "for USB flash memory"
+msgstr "für USB Sticks"
+
+msgid "Check filesystem, please wait ..."
+msgstr "Überprüfe Dateisystem, bitte warten ..."
+
+msgid "not formatted"
+msgstr "nicht formatiert"
+
+msgid "Filesystem : "
+msgstr "Dateisystem :"
+
+msgid "Mountpoint : "
+msgstr "Mountpunkt :"
+
+msgid "Device: "
+msgstr "Gerät:"
+
+msgid "There are no mounted devices"
+msgstr "Es sind keine Geräte gemountet"
+
+#, python-format
+msgid ""
+"Can not umount all partitions of /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+"Es können nicht alle Partitionen des Geräts /dev/%s ausgehängt werden.\n"
+"Eventuell sind Dateien auf diesem Gerät geöffnet."
+
+#, python-format
+msgid "Can not change partition table of /dev/%s."
+msgstr "Partitionstabelle von /dev/%s konnte nicht geändert werden."
+
+#, python-format
+msgid "Can not refresh partition table of /dev/%s."
+msgstr "Partitionstablelle von /dev/%s konnte nicht aktualisiert werden"
+
+#, python-format
+msgid ""
+"Error at formatting /dev/%s.\n"
+"Please check your device"
+msgstr ""
+"Fehler bei der Formatierung von /dev/%s\n"
+"Bitte das Gerät überprüfen"
+
+#, python-format
+msgid ""
+"Error at remount of all partitions at /dev/%s\n"
+" Please check your mounts and remount manually"
+msgstr ""
+"Fehler bei der Wiedereinbindung der Partitionen von /dev/%s. Bitte "
+"überprüfen Sie Ihre Dateisystemeinbindungen."
+
+#, python-format
+msgid ""
+"Can not mount device /dev/%s.\n"
+"Please check correct mount path and filesystem"
+msgstr ""
+"Die Partition /dev/%s konnte nicht\n"
+"eingehängt werden.Bitte das Dateisystem und den Pfad überprüfen."
+
+#, python-format
+msgid ""
+"Can not umount device /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+"Die Partition  /dev/%s konnte nicht ausgehängt werden.\n"
+"Eventuell sind Dateien auf dieser Partition geöffnet."
+
+#, python-format
+msgid ""
+"Error at umounting all partitions at device /dev/%s\n"
+"Initializing was cancelled"
+msgstr ""
+"Fehler beim Aushängen von Partitionen des Gerätes /dev/%s\n"
+"Die Initialisierung wurde abgebrochen"
+
+#, python-format
+msgid "Error at partitioning device /dev/%s"
+msgstr "Fehler bei der Partitionierung von /dev/%s"
+
+msgid "Create filesystem, please wait ..."
+msgstr "Erstelle Dateisystem, bitte warten"
+
+#, python-format
+msgid "Partition : %s"
+msgstr "Partition : %s"
+
+#, python-format
+msgid ""
+"Error at creating filesystem at device %s\n"
+"Please create filesystem manually"
+msgstr ""
+"Fehler bei der Erzeugung des Dateisystems %s\n"
+"Bitte das Dateisystem manuell erzeugen."
+
+msgid "Filesystem check finished sucessfully"
+msgstr "Dateisystemprüfung ohne Fehler beendet"
+
+msgid "Error checking disk. The disk or filesystem may be damaged"
+msgstr ""
+"Dateisystemüberprüfung mit Fehlern beendet.\n"
+"Das Laufwerk oder Dateisystem könnte beschädigt sein oder der "
+"Arbeitsspeicher Ihrer STB reicht für die Überprüfung nicht aus"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "DeviceManager configuration"
+msgstr "Gerätemanager Einstellungen"
+
+msgid "Enable mount check for HDD"
+msgstr "Aktiviere Überprüfung auf nicht gemountete Geräte"
+
+msgid "Harddisk standby after"
+msgstr "Festplatten-Standby nach"
+
+msgid "Mount known devices automatically"
+msgstr "Mounte bekannte Geräte automatisch"
+
+msgid "Really close without saving settings?"
+msgstr "Einstellungen oder zu speichern verlassen ?"
+
+msgid ""
+"There are plugged in storage devices without a mount point !\n"
+"Please check mount points of all devices\n"
+"\n"
+"Open DeviceManager and press MENU button to deactivate this check.\n"
+"\n"
+"Do you want to open DeviceManager ?"
+msgstr ""
+"Es wurden installierte Speichergeräte gefunden, die keine gemounteten "
+"Partitionen aufweisen !\n"
+"Bitte überprüfen Sie die Mountpunkte der angeschlossenen Speichergeräte\n"
+"\n"
+"Um diese Überprüfung zu deaktivieren drücken Sie bitte die MENÜ Taste im "
+"Gerätemanager.\n"
+"\n"
+"Möchten Sie den Gerätemanager öffnen ?"
+
+msgid "manage block devices of your VU+"
+msgstr "verwaltet Speichermedien der Vu+ STB"
+
+#~ msgid "experimental"
+#~ msgstr "experimentell"
+
+#~ msgid "Enable hotplug actions"
+#~ msgstr "Aktiviere hotplug Funktionalität"
+
+#~ msgid ""
+#~ "Can not umount all partitions of /dev/%s.\n"
+#~ "A record in progress, timeshift or some external tools\n"
+#~ "(like samba and nfsd) may cause this problem.\n"
+#~ "\n"
+#~ "Please stop this actions/applications and try again"
+#~ msgstr ""
+#~ "Es konnten nicht alle Partitionen des Gerätes /dev/%s\n"
+#~ "ausgehängt werden. Es könnte eine Aufnahme / Timeshift aktiviert sein\n"
+#~ "oder andere Anwendungen wie CIFS oder NFS belegen das Laufwerk\n"
+#~ "\n"
+#~ "Bitte beenden Sie diese Aktionen/Anwendungen vorher und versuchen Sie es "
+#~ "erneut"
+
+#~ msgid ""
+#~ "Can not umount device /dev/%s.\n"
+#~ "A record in progress, timeshift or some external tools\n"
+#~ "(like samba and nfsd) may cause this problem.\n"
+#~ "\n"
+#~ "Please stop this actions/applications and try again"
+#~ msgstr ""
+#~ "Das Gerätes /dev/%s konnte nicht ausgehängt werden\n"
+#~ "Es könnte eine Aufnahme / Timeshift aktiviert sein\n"
+#~ "oder andere Anwendungen wie CIFS oder NFS belegen das Laufwerk\n"
+#~ "\n"
+#~ "Bitte beenden Sie diese Aktionen/Anwendungen vorher und versuchen Sie es "
+#~ "erneut"
+
+#~ msgid "DeviceManager2"
+#~ msgstr "Gerätemanager2"
