@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FanControl2\n"
+"POT-Creation-Date: 2011-08-20 18:11+Mitteleuropäische Sommerzeit\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roxy <vro@wo.cz>\n"
+"Language-Team: joergm6 <joergm6@online.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: cs\n"
+
+msgid "%s   %02d C"
+msgstr "%s   %02d C"
+
+msgid "."
+msgstr ","
+
+msgid "3Pin"
+msgstr "3 piny (napětí)"
+
+msgid "4Pin"
+msgstr "4 piny (otáčky)"
+
+msgid "Action in case of Fan failure"
+msgstr "Akce v případě, že se ventilátor nerozjede"
+
+msgid "Auto-Delete Data older than (Days)"
+msgstr "Aut.odstranit starsi data (nez x dnu)"
+
+msgid "Auto-Delete older %s Days"
+msgstr "Aut.odstraneni starsich dat nez %s dnu"
+
+msgid "Box Shutdown"
+msgstr "Vypnout sat.přijímač"
+
+msgid "Box has no fancontrol hardware -> FC2 deactivated"
+msgstr "Sat.přijímač nemá hardware pro fancontrol -> FC2 bude deaktivovaný"
+
+msgid "Box shutdown at Temperature (C)"
+msgstr "Sat.přijímač se vypne po překročení teploty (C) !"
+
+msgid "Cancel"
+msgstr "Storno"
+
+msgid "Check"
+msgstr "Kontrola"
+
+msgid "Choose path"
+msgstr "Zadejte cestu"
+
+msgid "Control disabled"
+msgstr "Zakázáno"
+
+msgid "Current rpm  %4d"
+msgstr "aktuální otáčky:  %4d"
+
+msgid "Current value: %s"
+msgstr "akt./max.  :  %s"
+
+msgid "Delete"
+msgstr "Odstranit"
+
+msgid "Delete older 48h"
+msgstr "Odstranit starsi jak 48hod"
+
+msgid "Disk free : %d MByte"
+msgstr "Volne misto na disku : %d MB"
+
+msgid "Download"
+msgstr "Stahnout"
+
+msgid "Enable Data Logging"
+msgstr "Povolit sledování dat"
+
+msgid "Enable Event Logging"
+msgstr "Povolit sledování událostí"
+
+msgid "End temperature C"
+msgstr "konečná teplota C:"
+
+msgid "Extended Control Range"
+msgstr "Rozšířený rozsah regulace"
+
+msgid "Fan is not working!"
+msgstr "Ventilátor nepracuje !"
+
+msgid "Fan off in Standby"
+msgstr "vypnout v režimu spánku :"
+
+msgid "Fan type"
+msgstr "typ ventilátoru :"
+
+msgid "FanControl2 emergency, Box Shutdown now?"
+msgstr "FanControl2 hlásí nebezpečí přehřátí, vypnout sat.přijímač ?"
+
+msgid "File %s does not exists"
+msgstr "Soubor %s neexistuje !"
+
+msgid "Filesize : %d %sByte"
+msgstr "Velikost souboru : %d %sB"
+
+msgid ""
+"GUI needs a restart to apply the changes.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Aby se změny zaktualizovaly, je nutné restartovat Enigmu.\n"
+"Spustit restart nyní ?"
+
+msgid "Help"
+msgstr "Nápověda"
+
+msgid "Information"
+msgstr "Informace"
+
+msgid "Initial PWM"
+msgstr "start.modulace:"
+
+msgid "Initial Voltage"
+msgstr "start.napětí:"
+
+msgid "Logging path"
+msgstr "Cesta pro log.soubor"
+
+msgid "Logging-Path: %s"
+msgstr "Cesta pro log.soubor: %s"
+
+msgid "Max Fan %d rpm at PWM=255 (%s)"
+msgstr "Max. %d otáček při modulaci=255 (%s)"
+
+msgid "Max Fan %d rpm at PWM=255 and VLT=255 (%s)"
+msgstr "Max. %d otáček při modulaci=255 a napětí=255 (%s)"
+
+msgid "Max Fan %d rpm at VLT=255 (%s)"
+msgstr "Max. %d otáček při napětí=255 (%s)"
+
+msgid "Min Fan Start %d rpm at PWM=%d"
+msgstr "Min. %d startovacích otáček při modulaci=%d"
+
+msgid "Min Fan Start %d rpm at VLT=%d"
+msgstr "Min. %d startovacích otáček při napětí=%d"
+
+msgid "Min Fan Start %d rpm at VLT=%d and PWM=0"
+msgstr "Min. %d startovacích otáček při napětí=%d a modulaci=0"
+
+msgid "Min Fan Stop %d rpm at PWM=%d (%s)"
+msgstr "Min. %d otáček pro zastavení při modulaci=%d (%s)"
+
+msgid "Min Fan Stop %d rpm at VLT=%d (%s)"
+msgstr "Min. %d otáček pro zastavení při napětí=%d (%s)"
+
+msgid "Min Fan Stop %d rpm at VLT=%d and PWM=0 (%s)"
+msgstr "Min. %d otáček pro zastavení při napětí=%d a modulaci=0 (%s)"
+
+msgid "Number of WebIF-Log-Entries"
+msgstr "Počet zadání pro WebIF-Log"
+
+msgid "PWM  %03d"
+msgstr "modulace:  %03d"
+
+msgid "PWM: %03d"
+msgstr "mod: %03d"
+
+msgid "Restart GUI now?"
+msgstr "Restartovat Enigmu nyní ?"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Sensors"
+msgstr "Senzory"
+
+msgid "Show Fan Speed as"
+msgstr "Zobrazit rychlost ventilátoru jako "
+
+msgid "Show Monitor in Extension-Menu"
+msgstr "Zobrazit monitor v rozšířeném menu"
+
+msgid "Show Plugin in Extension-Menu"
+msgstr "Zobrazit modul v rozšířeném menu"
+
+msgid "Speed"
+msgstr "Otacky"
+
+msgid "Static temp C"
+msgstr "teplota v klidu C:"
+
+msgid "Target rpm  %4d"
+msgstr "poč.otáčky:  %4d"
+
+msgid "Temperature"
+msgstr "Teplota"
+
+msgid "Temperature C  %4.1f"
+msgstr "teplota C:  %4.1f"
+
+msgid "Voltage"
+msgstr "Napeti"
+
+msgid "Voltage  %03d"
+msgstr "napětí: %03d"
+
+msgid "active"
+msgstr "aktivni"
+
+msgid "auto"
+msgstr "automaticky"
+
+msgid "below Tunerslot 4"
+msgstr "spodní slot tuneru 4"
+
+msgid "currentRPM:%d targetRPM:%d Temp:%4.1f"
+msgstr "akt.otacky:%d, cil.otacky:%d, teplota:%4.1f"
+
+msgid "disable DMM-FanControl"
+msgstr "blokovat DMM-Fancontrol"
+
+msgid "disabled"
+msgstr "blokovat"
+
+msgid "display Info"
+msgstr "Zobrazit info"
+
+msgid "do nothing"
+msgstr "nic"
+
+msgid "increases overheating protection to (C)"
+msgstr "Zvýšit ochranu před přehřátím o (C)"
+
+msgid "left near Card-Slot"
+msgstr "vlevo od slotu karty"
+
+msgid "left near Front-CI"
+msgstr "vlevo od předního CI"
+
+msgid "left of the Battery"
+msgstr "vlevo od baterie"
+
+msgid "max Speed rpm"
+msgstr "max.otáčky:"
+
+msgid "min Speed rpm"
+msgstr "min.otáčky:"
+
+msgid "near XILINX Spartan"
+msgstr "blízko XILINX Spartan"
+
+msgid "never"
+msgstr "nikdy"
+
+msgid "no"
+msgstr "ne"
+
+msgid "not active"
+msgstr "neni aktivni"
+
+msgid "over Security Card"
+msgstr "nad bezpečnostní kartou"
+
+msgid "please set fan type (3Pin or 4Pin)"
+msgstr "Nastavte typ ventilátoru (3pin nebo 4pin)"
+
+msgid "please wait (until 3min)..."
+msgstr "Čekejte, prosím (max. 3 min.)..."
+
+msgid "press Info for HDD-Temp"
+msgstr "Stiskněte Info pro teplotu disku"
+
+msgid "read HDD-Temperature in HDD-Standby-Mode"
+msgstr "Načíst teplotu disku v pohotovostním režimu"
+
+msgid "readme.txt"
+msgstr "readme.txt"
+
+msgid "turn off"
+msgstr "Vypnout"
+
+msgid "turn on"
+msgstr "zapnout"
+
+msgid "under the Fan"
+msgstr "pod ventilátorem"
+
+msgid "under the WLAN"
+msgstr "pod WLAN sítí"
+
+msgid "yes"
+msgstr "ano"
+
+msgid "yes, Except for Recording or HDD"
+msgstr "vypnout (ne při nahrávání)"
+
+msgid "Fan Control"
+msgstr "Automatická regulace ventilátoru"
+
+msgid "Settings"
+msgstr "Nastaveno"
+
+msgid "Version"
+msgstr "Verze"
+
+msgid "rpm"
+msgstr "ot/min"
+
+msgid "PWM"
+msgstr "Mod"
+
+msgid "Vlt"
+msgstr "Nap"
+
+msgid "Pwm"
+msgstr "Mod"
+
+msgid "Fan"
+msgstr "Vent"

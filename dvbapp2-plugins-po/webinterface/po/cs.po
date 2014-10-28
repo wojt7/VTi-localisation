@@ -1,0 +1,885 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-plugins-extension-webinterface\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-31 18:34+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roxy <vro@wo.cz>\n"
+"Language-Team:  <stephan@reichholf.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ../src\n"
+"X-Poedit-SearchPath-1: ../src/WebChilds\n"
+"X-Poedit-SearchPath-2: ../src/WebComponents/Converter\n"
+"X-Poedit-SearchPath-3: ../src/WebComponents/Sources\n"
+
+msgid "%d error while moving Movie '%s' to '%s': %s"
+msgstr "%d chyba při přesunu videa '%s' do '%s': %s"
+
+msgid "%s of %s min"
+msgstr "%s z %s min"
+
+msgid ""
+"'%s' already exists in destination directory '%s', set force=1 to move "
+"anyway."
+msgstr ""
+"'%s' již existuje v cílové složce '%s', nastavená 'hodnota=1' vždy pro "
+"přesun."
+
+msgid "'%s' does not exist in source directory."
+msgstr "'%s' neexistuje ve zdrojové složce !"
+
+msgid "'%s' has been added to playlist"
+msgstr "'%s' bylo přidáno do seznamu přehrávek"
+
+msgid "'%s' is neither a valid reference nor a valid file"
+msgstr "'%s' není platný odkaz ani platný soubor"
+
+msgid "'%s' not found in playlist"
+msgstr "'%s' nebylo nalezeno v seznamu přehrávek"
+
+msgid "'%s' removed from playlist"
+msgstr "'%s' bylo odstraněno ze seznamu přehrávek"
+
+msgid "AC3 Downmix disabled"
+msgstr "AC3 Downmix je zakázaný"
+
+msgid "AC3 Downmix enabled"
+msgstr "AC3 Downmix je povolený"
+
+msgid "About"
+msgstr "O prg..."
+
+msgid "Action"
+msgstr "Akce"
+
+msgid "Activate"
+msgstr "Aktivace"
+
+msgid "Active service is now '%s'"
+msgstr "Aktivovaná služba je nyní '%s'"
+
+msgid "Add %s to playlist"
+msgstr "Přidáno %s do seznamu přehrávek"
+
+msgid "Add Timer"
+msgstr "Přidat tento časovač"
+
+msgid "Add Zap Timer"
+msgstr "Obnovit časovače"
+
+msgid "After event"
+msgstr "Po události"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "All Timers"
+msgstr "Všechny časovače"
+
+msgid "Allow zapping via Webinterface"
+msgstr "Povolit přepínání přes webové rozhraní"
+
+msgid "Authors"
+msgstr "Autorizace"
+
+msgid "Auto"
+msgstr "automaticky"
+
+msgid "Autowrite timer"
+msgstr "Časovač s aut.zápisem"
+
+msgid "Begins"
+msgstr "Začíná v "
+
+msgid "Bouquets"
+msgstr "Sada kanálů"
+
+msgid "BoxControl"
+msgstr "Nastavení"
+
+msgid "Cancel"
+msgstr "Storno"
+
+msgid "Cannot zap while device is in Standby"
+msgstr "Nelze zapnout, pokud je zařízení v režimu spánku"
+
+msgid "Capacity"
+msgstr "Kapacita"
+
+msgid "Challenge executed, please verify the result!"
+msgstr "Upozornění - zkontrolujte si výsledek !"
+
+msgid "Change to %s"
+msgstr "Otevřít :  %s"
+
+msgid "Changing the timer for '%s' failed!"
+msgstr "Změna časovače '%s' selhala !"
+
+msgid "Channel"
+msgstr "Kanál"
+
+msgid "Cleans up the list of timers by removing e.g. finished timers"
+msgstr "Vyčistit seznam časovačů např. odebráním dokončených hotových nahrávek"
+
+msgid "Cleanup"
+msgstr "Vyčistit"
+
+msgid "Clear search"
+msgstr "Vyhledat prázdné"
+
+msgid "Click to show/hide extended description"
+msgstr "Kliknutím zobrazit / skrýt rozšířený popis"
+
+msgid "Close MediaPlayer"
+msgstr "Zavřít Mediaplayer"
+
+msgid "Command '%s' executed"
+msgstr "Příkaz '%s' byl provedený"
+
+msgid "Configuration for the Webinterface"
+msgstr "Konfigurace webového rozhraní"
+
+msgid "Conflicting Timer(s) detected! %s"
+msgstr "Detekovaný konflikt časovačů  %s"
+
+msgid "Could not add timer '%s'!"
+msgstr "Časovač '%s' nelze přidat !"
+
+msgid "Could not delete Movie '%s'"
+msgstr "Video '%s' nelze odstranit !"
+
+msgid "Could not find timer '%s' with given start and end time!"
+msgstr "Nelze najít časovač '%s' podle času začátku a konce ! "
+
+msgid "Create Timer"
+msgstr "Založit časovač"
+
+msgid "DHCP enabled"
+msgstr "DHCP je povolený"
+
+msgid "Days"
+msgstr "Ve dny"
+
+msgid "Deactivate"
+msgstr "Deaktivovat : "
+
+msgid "Deepstandby"
+msgstr "Hluboký spánek"
+
+msgid "Delete"
+msgstr "Odstranit"
+
+msgid "Delete %s"
+msgstr "Odstranit : %s"
+
+msgid "Delete Timer"
+msgstr "Odstranit časovač"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Destination dir '%s' does not exist."
+msgstr "Cílový složka '%s' neexistuje"
+
+msgid "Device & Versions"
+msgstr "Zařízení a verze..."
+
+msgid "Device Info"
+msgstr "Info o přijímači"
+
+msgid "Device Name"
+msgstr "Název sat.přijímače"
+
+msgid "Disable"
+msgstr "Deaktivováno"
+
+msgid "Do Nothing"
+msgstr "Nedělat nic"
+
+msgid "Down"
+msgstr "Dolů"
+
+msgid "Downlad %s"
+msgstr "Stáhnout : %s "
+
+msgid "Download"
+msgstr "Stáhnout"
+
+msgid "EPG-Search"
+msgstr "Hledat EPG"
+
+msgid "ERROR: Cannot set SleepTimer while device is in Standby-Mode"
+msgstr ""
+"Chyba : Nelze přepnout časovač do spánku, pokud je již zařízení v režimu "
+"spánku !"
+
+msgid "ERROR: Obligatory parameter 'cmd' [get,set] has unspecified value '%s'"
+msgstr ""
+"Chyba : Povinný parametr  'cmd' [get,set] není definovaný ! Hodnota '%s'"
+
+msgid ""
+"ERROR: Obligatory parameter 'enabled' [True,False] has unspecified value '%s'"
+msgstr "Chyba : Povinný parametr 'enabled' [True,False] nemá definovaný '%s'"
+
+msgid "ERROR: Obligatory parameter 'time' [0-999] is missing"
+msgstr "Chyba : Povinný parametr  'time' [0-999] chybí !"
+
+msgid "Edit Timer"
+msgstr "Upravit časovač"
+
+msgid "Enable"
+msgstr "Aktivivat"
+
+msgid "Enable /media"
+msgstr "Povolit /media"
+
+msgid "Enable Debug"
+msgstr "Povolit nastavení"
+
+msgid "Enable HTTP Access"
+msgstr "Povolit HTTP přístup"
+
+msgid "Enable HTTP Authentication"
+msgstr "Povolit HTTP přihlášení"
+
+msgid "Enable HTTPS Access"
+msgstr "Povolit HTTPS přístup"
+
+msgid "Enable HTTPS Authentication"
+msgstr "Povolit HTTPS přihlášení"
+
+msgid "Enable Streaming Authentication"
+msgstr "Povolit přihlášení streamu"
+
+msgid "Ends"
+msgstr "Končí v"
+
+msgid "Enigma2 Version"
+msgstr "Verze Enigma2"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Event with id %d not found"
+msgstr "Událost s ID %d nebyla nalezena !"
+
+msgid "EventId not found"
+msgstr "ID události nebylo nalezeno !"
+
+msgid "Extras"
+msgstr "Nástroje"
+
+msgid "False"
+msgstr "Chybné"
+
+msgid "Filebrowser"
+msgstr "Správce souborů"
+
+msgid "Filter Services"
+msgstr "Filtr kanálů"
+
+msgid "Finished"
+msgstr "Dokončeno"
+
+msgid "Free Space"
+msgstr "Volné místo"
+
+msgid "Frontprocessor Version"
+msgstr "Veze frontprocesoru"
+
+msgid "Gateway"
+msgstr "Brána"
+
+msgid "Get a Screenshot"
+msgstr "Sejmout obraz"
+
+msgid "Grab Video & OSD"
+msgstr "Video & OSD "
+
+msgid "HTTP Port"
+msgstr "HTTP port"
+
+msgid "HTTPS Port"
+msgstr "HTTPS port"
+
+msgid "Harddisk"
+msgstr "Harddisk"
+
+msgid "IP Address"
+msgstr "IP-adresa"
+
+msgid "Illegal Parameter Value: sRef - '%s'"
+msgstr "Neplatná hodnota parametru : sRef - '%s'"
+
+msgid "Illegal Parameter value for Parameter begin : '%s'"
+msgstr "Neplatná hodnota pro parametr začínající : '%s'"
+
+msgid "Illegal Parameter value for Parameter edit : '%s'"
+msgstr "Neplatná hodnota pro upravovaný parametr : '%s'"
+
+msgid "Image Version"
+msgstr "Verze Image"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Instant Record"
+msgstr "Okamžité nahrávání"
+
+msgid "JavaScript Libraries"
+msgstr "Knihovna pro JavaScript"
+
+msgid "LEVEL2 and LEVEL3 Certifcates (Base64-encoded)"
+msgstr "Certifikáty LEVEL2 a LEVEL3 (Base64-kódování)"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "List of Plugins has been read"
+msgstr "Seznam modulů byl načtený"
+
+msgid "List of Timers has been cleaned"
+msgstr "Seznam časovačů byl upravený"
+
+msgid "Load Bouquet"
+msgstr "Otevřít sadu kanálů..."
+
+msgid "Load movie-length"
+msgstr "Načíst délku videa"
+
+msgid "Location"
+msgstr "Umístění"
+
+msgid "Location '%s' added successfully"
+msgstr "Umístění '%s' bylo doplněno"
+
+msgid "Location '%s' does not exist"
+msgstr "Umístění '%s' neexistuje"
+
+msgid "Location '%s' is already existing"
+msgstr "Umístění '%s' již existuje"
+
+msgid "Location '%s' removed successfully"
+msgstr "Umístění '%s' bylo odstraněno"
+
+msgid "Lookup on IMDb.com"
+msgstr "Hledat v IMDb.com"
+
+msgid "Mac Address"
+msgstr "MAC adresa"
+
+msgid "Mediaplayer"
+msgstr "Přehrát video"
+
+msgid "Mediaplayer not installed"
+msgstr "Mediaplayer není nainstalovaný"
+
+msgid "Mediaplayer was not active"
+msgstr "Mediaplayer není aktivní"
+
+msgid "Message"
+msgstr "Zpráva :"
+
+msgid "Message sent successfully!"
+msgstr "Hlášení bylo odesláno!"
+
+msgid "Missing Parameter: begin"
+msgstr "Chybí parametr: begin"
+
+msgid "Missing Parameter: beginOld"
+msgstr "Chybí parametr: beginOld"
+
+msgid "Missing Parameter: channelOld"
+msgstr "Chybí parametr: channelOld"
+
+msgid "Missing Parameter: description"
+msgstr "Chybí parametr: description"
+
+msgid "Missing Parameter: end"
+msgstr "Chybí parametr: end"
+
+msgid "Missing Parameter: endOld"
+msgstr "Chybí parametr: endOld"
+
+msgid "Missing Parameter: eventid"
+msgstr "Chybí parametr: eventid"
+
+msgid "Missing Parameter: name"
+msgstr "Chybí parametr: name"
+
+msgid "Missing Parameter: sRef"
+msgstr "Chybí parametr: sRef"
+
+msgid "Missing Paramter: dirname"
+msgstr "Chybí : dirname"
+
+msgid "Missing or Wrong Argument"
+msgstr "Argument chybí nebo je vadný"
+
+msgid "Missing or invalid parameter file"
+msgstr "Parametr 'file' chybí nebo je vadný"
+
+msgid "Missing or wrong argument"
+msgstr "Argument chybí nebo je vadný"
+
+msgid "Missing value for parameter dirname"
+msgstr "Parametr 'dirname' chybí nebo je vadný"
+
+msgid "Movie '%s' deleted"
+msgstr "Video '%s' bylo odstraněno"
+
+msgid "Movie '%s' has unknown suffix '%s'."
+msgstr "Video '%s' má neznámou příponu  '%s'."
+
+msgid "Movie '%s' moved to '%s' without errors."
+msgstr "Video '%s' přesunuto do '%s' bez chyby."
+
+msgid "Movies"
+msgstr "Nahrané"
+
+msgid "Moving Movie '%s' to '%s' in background."
+msgstr "Přesun videa '%s' do '%s' na pozadí."
+
+msgid "Mute"
+msgstr "Vypnout zvuk"
+
+msgid "Mute toggled"
+msgstr "Přepínač vypnutí zvuku"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "Name"
+msgstr "Název"
+
+msgid "Netmask"
+msgstr "Síťová maska"
+
+msgid "Network Interface"
+msgstr "Rozhraní sítě"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "No Bouquets to Display"
+msgstr "Chybí sada kanálů pro zobrazení"
+
+msgid "No Messagetext given"
+msgstr "Textové hlášení chybí"
+
+msgid "No Service to show"
+msgstr "Žádný kanál se nedá zobrazit"
+
+msgid "No Timer Available!"
+msgstr "Žádný časovač není dostupný"
+
+msgid "No items to show..."
+msgstr "Žádné položky se nedají zobrazit..."
+
+msgid "No movies to show..."
+msgstr "Žádné video se nedá zobrazit..."
+
+msgid "Note: For one-time events the days don't have to be specified."
+msgstr "Pozn.: Pro jednorázové časovače se dny zadávat nemusí !"
+
+msgid "Note: For recurring events dates are not mandatory."
+msgstr "Pozn.: Pro vrácené události nejsou data povinná"
+
+msgid "Nothing found..."
+msgstr "Nebylo nic nalezeno..."
+
+msgid "Nothing running..."
+msgstr "Nebylo nic spuštěno..."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Obligatory parameter \"random\" for cmd=\"%s\" missing"
+msgstr "Povinný parametr  \"random\" pro cmd=\"%s\" chybí !"
+
+msgid "Obligatory parameter 'command' is missing!"
+msgstr "Povinný parametr 'command' chybí !"
+
+msgid "Obligatory parameter 'sRef' is missing"
+msgstr "Povinný parametr 'sRef' chybí !"
+
+msgid "Obligatory parameter sRef is missing"
+msgstr "Povinný parametr sRef chybí !"
+
+msgid ""
+"Obligatory parameters missing [cmd [set,get], time [0-999], action [standby,"
+"shutdown], enabled [True,False]"
+msgstr ""
+"Chybný povinný parametr [cmd [set,get], čas [0-999], akce [standby,"
+"shutdown], povolení [True,False]"
+
+msgid "Open Multi-EPG for %s"
+msgstr "Otevřít Multi-EPG pro %s"
+
+msgid "Open Signal Panel"
+msgstr "Panel signálů"
+
+msgid "OpenWebif Configuration"
+msgstr "Konfigurace webového rozhraní"
+
+msgid "Path %s can not be created"
+msgstr "Cesta %s nemůže být vytvořená !"
+
+msgid "Path %s does not exist"
+msgstr "Cesta %s neexistuje"
+
+msgid "Play"
+msgstr "Přehrát"
+
+msgid "Play %s"
+msgstr "Přehrát :  %s"
+
+msgid "Playback of '%s' started"
+msgstr "Přehrávání '%s' je spuštěno"
+
+msgid "Playlist"
+msgstr "Seznam přehrávek"
+
+msgid "Playlist '%s' does not exist"
+msgstr "Seznam přehrávek '%s' neexistuje !"
+
+msgid "Playlist for %s"
+msgstr "Seznam přehrávek pro %s"
+
+msgid "Playlist saved to '%s'"
+msgstr "Seznam přehrávek byl uložený do '%s' "
+
+msgid "Please select any bouquet"
+msgstr "...vyberte položku..."
+
+msgid "Power Control"
+msgstr "Pohotovost / Restart"
+
+msgid "Previous"
+msgstr "Předchozí"
+
+msgid "Providers"
+msgstr "Sat.operátor"
+
+msgid "RC command '%s' has been issued"
+msgstr "RC příkaz '%s' byl spuštěný"
+
+msgid "Radio"
+msgstr "Rádio"
+
+msgid "Reboot"
+msgstr "Restart systému"
+
+msgid "Record"
+msgstr "Záznam"
+
+msgid "Record current event"
+msgstr "Záznam aktuální události"
+
+msgid "Refresh Screenshot"
+msgstr "Obnovit snímek"
+
+msgid "Remove %s from playlist"
+msgstr "Odstranit %s ze seznamu přehrávek"
+
+msgid "Restart enigma2"
+msgstr "Restart Enigmy"
+
+msgid "Running"
+msgstr "Aktivováno"
+
+msgid "Satellites"
+msgstr "Satelity"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Save Playlist"
+msgstr "Uložit seznam přehrávek"
+
+msgid "Screenshot (All)"
+msgstr "Sejmout (obraz+info)"
+
+msgid "Screenshot (OSD)"
+msgstr "Sejmout (infopanel)"
+
+msgid "Screenshot (Video)"
+msgstr "Sejmout (obraz)"
+
+msgid "Search EPG"
+msgstr "Hledat EPG"
+
+msgid "Send"
+msgstr "Odeslat"
+
+msgid "Send Message"
+msgstr "Zprávu na obrazovku"
+
+msgid "Send \\\"long\\\" keypress"
+msgstr "Odeslat \\\"dlouhý\\\" stisk tlačítka"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Show EPG for %s"
+msgstr "Zobrazit EPG pro: %s"
+
+msgid "Show Setup in Extensions menu"
+msgstr "Zobrazit nastavení v rozšířeném menu"
+
+msgid "Shutdown"
+msgstr "Hluboký spánek - vypnutí"
+
+msgid "Simple Anti-Hijack Measures (may break clients)"
+msgstr "Jednoduchý Anti-Hijack (může odpojit klienta)"
+
+msgid "Sleeptimer has been disabled"
+msgstr "Časovač vypnutí byl deaktivovaný."
+
+msgid "Sleeptimer is disabled"
+msgstr "Časovač vypnutí je deaktivovaný"
+
+msgid "Sleeptimer is enabled"
+msgstr "Časovač vypnutí je povolený."
+
+msgid "Sleeptimer set to %s minutes"
+msgstr "Časovač vypnutí je nastavený na %s minut"
+
+msgid "Source and destination folders are the same."
+msgstr "Zdrojová i cílová složka se shoduje !"
+
+msgid "Standby"
+msgstr "Režim spánku"
+
+msgid "Start Webinterface"
+msgstr "Spustit webové rozhraní"
+
+msgid "Start infinite recording"
+msgstr "Start záznamu bez ukončení"
+
+msgid "State"
+msgstr "Stav"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Stream"
+msgstr "Sdílení"
+
+msgid "Stream %s"
+msgstr "Sdílet : %s"
+
+msgid "Success"
+msgstr "Úspěšné"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Tag Filter"
+msgstr "Filtr"
+
+msgid "Tags"
+msgstr "Značka"
+
+msgid "Technical Information"
+msgstr "Technické informace"
+
+msgid "TeleVision"
+msgstr "Televize"
+
+msgid "The sleep timer has been activated for %s minutes."
+msgstr "Časovač pro uspání se spustí za  %s minut"
+
+msgid "The sleep timer has been disabled."
+msgstr "Časovač pro uspání byl vypnutý..."
+
+msgid "The timer '%s' has been deleted successfully"
+msgstr "Časovač %s byl odstraněný"
+
+msgid "The timer has NOT been deleted"
+msgstr "Časovač nebyl odstraněný"
+
+msgid "This device does not support AC3 Downmix"
+msgstr "Toto zařízení nepodporuje AC3 Downmix"
+
+msgid "Timeout"
+msgstr "Použitý čas : "
+
+msgid "Timer"
+msgstr "Časovač"
+
+msgid "Timer '%s' added"
+msgstr "Časovač '%s' byl přidaný"
+
+msgid "TimerList has been saved"
+msgstr "Seznam časovačů byl uložený"
+
+msgid "TimerList has not been saved"
+msgstr "Seznam časovačů nebyl uložený"
+
+msgid "Timers"
+msgstr "Časovače"
+
+msgid "Toggle Standby"
+msgstr "Režim spánku"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Tuners"
+msgstr "Tunery..."
+
+msgid "Type"
+msgstr "Typ hlášení : "
+
+msgid "Unknown Volume command %s"
+msgstr "Neznámý příkaz hlasitosti '%s'"
+
+msgid "Unknown command (%s)"
+msgstr "Neznámý příkaz (%s)"
+
+msgid "Unknown for parameter \"cmd\" [%s|%s]"
+msgstr "Neznámý parameter  \"cmd\" [%s|%s]"
+
+msgid "Unknown function: '%s'"
+msgstr "Neznámá funkce : '%s'"
+
+msgid "Unknown parameter %s"
+msgstr "Neznámý parameter %s"
+
+msgid "Unmute"
+msgstr "Zrušit vypnutí zvuku"
+
+msgid "Unsupported Messagetype %s"
+msgstr "Nepodporovaný typ hlášení %s"
+
+msgid "Up"
+msgstr "Nahoru"
+
+msgid "Update interval for current service (min. 10 sec)"
+msgstr "Interval aktualizace pro aktuální kanál (min. 10 sek)"
+
+msgid "Update-Interval for EPG of the current bouquets (min. 60 sec)"
+msgstr "Interval aktualizace EPG pro aktuální sadu kanálů (min. 60 sek)"
+
+msgid "Video Size"
+msgstr "Velikost videa"
+
+msgid "Volume"
+msgstr "Hlasitost"
+
+msgid "Volume Down"
+msgstr "Zeslabit"
+
+msgid "Volume Up"
+msgstr "Zesílit"
+
+msgid "Volume changed"
+msgstr "Změna hlasitosti"
+
+msgid "Volume set to %i"
+msgstr "Nastavit hlasitost na  %i"
+
+msgid "WARNING: Cookies are required to store the settings!"
+msgstr "Varování:  pro uložení nastavení jsou potřebné cookies !"
+
+msgid "Waiting"
+msgstr "Čekání"
+
+msgid "Warning"
+msgstr "Varování"
+
+msgid "WebRemote"
+msgstr "Dálkový ovladač"
+
+msgid "WebTV"
+msgstr "WebTV"
+
+msgid "Webinterface"
+msgstr "Webinterface"
+
+msgid "Webinterface Version"
+msgstr "Verze webového rozhraní"
+
+msgid "Webinterface: Main Setup"
+msgstr "Webové rozhraní : Hlavní nastavení"
+
+msgid "Widescreen"
+msgstr "Širokoúhlý"
+
+msgid "Wrong parameter format 'set=%s'. Use set=set15"
+msgstr "Chybný formát parametru pro 'set=%s'. Použité 'set=set15'"
+
+msgid "Zap"
+msgstr "Přepnutí"
+
+msgid "Zap to %s"
+msgstr "Přepnout na %s"
+
+msgid "Zapping is disabled in WebInterface Configuration"
+msgstr "Přepínání je v konfiguraci webového rozhraní deaktivováno !"
+
+msgid "Token-based security (may break clients)"
+msgstr "Základní ochrana (může odpojit klienta) "
+
+msgid "and many contributors"
+msgstr "a mnoho dalších spolupracovníků"
+
+msgid "disabled"
+msgstr "deaktivováno"
+
+msgid "illegal call"
+msgstr "ilegální volání"
+
+msgid ""
+"missing or wrong parameter mode [%i=both, %i=lamedb only, %i=userbouqets "
+"only]"
+msgstr ""
+"Chybí parametr nebo chybný 'mode' [%i=both, %i=lamedb pouze, %i=userbouqets "
+"pouze]"
+
+msgid "of"
+msgstr "od"
+
+msgid "one two three four unknown command"
+msgstr "jeden dva tři čtyři ... neznámý příkaz"
+
+msgid "please select a submenu on the left..."
+msgstr "...prosím, vyberte z menu vlevo..."
+
+msgid "reloaded both"
+msgstr "obnovit oba"
+
+msgid "reloaded bouquets"
+msgstr "obnovit sadu kanálů"
+
+msgid "reloaded lamedb"
+msgstr "obnovit lamedb"
+
+msgid "sec"
+msgstr "sek"
+
+msgid "the command was not > 0"
+msgstr "příkaz není > 0"
+
+msgid "this recording"
+msgstr "tento záznam"
+
+msgid "type %s is not a number"
+msgstr "typ %s  není číslo"
+
+msgid "undefined"
+msgstr "nedefinováno"
+
+msgid "unknown command (%s)"
+msgstr "neznámý příkaz (%s)"

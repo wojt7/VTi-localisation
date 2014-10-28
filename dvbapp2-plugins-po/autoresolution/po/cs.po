@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automatic Screen Resolution V. 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-10 16:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roxy <vro@wo.cz>\n"
+"Language-Team: JuSt611\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _(\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: cs_CS\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+msgid "Autoresolution"
+msgstr "Automatické rozlišení"
+
+msgid ""
+"Autoresolution Plugin Testmode:\n"
+"Is %s OK?"
+msgstr ""
+"Automatické rozlišení - plugin, test.mód : \n"
+"Je %s OK ?"
+
+msgid "Autoresolution Switch"
+msgstr "Automatické rozlišení - přepínač"
+
+msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+msgstr "Automatické rozlišení - nepracuje v Scart/DVI-PC módu"
+
+msgid "Autoresolution settings"
+msgstr "Automatické rozlišení - nastavení"
+
+msgid "Autoresolution videomode setup"
+msgstr "Automatické rozlišení - nastavení módu videa"
+
+msgid "Cancel"
+msgstr "Storno"
+
+msgid "Deinterlacer mode for interlaced content"
+msgstr "Neprokládaný režim pro prokládaný obsah"
+
+msgid "Deinterlacer mode for progressive content"
+msgstr "Neprokládaný režim pro progresivní obsah"
+
+msgid "Delay x seconds after service started"
+msgstr "Zpoždění x sekund po startu služby"
+
+msgid "Enable 1080p24 Mode"
+msgstr "Aktivovat 1080p24"
+
+msgid "Enable 1080p25 Mode"
+msgstr "Aktivovat 1080p25"
+
+msgid "Enable 1080p30 Mode"
+msgstr "Aktivovat 1080p30 "
+
+msgid "Enable 720p24 Mode"
+msgstr "Aktivovat 720p24 "
+
+msgid "Enable Autoresolution"
+msgstr "Aktivovat aut.rozlišení"
+
+msgid "HD Interlace Mode"
+msgstr "HD prokládaný mód"
+
+msgid "HD Progressive Mode"
+msgstr "HD progresivní mód"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Refresh Rate"
+msgstr "Obnovovací kmitočet"
+
+msgid "Running in testmode"
+msgstr "Spustit v test.módu"
+
+msgid "SD 25/50HZ Interlace Mode"
+msgstr "SD 25/50HZ prokládaný mód"
+
+msgid "SD 25/50HZ Progressive Mode"
+msgstr "SD 25/50HZ progresivní mód"
+
+msgid "SD 30/60HZ Interlace Mode"
+msgstr "SD 30/60HZ prokládaný mód"
+
+msgid "SD 30/60HZ Progressive Mode"
+msgstr "SD 30/60HZ progresivní mód"
+
+msgid "Show info screen"
+msgstr "Zobrazit info"
+
+msgid "Videocontent:"
+msgstr "Obsah videa :"
+
+msgid "Videomode:"
+msgstr "Mód videa :"
+
+msgid "auto"
+msgstr "automaticky"
+
+msgid "bob"
+msgstr "nejlepší"
+
+msgid "default"
+msgstr "standardní"
+
+msgid "off"
+msgstr "vypnuto"
+
+msgid "on"
+msgstr "zapnuto"
+
+msgid "second"
+msgstr "sekund"
+
+msgid "seconds"
+msgstr "sekund"

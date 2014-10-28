@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MovielistPreview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-14 18:16+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roxy <vro@wo.cz>\n"
+"Language-Team: Nabil Hanna <nabil1978@web.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: /home/aliabdul/dream/ltteam/trunk/additions/plugins/"
+"movielistpreview/src\n"
+
+msgid "%s - creating preview for movie %s"
+msgstr "%s - vytvořit náhled pro video  %s"
+
+msgid "Activate Movielist Preview"
+msgstr "Aktivovat náhledy videa"
+
+msgid "Autocreate of missing previews"
+msgstr "Automaticky vytvořit chybějící náhledy"
+
+msgid "Autocreate of previews aborted due user!"
+msgstr "Automatické vytvoření náhledů bylo přerušeno !"
+
+msgid "Change Movielist Preview position"
+msgstr "Změnit pozici okna náhledu"
+
+msgid "Could not find any movie!"
+msgstr "Žádné video není nalezeno !"
+
+msgid "Create preview"
+msgstr "Vytvořit náhled"
+
+msgid "Deactivate Movielist Preview"
+msgstr "Deaktivovat náhledy videa"
+
+msgid "Everything done ;)"
+msgstr "Všechno hotovo  ;)"
+
+msgid "Movielist Preview"
+msgstr "Náhled videa"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Preview created."
+msgstr "Náhled je hotový"
