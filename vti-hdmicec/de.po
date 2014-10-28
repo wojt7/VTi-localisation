@@ -1,0 +1,224 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-22 15:35+0100\n"
+"PO-Revision-Date: 2012-01-22 18:42+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/plugin.py:55
+msgid "Close"
+msgstr "Schließen"
+
+#: ../src/plugin.py:56
+msgid "Save"
+msgstr "Speichern"
+
+#: ../src/plugin.py:57
+msgid "Connect"
+msgstr "Verbinden"
+
+#: ../src/plugin.py:58
+msgid "Disconnect"
+msgstr "Trennen"
+
+#: ../src/plugin.py:74
+msgid "HDMI CEC enabled:"
+msgstr "HDMI CEC einschalten:"
+
+#: ../src/plugin.py:75
+msgid "Disable power on actions for timer:"
+msgstr "Deaktiviere CEC Einschaltvorgänge für Aufnahmestarts:"
+
+#: ../src/plugin.py:76
+msgid "Active Source Reply On:"
+msgstr "HDMI Antwort aktive Quelle:"
+
+#: ../src/plugin.py:77
+msgid "VU+ standby => TV activity:"
+msgstr "VU+ Standby => TV Aktivität:"
+
+#: ../src/plugin.py:78
+msgid "VU+ deepstandby => TV activity:"
+msgstr "VU+ Ausschalten => TV Aktivität:"
+
+#: ../src/plugin.py:79
+msgid "VU+ on from standby => TV activity:"
+msgstr "VU+ ein aus Standby => TV Aktivität:"
+
+#: ../src/plugin.py:80
+msgid "VU+ on from deepstandby => TV activity:"
+msgstr "VU+ ein aus Deepstandby => TV Aktivität:"
+
+#: ../src/plugin.py:81
+msgid "TV standby => VU+ activity:"
+msgstr "TV aus => VU+ Aktivität:"
+
+#: ../src/plugin.py:82
+msgid "TV on => VU+ activity:"
+msgstr "TV ein  => VU+ Aktivität:"
+
+#: ../src/plugin.py:83
+msgid "Choose TV HDMI input:"
+msgstr "TV HDMI Eingang:"
+
+#: ../src/plugin.py:84
+msgid "Choose A/V-Receiver HDMI input:"
+msgstr "A/V Receiver HDMI Eingang:"
+
+#: ../src/plugin.py:85
+msgid "Use A/V-Receiver for volume control:"
+msgstr "Verwende A/V Receiver für Lautstärkeanpassung:"
+
+#: ../src/plugin.py:86
+msgid "A/V-Receiver volume up:"
+msgstr "A/V Receiver Lautstärke +"
+
+#: ../src/plugin.py:87
+msgid "A/V-Receiver volume down:"
+msgstr "A/V Receiver Lautstärke -"
+
+#: ../src/plugin.py:88
+msgid "A/V-Receiver toggle mute:"
+msgstr "A/V Receiver lautlos ein/aus"
+
+#: ../src/plugin.py:89
+msgid "A/V-Receiver power on:"
+msgstr "A/V Receiver einschalten"
+
+#: ../src/plugin.py:90
+msgid "A/V-Receiver power off:"
+msgstr "A/V Receiver ausschalten"
+
+#: ../src/plugin.py:91
+msgid "TV power on:"
+msgstr "TV einschalten"
+
+#: ../src/plugin.py:92
+msgid "TV power off:"
+msgstr "TV ausschalten"
+
+#: ../src/plugin.py:93
+msgid "Use TV remotecontrol:"
+msgstr "Verwende TV Fernbedienung:"
+
+#: ../src/plugin.py:94
+msgid "Set VU+ device name:"
+msgstr "VU+ Gerätename:"
+
+#: ../src/plugin.py:95
+msgid "Address (0~FF):"
+msgstr "Adresse (0~FF):"
+
+#: ../src/plugin.py:100
+msgid "Enable debug output to file :"
+msgstr "Aktiviere Debug-Ausgabe in Datei :"
+
+#: ../src/plugin.py:101
+msgid "Enable debug output to console :"
+msgstr "Aktiviere Debug-Ausgabe auf Konsole :"
+
+#: ../src/plugin.py:102
+msgid "Delay between CEC messages :"
+msgstr "Verzögerung zwischen CEC Nachrichten :"
+
+#: ../src/plugin.py:326
+msgid "VTI HDMI-CEC"
+msgstr "VTI HDMI CEC"
+
+#: ../src/HdmiCec.py:39
+#: ../src/HdmiCec.py:45
+msgid "TV standby"
+msgstr "TV aus"
+
+#: ../src/HdmiCec.py:40
+#: ../src/HdmiCec.py:46
+msgid "TV + A/V standby"
+msgstr "TV + A/V Receiver aus"
+
+#: ../src/HdmiCec.py:41
+#: ../src/HdmiCec.py:47
+msgid "Source inactive"
+msgstr "Quelle inaktiv"
+
+#: ../src/HdmiCec.py:42
+#: ../src/HdmiCec.py:48
+#: ../src/HdmiCec.py:55
+#: ../src/HdmiCec.py:62
+#: ../src/HdmiCec.py:67
+#: ../src/HdmiCec.py:71
+msgid "Nothing"
+msgstr "Nichts"
+
+#: ../src/HdmiCec.py:51
+#: ../src/HdmiCec.py:58
+msgid "TV wakeup"
+msgstr "TV ein"
+
+#: ../src/HdmiCec.py:52
+#: ../src/HdmiCec.py:59
+msgid "TV + A/V wakeup"
+msgstr "TV + A/V Receiver ein"
+
+#: ../src/HdmiCec.py:53
+#: ../src/HdmiCec.py:60
+msgid "A/V + TV wakeup"
+msgstr "A/V + TV Receiver ein"
+
+#: ../src/HdmiCec.py:54
+#: ../src/HdmiCec.py:61
+msgid "Source active"
+msgstr "Quelle aktiv"
+
+#: ../src/HdmiCec.py:65
+msgid "VU+ standby"
+msgstr "VU+ Standby"
+
+#: ../src/HdmiCec.py:66
+msgid "VU+ DeepStandby"
+msgstr "VU+ ausschalten"
+
+#: ../src/HdmiCec.py:70
+msgid "VU+ wakeup"
+msgstr "VU+ einschalten"
+
+#: ../src/HdmiCec.py:83
+msgid "no A/V Receiver"
+msgstr "kein A/V Receiver"
+
+#~ msgid "HDMI 1"
+#~ msgstr "HDMI 1"
+
+#~ msgid "HDMI 2"
+#~ msgstr "HDMI 2"
+
+#~ msgid "HDMI 3"
+#~ msgstr "HDMI 3"
+
+#~ msgid "HDMI 4"
+#~ msgstr "HDMI 4"
+
+#~ msgid "HDMI 5"
+#~ msgstr "HDMI 5"
+
+#~ msgid "VTI-Duo"
+#~ msgstr "VTI-Duo"
+
+#~ msgid "VTI-Solo"
+#~ msgstr "VTI-Solo"
+
+#~ msgid "VTI-Uno"
+#~ msgstr "VTI-Uno"
+
+#~ msgid "VTI-Ultimo"
+#~ msgstr "VTI-Ultimo"
