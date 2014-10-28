@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Atile v0.1\n"
+"POT-Creation-Date: 2013-06-16 17:09+0100\n"
+"PO-Revision-Date: 2013-09-02 15:07+0100\n"
+"Last-Translator: Diamondear <diavar@tin.it>\n"
+"Language-Team: Diamondear <diavar@tin.it>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "---Weather---"
+msgstr "---  Meteo  ---"
+
+msgid "About"
+msgstr "Informazioni"
+
+msgid "AtileHD pro"
+msgstr "AtileHD Pro"
+
+msgid "AtileHD Setup"
+msgstr "Configurazione AtileHD"
+
+msgid "AtileHD additional screens"
+msgstr "Schermate aggiuntive AtileHD"
+
+msgid "Cancel"
+msgstr "Esci"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Don't save settings?"
+msgstr "Non salvare le impostazioni?"
+
+msgid "Enable AtileHD pro:"
+msgstr "Abilita AtileHD Pro:"
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Font:"
+msgstr "Tipo di carattere:"
+
+msgid "Location # (http://weather.yahoo.com/):"
+msgstr "Località # (http://weather.yahoo.com/):"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Personalize your Skin"
+msgstr "Personalizza la tua Skin"
+
+msgid "Refresh interval in minutes:"
+msgstr "Intervallo di aggiornamento in minuti:"
+
+msgid "Restart necessary, restart GUI now?"
+msgstr "Riavvio necessario, riavviare la GUI ora?"
+
+msgid "Style:"
+msgstr "Stile:"
+
+msgid "Temperature unit:"
+msgstr "Unità Temperatura:"
+
+msgid "off"
+msgstr "Off"
+
+msgid "on"
+msgstr "On"

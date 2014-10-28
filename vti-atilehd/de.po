@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Atile v0.1\n"
+"POT-Creation-Date: 2013-08-16 18:44+0100\n"
+"PO-Revision-Date: 2013-08-16 18:44+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: schomi <schomi@vuplus-support.org>\n"
+"Language: DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "AtileHD Setup"
+msgstr "AtileHD Einstellungen"
+
+msgid "Personalize your Skin"
+msgstr "Skin personalisieren"
+
+msgid " Setup - AtileHD"
+msgstr "Einstellungen - AtileHD"
+
+msgid "Cancel"
+msgstr "Abbruch"
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Style:"
+msgstr "Stil:"
+
+msgid "Font:"
+msgstr "Schriftart:"
+
+msgid "Enable AtileHD pro:"
+msgstr "Aktiviere AtileHD pro:"
+
+msgid "---Weather---"
+msgstr "---Wetter---"
+
+msgid "Refresh interval in minutes:"
+msgstr "Aktualisierung in Minuten:"
+
+msgid "Location # (http://weather.yahoo.com/):"
+msgstr "Ort Nr. (http://de.wetter.yahoo.com/):"
+
+msgid "Temperature unit:"
+msgstr "Temperatur Einheit"
+
+msgid "Don't save settings?"
+msgstr "Einstellungen nicht sichern?"
+
+msgid "Restart necessary, restart GUI now?"
+msgstr "Neustart erforderlich, jetzt neu starten?"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "AtileHD additional screens"
+msgstr "AtileHD zusätzliche Screens"
+
+msgid "Exit"
+msgstr "Beenden"
+
+msgid "on"
+msgstr "an"
+
+msgid "off"
+msgstr "aus"
+
+#~ msgid ""
+#~ "GUI needs a restart to apply a new skin.\n"
+#~ "Do you want to Restart the GUI now?"
+#~ msgstr ""
+#~ "GUI Neustart erforderlich, um den neuen Skin zu übernehmen.\n"
+#~ " Jetzt neu staten?"
+
+#~ msgid "Skin myAtile prepared, restart GUI?"
+#~ msgstr "Skin myAtile erstellt, GUI neu starten?"
+
+#~ msgid "Location # (http://de.wetter.yahoo.com/):"
+#~ msgstr "Ort Nr. (http://de.wetter.yahoo.com/):"
+
+#~ msgid "Refresh interval:"
+#~ msgstr "Update Interval:"
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid "Delete recorded files automatically"
+#~ msgstr "Lösche Aufnahmen nach bestimmten Zeitraum"
+
+#~ msgid "Test"
+#~ msgstr "Testen"
+
+#~ msgid "Minimum age of files:"
+#~ msgstr "Minimales Alter der Aufnahmen:"
+
+#~ msgid "Subfolder deepth:"
+#~ msgstr "Wie viele Unterordner durchsuchen:"
+
+#~ msgid "Deletion time:"
+#~ msgstr "Alte Aufnahmen löschen um:"
+
+#~ msgid "Folder name:"
+#~ msgstr "Ordnername:"
+
+#~ msgid "Base folder:"
+#~ msgstr "Basisordner wählen:"
+
+#~ msgid "Console"
+#~ msgstr "Konsole"
+
+#~ msgid "Choose base folder"
+#~ msgstr "Basisordner wählen"
+
+#~ msgid "AutoSchredder base folder:"
+#~ msgstr "Ordner:"
+
+#~ msgid "Days until deletion:"
+#~ msgstr "Dateialter in Tagen:"
+
+#~ msgid "Restart GUI"
+#~ msgstr "GUI neu starten"
+
+#~ msgid "add / remove additional screens"
+#~ msgstr "Zusätzliche Screens (de)aktivieren"
+
+#~ msgid "---myAtile---"
+#~ msgstr "---myAtile---"
+
+#~ msgid "Create myAtile"
+#~ msgstr "Erstelle myAtile:"
+
+#~ msgid "Error creating Skin!"
+#~ msgstr "Fehler bei der Skinerstellung!"
+
+#~ msgid "Your myAtile Skin created!"
+#~ msgstr "Dein myAtile Skin wurde erstellt!"
+
+#~ msgid "Create"
+#~ msgstr "Erstellen"
