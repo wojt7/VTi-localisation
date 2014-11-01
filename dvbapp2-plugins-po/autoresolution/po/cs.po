@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2011-06-10 16:57+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Roxy <vro@wo.cz>\n"
-"Language-Team: JuSt611\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,7 +33,7 @@ msgid "Autoresolution is not working in Scart/DVI-PC Mode"
 msgstr "Automatické rozlišení - nepracuje v Scart/DVI-PC módu"
 
 msgid "Autoresolution settings"
-msgstr "Automatické rozlišení - nastavení"
+msgstr "Automatické rozlišení..."
 
 msgid "Autoresolution videomode setup"
 msgstr "Automatické rozlišení - nastavení módu videa"
@@ -51,16 +51,16 @@ msgid "Delay x seconds after service started"
 msgstr "Zpoždění x sekund po startu služby"
 
 msgid "Enable 1080p24 Mode"
-msgstr "Aktivovat 1080p24"
+msgstr "Aktivovat 1080p24 jako..."
 
 msgid "Enable 1080p25 Mode"
-msgstr "Aktivovat 1080p25"
+msgstr "Aktivovat 1080p25 jako..."
 
 msgid "Enable 1080p30 Mode"
-msgstr "Aktivovat 1080p30 "
+msgstr "Aktivovat 1080p30 jako..."
 
 msgid "Enable 720p24 Mode"
-msgstr "Aktivovat 720p24 "
+msgstr "Aktivovat 720p24 jako..."
 
 msgid "Enable Autoresolution"
 msgstr "Aktivovat aut.rozlišení"
