@@ -748,7 +748,7 @@ msgstr "Obnova ze zálohy"
 
 #
 msgid "After event"
-msgstr ""
+msgstr "Po události"
 
 msgid ""
 "After the start wizard is completed, you need to protect single services. "
@@ -2120,7 +2120,7 @@ msgstr "Anglicky"
 msgid ""
 "Enigma2 Skinselector\n"
 "\n"
-"If you experience any problems please contact\n"
+"Pokud narazíte na problém, kontaktujte, prosím\n"
 "stephan@reichholf.net\n"
 "\n"
 " 2006 - Stephan Reichholf"
@@ -2522,7 +2522,7 @@ msgstr "Načítám informace modulu. Čekejte, prosím..."
 
 #
 msgid "Global"
-msgstr ""
+msgstr "Obecné"
 
 msgid "Go to next page."
 msgstr "Jdi na další stránku"
@@ -3402,7 +3402,7 @@ msgstr "Název sítě (SSID)"
 
 #
 msgid "New"
-msgstr ""
+msgstr "Nové"
 
 msgid "New PIN"
 msgstr "Nový PIN"
@@ -3778,7 +3778,7 @@ msgstr "Disk.oddíly : %s"
 
 #
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 msgid "Password :"
 msgstr "Heslo :"
@@ -4821,7 +4821,7 @@ msgstr "Zvolit"
 #
 #, python-format
 msgid "Select %s button function:"
-msgstr ""
+msgstr "Vyberte funkci pro %s tlačítko :"
 
 msgid "Select %s (long) button function:"
 msgstr " %s dlouhé tlačítko - funkce :"
@@ -7061,7 +7061,7 @@ msgstr "automaticky"
 
 #
 msgid "available "
-msgstr ""
+msgstr "dostupný"
 
 msgid "back"
 msgstr "zpět"
@@ -8470,7 +8470,7 @@ msgstr "Mini TV"
 
 #
 msgid "Live TV"
-msgstr ""
+msgstr "Živé TV vysílání"
 
 msgid "Use extended PictureInGraphic (PiG + transparent skin)"
 msgstr "Aktivovat rozšířený PictureInGraphic (PiG + transparentní skin)"
@@ -8502,7 +8502,7 @@ msgstr "Přepnout vybraný mód"
 
 #
 msgid "delete selected items"
-msgstr ""
+msgstr "odstranit vybrané položky"
 
 msgid "copy selected items"
 msgstr "Kopírovat vybrané položky"
@@ -8533,7 +8533,7 @@ msgstr "Chcete odstranit všechny vybrané položky ?"
 
 #
 msgid "Not all items could be deleted !"
-msgstr ""
+msgstr "Všechny položky nelze odstranit !"
 
 msgid "Recorded files"
 msgstr "Nahrané soubory"
@@ -8568,7 +8568,7 @@ msgstr "\"Koš\" není dostupný v tomto úložném zařízení !"
 
 #
 msgid "change play mode..."
-msgstr ""
+msgstr "změna módu přehrávání..."
 
 #~ msgid "   Used:"
 #~ msgstr "   Využito : "
