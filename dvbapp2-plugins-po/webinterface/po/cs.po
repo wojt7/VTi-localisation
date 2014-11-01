@@ -81,7 +81,7 @@ msgid "All"
 msgstr "Vše"
 
 msgid "All Timers"
-msgstr "Všechny časovače"
+msgstr "Hotové časovače"
 
 msgid "Allow zapping via Webinterface"
 msgstr "Povolit přepínání přes webové rozhraní"
@@ -96,7 +96,7 @@ msgid "Autowrite timer"
 msgstr "Časovač s aut.zápisem"
 
 msgid "Begins"
-msgstr "Začíná v "
+msgstr "Začátek"
 
 msgid "Bouquets"
 msgstr "Sada kanálů"
@@ -144,7 +144,7 @@ msgid "Command '%s' executed"
 msgstr "Příkaz '%s' byl provedený"
 
 msgid "Configuration for the Webinterface"
-msgstr "Konfigurace webového rozhraní"
+msgstr "-- konfigurace webového rozhraní"
 
 msgid "Conflicting Timer(s) detected! %s"
 msgstr "Detekovaný konflikt časovačů  %s"
@@ -159,13 +159,13 @@ msgid "Could not find timer '%s' with given start and end time!"
 msgstr "Nelze najít časovač '%s' podle času začátku a konce ! "
 
 msgid "Create Timer"
-msgstr "Založit časovač"
+msgstr "Nový časovač"
 
 msgid "DHCP enabled"
 msgstr "DHCP je povolený"
 
 msgid "Days"
-msgstr "Ve dny"
+msgstr "Dny"
 
 msgid "Deactivate"
 msgstr "Deaktivovat : "
@@ -259,7 +259,7 @@ msgid "Enable Streaming Authentication"
 msgstr "Povolit přihlášení streamu"
 
 msgid "Ends"
-msgstr "Končí v"
+msgstr "Konec"
 
 msgid "Enigma2 Version"
 msgstr "Verze Enigma2"
@@ -391,7 +391,7 @@ msgid "Message"
 msgstr "Zpráva :"
 
 msgid "Message sent successfully!"
-msgstr "Hlášení bylo odesláno!"
+msgstr "Hlášení bylo odesláno !"
 
 msgid "Missing Parameter: begin"
 msgstr "Chybí parametr: begin"
@@ -442,13 +442,13 @@ msgid "Movie '%s' has unknown suffix '%s'."
 msgstr "Video '%s' má neznámou příponu  '%s'."
 
 msgid "Movie '%s' moved to '%s' without errors."
-msgstr "Video '%s' přesunuto do '%s' bez chyby."
+msgstr "Video '%s' přesunuto do '%s' bez chyby"
 
 msgid "Movies"
 msgstr "Nahrané"
 
 msgid "Moving Movie '%s' to '%s' in background."
-msgstr "Přesun videa '%s' do '%s' na pozadí."
+msgstr "Přesun videa '%s' do '%s' na pozadí"
 
 msgid "Mute"
 msgstr "Vypnout zvuk"
@@ -490,10 +490,10 @@ msgid "No movies to show..."
 msgstr "Žádné video se nedá zobrazit..."
 
 msgid "Note: For one-time events the days don't have to be specified."
-msgstr "Pozn.: Pro jednorázové časovače se dny zadávat nemusí !"
+msgstr "Pro jednorázové časovače se dny zadávat nemusí..."
 
 msgid "Note: For recurring events dates are not mandatory."
-msgstr "Pozn.: Pro vrácené události nejsou data povinná"
+msgstr "Pro opakující se události není datum povinný..."
 
 msgid "Nothing found..."
 msgstr "Nebylo nic nalezeno..."
@@ -530,7 +530,7 @@ msgid "Open Signal Panel"
 msgstr "Panel signálů"
 
 msgid "OpenWebif Configuration"
-msgstr "Konfigurace webového rozhraní"
+msgstr "-- konfigurace webového rozhraní"
 
 msgid "Path %s can not be created"
 msgstr "Cesta %s nemůže být vytvořená !"
@@ -593,7 +593,7 @@ msgid "Remove %s from playlist"
 msgstr "Odstranit %s ze seznamu přehrávek"
 
 msgid "Restart enigma2"
-msgstr "Restart Enigmy"
+msgstr "Restart Enigmy2"
 
 msgid "Running"
 msgstr "Aktivováno"
@@ -608,13 +608,13 @@ msgid "Save Playlist"
 msgstr "Uložit seznam přehrávek"
 
 msgid "Screenshot (All)"
-msgstr "Sejmout (obraz+info)"
+msgstr "Sejmout obr.+info"
 
 msgid "Screenshot (OSD)"
-msgstr "Sejmout (infopanel)"
+msgstr "Sejmout jen info"
 
 msgid "Screenshot (Video)"
-msgstr "Sejmout (obraz)"
+msgstr "Sejmout jen obraz"
 
 msgid "Search EPG"
 msgstr "Hledat EPG"
@@ -644,19 +644,19 @@ msgid "Simple Anti-Hijack Measures (may break clients)"
 msgstr "Jednoduchý Anti-Hijack (může odpojit klienta)"
 
 msgid "Sleeptimer has been disabled"
-msgstr "Časovač vypnutí byl deaktivovaný."
+msgstr "Časovač vypnutí byl deaktivovaný"
 
 msgid "Sleeptimer is disabled"
 msgstr "Časovač vypnutí je deaktivovaný"
 
 msgid "Sleeptimer is enabled"
-msgstr "Časovač vypnutí je povolený."
+msgstr "Časovač vypnutí je povolený"
 
 msgid "Sleeptimer set to %s minutes"
 msgstr "Časovač vypnutí je nastavený na %s minut"
 
 msgid "Source and destination folders are the same."
-msgstr "Zdrojová i cílová složka se shoduje !"
+msgstr "Zdrojová a cílová složka se shodují !"
 
 msgid "Standby"
 msgstr "Režim spánku"
@@ -698,7 +698,7 @@ msgid "TeleVision"
 msgstr "Televize"
 
 msgid "The sleep timer has been activated for %s minutes."
-msgstr "Časovač pro uspání se spustí za  %s minut"
+msgstr "Časovač pro uspání startuje za  %s minut !"
 
 msgid "The sleep timer has been disabled."
 msgstr "Časovač pro uspání byl vypnutý..."
@@ -755,7 +755,7 @@ msgid "Unknown function: '%s'"
 msgstr "Neznámá funkce : '%s'"
 
 msgid "Unknown parameter %s"
-msgstr "Neznámý parameter %s"
+msgstr "Neznámý parametr %s"
 
 msgid "Unmute"
 msgstr "Zrušit vypnutí zvuku"
@@ -791,7 +791,7 @@ msgid "Volume set to %i"
 msgstr "Nastavit hlasitost na  %i"
 
 msgid "WARNING: Cookies are required to store the settings!"
-msgstr "Varování:  pro uložení nastavení jsou potřebné cookies !"
+msgstr "Varování :  pro uložení nastavení jsou potřebné cookies !"
 
 msgid "Waiting"
 msgstr "Čekání"
@@ -821,7 +821,7 @@ msgid "Wrong parameter format 'set=%s'. Use set=set15"
 msgstr "Chybný formát parametru pro 'set=%s'. Použité 'set=set15'"
 
 msgid "Zap"
-msgstr "Přepnutí"
+msgstr "Zapnout"
 
 msgid "Zap to %s"
 msgstr "Přepnout na %s"
