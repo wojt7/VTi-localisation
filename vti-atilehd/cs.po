@@ -40,7 +40,7 @@ msgid "Enable AtileHD pro:"
 msgstr "Aktivovat AtileHD ..."
 
 msgid "Exit"
-msgstr "Konec"
+msgstr "Zavřít"
 
 msgid "Fahrenheit"
 msgstr "fahrenheita"
@@ -64,10 +64,10 @@ msgid "Refresh interval in minutes:"
 msgstr "Interval aktualizace v min."
 
 msgid "Restart GUI"
-msgstr "Restart Enigmy"
+msgstr "Restart Enigmy2"
 
 msgid "Restart necessary, restart GUI now?"
-msgstr "Je nutný restart Enigmy, spustit nyní ?"
+msgstr "Je nutný restart Enigmy2, restartovat nyní ?"
 
 msgid "Style:"
 msgstr "Styl "
