@@ -54,7 +54,7 @@ msgid "HELP"
 msgstr "HELP ... "
 
 msgid "VU+ EPG / INFO"
-msgstr "EPG Kanály ... "
+msgstr "EPG kanály ... "
 
 msgid "HOME"
 msgstr "HOME ... "
@@ -66,7 +66,7 @@ msgid "Subtitle"
 msgstr "Titul ... "
 
 msgid "VU+ R-Button"
-msgstr "Files ... "
+msgstr "Files tl..."
 
 msgid "RADIO"
 msgstr "RADIO ... "
@@ -129,7 +129,7 @@ msgid "Rewind <<"
 msgstr "Zpět << ... "
 
 msgid "FastForward >>"
-msgstr "Rychle dopředu >> ... "
+msgstr "Rychle vpřed >> ...  "
 
 msgid "on"
 msgstr "zap."
@@ -142,7 +142,7 @@ msgid "Quickbutton Key : %s"
 msgstr "Tlačítko : %s"
 
 msgid "Please select the backup path..."
-msgstr "Prosím, zadejte umístění zálohy..."
+msgstr "Zadejte umístění zálohy..."
 
 msgid "Overwrite existing Backup?."
 msgstr "Přepsat existující zálohu ?"
@@ -171,11 +171,11 @@ msgid ""
 "Restarting Enigma2 to set\n"
 "Multi QuickButton Autostart"
 msgstr ""
-"Restart Enigmy po nastavení, \n"
+"Restart Enigmy2 po nastavení, \n"
 "aut.spouštění modulu Multi QuickButton."
 
 msgid "Restarting Enigma2 to load:\n"
-msgstr "Restart Enigmy pro načtení : \n"
+msgstr "Restart Enigmy2 pro načtení : \n"
 
 msgid "Multi QuickButton settings"
 msgstr "Multi QuickButton - nastavení"
@@ -212,7 +212,7 @@ msgstr "Přidat makro pod tlačítko"
 
 #, fuzzy
 msgid "Add Script/Binary to MQB Key"
-msgstr "Přidat funkci pod tlačítko"
+msgstr "Přidat skript pod tlačítko"
 
 msgid "Functions"
 msgstr "Funkce"
@@ -475,7 +475,7 @@ msgid "Reboot"
 msgstr "Restart"
 
 msgid "GUI Restart"
-msgstr "Restart Enigmy"
+msgstr "Restart Enigmy2"
 
 msgid "DeepStandby"
 msgstr "Vypnout sat.přijímač"
