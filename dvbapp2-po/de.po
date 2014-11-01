@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-21 17:47+0200\n"
-"Last-Translator: Jannick Kuhr <jakuhrlinux@googlemail.com>\n"
+"PO-Revision-Date: 2014-11-01 16:07+0100\n"
+"Last-Translator: schomi <schomi@vuplus-support.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.5.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #
@@ -1075,7 +1075,7 @@ msgstr "Automatische Kapitelwechsel alle X Minuten (0=nie)"
 
 #
 msgid "Auto flesh"
-msgstr "Auto flesh"
+msgstr "Verbesserung Hautfarben"
 
 #
 msgid "Auto scart switching"
