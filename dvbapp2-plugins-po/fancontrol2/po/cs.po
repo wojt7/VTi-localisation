@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
-"Language: cs\n"
+"Language: cs_CZ\n"
 
 msgid "%s   %02d C"
 msgstr "%s   %02d C"
@@ -24,7 +24,7 @@ msgid "4Pin"
 msgstr "4 piny (otáčky)"
 
 msgid "Action in case of Fan failure"
-msgstr "Akce v případě, že se ventilátor nerozjede"
+msgstr "Akce v případě, že se ventilátor nerozjede..."
 
 msgid "Auto-Delete Data older than (Days)"
 msgstr "Aut.odstranit starsi data (nez x dnu)"
@@ -36,7 +36,7 @@ msgid "Box Shutdown"
 msgstr "Vypnout sat.přijímač"
 
 msgid "Box has no fancontrol hardware -> FC2 deactivated"
-msgstr "Sat.přijímač nemá hardware pro fancontrol -> FC2 bude deaktivovaný"
+msgstr "Sat.přijímač nemá odpovídající hardware  -> chlazení FC2 nebude aktivní !"
 
 msgid "Box shutdown at Temperature (C)"
 msgstr "Sat.přijímač se vypne po překročení teploty (C) !"
@@ -51,19 +51,19 @@ msgid "Choose path"
 msgstr "Zadejte cestu"
 
 msgid "Control disabled"
-msgstr "Zakázáno"
+msgstr "Ovládání vypnuto"
 
 msgid "Current rpm  %4d"
 msgstr "aktuální otáčky:  %4d"
 
 msgid "Current value: %s"
-msgstr "akt./max.  :  %s"
+msgstr "aktuální :  %s"
 
 msgid "Delete"
 msgstr "Odstranit"
 
 msgid "Delete older 48h"
-msgstr "Odstranit starsi jak 48hod"
+msgstr "Odstranit starsi jak 48hod."
 
 msgid "Disk free : %d MByte"
 msgstr "Volne misto na disku : %d MB"
@@ -72,10 +72,10 @@ msgid "Download"
 msgstr "Stahnout"
 
 msgid "Enable Data Logging"
-msgstr "Povolit sledování dat"
+msgstr "Povolit zápis dat"
 
 msgid "Enable Event Logging"
-msgstr "Povolit sledování událostí"
+msgstr "Povolit zápis událostí"
 
 msgid "End temperature C"
 msgstr "konečná teplota C:"
@@ -115,10 +115,10 @@ msgid "Information"
 msgstr "Informace"
 
 msgid "Initial PWM"
-msgstr "start.modulace:"
+msgstr "spouštěcí modulace:"
 
 msgid "Initial Voltage"
-msgstr "start.napětí:"
+msgstr "spouštěcí napětí:"
 
 msgid "Logging path"
 msgstr "Cesta pro log.soubor"
@@ -136,25 +136,25 @@ msgid "Max Fan %d rpm at VLT=255 (%s)"
 msgstr "Max. %d otáček při napětí=255 (%s)"
 
 msgid "Min Fan Start %d rpm at PWM=%d"
-msgstr "Min. %d startovacích otáček při modulaci=%d"
+msgstr "Od min. %d otáček při modulaci=%d"
 
 msgid "Min Fan Start %d rpm at VLT=%d"
-msgstr "Min. %d startovacích otáček při napětí=%d"
+msgstr "Od min. %d otáček při napětí=%d"
 
 msgid "Min Fan Start %d rpm at VLT=%d and PWM=0"
-msgstr "Min. %d startovacích otáček při napětí=%d a modulaci=0"
+msgstr "Od min. %d otáček při napětí=%d a modulaci=0"
 
 msgid "Min Fan Stop %d rpm at PWM=%d (%s)"
-msgstr "Min. %d otáček pro zastavení při modulaci=%d (%s)"
+msgstr "Do min. %d otáček pro zastavení při modulaci=%d (%s)"
 
 msgid "Min Fan Stop %d rpm at VLT=%d (%s)"
-msgstr "Min. %d otáček pro zastavení při napětí=%d (%s)"
+msgstr "Do min. %d otáček pro zastavení při napětí=%d (%s)"
 
 msgid "Min Fan Stop %d rpm at VLT=%d and PWM=0 (%s)"
-msgstr "Min. %d otáček pro zastavení při napětí=%d a modulaci=0 (%s)"
+msgstr "Do min. %d otáček pro zastavení při napětí=%d a modulaci=0 (%s)"
 
 msgid "Number of WebIF-Log-Entries"
-msgstr "Počet zadání pro WebIF-Log"
+msgstr "Počet log.záznamů pro WebIF"
 
 msgid "PWM  %03d"
 msgstr "modulace:  %03d"
@@ -172,7 +172,7 @@ msgid "Sensors"
 msgstr "Senzory"
 
 msgid "Show Fan Speed as"
-msgstr "Zobrazit rychlost ventilátoru jako "
+msgstr "Zobrazit otáčky ventilátoru jako "
 
 msgid "Show Monitor in Extension-Menu"
 msgstr "Zobrazit monitor v rozšířeném menu"
@@ -187,7 +187,7 @@ msgid "Static temp C"
 msgstr "teplota v klidu C:"
 
 msgid "Target rpm  %4d"
-msgstr "poč.otáčky:  %4d"
+msgstr "cílové otáčky:  %4d"
 
 msgid "Temperature"
 msgstr "Teplota"
@@ -214,10 +214,10 @@ msgid "currentRPM:%d targetRPM:%d Temp:%4.1f"
 msgstr "akt.otacky:%d, cil.otacky:%d, teplota:%4.1f"
 
 msgid "disable DMM-FanControl"
-msgstr "blokovat DMM-Fancontrol"
+msgstr "vypnout DMM ovládání ventilátoru "
 
 msgid "disabled"
-msgstr "blokovat"
+msgstr "vypnuto"
 
 msgid "display Info"
 msgstr "Zobrazit info"
