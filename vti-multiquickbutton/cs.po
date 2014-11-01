@@ -267,29 +267,29 @@ msgid "Input name for MQB macro : "
 msgstr "Název pro makro :"
 
 msgid "Select a file to execute"
-msgstr ""
+msgstr "Vyberte soubor pro spuštění"
 
 msgid "Invalid Choice"
-msgstr ""
+msgstr "Chybná volba"
 
 #, fuzzy
 msgid "File is not executable"
-msgstr "Soubor %s neexistuje !"
+msgstr "Soubor není spustitelný !"
 
 msgid "Script"
-msgstr ""
+msgstr "Skript"
 
 msgid "Add command line options ?"
-msgstr ""
+msgstr "Přidat volby na příkazový řádek ?"
 
 msgid " "
 msgstr ""
 
 msgid "Please enter the command line options"
-msgstr ""
+msgstr "Zadejte volbu na příkazový řádek"
 
 msgid "chmod 755"
-msgstr ""
+msgstr "chmod 755"
 
 msgid "VTI Panel"
 msgstr "VTI - panel"
@@ -361,7 +361,7 @@ msgid "InfoBar Show Tv"
 msgstr "Menu pro TV"
 
 msgid "Movie Archive"
-msgstr ""
+msgstr "Archív videa"
 
 msgid "InfoBar Record"
 msgstr "Nahrávání"
@@ -544,13 +544,13 @@ msgid "show EPGBar"
 msgstr "EPG info-panel"
 
 msgid "(De)/Activate SplitScreen"
-msgstr ""
+msgstr "(de)Aktivovat SplitScreen"
 
 msgid "(De)/Activate AudioZap"
-msgstr ""
+msgstr "(de)Aktivovat AudioZap"
 
 msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
-msgstr ""
+msgstr "Přepnout fokus (PiP, Split Screen, Audio Zap)"
 
 msgid "Quickbutton: Key "
 msgstr "Tlačítko : klíč"
