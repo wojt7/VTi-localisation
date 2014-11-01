@@ -104,7 +104,7 @@ msgid "Local share name"
 msgstr "Název pro lokální sdílení"
 
 msgid "Manage network shares"
-msgstr "Správa síťového sdílení"
+msgstr "Spravovat síťové sdílení..."
 
 msgid "Manage your network shares..."
 msgstr "Spravovat síťové sdílení..."
