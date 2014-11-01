@@ -160,7 +160,7 @@ msgid "InfoBarTunerState"
 msgstr "InfoBarTunerState"
 
 msgid "InfoBarTunerState Setup"
-msgstr "InfoBarTunerState - konfigurace"
+msgstr "Konfigurace informačního panelu nahrávání"
 
 msgid "InfoBarTunerState is disabled"
 msgstr "InfoBarTunerState je vypnutý"
@@ -187,13 +187,13 @@ msgid "Nothing running"
 msgstr "Není spuštěno"
 
 msgid "Number of finished records in list"
-msgstr "Počet dokončených záznamů v seznamu"
+msgstr "Počet probíhajících záznamů - na obrazovce"
 
 msgid "Number of pending records in list"
-msgstr "Počet čekajících záznamů v seznamu"
+msgstr "Počet čekajících záznamů - na obrazovce"
 
 msgid "Number of seconds for displaying finished records"
-msgstr "Doba zobrazení dokončeného záznamu (sec)"
+msgstr "Doba dokončeného záznamu (sec) -na obrazovce"
 
 msgid "OK"
 msgstr "OK"
@@ -241,7 +241,7 @@ msgid "Start / End record"
 msgstr "Start / konec záznamu"
 
 msgid "Start record"
-msgstr "Avviare registrazione"
+msgstr "Start záznamu"
 
 msgid "Stream"
 msgstr "sdílení"
