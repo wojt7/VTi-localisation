@@ -63,19 +63,19 @@ msgid "Cut source:"
 msgstr "Zdroj střihu :"
 
 msgid "Cutlist"
-msgstr "do seznamu"
+msgstr "ze seznamu videa"
 
 msgid "Cuts (an IN OUT IN OUT ... sequence of hour:min:sec)"
 msgstr "Střih (začátek-konec ... sekvence v hod:min:sek)"
 
 msgid "Cutting failed for movie \"%s\""
 msgstr ""
-"Selhal střih videa : \n"
+"Selhal střih filmu : \n"
 " \"%s\" !"
 
 msgid "Cutting was aborted for movie \"%s\""
 msgstr ""
-"Střih videa :\n"
+"Střih filmu :\n"
 " \"%s\" \n"
 "...byl přerušený !"
 
@@ -86,7 +86,7 @@ msgid "Empty .ap file"
 msgstr "Soubor \".ap\" je prázdný !"
 
 msgid "Execute cuts..."
-msgstr "Střih videa - ořezat podle značek ..."
+msgstr "Střih filmu - ořezat podle značek ..."
 
 msgid "How would you like to cut \"%s\"?"
 msgstr ""
@@ -97,16 +97,16 @@ msgid "Manual specification"
 msgstr "ruční zadání"
 
 msgid "New description:"
-msgstr "Nový popis :"
+msgstr "Popis souboru :"
 
 msgid "New filename:"
-msgstr "Nový název souboru :"
+msgstr "Název nového souboru :"
 
 msgid "New location:"
-msgstr "Nové umístění :"
+msgstr "Umístění souboru :"
 
 msgid "New title:"
-msgstr "Nový titulek :"
+msgstr "Titulek souboru :"
 
 msgid "No"
 msgstr "ne"
@@ -131,7 +131,7 @@ msgstr "Přepsat orig.soubor vystříhaným filmem"
 
 msgid "The movie \"%s\" is cut in the background."
 msgstr ""
-"Střih videa :\n"
+"Střih filmu :\n"
 "\"%s\" \n"
 "...se nyní provede na pozadí..."
 
