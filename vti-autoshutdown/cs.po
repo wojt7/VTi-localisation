@@ -20,7 +20,7 @@ msgid "AutoShutDown Setup"
 msgstr "Instalace AutoShutDown"
 
 msgid "AutoShutDown settings"
-msgstr "Nastavení AutoShutDown"
+msgstr "Aut.vypnutí sat.přijímače"
 
 msgid "AutoShutDown: %s ?"
 msgstr "Aut.vypnout :  %s  ?"
@@ -35,13 +35,13 @@ msgid "Choose media file"
 msgstr "Vybrat video soubor  ...OK do struktury... "
 
 msgid "Common configuration"
-msgstr "Obecné konfigurace"
+msgstr "Obecná konfigurace -----"
 
 msgid "Configuration for automatic power off in standby"
-msgstr "Konfigurace pro aut.vypnutí v režimu spánku"
+msgstr "Konfigurace pro aut.vypnutí v režimu spánku -----"
 
 msgid "Configuration for inactivity actions"
-msgstr "Konfigurace akcí při vypínání"
+msgstr "Konfigurace akcí při vypínání -----"
 
 msgid "Deepstandby"
 msgstr "Hluboký spánek"
@@ -59,7 +59,7 @@ msgid "Disable power off for given interval:"
 msgstr "Zrušit vypínání v zadaném čas.intervalu "
 
 msgid "Disable shutdown in EPGRefresh time span:"
-msgstr "Deaktivovat vypnutí - v časovém rozpětí  EPGRefresh"
+msgstr "Zakázat vypnutí zdroje při obnově EPGRefresh :"
 
 msgid "Enable AutoShutDown:"
 msgstr "Aktivovat aut.vypnutí - AutoShutDown"
@@ -125,7 +125,7 @@ msgid "configure automated power off / standby"
 msgstr "Konfigurace aut.přepínání vypnutí  / spánek"
 
 msgid "Disable power off in EPGRefresh interval:"
-msgstr "Zakázat vypínání v intervalu EPG obnovování"
+msgstr "Zakázat vypnutí zdroje při obnově EPGRefresh :"
 
 msgid "Disable power off until a given device is pingable:"
-msgstr "Zakázat vypínání při příkazu ping na zařízení"
+msgstr "Zakázat vypnutí pokud je aktivní ping, zařízení v síti :"
