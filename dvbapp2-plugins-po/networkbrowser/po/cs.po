@@ -19,7 +19,7 @@ msgid ""
 "A mount entry with this name already exists!\n"
 "Update existing entry and continue?\n"
 msgstr ""
-""Přípojný bod s tímto názvem již existuje !\n"
+"Přípojný bod s tímto názvem již existuje !\n"
 "Aktualizovat existující nastavení a pokračovat ?\n"
 
 
