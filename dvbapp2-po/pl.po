@@ -5546,7 +5546,7 @@ msgid "The pin code you entered is wrong."
 msgstr "Kod PIN, który wpisałeś jest zły."
 
 msgid "The program will exit now."
-msgstr ""
+msgstr "Program zakończy pracę.
 
 msgid "The results have been written to %s."
 msgstr "Wyniki będą zapisane w %s."
@@ -5602,7 +5602,7 @@ msgid "There are no updates available."
 msgstr "Brak aktualizacji."
 
 msgid "There is NO valid USB-stick found, so I've got nothing to do."
-msgstr ""
+msgstr "Nie znaleziono pamięci USB, więc nie mam nic do roboty."
 
 msgid ""
 "There is a valid USB-flashdrive detected in one of the USB-ports, therefore "
@@ -5626,33 +5626,35 @@ msgstr ""
 "Nośnik DVD-RW zawiera dane. Jego sformatowanie spowoduje utratę danych."
 
 msgid "This Plugin doesn't support on SOLO/DUO"
-msgstr ""
+msgstr "Ta wtyczka nie wspiera Solo/Duo"
 
 msgid "This Plugin only support for ULTIMO"
-msgstr ""
+msgstr "Ta wtyczka nie wspiera Ultimo"
 
 msgid "This STB can't decode %s streams!"
 msgstr "VU+ nie może zdekodować %s streamu!"
 
 msgid "This is dlna server using minidlna."
-msgstr ""
+msgstr "To jest serwer DLNA wykorzystujący minidlna."
 
 msgid "This is dlna/upnp client using djmount."
-msgstr ""
+msgstr "To jest DLNA/UPNP wykorzystujący djmount."
 
 msgid "This is step number 2."
 msgstr "To jest krok numer 2"
 
 msgid "This model is not support transcoding."
-msgstr ""
+msgstr "Ten model nie wspiera transcodingu."
 
 msgid "This only takes about 20 seconds....."
-msgstr ""
+msgstr "To trwa tylko około 20 sekund ....."
 
 msgid ""
 "This partition is not mountable.\n"
 "You need to check or format this partition."
 msgstr ""
+"Ta partycja nie jest możliwa do zamontowania.\n"
+"Trzeba sprawdzić, czy sformatować tą partycję."
 
 msgid "This plugin is installed."
 msgstr "Wtyczka jest zainstalowana."
@@ -5675,8 +5677,8 @@ msgid ""
 msgstr ""
 "Ten test sprawdzi poprawność konfiguracji serwera nazw.\n"
 "Jeśli otrzymasz komunikat \"unconfirmed\":\n"
-"-sprawdź ustawienia DHCP, przewodu i adaptera siecioweg\n"
-"-jeśli dokonałeś ręcznej konfiguracji DNS sprawdź ponownie konfigurację "
+"- sprawdź ustawienia DHCP, przewodu i adaptera siecioweg\n"
+"- jeśli dokonałeś ręcznej konfiguracji DNS sprawdź ponownie konfigurację "
 "\"Nameserver\"."
 
 msgid ""
@@ -5687,15 +5689,14 @@ msgid ""
 msgstr ""
 "Ten test sprawdzi czy do adaptera LAN podłączono kabel sieciowy.\n"
 "Jeśli otrzymasz komunikat \"disconnected\":\n"
-"-sprawdź czy kabel sieciowy jest podłączony\n"
-"-sprawdź czy kabel sieciowy nie jest zepsuty"
+"- sprawdź czy kabel sieciowy jest podłączony\n"
+"- sprawdź czy kabel sieciowy nie jest zepsuty"
 
 msgid ""
 "This test checks whether a network cable is connected to your Wireless LAN-"
 "Adapter."
 msgstr ""
-"Ten test sprawdza, czy kabel sieciowy jest podłączony do sieci bezprzewodowej LAN-"
-"Adapter".
+"Ten test sprawdza, czy kabel sieciowy jest podłączony do adaptera sieci bezprzewodowej."
 
 msgid ""
 "This test checks whether a valid IP Address is found for your LAN Adapter.\n"
@@ -5719,12 +5720,12 @@ msgid ""
 "-verify that you have a configured and working DHCP Server in your network."
 msgstr ""
 "Ten test sprawdzi czy adapter LAN jest skonfigurowany do pracy z DHCP.\n"
-"Jeśli otrzymasz komunikat\"disabled\":\n"
-"-w adapterze LAN jest ręcznie wpisany adres IP\n"
-"-sprawdź czy wpisane są poprawne dane dotyczące IP w oknie ustawień adaptera "
+"Jeśli otrzymasz komunikat \"disabled\":\n"
+"- w adapterze LAN jest ręcznie wpisany adres IP\n"
+"- sprawdź czy wpisane są poprawne dane dotyczące IP w oknie ustawień adaptera"
 "sieciowego.\n"
 "Jeśli otrzymasz komunikat \"enabeld\":\n"
-"-sprawdź czy w sieci znajduje się konfigurowany i włączony serwer DHCP."
+"- sprawdź czy w sieci znajduje się konfigurowany i włączony serwer DHCP."
 
 #
 msgid ""
@@ -5773,7 +5774,7 @@ msgid "Time for next VFD scrolling"
 msgstr "Czas następnego przewinięcia napisów na VFD"
 
 msgid "Time required for this process: "
-msgstr ""
+msgstr "Czas wymagany dla tego procesu"
 
 msgid "Time/Date Input"
 msgstr "Czas / Data"
@@ -5840,10 +5841,10 @@ msgid ""
 "To back-up directly to the USB-stick, the USB-stick MUST contain a file with "
 "the name:"
 msgstr ""
+"Aby utworzyć bezpośrednio kopię zapasową w pamięci USB, musi ona zawierać plik o nazwie:"
 
-#
 msgid "To restore the image:"
-msgstr ""
+msgstr "Aby zachować obraz:"
 
 msgid "Today"
 msgstr "Dzisiaj"
@@ -5884,19 +5885,19 @@ msgstr "Jasność przycisku zasilania w stanie czuwania"
 msgid "Track"
 msgstr "Ścieżka"
 
-#
 msgid "Transcoding"
-msgstr ""
+msgstr "Transkodowanie"
 
 msgid "Transcoding Setup"
-msgstr ""
+msgstr "Ustawienia transkodowania"
 
 msgid ""
 "Transcoding can be started when there is no corresponding channel recordings."
 msgstr ""
+"Transkodowanie można uruchomić, gdy nie ma odpowiedniego nagrania kanału."
 
 msgid "TranscodingSetup"
-msgstr ""
+msgstr "Ustawienia transcodingu"
 
 msgid "Translation"
 msgstr "Tłumaczenie"
@@ -5936,9 +5937,8 @@ msgstr "Ustaw"
 msgid "Tune failed!"
 msgstr "Strojenie nieudane!"
 
-#, python-format
 msgid "Tune%d %s Locking Fail..."
-msgstr ""
+msgstr "Dostrajanie%d %s zakończone niepowodzeniem..."
 
 msgid "Tuner"
 msgstr "Tuner"
@@ -5967,10 +5967,8 @@ msgstr "Dwa"
 msgid "Type"
 msgstr "Typ"
 
-#
-#, python-format
 msgid "Type : %s"
-msgstr ""
+msgstr "Typ : %s"
 
 msgid "Type of scan"
 msgstr "Typ skanowania"
@@ -5993,26 +5991,24 @@ msgstr ""
 msgid "USB Stick"
 msgstr "Pamięć USB "
 
-#, python-format
 msgid "USB test error : Success-%d"
-msgstr ""
+msgstr "Błąd testu USB: Sukces-%d"
 
-#, python-format
 msgid ""
 "USB test pass %d devices\n"
 "Press 'OK' button!"
 msgstr ""
+"Przebieg testu USB na %d urządzeniach\n"
+"Naciśnij przycisk 'OK'!"
 
-#, python-format
 msgid "UUID : %s"
-msgstr ""
+msgstr "UUID : %s"
 
 msgid "Ukrainian"
 msgstr "Ukraiński"
 
-#
 msgid "Umount"
-msgstr ""
+msgstr "Odmontuj"
 
 msgid ""
 "Unable to complete filesystem check.\n"
@@ -6038,7 +6034,7 @@ msgid "Undo uninstall"
 msgstr "Anuluj odinstalowanie"
 
 msgid "Unencrypted"
-msgstr ""
+msgstr "Nieszyfrowane"
 
 msgid "UnhandledKey"
 msgstr "Nieobsługiwany klucz"
@@ -6059,11 +6055,10 @@ msgid "Universal LNB"
 msgstr "Uniwersalny LNB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Nieznany"
 
-#
 msgid "Unknown network adapter"
-msgstr ""
+msgstr "Nieznana karta sieciowa"
 
 msgid "Unmount failed"
 msgstr "Błąd odmontowania"
@@ -6080,9 +6075,8 @@ msgstr "Strzałka w górę"
 msgid "Update"
 msgstr "Uaktualnienie"
 
-#
 msgid "Updatefeed not available."
-msgstr ""
+msgstr "Serwer aktualizacji niedostępny."
 
 msgid "Updating finished. Here is the result:"
 msgstr "Aktualizacja skończona. Oto rezultat:"
@@ -6093,13 +6087,11 @@ msgstr "Aktualizowanie katalogu oprogramowania"
 msgid "Updating... Please wait... This can take some minutes..."
 msgstr "Aktualizowanie... Proszę czekać... To może potrwać kilka minut..."
 
-#
 msgid "Upgrade"
-msgstr ""
+msgstr "Aktualizuj"
 
-#
 msgid "Upgrade FPGA.."
-msgstr ""
+msgstr "Aktualizuj FPGA.."
 
 msgid "Upgrade Firmware.."
 msgstr "Aktualizuje oprogramowanie.."
@@ -6118,9 +6110,8 @@ msgstr "Aktualizuj"
 msgid "Upgrading STB... Please wait"
 msgstr "Aktualizowanie VU+ ... Proszę czekać"
 
-#
 msgid "Url"
-msgstr ""
+msgstr "URL"
 
 msgid "Use"
 msgstr "Użyj"
@@ -6209,7 +6200,7 @@ msgid "Use this input device settings?"
 msgstr "Użyć tego ustawienia urządzenia wejściowego?"
 
 msgid "Use this settings?"
-msgstr ""
+msgstr "Użyć tego ustawienia?"
 
 msgid "Use this video enhancement settings?"
 msgstr "Użyć tych ustawień?"
@@ -6233,7 +6224,7 @@ msgid "User Email"
 msgstr "Email użytkownika"
 
 msgid "User ID"
-msgstr ""
+msgstr "ID użytkownika"
 
 msgid "User Interface"
 msgstr "Panel Użytkownika"
@@ -6242,11 +6233,10 @@ msgid "User defined"
 msgstr "Zdefiniowany przez użytkownika."
 
 msgid "User manually Set up a Mount Point"
-msgstr ""
+msgstr "Użytkownik ręcznie skonfiguruje punkt montowania"
 
-#
 msgid "User name"
-msgstr ""
+msgstr "Nazwa użytkownika"
 
 msgid "Username"
 msgstr "Nazwa użytkownika"
@@ -6257,9 +6247,8 @@ msgstr "Tworzy punkt dostępowy za pomocą WLAN"
 msgid "VCR scart"
 msgstr "VCR scart"
 
-#
 msgid "VFD Controller"
-msgstr ""
+msgstr "Kontroler VFD"
 
 msgid "VFD scroll speed"
 msgstr "Prędkość przewijania VFD"
@@ -6282,9 +6271,8 @@ msgstr "VU+ w stanie czuwania => TV włączony:"
 msgid "Verifying your internet connection..."
 msgstr "Sprawdzanie połączenia internetowego..."
 
-#
 msgid "Version"
-msgstr ""
+msgstr "Wersja"
 
 msgid "Vertical"
 msgstr "Pionowa [V]"
