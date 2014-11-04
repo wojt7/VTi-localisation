@@ -2338,7 +2338,7 @@ msgid "Following tasks will be done after you press OK!"
 msgstr "Poniższe zadania będą wykonane po naciśnięciu OK!"
 
 msgid "For use this plugin, you must update the kernel version to 3.1 or later"
-msgstr ""Aby użyć tej wtyczki musisz zaktualizować kernel do wersji 3.1 albo nowszej."
+msgstr "Aby użyć tej wtyczki musisz zaktualizować kernel do wersji 3.1 albo nowszej."
 
 msgid "Format"
 msgstr "Sformatuj"
