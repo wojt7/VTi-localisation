@@ -183,7 +183,6 @@ msgstr ""
 "\ n"
 "Podczas transkodowania, PIP i wyjścia analogowe wideo są wyłączone."
 
-#, python-format
 msgid ""
 "\n"
 "partition %d : %s MB"
@@ -811,7 +810,7 @@ msgid "Are you sure you want to exit this wizard?"
 msgstr "Czy chcesz opuścić kreatora?"
 
 msgid "Are you sure you want to restart your network interfaces?\n"
-msgstr ""Czy jesteś pewien, że chcesz uruchomić ponownie interfejs sieciowy?\n"
+msgstr "Czy jesteś pewien, że chcesz uruchomić ponownie interfejs sieciowy?\n"
 
 msgid ""
 "Are you sure you want to restart your network interfaces?\n"
@@ -1645,7 +1644,7 @@ msgid "DeviceManager configuration"
 msgstr "Konfiguracja menadżera urządzeń"
 
 msgid "Devices"
-msgstr ""
+msgstr "Urządzenia"
 
 msgid "DiSEqC"
 msgstr "DiSEqC"
@@ -1673,7 +1672,6 @@ msgstr "Cyfrowe usunięcie konturu"
 
 msgid "Direct Input"
 msgstr "Bezpośrednie wejście"
-
 
 msgid "Direct Input(Bookmark)"
 msgstr "Bezpośrednie wejście (Ulubione)"
@@ -1729,7 +1727,6 @@ msgstr "Wyświetlanie i Interfejs użytkownika"
 msgid "Do not zap to not available services"
 msgstr "Nie przełączaj na niedostępne kanały"
 
-#, python-format
 msgid ""
 "Do you really want to REMOVE\n"
 "the plugin \"%s\"?"
@@ -2251,7 +2248,7 @@ msgid "Fallback to default skin at skin errors"
 msgstr "Powróć do domyślnej skóry w przypadku wystąpienia błędów"
 
 msgid "Fan %d"
-msgstr "Fan %d"
+msgstr "Wentylator %d"
 
 msgid "Fan Control"
 msgstr "Ustawienia wentylatora"
@@ -2293,6 +2290,8 @@ msgid ""
 "File not Found!\n"
 "/proc/bus/nim_sockets"
 msgstr ""
+"Nie znaleziono pliku!\n"
+"/proc/bus/nim_sockets"
 
 msgid "File not found"
 msgstr "Plik nie został odnaleziony."
@@ -2340,8 +2339,7 @@ msgid "Following tasks will be done after you press OK!"
 msgstr "Poniższe zadania będą wykonane po naciśnięciu OK!"
 
 msgid "For use this plugin, you must update the kernel version to 3.1 or later"
-msgstr ""
-"Aby użyć tej wtyczki musisz zaktualizować kernel do wersji 3.1 albo nowszej."
+msgstr ""Aby użyć tej wtyczki musisz zaktualizować kernel do wersji 3.1 albo nowszej."
 
 msgid "Format"
 msgstr "Sformatuj"
@@ -2573,18 +2571,23 @@ msgstr "Ścieżka ISO"
 msgid "Icelandic"
 msgstr "Islandzki"
 
-#
 msgid ""
 "If WOL is enabled, power consumption will be around 2W.\n"
 "ErP Standby Power Regulation (<0.5W at standby) cannot be met.\n"
 "Proceed?"
 msgstr ""
+"Jeśli WOL jest włączona, pobór mocy będzie około 2W.\n"
+"Rozporządzenie mocy w ErP stanie czuwania (<0,5 W w trybie czuwania) nie może być spełnione.\n"
+"Kontynuować?"
 
 msgid ""
 "If you place an USB-stick containing this file then the back-up will be "
 "automatically made onto the USB-stick and can be used to restore the current "
 "image if necessary."
 msgstr ""
+"Jeśli umieścisz pamięć USB zawierającą ten plik to kopia zapasowa będzie"
+"wykonana automatycznie na pamięci USB i może być wykorzystana do odtworzenia obecnego"
+"obrazu, jeśli to konieczne."
 
 msgid ""
 "If you see this, something is wrong with\n"
@@ -2664,9 +2667,8 @@ msgstr "Informacje"
 msgid "Init"
 msgstr "Init"
 
-#
 msgid "InitInitializing, please wait ..."
-msgstr ""
+msgstr "Inicjalizuję, proszę czekać ..."
 
 msgid "Initial Fast Forward speed"
 msgstr "Początkowa prędkość przewijania"
@@ -2698,9 +2700,8 @@ msgstr "Konfiguracja urządzenia wejściowego"
 msgid "Input mount point path."
 msgstr ""
 
-#, python-format
 msgid "Input size of partition %s.(Max = %d MB)"
-msgstr ""
+msgstr "Wprowadź wielkość partycji %s.(Max =% d MB)"
 
 msgid "Install"
 msgstr "Instalacja"
@@ -2733,13 +2734,13 @@ msgid "Installing Software..."
 msgstr "Instalowanie oprogramowania..."
 
 msgid "Installing default sat lists... Please wait..."
-msgstr "Instaluję standardową listę satelit...Proszę czekać..."
+msgstr "Instaluję standardową listę satelit... Proszę czekać..."
 
 msgid "Installing defaults... Please wait..."
-msgstr "Instaluję ustawienia standardowe...Proszę czekać..."
+msgstr "Instaluję ustawienia standardowe... Proszę czekać..."
 
 msgid "Installing package content... Please wait..."
-msgstr "Instaluję zawartość pakietu...Proszę czekać..."
+msgstr "Instaluję zawartość pakietu... Proszę czekać..."
 
 msgid "Instant record location"
 msgstr "Lokalizacja szybkiego nagrania"
@@ -2757,11 +2758,10 @@ msgid "Internal USB Slot"
 msgstr "Wewnętrzne gnizado USB"
 
 msgid "Invalid "
-msgstr ""
+msgstr "Nieprawidłowy"
 
-#
 msgid "Invalid Choice"
-msgstr ""
+msgstr "Nieprawidłowy wybór"
 
 msgid "Invalid Fragm Threshold\n"
 msgstr "Nieprawidłowy Fragm Threshold\n"
@@ -2779,9 +2779,11 @@ msgid ""
 "Invalid URL!!(Empty)\n"
 "Please, Input to the URL."
 msgstr ""
+"Nieprawidłowy URL!! (Pusty)\n"
+"Proszę, wprowadź URL."
 
 msgid "Invalid URL. Please check again!!"
-msgstr ""
+msgstr "Nieprawidłowy URL. Proszę sprawdź ponownie!!"
 
 msgid ""
 "Invalid WEP key\n"
@@ -2806,7 +2808,6 @@ msgstr "Nieprawidłowy beacon\n"
 msgid "Invalid channel\n"
 msgstr "Nieprawidłowy kanał\n"
 
-#, python-format
 msgid "Invalid directory selected: %s"
 msgstr "Wybrano niewłaściwy katalog: %s"
 
@@ -2840,7 +2841,6 @@ msgstr "Włoski"
 msgid "Job View"
 msgstr "Podgląd zajęć"
 
-#. TRANSLATORS: (aspect ratio policy: display as fullscreen, even if this breaks the aspect)
 msgid "Just Scale"
 msgstr "Po prostu skaluj"
 
@@ -2853,20 +2853,17 @@ msgstr "Klucz (8~63 znaków)"
 msgid "Keep"
 msgstr "Zachowaj"
 
-#
 msgid "Key Type"
-msgstr ""
+msgstr "Typ klucza"
 
-#
 msgid "KeyType"
-msgstr ""
+msgstr "Typ klucza"
 
 msgid "Keyboard"
 msgstr "Klawiatura..."
 
-#
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Układ klawiatury"
 
 msgid "Keyboard Map"
 msgstr "Mapa klawiatury"
@@ -2922,14 +2919,12 @@ msgstr "Zamknąć odtwarzacz DVD?"
 msgid "Left"
 msgstr "w lewo"
 
-#
 msgid "Left Key"
-msgstr ""
+msgstr "Lewy klawisz"
 
 msgid "Left Mouse Button"
 msgstr "Lewy przycisk myszki"
 
-#. TRANSLATORS: (aspect ratio policy: black bars on top/bottom) in doubt, keep english term.
 msgid "Letterbox"
 msgstr "Letterbox"
 
@@ -3026,11 +3021,12 @@ msgstr "Menu Główne"
 msgid "Mainmenu"
 msgstr "Menu Główne"
 
-#, python-format
 msgid ""
 "Make filesystem Error /dev/%s.\n"
 "Please check your device."
 msgstr ""
+"Sprawdź błąd systemu plików /dev/%s.\n"
+"Proszę sprawdzić urządzenie."
 
 msgid "Make this mark an 'in' point"
 msgstr "Traktuj znacznik jako wewnętrzny punkt"
@@ -3102,7 +3098,7 @@ msgid "Message..."
 msgstr "Wiadomość..."
 
 msgid "Method"
-msgstr ""
+msgstr "Metoda"
 
 msgid "Mkfs failed"
 msgstr "Mkfs zawiódł"
@@ -3141,50 +3137,49 @@ msgid "Mosquito noise reduction"
 msgstr "Punktowa redukcja szumów"
 
 msgid "Mount"
-msgstr ""
+msgstr "Zamontuj"
 
-#
-#, python-format
 msgid ""
 "Mount Failed!\n"
 "(%s -> %s)"
 msgstr ""
+"Montowanie nie powiodło się!\n"
+"(%s -> %s)"
 
-#, python-format
 msgid ""
 "Mount Failed!\n"
 "Current path is already mounted by \"%s\""
 msgstr ""
+"Montowanie nie powiodło się!\n"
+"Aktualna ścieżka jest już zamontowana przez \"%s\""
 
 msgid "Mount Point"
 msgstr ""
 
-#, python-format
 msgid "Mount Point : %s -> %s"
-msgstr ""
+msgstr "Punkt montowania : %s -> %s"
 
-#, python-format
 msgid "Mount Point : %s ->%s"
-msgstr ""
+msgstr "Punkt montowania : %s -> %s"
 
 msgid "Mount Point : click ok button on here."
-msgstr ""
+msgstr "Punkt montowania : naciśnij OK tutaj button on here."
 
-#, python-format
 msgid ""
 "Mount Point is not writeable.\n"
 "Path : %s"
 msgstr ""
+"Punkt montowania nie jest zapisywalny.\n"
+"Ścieżka : %s"
 
 msgid "Mount failed"
 msgstr "Montowanie nieudane"
 
 msgid "Mount known devices automatically : "
-msgstr ""
+msgstr "Zamontuj znane urządzenia automatycznie :"
 
-#, python-format
 msgid "Mounted on : %s"
-msgstr ""
+msgstr "Zamontuj na : %s"
 
 msgid "Mouse"
 msgstr "Myszka"
@@ -3207,9 +3202,8 @@ msgstr "Lokalizacja filmu"
 msgid "Movielist menu"
 msgstr "Menu listy filmów"
 
-#
 msgid "Movies / Timers"
-msgstr ""
+msgstr "Filmy / Nagrania"
 
 msgid "Movies"
 msgstr "Filmy"
@@ -3257,6 +3251,8 @@ msgid ""
 "NO_GET_APPNAME\n"
 "Press exit!"
 msgstr ""
+"Nie otrzymałem nazwy aplikacji\n"
+"Naciśnij Exit!"
 
 msgid "NTSC"
 msgstr "NTSC"
@@ -3270,7 +3266,6 @@ msgstr "Nazwa :"
 msgid "Nameserver"
 msgstr "DNS"
 
-#, python-format
 msgid "Nameserver %d"
 msgstr "DNS %d"
 
@@ -3280,12 +3275,11 @@ msgstr "Ustawienia DNS..."
 msgid "Namespace"
 msgstr "Przestrzeń nazw"
 
-#
 msgid "NetDrive Setup"
-msgstr ""
+msgstr "Konfiguracja NetDrive"
 
 msgid "NetMask"
-msgstr ""
+msgstr "Maska sieci"
 
 msgid "Netmask"
 msgstr "Maska sieci"
@@ -3390,7 +3384,6 @@ msgstr "Brak wolnego tunera!"
 msgid "No information..."
 msgstr "Brak informacji..."
 
-#, python-format
 msgid ""
 "No mountable devices found.! (%s)\n"
 "Do you want to open DeviceManager and do initialize or format this device?\n"
@@ -3398,6 +3391,11 @@ msgid ""
 "(Open 'Menu->Setup->System -> Harddisk -> DeviceManager'\n"
 " and press MENU button to deactivate this check.)"
 msgstr ""
+"Nie znaleziono urządzenia do zamontowania! (%s)\n"
+"Czy chcesz otworzyć menadżera urządzeń i zainicjować lub sformatować to urządzenie?\n"
+"\n"
+"(Otwórz 'Menu-> Ustawienia -> System -> Dysk twardy -> Menadżer urządzeń'\n"
+"I naciśnij przycisk Menu, aby wyłączyć tą kontrolę.)"
 
 msgid "No network connection available."
 msgstr "Brak połączenia z siecią."
@@ -3430,11 +3428,10 @@ msgid "No satellite frontend found!!"
 msgstr "Nie znaleziono satelity!!!"
 
 msgid "No selected binary data!!"
-msgstr ""
+msgstr "Nie wybrano danych binarnych!!""
 
-#
 msgid "No supported receiver found!"
-msgstr ""
+msgstr "Nie odnaleziono obsługiwanego odbiornika!"
 
 msgid "No tags are set on these movies."
 msgstr "Brak ustawionych oznaczeń na tych filmach."
@@ -3468,7 +3465,7 @@ msgid ""
 msgstr ""
 "Nie znaleziono kodu PIN ustawień!\n"
 "Czy chcesz zmienić PIN ustawień?\n"
-"Gdy wybierzesz NIE ochrona ustawień zostanie wyłączona!"
+"Gdy wybierzesz NIE, ochrona ustawień zostanie wyłączona!"
 
 msgid "No wireless networks found! Searching..."
 msgstr "Nie znaleziono sieci bezprzewodowych! Wyszukiwanie ..."
@@ -3509,9 +3506,8 @@ msgstr "Nie, ale odtwórz od początku"
 msgid "No, do nothing."
 msgstr "Nie, nie rób nic"
 
-#
 msgid "No, just start my STB"
-msgstr ""
+msgstr "Nie, uruchom moje VU+"
 
 msgid "No, never"
 msgstr ""
@@ -3522,7 +3518,6 @@ msgstr "Nie, skanuj ręcznie później"
 msgid "None"
 msgstr "Brak"
 
-#. TRANSLATORS: (aspect ratio policy: display as fullscreen, with stretching the left/right)
 msgid "Nonlinear"
 msgstr "Nielinearny"
 
@@ -3535,7 +3530,6 @@ msgstr "Północ"
 msgid "Norwegian"
 msgstr "Norweski"
 
-#, python-format
 msgid ""
 "Not enough diskspace. Please free up some diskspace and try again. (%d MB "
 "required, %d MB available)"
@@ -3606,15 +3600,15 @@ msgstr "Otwórz stronę startową"
 msgid "Open URL"
 msgstr "Otwórz stronę"
 
-#
 msgid "Opera Browser"
 msgstr ""
 
-#
 msgid ""
 "Opera Browser was not running.\n"
 "Please running browser using [File]>[Start/Stop] menu."
 msgstr ""
+"Przeglądarka Opera nie została uruchomiona.\n"
+"Proszę uruchomić przeglądarkę za pomocą menu [Plik]>[Start/Stop]."
 
 msgid "Opera Web Browser"
 msgstr "Przeglądarka Opera"
@@ -3644,7 +3638,7 @@ msgid "PIN :"
 msgstr ""
 
 msgid "PLEASE READ THIS:"
-msgstr ""
+msgstr "Proszę przeczytaj to:"
 
 msgid "PMT PID"
 msgstr ""
@@ -3689,20 +3683,17 @@ msgstr "Ustawienia kontroli rodzicielskiej"
 msgid "Parental control type"
 msgstr "Typ kontroli rodzicielskiej"
 
-#, python-format
 msgid "Partition : /dev/%s"
-msgstr ""
+msgstr "Partycja : /dev/%s"
 
 msgid "Partition info is not found."
-msgstr ""
+msgstr "Informacja o partycji nie została znaleziona."
 
-#
 msgid "Partitions"
-msgstr ""
+msgstr "Partycje"
 
-#, python-format
 msgid "Partitions : %s"
-msgstr ""
+msgstr "Partycje : %s"
 
 msgid "Password"
 msgstr "Hasło"
@@ -3713,9 +3704,8 @@ msgstr "Hasło :"
 msgid "Pause movie at end"
 msgstr "Zatrzymaj film na końcu"
 
-#
 msgid "Phone :"
-msgstr ""
+msgstr "Telefon :"
 
 msgid "Phone number"
 msgstr "Numer telefonu"
@@ -3729,7 +3719,6 @@ msgstr "Folder zdjęć"
 msgid "PicturePlayer"
 msgstr "Odtwarzacz Zdjęć"
 
-#. TRANSLATORS: (aspect ratio policy: black bars on left/right) in doubt, keep english term.
 msgid "Pillarbox"
 msgstr "Pillarbox"
 
