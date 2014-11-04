@@ -6393,9 +6393,8 @@ msgstr "Klucz WEP (HEX)"
 msgid "WLAN adapter"
 msgstr "adapter WLAN"
 
-#
 msgid "WLAN adapter."
-msgstr ""
+msgstr "Adapter WLAN"
 
 msgid "WLAN connection"
 msgstr "Połączenie WLAN"
@@ -6418,24 +6417,20 @@ msgstr "WSS na 4:3"
 msgid "Wait a moment"
 msgstr ""
 
-#
 msgid "Wait a moment..."
-msgstr ""
+msgstr "Poczekaj chwilę ..."
 
 msgid "Waiting"
 msgstr "Oczekiwanie"
 
-#
 msgid "WakeOnLan Enable"
-msgstr ""
+msgstr "Włącz WakeOnLan"
 
-#
 msgid "WakeOnLan Setup"
-msgstr ""
+msgstr "Ustawienia WakeOnLan"
 
-#
 msgid "Web Browser"
-msgstr ""
+msgstr "Przeglądarka"
 
 msgid "Wed"
 msgstr "Śro"
