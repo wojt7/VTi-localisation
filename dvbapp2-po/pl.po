@@ -3509,7 +3509,7 @@ msgid "No, just start my STB"
 msgstr "Nie, uruchom moje VU+"
 
 msgid "No, never"
-msgstr ""
+msgstr "Nie, nigdy"
 
 msgid "No, scan later manually"
 msgstr "Nie, skanuj ręcznie później"
@@ -3663,7 +3663,6 @@ msgstr "Strzałka w dół"
 msgid "PageUp Key"
 msgstr "Strzałka w górę"
 
-#. TRANSLATORS: (aspect ratio policy: cropped content on left/right) in doubt, keep english term
 msgid "Pan&Scan"
 msgstr "Pan&Scan"
 
@@ -3731,8 +3730,8 @@ msgid ""
 "Ping test fail\n"
 "Press exit"
 msgstr ""
-Ping test zakończony niepowodzeniem\n"
-"Naciśnij exit"
+"Ping test zakończony niepowodzeniem\n"
+"Naciśnij Exit"
 
 msgid "Ping test pass"
 msgstr "Test ping ukończony powodzeniem"
@@ -3832,7 +3831,7 @@ msgid "Please choose he package..."
 msgstr "Wybierz pakiet ..."
 
 msgid "Please choose one."
-msgstr ""
+msgstr "Wybierz jeden"
 
 msgid "Please choose the default services lists you want to install."
 msgstr "Wybierz standardową listę kanałów, którą chcesz zainstalować."
@@ -4441,7 +4440,7 @@ msgid "Resuming playback"
 msgstr "Wznawianie odtwarzania"
 
 msgid "Return"
-msgstr ""
+msgstr "Wróć"
 
 msgid "Return the Love Event"
 msgstr "Return the Love Event"
@@ -4473,9 +4472,8 @@ msgstr "Roll-off"
 msgid "Rotor turning speed"
 msgstr "Prędkość obrotu rotora."
 
-#
 msgid "Run at the Deep Standby"
-msgstr ""
+msgstr "Uruchom w głębokim czuwaniu"
 
 msgid "Running"
 msgstr "Uruchomiony"
@@ -4670,16 +4668,15 @@ msgstr ""
 "wybranego urządzenia.\n"
 
 msgid "Scanning AP List.."
-msgstr ""
+msgstr "Skanowanie listy AP.."
 
 msgid ""
 "Scans default lamedbs sorted by satellite with a connected dish positioner"
 msgstr ""
 "Przeskanuj standardowe lamedbs według satelit zapisanych w pozycjonerze"
 
-#
 msgid "Scart loop ok?"
-msgstr ""
+msgstr "Pętla Scart ok?"
 
 msgid "Search east"
 msgstr "Szukaj na wschód"
@@ -4702,14 +4699,11 @@ msgstr "Wyszukiwanie"
 msgid "Select"
 msgstr "Wybierz"
 
-#
-#, python-format
 msgid "Select %s button function:"
-msgstr ""
+msgstr "Wybierz %s przycisk funkcji:"
 
-#
 msgid "Select %s (long) button function:"
-msgstr ""
+msgstr "Wybierz %s (długi) przycisk funkcji:"
 
 msgid "Select HDD"
 msgstr "Wybierz HDD"
@@ -4733,13 +4727,13 @@ msgid "Select channel to record from"
 msgstr "Wybierz kanał do nagrania z"
 
 msgid "Select files for backup."
-msgstr ""
+msgstr "Wybierz pliki do kopii zapasowej."
 
 msgid "Select files/folders to backup"
 msgstr "Wybierz pliki do kopii zapasowej."
 
 msgid "Select input device"
-msgstr ""
+msgstr "Wybierz urządzenie wejściowe."
 
 msgid "Select input device."
 msgstr "Wybierz urządzenie wejściowe."
@@ -4762,9 +4756,8 @@ msgstr "Wybierz źródło aktualizacji do edycji"
 msgid "Select video mode"
 msgstr "Wybierz tryb wideo"
 
-#
 msgid "Select video port"
-msgstr ""
+msgstr "Wybierz port video"
 
 msgid "Select wireless network"
 msgstr "Wybierz sieć bezprzewodową WiFi"
@@ -4785,7 +4778,7 @@ msgid "Serbian"
 msgstr "Serbski"
 
 msgid "Server"
-msgstr ""
+msgstr "Serwer"
 
 msgid "Server Name"
 msgstr "Nazwa serwera"
@@ -4793,7 +4786,6 @@ msgstr "Nazwa serwera"
 msgid "Service"
 msgstr "Informacje o kanale..."
 
-#
 msgid "Service EPGBar"
 msgstr ""
 
@@ -4864,7 +4856,7 @@ msgid "Set limits"
 msgstr "Ustaw limity"
 
 msgid "Set up Default Mount Point"
-msgstr ""
+msgstr "Ustaw domyślny punkt montowania"
 
 msgid "Setting"
 msgstr "Ustawienie"
@@ -4920,14 +4912,11 @@ msgstr "Ostrość"
 msgid "Short filenames"
 msgstr "Krótkie nazwy plików"
 
-#
-#, python-format
 msgid "Short name for bookmark %s:"
-msgstr ""
+msgstr "Skrócona nazwa dla ulubionych %s:"
 
-#
 msgid "Short name for bookmark %s (long):"
-msgstr ""
+msgstr "Skrócona nazwa dla ulubionych %s (długi):"
 
 msgid "Show DVB subtitles centered"
 msgstr "Pokaż wyśrodkowane napisy DVB"
@@ -4992,9 +4981,8 @@ msgstr "Pokaż pasek info podczas przewijania przód/tył"
 msgid "Show menu entries arranged in alphabetical order"
 msgstr "Pokaż wpisy w menu ułożone w porządku alfabetycznym"
 
-#
 msgid "Show on the Standby Menu"
-msgstr ""
+msgstr "Pokaż w menu gotowości"
 
 msgid "Show picon at number zap"
 msgstr "Pokaż pikonę przy przełączaniu programu"
@@ -5095,10 +5083,8 @@ msgstr "Jeden transponder"
 msgid "Singlestep (GOP)"
 msgstr "Pojedyńczy krok (GOP)"
 
-#
-#, python-format
 msgid "Size : %s"
-msgstr ""
+msgstr "Rozmiar : %s"
 
 msgid "Skin"
 msgstr "Skóra"
@@ -5118,7 +5104,6 @@ msgstr "Odstępy w pokazie slajdów"
 msgid "Slideshow Interval (sec.)"
 msgstr "Odstępy w pokazie slajdów (w sek.)"
 
-#, python-format
 msgid "Slot %d"
 msgstr "Slot %d"
 
@@ -5134,23 +5119,25 @@ msgstr "Wolno"
 msgid "Slow Motion speeds"
 msgstr "Odtwarzanie w zwolnionym tempie"
 
-#, python-format
 msgid ""
 "Smart Card 1 Error!\n"
 "errorcode=%d"
 msgstr ""
+"Błąd karty kodowej 1!\n"
+"Kod błędu=%d"
 
-#, python-format
 msgid ""
 "Smart Card 2 Error!\n"
 "errorcode=%d"
 msgstr ""
+"Błąd karty kodowej 2!\n"
+"Kod błędu=%d"
 
 msgid "Smart Card OK!!"
-msgstr ""
+msgstr "Karta kodowa OK!!"
 
 msgid "Smart Card model type error"
-msgstr ""
+msgstr "Błąd rodzaju karty kodowej"
 
 msgid "Software"
 msgstr "Oprogramowanie"
@@ -5204,13 +5191,11 @@ msgstr ""
 msgid "Sort"
 msgstr "Sortuj"
 
-#. TRANSLATORS: This must fit into the header button in the EPG-List
 msgid "Sort A-Z"
-msgstr "Sortuj od A-Z"
+msgstr "Sortuj A-Z"
 
-#. TRANSLATORS: This must fit into the header button in the EPG-List
 msgid "Sort Time"
-msgstr "Sortuj po czasie"
+msgstr "Sortuj (Czas)"
 
 msgid "Sound"
 msgstr "Dźwięk"
@@ -5236,9 +5221,8 @@ msgstr "Czuwanie / Restart"
 msgid "Start"
 msgstr "Rozpocznij"
 
-#
 msgid "Start Page"
-msgstr ""
+msgstr "Strona startowa"
 
 msgid "Start folder for movie list"
 msgstr "Folder startowy dla listy filmów"
@@ -5249,9 +5233,8 @@ msgstr "Rozpocznij od początku"
 msgid "Start test"
 msgstr "Rozpocznij test"
 
-#
 msgid "Start/Stop"
-msgstr ""
+msgstr "Start/Stop"
 
 msgid "StartTime"
 msgstr "Czas rozpoczęcia"
@@ -5262,12 +5245,11 @@ msgstr "Uruchamiam przeglądarkę. Proszę, czekaj..."
 msgid "Starting on"
 msgstr "Rozpocznij od"
 
-#
 msgid "Startpage"
-msgstr ""
+msgstr "Strona startowa"
 
 msgid "Status : 0%"
-msgstr ""
+msgstr "Status : 0%
 
 msgid "Status Check Period"
 msgstr "Sprawdzaj co: "
@@ -5287,9 +5269,8 @@ msgstr "Zatrzymaj Timeshift (kasując plik .ts)"
 msgid "Stop Timeshift (keeping TS file)"
 msgstr "Zatrzymaj Timeshift (pozostawiając plik .ts)"
 
-#
 msgid "Stop Timeshift ?"
-msgstr ""
+msgstr "Zatrzymać Timeshift?"
 
 msgid "Stop current event and disable coming events"
 msgstr "Zatrzymaj aktualne wydarzenie i wyłącz przychodzące wydarzenia"
@@ -5384,9 +5365,8 @@ msgstr "Plik TS jest za duży dla ISO9660 poziom 1!"
 msgid "TSID"
 msgstr ""
 
-#
 msgid "TV / Radio"
-msgstr ""
+msgstr "TV / Radio"
 
 msgid "TV System"
 msgstr "System TV"
@@ -5418,9 +5398,8 @@ msgstr "Oznaczenie 2"
 msgid "Tags"
 msgstr "Oznaczenia"
 
-#
 msgid "Task list"
-msgstr ""
+msgstr "Lista zadań"
 
 msgid "Teletext subtitle color"
 msgstr "Kolor czcionki teletekstu"
@@ -5450,7 +5429,7 @@ msgid "Test the network configuration of your STB.\n"
 msgstr "Test konfiguracji sieci VU+.\n"
 
 msgid "Testing Smartcard 2..."
-msgstr ""
+msgstr "Testuję kartę kodową 2...
 
 msgid ""
 "Thank you for using the wizard.\n"
@@ -5495,31 +5474,33 @@ msgstr ""
 "Zarządzanie dodatkami jest nie zainstalowane!\n"
 "Zainstaluj to."
 
-#
 msgid ""
 "The VTI Info Panel is not installed!\n"
 "Please install it."
 msgstr ""
+"Panel informacyjny VTI nie jest zainstalowany!\n"
+"Proszę zainstalować go."
 
-#
 msgid ""
 "The VTi InfoPanel is not installed!\n"
 "Please install it."
 msgstr ""
+"Panel informacyjny VTI nie jest zainstalowany!\n"
+"Proszę zainstalować go."
 
-#
 msgid ""
 "The VTi Panel is not installed!\n"
 "Please install it."
 msgstr ""
+"Panel VTI nie jest zainstalowany!\n"
+"Proszę zainstalować go."
 
 msgid "The backup failed. Please choose a different backup location."
 msgstr "Nieudane tworzenie kopii zapasowej. Wybierz inną lokalizację kopii."
 
 msgid "The content of the folder is:"
-msgstr ""
+msgstr "Zawartość folderu jest:"
 
-#, python-format
 msgid ""
 "The directory %s is not writable.\n"
 "Make sure you select a writable directory instead."
@@ -5530,12 +5511,14 @@ msgstr ""
 msgid "The following files were found..."
 msgstr "Dane pliki zostały znalezione..."
 
-#
 msgid ""
 "The input port should be configured now.\n"
 "You can now configure the screen by displaying some test picture. Do you "
 "want to do that now?"
 msgstr ""
+"Port wejścia powinien być skonfigurowany.\n"
+"Teraz można skonfigurować ekran wyświetlając jakiś obraz testowy."
+"Czy chcesz to zrobić teraz?"
 
 msgid "The installation of the default services lists is finished."
 msgstr "Instalowanie standardowej listy kanałów zostało zakończone."
@@ -5548,16 +5531,14 @@ msgstr ""
 "konfigurację w VU+, naciśnij przycisk OK pilota."
 
 msgid "The loopthrough setting is wrong."
-msgstr ""
+msgstr "Ustawienie przelotu jest złe."
 
-#
 msgid "The number you entered is wrong!"
-msgstr ""
+msgstr "Wprowadzony numer jest zły!"
 
 msgid "The package doesn't contain anything."
 msgstr "Pakiet nie zawiera informacji."
 
-#, python-format
 msgid "The path %s already exists."
 msgstr "Ścieżka %s już istnieje."
 
@@ -5567,7 +5548,6 @@ msgstr "Kod PIN, który wpisałeś jest zły."
 msgid "The program will exit now."
 msgstr ""
 
-#, python-format
 msgid "The results have been written to %s."
 msgstr "Wyniki będą zapisane w %s."
 
@@ -5651,7 +5631,6 @@ msgstr ""
 msgid "This Plugin only support for ULTIMO"
 msgstr ""
 
-#, python-format
 msgid "This STB can't decode %s streams!"
 msgstr "VU+ nie może zdekodować %s streamu!"
 
@@ -5715,6 +5694,8 @@ msgid ""
 "This test checks whether a network cable is connected to your Wireless LAN-"
 "Adapter."
 msgstr ""
+"Ten test sprawdza, czy kabel sieciowy jest podłączony do sieci bezprzewodowej LAN-"
+"Adapter".
 
 msgid ""
 "This test checks whether a valid IP Address is found for your LAN Adapter.\n"
@@ -5756,13 +5737,19 @@ msgid ""
 "If you get an \"enabeld\" message:\n"
 "-verify that you have a configured and working DHCP Server in your network."
 msgstr ""
+"Ten test sprawdza, czy karta LAN jest skonfigurowana do automatycznej"
+"konfiguracji adresu IP z serwera DHCP.\n"
+"Jeśli pojawi się komunikat: \"disabled\"\n"
+"- wówczas karta LAN jest skonfigurowana do manualnego ustawienia IP\n"
+"- sprawdzić czy podałeś poprawne informacje IP w ustawieniach\n"
+"Jeśli pojawi się komunikat:\" enabeld\"\n"
+"- sprawdź czy masz skonfigurowany serwer DHCP do pracy w sieci."
 
 msgid "This test detects your configured LAN-Adapter."
 msgstr "Test wykrył adapter sieci LAN."
 
-#
 msgid "This test detects your configured Wireless LAN-Adapter."
-msgstr ""
+msgstr "Test ten wykrywa skonfigurowany adapter sieci bezprzewodowej."
 
 msgid "Three"
 msgstr "Trzy"
