@@ -34,26 +34,27 @@ msgstr ""
 "\n"
 "Kopia ustawień VU+"
 
-#
-#, python-format
 msgid ""
 "\n"
 "Device : %s"
 msgstr ""
+"\n"
+"Urządzenie : %s"
 
-#, python-format
 msgid ""
 "\n"
 "Device : /dev/%s"
 msgstr ""
+"\n"
+"Urządzenie : /dev/%s"
 
-#
 msgid ""
 "\n"
 "Do you want to exit?"
 msgstr ""
 "\n"
 "Czy chcesz wyjść?"
+
 msgid ""
 "\n"
 "Edit the upgrade source address."
@@ -61,12 +62,12 @@ msgstr ""
 "\n"
 "Edytuj adres aktualizacji."
 
-#
-#, python-format
 msgid ""
 "\n"
 "Filesystem : %s"
 msgstr ""
+"\n"
+"System plików : %s"
 
 msgid ""
 "\n"
@@ -82,11 +83,12 @@ msgstr ""
 "\n"
 "Aktualizacja Online oprogramowania VU+."
 
-#, python-format
 msgid ""
 "\n"
 "Partition : %s"
 msgstr ""
+"\n"
+"Partycja : %s"
 
 msgid ""
 "\n"
@@ -132,24 +134,26 @@ msgstr ""
 "Wybierz urządzenie do kopii.\n"
 "Aktualne urządzenie: "
 
-#, python-format
 msgid ""
 "\n"
 "Size : %d MB\n"
 msgstr ""
+"\n"
+"Rozmiar : %d MB\n"
 
-#
-#, python-format
 msgid ""
 "\n"
 "Size : %s"
 msgstr ""
+"\n"
+"Rozmiar : %s"
 
-#, python-format
 msgid ""
 "\n"
 "Size : %s MB\n"
 msgstr ""
+"\n"
+"Rozmiar : %s MB\n"
 
 msgid ""
 "\n"
@@ -169,17 +173,23 @@ msgid ""
 "\n"
 "When transcoding, PIP is disabled."
 msgstr ""
+"\n"
+"Podczas transkodowania, PIP jest wyłączony."
 
 msgid ""
 "\n"
 "When transcoding, both PIP and analog video outputs are disabled."
 msgstr ""
+"\ n"
+"Podczas transkodowania, PIP i wyjścia analogowe wideo są wyłączone."
 
 #, python-format
 msgid ""
 "\n"
 "partition %d : %s MB"
 msgstr ""
+"\n"
+"partycja %d : %s MB"
 
 msgid " "
 msgstr " "
@@ -202,15 +212,14 @@ msgstr ""
 msgid " 3"
 msgstr ""
 
-#, python-format
 msgid " at /dev/%s"
-msgstr ""
+msgstr "o /dev/%s"
 
 msgid " extensions."
 msgstr "Rozszerzenia."
 
 msgid " ms"
-msgstr ""
+msgstr "ms"
 
 msgid " packages selected."
 msgstr "wybrane pakiety."
@@ -225,6 +234,8 @@ msgid ""
 "!!(Empty)\n"
 "Please, Input to the "
 msgstr ""
+"!!(Pusty)\n"
+"Proszę, wprowadź do "
 
 msgid "#000000"
 msgstr "#000000"
@@ -259,31 +270,24 @@ msgstr "#ffffffff"
 msgid "%H:%M"
 msgstr "%H:%M"
 
-#
 msgid "%d %B %Y"
-msgstr ""
+msgstr "%d %B %Y"
 
-#, python-format
 msgid "%d / 100"
-msgstr ""
+msgstr "%d / 100"
 
-#, python-format
 msgid "%d jobs are running in the background!"
 msgstr "To %d zadanie jest wykonywane w tle!"
 
-#, python-format
 msgid "%d min"
 msgstr "%d min"
 
-#, python-format
 msgid "%d services found!"
 msgstr "%d znalezionych kanałów!"
 
-#, python-format
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
-#, python-format
 msgid ""
 "%s\n"
 "(%s, %d MB free)"
@@ -291,26 +295,24 @@ msgstr ""
 "%s\n"
 "(%s, %d MB wolne)"
 
-#, python-format
 msgid ""
 "%s\n"
 "Start Device Inititlization?"
 msgstr ""
+"%s\n"
+"Rozpocząć inicjalizację urządzenia?"
 
-#, python-format
 msgid "%s (%s)\n"
 msgstr "%s (%s)\n"
 
-#, python-format
 msgid "%s ok?"
-msgstr ""
+msgstr "%s ok?"
 
 msgid "(ZAP)"
 msgstr "(Przełącz)"
 
-#
 msgid "(de)activate Picture in Picture..."
-msgstr ""
+msgstr ""(Dez)aktywuj PiP...""
 
 msgid "(empty)"
 msgstr "(pusty)"
@@ -354,9 +356,8 @@ msgstr "1.1"
 msgid "1.2"
 msgstr "1.2"
 
-#
 msgid "10"
-msgstr ""
+msgstr "10""
 
 msgid "12V output"
 msgstr "Wyjście 12V "
@@ -364,9 +365,8 @@ msgstr "Wyjście 12V "
 msgid "13 V"
 msgstr "13 V"
 
-#
 msgid "15"
-msgstr ""
+msgstr "15"
 
 msgid "16:10"
 msgstr "16:10"
@@ -401,9 +401,8 @@ msgstr "2. Ustaw mobilne urządzenie UMTS"
 msgid "2. Unload a Mobile Broadband Device"
 msgstr "2. Odłącz mobilne urządzenie UMTS"
 
-#
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgid "23976"
 msgstr ""
@@ -429,13 +428,11 @@ msgstr "3. Utwórz profil WvDial"
 msgid "30 minutes"
 msgstr "30 minut"
 
-#
 msgid "30000"
-msgstr ""
+msgstr "30000"
 
-#
 msgid "3D Surround"
-msgstr ""
+msgstr "3D Surround"
 
 msgid "3d mode"
 msgstr "Tryb 3D"
@@ -464,12 +461,11 @@ msgstr "5 minut"
 msgid "5. Done"
 msgstr "5. Zrobione"
 
-#
 msgid "50000"
-msgstr ""
+msgstr "50000"
 
 msgid "59940"
-msgstr ""
+msgstr "59940"
 
 msgid "6"
 msgstr "6"
@@ -477,9 +473,8 @@ msgstr "6"
 msgid "60 minutes"
 msgstr "60 minut"
 
-#
 msgid "60000"
-msgstr ""
+msgstr "60000"
 
 msgid "7"
 msgstr "7"
@@ -511,7 +506,6 @@ msgstr "??"
 msgid "A"
 msgstr "A"
 
-#, python-format
 msgid ""
 "A configuration file (%s) was modified since Installation.\n"
 "Do you want to keep your version?"
@@ -536,7 +530,6 @@ msgstr ""
 msgid "A graphical EPG for all services of an specific bouquet"
 msgstr "Graficzny EPG dla wszystkich usług określonego pakietu"
 
-#, python-format
 msgid ""
 "A record has been started:\n"
 "%s"
@@ -555,7 +548,6 @@ msgid ""
 msgstr ""
 "Nagrywanie w toku. Zatrzymaj nagrywanie przed uruchomieniem miernika sygnału."
 
-#, python-format
 msgid "A required tool (%s) was not found."
 msgstr "Narzędzie (%s) nie zostało znalezione."
 
@@ -695,7 +687,7 @@ msgid "Add to favourites"
 msgstr "Dodaj do ulubionych"
 
 msgid "Additional backup -> "
-msgstr ""
+msgstr "Dodatkowa kopia zapasowa ->"
 
 msgid "Address (0~FF):"
 msgstr "Adres (0~FF):"
@@ -735,15 +727,15 @@ msgstr "Zaawansowane przywracanie"
 msgid "After event"
 msgstr "Po wydarzeniu"
 
-#
 msgid ""
 "After the start wizard is completed, you need to protect single services. "
 "Refer to your STB's manual on how to do that."
 msgstr ""
+"Po zakończeniu kreatora, należy chronić pojedyncze usługi."
+"Sprawdź w instrukcji dekodera w jak sposób to zrobić."
 
-#
 msgid "Agree"
-msgstr ""
+msgstr "Zgoda"
 
 msgid "Album"
 msgstr "Album"
@@ -761,14 +753,13 @@ msgid "Allow removing of system software"
 msgstr "Umożliwiaj usuwanie oprogramowania systemowego"
 
 msgid "Almost there... Now building the USB-Image!"
-msgstr ""
+msgstr "Prawie skończone... Tworzę kopię zapasową (obraz)!"
 
 msgid "Alpha"
 msgstr "Przezroczystość"
 
-#
 msgid "Alpha Value"
-msgstr ""
+msgstr "Wartość przezroczystości"
 
 msgid "Alternative radio mode"
 msgstr "Alternatywny tryb radiowy"
@@ -819,9 +810,8 @@ msgstr ""
 msgid "Are you sure you want to exit this wizard?"
 msgstr "Czy chcesz opuścić kreatora?"
 
-#
 msgid "Are you sure you want to restart your network interfaces?\n"
-msgstr ""
+msgstr ""Czy jesteś pewien, że chcesz uruchomić ponownie interfejs sieciowy?\n"
 
 msgid ""
 "Are you sure you want to restart your network interfaces?\n"
@@ -921,7 +911,7 @@ msgid "BA"
 msgstr "BA"
 
 msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
-msgstr ""
+msgstr "Narzędzie tworzenia kopi zapasowych"
 
 msgid "BB"
 msgstr "BB"
@@ -944,9 +934,8 @@ msgstr "Tył, górne gniazdo USB"
 msgid "Background"
 msgstr "Tło"
 
-#
 msgid "Backspace Key"
-msgstr ""
+msgstr "Klawisz Backspace"
 
 msgid "Backup done."
 msgstr "Kopia zapasowa wykonana."
@@ -990,9 +979,8 @@ msgstr "Zachowanie gdy film zatrzymany"
 msgid "Behavior when a movie reaches the end"
 msgstr "Zachowanie gdy film osiąga koniec"
 
-#
 msgid "Bitrate"
-msgstr ""
+msgstr "Szybkość przepływu"
 
 msgid "Bitrate:"
 msgstr "Szybkość przepływu:"
@@ -1012,15 +1000,12 @@ msgstr "Niebieski"
 msgid "Bookmark"
 msgstr "Zakładka"
 
-#
 msgid "Bookmark Title"
-msgstr ""
+msgstr "Tytuł zakładki"
 
-#
 msgid "Bookmark URL"
-msgstr ""
+msgstr "Zakładka URL"
 
-#
 #, python-format
 msgid "Bookmark for button %s:"
 msgstr ""
@@ -1035,16 +1020,14 @@ msgstr "Zakładki"
 msgid "Brightness"
 msgstr "Jasność"
 
-#
 msgid "Browser Help"
-msgstr ""
+msgstr "Pomoc"
 
 msgid "Browser Start/Stop"
 msgstr "Uruchom/Zatrzymaj przeglądarkę "
 
-#
 msgid "BrowserMain"
-msgstr ""
+msgstr "Przeglądarka główna"
 
 msgid "Burn DVD"
 msgstr "Nagraj DVD"
@@ -1097,12 +1080,11 @@ msgstr "Przechowuj miniatury"
 msgid "Can NOT generate passphrase"
 msgstr "Nie można utworzyć hasła"
 
-#, python-format
 msgid "Can not change the partition ID for %s"
-msgstr ""
+msgstr "Nie można zmienić identyfikatora partycji% s"
 
 msgid "Can not find any WirelessLan Module\n"
-msgstr ""
+msgstr "Nie można znaleźć modułu sieci bezprzewodowej\n"
 
 #, python-format
 msgid ""
