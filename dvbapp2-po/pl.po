@@ -1584,18 +1584,19 @@ msgstr "Opóźnienie"
 msgid "Delete"
 msgstr "Usuń"
 
-#
-#, python-format
 msgid ""
 "Delete directory failed!\n"
 "%s"
 msgstr ""
+"Usuwanie katalogu nie powiodło się!\n"
+"%s"
 
-#
 msgid ""
 "Delete directory failed!\n"
 "Maybe directory is not empty."
 msgstr ""
+"Usuwanie katalogu nie powiodło się!\n"
+"Być może katalog nie jest pusty."
 
 msgid "Delete entry"
 msgstr "Skasuj wpis"
@@ -1603,13 +1604,12 @@ msgstr "Skasuj wpis"
 msgid "Delete failed!"
 msgstr "Kasowanie nie powiodło się!"
 
-#, python-format
 msgid ""
 "Delete no more configured satellite\n"
 "%s?"
 msgstr ""
 "Czy usunąć nieskonfigurowanego satelitę\n"
-"\"%s?\""
+"%s?"
 
 msgid "Depth"
 msgstr "Głębokość"
@@ -1630,11 +1630,10 @@ msgid "Detected NIMs:"
 msgstr "Wykryto NIMs:"
 
 msgid "Device Initialization finished sucessfully!"
-msgstr ""
+msgstr "Inicjalizacja urządzenia zakończona pomyślnie!
 
-#
 msgid "Device not found."
-msgstr ""
+msgstr "Nie znaleziono urządzenia".
 
 msgid "DeviceList Refresh Interval"
 msgstr "Częstotliwość odświeżania listy urządzeń"
@@ -1643,9 +1642,8 @@ msgid "DeviceManager"
 msgstr "Menadżer Urządzeń"
 
 msgid "DeviceManager configuration"
-msgstr ""
+msgstr "Konfiguracja menadżera urządzeń"
 
-#
 msgid "Devices"
 msgstr ""
 
@@ -1676,18 +1674,16 @@ msgstr "Cyfrowe usunięcie konturu"
 msgid "Direct Input"
 msgstr "Bezpośrednie wejście"
 
-#
-msgid "Direct Input(Bookmark)"
-msgstr ""
 
-#
+msgid "Direct Input(Bookmark)"
+msgstr "Bezpośrednie wejście (Ulubione)"
+
 msgid "Direct Input(Category)"
-msgstr ""
+msgstr "Bezpośrednie wejście (Kategoria)"
 
 msgid "Direct playback of linked titles without menu"
 msgstr "Bezpośrednie odtwarzanie połączonych tytułów bez menu"
 
-#, python-format
 msgid "Directory %s nonexistent."
 msgstr "Katalog %s nie istnieje."
 
@@ -1748,11 +1744,9 @@ msgstr ""
 "Czy na pewno chcesz sprawdzić system plików?\n"
 "Czynność może zająć dużo czasu!"
 
-#, python-format
 msgid "Do you really want to delete %s?"
 msgstr "Jesteś pewien, że chcesz usunąć %s?"
 
-#, python-format
 msgid ""
 "Do you really want to download\n"
 "the plugin \"%s\"?"
@@ -1763,11 +1757,12 @@ msgstr ""
 msgid "Do you really want to exit?"
 msgstr "Czy na pewno chcesz wyjść?"
 
-#
 msgid ""
 "Do you really want to initialize the device?\n"
 "All data on the device will be lost!"
 msgstr ""
+"Czy naprawdę chcesz zainicjować urządzenie?\n"
+"Wszystkie dane na urządzeniu zostaną utracone!"
 
 msgid ""
 "Do you really want to initialize the harddisk?\n"
@@ -1776,11 +1771,9 @@ msgstr ""
 "Czy chcesz zainicjować HDD?\n"
 "Wszystkie dane na dysku zostaną skasowane!"
 
-#, python-format
 msgid "Do you really want to remove directory %s from the disk?"
 msgstr "Czy na pewno chcesz usunąć katalog %s z dysku?"
 
-#, python-format
 msgid "Do you really want to remove your bookmark of %s?"
 msgstr "Czy na pewno chcesz usunąć zakładke %s?"
 
@@ -1790,13 +1783,11 @@ msgstr "Czy chcesz nagrać tą kolekcję na nośniku DVD?"
 msgid "Do you want to delete recording files of stopped timer ?"
 msgstr "Czy chcesz usunąć pliki z nagraniami zatrzymanego timera?"
 
-#
 msgid "Do you want to delete the bookmark?"
-msgstr ""
+msgstr "Czy chcesz usunąć zakładkę?"
 
-#
 msgid "Do you want to delete the category and the bookmarks?"
-msgstr ""
+msgstr "Czy chcesz usunąć kategorię i zakładki?"
 
 msgid "Do you want to disconnect?"
 msgstr "Czy chcesz się rozłączyć?"
@@ -1852,13 +1843,11 @@ msgstr "Czy chcesz przywrócić swoje ustawienia?"
 msgid "Do you want to resume this playback?"
 msgstr "Czy chcesz wznowić odtwarzanie?"
 
-#
 msgid "Do you want to set selected url to the Startpage?"
-msgstr ""
+msgstr "Czy chcesz ustawić wybrany adres jako stronę startową?"
 
-#
 msgid "Do you want to shut down?"
-msgstr ""
+msgstr "Czy chcesz zamknąć?"
 
 msgid "Do you want to update your STB?"
 msgstr "Chcesz zaktualizować VU+ ?"
@@ -1873,16 +1862,17 @@ msgstr ""
 msgid "Do you want to upgrade the package:\n"
 msgstr "Chcesz zaktualizować paczkę:\n"
 
-#
 msgid ""
 "Do you want to use VTi BackupSuite to restore your settings, plugins or "
 "favourite bouquets ?"
 msgstr ""
+"Czy chcesz korzystać z VTI BackupSuite aby przywrócić ustawienia, wtyczki "
+"lub listę kanałów?"
 
-#
 msgid ""
 "Do you want to use VTi ZerO to remove some packages which you do not need ?"
 msgstr ""
+"Czy chcesz użyć VTI Zer0 aby usunąć pakiety, których nie potrzebujesz?"
 
 msgid "Do you want to view a tutorial?"
 msgstr "Czy chcesz zobaczyć wprowadzenie?"
@@ -1899,17 +1889,14 @@ msgstr "Domyślnie Dolby Downmix"
 msgid "Don't stop current event but disable coming events"
 msgstr "Nie zatrzymuj aktualnego wydarzenia ale wyłącz nadchodzące"
 
-#, python-format
 msgid "Done - Installed or upgraded %d packages"
 msgstr "Zrobione - Instalowanie lub aktualizowanie %d pakietów"
 
-#, python-format
 msgid "Done - Installed, upgraded or removed %d packages with %d errors"
 msgstr "Zrobione - Instalowanie lub aktualizowanie %d pakietów z %d błędami"
 
-#
 msgid "Down Key"
-msgstr ""
+msgstr "Dół"
 
 msgid "Download"
 msgstr "Ładuj"
@@ -1923,15 +1910,15 @@ msgstr "Nowe wtyczki do pobrania"
 msgid "Downloadable plugins"
 msgstr "Wtyczki do pobrania"
 
-#
 msgid "Downloaded "
-msgstr ""
+msgstr "Pobrane "
 
-#, python-format
 msgid ""
 "Downloaded : %s\n"
 "Press OK to select, Press Cancel to exit."
 msgstr ""
+"Pobrano : %s\n"
+"Naciśnij przycisk OK, aby wybrać, naciśnij przycisk Anuluj, aby wyjść."
 
 msgid "Downloading"
 msgstr "Pobieranie..."
@@ -1939,12 +1926,11 @@ msgstr "Pobieranie..."
 msgid "Downloading plugin information. Please wait..."
 msgstr "Pobieranie informacji o pluginach. Proszę czekać..."
 
-#
 msgid "Downloading..."
-msgstr ""
+msgstr "Pobieranie ..."
 
 msgid "Duo/Solo was not support."
-msgstr ""
+msgstr "Duo/Solo nie wspierane."
 
 msgid "Dutch"
 msgstr "Holenderski"
@@ -1958,13 +1944,11 @@ msgstr "E"
 msgid "EPG Selection"
 msgstr "Wybór EPG"
 
-#, python-format
 msgid "ERROR - failed to scan (%s)!"
 msgstr "BŁĄD - skanowanie (%s) nie powiodło się!"
 
-#
 msgid "ESSID"
-msgstr ""
+msgstr "ESSID"
 
 msgid "East"
 msgstr "Wschód"
@@ -1999,9 +1983,8 @@ msgstr "Edytuj tytuł"
 msgid "Edit upgrade source url."
 msgstr "Edytuj adres aktualizacji"
 
-#
 msgid "EditSetting"
-msgstr ""
+msgstr "Edytuj ustawienia"
 
 msgid "Electronic Program Guide"
 msgstr "Elektroniczny Przewodnik Programowy"
@@ -2034,10 +2017,10 @@ msgid "Enable autostart for HbbTV browser"
 msgstr "Włącz autostart dla przeglądarki HbbTV"
 
 msgid "Enable mount automatically while start"
-msgstr ""
+msgstr "Włącz montowanie automatycznie podczas startu"
 
 msgid "Enable mount check for HDD : "
-msgstr ""
+msgstr "Włącz sprawdzanie podłączenia dla HDD : "
 
 msgid "Enable multiple bouquets"
 msgstr "Włącz tryb wielu pakietów"
@@ -2051,9 +2034,8 @@ msgstr "Włącz timer"
 msgid "Enabled"
 msgstr "Włączone"
 
-#
 msgid "Encrypt"
-msgstr ""
+msgstr "Zakodowane"
 
 msgid "Encrypted: "
 msgstr "Zabezpieczony:"
@@ -2079,7 +2061,6 @@ msgstr "Czas zakończenia"
 msgid "English"
 msgstr "Angielski"
 
-#
 msgid ""
 "Enigma2 Skinselector\n"
 "\n"
@@ -2088,6 +2069,12 @@ msgid ""
 "\n"
 " 2006 - Stephan Reichholf"
 msgstr ""
+"Enigma2 Skinselector\n"
+"\ n"
+"W razie jakichkolwiek problemów prosimy o kontakt\n"
+"stephan@reichholf.net\n"
+"\n"
+"2006 - Stephan Reichholf"
 
 msgid "Enter Key"
 msgstr "Wprowadź klucz"
@@ -2102,13 +2089,13 @@ msgid "Enter the service pin"
 msgstr "Wpisz PIN kanału"
 
 msgid "Enter your input data"
-msgstr ""
+msgstr "Wprowadź swoje dane wejściowe"
 
 msgid "Error"
 msgstr "Błąd"
 
 msgid "Error checking disk. The disk or filesystem may be damaged"
-msgstr ""
+msgstr "Błąd podczas sprawdzania dysku. Dysk lub system plików może być uszkodzony"
 
 #, python-format
 msgid ""
@@ -2118,7 +2105,6 @@ msgstr ""
 "Błąd: %s\n"
 "Ponowić?"
 
-#, python-format
 msgid ""
 "Error[%d] : %s.\n"
 "Press OK to exit."
@@ -2141,9 +2127,8 @@ msgstr "Widok wydarzenia"
 msgid "Everything is fine"
 msgstr "Wszystko jest OK"
 
-#
 msgid "Exceeds dual layer medium!"
-msgstr ""
+msgstr "Nośnik przekracza podwójną warstwę!"
 
 msgid "Execution Progress:"
 msgstr "Wykonywanie procesu:"
@@ -2197,7 +2182,7 @@ msgid "Extensions management"
 msgstr "Zarządzanie dodatkami"
 
 msgid "F"
-msgstr ""
+msgstr "F"
 
 msgid "FEC"
 msgstr "FEC"
@@ -2218,14 +2203,13 @@ msgid "FRAGM Threshold (256~2346)"
 msgstr "Próg FRAGM (256~2346)"
 
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 msgid "Factory reset"
 msgstr "Ustawienia fabryczne"
 
-#
 msgid "Factory reset fail"
-msgstr ""
+msgstr "Przywrócenie ustawień fabrycznych nie powiodło się"
 
 msgid "Fail to download."
 msgstr "Błąd pobierania."
@@ -2252,7 +2236,6 @@ msgstr ""
 "Powód: brak urządzenia.\n"
 "Chcesz zrezygnować?"
 
-#, python-format
 msgid ""
 "Fail to verify data file. \n"
 "file[%s]\n"
@@ -2268,7 +2251,6 @@ msgstr "Błąd"
 msgid "Fallback to default skin at skin errors"
 msgstr "Powróć do domyślnej skóry w przypadku wystąpienia błędów"
 
-#, python-format
 msgid "Fan %d"
 msgstr "Fan %d"
 
@@ -2278,9 +2260,8 @@ msgstr "Ustawienia wentylatora"
 msgid "Fan basic action"
 msgstr "Wentylator w standby"
 
-#
 msgid "Fan control"
-msgstr ""
+msgstr "Sterowanie wentylatora"
 
 msgid "Fan off duration time"
 msgstr "Wyłącz wentylator (czas trwania)"
@@ -2317,15 +2298,14 @@ msgstr ""
 msgid "File not found"
 msgstr "Plik nie został odnaleziony."
 
-#
 msgid "File transfer was cancelled by user"
-msgstr ""
+msgstr "Transfer pliku został anulowany przez użytkownika"
 
 msgid "Filesystem Check"
 msgstr "Sprawdź system plików"
 
 msgid "Filesystem check finished sucessfully"
-msgstr ""
+msgstr "Sprawdzenie systemu plików zakończono powodzeniem"
 
 msgid "Filesystem contains uncorrectable errors"
 msgstr "System plików zawiera błędy, których nie dało się naprawić"
@@ -2352,11 +2332,10 @@ msgid "Firmware Upgrade"
 msgstr "Aktualizacja oprogramowania"
 
 msgid "Firmware does not exist."
-msgstr ""
+msgstr "Oprogramowanie nie istnieje."
 
-#
 msgid "Follow the instructions on the front-display."
-msgstr ""
+msgstr "Postępuj zgodnie z instrukcjami na wyświetlaczu z przodu."
 
 msgid "Following tasks will be done after you press OK!"
 msgstr "Poniższe zadania będą wykonane po naciśnięciu OK!"
