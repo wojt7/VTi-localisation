@@ -1059,11 +1059,15 @@ msgid ""
 "CAM1_NOT_INSERTED\n"
 "Press exit!"
 msgstr ""
+"Moduł 1 nie jest wprowadzony\n"
+"Naciśnij exit!"
 
 msgid ""
 "CAM2_NOT_INSERTED\n"
 "Press exit!"
 msgstr ""
+"Moduł 2 nie jest wprowadzony\n"
+"Naciśnij exit!"
 
 msgid "CI assignment"
 msgstr "Zadania CI"
@@ -1091,24 +1095,28 @@ msgid ""
 "Can not format device /dev/%s.\n"
 "refresh partition information failed!"
 msgstr ""
+"Nie można sformatować urządzenia /dev/%s.\n"
+"Odświeżnie informacji o partycji nie powiodło się!"
 
 msgid "Can not open 'fan_pwm'"
-msgstr ""
+msgstr "Nie mogę otworzyć 'fan_pwm'"
 
 msgid "Can not setup WirelessLan Module in 'AP Mode'\n"
-msgstr ""
+msgstr "Nie można skonfigurować modułu sieci bezprzewodowej w trybie AP.\n"
 
-#, python-format
 msgid ""
 "Can not umount device /dev/%s.\n"
 "Maybe some files of the filesystem are open"
 msgstr ""
+"Nie można odmontować urządzenia /dev/%s.\n"
+"Być może niektóre pliki w systemie plików są otwarte."
 
-#, python-format
 msgid ""
 "Can not use this mount point.(%s) \n"
 "Please select another mount point."
 msgstr ""
+"Nie można użyć tego punktu montowania.(%s) \n"
+"Proszę wybrać inny punkt montowania."
 
 msgid "Can't cancel during upgrade!!"
 msgstr "Nie można przerwać podczas aktualizacji"
@@ -1145,12 +1153,15 @@ msgid ""
 "Can't open selected bookmark.\n"
 "   - URL data is empty!!"
 msgstr ""
+"Nie mogę otworzyć wybranej zakładki.\n"
+"   - adres URL jest pusty!!"
 
-#, python-format
 msgid ""
 "Can't umount %s. \n"
 "Maybe device or resource busy."
 msgstr ""
+"Nie można odmontować % s. \n"
+"Być może urządzenie lub zasób jest zajęty.
 
 msgid "Cancel"
 msgstr "Anuluj"
@@ -1215,16 +1226,14 @@ msgstr "Rozdział:"
 msgid "Check"
 msgstr "Sprawdź"
 
-#
 msgid "Check filesystem, please wait ..."
-msgstr ""
+msgstr "Sprawdzam system plików, proszę czekaj ..."
 
 msgid "Checking Filesystem..."
 msgstr "Sprawdź system plików..."
 
-#
 msgid "Choice filesystem."
-msgstr ""
+msgstr "Wybierz system plików"
 
 msgid "Choose A/V-Receiver HDMI input:"
 msgstr "Wybierz wejście HDMI w odbiorniku:"
@@ -1250,9 +1259,8 @@ msgstr "Wybierz miejsce kopii zapasowej"
 msgid "Choose bouquet"
 msgstr "Wybierz pakiet"
 
-#
 msgid "Choose folder"
-msgstr ""
+msgstr "Wybierz folder"
 
 msgid "Choose remote control picture for help screen"
 msgstr "Wybierz zdjęcie dla ekranu pomocy "
@@ -1341,9 +1349,8 @@ msgstr "Skład nazwy nagrania"
 msgid "Configuration Mode"
 msgstr "Tryb konfiguracji"
 
-#
 msgid "Configuration your AP is finished"
-msgstr ""
+msgstr "Konfiguracja Twojego AP jest zakończona"
 
 msgid "Configure interface"
 msgstr "Konfiguracja interfejsu"
@@ -1396,9 +1403,8 @@ msgstr "Kontynuuj odtwarzanie"
 msgid "Contrast"
 msgstr "Kontrast"
 
-#
 msgid "Copy"
-msgstr ""
+msgstr "Kopiuj"
 
 msgid "Could not load Medium! No disc inserted?"
 msgstr "Nie mogę odczytać nośnika. Czy nośnik znajduje się w czytniku?"
@@ -1406,11 +1412,9 @@ msgstr "Nie mogę odczytać nośnika. Czy nośnik znajduje się w czytniku?"
 msgid "Could not open Picture in Picture"
 msgstr "Nie można otworzyć PiP"
 
-#, python-format
 msgid "Couldn't record due to conflicting timer %s"
 msgstr "Nie można nagrać z powodu konfliktu timera %s"
 
-#, python-format
 msgid "Couldn't record due to invalid service %s"
 msgstr "Nie można nagrywać z powodu nieprawidłowych kanałów % s"
 
@@ -1426,36 +1430,33 @@ msgstr "Ustawienia raportowania o błędach"
 msgid "Create DVD-ISO"
 msgstr "Stwórz DVD-ISO"
 
-#
 msgid "Create directory"
-msgstr ""
+msgstr "Utwórz katalog"
 
-#
-#, python-format
 msgid ""
 "Create directory failed!\n"
 "%s"
 msgstr ""
+"Utworzenie katalogu nie powiodło się!\n"
+"%s"
 
 msgid "Create filesystem, please wait ..."
-msgstr ""
+msgstr "Tworzę system plików, proszę czekaj ..."
 
 msgid "Create movie folder failed"
 msgstr "Tworzenie katalogu filmu nie powiodło się"
 
 msgid "Create: kerneldump"
-msgstr ""
+msgstr "Utwórz: kerneldump"
 
 msgid "Create: root.ubifs"
-msgstr ""
+msgstr "Utwórz: root.ubifs"
 
-#, python-format
 msgid "Creating directory %s failed."
 msgstr "Utworzenie katalogu %s nie powiodło się."
 
-#
 msgid "Creating filesystem Error"
-msgstr ""
+msgstr "Błąd tworzenia systemu plików."
 
 msgid "Creating partition failed"
 msgstr "Tworzenie partycji nie powiodło się"
@@ -1472,9 +1473,8 @@ msgstr "Aktualny Transponder"
 msgid "Current device: "
 msgstr "Aktualne urządzenie:"
 
-#
 msgid "Current page is already exist."
-msgstr ""
+msgstr "Ta strona jest już istnieje."
 
 msgid "Current settings (interface : br0)"
 msgstr "Aktualne ustawienia (interfejs : br0)"
@@ -1485,9 +1485,8 @@ msgstr "Aktualne ustawienia:"
 msgid "Current value: "
 msgstr "Obecna wartość:"
 
-#
 msgid "Currentpage(Bookmark)"
-msgstr ""
+msgstr "Obecna strona (Ulubione)"
 
 msgid "Custom skip time for '1'/'3'-keys"
 msgstr "Ustaw czas przeskoku dla klawiszy '1'/'3'"
@@ -1558,9 +1557,8 @@ msgstr "Data"
 msgid "Deep Standby"
 msgstr "Głębokie Czuwanie"
 
-#
 msgid "Deep Standby with WOL"
-msgstr ""
+msgstr "Głębokie czuwanie z WOL"
 
 msgid "DeepStandby"
 msgstr "Głębokie Czuwanie"
