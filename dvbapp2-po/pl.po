@@ -1089,7 +1089,6 @@ msgstr "Nie można zmienić identyfikatora partycji% s"
 msgid "Can not find any WirelessLan Module\n"
 msgstr "Nie można znaleźć modułu sieci bezprzewodowej\n"
 
-#, python-format
 msgid ""
 "Can not format device /dev/%s.\n"
 "refresh partition information failed!"
