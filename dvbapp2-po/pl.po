@@ -1183,13 +1183,13 @@ msgid "Change pin code"
 msgstr "Zmień kod PIN"
 
 msgid "Change service PIN"
-msgstr ""
+msgstr "Zmień kod PIN serwisu"
 
 msgid "Change service PINs"
-msgstr ""
+msgstr "Zmień kody PIN serwisu"
 
 msgid "Change setup PIN"
-msgstr ""
+msgstr "Zmień kody PIN ustawień"
 
 msgid "Change step size"
 msgstr "Zmień rozmiar skoku"
@@ -3731,9 +3731,11 @@ msgid ""
 "Ping test fail\n"
 "Press exit"
 msgstr ""
+Ping test zakończony niepowodzeniem\n"
+"Naciśnij exit"
 
 msgid "Ping test pass"
-msgstr ""
+msgstr "Test ping ukończony powodzeniem"
 
 msgid ""
 "Place the USB-flash drive in the (front) USB-port and switch the receiver "
@@ -3818,7 +3820,7 @@ msgstr ""
 "Wartość początkowa symbolrate jest większa od wartości końcowej."
 
 msgid "Please check the manual of the receiver on how to restore the image."
-msgstr ""
+msgstr "Proszę sprawdzić w instrukcji obsługi odbiornika, w jaki sposób przywrócić obraz.
 
 msgid "Please choose an HbbTV application."
 msgstr "Wybierz aplikację HbbTV."
@@ -3829,7 +3831,6 @@ msgstr "Wybierz rozszerzenie..."
 msgid "Please choose he package..."
 msgstr "Wybierz pakiet ..."
 
-#
 msgid "Please choose one."
 msgstr ""
 
@@ -3850,9 +3851,8 @@ msgstr ""
 msgid "Please do not change any values unless you know what you are doing!"
 msgstr "Nie zmieniaj wartości jeśli nie wiesz co zrobić!"
 
-#
 msgid "Please enter URL here"
-msgstr ""
+msgstr "Proszę podać URL tutaj"
 
 msgid "Please enter a name for the new bouquet"
 msgstr "Wpisz nazwę dla nowego pakietu"
@@ -3909,13 +3909,11 @@ msgstr "Wybierz środek aby użyć jako miejsce kopii zapasowej."
 msgid "Please select tag to filter..."
 msgstr "Wybierz oznaczenie do filtrowania..."
 
-#
 msgid "Please select the destination path..."
-msgstr ""
+msgstr "Wybierz ścieżkę docelową ..."
 
-#
 msgid "Please select the source path..."
-msgstr ""
+msgstr "Wybierz ścieżkę źródłową ..."
 
 msgid "Please select the movie path..."
 msgstr "Wybierz ścieżkę filmu..."
@@ -3993,9 +3991,8 @@ msgstr "Czekaj, aż zakończy się test sieci..."
 msgid "Please wait while your network is restarting..."
 msgstr "Czekaj, twoja sieć jest uruchamiana ponownie..."
 
-#
 msgid "Please wait, Loading image."
-msgstr ""
+msgstr "Proszę czekać, ładowanie obrazu."
 
 msgid "Please wait..."
 msgstr "Proszę czekać..."
@@ -4003,13 +4000,11 @@ msgstr "Proszę czekać..."
 msgid "Please wait... Loading list..."
 msgstr "Proszę czekać... Ładowanie listy..."
 
-#
 msgid "Please wait.... almost ready!"
-msgstr ""
+msgstr "Proszę czekać .... prawie gotowy!"
 
-#
 msgid "Plugin Browser"
-msgstr ""
+msgstr "Przeglądarka wtyczek"
 
 msgid "Plugin browser"
 msgstr "Przeglądarka wtyczek"
@@ -4032,9 +4027,8 @@ msgstr "Polaryzacja"
 msgid "Polish"
 msgstr "Polski"
 
-#
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 msgid "Port A"
 msgstr "Port A"
@@ -4073,7 +4067,7 @@ msgid "Power threshold in mA"
 msgstr "Próg mocy w  mA"
 
 msgid "Preamble"
-msgstr ""
+msgstr "Preambuła"
 
 msgid "Predefined transponder"
 msgstr "Zdefiniowany transponder"
@@ -4088,25 +4082,25 @@ msgid "Preparing... Please wait"
 msgstr "Przygotowywanie... Proszę czekać"
 
 msgid "Press 'EXIT' key to finish tune test."
-msgstr ""
+msgstr "Naciśnij klawisz Exit aby zakończyć test strojenia."
 
 msgid "Press Front CH +"
-msgstr ""
+msgstr "Naciśnij frontowy CH+"
 
 msgid "Press Front CH -"
-msgstr ""
+msgstr "Naciśnij frontowy CH-"
 
 msgid "Press Front STANDBY"
-msgstr ""
+msgstr "Naciśnij frontowy przycisk Standby"
 
 msgid "Press Front VOL +"
-msgstr ""
+msgstr "Naciśnij frontowy VOL+"
 
 msgid "Press Front VOL -"
-msgstr ""
+msgstr "Naciśnij frontowy VOL-"
 
 msgid "Press Front Wheel"
-msgstr ""
+msgstr "Naciśnij frontowe kółko"
 
 msgid "Press Green/OK to start the scan"
 msgstr "Naciśnij Zielony/OK przycisk aby rozpocząć skanowanie."
@@ -4129,7 +4123,6 @@ msgstr "Naciśnij OK, aby aktywować ustawienia."
 msgid "Press OK to edit the settings."
 msgstr "W celu edytowania ustawień naciśnij OK."
 
-#, python-format
 msgid "Press OK to get further details for %s"
 msgstr "Naciśnij OK, aby dostać więcej informacji o %s"
 
@@ -4149,7 +4142,7 @@ msgid "Press OK to toggle the selection."
 msgstr "Naciśnij OK, aby wybrać."
 
 msgid "Press arrow up from frontpanel to start loading."
-msgstr ""
+msgstr "Naciśnij przycisk strzałka w górę z przednim panelu, aby rozpocząć ładowanie."
 
 msgid "Press yellow to set this interface as default interface."
 msgstr "Naciśnij Żółty aby ustawić ten interfejs jako domyślny."
@@ -4218,6 +4211,8 @@ msgid ""
 "RS232 Test Failed!\n"
 "Press 'EXIT' button!"
 msgstr ""
+"RS232 test zakończony niepowodzeniem!\n"
+"Naciśnij przycisk Exit!"
 
 msgid "RTS Threshold (0~2347)"
 msgstr "Próg RTS (0~2347)"
@@ -4253,18 +4248,17 @@ msgid "Really shutdown now?"
 msgstr "Czy naprawdę chcesz zamknąć teraz?"
 
 msgid "Realtek"
-msgstr ""
+msgstr "Realtek"
 
-#, python-format
 msgid ""
 "Reboot after %d seconds.\n"
 "Press the OK to reboot now."
 msgstr ""
+"Uruchom ponownie po %d sek.\n"
+"Naciśnij przycisk OK, aby ponownie uruchomić teraz."
 
-#
-#, python-format
 msgid "Reboot in %d seconds. Press OK to reboot now."
-msgstr ""
+msgstr "Uruchom ponownie za %d sekund. Naciśnij przycisk OK, aby ponownie uruchomić teraz."
 
 msgid "Reception Settings"
 msgstr "Ustawienia odbioru"
@@ -4272,7 +4266,6 @@ msgstr "Ustawienia odbioru"
 msgid "Record"
 msgstr "Nagraj"
 
-#, python-format
 msgid "Record time limited due to conflicting timer %s"
 msgstr "Ograniczenie nagrywania z powodu konfliktu timera %s"
 
@@ -4303,9 +4296,8 @@ msgstr "Czerwony przycisk..."
 msgid "Reenter new PIN"
 msgstr "Wpisz ponownie nowy PIN"
 
-#
 msgid "Refresh rate selection"
-msgstr ""
+msgstr "Wybór częstotliwość odświeżania"
 
 msgid "Reload"
 msgstr "Przeładuj"
@@ -4328,10 +4320,8 @@ msgstr "Kod pilota"
 msgid "RemoteControlCode"
 msgstr "Kod pilota"
 
-#
-#, python-format
 msgid "Removable : %s"
-msgstr ""
+msgstr "Usuwalne : %s"
 
 msgid "Remove"
 msgstr "Skasuj"
@@ -4366,10 +4356,8 @@ msgstr "Usuń tytuł."
 msgid "Removing"
 msgstr "Kasowanie."
 
-#, python-format
 msgid "Removing directory %s failed. (Maybe not empty.)"
-msgstr ""
-"Usunięcie katalogu %s nie powiodło się. (Być może katalog nie jest pusty)."
+msgstr "Usunięcie katalogu %s nie powiodło się. (Być może nie jest pusty)."
 
 msgid "Rename"
 msgstr "Zmień nazwę"
@@ -4392,9 +4380,8 @@ msgstr "Zastąp nazwę kanału informacją o następnym programie"
 msgid "Reply timeout"
 msgstr "Czas powtarzania"
 
-#
 msgid "Required medium type:"
-msgstr ""
+msgstr "Wymagany typ medium:"
 
 msgid "Reset"
 msgstr "Resetuj"
@@ -4447,17 +4434,9 @@ msgstr "Przywróć ustawienia systemowe"
 msgid "Resume from last position"
 msgstr "Wznów od ostatniej pozycji"
 
-#, python-format
 msgid "Resume position at %s"
 msgstr "Wznów pozycję na %s"
 
-#. TRANSLATORS: The string "Resuming playback" flashes for a moment
-#. TRANSLATORS: at the start of a movie, when the user has selected
-#. TRANSLATORS: "Resume from last position" as start behavior.
-#. TRANSLATORS: The purpose is to notify the user that the movie starts
-#. TRANSLATORS: in the middle somewhere and not from the beginning.
-#. TRANSLATORS: (Some translators seem to have interpreted it as a
-#. TRANSLATORS: question or a choice, but it is a statement.)
 msgid "Resuming playback"
 msgstr "Wznawianie odtwarzania"
 
