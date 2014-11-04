@@ -2097,7 +2097,6 @@ msgstr "Błąd"
 msgid "Error checking disk. The disk or filesystem may be damaged"
 msgstr "Błąd podczas sprawdzania dysku. Dysk lub system plików może być uszkodzony"
 
-#, python-format
 msgid ""
 "Error: %s\n"
 "Retry?"
@@ -2348,11 +2347,10 @@ msgid "Format"
 msgstr "Sformatuj"
 
 msgid "Format filesystem, please wait ..."
-msgstr ""
+msgstr "Formatuję system plików, proszę czekać ..."
 
-#
 msgid "Format finished sucessfully."
-msgstr ""
+msgstr "Formatowanie zakończone powodzeniem."
 
 msgid "Frame size in full view"
 msgstr "Rozmiar ramki w pełnym widoku"
@@ -2360,10 +2358,8 @@ msgstr "Rozmiar ramki w pełnym widoku"
 msgid "Framerate"
 msgstr ""
 
-#
-#, python-format
 msgid "Free : %s"
-msgstr ""
+msgstr "Wolne : %s"
 
 msgid "French"
 msgstr "Francuski"
@@ -2390,7 +2386,7 @@ msgid "Frisian"
 msgstr "Fryzyjski"
 
 msgid "Front LED OK?"
-msgstr ""
+msgstr "Wyświetlacz z przodu OK?"
 
 msgid ""
 "Front LED OK?\n"
@@ -2398,6 +2394,10 @@ msgid ""
 "yes-ok\n"
 "no-exit"
 msgstr ""
+"Wyświetlacz z przodu OK?\n"
+"\n"
+"Tak - OK\n"
+"Nie - Exit"
 
 msgid "Front Processor"
 msgstr "Front Procesor"
@@ -2413,25 +2413,25 @@ msgid "Fsck failed"
 msgstr "Fsck zawiódł"
 
 msgid "Full 1:1 back-up direct on USB"
-msgstr ""
+msgstr "Pełna kopia zapasowa 1:1 bezpośrednio na USB"
 
 msgid "Full 1:1 back-up in USB format"
-msgstr ""
+msgstr "Pełna kopia zapasowa 1:1 w formacie USB"
 
 msgid "Full back-up direct to USB"
-msgstr ""
+msgstr "Pełna kopia zapasowa bezpośrednio do USB"
 
 msgid "Full back-up on HDD"
-msgstr ""
+msgstr "Pełna kopia zapasowa na HDD"
 
 msgid "Full back-up on HDD/USB"
-msgstr ""
+msgstr "Pełna kopia zapasowa na HDD/USB"
 
 msgid "Full back-up to USB"
-msgstr ""
+msgstr "Pełna kopia zapasowa do USB"
 
 msgid "Full back-up to the harddisk"
-msgstr ""
+msgstr "Pełna kopia zapasowa do HDD"
 
 msgid "G"
 msgstr ""
@@ -2449,13 +2449,11 @@ msgstr ""
 msgid "Gateway"
 msgstr "Brama"
 
-#
 msgid "General Dolby Digital delay (ms)"
-msgstr ""
+msgstr "Ogólne opóźnienie Dolby Digital (ms)"
 
-#
 msgid "General PCM delay (ms)"
-msgstr ""
+msgstr "Ogólne opóźnienie PCM (ms)"
 
 msgid "Genre"
 msgstr "Gatunek:"
@@ -2494,10 +2492,10 @@ msgid "Group Rekey Interval"
 msgstr "Odświeżanie klucza"
 
 msgid "Guard interval"
-msgstr ""
+msgstr "Przedział zabezpieczający"
 
 msgid "HDMI"
-msgstr ""
+msgstr "HDMI"
 
 msgid "HDMI CEC enabled:"
 msgstr "Włącz HDMI CEC:"
@@ -2517,22 +2515,21 @@ msgstr "Ustawienia dysku"
 msgid "Harddisk standby after"
 msgstr "Tryb czuwania dysku po"
 
-#
 msgid "Harddisk standby after : "
-msgstr ""
+msgstr "Tryb czuwania dysku po : "
 
 msgid "HbbTV Applications"
 msgstr "Aplikacje HbbTV"
 
-#
 msgid ""
 "HbbTV Browser was not running.\n"
 "Please running browser before start HbbTV Application."
 msgstr ""
+"Przeglądarka HbbTV nie działa.\n"
+"Proszę uruchomić przeglądarkę przed uruchomieniem aplikacji HbbTV."
 
-#
 msgid "HbbTV Plugin"
-msgstr ""
+msgstr "Wtyczka HbbTV"
 
 msgid "Help"
 msgstr "Pomoc"
@@ -2552,9 +2549,8 @@ msgstr "Pozioma [H]"
 msgid "How many minutes do you want to record?"
 msgstr "Ile minut ma trwać nagranie?"
 
-#
 msgid "How many partitions do you want?(1-4)"
-msgstr ""
+msgstr "Ile partycji chcesz? (4/1)"
 
 msgid "Hue"
 msgstr "Barwa"
@@ -2562,9 +2558,8 @@ msgstr "Barwa"
 msgid "Hungarian"
 msgstr "Węgierski"
 
-#
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 msgid "IP Address"
 msgstr "Adres IP"
