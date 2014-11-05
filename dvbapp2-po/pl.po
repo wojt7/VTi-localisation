@@ -2402,7 +2402,6 @@ msgstr "Front Procesor"
 msgid "Front USB Slot"
 msgstr "Przednie gniazdo USB"
 
-#, python-format
 msgid "Frontprocessor version: %d"
 msgstr "Wersja Frontprocesora: %d"
 
@@ -5731,7 +5730,6 @@ msgstr ""
 "Jeśli otrzymasz komunikat \"enabeld\":\n"
 "- sprawdź czy w sieci znajduje się konfigurowany i włączony serwer DHCP."
 
-#
 msgid ""
 "This test checks whether your Wireless LAN Adapter is set up for automatic "
 "IP Address configuration with DHCP.\n"
@@ -5747,7 +5745,7 @@ msgstr ""
 "Jeśli pojawi się komunikat: \"disabled\"\n"
 "- wówczas karta LAN jest skonfigurowana do manualnego ustawienia IP\n"
 "- sprawdzić czy podałeś poprawne informacje IP w ustawieniach\n"
-"Jeśli pojawi się komunikat:\" enabeld\"\n"
+"Jeśli pojawi się komunikat: \"enabeld\"\n"
 "- sprawdź czy masz skonfigurowany serwer DHCP do pracy w sieci."
 
 msgid "This test detects your configured LAN-Adapter."
@@ -5901,7 +5899,7 @@ msgstr ""
 "Transkodowanie można uruchomić, gdy nie ma odpowiedniego nagrania kanału."
 
 msgid "TranscodingSetup"
-msgstr "Ustawienia transcodingu"
+msgstr "Ustawienia transkodowania"
 
 msgid "Translation"
 msgstr "Tłumaczenie"
@@ -6302,7 +6300,6 @@ msgstr "Konfiguracja obrazu..."
 msgid "Video enhancement setup"
 msgstr "Konfiguracja Obrazu"
 
-#
 msgid ""
 "Video input selection\n"
 "\n"
@@ -6311,6 +6308,12 @@ msgid ""
 "\n"
 "The next input port will be automatically probed in 20 seconds"
 msgstr ""
+"Wybór wejścia video\n"
+"\n"
+"Proszę nacisnąć przycisk OK, jeśli widzisz tą stronę na ekranie telewizora lub wybierz"
+"wejście.\n"
+"\n"
+"Następny port wejściowy zostanie automatycznie sprawdzony w ciągu 20 sekund"
 
 msgid "Video mode selection"
 msgstr "Wybór trybu wideo"
@@ -6623,17 +6626,18 @@ msgstr "Możesz tylko wypalać nagrania VU+!"
 msgid "You can remove this plugin."
 msgstr "Możesz skasować tą wtyczkę."
 
-#
 msgid ""
 "You can't cancel during upgrade.\n"
 "Do you want to continue ?"
 msgstr ""
+"Nie można anulować podczas aktualizacji.\n"
+"Czy chcesz kontynuować?"
 
 msgid "You cannot delete this!"
 msgstr "Tego nie można usunąć!"
 
 msgid "You choose the incorrect file. "
-msgstr ""
+msgstr "Wybierasz niepoprawny plik."
 
 msgid "You chose not to install any default services lists."
 msgstr "Nie wybrałeś żadnej listy kanałów."
@@ -6652,7 +6656,7 @@ msgstr ""
 "przycisk OK.\""
 
 msgid "You didn't select a channel to record from."
-msgstr ""
+msgstr "Nie wybrano kanał z którego mam nagrywać.""
 
 msgid ""
 "You have chosen to backup your settings. Please press OK to start the backup "
@@ -6667,11 +6671,9 @@ msgstr ""
 "Wybrałeś przywrócenie swoich ustawień. Enigma2 zostanie uruchomiona ponownie "
 "po przywróceniu. Naciśnij OK aby rozpocząć teraz."
 
-#, python-format
 msgid "You have to wait %s!"
 msgstr "Musisz poczekać na %s!"
 
-#
 msgid ""
 "You need a PC connected to your STB. If you need further instructions, "
 "please visit the website http://www.dm7025.de.\n"
@@ -6679,6 +6681,11 @@ msgid ""
 "instructions from the website, your new firmware will ask you to restore "
 "your settings."
 msgstr ""
+"Potrzebny jest komputer podłączony do VU+. Jeśli potrzebujesz dalszych instrukcji"
+"odwiedź stronę http://www.vuplus-support.org\n" 
+"Twoje VU+ zostanie zatrzymane. Po wykonaniu aktualizacji według"
+"instrukcji z naszej witryny, nowe oprogramowanie poprosi o przywrócenie"
+"ustawień."
 
 msgid ""
 "You need to set a PIN code and hide it from your children.\n"
@@ -6710,15 +6717,15 @@ msgstr ""
 "\n"
 "Naciśnij OK aby kontynuować."
 
-#
 msgid "Your STB is shutting down. Please stand by..."
-msgstr ""
+msgstr "Twoje VU+ jest zamykane. Proszę czekać ...""
 
-#
 msgid ""
 "Your STB isn't connected to the internet properly. Please check it and try "
 "again."
 msgstr ""
+"Twoje VU+ nie jest podłączone do Internetu prawidłowo. Proszę to sprawdzić i spróbować""
+"Proszę to sprawdzić i spróbować ponownie."
 
 msgid "Your STB will restart after pressing OK on your remote control."
 msgstr "W celu ponownego uruchomienia VU+ naciśnij przycisk OK pilota."
@@ -6753,13 +6760,16 @@ msgstr "Twoja konfiguracja sieci została aktywowana."
 msgid "Your network is not working. Please try again."
 msgstr "Twoja sieć nie działa. Spróbuj ponownie..."
 
-#
 msgid ""
 "Your wireless LAN internet connection could not be started!\n"
 "Have you attached your USB WLAN Stick?\n"
 "\n"
 "Please choose what you want to do next."
 msgstr ""
+"Połączenie internetowe sieci bezprzewodowa sieć nie działa!\n"
+"Włączyłeś dołączony adapter WLAN?\n"
+"\n"
+"Proszę wybrać to, co chcesz zrobić."
 
 msgid "Zap"
 msgstr "Przełącz"
@@ -6902,11 +6912,9 @@ msgstr "Na początku"
 msgid "at end"
 msgstr "Na końcu"
 
-#, python-format
 msgid "audio track (%s) format"
 msgstr "Format ścieżki audio (%s)"
 
-#, python-format
 msgid "audio track (%s) language"
 msgstr "Język ścieżki audio (%s)"
 
@@ -6919,9 +6927,8 @@ msgstr "Auto"
 msgid "auto (off)"
 msgstr "Automatyczny (wyłączony)"
 
-#
 msgid "available "
-msgstr ""
+msgstr "Dostępny"
 
 msgid "back"
 msgstr "Powrót"
@@ -6933,10 +6940,10 @@ msgid "backgroundcolor"
 msgstr "Kolor tła"
 
 msgid "backupstick or"
-msgstr ""
+msgstr "Pamięć kopi zapasowej lub"
 
 msgid "backupstick.txt"
-msgstr ""
+msgstr "backupstick.txt"
 
 msgid "better"
 msgstr "Lepszy"
@@ -6953,20 +6960,17 @@ msgstr "Czarna lista"
 msgid "blue"
 msgstr "Niebieski"
 
-#
 msgid "bookmark"
-msgstr ""
+msgstr "Zakładka"
 
-#, python-format
 msgid "burn audio track (%s)"
 msgstr "Nagraj ścieżkę audio (%s)"
 
 msgid "cat /proc/bus/input/devices"
 msgstr "cat /proc/bus/input/devices"
 
-#
 msgid "change channel on timeout"
-msgstr ""
+msgstr "Zmień kanał po przekroczeniu limitu czasu"
 
 msgid "change recording (duration)"
 msgstr "Zmień czas trwania nagrania"
@@ -6977,9 +6981,8 @@ msgstr "Zmień koniec czasu nagrania"
 msgid "change recording (timer editor)"
 msgstr "Edytuj programowanie timera"
 
-#
 msgid "change tuner on timeout"
-msgstr ""
+msgstr "Zmień tuner po przekroczeniu limitu czasu"
 
 msgid "chapters"
 msgstr "Rozdziały"
@@ -7008,11 +7011,9 @@ msgstr "Połączony"
 msgid "continue/pause"
 msgstr "Kontynuuj/Pauza"
 
-#
 msgid "copy"
-msgstr ""
+msgstr "Kopiuj"
 
-#, python-format
 msgid "copy : %s"
 msgstr "Kopiuj : %s"
 
@@ -7049,7 +7050,6 @@ msgstr "domyślny"
 msgid "delete"
 msgstr "Usuń"
 
-#, python-format
 msgid "delete : %s"
 msgstr "Skasuj : %s"
 
@@ -7065,10 +7065,8 @@ msgstr "Usuń wpis playlisty"
 msgid "delete saved playlist"
 msgstr "Usuń zachowaną playlistę"
 
-#
-#, python-format
 msgid "device : %s"
-msgstr ""
+msgstr "Urządzenie : %s"
 
 msgid "disable"
 msgstr "Wyłącz"
@@ -7155,13 +7153,13 @@ msgid "exit networkadapter setup menu"
 msgstr "Wyjdź z menu konfiguracji adaptera sieciowego"
 
 msgid "ext2 - recommended for USB flash memory"
-msgstr ""
+msgstr "ext2 - zalecane dla pamięci USB"
 
 msgid "ext3 - recommended for harddisks"
-msgstr ""
+msgstr "ext3 - zalecane dla dysków twardych"
 
 msgid "ext4 - experimental"
-msgstr ""
+msgstr "ext4 - eksperymentalny"
 
 msgid "fast"
 msgstr "Szybko"
@@ -7221,7 +7219,7 @@ msgid "hide player"
 msgstr "Ukryj odtwarzacz"
 
 msgid "high"
-msgstr ""
+msgstr "Wysoki"
 
 msgid "horizontal"
 msgstr "Pozioma (H)"
@@ -7301,12 +7299,11 @@ msgstr "zablokowany"
 msgid "loopthrough to"
 msgstr "Za pomocą pętli do"
 
-#
 msgid "low"
-msgstr ""
+msgstr "Niski"
 
 msgid "manage block devices of your VU+"
-msgstr ""
+msgstr "Zarządzaj zablokowanymi urządzeniami swojego VU+"
 
 msgid "management 3g modem"
 msgstr "Zarządzanie modemem 3G"
@@ -7317,9 +7314,8 @@ msgstr "Ręcznie"
 msgid "menu"
 msgstr "Menu"
 
-#
 msgid "min"
-msgstr ""
+msgstr "min"
 
 msgid "mins"
 msgstr "min's"
@@ -7336,7 +7332,6 @@ msgstr "Miesiąc"
 msgid "move"
 msgstr "Przenieś"
 
-#, python-format
 msgid "move : %s"
 msgstr "Przenieś : %s"
 
@@ -7403,29 +7398,26 @@ msgstr "Brak"
 msgid "normal"
 msgstr "Normalny"
 
-#
 msgid "not available"
-msgstr ""
+msgstr "Niedostępne"
 
 msgid "not configured"
 msgstr "Nieskonfigurowany"
 
 msgid "not found, the backup process will be aborted!"
-msgstr ""
+msgstr "Nie znaleziono, proces tworzenia kopii zapasowej zostanie przerwany!"
 
 msgid "not locked"
 msgstr "Nie zablokowany"
 
-#
 msgid "not mounted"
-msgstr ""
+msgstr "Nie zamontowany"
 
-#
 msgid "not set"
-msgstr ""
+msgstr "Nie jest ustawiony"
 
 msgid "not supported"
-msgstr ""
+msgstr "Nie obsługiwany"
 
 msgid "not used"
 msgstr "Nie ustawione"
@@ -7502,7 +7494,6 @@ msgstr "Poprzedni kanał w historii"
 msgid "progress bar"
 msgstr "Pasek postępu"
 
-#, python-format
 msgid "python %s %s %s %s"
 msgstr "python %s %s %s %s"
 
@@ -7515,12 +7506,11 @@ msgstr "Nagrywanie..."
 msgid "red"
 msgstr "Czerwony"
 
-#
 msgid "remove"
-msgstr ""
+msgstr "Usuń"
 
 msgid "remove a nameserver entry"
-msgstr "usuń wpis DNS"
+msgstr "Usuń wpis DNS"
 
 msgid "remove after this position"
 msgstr "Usuń po tej pozycji"
@@ -7588,7 +7578,6 @@ msgstr "Zapisz playlistę przy wyjściu"
 msgid "scan done!"
 msgstr "Skanowanie zakończone!"
 
-#, python-format
 msgid "scan in progress - %d%% done!"
 msgstr "Skanowanie w toku - %d%% skończone!"
 
@@ -7737,9 +7726,8 @@ msgstr "Zapętlony pokaz slajdów"
 msgid "slow"
 msgstr "Wolno"
 
-#
 msgid "sort"
-msgstr ""
+msgstr "Sortuj"
 
 msgid "sort by date"
 msgstr "Sortuj poprzez datę"
@@ -7832,7 +7820,7 @@ msgid "tuner is not supported"
 msgstr "Tuner nieobsługiwany"
 
 msgid "umounting failed!Maybe some files in mount point are open"
-msgstr ""
+msgstr "Odmontowanie nie powiodło się! Może jakieś pliki w punkcie montowania są otwarte"
 
 msgid "unconfirmed"
 msgstr "Niepotwierdzony"
@@ -7858,9 +7846,8 @@ msgstr "Pionowa (V)"
 msgid "vfat - for USB flash memory"
 msgstr ""
 
-#
 msgid "video tune"
-msgstr ""
+msgstr "Dostrajanie wideo"
 
 msgid "view extensions..."
 msgstr "Wyświetl rozszerzenia..."
@@ -7910,11 +7897,12 @@ msgstr "Tak"
 msgid "yes (keep feeds)"
 msgstr "Tak (trzymaj je)"
 
-#
 msgid ""
 "your STB might be unusable now. Please consult the manual for further "
 "assistance before rebooting your STB."
 msgstr ""
+"Twoje VU+ może być bezużyteczny teraz. Proszę zapoznać się z instrukcją by uzyskać"
+"pomoc przed ponownym uruchomieniu VU+".
 
 msgid "zap"
 msgstr "Przełącz"
@@ -7922,9 +7910,8 @@ msgstr "Przełącz"
 msgid "zapped"
 msgstr "Przełączony"
 
-#
 msgid "zapping interval (sec) "
-msgstr ""
+msgstr "Odstęp pomiędzy przełączaniem (sec)"
 
 msgid "zap and record"
 msgstr "Przełącz i nagraj"
@@ -7952,9 +7939,8 @@ msgstr ""
 "\n"
 "Czy chcesz przełączyć ?"
 
-#
 msgid "You have to stop your playing Movie before"
-msgstr ""
+msgstr "Musisz zatrzymać odtwarzanie filmu przed"
 
 msgid "Use preview mode in service list (2x OK mode)"
 msgstr "Użyj trybu podglądu na liście kanałów (2x OK)"
@@ -8061,17 +8047,14 @@ msgstr "Główne opóźnienie PCM (ms)"
 msgid "OSD visibility"
 msgstr "Przezroczystość"
 
-#
 msgid "Automatic Volume Leveling (AVL)"
-msgstr ""
+msgstr "Automatyczna regulacja głośności"
 
-#
 msgid "Speaker position"
-msgstr ""
+msgstr "Pozycja głośnika"
 
-#
 msgid "AAC downmix"
-msgstr ""
+msgstr "AAC downmix"
 
 msgid "Scale picons to given skin size"
 msgstr "Skaluj pikony do określonej przez skórę wielkości"
@@ -8100,37 +8083,29 @@ msgstr "Szukaj aktualizacji co X godz. (0 = wyłączone)"
 msgid "Append begin date at end of recording file name"
 msgstr "Dołącz datę rozpoczęcia na końcu nazwy pliku nagrania"
 
-#
 msgid "Protect main menu"
-msgstr ""
+msgstr "Chroń menu główne""
 
-#
 msgid "Protect configuration"
-msgstr ""
+msgstr "Chroń konfigurację"
 
-#
 msgid "Protect movie list"
-msgstr ""
+msgstr "Chroń listę kanałów"
 
-#
 msgid "Protect timer list"
-msgstr ""
+msgstr "Chroń listę nagrań"
 
-#
 msgid "Protect plugin browser"
-msgstr ""
+msgstr "Chroń przeglądarkę wtyczek"
 
-#
 msgid "Protect standby menu"
-msgstr ""
+msgstr "Chroń menu czuwania"
 
-#
 msgid "Protect VTi menu"
-msgstr ""
+msgstr "Chroń menu VTi"
 
-#
 msgid "Protect VTi Panel"
-msgstr ""
+msgstr "Chroń panel VTi"
 
 msgid "Movie archive"
 msgstr "Katalog filmów"
@@ -8138,12 +8113,11 @@ msgstr "Katalog filmów"
 msgid "Play back media files"
 msgstr "Odtwórz pliki multimedialne"
 
-#
 msgid "show in main menu"
-msgstr ""
+msgstr "Pokaż w menu głównym"
 
 msgid "show in plugin browser"
-msgstr ""
+msgstr "Pokaż w przeglądarce wtyczek"
 
 msgid "Play DVDs"
 msgstr "Odtwarza DVD"
@@ -8151,11 +8125,9 @@ msgstr "Odtwarza DVD"
 msgid "Delete movies without confirmation"
 msgstr "Usuń nagranie bez potwierdzenia"
 
-#
 msgid "show more movie list options"
-msgstr ""
+msgstr "Pokaż więcej opcji listy nagrań"
 
-#
 msgid ""
 "You should now reboot your STB in order to ralink device operate in AP "
 "mode.\n"
@@ -8163,6 +8135,10 @@ msgid ""
 "Reboot now ?\n"
 "\n"
 msgstr ""
+"Należy teraz ponownie uruchomić VU+, aby do urządzenie Ralink pracowało w trybie AP"
+"\n"
+"Uruchom ponownie teraz?\n"
+"\n"
 
 #
 msgid ""
