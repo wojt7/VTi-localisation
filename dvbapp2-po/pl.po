@@ -8140,7 +8140,6 @@ msgstr ""
 "Uruchom ponownie teraz?\n"
 "\n"
 
-#
 msgid ""
 "You should now reboot your STB to better performance of ralink device in STA "
 "mode.\n"
@@ -8148,14 +8147,16 @@ msgid ""
 "Reboot now ?\n"
 "\n"
 msgstr ""
+"Należy teraz ponownie uruchomić VU+ dla uzyskania lepszej wydajności urządzenia"
+"Ralink w trybie STA. \n"
+"\n"
+"Uruchom ponownie teraz?\n" 
 
-#
 msgid "Multichannel PCM"
-msgstr ""
+msgstr "Multichannel PCM"
 
-#
 msgid "show folder"
-msgstr ""
+msgstr "Pokaż folder"
 
 msgid "Show file size in movie list (VTi list style)"
 msgstr "Pokaż rozmiar pliku na liście nagrań (styl listy VTI)"
@@ -8163,134 +8164,104 @@ msgstr "Pokaż rozmiar pliku na liście nagrań (styl listy VTI)"
 msgid "Show notification when update is available"
 msgstr "Pokaż powiadomienie o dostępnych aktualizacjach"
 
-#
 msgid "Short without date"
-msgstr ""
+msgstr "Krótki bez daty"
 
-#
 msgid "without function"
-msgstr ""
+msgstr "Bez funkcji"
 
-#
 msgid "change list view"
-msgstr ""
+msgstr "Zmiana widoku listy"
 
-#
 msgid "Color Buttons"
-msgstr ""
+msgstr "Kolorowe przyciski"
 
-#
 msgid "Context Menu"
-msgstr ""
+msgstr "Menu kontekstowe"
 
-#
 msgid "Toggle short/long key press for color keys"
-msgstr ""
+msgstr "Przełącz naciskanie krótkiego/długiego klawisza dla kolorowych przycisków"
 
-#
 msgid "assign bookmark"
-msgstr ""
+msgstr "Przypisz zakładkę"
 
-#
 msgid "select bookmark"
-msgstr ""
+msgstr "Wybierz zakładkę"
 
-#
 msgid "use virtual keyboard for text input"
-msgstr ""
+msgstr "Użyj wirtualnej klawiatury do wprowadzania tekstu"
 
-#
 msgid "create symlink"
-msgstr ""
+msgstr "Utwórz dowiązanie symboliczne"
 
-#
 msgid "Creating symlink failed."
-msgstr ""
+msgstr "Tworzenie dowiązania symbolicznego zakończone niepowodzeniem."
 
-#
 msgid "create bookmark : %s"
-msgstr ""
+msgstr "Utwórz zakładkę: %s"
 
-#
 msgid "Start next media file"
-msgstr ""
+msgstr "Rozpocznij następny plik multimedialny"
 
 msgid "Yes, and play next media file"
 msgstr "Tak, odtwórz następny plik multimedialny"
 
-#
 msgid "Play next media file in directory"
-msgstr ""
+msgstr "Odtwórz następny plik multimedialny w katalogu"
 
-#
 msgid "Play previous media file in directory"
-msgstr ""
+msgstr "Odtwórz poprzedni plik multimedialny w katalogu"
 
-#
 msgid "Default play mode"
-msgstr ""
+msgstr "Domyślny tryb odtwarzania"
 
-#
 msgid "Shuffle play"
-msgstr ""
+msgstr "Odtwarzanie przypadkowe"
 
-#
 msgid "Play all"
-msgstr ""
+msgstr "Odtwórz wszystkie"
 
-#
 msgid "Please select play mode :"
-msgstr ""
+msgstr "Wybierz tryb odtwarzania :"
 
 msgid "Show movie cover"
 msgstr "Pokaż okładkę filmu"
 
-#
 msgid "Down"
-msgstr ""
+msgstr "Dół"
 
-#
 msgid "Select key"
-msgstr ""
+msgstr "Wybierz klawisz"
 
-#
 msgid "Move cursor left"
-msgstr ""
+msgstr "Przesuń kursor w lewo"
 
-#
 msgid "Move cursor right"
-msgstr ""
+msgstr "Przesuń kursor w prawo"
 
-#
 msgid "Delete (right of the cursor)"
-msgstr ""
+msgstr "Skasuj (na prawo od kursora)"
 
-#
 msgid "Delete (left of the cursor)"
-msgstr ""
+msgstr "Skasuj (na prawo od kursora)"
 
-#
 msgid "Switch keyboard layout"
-msgstr ""
+msgstr "Przełączanie układu klawiatury"
 
-#
 msgid "Toggle SHIFT mode"
-msgstr ""
+msgstr "Przełącz tryb SHIFT"
 
-#
 msgid "Move to begin"
-msgstr ""
+msgstr "Przesuń, aby rozpocząć"
 
-#
 msgid "Move to end"
-msgstr ""
+msgstr "Przesuń, aby zakończyć"
 
 msgid "Show last stop time in movie list"
 msgstr "Pokaż ostatni czas zatrzymania na liście nagrań"
 
-#
 msgid "start last played movie"
-msgstr ""
+msgstr "Rozpocznij odtwarzanie ostatniego filmu"
 
 msgid "last video"
 msgstr "ostatnie nagranie"
@@ -8301,9 +8272,8 @@ msgstr "Wznawiaj nagrania, oznaczone jako obejrzane"
 msgid "Activate Split Screen"
 msgstr "Aktywuj podział ekranu"
 
-#
 msgid "Deactivate Split Screen"
-msgstr ""
+msgstr "Wyłącz podział ekranu"
 
 msgid "(de)activate Split Screen..."
 msgstr "(Dez)aktywuj ekran podziału..."
@@ -8329,39 +8299,30 @@ msgstr "Aktywuj przełączanie audio"
 msgid "Deactivate Audio Zap"
 msgstr "Deaktywuj przełączanie audio"
 
-#
 msgid "(de)activate Audio Zap..."
-msgstr ""
+msgstr "(De)aktywuj przełączanie audio..."
 
-#
 msgid "Start last service when returning to movie list (PiG)"
-msgstr ""
+msgstr "Rozpocznij ostatnią usługę po powrocie do listy filmów (PiG)"
 
-#
 msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
-msgstr ""
+msgstr "Przełącz regulację zbliżenia (PiP, podział ekranu, przełączenia audio)"
 
-#
 msgid "Video"
 msgstr ""
 
-#
 msgid "Zap focus: "
-msgstr ""
+msgstr "Przełącz zbliżenie: "
 
-#
 msgid "Main window"
-msgstr ""
+msgstr "Okno główne"
 
-#
 msgid "Second window"
-msgstr ""
+msgstr "Drugie okno"
 
-#
 msgid "Mini TV"
 msgstr ""
 
-#
 msgid "Live TV"
 msgstr ""
 
@@ -8390,69 +8351,53 @@ msgstr ""
 "GUI musi zostać uruchomione ponownie aby zastosować nową konfigurację.\n"
 "Czy chcesz zrobić restart GUI teraz?"
 
-#
 msgid "toggle select mode"
-msgstr ""
+msgstr "Przełącz na tryb wyboru"
 
-#
 msgid "delete selected items"
-msgstr ""
+msgstr "Usuń wybrane elementy"
 
-#
 msgid "copy selected items"
-msgstr ""
+msgstr "Skopiuj wybrane elementy"
 
-#
 msgid "move selected items"
-msgstr ""
+msgstr "Przenieść wybrane elementy"
 
-#
 msgid "play selected items"
-msgstr ""
+msgstr "Odtwórz wybrane elementy"
 
-#
 msgid "show selected items"
-msgstr ""
+msgstr "Pokaż wybrane pozycje"
 
-#
 msgid "no selected item"
-msgstr ""
+msgstr "nie wybrana pozycja"
 
-#
 msgid "reset play progress of selected items"
-msgstr ""
+msgstr "Reset postępu odtwarzania wybranych pozycji"
 
-#
 msgid "disable select mode"
-msgstr ""
+msgstr "Wyłącz tryb wyboru"
 
-#
 msgid "enable select mode"
-msgstr ""
+msgstr "Włącz tryb wyboru"
 
-#
 msgid "Do you really want to delete all selected items ?"
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć wszystkie wybrane pozycje?"
 
-#
 msgid "Not all items could be deleted !"
-msgstr ""
+msgstr "Nie wszystkie elementy mogą być usunięte!"
 
-#
 msgid "Recorded files"
-msgstr ""
+msgstr "Nagrane pliki"
 
-#
 msgid "Select mode"
-msgstr ""
+msgstr "Wybór trybu"
 
-#
 msgid "movie trash"
-msgstr ""
+msgstr "Filmy śmieci"
 
-#
 msgid "clear movie trash"
-msgstr ""
+msgstr "Wyczyść filmy śmieci"
 
 msgid "Show movie trash folder in movie list"
 msgstr "Pokaż katalog nagrań śmieci na liście nagrań"
@@ -8460,23 +8405,21 @@ msgstr "Pokaż katalog nagrań śmieci na liście nagrań"
 msgid "Use movie trash for deleting files"
 msgstr "Użyj katalog nagrań śmieci do kasowania plików"
 
-#
 msgid ""
 "Delete failed, because there is no movie trash !\n"
 "Disable movie trash in configuration to delete this item"
 msgstr ""
+"Usuwanie nie powiodło się, ponieważ nie ma filmów śmieci!\n"
+"Wyłącz film śmieci w konfiguracji, aby usunąć ten element"
 
-#
 msgid "Do you really want to delete the movie trash of this device ?"
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć filmy śmieci z tego urządzenia?"
 
-#
 msgid "Movie trash function is not available at this memory device !"
-msgstr ""
+msgstr "Funkcja filmów śmieci nie jest dostępna na tym urządzeniu pamięci!"
 
-#
 msgid "change play mode..."
-msgstr ""
+msgstr "Zmień tryb odtwarzania ..."
 
 #~ msgid ""
 #~ "Select to press OK, Exit to press Cancel.\n"
