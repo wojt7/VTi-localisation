@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-03 16:47+0100\n"
-"Last-Translator: JAKuhr <jakuhrlinux@googlemail.com>\n"
+"PO-Revision-Date: 2014-11-07 17:36+0100\n"
+"Last-Translator: schomi <schomi@vuplus-support.org>\n"
 "Language-Team: German <>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.5.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #
@@ -3156,7 +3156,7 @@ msgstr "Unterstützung für hohe Datenraten"
 
 #
 msgid "Horizontal"
-msgstr "Waagerecht"
+msgstr "Horizontal"
 
 #
 msgid "How many minutes do you want to record?"
@@ -10661,4 +10661,3 @@ msgstr ""
 #
 msgid "change play mode..."
 msgstr "Abspielmodus wechseln"
-
