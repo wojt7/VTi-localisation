@@ -98,61 +98,84 @@ msgid "Backward <"
 msgstr "Tył <"
 
 msgid "Volume +"
-msgstr "Lautstärke +"
+msgstr "Głośność +"
 
 msgid "Volume -"
-msgstr "Lautstärke -"
+msgstr "Głośność -"
+
 msgid "Mute"
-msgstr "Stumm"
+msgstr "Mute"
+
 msgid "Power"
-msgstr "Power"
+msgstr "Zasilanie"
+
 msgid "Audio"
 msgstr "Audio"
+
 msgid "EXIT"
-msgstr "Beenden"
+msgstr "Exit"
+
 msgid "Play"
 msgstr "Play"
+
 msgid "Pause"
 msgstr "Pause"
+
 msgid "Stop"
 msgstr "Stop"
+
 msgid "Rewind <<"
-msgstr "Zurückspulen <<"
+msgstr "Przewijanie <<"
+
 msgid "FastForward >>"
-msgstr "Vorspulen >>"
+msgstr "Przewijanie >>"
+
 msgid "on"
-msgstr "an"
+msgstr "W"
+
 msgid "off"
-msgstr "aus"
+msgstr "z"
+
 #, python-format
 msgid "Quickbutton Key : %s"
-msgstr "Quickbutton Taste : %s"
+msgstr "Szybki przycisk : %s"
+
 msgid "Please select the backup path..."
-msgstr "Bitte wählen Sie den Wiederherstellungspfad ..."
+msgstr "Wybierz ścieżkę przywracania..."
+
 msgid "Overwrite existing Backup?."
-msgstr "Überschreibe bestehende Sicherung ?"
+msgstr "Zastąpić istniejącą kopię zapasową?"
+
 msgid "Backup Settings..."
-msgstr "Sichere Einstellungen ..."
+msgstr "Ustawienia kopii zapasowej..."
+
 #, python-format
 msgid "Directory %s nonexistent."
-msgstr "Verzeichnis %s existiert nicht"
+msgstr "Katalog %s nie istnieje"
+
 msgid "Please select the restore path..."
-msgstr "Bitte wählen Sie den Wiederherstellungspfad ..."
+msgstr "Wybierz ścieżkę przywracania ..."
+
 msgid "Overwrite existing Settings?."
 msgstr "Überschreibe bestehende Einstellungen ?"
+
 #, python-format
 msgid "File %s nonexistent."
 msgstr "Datei %s existiert nicht."
+
 msgid "Restore Settings..."
 msgstr "Stelle Einstellungen wieder her ..."
+
 msgid ""
 "Restarting Enigma2 to set\n"
 "Multi QuickButton Autostart"
 msgstr ""
 "Starte Enigma2 neu um die:\n"
 "Autostarteinstellung zu übernehmen"
+
 msgid "Restarting Enigma2 to load:\n"
 msgstr "Starte Enigma2 neu für:\n"
+
 msgid "Multi QuickButton settings"
 msgstr "Multi QuickButton Einstellungen"
 msgid "Cancel"
