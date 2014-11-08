@@ -1,0 +1,299 @@
+# JAKuhr <jakuhrlinux@googlemail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: VTI Device Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-05 09:22+0100\n"
+"PO-Revision-Date: 2014-11-03 14:12+0100\n"
+"Last-Translator: kapciu75 <kapciu1975@wp.pl>\n"
+"Language-Team: Polish <>\n"
+"Language: Polish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Poedit-SearchPath-0: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "DeviceManager Message"
+msgstr "Komunikat menadżera urządzeń"
+
+msgid "Exit"
+msgstr "Wyjdź"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Information"
+msgstr "Informacja"
+
+msgid "Error"
+msgstr "Błąd"
+msgid "DeviceManager"
+msgstr "Menadżer urządzeń"
+
+msgid "Initialize"
+msgstr "Zainicjuj"
+
+msgid "Show mounts"
+msgstr "Pokaż podmontowania"
+
+msgid "Size : "
+msgstr "Rozmiar: "
+
+msgid "Model : "
+msgstr "Model: "
+
+msgid "Vendor : "
+msgstr "Producent: "
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Loading, please wait ..."
+msgstr "Ładuję, proszę czekać ..."
+
+msgid "not mounted"
+msgstr "Nie zamontowane"
+
+msgid "Umount"
+msgstr "Odmontuj"
+
+msgid "Mount"
+msgstr "Zamontuj"
+
+msgid "Check"
+msgstr "Sprawdź"
+
+#, python-format
+msgid ""
+"Mount path %s\n"
+"is already in use. Please umount current device first"
+msgstr ""
+"Ścieżka podmontowania %s\n"
+"jest już w użyciu. Proszę odinstalować bieżące urządzenie.
+
+msgid "Insert mount point:"
+msgstr "Wstaw punkt montowania:"
+
+msgid "/media/custom"
+msgstr "/media/niestandardowy"
+
+msgid "default mount point for hdd"
+msgstr "Standard-Einhängepunkt für Festplatte"
+
+msgid "recommended for USB flash memory"
+msgstr "Empfohlen für USB-Sticks"
+
+msgid "user defined"
+msgstr "Benutzerdefiniert"
+
+msgid "Formatting, please wait ..."
+msgstr "Formatierung läuft... Bitte warten. ..."
+
+#, python-format
+msgid "Device : /dev/%s"
+msgstr "Gerät: /dev/%s"
+
+#, python-format
+msgid "Filesystem : %s"
+msgstr "Dateisystem: %s"
+
+#, python-format
+msgid "Size : %s MB"
+msgstr "Größe: %s MB"
+
+#, python-format
+msgid ""
+"Do you really want to initialize your device ?\n"
+"\n"
+"ATTENTION !!!\n"
+"\n"
+"This will delete all data on device %s (/dev/%s)"
+msgstr ""
+"Möchten Sie das Gerät wirklich initialisieren?\n"
+"\n"
+"ACHTUNG !!!\n"
+"\n"
+"Dies wird den kompletten Inhalt des Gerätes %s (/dev/%s) löschen."
+
+msgid "Partitioning, please wait ..."
+msgstr "Partitionierung läuft... Bitte warten. ..."
+
+msgid "One partition"
+msgstr "Eine Partition"
+
+msgid "Two partitions (50% / 50%)"
+msgstr "Zwei Partitionen (50% - 50%)"
+
+msgid "Two partitions (75% / 25%)"
+msgstr "Zwei Partitionen (75% - 25%)"
+
+msgid "Three partitions (33% / 33% / 33%)"
+msgstr "Drei Partitionen (33% - 33% - 33%)"
+
+msgid "Four partitions (25% / 25% / 25% / 25%)"
+msgstr "Vier Partitionen (25% - 25% - 25% - 25%)"
+
+msgid "Two partitions (1% / 99%)"
+msgstr "Zwei Partitionen (1% - 99%)"
+
+msgid "ext2"
+msgstr "ext2"
+
+msgid "ext4"
+msgstr "ext4"
+
+msgid "recommended for harddisks"
+msgstr "Empfohlen für Festplatten"
+
+msgid "ext3"
+msgstr "ext3"
+
+msgid "fat"
+msgstr "fat"
+
+msgid "for USB flash memory"
+msgstr "Für USB-Sticks"
+
+msgid "Check filesystem, please wait ..."
+msgstr "Dateisystem wird geprüft. Bitte warten..."
+
+msgid "not formatted"
+msgstr "nicht formatiert"
+
+msgid "Filesystem : "
+msgstr "Dateisystem: "
+
+msgid "Mountpoint : "
+msgstr "Einhängepunkt: "
+
+msgid "Device: "
+msgstr "Gerät: "
+
+msgid "There are no mounted devices"
+msgstr "Es sind keine Geräte eingehängt"
+
+#, python-format
+msgid ""
+"Can not umount all partitions of /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+"Es können nicht alle Partitionen des Geräts /dev/%s ausgehängt werden.\n"
+"Eventuell sind Dateien auf diesem Gerät geöffnet."
+
+#, python-format
+msgid "Can not change partition table of /dev/%s."
+msgstr "Partitionstabelle von /dev/%s konnte nicht geändert werden."
+
+#, python-format
+msgid "Can not refresh partition table of /dev/%s."
+msgstr "Partitionstablelle von /dev/%s konnte nicht aktualisiert werden."
+
+#, python-format
+msgid ""
+"Error at formatting /dev/%s.\n"
+"Please check your device"
+msgstr ""
+"Fehler bei der Formatierung von /dev/%s\n"
+"Bitte überprüfen Sie Ihr Gerät."
+
+#, python-format
+msgid ""
+"Error at remount of all partitions at /dev/%s\n"
+" Please check your mounts and remount manually"
+msgstr ""
+"Fehler beim Wiedereinhängen der Partitionen von /dev/%s.\n"
+"Bitte überprüfen Sie Ihre Dateisysteme und hängen Sie diese manuell ein."
+
+#, python-format
+msgid ""
+"Can not mount device /dev/%s.\n"
+"Please check correct mount path and filesystem"
+msgstr ""
+"Das Gerät /dev/%s kann nicht eingehängt werden.\n"
+"Bitte überprüfen Sie das Dateisystem und den Pfad."
+
+#, python-format
+msgid ""
+"Can not umount device /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+"Das Gerät /dev/%s kann nicht ausgehängt werden.\n"
+"Wahrscheinlich sind Dateien des Dateisystems in Verwendung."
+
+#, python-format
+msgid ""
+"Error at umounting all partitions at device /dev/%s\n"
+"Initializing was cancelled"
+msgstr ""
+"Fehler beim Aushängen der Partitionen des Gerätes /dev/%s\n"
+"Die Initialisierung wurde abgebrochen."
+
+#, python-format
+msgid "Error at partitioning device /dev/%s"
+msgstr "Fehler bei der Partitionierung von /dev/%s"
+msgid "Create filesystem, please wait ..."
+msgstr "Dateisystem wird erstellt. Bitte warten..."
+
+#, python-format
+msgid "Partition : %s"
+msgstr "Partition: %s"
+
+#, python-format
+msgid ""
+"Error at creating filesystem at device %s\n"
+"Please create filesystem manually"
+msgstr ""
+"Fehler beim Erstellen des Dateisystems auf Gerät %s\n"
+"Bitte erstellen Sie das Dateisystem manuell."
+
+msgid "Filesystem check finished sucessfully"
+msgstr "Dateisystemüberprüfung erfolgreich beendet."
+
+msgid "Error checking disk. The disk or filesystem may be damaged"
+msgstr ""
+"Fehler bei der Überprüfung der Partition. Die Partition oder das Dateisystem "
+"könnten beschädigt sein."
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "DeviceManager configuration"
+msgstr "Einstellungen für Gerätemanager"
+
+msgid "Enable mount check for HDD"
+msgstr "Überprüfung des Einhängens für Festplatte aktivieren"
+
+msgid "Harddisk standby after"
+msgstr "Festplatten-Standby nach"
+
+msgid "Mount known devices automatically"
+msgstr "Bekannte Geräte automatisch einhängen"
+
+msgid "Really close without saving settings?"
+msgstr "Wirklich schließen ohne die Einstellungen zu speichern?"
+
+msgid ""
+"There are plugged in storage devices without a mount point !\n"
+"Please check mount points of all devices\n"
+"\n"
+"Open DeviceManager and press MENU button to deactivate this check.\n"
+"\n"
+"Do you want to open DeviceManager ?"
+msgstr ""
+"Es wurden installierte Speichergeräte gefunden, die nicht eingehängt sind.\n"
+"Bitte überprüfen Sie die Einhängepunkte der angeschlossenen Geräte\n"
+"\n"
+"Um diese Überprüfung zu deaktivieren, drücken Sie bitte die MENÜ-Taste im "
+"Gerätemanager.\n"
+"\n"
+"Möchten Sie den Gerätemanager jetzt öffnen ?"
+
+msgid "manage block devices of your VU+"
+msgstr "Speichergeräte Ihrer Vu+ verwalten"
+
