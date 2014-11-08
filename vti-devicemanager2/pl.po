@@ -81,28 +81,28 @@ msgid "/media/custom"
 msgstr "/media/niestandardowy"
 
 msgid "default mount point for hdd"
-msgstr "Standard-Einhängepunkt für Festplatte"
+msgstr "Domyślny punkt montowania dla HDD"
 
 msgid "recommended for USB flash memory"
-msgstr "Empfohlen für USB-Sticks"
+msgstr "Zalecane dla pamięci USB"
 
 msgid "user defined"
-msgstr "Benutzerdefiniert"
+msgstr "Zdefiniowany przez użytkownika"
 
 msgid "Formatting, please wait ..."
-msgstr "Formatierung läuft... Bitte warten. ..."
+msgstr "Formatowanie... Proszę czekać..."
 
 #, python-format
 msgid "Device : /dev/%s"
-msgstr "Gerät: /dev/%s"
+msgstr "Urządzenie: /dev/%s"
 
 #, python-format
 msgid "Filesystem : %s"
-msgstr "Dateisystem: %s"
+msgstr "System plików: %s"
 
 #, python-format
 msgid "Size : %s MB"
-msgstr "Größe: %s MB"
+msgstr "Rozmiar: %s MB"
 
 #, python-format
 msgid ""
@@ -112,32 +112,32 @@ msgid ""
 "\n"
 "This will delete all data on device %s (/dev/%s)"
 msgstr ""
-"Möchten Sie das Gerät wirklich initialisieren?\n"
+"Czy na pewno chcesz zainicjować urządzenie?\n"
 "\n"
-"ACHTUNG !!!\n"
+"Uwaga !!!\n"
 "\n"
-"Dies wird den kompletten Inhalt des Gerätes %s (/dev/%s) löschen."
+"Spowoduje to usunięcie całej zawartości na urządzeniu %s (/dev/%s)"
 
 msgid "Partitioning, please wait ..."
-msgstr "Partitionierung läuft... Bitte warten. ..."
+msgstr "Partycjonowanie, proszę czekać..."
 
 msgid "One partition"
-msgstr "Eine Partition"
+msgstr "Jedna partycja"
 
 msgid "Two partitions (50% / 50%)"
-msgstr "Zwei Partitionen (50% - 50%)"
+msgstr "Dwie partycje (50% - 50%)"
 
 msgid "Two partitions (75% / 25%)"
-msgstr "Zwei Partitionen (75% - 25%)"
+msgstr "Dwie partycje (75% - 25%)"
 
 msgid "Three partitions (33% / 33% / 33%)"
-msgstr "Drei Partitionen (33% - 33% - 33%)"
+msgstr "Trzy partycje (33% - 33% - 33%)"
 
 msgid "Four partitions (25% / 25% / 25% / 25%)"
-msgstr "Vier Partitionen (25% - 25% - 25% - 25%)"
+msgstr "Cztery partycje (25% - 25% - 25% - 25%)"
 
 msgid "Two partitions (1% / 99%)"
-msgstr "Zwei Partitionen (1% - 99%)"
+msgstr "Dwie partycje (1% - 99%)"
 
 msgid "ext2"
 msgstr "ext2"
@@ -146,7 +146,7 @@ msgid "ext4"
 msgstr "ext4"
 
 msgid "recommended for harddisks"
-msgstr "Empfohlen für Festplatten"
+msgstr "Zalecany dla dysków twardych"
 
 msgid "ext3"
 msgstr "ext3"
@@ -155,128 +155,128 @@ msgid "fat"
 msgstr "fat"
 
 msgid "for USB flash memory"
-msgstr "Für USB-Sticks"
+msgstr "Na pamięci USB"
 
 msgid "Check filesystem, please wait ..."
-msgstr "Dateisystem wird geprüft. Bitte warten..."
+msgstr "Sprawdzam system plików. Proszę czekać ..."
 
 msgid "not formatted"
-msgstr "nicht formatiert"
+msgstr "Nie sformatowany"
 
 msgid "Filesystem : "
-msgstr "Dateisystem: "
+msgstr "System plików: "
 
 msgid "Mountpoint : "
-msgstr "Einhängepunkt: "
+msgstr "Punkt montowania: "
 
 msgid "Device: "
-msgstr "Gerät: "
+msgstr "Urządzenie: "
 
 msgid "There are no mounted devices"
-msgstr "Es sind keine Geräte eingehängt"
+msgstr "Nie ma zamontowane urządzenia"
 
 #, python-format
 msgid ""
 "Can not umount all partitions of /dev/%s.\n"
 "Maybe some files of the filesystem are open"
 msgstr ""
-"Es können nicht alle Partitionen des Geräts /dev/%s ausgehängt werden.\n"
-"Eventuell sind Dateien auf diesem Gerät geöffnet."
+"Nie można odmontować wszystkich partycji /dev/%s.\n"
+"Być może niektóre pliki w systemie plików są otwarte."
 
 #, python-format
 msgid "Can not change partition table of /dev/%s."
-msgstr "Partitionstabelle von /dev/%s konnte nicht geändert werden."
+msgstr "Nie można zmienić tablicy partycji /dev/%s."
 
 #, python-format
 msgid "Can not refresh partition table of /dev/%s."
-msgstr "Partitionstablelle von /dev/%s konnte nicht aktualisiert werden."
+msgstr "Nie można odświeżyć tablicy partycji /dev/%s."
 
 #, python-format
 msgid ""
 "Error at formatting /dev/%s.\n"
 "Please check your device"
 msgstr ""
-"Fehler bei der Formatierung von /dev/%s\n"
-"Bitte überprüfen Sie Ihr Gerät."
+"Błąd podczas formatowania /dev/%s.\n"
+"Proszę sprawdzić urządzenie."
 
 #, python-format
 msgid ""
 "Error at remount of all partitions at /dev/%s\n"
 " Please check your mounts and remount manually"
 msgstr ""
-"Fehler beim Wiedereinhängen der Partitionen von /dev/%s.\n"
-"Bitte überprüfen Sie Ihre Dateisysteme und hängen Sie diese manuell ein."
+"Błąd w podmontowaniu wszystkich partycji na /dev/%s\n"
+"Proszę o sprawdzenie systemu plików i zamontować je ręcznie."
 
 #, python-format
 msgid ""
 "Can not mount device /dev/%s.\n"
 "Please check correct mount path and filesystem"
 msgstr ""
-"Das Gerät /dev/%s kann nicht eingehängt werden.\n"
-"Bitte überprüfen Sie das Dateisystem und den Pfad."
+"Urządzenie /dev/%s nie może być zamontowane.\n"
+"Proszę sprawdzić system plików i ścieżki."
 
 #, python-format
 msgid ""
 "Can not umount device /dev/%s.\n"
 "Maybe some files of the filesystem are open"
 msgstr ""
-"Das Gerät /dev/%s kann nicht ausgehängt werden.\n"
-"Wahrscheinlich sind Dateien des Dateisystems in Verwendung."
+"Nie można odmontować urządzenia /dev/%s.\n"
+"Być może niektóre pliki w systemie plików są otwarte."
 
 #, python-format
 msgid ""
 "Error at umounting all partitions at device /dev/%s\n"
 "Initializing was cancelled"
 msgstr ""
-"Fehler beim Aushängen der Partitionen des Gerätes /dev/%s\n"
-"Die Initialisierung wurde abgebrochen."
+"Błąd odmontowania wszystkich partycji na urządzeniu /dev/%s\n"
+"Inicjowanie zostało odwołane."
 
 #, python-format
 msgid "Error at partitioning device /dev/%s"
-msgstr "Fehler bei der Partitionierung von /dev/%s"
+msgstr "Błąd w partycjonowaniu urządzenia /dev/%s"
+
 msgid "Create filesystem, please wait ..."
-msgstr "Dateisystem wird erstellt. Bitte warten..."
+msgstr "Tworzenie systemu plików, proszę czekać ..."
 
 #, python-format
 msgid "Partition : %s"
-msgstr "Partition: %s"
+msgstr "Partycja : %s"
 
 #, python-format
 msgid ""
 "Error at creating filesystem at device %s\n"
 "Please create filesystem manually"
 msgstr ""
-"Fehler beim Erstellen des Dateisystems auf Gerät %s\n"
-"Bitte erstellen Sie das Dateisystem manuell."
+"Błąd tworzenia systemu plików w urządzeniu %s\n"
+"Proszę ręcznie utworzyć system plików."
 
 msgid "Filesystem check finished sucessfully"
-msgstr "Dateisystemüberprüfung erfolgreich beendet."
+msgstr "Sprawdzanie systemu plików zostało zakończone powodzeniem"
 
 msgid "Error checking disk. The disk or filesystem may be damaged"
 msgstr ""
-"Fehler bei der Überprüfung der Partition. Die Partition oder das Dateisystem "
-"könnten beschädigt sein."
+"Błąd sparwdzania dysku. Dysk lub system plików może być uszkodzony."
 
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr "Anuluj"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "DeviceManager configuration"
-msgstr "Einstellungen für Gerätemanager"
+msgstr "Konfiguracja menadżera urządzeń"
 
 msgid "Enable mount check for HDD"
-msgstr "Überprüfung des Einhängens für Festplatte aktivieren"
+msgstr "Włącz sprawdzanie podmontowania dla HDD"
 
 msgid "Harddisk standby after"
-msgstr "Festplatten-Standby nach"
+msgstr "Gotowość HDD po"
 
 msgid "Mount known devices automatically"
-msgstr "Bekannte Geräte automatisch einhängen"
+msgstr "Automatycznie montowanie znanych urządzeń"
 
 msgid "Really close without saving settings?"
-msgstr "Wirklich schließen ohne die Einstellungen zu speichern?"
+msgstr "Czy chcesz zamknąć bez zapisywania ustawień?"
 
 msgid ""
 "There are plugged in storage devices without a mount point !\n"
@@ -286,14 +286,14 @@ msgid ""
 "\n"
 "Do you want to open DeviceManager ?"
 msgstr ""
-"Es wurden installierte Speichergeräte gefunden, die nicht eingehängt sind.\n"
-"Bitte überprüfen Sie die Einhängepunkte der angeschlossenen Geräte\n"
+"Istnieją podłączone urządzenia pamięci masowej bez punktu montowania!\n"
+"Proszę sprawdzić wszystkie punkty montowania urządzeń.\n"
 "\n"
-"Um diese Überprüfung zu deaktivieren, drücken Sie bitte die MENÜ-Taste im "
-"Gerätemanager.\n"
+"Aby wyłączyć ten test, naciśnij przycisk otwórz menadżera urządzeń"
+"i naciśnij Menu.\n"
 "\n"
-"Möchten Sie den Gerätemanager jetzt öffnen ?"
+"Czy chcesz otworzyć menedżera urządzeń?"
 
 msgid "manage block devices of your VU+"
-msgstr "Speichergeräte Ihrer Vu+ verwalten"
+msgstr "Zarządzaj zablokowanymi urządzeniami na swoim VU+."
 
