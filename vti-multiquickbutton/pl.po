@@ -232,221 +232,329 @@ msgid "MultiQuickButton macro configuration"
 msgstr "Konfiguracja macro przycisku skrótu"
 
 msgid "Name"
-msgstr "Name"
+msgstr "Nazwa"
+
 msgid "Modify"
-msgstr "Ändern"
+msgstr "Zmień"
+
 msgid "Delete"
-msgstr "Löschen"
+msgstr "Skasuj"
+
 msgid "Menu"
-msgstr "Menü"
+msgstr "Menu"
+
 msgid "VU+ EPG / Info"
-msgstr "VU+ EPG / INFO"
+msgstr "VU+ EPG / Info"
+
 msgid "OK"
 msgstr "OK"
+
 msgid "Record"
-msgstr "Aufnahme"
+msgstr "Nagraj"
+
 msgid "Ok"
 msgstr "Ok"
+
 msgid "Button : "
-msgstr "Taste : "
+msgstr "Przycisk : "
+
 msgid "Input name for MQB macro"
 msgstr "Namen für das MQB Macro eingeben"
+
 msgid "Input name for MQB macro : "
-msgstr "Namen für das MQB Macro eingeben :"
+msgstr "Wpisz nazwę makro MQB :"
+
 msgid "Select a file to execute"
-msgstr "Ausführbare Datei auswähöen"
+msgstr "Wybierz plik do wykonania"
+
 msgid "Invalid Choice"
-msgstr "Ungültige Auswahl"
+msgstr "Nieprawidłowy wybór"
+
 msgid "File is not executable"
-msgstr "Datei ist nicht ausführbar"
+msgstr "Plik nie jest wykonywalny"
+
 msgid "Script"
-msgstr "Skript"
+msgstr "Skrypt"
+
 msgid "Add command line options ?"
-msgstr "Zusätzliche Befehlszeilenargumente angeben ?"
+msgstr "Określić dodatkowe argumenty wiersza poleceń?"
+
 msgid " "
 msgstr ""
+
 msgid "Please enter the command line options"
-msgstr "Bitte geben Sie die Befehlszeilenargumente ein"
+msgstr "Podaj argumenty wiersza polecenia"
+
 msgid "chmod 755"
 msgstr "chmod 755"
+
 msgid "VTI Panel"
 msgstr "VTI Panel"
+
 msgid "Restart SoftCam"
-msgstr "Neustart SoftCam"
+msgstr "Uruchom ponownie softcam"
+
 msgid "Plugin Browser"
-msgstr "Erweiterungen"
+msgstr "Przeglądarka wtyczek"
+
 msgid "Extension Selection"
-msgstr "Erweiterungsmenü"
+msgstr "Wybór rozszerzenia"
+
 msgid "Sleeptimer"
 msgstr "Sleeptimer"
+
 msgid "Timer"
 msgstr "Geplante Aufnahmen"
+
 msgid "Channel zap +"
-msgstr "Sender vor +"
+msgstr "Kanał +"
+
 msgid "Channel zap -"
-msgstr "Sender zurück -"
+msgstr "Kanał -"
+
 msgid "Channel zap (list) +"
-msgstr "Sender vor + (Liste)"
+msgstr "Kanał + (Lista)"
+
 msgid "Channel zap (list) -"
-msgstr "Sender zurück - (Liste)"
+msgstr "Kanał - (Lista)"
+
 msgid "Dolby Digital downmix on/off"
-msgstr "Dolby Digital downmix an/aus"
+msgstr "Dolby Digital downmix włącz/wyłącz"
+
 msgid "List of Bouquets"
-msgstr "Bouquetliste"
+msgstr "Lista pakietów"
+
 msgid "Channel list"
-msgstr "Senderliste"
+msgstr "List kanałów"
+
 msgid "Zap history back"
-msgstr "Zap Verlauf zurück"
+msgstr "Przełącz z powrotem historię"
+
 msgid "Zap history next"
-msgstr "Zap Verlauf vor"
+msgstr "Przełącz w przód historię"
+
 msgid "InfoBar"
 msgstr "InfoBar"
+
 msgid "InfoBar EventInfoPlugins"
-msgstr "EPG Erweiterungen"
+msgstr "Rozszerzony EPG"
+
 msgid "InfoBar EventView"
-msgstr "Sendungsdetails"
+msgstr "Pasek informacyjny wydarzenia"
+
 msgid "InfoBar EPG"
-msgstr "Einfacher EPG"
+msgstr "Skrócone EPG"
+
 msgid "InfoBar Multi EPG"
-msgstr "Mehrfach EPG"
+msgstr "Pasek informacyjny multi EPG"
+
 msgid "InfoBar Audio Selection"
-msgstr "Audio Einstellungen"
+msgstr "Ustawienia audio"
+
 msgid "InfoBar Show Radio"
 msgstr "Radio"
+
 msgid "InfoBar Show Tv"
 msgstr "Tv"
+
 msgid "Movie Archive"
-msgstr "Aufnahmen wiedergeben"
+msgstr "Odtwarzanie nagrań"
+
 msgid "InfoBar Record"
-msgstr "Aufnahmemenü"
+msgstr "Pasek informacyjny nagrywania"
+
 msgid "InfoBar Instant Record"
-msgstr "Direkte Aufnahme"
+msgstr "Bezpośrednie nagrywanie"
+
 msgid "Start Timeshift"
-msgstr "Starte Timeshift"
+msgstr "Uruchom Timeshift"
+
 msgid "Start Teletext"
 msgstr "Teletext"
+
 msgid "Favourite channel 1"
-msgstr "Lieblingssender 1"
+msgstr "Ulubione stacje 1"
+
 msgid "Favourite channel 2"
-msgstr "Lieblingssender 2"
+msgstr "Ulubione stacje 2"
+
 msgid "Favourite channel 3"
-msgstr "Lieblingssender 3"
+msgstr "Ulubione stacje 3"
+
 msgid "Favourite channel 4"
-msgstr "Lieblingssender 4"
+msgstr "Ulubione stacje 4"
+
 msgid "Favourite channel 5"
-msgstr "Lieblingssender 5"
+msgstr "Ulubione stacje 5"
+
 msgid "Toggle AtmoLight"
-msgstr "AtmoLight an/aus"
+msgstr "AtmoLight włącz/wyłącz"
+
 msgid "Subservice Selection"
-msgstr "Auswahl Optionskanäle"
+msgstr "Opcja wyboru kanałów"
+
 msgid "Subtitles"
-msgstr "Untertitel"
+msgstr "Napisy"
+
 msgid "MediaPlayer"
-msgstr "Media Player"
+msgstr "Odtwarzacz mediów"
+
 msgid "DVDPlayer"
-msgstr "DVD Player"
+msgstr "Odtwarzacz DVD"
+
 msgid "Picture Player"
-msgstr "Bildbetrachter"
+msgstr "Przeglądarka obrazów"
+
 msgid "Cool TV Guide"
-msgstr "Cool TV Guide"
+msgstr "Przewodnik Cool TV"
+
 msgid "A/V Settings"
-msgstr "A/V Einstellungen"
+msgstr "Ustawienia A/V"
+
 msgid "Switch 4:3 (Pillarbox) (Pan&Scan)"
-msgstr "Tausche 4:3 (Pillarbox<=> Pan&Scan)"
+msgstr "Przełącznik 4:3 (Pillarbox <=> Pan&Scan)"
+
 msgid "Mount info"
-msgstr "Dateisystem mounts "
+msgstr "Informacja podmontowań"
+
 msgid "Show PIP"
-msgstr "Zeige PIP"
+msgstr "Pokaż PIP"
+
 msgid "Swap PIP"
-msgstr "Tausche PIP"
+msgstr "Przełącz PIP"
+
 msgid "Move PIP"
-msgstr "Verschiebe PIP"
+msgstr "Przesuń PIP"
+
 msgid "VTI EPG Settings"
-msgstr "VTI EPG Einstellungen"
+msgstr "Ustawienia VTI EPG"
+
 msgid "VTI DeviceManager"
-msgstr "VTI Gerätemanager"
+msgstr "Menadżer urządzeń VTI"
+
 msgid "VTI CamCenter"
-msgstr "VTI CamCenter"
+msgstr "Cam center VTI"
+
 msgid "VTI Backup Tools"
-msgstr "VTI Sicherungswerkzeuge"
+msgstr "Narzędzia do tworzenia kopii zapasowych VTI"
+
 msgid "VTI Image Tools"
-msgstr "VTI Image Werkzeuge"
+msgstr "Narzędzia obrazów VTI"
+
 msgid "VTI System Tools"
-msgstr "VTI Systemwerkzeuge"
+msgstr "Narzędzia systemu VTI"
+
 msgid "VTI Info Tools"
-msgstr "VTI Systeminformationen"
+msgstr "Informacje o systemie VTI"
+
 msgid "VTI Manual Package Installation"
-msgstr "VTI manuelle Paketinstallation (USB oder /tmp)"
+msgstr "Manualna instalacja pakietów (USB lub / tmp) VTI"
+
 msgid "VTI BitrateViewer"
-msgstr "VTI BitrateViewer"
+msgstr "Podgląd bitrate VTI"
+
 msgid "VTI System InfoPanel"
-msgstr "VTI System InfoPanel"
+msgstr "Panel informacyjny systemu VTI"
+
 msgid "VTI USB DVB-T/C/S2 Panel"
-msgstr "VTI USB DVB-T/C/S2 Panel"
+msgstr "Panel VTI USB DVB-T/C/S2"
+
 msgid "VTI CronManager"
-msgstr "VTI CronManager"
+msgstr "Menadżer Cron VTI"
+
 msgid "VTI ExeManager"
-msgstr "VTI Befehl ausführen"
+msgstr "Menadżer wykonywania poleceń VTI"
+
 msgid "VTI News"
-msgstr "VTI Neuigkeiten"
+msgstr "Aktualności VTI"
+
 msgid "Reboot"
-msgstr "VU+ neu starten"
+msgstr "Uruchom ponownie VU+"
+
 msgid "GUI Restart"
-msgstr "GUI neu starten"
+msgstr "Uruchom ponownie GUI"
+
 msgid "DeepStandby"
-msgstr "VU+ ausschalten"
+msgstr "Głębokie czuwanie"
+
 msgid "Remount Network Shares"
-msgstr "Erneuere Netzwerkfreigaben"
+msgstr "Zamontuj udziały sieciowe"
+
 msgid "Remote control macro I"
-msgstr "Fernbedienungsmakro I"
+msgstr "Makro pilota I"
+
 msgid "Remote control macro II"
-msgstr "Fernbedienungsmakro II"
+msgstr "Makro pilota  II"
+
 msgid "Remote control macro III"
-msgstr "Fernbedienungsmakro III"
+msgstr "Makro pilota  III"
+
 msgid "Remote control macro IV"
-msgstr "Fernbedienungsmakro IV"
+msgstr "Makro pilota  IV"
+
 msgid "Remote control macro V"
-msgstr "Fernbedienungsmakro V"
+msgstr "Makro pilota V"
+
 msgid "AutoResolution on/off"
-msgstr "AutoResolution ein/aus"
+msgstr "Włącz/Wyłącz AutoResolution"
+
 msgid "AutoResolution is disabled"
-msgstr "AutoResolution ist aus"
+msgstr "AutoResolution jest wyłączone"
+
 msgid "AutoResolution is enabled"
-msgstr "AutoResolution ist ein"
+msgstr "AutoResolution jest włączone"
+
 msgid "HDMI-CEC TV on"
-msgstr "HDMI-CEC TV ein"
+msgstr "HDMI-CEC TV włączone"
+
 msgid "HDMI-CEC TV off"
-msgstr "HDMI-CEC TV aus"
+msgstr "HDMI-CEC TV wyłączone"
+
 msgid "HDMI-CEC A/V on"
-msgstr "HDMI-CEC A/V ein"
+msgstr "HDMI-CEC A/V włączone"
+
 msgid "HDMI-CEC A/V off"
-msgstr "HDMI-CEC A/V aus"
+msgstr "HDMI-CEC A/V wyłączone"
+
 msgid "HDMI-CEC A/V Volume +"
-msgstr "HDMI-CEC A/V Lautstärke +"
+msgstr "HDMI-CEC A/V Głośność +"
+
 msgid "HDMI-CEC A/V Volume -"
-msgstr "HDMI-CEC A/V Lautstärke -"
+msgstr "HDMI-CEC A/V Głośność -"
+
 msgid "HDMI-CEC A/V Volume mute"
-msgstr "HDMI-CEC A/V stumm"
+msgstr "HDMI-CEC A/V mute"
+
 msgid "HDMI-CEC message was sent"
-msgstr "HDMI-CEC Nachricht wurde übermittelt"
+msgstr "Wiadomość HDMI-CEC została wysłana"
+
 msgid "Power long"
-msgstr "Power lang"
+msgstr "Długie przyciśnięcie zasilania"
+
 msgid "VTI BackupSuite (Restore)"
-msgstr "VTI BackupSuite (Wiederherstellung)"
+msgstr "Menadżer kopii zapasowych VTI (Przywróć)"
+
 msgid "VTI BackupSuite (Backup)"
-msgstr "VTI BackupSuite (Sicherung)"
+msgstr "Menadżer kopii zapasowych VTI (Utwórz)"
+
 msgid "show EPGBar"
-msgstr "EPG Infoleiste"
+msgstr "Pokaż pasek EPG"
+
 msgid "(De)/Activate SplitScreen"
-msgstr "SplitScreen ein-/ausschalten"
+msgstr "(Dez) Aktywuj ekran podziału"
+
 msgid "(De)/Activate AudioZap"
-msgstr "AudioZap ein-/ausschalten"
+msgstr "(Dez) Aktywuj przełączanie audio"
+
 msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
-msgstr "Fokus für das Zappen wechseln (PiP, Split Screen, Audio Zap)"
+msgstr "Przełącz zbliżenie (PiP, Podział ekranu, Przełączanie audio)"
+
 msgid "Quickbutton: Key "
-msgstr "Quickbutton: Taste"
+msgstr "Przycisk skrótu: Przycisk"
+
 #, python-format
 msgid "file %s not found!"
-msgstr "Datei %s nicht gefunden !"
+msgstr "Plik %s nie został znaleziony!"
+
 msgid "Multi Quickbutton"
-msgstr "Multi Quickbutton"
+msgstr "Przycisk skrótu"
