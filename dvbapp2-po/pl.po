@@ -1631,7 +1631,7 @@ msgid "Device Initialization finished sucessfully!"
 msgstr "Inicjalizacja urządzenia zakończona pomyślnie!"
 
 msgid "Device not found."
-msgstr "Nie znaleziono urządzenia".
+msgstr "Nie znaleziono urządzenia."
 
 msgid "DeviceList Refresh Interval"
 msgstr "Częstotliwość odświeżania listy urządzeń"
