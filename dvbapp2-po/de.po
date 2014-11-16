@@ -10661,3 +10661,96 @@ msgstr ""
 #
 msgid "change play mode..."
 msgstr "Abspielmodus wechseln"
+
+msgid "Page down"
+msgstr "Seite runter"
+
+msgid "Page up (Timer list)"
+msgstr "Seite hoch (Timerliste)"
+
+msgid "Exit plugin"
+msgstr "Verlasse Plugin"
+
+msgid "Show detailed programm info"
+msgstr "Zeige detaillierte Programm Informationen"
+
+msgid "Previous entry"
+msgstr "Voriger Eintrag"
+
+msgid "Next entry"
+msgstr "Nächster Eintrag"
+
+msgid "Next Channel"
+msgstr "Nächster Kanal"
+
+msgid "Previous Channel"
+msgstr "Voriger Kanal"
+
+msgid "Page up"
+msgstr "Seite hoch"
+
+msgid "Zap and Exit"
+msgstr "Zappen und Exit"
+
+msgid "Open Timerlist"
+msgstr "Öffne Timerliste"
+
+msgid "Add instant Timer"
+msgstr "Erstelle Sofort-Timer"
+
+msgid "Switch between views"
+msgstr "Ansicht wechseln"
+
+msgid "Enter Prime Time"
+msgstr "Prime Time eingeben"
+
+msgid "Next Bouquet"
+msgstr "Nächstes Bouquet"
+
+msgid "Previous Bouquet"
+msgstr "Voriges Bouquet"
+
+msgid "Jump Day forward"
+msgstr "Springe Tag vorwärts"
+
+msgid "Jump Day backward"
+msgstr "Springe Tag zurück"
+
+msgid "Show less entries"
+msgstr "Zeige weniger Sendungen"
+
+msgid "Show normal entries"
+msgstr "Zeige Vorgabe an Sendungen"
+
+msgid "Show more entries"
+msgstr "Zeige mehr Sendungen"
+
+msgid "Jump prefered hours backward"
+msgstr "Springe um eingestellte Stunden rückwärts"
+
+msgid "Set prefered hours to jump"
+msgstr "Einstellung Springe um Stunden"
+
+msgid "Jump prefered hours forward"
+msgstr "Springe um eingestellte Stunden vorwärts"
+
+msgid "Jump page backward"
+msgstr "Springe Seite zurück"
+
+msgid "Jump to Prime Time"
+msgstr "Springe zur Prime Time"
+
+msgid "Jump page forward"
+msgstr "Springe Seite zurück"
+
+msgid "Jump to now"
+msgstr "Spring zu Jetzt"
+
+msgid "jump: "
+msgstr "springe: "
+
+msgid "h"
+msgstr "Std."
+
+msgid "Zap (Zap+Exit)"
+msgstr "Zap (Zap und Verlassen)"

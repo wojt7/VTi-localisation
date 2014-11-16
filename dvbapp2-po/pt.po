@@ -9775,3 +9775,96 @@ msgstr ""
 #
 msgid "change play mode..."
 msgstr ""
+
+msgid "Page down"
+msgstr ""
+
+msgid "Page up (Timer list)"
+msgstr ""
+
+msgid "Exit plugin"
+msgstr ""
+
+msgid "Show detailed programm info"
+msgstr ""
+
+msgid "Previous entry"
+msgstr ""
+
+msgid "Next entry"
+msgstr ""
+
+msgid "Next Channel"
+msgstr ""
+
+msgid "Previous Channel"
+msgstr ""
+
+msgid "Page up"
+msgstr ""
+
+msgid "Zap and Exit"
+msgstr ""
+
+msgid "Open Timerlist"
+msgstr ""
+
+msgid "Add instant Timer"
+msgstr ""
+
+msgid "Switch between views"
+msgstr ""
+
+msgid "Enter Prime Time"
+msgstr ""
+
+msgid "Next Bouquet"
+msgstr ""
+
+msgid "Previous Bouquet"
+msgstr ""
+
+msgid "Jump Day forward"
+msgstr ""
+
+msgid "Jump Day backward"
+msgstr ""
+
+msgid "Show less entries"
+msgstr ""
+
+msgid "Show normal entries"
+msgstr ""
+
+msgid "Show more entries"
+msgstr ""
+
+msgid "Jump prefered hours backward"
+msgstr ""
+
+msgid "Set prefered hours to jump"
+msgstr ""
+
+msgid "Jump prefered hours forward"
+msgstr ""
+
+msgid "Jump page backward"
+msgstr ""
+
+msgid "Jump to Prime Time"
+msgstr ""
+
+msgid "Jump page forward"
+msgstr ""
+
+msgid "Jump to now"
+msgstr ""
+
+msgid "jump: "
+msgstr ""
+
+msgid "h"
+msgstr ""
+
+msgid "Zap (Zap+Exit)"
+msgstr ""
