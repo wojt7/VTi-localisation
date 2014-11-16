@@ -10603,11 +10603,11 @@ msgstr "Alle ausgewählten Einträge als ungesehen markieren"
 
 #
 msgid "disable select mode"
-msgstr "Auswahlmodus aktivieren"
+msgstr "Auswahlmodus deaktivieren"
 
 #
 msgid "enable select mode"
-msgstr "Auswahlmodus deaktivieren"
+msgstr "Auswahlmodus aktivieren"
 
 #
 msgid "Do you really want to delete all selected items ?"
