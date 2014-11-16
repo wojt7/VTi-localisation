@@ -116,7 +116,7 @@ msgid ""
 msgstr ""
 "Użyj skonfigurowanego przycisku (ów) na pilocie, aby przełączyć tryb proporcji obrazu."
 "W przypadku przypisania działań do 'Quickbutton' będą one zablokowane tak długo"
-"jak długo ta wtyczka będzie włączona!
+"jak długo ta wtyczka będzie włączona!"
 
 #: ../src/plugin.py:134
 msgid "Ver."
