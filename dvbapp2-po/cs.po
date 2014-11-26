@@ -8571,97 +8571,97 @@ msgid "change play mode..."
 msgstr "změna módu přehrávání..."
 
 msgid "Page down"
-msgstr ""
+msgstr "O stránku dolů"
 
 msgid "Page up (Timer list)"
-msgstr ""
+msgstr "O stránku nahoru (časovače)"
 
 msgid "Exit plugin"
-msgstr ""
+msgstr "Ukončit modul"
 
 msgid "Show detailed programm info"
-msgstr ""
+msgstr "Zobrazit deataily - program.info"
 
 msgid "Previous entry"
-msgstr ""
+msgstr "Předchozí zadání"
 
 msgid "Next entry"
-msgstr ""
+msgstr "Dalí zadání"
 
 msgid "Next Channel"
-msgstr ""
+msgstr "Další kanál"
 
 msgid "Previous Channel"
-msgstr ""
+msgstr "Předchozí kanál"
 
 msgid "Page up"
-msgstr ""
+msgstr "Stránka nahoru"
 
 msgid "Zap and Exit"
-msgstr ""
+msgstr "Zapnout a ukončit"
 
 msgid "Open Timerlist"
-msgstr ""
+msgstr "Otevřít seznam časovačů"
 
 msgid "Add instant Timer"
-msgstr ""
+msgstr "Přidat časovač"
 
 msgid "Switch between views"
-msgstr ""
+msgstr "Přepnout mezi náhledy"
 
 msgid "Enter Prime Time"
-msgstr ""
+msgstr "Zadat hlavní vysílací čas"
 
 msgid "Next Bouquet"
-msgstr ""
+msgstr "Další sadu kanálů"
 
 msgid "Previous Bouquet"
-msgstr ""
+msgstr "Předchozí sadu kanálů"
 
 msgid "Jump Day forward"
-msgstr ""
+msgstr "O den dopředu"
 
 msgid "Jump Day backward"
-msgstr ""
+msgstr "O den dozadu"
 
 msgid "Show less entries"
-msgstr ""
+msgstr "Zobrazit méně položek"
 
 msgid "Show normal entries"
-msgstr ""
+msgstr "Zobrazit normální zadání"
 
 msgid "Show more entries"
-msgstr ""
+msgstr "Zobrazit více položek"
 
 msgid "Jump prefered hours backward"
-msgstr ""
+msgstr "O zadaný počet hodin zpět"
 
 msgid "Set prefered hours to jump"
-msgstr ""
+msgstr "Nastavit počet hodin zpět"
 
 msgid "Jump prefered hours forward"
-msgstr ""
+msgstr "O zadaný počet hodin dopředu"
 
 msgid "Jump page backward"
-msgstr ""
+msgstr "O stránku zpět"
 
 msgid "Jump to Prime Time"
-msgstr ""
+msgstr "Přejít na hl.vysílací čas"
 
 msgid "Jump page forward"
-msgstr ""
+msgstr "O stránku dopředu"
 
 msgid "Jump to now"
-msgstr ""
+msgstr "Přejít na aktuální"
 
 msgid "jump: "
-msgstr ""
+msgstr "Přejít : "
 
 msgid "h"
-msgstr ""
+msgstr "h"
 
 msgid "Zap (Zap+Exit)"
-msgstr ""
+msgstr "Zap. (zap+exit)"
 
 #~ msgid "   Used:"
 #~ msgstr "   Využito : "
