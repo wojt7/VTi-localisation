@@ -30,6 +30,7 @@ msgstr "Informacja"
 
 msgid "Error"
 msgstr "Błąd"
+
 msgid "DeviceManager"
 msgstr "Menadżer urządzeń"
 
