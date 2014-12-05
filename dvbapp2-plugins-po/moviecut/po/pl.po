@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: moviecut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 16:04+0100\n"
+"PO-Revision-Date: 2013-08-05 18:17+0100\n"
+"Last-Translator: Mariusz1970 <Mariusz1970@onet.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: /200\n"
+"X-Poedit-SearchPath-1: /200/bin\n"
+
+msgid "Advanced cut specification..."
+msgstr "Zaawansowane specyfikacje przycinania ..."
+
+msgid ""
+"Another movie is currently cut.\n"
+"The movie \"%s\" will be cut in the background after it."
+msgstr ""
+"Inny film jest aktualnie przycinany.\n"
+"Film\"%s\"będzie przyciety w tle"
+
+msgid "Bad arguments"
+msgstr "Złe argumenty"
+
+msgid "Cancel"
+msgstr "anuluj "
+
+msgid "Choose target folder"
+msgstr "Wybierz docelowy folder"
+
+msgid "Couldn't open input .ap file"
+msgstr "Nie można otworzyć pliku wejściowego.ap"
+
+msgid "Couldn't open input .cuts file"
+msgstr "Nie można otworzyć wejściowego przyciętego pliku"
+
+msgid "Couldn't open input .ts file"
+msgstr "Nie można otworzyć pliku wejściowego.ts "
+
+msgid "Couldn't open output .ap file"
+msgstr "Nie można otworzyć pliku wyjściowego.ap"
+
+msgid "Couldn't open output .cuts file"
+msgstr "Nie można otworzyć  uciętego wyjściowego pliku"
+
+msgid "Couldn't open output .ts file"
+msgstr "Nie można otworzyć uciętego wyjściowego pliku.ts"
+
+msgid "Cut Parameter Input"
+msgstr "Parametry wejściowe cięcia"
+
+msgid "Cut source:"
+msgstr "Ucięte źródło:"
+
+msgid "Cutlist"
+msgstr "Lista cięć"
+
+msgid "Cuts (an IN OUT IN OUT ... sequence of hour:min:sec)"
+msgstr "Cięcia (an IN OUT IN OUT ... sekwencja godziny:min:sekunda)"
+
+msgid "Cutting failed for movie \"%s\""
+msgstr "Cięcie fimu nie powiodło się\"%s\""
+
+msgid "Cutting was aborted for movie \"%s\""
+msgstr "Cięcie fimu zostało przerwane\"%s\""
+
+msgid "Don't cut"
+msgstr "Nie ucinaj"
+
+msgid "Empty .ap file"
+msgstr "Pusty plik.ap "
+
+msgid "Execute cuts..."
+msgstr "Wykonaj cięcia..."
+
+msgid "How would you like to cut \"%s\"?"
+msgstr "Jak chciałbyś uciąć\"%s\"?"
+
+msgid "Manual specification"
+msgstr "Ręczna specyfikacja"
+
+msgid "New description:"
+msgstr "Nowy opis:"
+
+msgid "New filename:"
+msgstr "Nowa nazwa pliku:"
+
+msgid "New location:"
+msgstr "Nowa lokalizacja:"
+
+msgid "New title:"
+msgstr "Nowy tytuł:"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "No cuts specified"
+msgstr "Żadne cięcia nie są wyszczególnione"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Place the cut movie in a new file ending with \" cut\""
+msgstr "Zapisz przycięty film jako nowy plik z końcówką \"cut\""
+
+msgid "Read/write error (disk full?)"
+msgstr "Błąd odczytu/zapisu(dysk pełny?)"
+
+msgid "Replace original:"
+msgstr "Zastąp oryginalny:"
+
+msgid "Replace the original movie with the cut movie"
+msgstr "Zamień oryginalny film,przyciętym filmem "
+
+msgid "The movie \"%s\" is cut in the background."
+msgstr "Film\"%s\"jest przycinany w tle."
+
+msgid "The movie \"%s\" is successfully cut"
+msgstr "Film\"%s\"jest skutecznie przycięty "
+
+msgid "Yes"
+msgstr "Tak"
