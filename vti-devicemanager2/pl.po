@@ -73,7 +73,7 @@ msgid ""
 "is already in use. Please umount current device first"
 msgstr ""
 "Ścieżka montowania %s\n"
-"jest już w użyciu. Proszę odmontować bieżące urządzenie.
+"jest już w użyciu. Proszę odmontować bieżące urządzenie."
 
 msgid "Insert mount point:"
 msgstr "Wstaw punkt montowania:"
