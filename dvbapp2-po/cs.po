@@ -8663,6 +8663,51 @@ msgstr "h"
 msgid "Zap (Zap+Exit)"
 msgstr "Zap. (zap+exit)"
 
+msgid "Disable Animations"
+msgstr ""
+
+msgid "Simple fade"
+msgstr ""
+
+msgid "Grow drop"
+msgstr ""
+
+msgid "Grow from left"
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "Slide drop"
+msgstr ""
+
+msgid "Slide left to right"
+msgstr ""
+
+msgid "Slide top to bottom"
+msgstr ""
+
+msgid "Stripes"
+msgstr ""
+
+msgid "* current animation"
+msgstr ""
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid "Animations"
+msgstr ""
+
+msgid "Setup UI animations"
+msgstr ""
+
+msgid "start xbmc mediacenter"
+msgstr ""
+
+msgid "XBMC Launcher"
+msgstr ""
+
 #~ msgid "   Used:"
 #~ msgstr "   Využito : "
 
@@ -10175,9 +10220,6 @@ msgstr "Zap. (zap+exit)"
 #~ msgstr ""
 #~ "Stiskněte \"zelené\" a OK tlačítko, pokud chcete aktualizovat soubor :\n"
 #~ "%s\n"
-
-#~ msgid "Preview"
-#~ msgstr "Náhled"
 
 #~ msgid "Preview screenshots of running tv shows"
 #~ msgstr "Modul pro sejmutí obrazu z aktuální TV"

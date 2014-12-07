@@ -8791,6 +8791,51 @@ msgstr ""
 msgid "Zap (Zap+Exit)"
 msgstr ""
 
+msgid "Disable Animations"
+msgstr ""
+
+msgid "Simple fade"
+msgstr ""
+
+msgid "Grow drop"
+msgstr ""
+
+msgid "Grow from left"
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "Slide drop"
+msgstr ""
+
+msgid "Slide left to right"
+msgstr ""
+
+msgid "Slide top to bottom"
+msgstr ""
+
+msgid "Stripes"
+msgstr ""
+
+msgid "* current animation"
+msgstr ""
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Animations"
+msgstr ""
+
+msgid "Setup UI animations"
+msgstr ""
+
+msgid "start xbmc mediacenter"
+msgstr ""
+
+msgid "XBMC Launcher"
+msgstr ""
+
 #~ msgid "  - Location"
 #~ msgstr "  - Posizione"
 
@@ -10929,9 +10974,6 @@ msgstr ""
 #~ "Premi il pulsante Verde/OK, se si desidera effettuare l'aggiornamento di "
 #~ "questo file:\n"
 #~ "%s\n"
-
-#~ msgid "Preview"
-#~ msgstr "Anteprima"
 
 #~ msgid "Preview AutoTimer"
 #~ msgstr "Anteprima AutoTimer"
