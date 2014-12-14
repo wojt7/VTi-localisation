@@ -10048,6 +10048,12 @@ msgstr ""
 msgid "Animations"
 msgstr ""
 
+msgid "Animation type:"
+msgstr ""
+
+msgid "Animation speed:"
+msgstr ""
+
 msgid "Setup UI animations"
 msgstr ""
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-12-07 21:47+0100\n"
+"PO-Revision-Date: 2014-12-14 17:22+0100\n"
 "Last-Translator: plnick\n"
 "Language-Team: German <>\n"
 "Language: de\n"
@@ -10790,6 +10790,12 @@ msgstr "Vorschau"
 
 msgid "Animations"
 msgstr "Animationen"
+
+msgid "Animation type:"
+msgstr "Animations-Typ:"
+
+msgid "Animation speed:"
+msgstr "Animations-Geschwindigkeit:"
 
 msgid "Setup UI animations"
 msgstr "Oberflächenanimationen konfigurieren"
