@@ -1,33 +1,34 @@
 # German translations for tuxbox-enigma package.
 # Copyright (C) 2005 THE tuxbox-enigma'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the tuxbox-enigma package.
-# Automatically generated, 2005.
 #
+# Automatically generated, 2005.
+# Jannick Kuhr <jakuhr-linux@googlemail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-22 10:46+0100\n"
-"PO-Revision-Date: 2013-09-22 11:17+0100\n"
-"Last-Translator: plnick\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-01-29 14:31+0100\n"
+"Last-Translator: Jannick Kuhr <jakuhr-linux@googlemail.com>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Lokalize 1.5\n"
 
 msgid ""
 "Mounted/\n"
 "Unmounted"
 msgstr ""
-"Verbunden/\n"
-"nicht Verbunden"
+"Eingehängt/\n"
+"Nicht eingehängt"
 
 msgid "Mount informations"
-msgstr "Freigabe Informationen"
+msgstr "Freigabe-Informationen"
 
 msgid ""
 "Active/\n"
@@ -37,13 +38,13 @@ msgstr ""
 "Inaktiv"
 
 msgid "Press OK to edit the settings."
-msgstr "OK drücken zum Editieren."
+msgstr "OK drücken, um die Einstellungen zu bearbeiten."
 
 msgid "Close"
 msgstr "Schließen"
 
 msgid "Delete mount"
-msgstr "Ausgewählte Freigabe löschen"
+msgstr "Freigabe löschen"
 
 msgid "Manage network shares"
 msgstr "Netzwerkfreigaben verwalten"
@@ -55,13 +56,13 @@ msgid "Dir:"
 msgstr "Verzeichnis:"
 
 msgid "Please wait while removing your network mount..."
-msgstr "Bitte warten während die Netzwerkfreigabe entfernt wird..."
+msgstr "Bitte warten Sie, während die Netzwerkfreigabe entfernt wird..."
 
 msgid "Your network mount has been removed."
 msgstr "Ihre Netzwerkfreigabe wurde entfernt."
 
 msgid "Press OK to edit selected settings."
-msgstr "OK drücken zum Editieren."
+msgstr "OK drücken, um die Einstellungen zu bearbeiten."
 
 msgid "Delete"
 msgstr "Löschen"
@@ -70,19 +71,19 @@ msgid "Usermanager"
 msgstr "Benutzerverwaltung"
 
 msgid "Press OK to activate the settings."
-msgstr "OK drücken zum Aktivieren."
+msgstr "OK drücken, um die Einstellungen zu aktivieren."
 
 msgid "Cancel"
 msgstr "Abbrechen"
 
 msgid "Mounts editor"
-msgstr "Freigaben Editor"
+msgstr "Freigaben-Editor"
 
 msgid "NFS share"
-msgstr "NFS Freigabe"
+msgstr "NFS-Freigabe"
 
 msgid "CIFS share"
-msgstr "CIFS Freigabe"
+msgstr "CIFS-Freigabe"
 
 msgid "Active"
 msgstr "Aktiv"
@@ -94,13 +95,13 @@ msgid "Mount type"
 msgstr "Freigabetyp"
 
 msgid "Server IP"
-msgstr "Server IP"
+msgstr "Server-IP"
 
 msgid "Server share"
-msgstr "Server Freigabe"
+msgstr "Server-Freigabe"
 
 msgid "use as HDD replacement"
-msgstr "als Festplattenersatz verwenden"
+msgstr "Als Festplattenersatz verwenden"
 
 msgid "Mount options"
 msgstr "Freigabeoptionen"
@@ -112,7 +113,7 @@ msgid "Password"
 msgstr "Passwort"
 
 msgid "Enter share name:"
-msgstr "Freigabename eingeben:"
+msgstr "Freigabenamen eingeben:"
 
 msgid "Enter share directory:"
 msgstr "Freigabeverzeichnis eingeben:"
@@ -130,30 +131,30 @@ msgid ""
 "A mount entry with this name already exists!\n"
 "Update existing entry and continue?\n"
 msgstr ""
-"Eine Netzwerkfreigabe mit diesem Namen existiert bereits!\n"
-"Eintrag aktualisieren und fortfahren?\n"
+"Eine Netzwerkfreigabe mit diesem Namen existiert bereits.\n"
+"Bestehenden Eintrag aktualisieren und fortfahren?\n"
 
 msgid ""
 "Are you sure you want to save this network mount?\n"
 "\n"
 msgstr ""
-"Wollen Sie diese Netzwerkfreigabe speichern?\n"
+"Sind Sie sicher, dass Sie diese Netzwerkfreigabe speichern möchten?\n"
 "\n"
 
 msgid "Please wait while updating your network mount..."
-msgstr "Bitte warten während die Freigabe aktualisiert wird..."
+msgstr "Bitte warten Sie, während die Netzwerkfreigabe aktualisiert wird..."
 
 msgid "Your network mount has been updated."
 msgstr "Ihre Netzwerkfreigabe wurde aktualisiert."
 
 msgid "Please wait for activation of your network mount..."
-msgstr "Bitte warten während die Netzwerkfreigabe aktiviert wird..."
+msgstr "Bitte warten Sie, während Ihre Netzwerkfreigabe aktiviert wird..."
 
 msgid "Your network mount has been activated."
 msgstr "Ihre Netzwerkfreigabe wurde aktiviert."
 
 msgid "Press OK to save settings."
-msgstr "OK drücken zum Speichern."
+msgstr "OK drücken, um die Einstellungen zu speichern."
 
 msgid "Enter user and password for host: "
 msgstr "Benutzernamen und Passwort eingeben: "
@@ -162,19 +163,19 @@ msgid "NetworkBrowser"
 msgstr "Netzwerkbrowser"
 
 msgid "Search for network shares"
-msgstr "Suche nach Netzwerkfreigaben"
+msgstr "Nach Netzwerkfreigaben suchen"
 
 msgid "Search for network shares..."
-msgstr "Suche nach Netzwerkfreigaben..."
+msgstr "Nach Netzwerkfreigaben suchen...\n"
 
 msgid "MountManager"
-msgstr "Freigabe Manager"
+msgstr "Freigaben-Verwaltung"
 
 msgid "Manage your network shares..."
-msgstr "Verwalten Sie Ihre Netzwerkfreigaben..."
+msgstr "Netzwerkfreigaben verwalten...\n"
 
 msgid "Mounts management"
-msgstr "Freigaben Verwaltung"
+msgstr "Freigaben-Verwaltung"
 
 msgid "Rescan"
 msgstr "Netzwerk erneut durchsuchen"
@@ -183,7 +184,7 @@ msgid "Expert"
 msgstr "Experte"
 
 msgid "Press OK to mount!"
-msgstr "OK drücken zum Verbinden."
+msgstr "OK drücken zum Einhängen."
 
 msgid "Browse network neighbourhood"
 msgstr "Netzwerkumgebung durchsuchen"
@@ -195,20 +196,19 @@ msgid "No network devices found!"
 msgstr "Keine Netzwerkgeräte gefunden"
 
 msgid "Press OK to mount this share!"
-msgstr "OK drücken zum Verbinden."
+msgstr "OK drücken, um diese Freigabe einzuhängen."
 
 msgid "Press OK to collapse this host"
 msgstr "OK drücken zum Aktivieren."
 
 msgid "Press OK to expand this host"
-msgstr "OK drücken zum Editieren."
+msgstr "OK drücken zum Bearbeiten."
 
 msgid "Do you want to enter a username and password for this host?\n"
-msgstr ""
-"Wollen Sie einen Benutzernamen und Passwort für diesen Rechner eingeben?\n"
+msgstr "Möchten Sie Benutzernamen und Passwort für diesen Rechner eingeben?\n"
 
 msgid "Scan NFS share"
-msgstr "Suche NFS Freigabe"
+msgstr "NFS-Freigabe"
 
 msgid "Scan range"
 msgstr "Bereich"
@@ -217,7 +217,7 @@ msgid "IP Address"
 msgstr "IP-Adresse"
 
 msgid "Enter IP to scan..."
-msgstr "IP zum durchsuchen eingeben ..."
+msgstr "IP-Adresse zum Durchsuchen eingeben..."
 
 msgid "Press OK to select."
 msgstr "Ok drücken zum Auswählen."
@@ -226,31 +226,34 @@ msgid "Add new network mount point"
 msgstr "Netzwerkfreigabe hinzufügen"
 
 msgid "Add a new NFS or CIFS mount point to your STB."
-msgstr "Eine neue CIFS oder NFS Freigabe hinzufügen."
+msgstr "Eine neue CIFS- oder NFS-Freigabe hinzufügen."
 
 msgid "Mountpoints management"
-msgstr "Freigaben Verwaltung"
+msgstr "Freigaben-Verwaltung"
 
 msgid "View, edit or delete mountpoints on your STB."
-msgstr "Betrachten, bearbeiten oder löschen Sie Ihre Netzwerkfreigaben."
+msgstr "Netzwerkfreigaben Ihrer Vu+ betrachten, bearbeiten oder löschen."
 
 msgid "User management"
-msgstr "Benutzerwaltung"
+msgstr "Benutzverwaltung"
 
 msgid "View, edit or delete usernames and passwords for your network."
-msgstr "Verwalten, bearbeiten oder löschen Sie Benutzernamen und Passwörter"
+msgstr ""
+"Benutzernamen und Passwörter Ihres Netzwerks betrachten, bearbeiten oder "
+"löschen."
 
 msgid "Change hostname"
-msgstr "Netzwerkname ändern"
+msgstr "Netzwerknamen ändern"
 
 msgid "Change the hostname of your STB."
-msgstr "Ändern Sie den Netzwerknamen Ihrer STB."
+msgstr "Netzwerknamen Ihrer Vu+ ändern."
 
 msgid "Enter new hostname for your STB"
-msgstr "Neuen Netzwerknamen für Ihre STB eingeben"
+msgstr "Neuen Netzwerknamen für Ihre Vu+ eingeben"
 
 msgid "Please wait while your network is restarting..."
-msgstr "Bitte warten während das Netzwerk neu startet..."
+msgstr "Bitte warten Sie, während das Netzwerk neu gestartet wird..."
 
 msgid "Finished restarting your network"
 msgstr "Netzwerkneustart abgeschlossen"
+
