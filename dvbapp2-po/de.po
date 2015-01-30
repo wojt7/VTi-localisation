@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-01-30 03:11+0100\n"
+"PO-Revision-Date: 2015-01-30 13:39+0100\n"
 "Last-Translator: Jannick Kuhr <jakuhr-linux@googlemail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -794,7 +794,7 @@ msgid "Activation mode"
 msgstr "Aktivierungsmodus"
 
 msgid "Active Source Reply On:"
-msgstr "'Aktive Quelle'-Nachricht senden:"
+msgstr "HDMI-Antwort auf aktive Quelle:"
 
 #
 msgid "Adapter settings"
@@ -1500,10 +1500,10 @@ msgid "Choice filesystem."
 msgstr "Dateisystem wählen."
 
 msgid "Choose A/V-Receiver HDMI input:"
-msgstr "HDMI-Eingang des A/V-Receivers wählen:"
+msgstr "HDMI-Eingang des A/V-Receivers:"
 
 msgid "Choose TV HDMI input:"
-msgstr "HDMI-Eingang des Fernsehers wählen:"
+msgstr "HDMI-Eingang des TV:"
 
 #
 msgid "Choose Tuner"
@@ -3100,7 +3100,7 @@ msgid "HDMI"
 msgstr "HDMI"
 
 msgid "HDMI CEC enabled:"
-msgstr "HDMI CEC eingeschaltet:"
+msgstr "HDMI-CEC eingeschaltet:"
 
 msgid "HDMI-CEC"
 msgstr "HDMI-CEC"
@@ -6067,7 +6067,7 @@ msgid "Set End Time"
 msgstr "Endzeit eingeben"
 
 msgid "Set VU device name:"
-msgstr "VU-Gerätename:"
+msgstr "Vu+-Gerätename:"
 
 #
 msgid "Set Voltage and 22KHz"
@@ -6758,7 +6758,7 @@ msgid "TV System"
 msgstr "Fernsehnorm"
 
 msgid "TV on => VU+ activity:"
-msgstr "TV ein => VU+ Aktivität:"
+msgstr "TV ein => Vu+-Aktivität:"
 
 msgid "TV power off:"
 msgstr "TV ausschalten:"
@@ -6767,7 +6767,7 @@ msgid "TV power on:"
 msgstr "TV einschalten:"
 
 msgid "TV standby => VU+ activity:"
-msgstr "TV-Standby => VU+ Aktivität:"
+msgstr "TV aus => Vu+-Aktivität:"
 
 msgid "TXT PID"
 msgstr "TXT PID"
@@ -7871,13 +7871,13 @@ msgid "VTI"
 msgstr "VTi"
 
 msgid "VU deepstandby => TV activity:"
-msgstr "VU aus => TV-Aktivität:"
+msgstr "Vu+ aus => TV-Aktivität:"
 
 msgid "VU on => TV activity:"
-msgstr "VU ein => TV-Aktivität:"
+msgstr "Vu+ ein => TV-Aktivität:"
 
 msgid "VU standby => TV activity:"
-msgstr "VU-Standby => TV-Aktivität:"
+msgstr "Vu+ Standby => TV-Aktivität:"
 
 msgid "Verifying your internet connection..."
 msgstr "Internet-Verbindung wird geprüft..."
