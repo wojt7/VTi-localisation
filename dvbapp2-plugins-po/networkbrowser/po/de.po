@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-22 10:46+0100\n"
-"PO-Revision-Date: 2015-01-29 14:31+0100\n"
+"PO-Revision-Date: 2015-01-30 01:52+0100\n"
 "Last-Translator: Jannick Kuhr <jakuhr-linux@googlemail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de_DE\n"
@@ -235,7 +235,7 @@ msgid "View, edit or delete mountpoints on your STB."
 msgstr "Netzwerkfreigaben Ihrer Vu+ betrachten, bearbeiten oder löschen."
 
 msgid "User management"
-msgstr "Benutzverwaltung"
+msgstr "Benutzerverwaltung"
 
 msgid "View, edit or delete usernames and passwords for your network."
 msgstr ""
@@ -256,4 +256,5 @@ msgstr "Bitte warten Sie, während das Netzwerk neu gestartet wird..."
 
 msgid "Finished restarting your network"
 msgstr "Netzwerkneustart abgeschlossen"
+
 

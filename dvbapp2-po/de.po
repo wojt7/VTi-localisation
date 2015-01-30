@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-01-29 14:30+0100\n"
+"PO-Revision-Date: 2015-01-30 03:11+0100\n"
 "Last-Translator: Jannick Kuhr <jakuhr-linux@googlemail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -10669,13 +10669,13 @@ msgid "Page up (Timer list)"
 msgstr "Seite hoch (Timerliste)"
 
 msgid "Exit plugin"
-msgstr "Verlasse Plugin"
+msgstr "Plugin verlassen"
 
 msgid "Show detailed programm info"
-msgstr "Zeige detaillierte Programm Informationen"
+msgstr "Detaillierte Programminformationen anzeigen"
 
 msgid "Previous entry"
-msgstr "Voriger Eintrag"
+msgstr "Vorheriger Eintrag"
 
 msgid "Next entry"
 msgstr "Nächster Eintrag"
@@ -10684,19 +10684,19 @@ msgid "Next Channel"
 msgstr "Nächster Kanal"
 
 msgid "Previous Channel"
-msgstr "Voriger Kanal"
+msgstr "Vorheriger Kanal"
 
 msgid "Page up"
 msgstr "Seite hoch"
 
 msgid "Zap and Exit"
-msgstr "Zappen und Exit"
+msgstr "Umschalten und verlassen"
 
 msgid "Open Timerlist"
-msgstr "Öffne Timerliste"
+msgstr "Timerliste öffnen"
 
 msgid "Add instant Timer"
-msgstr "Erstelle Sofort-Timer"
+msgstr "Sofort-Timer hinzufügen"
 
 msgid "Switch between views"
 msgstr "Ansicht wechseln"
@@ -10708,51 +10708,51 @@ msgid "Next Bouquet"
 msgstr "Nächstes Bouquet"
 
 msgid "Previous Bouquet"
-msgstr "Voriges Bouquet"
+msgstr "Vorheriges Bouquet"
 
 msgid "Jump Day forward"
-msgstr "Springe Tag vorwärts"
+msgstr "Tag vorwärts springen"
 
 msgid "Jump Day backward"
-msgstr "Springe Tag zurück"
+msgstr "Tag zurück springen"
 
 msgid "Show less entries"
-msgstr "Zeige weniger Sendungen"
+msgstr "Weniger Einträge anzeigen"
 
 msgid "Show normal entries"
-msgstr "Zeige Vorgabe an Sendungen"
+msgstr "Einträge normal anzeigen"
 
 msgid "Show more entries"
-msgstr "Zeige mehr Sendungen"
+msgstr "Mehr Einträge anzeigen"
 
 msgid "Jump prefered hours backward"
-msgstr "Springe um eingestellte Stunden rückwärts"
+msgstr "Festgelegte Stunden zurück springen"
 
 msgid "Set prefered hours to jump"
-msgstr "Einstellung Springe um Stunden"
+msgstr "Stundenanzahl zum Springen festlegen"
 
 msgid "Jump prefered hours forward"
-msgstr "Springe um eingestellte Stunden vorwärts"
+msgstr "Festgelegte Stunden vorwärts springen"
 
 msgid "Jump page backward"
-msgstr "Springe Seite zurück"
+msgstr "Seite zurück springen"
 
 msgid "Jump to Prime Time"
-msgstr "Springe zur Prime Time"
+msgstr "Zur Prime Time springen"
 
 msgid "Jump page forward"
-msgstr "Springe Seite zurück"
+msgstr "Seite vorwärts springen"
 
 msgid "Jump to now"
-msgstr "Spring zu Jetzt"
+msgstr "Zur Gegenwart springen"
 
 msgid "jump: "
-msgstr "springe: "
+msgstr "Springen: "
 
 msgid "h"
 msgstr "Std."
 
 msgid "Zap (Zap+Exit)"
-msgstr "Zap (Zap und Verlassen)"
+msgstr "Umschalten (Umschalten und verlassen)"
 
 
