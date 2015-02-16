@@ -10755,8 +10755,6 @@ msgstr "Std."
 msgid "Zap (Zap+Exit)"
 msgstr "Umschalten (Umschalten und verlassen)"
 
-msgstr "Zap (Zap und Verlassen)"
-
 msgid "Disable Animations"
 msgstr "Animationen deaktivieren"
 
