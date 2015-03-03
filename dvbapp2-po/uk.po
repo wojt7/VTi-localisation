@@ -10040,3 +10040,12 @@ msgstr ""
 
 msgid "XBMC Launcher"
 msgstr ""
+
+msgid "Do you really want to disable timer: %s?"
+msgstr ""
+
+msgid "Do you really want to enable timer: %s?"
+msgstr ""
+
+msgid "Remove/Enable timer"
+msgstr ""
