@@ -10049,3 +10049,27 @@ msgstr ""
 
 msgid "Remove/Enable timer"
 msgstr ""
+
+msgid "Would you save the entered PIN %s persistent?"
+msgstr ""
+
+msgid "Set pin code persistent"
+msgstr ""
+
+msgid "Enter persistent PIN code"
+msgstr ""
+
+msgid "Reset persistent PIN code"
+msgstr ""
+
+msgid "The saved PIN was cleared."
+msgstr ""
+
+msgid "Enter PIN"
+msgstr ""
+
+msgid "Reenter PIN"
+msgstr ""
+
+msgid "The PIN code has been saved successfully."
+msgstr ""

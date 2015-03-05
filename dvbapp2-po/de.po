@@ -10807,10 +10807,40 @@ msgid "XBMC Launcher"
 msgstr "XBMC starten"
 
 msgid "Do you really want to disable timer: %s?"
-msgstr "Wollen Sie den Timer:\n$s\ndeaktivieren?"
+msgstr ""
+"Wollen Sie den Timer:\n"
+"$s\n"
+"deaktivieren?"
 
 msgid "Do you really want to enable timer: %s?"
-msgstr "Wollen Sie den Timer:\n$s\naktivieren?"
+msgstr ""
+"Wollen Sie den Timer:\n"
+"$s\n"
+"aktivieren?"
 
 msgid "Remove/Enable timer"
 msgstr "Timer löschen/aktivieren"
+
+msgid "Would you save the entered PIN %s persistent?"
+msgstr "Wollen Sie den PIN %s dauerhaft speichern?"
+
+msgid "Set pin code persistent"
+msgstr "PIN dauerhaft speichern"
+
+msgid "Enter persistent PIN code"
+msgstr "PIN eingeben"
+
+msgid "Reset persistent PIN code"
+msgstr "PIN zurücksetzen"
+
+msgid "The saved PIN was cleared."
+msgstr "Der PIN wurde zurückgesetzt."
+
+msgid "Enter PIN"
+msgstr "PIN eingeben"
+
+msgid "Reenter PIN"
+msgstr "PIN-Eingabe wiederholen"
+
+msgid "The PIN code has been saved successfully."
+msgstr "Der PIN wurde erfolgreich gespeichert."
