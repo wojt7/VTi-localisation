@@ -11,6 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2012-07-25 22:08+0330\n"
 "Last-Translator: mehdi <mehdi_ar_yekta@yahoo.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,8 +35,7 @@ msgstr "انتخاب کانال"
 msgid "Could not read AutoTimer timer list: %s"
 msgstr "%s نمی توانست لیست تایمر پلاگین تایمر خودکار را بخواند"
 
-#: ../src/EPGSearch.py:69
-#: ../src/EPGSearch.py:179
+#: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179
 msgid "EPG Search"
 msgstr "جستجو برنامه راهنمای الکترونیک"
 
@@ -91,13 +91,13 @@ msgstr "جستجوی یک برنامه راهنمای الکترونیک"
 msgid "Select a timer to search"
 msgstr "انتخاب یک تایمر برای جستجو "
 
-#: ../src/EPGSearch.py:268
-#: ../src/EPGSearch.py:292
+#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292
 msgid "Select text to search for"
 msgstr "انتخاب یک متن برای جستجوی"
 
-#: ../src/plugin.py:63
-#: ../src/plugin.py:69
+#: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
 msgstr "جستجوی برنامه راهنمای الکترونیک"
 
+msgid "Edit Search"
+msgstr ""

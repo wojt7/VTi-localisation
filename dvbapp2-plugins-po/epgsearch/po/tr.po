@@ -31,8 +31,7 @@ msgstr "Kanal Seçimi"
 msgid "Could not read AutoTimer timer list: %s"
 msgstr "AutoTimer zamanlayıcı listesi okunamıyor : %s"
 
-#: ../src/EPGSearch.py:69
-#: ../src/EPGSearch.py:179
+#: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179
 msgid "EPG Search"
 msgstr "EPG Arama"
 
@@ -88,13 +87,13 @@ msgstr "EPG'de ara"
 msgid "Select a timer to search"
 msgstr "Arama zamanını seçin"
 
-#: ../src/EPGSearch.py:268
-#: ../src/EPGSearch.py:292
+#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292
 msgid "Select text to search for"
 msgstr "Arama metnini seçin"
 
-#: ../src/plugin.py:63
-#: ../src/plugin.py:69
+#: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
 msgstr "EPG'de ara..."
 
+msgid "Edit Search"
+msgstr ""

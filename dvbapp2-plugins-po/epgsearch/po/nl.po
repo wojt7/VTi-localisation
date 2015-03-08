@@ -7,10 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 - epgsearch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-26 14:41+0200\n"
+"POT-Creation-Date: 2009-09-24 16:16+0200\n"
 "PO-Revision-Date: 2009-09-27 11:07+0100\n"
 "Last-Translator: \n"
 "Language-Team:  <Benny.DeTandt@gmail.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,66 +19,89 @@ msgstr ""
 "X-Poedit-Country: NETHERLANDS\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../src/EPGSearch.py:150
 msgid "Add timer"
 msgstr "Voeg timer toe"
 
+#: ../src/EPGSearch.py:349
 msgid "Cancel"
 msgstr "Annuleren"
 
+#: ../src/EPGSearch.py:387
 msgid "Channel Selection"
 msgstr "Zenderkeuze"
 
+#: ../src/EPGSearch.py:257
 #, python-format
 msgid "Could not read AutoTimer timer list: %s"
 msgstr "Kan AutoTimer timer lijst niet lezen : %s"
 
+#: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179
 msgid "EPG Search"
 msgstr "EPG doorzoeken"
 
+#: ../src/EPGSearch.py:203
 msgid "Enter text to search for"
 msgstr "Voer te zoeken tekst in:"
 
+#: ../src/EPGSearch.py:216
 msgid "Export selected as AutoTimer"
 msgstr "Exporteer het geselecteerde als AutoTimer"
 
+#: ../src/EPGSearch.py:135
 msgid "History"
 msgstr "Historiek"
 
+#: ../src/EPGSearch.py:214
 msgid "Import from AutoTimer"
 msgstr "Importeren uit AutoTimer"
 
+#: ../src/EPGSearch.py:209
 msgid "Import from EPG"
 msgstr "Uit de EPG importeren"
 
+#: ../src/EPGSearch.py:208
 msgid "Import from Timer"
 msgstr "Importeren uit de timer"
 
+#: ../src/EPGSearch.py:134
 msgid "New Search"
 msgstr "Nieuw"
 
+#: ../src/EPGSearch.py:298
 msgid "No history"
 msgstr "Geen historiek"
 
+#: ../src/EPGSearch.py:350
 msgid "OK"
 msgstr "OK"
 
+#: ../src/EPGSearch.py:215
 msgid "Save search as AutoTimer"
 msgstr "Bewaar als AutoTimer"
 
+#: ../src/EPGSearch.py:415
 msgid "Search"
 msgstr "Zoeken"
 
+#: ../src/plugin.py:58
 msgid "Search EPG"
 msgstr "EPG doorzoeken"
 
+#: ../src/EPGSearch.py:364
 msgid "Select a timer to search"
 msgstr "Selecteer te zoeken timer..."
 
+#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292
 msgid "Select text to search for"
 msgstr "Selecteer te zoeken tekst..."
 
+#: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
 msgstr "EPG doorzoeken..."
 
-msgid "search EPG"
-msgstr "EPG doorzoeken"
+msgid "Edit Search"
+msgstr ""
+
+#~ msgid "search EPG"
+#~ msgstr "EPG doorzoeken"

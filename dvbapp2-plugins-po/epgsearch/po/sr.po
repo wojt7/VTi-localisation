@@ -11,6 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2009-09-27 17:51+0100\n"
 "Last-Translator: maja <jovanovic@gmx.ch>\n"
 "Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,8 +36,7 @@ msgstr "Izbor kanala"
 msgid "Could not read AutoTimer timer list: %s"
 msgstr "Ne mogu pročitati listu autotajmera: %s"
 
-#: ../src/EPGSearch.py:69
-#: ../src/EPGSearch.py:179
+#: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179
 msgid "EPG Search"
 msgstr "EPG pretraga"
 
@@ -92,15 +92,16 @@ msgstr "Pretraga EPG"
 msgid "Select a timer to search"
 msgstr "Izaberi tajmer za pretragu"
 
-#: ../src/EPGSearch.py:268
-#: ../src/EPGSearch.py:292
+#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292
 msgid "Select text to search for"
 msgstr "Izaberi tekst za pretragu"
 
-#: ../src/plugin.py:63
-#: ../src/plugin.py:69
+#: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
 msgstr "pretraga EPG..."
 
-msgid "search EPG"
-msgstr "pretraga EPG"
+msgid "Edit Search"
+msgstr ""
+
+#~ msgid "search EPG"
+#~ msgstr "pretraga EPG"

@@ -96,3 +96,6 @@ msgstr ""
 #: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
 msgstr ""
+
+msgid "Edit Search"
+msgstr ""
