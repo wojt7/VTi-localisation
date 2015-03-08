@@ -85,20 +85,8 @@ msgstr ""
 "FEHLER bei der Erstellung eines Timers auf der Vu+ Box via Webinterface:\n"
 "%s"
 
-#~ msgid "Seek"
-#~ msgstr "Suche"
+msgid "Remote Timer as default for new timer"
+msgstr "Remote Timer als Standard für neue Timer"
 
-#~ msgid "Jump x minutes forward:"
-#~ msgstr "Springe x Minuten vorwärts:"
-
-#~ msgid "Jump x minutes back:"
-#~ msgstr "Springe x Minuten zurück:"
-
-#~ msgid "Go to position:"
-#~ msgstr "Springe zu Position:"
-
-#~ msgid "Sensibility:"
-#~ msgstr "Sensibilität:"
-
-#~ msgid "Overwrite left and right buttons:"
-#~ msgstr "Überschreibe Links- und Rechts-Tasten:"
+msgid "Add tag RemoteTimer"
+msgstr "Kennzeichnung (tag) RemoteTimer anfügen"
