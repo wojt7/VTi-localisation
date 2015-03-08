@@ -9969,7 +9969,21 @@ msgstr ""
 msgid "h"
 msgstr ""
 
-msgid "Zap (Zap+Exit)"
+msgid "Zap+Exit"
+msgstr ""
+
+msgid ""
+"Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
+"Please install it to use this function"
+msgstr ""
+
+msgid "Toggle timer state"
+msgstr ""
+
+msgid "EPG search"
+msgstr ""
+
+msgid "Toggle clock / bars view for timer"
 msgstr ""
 
 msgid "Disable Animations"
@@ -10023,13 +10037,10 @@ msgstr ""
 msgid "XBMC Launcher"
 msgstr ""
 
-msgid "Do you really want to disable timer: %s?"
+msgid "Do you really want to disable timer:"
 msgstr ""
 
-msgid "Do you really want to enable timer: %s?"
-msgstr ""
-
-msgid "Remove/Enable timer"
+msgid "Do you really want to enable timer:"
 msgstr ""
 
 msgid "Would you save the entered PIN %s persistent?"
@@ -10054,4 +10065,7 @@ msgid "Reenter PIN"
 msgstr ""
 
 msgid "The PIN code has been saved successfully."
+msgstr ""
+
+msgid "Enable ZAP history menu"
 msgstr ""

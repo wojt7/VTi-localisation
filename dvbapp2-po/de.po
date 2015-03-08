@@ -10752,8 +10752,22 @@ msgstr "Springen: "
 msgid "h"
 msgstr "Std."
 
-msgid "Zap (Zap+Exit)"
-msgstr "Umschalten (Umschalten und verlassen)"
+msgid "Zap+Exit"
+msgstr ""
+
+msgid ""
+"Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
+"Please install it to use this function"
+msgstr ""
+
+msgid "Toggle timer state"
+msgstr ""
+
+msgid "EPG search"
+msgstr ""
+
+msgid "Toggle clock / bars view for timer"
+msgstr ""
 
 msgid "Disable Animations"
 msgstr "Animationen deaktivieren"
@@ -10806,20 +10820,11 @@ msgstr "XBMC starten"
 msgid "XBMC Launcher"
 msgstr "XBMC starten"
 
-msgid "Do you really want to disable timer: %s?"
+msgid "Do you really want to disable timer:"
 msgstr ""
-"Wollen Sie den Timer:\n"
-"$s\n"
-"deaktivieren?"
 
-msgid "Do you really want to enable timer: %s?"
+msgid "Do you really want to enable timer:"
 msgstr ""
-"Wollen Sie den Timer:\n"
-"$s\n"
-"aktivieren?"
-
-msgid "Remove/Enable timer"
-msgstr "Timer löschen/aktivieren"
 
 msgid "Would you save the entered PIN %s persistent?"
 msgstr "Wollen Sie den PIN %s dauerhaft speichern?"
@@ -10844,3 +10849,24 @@ msgstr "PIN-Eingabe wiederholen"
 
 msgid "The PIN code has been saved successfully."
 msgstr "Der PIN wurde erfolgreich gespeichert."
+
+msgid "Enable ZAP history menu"
+msgstr "Zeige Liste zuletzt gesehener Sender (Taste EXIT)"
+
+#~ msgid "Do you really want to disable timer: %s?"
+#~ msgstr ""
+#~ "Wollen Sie den Timer:\n"
+#~ "$s\n"
+#~ "deaktivieren?"
+
+#~ msgid "Do you really want to enable timer: %s?"
+#~ msgstr ""
+#~ "Wollen Sie den Timer:\n"
+#~ "$s\n"
+#~ "aktivieren?"
+
+#~ msgid "Remove/Enable timer"
+#~ msgstr "Timer löschen/aktivieren"
+
+#~ msgid "Zap (Zap+Exit)"
+#~ msgstr "Umschalten (Umschalten und verlassen)"
