@@ -166,13 +166,13 @@ msgid "Search for network shares"
 msgstr "Nach Netzwerkfreigaben suchen"
 
 msgid "Search for network shares..."
-msgstr "Nach Netzwerkfreigaben suchen...\n"
+msgstr "Nach Netzwerkfreigaben suchen..."
 
 msgid "MountManager"
 msgstr "Freigaben-Verwaltung"
 
 msgid "Manage your network shares..."
-msgstr "Netzwerkfreigaben verwalten...\n"
+msgstr "Netzwerkfreigaben verwalten..."
 
 msgid "Mounts management"
 msgstr "Freigaben-Verwaltung"
