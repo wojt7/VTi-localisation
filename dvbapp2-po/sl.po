@@ -10040,3 +10040,6 @@ msgstr ""
 
 msgid "Enable ZAP history menu"
 msgstr ""
+
+msgid "Zap History"
+msgstr ""

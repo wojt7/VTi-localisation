@@ -10853,6 +10853,9 @@ msgstr "Der PIN wurde erfolgreich gespeichert."
 msgid "Enable ZAP history menu"
 msgstr "Zeige Liste zuletzt gesehener Sender (Taste EXIT)"
 
+msgid "Zap History"
+msgstr ""
+
 #~ msgid "Do you really want to disable timer: %s?"
 #~ msgstr ""
 #~ "Wollen Sie den Timer:\n"
