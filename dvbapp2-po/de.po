@@ -10753,7 +10753,7 @@ msgid "h"
 msgstr "Std."
 
 msgid "Zap+Exit"
-msgstr "Umschalten und Beenden"
+msgstr "Zap + Beenden"
 
 msgid ""
 "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
