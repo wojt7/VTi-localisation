@@ -10104,3 +10104,6 @@ msgstr ""
 
 msgid "Zap History"
 msgstr ""
+
+msgid "Use folder based configuration (list / sort type)"
+msgstr ""

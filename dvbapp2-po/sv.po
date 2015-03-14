@@ -10043,6 +10043,9 @@ msgstr ""
 msgid "Zap History"
 msgstr ""
 
+msgid "Use folder based configuration (list / sort type)"
+msgstr ""
+
 #
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
