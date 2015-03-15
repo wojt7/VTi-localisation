@@ -10860,3 +10860,30 @@ msgstr "Senderhistorie"
 
 msgid "Use folder based configuration (list / sort type)"
 msgstr "Benutze Sortier-/Listentyp Einstellung verzeichnisbasiert"
+
+msgid "Protect movies and directories"
+msgstr "Aufnahmen/Verzeichnisse schützen"
+
+msgid "Change movie / directory PIN"
+msgstr "Aufnahme-/Verzeichnis-PIN ändern"
+
+msgid "Remember movie / directory PIN"
+msgstr "Aufnahme-/Verzeichnis-PIN merken"
+
+msgid "movie / directory PIN"
+msgstr "Aufnahmen/Verzeichnis-PIN"
+
+msgid ""
+"No valid movie / directory PIN found!\n"
+"Do you like to change the movie / directory PIN now?\n"
+"When you say 'No' here the movie / directory protection stay disabled!"
+msgstr ""
+"Keine gültige Aufnahmen-/Verzeichnis-PIN gefunden.\n"
+"Möchten Sie die PIN jetzt ändern?\n"
+"Wenn Sie 'NEIN' wählen, bleibt der Aufnahmen-/Verzeichnis deaktiviert."
+
+msgid "toggle parental control"
+msgstr "Jugendschutz ein-/auschalten"
+
+msgid "search EPG"
+msgstr "EPG Suche"

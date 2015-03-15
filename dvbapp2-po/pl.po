@@ -8737,3 +8737,27 @@ msgstr ""
 
 msgid "Use folder based configuration (list / sort type)"
 msgstr ""
+
+msgid "Protect movies and directories"
+msgstr ""
+
+msgid "Change movie / directory PIN"
+msgstr ""
+
+msgid "Remember movie / directory PIN"
+msgstr ""
+
+msgid "movie / directory PIN"
+msgstr ""
+
+msgid ""
+"No valid movie / directory PIN found!\n"
+"Do you like to change the movie / directory PIN now?\n"
+"When you say 'No' here the movie / directory protection stay disabled!"
+msgstr ""
+
+msgid "toggle parental control"
+msgstr ""
+
+msgid "search EPG"
+msgstr ""
