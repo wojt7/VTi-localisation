@@ -10317,11 +10317,29 @@ msgstr ""
 msgid "No valid movie / directory PIN found!\nDo you like to change the movie / directory PIN now?\nWhen you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
 
+msgid "Reset movie / directory PIN cache"
+msgstr ""
+
+msgid "Protect deleting of movies"
+msgstr ""
+
+msgid "Change movie-delete PIN"
+msgstr ""
+
+msgid "Remember movie-delete PIN"
+msgstr ""
+
+msgid "movie-delete PIN"
+msgstr ""
+
+msgid "No valid movie-delete PIN found!\nDo you like to change the movie-delete PIN now?\nWhen you say 'No' here the movie / directory protection stay disabled!"
+msgstr ""
+
+msgid "Reset movie-delete PIN cache"
+msgstr ""
+
 msgid "toggle parental control"
 msgstr ""
 
 msgid "search EPG"
-msgstr ""
-
-msgid "Reset movie / directory PIN cache"
 msgstr ""
