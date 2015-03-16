@@ -10117,3 +10117,6 @@ msgstr ""
 
 msgid "search EPG"
 msgstr ""
+
+msgid "Reset movie / directory PIN cache"
+msgstr ""

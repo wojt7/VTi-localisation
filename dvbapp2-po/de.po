@@ -10887,3 +10887,6 @@ msgstr "Jugendschutz ein-/auschalten"
 
 msgid "search EPG"
 msgstr "EPG Suche"
+
+msgid "Reset movie / directory PIN cache"
+msgstr "Aufnahmen-/Verzeichnis-PIN Speicher zurücksetzen"
