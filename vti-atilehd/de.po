@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Atile v0.1\n"
-"POT-Creation-Date: 2013-08-16 18:44+0100\n"
+"POT-Creation-Date: 2015-03-22 16:23+0100\n"
 "PO-Revision-Date: 2013-08-16 18:44+0100\n"
 "Last-Translator: plnick\n"
 "Language-Team: schomi <schomi@vuplus-support.org>\n"
@@ -21,14 +21,16 @@ msgstr "Celsius"
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
-msgid "AtileHD Setup"
-msgstr "AtileHD Einstellungen"
+#, python-format
+msgid "%s Setup"
+msgstr "%s Konfiguration"
 
 msgid "Personalize your Skin"
 msgstr "Skin personalisieren"
 
-msgid " Setup - AtileHD"
-msgstr "Einstellungen - AtileHD"
+#, python-format
+msgid "Setup - %s"
+msgstr "Einstellungen - %s"
 
 msgid "Cancel"
 msgstr "Abbruch"
@@ -39,14 +41,21 @@ msgstr "Ok"
 msgid "About"
 msgstr "Über"
 
+msgid "Default"
+msgstr "Standard"
+
 msgid "Style:"
 msgstr "Stil:"
 
 msgid "Font:"
 msgstr "Schriftart:"
 
-msgid "Enable AtileHD pro:"
-msgstr "Aktiviere AtileHD pro:"
+#, python-format
+msgid "Enable %s pro:"
+msgstr "%s aktivieren:"
+
+msgid "Change skin"
+msgstr "Aussehen der Bedienoberfläche (Skin) wechseln"
 
 msgid "---Weather---"
 msgstr "---Wetter---"
@@ -69,8 +78,9 @@ msgstr "Neustart erforderlich, jetzt neu starten?"
 msgid "Message"
 msgstr "Nachricht"
 
-msgid "AtileHD additional screens"
-msgstr "AtileHD zusätzliche Screens"
+#, python-format
+msgid "%s additional screens"
+msgstr "Zusätzliche %s Screens"
 
 msgid "Exit"
 msgstr "Beenden"
@@ -132,6 +142,18 @@ msgstr "aus"
 
 #~ msgid "Days until deletion:"
 #~ msgstr "Dateialter in Tagen:"
+
+#~ msgid "AtileHD Setup"
+#~ msgstr "AtileHD Einstellungen"
+
+#~ msgid " Setup - AtileHD"
+#~ msgstr "Einstellungen - AtileHD"
+
+#~ msgid "Enable AtileHD pro:"
+#~ msgstr "Aktiviere AtileHD pro:"
+
+#~ msgid "AtileHD additional screens"
+#~ msgstr "AtileHD zusätzliche Screens"
 
 #~ msgid "Restart GUI"
 #~ msgstr "GUI neu starten"

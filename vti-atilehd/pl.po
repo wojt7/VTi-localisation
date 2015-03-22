@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Atile v0.1\n"
-"POT-Creation-Date: 2013-06-16 17:09+0100\n"
+"POT-Creation-Date: 2015-03-22 16:23+0100\n"
 "PO-Revision-Date: 2014-07-22 10:12+0100\n"
 "Last-Translator: kapciu75 <kapciu1975@wp.pl>\n"
 "Language-Team: schomi <schomi@vuplus-support.org>\n"
@@ -15,71 +15,145 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-msgid "---Weather---"
-msgstr "---Pogoda---"
-
-msgid "About"
-msgstr "O"
-
-msgid "AtileHD Setup"
-msgstr "Konfiguracja AtileHD "
-
-msgid "AtileHD additional screens"
-msgstr "AtileHD dodatkowe ekrany"
-
-msgid "Cancel"
-msgstr "Zrezygnuj"
-
 msgid "Celsius"
 msgstr "Celsius"
-
-msgid "Don't save settings?"
-msgstr "Nie zapisać ustawienień?"
-
-msgid "Enable AtileHD pro:"
-msgstr "Aktywuj AtileHD Pro:"
-
-msgid "Exit"
-msgstr "Wyjście"
 
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
-msgid "Font:"
-msgstr "Czcionka:"
-
-msgid "Location # (http://weather.yahoo.com/):"
-msgstr "Lokalizacja (http://de.wetter.yahoo.com/):"
-
-msgid "Message"
-msgstr "Wiadomość"
-
-msgid "OK"
-msgstr "OK"
+#, python-format
+msgid "%s Setup"
+msgstr ""
 
 msgid "Personalize your Skin"
 msgstr "Personalizuj twoją skórę"
 
-msgid "Refresh interval in minutes:"
-msgstr "Przedział czasowy odświeżania w minutach:"
+#, python-format
+msgid "Setup - %s"
+msgstr ""
 
-msgid "Restart GUI"
-msgstr "Uruchom ponownie GUI"
+msgid "Cancel"
+msgstr "Zrezygnuj"
 
-msgid "Restart necessary, restart GUI now?"
-msgstr "Restart jest niezbędny, uruchomić ponownie GUI teraz? "
+msgid "OK"
+msgstr "OK"
+
+msgid "About"
+msgstr "O"
+
+msgid "Default"
+msgstr ""
 
 msgid "Style:"
 msgstr "Styl:"
 
+msgid "Font:"
+msgstr "Czcionka:"
+
+#, python-format
+msgid "Enable %s pro:"
+msgstr ""
+
+msgid "Change skin"
+msgstr ""
+
+msgid "---Weather---"
+msgstr "---Pogoda---"
+
+msgid "Refresh interval in minutes:"
+msgstr "Przedział czasowy odświeżania w minutach:"
+
+msgid "Location # (http://weather.yahoo.com/):"
+msgstr "Lokalizacja (http://de.wetter.yahoo.com/):"
+
 msgid "Temperature unit:"
 msgstr "Jednostka temperatury:"
 
-msgid "add / remove additional screens"
-msgstr "Dodaj / Usuń dodatkowe ekrany"
+msgid "Don't save settings?"
+msgstr "Nie zapisać ustawienień?"
+
+msgid "Restart necessary, restart GUI now?"
+msgstr "Restart jest niezbędny, uruchomić ponownie GUI teraz? "
+
+msgid "Message"
+msgstr "Wiadomość"
+
+#, python-format
+msgid "%s additional screens"
+msgstr ""
+
+msgid "Exit"
+msgstr "Wyjście"
+
+msgid "on"
+msgstr "Włączony"
 
 msgid "off"
 msgstr "Wyłączony"
 
-msgid "on"
-msgstr "Włączony"
+msgid ""
+"GUI needs a restart to apply a new skin.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"GUI Neustart erforderlich, um den neuen Skin zu übernehmen.\n"
+" Jetzt neu staten?"
+
+msgid "Skin myAtile prepared, restart GUI?"
+msgstr "Skin myAtile erstellt, GUI neu starten?"
+
+msgid "Location # (http://de.wetter.yahoo.com/):"
+msgstr "Ort Nr. (http://de.wetter.yahoo.com/):"
+
+msgid "Refresh interval:"
+msgstr "Update Interval:"
+
+msgid " "
+msgstr " "
+
+msgid "Delete recorded files automatically"
+msgstr "Lösche Aufnahmen nach bestimmten Zeitraum"
+
+msgid "Test"
+msgstr "Testen"
+
+msgid "Minimum age of files:"
+msgstr "Minimales Alter der Aufnahmen:"
+
+msgid "Subfolder deepth:"
+msgstr "Wie viele Unterordner durchsuchen:"
+
+msgid "Deletion time:"
+msgstr "Alte Aufnahmen löschen um:"
+
+msgid "Folder name:"
+msgstr "Ordnername:"
+
+msgid "Base folder:"
+msgstr "Basisordner wählen:"
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "Choose base folder"
+msgstr "Basisordner wählen"
+
+msgid "AutoSchredder base folder:"
+msgstr "Ordner:"
+
+msgid "Days until deletion:"
+msgstr "Dateialter in Tagen:"
+
+#~ msgid "AtileHD Setup"
+#~ msgstr "Konfiguracja AtileHD "
+
+#~ msgid "AtileHD additional screens"
+#~ msgstr "AtileHD dodatkowe ekrany"
+
+#~ msgid "Enable AtileHD pro:"
+#~ msgstr "Aktywuj AtileHD Pro:"
+
+#~ msgid "Restart GUI"
+#~ msgstr "Uruchom ponownie GUI"
+
+#~ msgid "add / remove additional screens"
+#~ msgstr "Dodaj / Usuń dodatkowe ekrany"

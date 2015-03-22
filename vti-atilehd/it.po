@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Atile v0.1\n"
-"POT-Creation-Date: 2013-06-16 17:09+0100\n"
+"POT-Creation-Date: 2015-03-22 16:23+0100\n"
 "PO-Revision-Date: 2013-09-02 15:07+0100\n"
 "Last-Translator: Diamondear <diavar@tin.it>\n"
 "Language-Team: Diamondear <diavar@tin.it>\n"
@@ -16,68 +16,142 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-msgid "---Weather---"
-msgstr "---  Meteo  ---"
-
-msgid "About"
-msgstr "Informazioni"
-
-msgid "AtileHD pro"
-msgstr "AtileHD Pro"
-
-msgid "AtileHD Setup"
-msgstr "Configurazione AtileHD"
-
-msgid "AtileHD additional screens"
-msgstr "Schermate aggiuntive AtileHD"
-
-msgid "Cancel"
-msgstr "Esci"
-
 msgid "Celsius"
 msgstr "Celsius"
-
-msgid "Don't save settings?"
-msgstr "Non salvare le impostazioni?"
-
-msgid "Enable AtileHD pro:"
-msgstr "Abilita AtileHD Pro:"
-
-msgid "Exit"
-msgstr "Esci"
 
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
-msgid "Font:"
-msgstr "Tipo di carattere:"
-
-msgid "Location # (http://weather.yahoo.com/):"
-msgstr "Località # (http://weather.yahoo.com/):"
-
-msgid "Message"
-msgstr "Messaggio"
-
-msgid "OK"
-msgstr "OK"
+#, python-format
+msgid "%s Setup"
+msgstr ""
 
 msgid "Personalize your Skin"
 msgstr "Personalizza la tua Skin"
 
-msgid "Refresh interval in minutes:"
-msgstr "Intervallo di aggiornamento in minuti:"
+#, python-format
+msgid "Setup - %s"
+msgstr ""
 
-msgid "Restart necessary, restart GUI now?"
-msgstr "Riavvio necessario, riavviare la GUI ora?"
+msgid "Cancel"
+msgstr "Esci"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "About"
+msgstr "Informazioni"
+
+msgid "Default"
+msgstr ""
 
 msgid "Style:"
 msgstr "Stile:"
 
+msgid "Font:"
+msgstr "Tipo di carattere:"
+
+#, python-format
+msgid "Enable %s pro:"
+msgstr ""
+
+msgid "Change skin"
+msgstr ""
+
+msgid "---Weather---"
+msgstr "---  Meteo  ---"
+
+msgid "Refresh interval in minutes:"
+msgstr "Intervallo di aggiornamento in minuti:"
+
+msgid "Location # (http://weather.yahoo.com/):"
+msgstr "Località # (http://weather.yahoo.com/):"
+
 msgid "Temperature unit:"
 msgstr "Unità Temperatura:"
+
+msgid "Don't save settings?"
+msgstr "Non salvare le impostazioni?"
+
+msgid "Restart necessary, restart GUI now?"
+msgstr "Riavvio necessario, riavviare la GUI ora?"
+
+msgid "Message"
+msgstr "Messaggio"
+
+#, python-format
+msgid "%s additional screens"
+msgstr ""
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "on"
+msgstr "On"
 
 msgid "off"
 msgstr "Off"
 
-msgid "on"
-msgstr "On"
+msgid ""
+"GUI needs a restart to apply a new skin.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"GUI Neustart erforderlich, um den neuen Skin zu übernehmen.\n"
+" Jetzt neu staten?"
+
+msgid "Skin myAtile prepared, restart GUI?"
+msgstr "Skin myAtile erstellt, GUI neu starten?"
+
+msgid "Location # (http://de.wetter.yahoo.com/):"
+msgstr "Ort Nr. (http://de.wetter.yahoo.com/):"
+
+msgid "Refresh interval:"
+msgstr "Update Interval:"
+
+msgid " "
+msgstr " "
+
+msgid "Delete recorded files automatically"
+msgstr "Lösche Aufnahmen nach bestimmten Zeitraum"
+
+msgid "Test"
+msgstr "Testen"
+
+msgid "Minimum age of files:"
+msgstr "Minimales Alter der Aufnahmen:"
+
+msgid "Subfolder deepth:"
+msgstr "Wie viele Unterordner durchsuchen:"
+
+msgid "Deletion time:"
+msgstr "Alte Aufnahmen löschen um:"
+
+msgid "Folder name:"
+msgstr "Ordnername:"
+
+msgid "Base folder:"
+msgstr "Basisordner wählen:"
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "Choose base folder"
+msgstr "Basisordner wählen"
+
+msgid "AutoSchredder base folder:"
+msgstr "Ordner:"
+
+msgid "Days until deletion:"
+msgstr "Dateialter in Tagen:"
+
+#~ msgid "AtileHD pro"
+#~ msgstr "AtileHD Pro"
+
+#~ msgid "AtileHD Setup"
+#~ msgstr "Configurazione AtileHD"
+
+#~ msgid "AtileHD additional screens"
+#~ msgstr "Schermate aggiuntive AtileHD"
+
+#~ msgid "Enable AtileHD pro:"
+#~ msgstr "Abilita AtileHD Pro:"
