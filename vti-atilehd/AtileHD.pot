@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Atile v0.1\n"
-"POT-Creation-Date: 2015-03-22 16:23+0100\n"
-"PO-Revision-Date: 2015-03-22 16:23+0100\n"
+"POT-Creation-Date: 2015-03-22 16:33+0100\n"
+"PO-Revision-Date: 2015-03-22 16:33+0100\n"
 "Last-Translator: plnick\n"
 "Language-Team: schomi <schomi@vuplus-support.org>\n"
 "Language: de\n"
@@ -39,6 +39,10 @@ msgid "OK"
 msgstr ""
 
 msgid "About"
+msgstr ""
+
+#, python-format
+msgid "%s - Setup"
 msgstr ""
 
 msgid "Default"

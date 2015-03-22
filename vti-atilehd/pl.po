@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Atile v0.1\n"
-"POT-Creation-Date: 2015-03-22 16:23+0100\n"
+"POT-Creation-Date: 2015-03-22 16:33+0100\n"
 "PO-Revision-Date: 2014-07-22 10:12+0100\n"
 "Last-Translator: kapciu75 <kapciu1975@wp.pl>\n"
 "Language-Team: schomi <schomi@vuplus-support.org>\n"
@@ -40,6 +40,10 @@ msgstr "OK"
 
 msgid "About"
 msgstr "O"
+
+#, python-format
+msgid "%s - Setup"
+msgstr ""
 
 msgid "Default"
 msgstr ""
@@ -91,57 +95,57 @@ msgstr "Włączony"
 msgid "off"
 msgstr "Wyłączony"
 
-msgid ""
-"GUI needs a restart to apply a new skin.\n"
-"Do you want to Restart the GUI now?"
-msgstr ""
-"GUI Neustart erforderlich, um den neuen Skin zu übernehmen.\n"
-" Jetzt neu staten?"
+#~ msgid ""
+#~ "GUI needs a restart to apply a new skin.\n"
+#~ "Do you want to Restart the GUI now?"
+#~ msgstr ""
+#~ "GUI Neustart erforderlich, um den neuen Skin zu übernehmen.\n"
+#~ " Jetzt neu staten?"
 
-msgid "Skin myAtile prepared, restart GUI?"
-msgstr "Skin myAtile erstellt, GUI neu starten?"
+#~ msgid "Skin myAtile prepared, restart GUI?"
+#~ msgstr "Skin myAtile erstellt, GUI neu starten?"
 
-msgid "Location # (http://de.wetter.yahoo.com/):"
-msgstr "Ort Nr. (http://de.wetter.yahoo.com/):"
+#~ msgid "Location # (http://de.wetter.yahoo.com/):"
+#~ msgstr "Ort Nr. (http://de.wetter.yahoo.com/):"
 
-msgid "Refresh interval:"
-msgstr "Update Interval:"
+#~ msgid "Refresh interval:"
+#~ msgstr "Update Interval:"
 
-msgid " "
-msgstr " "
+#~ msgid " "
+#~ msgstr " "
 
-msgid "Delete recorded files automatically"
-msgstr "Lösche Aufnahmen nach bestimmten Zeitraum"
+#~ msgid "Delete recorded files automatically"
+#~ msgstr "Lösche Aufnahmen nach bestimmten Zeitraum"
 
-msgid "Test"
-msgstr "Testen"
+#~ msgid "Test"
+#~ msgstr "Testen"
 
-msgid "Minimum age of files:"
-msgstr "Minimales Alter der Aufnahmen:"
+#~ msgid "Minimum age of files:"
+#~ msgstr "Minimales Alter der Aufnahmen:"
 
-msgid "Subfolder deepth:"
-msgstr "Wie viele Unterordner durchsuchen:"
+#~ msgid "Subfolder deepth:"
+#~ msgstr "Wie viele Unterordner durchsuchen:"
 
-msgid "Deletion time:"
-msgstr "Alte Aufnahmen löschen um:"
+#~ msgid "Deletion time:"
+#~ msgstr "Alte Aufnahmen löschen um:"
 
-msgid "Folder name:"
-msgstr "Ordnername:"
+#~ msgid "Folder name:"
+#~ msgstr "Ordnername:"
 
-msgid "Base folder:"
-msgstr "Basisordner wählen:"
+#~ msgid "Base folder:"
+#~ msgstr "Basisordner wählen:"
 
-msgid "Console"
-msgstr "Konsole"
+#~ msgid "Console"
+#~ msgstr "Konsole"
 
-msgid "Choose base folder"
-msgstr "Basisordner wählen"
+#~ msgid "Choose base folder"
+#~ msgstr "Basisordner wählen"
 
-msgid "AutoSchredder base folder:"
-msgstr "Ordner:"
+#~ msgid "AutoSchredder base folder:"
+#~ msgstr "Ordner:"
 
-msgid "Days until deletion:"
-msgstr "Dateialter in Tagen:"
+#~ msgid "Days until deletion:"
+#~ msgstr "Dateialter in Tagen:"
 
 #~ msgid "AtileHD Setup"
 #~ msgstr "Konfiguracja AtileHD "
