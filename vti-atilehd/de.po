@@ -59,7 +59,7 @@ msgid "Enable %s pro:"
 msgstr "%s pro aktivieren:"
 
 msgid "Change skin"
-msgstr "Aussehen der Bedienoberfläche (Skin) wechseln"
+msgstr "Aussehen der Bedienoberfläche (Skin) ändern"
 
 msgid "---Weather---"
 msgstr "---Wetter---"
