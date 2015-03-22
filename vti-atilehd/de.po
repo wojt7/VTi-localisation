@@ -52,7 +52,7 @@ msgstr "Schriftart:"
 
 #, python-format
 msgid "Enable %s pro:"
-msgstr "%s aktivieren:"
+msgstr "%s pro aktivieren:"
 
 msgid "Change skin"
 msgstr "Aussehen der Bedienoberfläche (Skin) wechseln"
