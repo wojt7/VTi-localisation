@@ -218,7 +218,7 @@ msgstr ""
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:362
 msgid "from (HH:MI)"
-msgstr ""
+msgstr "alates (HH:MI)"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:363
@@ -228,7 +228,7 @@ msgstr ""
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:363
 msgid "to (HH:MI)"
-msgstr ""
+msgstr "kuni (HH:MI)"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:376
@@ -247,41 +247,41 @@ msgstr ""
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:45
 msgid "systemmenue"
-msgstr ""
+msgstr "süsteemimenüü"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:46
 msgid "pluginmenue"
-msgstr ""
+msgstr "pluginamenüü"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:47
 msgid "extensions"
-msgstr ""
+msgstr "laiendused"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:51
 msgid "Monday"
-msgstr ""
+msgstr "Esmaspäev"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:52
 msgid "Tuesday"
-msgstr ""
+msgstr "Teisipäev"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:53
 msgid "Wednesday"
-msgstr ""
+msgstr "Kolmapäev"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:54
 msgid "Thursday"
-msgstr ""
+msgstr "Neljapäev"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:55
 msgid "Friday"
-msgstr ""
+msgstr "Reede"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:56
 msgid "Saturday"
-msgstr ""
+msgstr "Laupäev"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:57
 msgid "Sunday"
-msgstr ""
+msgstr "Pühapäev"
 
