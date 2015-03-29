@@ -18,19 +18,19 @@ msgstr ""
 
 #: ../src/plugin.py:69
 msgid "A video streaming solution based on VLC"
-msgstr "VLC põhibev video voogesituse programm"
+msgstr ""
 
 #: ../src/VlcServerConfig.py:318
 msgid "Audio Bitrate"
-msgstr "Audio bitikiirus"
+msgstr ""
 
 #: ../src/VlcServerConfig.py:320
 msgid "Audio Channels"
-msgstr "Audi kanalid"
+msgstr ""
 
 #: ../src/VlcServerConfig.py:317
 msgid "Audio Codec"
-msgstr "Audio kodek"
+msgstr ""
 
 #: ../src/VlcServerConfig.py:319
 msgid "Audio Samplerate"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: ../src/VlcServerConfig.py:294
 msgid "Cancel"
-msgstr "Tühista"
+msgstr ""
 
 #: ../src/VlcServerConfig.py:306
 msgid "DVD Device (leave empty for default)"
