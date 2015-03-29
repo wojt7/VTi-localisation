@@ -33,8 +33,6 @@ msgid ""
 "\n"
 "Backup your STB settings."
 msgstr ""
-"\n"
-"Varunda STB sätted."
 
 #, python-format
 msgid ""
