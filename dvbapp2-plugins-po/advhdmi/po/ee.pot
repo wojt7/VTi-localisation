@@ -24,7 +24,7 @@ msgstr ""
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:50
 msgid "Save"
-msgstr ""
+msgstr "Salvesta"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:51
