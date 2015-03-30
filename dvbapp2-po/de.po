@@ -10914,3 +10914,6 @@ msgstr "Jugendschutz ein-/auschalten"
 
 msgid "search EPG"
 msgstr "EPG Suche"
+
+msgid "Hide service name in service list (compact style)"
+msgstr "Sendernamen in der Kanalliste (einzeilig) nicht anzeigen"
