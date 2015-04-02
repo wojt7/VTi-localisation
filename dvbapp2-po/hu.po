@@ -10158,3 +10158,6 @@ msgstr ""
 
 msgid "Hide service name in service list (compact style)"
 msgstr ""
+
+msgid "Use double-spaced list style"
+msgstr ""
