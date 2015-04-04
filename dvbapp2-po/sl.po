@@ -9944,7 +9944,7 @@ msgid "Zap+Exit"
 msgstr ""
 
 msgid ""
-"Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
+"Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
 "Please install it to use this function"
 msgstr ""
 
@@ -10099,4 +10099,10 @@ msgid "Hide service name in service list (compact style)"
 msgstr ""
 
 msgid "Use double-spaced list style"
+msgstr ""
+
+msgid "Add Autotimer"
+msgstr ""
+
+msgid "TMDb Infos"
 msgstr ""
