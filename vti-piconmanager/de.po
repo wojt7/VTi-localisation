@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PiconManagerMod\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-04-17 00:15+0200\n"
+"PO-Revision-Date: 2015-04-17 01:09+0200\n"
 "Last-Translator: \n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 #  msgid ""
 # msgstr ""
 msgid "Picon folder: "
-msgstr "Picon-Verzeichnis: "
+msgstr "Picon-Ordner: "
 
 msgid "Reading Channels..."
 msgstr "Die Kanäle werden eingelesen..."
@@ -165,4 +165,5 @@ msgstr "Keine Suchergebnisse. Bitte ändern Sie die Filteroptionen..."
 
 msgid "Loading, please wait..."
 msgstr "Ladevorgang läuft... Bitte warten."
+
 
