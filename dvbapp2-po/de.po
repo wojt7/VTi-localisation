@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-01-30 13:39+0100\n"
-"Last-Translator: Jannick Kuhr <jakuhr-linux@googlemail.com>\n"
+"PO-Revision-Date: 2015-04-17 00:47+0200\n"
+"Last-Translator: \n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1432,7 +1432,7 @@ msgstr "Bouquet wechseln beim Schnellumschalten"
 
 #
 msgid "Change pin code"
-msgstr "Pincode ändern"
+msgstr "PIN-Code ändern"
 
 msgid "Change service PIN"
 msgstr "Kanal-PIN ändern"
@@ -6966,7 +6966,7 @@ msgstr "Der Pfad %s existiert bereits."
 
 #
 msgid "The pin code you entered is wrong."
-msgstr "Der eingegebene PIN-Code ist falsch"
+msgstr "Der eingegebene PIN-Code ist falsch."
 
 msgid "The program will exit now."
 msgstr "Das Programm wird jetzt beendet"
@@ -10758,17 +10758,18 @@ msgstr "Zap + Beenden"
 msgid ""
 "Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
 "Please install it to use this function"
-msgstr "Das Plugin %s ist nicht auf Ihrer Vu+ STB installiert!\n"
-"Bitte installieren Sie das Plugin um diese Funktion nutzen zu können."
+msgstr ""
+"Das Plugin '%s' ist nicht auf Ihrer Vu+ installiert.\n"
+"Bitte installieren Sie das Plugin, um diese Funktion nutzen zu können."
 
 msgid "Toggle timer state"
-msgstr "Timerstatus umschalten"
+msgstr "Timer-Status umschalten"
 
 msgid "EPG search"
-msgstr "EPG Suche"
+msgstr "EPG-Suche"
 
 msgid "Toggle clock / bars view for timer"
-msgstr "Symbol- / Verlaufsansicht für Timer umschalten"
+msgstr "Symbol-/ Verlaufsansicht für Timer umschalten"
 
 msgid "Disable Animations"
 msgstr "Animationen deaktivieren"
@@ -10822,13 +10823,13 @@ msgid "XBMC Launcher"
 msgstr "XBMC starten"
 
 msgid "Do you really want to disable timer:"
-msgstr "Wollen Sie den nachfolgenden Timer deaktivieren?"
+msgstr "Möchten Sie den folgenden Timer wirklich deaktivieren?"
 
 msgid "Do you really want to enable timer:"
-msgstr "Wollen Sie den nachfolgenden Timer aktivieren?"
+msgstr "Möchten Sie den folgenden Timer wirklich aktivieren?"
 
 msgid "Would you save the entered PIN %s persistent?"
-msgstr "Wollen Sie den PIN %s dauerhaft speichern?"
+msgstr "Möchten Sie die PIN %s dauerhaft speichern?"
 
 msgid "Set pin code persistent"
 msgstr "PIN dauerhaft speichern"
@@ -10840,7 +10841,7 @@ msgid "Reset persistent PIN code"
 msgstr "PIN zurücksetzen"
 
 msgid "The saved PIN was cleared."
-msgstr "Der PIN wurde zurückgesetzt."
+msgstr "Die PIN wurde zurückgesetzt."
 
 msgid "Enter PIN"
 msgstr "PIN eingeben"
@@ -10849,7 +10850,7 @@ msgid "Reenter PIN"
 msgstr "PIN-Eingabe wiederholen"
 
 msgid "The PIN code has been saved successfully."
-msgstr "Der PIN wurde erfolgreich gespeichert."
+msgstr "Die PIN wurde erfolgreich gespeichert."
 
 msgid "Enable ZAP history menu"
 msgstr "Zeige Liste zuletzt gesehener Sender (Taste EXIT)"
@@ -10858,16 +10859,16 @@ msgid "Zap History"
 msgstr "Senderhistorie"
 
 msgid "Use folder based configuration (list / sort type)"
-msgstr "Benutze Sortier-/Listentyp Einstellung verzeichnisbasiert"
+msgstr "Einstellungen für Sortier-/Listentyp verzeichnisbasiert verwenden"
 
 msgid "Protect movies and directories"
 msgstr "Aufnahmen/Verzeichnisse schützen"
 
 msgid "Change movie / directory PIN"
-msgstr "Aufnahme-/Verzeichnis-PIN ändern"
+msgstr "Aufnahmen-/Verzeichnis-PIN ändern"
 
 msgid "Remember movie / directory PIN"
-msgstr "Aufnahme-/Verzeichnis-PIN merken"
+msgstr "Aufnahmen-/Verzeichnis-PIN merken"
 
 msgid "movie / directory PIN"
 msgstr "Aufnahmen/Verzeichnis-PIN"
@@ -10879,10 +10880,10 @@ msgid ""
 msgstr ""
 "Keine gültige Aufnahmen-/Verzeichnis-PIN gefunden.\n"
 "Möchten Sie die PIN jetzt ändern?\n"
-"Wenn Sie 'NEIN' wählen, bleibt der Aufnahmen-/Verzeichnis deaktiviert."
+"Wenn Sie 'NEIN' wählen, bleibt der Aufnahmen-/Verzeichnis-Schutz deaktiviert."
 
 msgid "Reset movie / directory PIN cache"
-msgstr "Aufnahmen-/Verzeichnis-PIN Speicher zurücksetzen"
+msgstr "Aufnahmen-/Verzeichnis-PIN-Speicher zurücksetzen"
 
 msgid "Protect deleting of movies"
 msgstr "Löschen von Aufnahmen schützen"
@@ -10903,10 +10904,10 @@ msgid ""
 msgstr ""
 "Keine gültige Aufnahme-Lösch-PIN gefunden.\n"
 "Möchten Sie die PIN jetzt ändern?\n"
-"Wenn Sie 'NEIN' wählen, bleibt der Aufnahme-Lösch deaktiviert."
+"Wenn Sie 'NEIN' wählen, bleibt der Aufnahme-Lösch-Schutz deaktiviert."
 
 msgid "Reset movie-delete PIN cache"
-msgstr "Aufnahme-Lösch-PIN Speicher zurücksetzen"
+msgstr "Aufnahme-Lösch-PIN-Speicher zurücksetzen"
 
 msgid "toggle parental control"
 msgstr "Jugendschutz ein-/auschalten"
@@ -10915,7 +10916,7 @@ msgid "search EPG"
 msgstr "EPG Suche"
 
 msgid "Hide service name in service list (compact style)"
-msgstr "Sendernamen in der Kanalliste (einzeilig) nicht anzeigen"
+msgstr "Sendernamen in der Kanalliste (einzeilig) ausblenden"
 
 msgid "Use double-spaced list style"
 msgstr "Senderliste zweizeilig darstellen"
@@ -10924,7 +10925,7 @@ msgid "Add Autotimer"
 msgstr "Autotimer hinzufügen"
 
 msgid "TMDb Infos"
-msgstr "TMDb Information"
+msgstr "TMDb-Informationen"
 
 #~ msgid ""
 #~ "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
