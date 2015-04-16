@@ -1,12 +1,13 @@
+# , 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Enigma 2 EPGSearch Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-09-24 16:16+0200\n"
-"PO-Revision-Date: 2011-09-09 19:05+0100\n"
-"Last-Translator: JuSt611 <Software@Strasdas.de>\n"
-"Language-Team: none\n"
-"Language: \n"
+"PO-Revision-Date: 2015-04-17 01:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,10 +17,11 @@ msgstr ""
 "X-Poedit-Country: GERMANY\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-SearchPath-0: ../src\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: ../src/EPGSearch.py:150
 msgid "Add timer"
-msgstr "Timer hinzufügen"
+msgstr "Neuer Timer"
 
 #: ../src/EPGSearch.py:349
 msgid "Cancel"
@@ -36,7 +38,7 @@ msgstr "Liste der AutoTimer konnte nicht abgerufen werden: %s"
 
 #: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179
 msgid "EPG Search"
-msgstr "EPG Suche"
+msgstr "EPG-Suche"
 
 #: ../src/EPGSearch.py:203
 msgid "Enter text to search for"
@@ -52,15 +54,15 @@ msgstr "Verlauf"
 
 #: ../src/EPGSearch.py:214
 msgid "Import from AutoTimer"
-msgstr "Importiere aus AutoTimer"
+msgstr "Aus AutoTimer importieren"
 
 #: ../src/EPGSearch.py:209
 msgid "Import from EPG"
-msgstr "Importiere aus EPG"
+msgstr "Aus EPG importieren"
 
 #: ../src/EPGSearch.py:208
 msgid "Import from Timer"
-msgstr "Importiere aus Timer"
+msgstr "Aus Timer importieren"
 
 #: ../src/EPGSearch.py:134
 msgid "New Search"
@@ -84,7 +86,7 @@ msgstr "Suche"
 
 #: ../src/plugin.py:58
 msgid "Search EPG"
-msgstr "Durchsuche EPG"
+msgstr "EPG durchsuchen"
 
 #: ../src/EPGSearch.py:364
 msgid "Select a timer to search"
@@ -96,7 +98,7 @@ msgstr "Zu suchenden Text auswählen"
 
 #: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
-msgstr "Durchsuche EPG..."
+msgstr "EPG wird durchsucht..."
 
 msgid "Edit Search"
 msgstr "Suchtext bearbeiten"
