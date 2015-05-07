@@ -95,54 +95,14 @@ msgstr ""
 msgid "off"
 msgstr ""
 
-#~ msgid ""
-#~ "GUI needs a restart to apply a new skin.\n"
-#~ "Do you want to Restart the GUI now?"
-#~ msgstr ""
-#~ "GUI Neustart erforderlich, um den neuen Skin zu übernehmen.\n"
-#~ " Jetzt neu staten?"
+msgid "Location list"
+msgstr ""
 
-#~ msgid "Skin myAtile prepared, restart GUI?"
-#~ msgstr "Skin myAtile erstellt, GUI neu starten?"
+msgid "Search weather location ID"
+msgstr ""
 
-#~ msgid "Location # (http://de.wetter.yahoo.com/):"
-#~ msgstr "Ort Nr. (http://de.wetter.yahoo.com/):"
+msgid "Please enter search string for your location"
+msgstr ""
 
-#~ msgid "Refresh interval:"
-#~ msgstr "Update Interval:"
-
-#~ msgid " "
-#~ msgstr " "
-
-#~ msgid "Delete recorded files automatically"
-#~ msgstr "Lösche Aufnahmen nach bestimmten Zeitraum"
-
-#~ msgid "Test"
-#~ msgstr "Testen"
-
-#~ msgid "Minimum age of files:"
-#~ msgstr "Minimales Alter der Aufnahmen:"
-
-#~ msgid "Subfolder deepth:"
-#~ msgstr "Wie viele Unterordner durchsuchen:"
-
-#~ msgid "Deletion time:"
-#~ msgstr "Alte Aufnahmen löschen um:"
-
-#~ msgid "Folder name:"
-#~ msgstr "Ordnername:"
-
-#~ msgid "Base folder:"
-#~ msgstr "Basisordner wählen:"
-
-#~ msgid "Console"
-#~ msgstr "Konsole"
-
-#~ msgid "Choose base folder"
-#~ msgstr "Basisordner wählen"
-
-#~ msgid "AutoSchredder base folder:"
-#~ msgstr "Ordner:"
-
-#~ msgid "Days until deletion:"
-#~ msgstr "Dateialter in Tagen:"
+msgid "Sorry, there was a problem:"
+msgstr ""

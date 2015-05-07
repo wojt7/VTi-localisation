@@ -10167,3 +10167,9 @@ msgstr ""
 
 msgid "TMDb Infos"
 msgstr ""
+
+msgid "Could not connect to server"
+msgstr ""
+
+msgid "No matching place names found"
+msgstr ""

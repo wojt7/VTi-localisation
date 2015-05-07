@@ -96,6 +96,18 @@ msgstr "On"
 msgid "off"
 msgstr "Off"
 
+msgid "Location list"
+msgstr ""
+
+msgid "Search weather location ID"
+msgstr ""
+
+msgid "Please enter search string for your location"
+msgstr ""
+
+msgid "Sorry, there was a problem:"
+msgstr ""
+
 #~ msgid ""
 #~ "GUI needs a restart to apply a new skin.\n"
 #~ "Do you want to Restart the GUI now?"

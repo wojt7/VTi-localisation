@@ -95,6 +95,18 @@ msgstr "an"
 msgid "off"
 msgstr "aus"
 
+msgid "Location list"
+msgstr "Ortsliste"
+
+msgid "Search weather location ID"
+msgstr "Suche nach Ort Nr."
+
+msgid "Please enter search string for your location"
+msgstr "Bitte geben Sie den Suchtext für Ihren Ort ein"
+
+msgid "Sorry, there was a problem:"
+msgstr "Entschuldigung, es ist ein Fehler aufgetreten:"
+
 #~ msgid ""
 #~ "GUI needs a restart to apply a new skin.\n"
 #~ "Do you want to Restart the GUI now?"

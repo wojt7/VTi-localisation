@@ -10927,6 +10927,12 @@ msgstr "Autotimer hinzufügen"
 msgid "TMDb Infos"
 msgstr "TMDb-Informationen"
 
+msgid "Could not connect to server"
+msgstr "Es konnte keine Verbindung zum Server aufgebaut werden"
+
+msgid "No matching place names found"
+msgstr "Keine zutreffenden Orte gefunden"
+
 #~ msgid ""
 #~ "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
 #~ "Please install it to use this function"
