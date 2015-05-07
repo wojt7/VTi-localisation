@@ -7,755 +7,369 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VTIPanel\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-25 09:56+0100\n"
+"POT-Creation-Date: 2014-07-08 21:39+0100\n"
 "PO-Revision-Date: 2011-07-05 17:09+0200\n"
 "Last-Translator: Люси Сорью <cross.triforce@gmail.com>\n"
 "Language-Team: RUSSIAN <VTI>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Russian\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../EPGPanel.py:33
-msgid "/hdd"
+msgid "VTI DriverManager"
 msgstr ""
 
-#: ../EPGPanel.py:33
-msgid "/media/hdd"
-msgstr ""
-
-#: ../EPGPanel.py:33
-msgid "/media/usb"
-msgstr ""
-
-#: ../EPGPanel.py:33
-msgid "/media/hdd1"
-msgstr ""
-
-#: ../EPGPanel.py:33
-msgid "/media/usb1"
-msgstr ""
-
-#: ../EPGPanel.py:36
-msgid "VTI EPG Panel"
-msgstr "Панель VTI EPG"
-
-#: ../EPGPanel.py:42
-#: ../plugin.py:1420
 msgid "Exit"
 msgstr "Вихід"
 
-#: ../EPGPanel.py:43
-#: ../BackupRestore.py:113
-#: ../ExeManager.py:204
-#: ../ExeManager.py:266
-#: ../CronManager.py:236
-#: ../CronManager.py:354
-msgid "Save"
-msgstr "Зберігти"
+msgid "OK"
+msgstr "Ок"
 
-#: ../EPGPanel.py:59
-msgid "EPG Path :"
-msgstr "Шлях EPG :"
+msgid "not available"
+msgstr ""
 
-#: ../EPGPanel.py:60
-msgid "Save EPG cache to epg.dat"
-msgstr "Зберігти кеш EPG у epg.dat"
+msgid "Current drivers: "
+msgstr ""
 
-#: ../EPGPanel.py:61
-msgid "Load EPG data from epg.dat"
-msgstr "Завантажити дані EPG з epg.dat"
+msgid "Install drivers from a local device"
+msgstr ""
 
-#: ../EPGPanel.py:73
+msgid "choose drivers from local filesystem to install"
+msgstr ""
+
+msgid "Download and install drivers from Vu+ website"
+msgstr ""
+
+msgid "choose drivers for download/install"
+msgstr ""
+
+msgid "Sorry, detection of current kernel version failed !"
+msgstr ""
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+
+msgid "Installation of drivers failed !!!"
+msgstr ""
+
+msgid "Select a drivers to install"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Відмінити"
+
+msgid "Invalid Choice"
+msgstr "Невірний вибір"
+
+msgid "no valid drivers"
+msgstr ""
+
+msgid "Please wait ..."
+msgstr ""
+
+msgid " downloading available drivers information"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
 #, python-format
-msgid "EPG path set to : %s"
-msgstr "Шлях EPG встановлено в : %s"
+msgid "Driver : %s"
+msgstr ""
 
-#: ../EPGPanel.py:89
-#, python-format
-msgid "Saving of EPG cache to %s finished"
-msgstr "Збереження кешу EPG в %s завершено"
+msgid "choose this drivers for download"
+msgstr ""
 
-#: ../EPGPanel.py:97
-#, python-format
-msgid "Loading EPG data from %s finished"
-msgstr "Завантаження даних EPG з %s завершено"
+msgid "Please wait, downloading drivers: "
+msgstr ""
 
-#: ../plugin.py:84
-#: ../plugin.py:213
-#: ../plugin.py:414
-#: ../plugin.py:1490
-#: ../plugin.py:1719
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+
 msgid "Close"
 msgstr "Закрити"
 
-#: ../plugin.py:85
-msgid "News"
-msgstr "Новини"
-
-#: ../plugin.py:86
-msgid "System Tools"
-msgstr "Службові програми"
-
-#: ../plugin.py:87
-msgid "Cam Center"
-msgstr "CAM-центр"
-
-#: ../plugin.py:91
-msgid "VTI Panel"
-msgstr "Панель VTI"
-
-#: ../plugin.py:138
-msgid "VTI Cam Center"
-msgstr "Управління CAM-модулями"
-
-#: ../plugin.py:138
-msgid "select or install your favourite cam"
-msgstr "вибрати або встановити ваш обраний CAM-модуль"
-
-#: ../plugin.py:139
-msgid "VTI System Info"
-msgstr "Інформація про систему"
-
-#: ../plugin.py:139
-msgid "Infos about your VU+Duo"
-msgstr "Інформація про Ваш ресівер"
-
-#: ../plugin.py:140
-#: ../plugin.py:394
-msgid "VTI System Tools"
-msgstr "Системні утиліти"
-
-#: ../plugin.py:140
-msgid "manage your VU+Duo"
-msgstr "Управління Вашим ресівером"
-
-#: ../plugin.py:141
-#: ../plugin.py:370
-msgid "VTI Image Tools"
-msgstr "Управління прошивкою"
-
-#: ../plugin.py:141
-msgid "backup or flash an image"
-msgstr "Резервне копіювання прошивки"
-
-#: ../plugin.py:142
-#: ../plugin.py:355
-msgid "VTI Backup Tools"
-msgstr "Резервне копіювання"
-
-#: ../plugin.py:142
-msgid "backup or restore your settings"
-msgstr "Резервне копіювання та відновлення налаштувань"
-
-#: ../plugin.py:143
-msgid "manual Installer"
-msgstr "Ручне встановлення плагінів"
-
-#: ../plugin.py:143
-msgid "install .tar.gz or ipkg manually"
-msgstr "Встановити вручну з *.tar.gz чи ipkg"
-
-#: ../plugin.py:144
-msgid "Plugins"
-msgstr "Плагіни"
-
-#: ../plugin.py:144
-msgid "open enigma2 Plugin Menu"
-msgstr "Відкрити встановлені плагіни"
-
-#: ../plugin.py:207
-#: ../plugin.py:249
-#: ../plugin.py:400
-msgid "News about VTI"
-msgstr "Новини о VTI"
-
-#: ../plugin.py:214
-msgid "Update"
-msgstr "Оновлення"
-
-#: ../plugin.py:215
-#: ../plugin.py:243
-#: ../plugin.py:253
-#: ../ExeManager.py:368
-#: ../ExeManager.py:405
-#: ../ExeManager.py:411
-#: ../ExeManager.py:416
-#: ../ExeManager.py:419
-#: ../CronManager.py:474
-#: ../CronManager.py:511
-#: ../CronManager.py:517
-#: ../CronManager.py:522
-#: ../CronManager.py:525
-msgid " "
+msgid "reload package data"
 msgstr ""
 
-#: ../plugin.py:216
-#: ../plugin.py:252
-msgid "show Updates"
-msgstr "показати оновлення"
+msgid "Download or delete Software"
+msgstr ""
 
-#: ../plugin.py:240
-msgid "Upgradable Packages"
-msgstr "Оновлювані пакети"
-
-#: ../plugin.py:244
-msgid "show News"
-msgstr "показати новини"
-
-#: ../plugin.py:293
-#: ../plugin.py:296
-#: ../plugin.py:322
 msgid ""
-"There are no news or your\n"
-"Internet connection is not ok"
+"\n"
+"After pressing OK, please wait!"
 msgstr ""
-"Новин нема або ваше \n"
-"Інтернет-підключення не в порядку"
+"\n"
+"Після натиснення кнопки OK, будь ласка, зачекайте!"
 
-#: ../plugin.py:317
 #, python-format
 msgid ""
-"\n"
-"Package : %s \n"
-" old version : %s | new version : %s \n"
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
 msgstr ""
-"\n"
-"Пакет : %s \n"
-"  стара версія : %s | нова версія : %s \n"
 
-#: ../plugin.py:319
+msgid "Excecute"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Package list update"
+msgstr "Оновлення списку пакетів"
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Йде завантаження списку пакетів. Будь ласка, зачекайте..."
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr ""
+"Виникли помилки при завантаженні списку пакетів. Будь ласка, спробуйте ще "
+"раз."
+
+msgid "Extensions"
+msgstr ""
+
+msgid "install/remove common plugins"
+msgstr ""
+
+msgid "Systemplugins"
+msgstr ""
+
+msgid "install/remove systemplugins"
+msgstr ""
+
+msgid "Skins"
+msgstr ""
+
+msgid "install/remove skins to change look of OSD"
+msgstr ""
+
+msgid "SoftCams"
+msgstr ""
+
+msgid "install/remove softcams"
+msgstr ""
+
+msgid "Configurations"
+msgstr ""
+
+msgid "install/remove configuration files for softcams"
+msgstr ""
+
+msgid "Picons"
+msgstr ""
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "install/remove channel lists"
+msgstr ""
+
+msgid "Kernel modules"
+msgstr ""
+
+msgid "install/remove kernel modules"
+msgstr ""
+
+msgid "Language packages"
+msgstr ""
+
+msgid "install/remove language packages for dvbapp2"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "Start"
+msgstr "Старт"
+
+msgid "Execution finished.\n"
+msgstr ""
+
+msgid "Do you want to restart GUI ?"
+msgstr ""
+
+msgid "VTi ZerO"
+msgstr ""
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "Restore"
+msgstr "Відновити"
+
+msgid "Free Flash"
+msgstr ""
+
+msgid "Remove preinstalled plugins"
+msgstr ""
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr ""
+
+msgid "Remove WLAN support"
+msgstr ""
+
+msgid "remove WLAN plugins and drivers"
+msgstr ""
+
+msgid "Remove HbbTV support"
+msgstr ""
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr ""
+
+msgid "Remove samba server"
+msgstr ""
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr ""
+
+msgid "Remove USB tuner support"
+msgstr ""
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr ""
+
+msgid "Remove language files"
+msgstr ""
+
+msgid "delete translation files expect configured language"
+msgstr ""
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+
+#, python-format
+msgid "Free space at flash memory : %d MB\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Ви впевнені, що хочете відновити\n"
+"після резервного копіювання:\n"
+
 msgid ""
 "\n"
-"Your System is up to date"
+"System will restart after the restore!"
 msgstr ""
 "\n"
-"Вашу систему оновлено"
+"Систему буде перезавантажено після відновлення!"
 
-#: ../plugin.py:338
-msgid "VTI Sub Menu"
-msgstr "Підменю VTI"
-
-#: ../plugin.py:350
-msgid "Backup system settings"
-msgstr "Резервне копіювання системних налаштувань"
-
-#: ../plugin.py:350
-msgid "Backup your STB settings."
-msgstr "Резервне копіювання налаштувань ресівера"
-
-#: ../plugin.py:351
-msgid "Restore system settings"
-msgstr "Відновити системні налаштування"
-
-#: ../plugin.py:351
-msgid "Restore your STB settings."
-msgstr "Відновити налаштування ресівера"
-
-#: ../plugin.py:352
-#: ../plugin.py:368
-msgid "Advanced restore"
-msgstr "Розширене відновлення"
-
-#: ../plugin.py:352
-#: ../plugin.py:368
-msgid "Restore your backups by date."
-msgstr "Відновити архіви по даті"
-
-#: ../plugin.py:353
-#: ../plugin.py:369
-msgid "Choose backup location"
-msgstr "Вибрати місце для розташування резервної копії"
-
-#: ../plugin.py:353
-#: ../plugin.py:369
-msgid "Select your backup device. "
-msgstr "Виберіть пристрій для резервного копіювання"
-
-#: ../plugin.py:354
-msgid "Choose backup files"
-msgstr "Виберіть файли для резервного копіювання"
-
-#: ../plugin.py:354
-msgid "Select files for backup. "
-msgstr "Виберіть файли для резервного копіювання."
-
-#: ../plugin.py:358
-msgid "Install .tar.gz "
-msgstr "Встановити з *.tar.gz"
-
-#: ../plugin.py:358
-msgid "Install all .tar.gz file form /tmp "
-msgstr "Встановити всі *.tar.gz у каталозі /tmp"
-
-#: ../plugin.py:359
-msgid "Install Ipkg"
-msgstr "Встановити з *.ipk"
-
-#: ../plugin.py:359
-msgid "Install local ipkg"
-msgstr "Встановити усі *.ipk в каталозі /tmp"
-
-#: ../plugin.py:360
-msgid "Advanced Ipkg Install"
-msgstr "Розширене встановлення *.ipk"
-
-#: ../plugin.py:360
-msgid "Install local ipkg with --force overwrite"
-msgstr "Встановити всі *.ipk в каталозі /tmp -- перезапис"
-
-#: ../plugin.py:361
-msgid "VTI manual Addon Installer"
-msgstr "Ручне встановлення плагінів"
-
-#: ../plugin.py:364
-msgid "Update Image"
-msgstr "Оновлення прошивки"
-
-#: ../plugin.py:364
-msgid "Update your STB image from Internet."
-msgstr "Оновлення прошивки через Інтернет."
-
-#: ../plugin.py:366
-msgid "Backup Image"
-msgstr "Зберіження прошивки"
-
-#: ../plugin.py:366
-msgid "Backup your running STB image."
-msgstr "Зберігти поточну прошивку ресівера."
-
-#: ../plugin.py:367
-msgid "Restore Image"
-msgstr "Відновлення прошивки"
-
-#: ../plugin.py:367
-msgid "Restore your backuped STB image."
-msgstr "Відновити прошивку ресівера."
-
-#: ../plugin.py:374
-msgid "Device Manager"
-msgstr "Менеджер пристроїв"
-
-#: ../plugin.py:374
-msgid "manage your HDD's and USB devices"
-msgstr "Управління жорстким диском та USB-приладами"
-
-#: ../plugin.py:376
-msgid "File Manager"
-msgstr "Файловий менеджер"
-
-#: ../plugin.py:376
-msgid "open Filemanager"
-msgstr "Відкрити Файловий менеджер"
-
-#: ../plugin.py:378
-msgid "Network Browser"
-msgstr "Браузер мережі"
-
-#: ../plugin.py:378
-msgid "open NetworkBrowswer"
-msgstr "Відкрити браузер мережі"
-
-#: ../plugin.py:379
-msgid "EPG Settings"
-msgstr "Налаштування EPG"
-
-#: ../plugin.py:379
-msgid "set EPG path, restore or backup EPG data"
-msgstr "Встановити шлях EPG, відновити чи зберігти дані EPG"
-
-#: ../plugin.py:380
-msgid "Cronjob Manager"
-msgstr "Управління задачами cron"
-
-#: ../plugin.py:380
-msgid "manage cronjobs of your VU+"
-msgstr "Управління задачами cron вашого ресівера"
-
-#: ../plugin.py:381
-msgid "Run Command"
-msgstr "Виконати команду"
-
-#: ../plugin.py:381
-msgid "run executable files of your VU+"
-msgstr "запустити виконувані файли вашого ресівера"
-
-#: ../plugin.py:382
-msgid "Set Root Password"
-msgstr "Встановлення паролю root"
-
-#: ../plugin.py:382
-msgid "set root password of your stb"
-msgstr "Встановити пароль root на Ваш ресівер"
-
-#: ../plugin.py:384
-msgid "Services"
-msgstr "Сервіси"
-
-#: ../plugin.py:384
-msgid "enable/disable Systemservices"
-msgstr "Зап./Зуп. системних сервісів"
-
-#: ../plugin.py:385
-msgid "USB DVB-T/C/S2 Panel"
-msgstr "Панель USB DVB-T/C/S2"
-
-#: ../plugin.py:385
-msgid "manage Sundtek USB DVB Stick"
-msgstr "управління Sundtek USB DVB Stick"
-
-#: ../plugin.py:386
-msgid "IPK Uninstaller"
-msgstr "Видалення IPK-пакетів"
-
-#: ../plugin.py:386
-msgid "remove seletected package from stb"
-msgstr "Видалення вибраних пакетів"
-
-#: ../plugin.py:388
-msgid "Purge Enigma2 Crashlogs"
-msgstr "Чистка креш-логу Enigma2"
-
-#: ../plugin.py:388
-msgid "selective wipe of enigma2 crashlogs"
-msgstr "Вибіркова чистка креш-логу Enigma2"
-
-#: ../plugin.py:389
-msgid "Remove Skins"
-msgstr "Видалити скіни"
-
-#: ../plugin.py:389
-msgid "choose skin to remove"
-msgstr "Вибрати скін для видалення"
-
-#: ../plugin.py:391
-msgid "Swapfile"
-msgstr "Файл підкачки"
-
-#: ../plugin.py:391
-msgid "create and manage your Swapfile"
-msgstr "Створ-ня і кер-ня swap-файлом"
-
-#: ../plugin.py:392
-msgid "Set NTP Time"
-msgstr "Встановити час по NTP"
-
-#: ../plugin.py:392
-msgid "refresh time for enigma2 from ntp server"
-msgstr "Синхронізування часу через Інтернет"
-
-#: ../plugin.py:393
-msgid "Harddisk Standby"
-msgstr "Режим очікування для жорсткого диску"
-
-#: ../plugin.py:393
-msgid "turns hdd immediately into standby mode"
-msgstr "Вимикнення HDD в сплячому режими"
-
-#: ../plugin.py:397
-#: ../plugin.py:1414
-msgid "Bitrate Viewer"
-msgstr "Переглядач битрейту"
-
-#: ../plugin.py:397
-msgid "Show Advanced Bitrate infos"
-msgstr "Показати додаткову інформацію щодо битрейту"
-
-#: ../plugin.py:399
-msgid "ECM Info"
-msgstr "ECM інфо"
-
-#: ../plugin.py:399
-msgid "show ecm infos from temp dir"
-msgstr "Показати інформацію об ecm"
-
-#: ../plugin.py:400
-msgid "show Feed updates"
-msgstr "Показать обновления фида"
-
-#: ../plugin.py:401
-msgid "Show processes"
-msgstr "Показати процеси"
-
-#: ../plugin.py:401
-msgid "show running processes"
-msgstr "Показати поточні процеси"
-
-#: ../plugin.py:402
-msgid "Show filesystem mounts"
-msgstr "Показати змонтовані файлові системи"
-
-#: ../plugin.py:402
-msgid "show active mounts"
-msgstr "Показати активні змонтовані ресурси"
-
-#: ../plugin.py:403
-msgid "Harddisk Temperature"
-msgstr "Температура жорсткого диску"
-
-#: ../plugin.py:403
-msgid "show HDD Temperature"
-msgstr "Показати температуру HDD"
-
-#: ../plugin.py:404
-msgid "Show Consolesessions"
-msgstr "Показати консольні сесії"
-
-#: ../plugin.py:404
-msgid "show all active user sessions"
-msgstr "Показати усі активні сеанси користувачів"
-
-#: ../plugin.py:405
-msgid "Show Uptime"
-msgstr "Показати час роботи"
-
-#: ../plugin.py:405
-msgid "show operating system uptime of stb"
-msgstr "Показати час роботи"
-
-#: ../plugin.py:406
-msgid "Show Networkconnections"
-msgstr "Показати мережеві з'єднання"
-
-#: ../plugin.py:406
-msgid "show all connected sockets from ip-stack"
-msgstr "Показати усі підключені сокети в ip-стеці"
-
-#: ../plugin.py:407
-msgid "Show Systemmemory Info"
-msgstr "Показати інформацію о пам'яті"
-
-#: ../plugin.py:407
-msgid "show whole system memory usage"
-msgstr "Показати користування пам'яті"
-
-#: ../plugin.py:408
-msgid "Show Networkdetails"
-msgstr "Показати інформацію о мережі"
-
-#: ../plugin.py:408
-msgid "shows assigned ip-adresses, routingtable and nameserver"
-msgstr "Показати встановленні ip-адресу, dns-сервери і маршрути"
-
-#: ../plugin.py:409
-msgid "Show diskspace"
-msgstr "Показати інформацію щодо дискового простору"
-
-#: ../plugin.py:409
-msgid "show diskpace"
-msgstr "Показати дисковий простір"
-
-#: ../plugin.py:410
-msgid "Image Info"
-msgstr "Інформація щодо прошивки"
-
-#: ../plugin.py:410
-msgid "show simple Image infos"
-msgstr "Показати інформацію щодо прошивки"
-
-#: ../plugin.py:411
-msgid "VTI System Infos"
-msgstr "Системна інформація"
-
-#: ../plugin.py:415
-msgid ""
-"\n"
-"Press OK on your remote control to continue."
+msgid "VTI BackupSuite"
 msgstr ""
-"\n"
-"Нажміть ОК на вашому пульті керування щоби продовжити"
 
-#: ../plugin.py:454
-#: ../plugin.py:483
+msgid "Backup"
+msgstr ""
+
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr ""
+
+msgid "set device for directory vti-backupsuite"
+msgstr ""
+
+msgid "Backup installed plugins"
+msgstr ""
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr ""
+
+msgid "Backup channel settings"
+msgstr ""
+
+msgid "save channel and bouquet settings"
+msgstr ""
+
+msgid "Backup configurations"
+msgstr ""
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Restore plugins from saved list"
+msgstr ""
+
+msgid "installs all available plugins from online feed"
+msgstr ""
+
+msgid "Restore channel settings"
+msgstr ""
+
+msgid "reload saved channel and bouquet settings"
+msgstr ""
+
+msgid "Restore configurations"
+msgstr ""
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Install local packages"
+msgstr ""
+
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr ""
+
+msgid "Run personal script"
+msgstr ""
+
+msgid "executes your personal backup/restore scripts"
+msgstr ""
+
 msgid "Please select medium to use as backup location"
 msgstr "Будь ласка вкажіть носій для зберігання резервних копій"
 
-#: ../plugin.py:463
-msgid ""
-"Are you sure you want to restore your Enigma2 backup?\n"
-"Enigma2 will restart after the restore"
+msgid "List of installed plugins was created succesfully"
 msgstr ""
-"Вы уверены, что хотите восстановить Enigma2 из резервной копии?\n"
-"Enigma2 будет перезагружена после восстановления."
 
-#: ../plugin.py:465
-msgid "Sorry no backups found!"
-msgstr "На жаль, резервних копій не знайдено!"
-
-#: ../plugin.py:468
-msgid "VTI .tar.gz installer"
-msgstr "Ручне встановлення плагінів"
-
-#: ../plugin.py:470
-#: ../plugin.py:472
-msgid "VTI IPK Installer"
-msgstr "Встановлення IPK"
-
-#: ../plugin.py:489
-#: ../plugin.py:491
-#: ../plugin.py:493
-#: ../plugin.py:495
-#: ../BackupRestore.py:385
-#: ../BackupRestore.py:387
-#: ../BackupRestore.py:389
-#: ../BackupRestore.py:391
-msgid "VTI Restore Image"
-msgstr "Відновлення прошивки"
-
-#: ../plugin.py:497
-msgid ""
-"No image found!!!! \n"
-"\n"
-"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgid "Creating list of installed plugins failed"
 msgstr ""
-"Прошивку не знайдено! \n"
-"Будь ласка, скопіюйте прошивку на USB чи в папку /media/hdd/vuplus/duo"
 
-#: ../plugin.py:499
-msgid "Menu "
-msgstr "Меню"
-
-#: ../plugin.py:499
-msgid ""
-" not implemented yet\n"
-"\n"
-"Please choose another one."
+msgid "Settings backup finished succesfully"
 msgstr ""
-" ще не здійснено\n"
-"\n"
-"Будь ласка виберіть іншу."
 
-#: ../plugin.py:503
-msgid "VTI Backup Image"
-msgstr "Рез. копіювання прошивки"
-
-#: ../plugin.py:505
-msgid ""
-"No valid Backupdestion found!!!! \n"
-"\n"
-"Please install an internal Harddisk first to create Backups."
+msgid "Backup settings failed"
 msgstr ""
-"Не знайдено директорію для резервного копіювання! \n"
-"\n"
-"Будь ласка, встановіть внутрішній жорсткий диск перш ніж запускати резервне копіювання."
 
-#: ../plugin.py:514
-msgid ""
-"The Device Manager is not installed!\n"
-"Please install it."
+msgid "Common configuration backup finished succesfully"
 msgstr ""
-"Менеджер пристроїв не встановлено! \n"
-"Будь ласка, встановіть його."
 
-#: ../plugin.py:522
-msgid ""
-"The FileManager is not installed!\n"
-"Please install it."
+msgid "Backup of common configurations failed"
 msgstr ""
-"Файл менеджер не встановлено! \n"
-"Будь ласка, встановіть його."
 
-#: ../plugin.py:530
-msgid ""
-"The NetworkBrowser is not installed!\n"
-"Please install it."
-msgstr ""
-"Браузер мережі не встановлено! \n"
-"Будь ласка, встановіть його."
-
-#: ../plugin.py:563
-msgid "VTI Harddisk Standbymode"
-msgstr "Сплячий режим для HDD"
-
-#: ../plugin.py:568
-msgid "VTI show ecm.info"
-msgstr "Показати ecm.info"
-
-#: ../plugin.py:570
-msgid "VTI show running processes"
-msgstr "Показати запущені процеси"
-
-#: ../plugin.py:574
-msgid "VTI show mounted filesystems"
-msgstr "Показати змонтовані файлові системи"
-
-#: ../plugin.py:576
-msgid "VTI show networkconfiguration and routingtable"
-msgstr "Показати мереж. налаштування"
-
-#: ../plugin.py:579
-msgid "Harddiskmanufacturer, Type and it's Temperature :"
-msgstr "Виробник HDD, Тип і Температура:"
-
-#: ../plugin.py:579
-msgid "Are you sure to set hdd in standby mode?"
-msgstr "Ви впевнені, що хочете перевести жорсткий диск в режим очікування?"
-
-#: ../plugin.py:580
-msgid "HDD Temperature"
-msgstr "Температура жорсткого диску"
-
-#: ../plugin.py:582
-msgid ""
-"No internal Harddisk detected!!!! \n"
-"\n"
-"Please install an internal Harddisk first to be in a position to check harddisk temperature."
-msgstr ""
-"Не знайдено внутрішній жорсткий диск! \n"
-"\n"
-"Будь ласка, встановіть внутрішній жорсткий диск для перевірки його температури."
-
-#: ../plugin.py:584
-msgid "Active Usersessions :"
-msgstr "Активні сесії користувачів:"
-
-#: ../plugin.py:586
-msgid "Current Time, Operating Time and Load Average :"
-msgstr "Поточний час, Робочий час та Середнє навантаження:"
-
-#: ../plugin.py:587
-msgid "Uptime"
-msgstr "Час роботи"
-
-#: ../plugin.py:590
-msgid "VTI show network stats"
-msgstr "Показати статистику мережі"
-
-#: ../plugin.py:592
-msgid "Current Memory Usage :"
-msgstr "Поточне використання пам'яті:"
-
-#: ../plugin.py:593
-msgid "Memory Usage"
-msgstr "Використання пам'яті"
-
-#: ../plugin.py:595
-msgid "VTI show free diskspace"
-msgstr "Показати вільне місце"
-
-#: ../plugin.py:599
-msgid ""
-"Menu not implemented yet!!!! \n"
-"\n"
-"feel free to code this menu now ;)"
-msgstr ""
-"Меню ще не реалізовано! \n"
-"\n"
-"Ви можете написати код цього меню самі ;)"
-
-#: ../plugin.py:602
-msgid "Install/update finished."
-msgstr "Встановлення/оновлення завершено."
-
-#: ../plugin.py:602
-msgid "Do you want to reboot your STB?"
-msgstr "Ви бажаете перезавантажити Ваш ресівер?"
-
-#: ../plugin.py:634
-#: ../plugin.py:643
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
 "\n"
@@ -765,319 +379,737 @@ msgstr ""
 "\n"
 "Будь ласка, выберіть інше місцезнаходження."
 
-#: ../plugin.py:647
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Restoring settings finished successfully"
+msgstr ""
+
+msgid "Restoring settings failed"
+msgstr ""
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr ""
+
+msgid "Restore running"
+msgstr "Відновлення запущено"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Ви впевнені, що хочете видалити\n"
+"після резервного копіювання:\n"
+
+msgid "Software"
+msgstr ""
+
+msgid "News"
+msgstr "Новини"
+
+msgid "System Tools"
+msgstr "Службові програми"
+
+msgid "Cam Center"
+msgstr "CAM-центр"
+
+msgid "VTI Panel"
+msgstr "Панель VTI"
+
+msgid "VTI Cam Center"
+msgstr "Управління CAM-модулями"
+
+msgid "select or install your favourite cam"
+msgstr "вибрати або встановити ваш обраний CAM-модуль"
+
+msgid "VTI System Info"
+msgstr "Інформація про систему"
+
+msgid "Infos about your Vu+ STB"
+msgstr ""
+
+msgid "VTI System Tools"
+msgstr "Системні утиліти"
+
+msgid "manage your Vu+ STB"
+msgstr ""
+
+msgid "VTI Software Tools"
+msgstr ""
+
+msgid "backup/restore or install software"
+msgstr ""
+
+msgid "VTI Software Manager"
+msgstr ""
+
+msgid "install/download software for your Vu+"
+msgstr ""
+
+msgid "manual Installer"
+msgstr "Ручне встановлення плагінів"
+
+msgid "install .tar.gz or ipkg manually"
+msgstr "Встановити вручну з *.tar.gz чи ipkg"
+
+msgid "Plugins"
+msgstr "Плагіни"
+
+msgid "open enigma2 Plugin Menu"
+msgstr "Відкрити встановлені плагіни"
+
+msgid "VTI Sub Menu"
+msgstr "Підменю VTI"
+
+msgid "Restore and backup installed channellist and plugins"
+msgstr ""
+
+msgid "Image Backup / Restore"
+msgstr ""
+
+msgid "backup or flash an image"
+msgstr "Резервне копіювання прошивки"
+
+msgid "Image Flash Tool"
+msgstr ""
+
+msgid "download images from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Driver Manager"
+msgstr ""
+
+msgid "install/download driver for your Vu+"
+msgstr ""
+
+msgid "Expert Backup / Restore"
+msgstr ""
+
+msgid "backup or restore your settings (only for experts)"
+msgstr ""
+
+msgid "Install .tar.gz "
+msgstr "Встановити з *.tar.gz"
+
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Встановити всі *.tar.gz у каталозі /tmp"
+
+msgid "Install Ipkg"
+msgstr "Встановити з *.ipk"
+
+msgid "Install local ipkg"
+msgstr "Встановити усі *.ipk в каталозі /tmp"
+
+msgid "Advanced Ipkg Install"
+msgstr "Розширене встановлення *.ipk"
+
+msgid "Install local ipkg with --force overwrite"
+msgstr "Встановити всі *.ipk в каталозі /tmp -- перезапис"
+
+msgid "VTI manual Addon Installer"
+msgstr "Ручне встановлення плагінів"
+
+msgid "Update Image"
+msgstr "Оновлення прошивки"
+
+msgid "Update your STB image from Internet."
+msgstr "Оновлення прошивки через Інтернет."
+
+msgid "VTI Image Tools"
+msgstr "Управління прошивкою"
+
+msgid "Device Manager"
+msgstr "Менеджер пристроїв"
+
+msgid "manage your HDD's and USB devices"
+msgstr "Управління жорстким диском та USB-приладами"
+
+msgid "File Manager"
+msgstr "Файловий менеджер"
+
+msgid "open Filemanager"
+msgstr "Відкрити Файловий менеджер"
+
+msgid "Network Browser"
+msgstr "Браузер мережі"
+
+msgid "open NetworkBrowswer"
+msgstr "Відкрити браузер мережі"
+
+msgid "Remove preinstalled packages from image"
+msgstr ""
+
+msgid "EPG Settings"
+msgstr "Налаштування EPG"
+
+msgid "set EPG path, restore or backup EPG data"
+msgstr "Встановити шлях EPG, відновити чи зберігти дані EPG"
+
+msgid "Custom Main Menu"
+msgstr ""
+
+msgid "delete entries from main menu of your VU+"
+msgstr ""
+
+msgid "Cronjob Manager"
+msgstr "Управління задачами cron"
+
+msgid "manage cronjobs of your VU+"
+msgstr "Управління задачами cron вашого ресівера"
+
+msgid "Run Command"
+msgstr "Виконати команду"
+
+msgid "run executable files of your VU+"
+msgstr "запустити виконувані файли вашого ресівера"
+
+msgid "Set VTI Panel Password"
+msgstr ""
+
+msgid "activate/change password for VTI Panel"
+msgstr ""
+
+msgid "Set Root Password"
+msgstr "Встановлення паролю root"
+
+msgid "set root password of your stb"
+msgstr "Встановити пароль root на Ваш ресівер"
+
+msgid "Services"
+msgstr "Сервіси"
+
+msgid "enable/disable Systemservices"
+msgstr "Зап./Зуп. системних сервісів"
+
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "Панель USB DVB-T/C/S2"
+
+msgid "manage Sundtek USB DVB Stick"
+msgstr "управління Sundtek USB DVB Stick"
+
+msgid "Remove WebBrowser"
+msgstr ""
+
+msgid "removes WebBrowser and dependencies"
+msgstr ""
+
+msgid "Remove Opera HbbTV"
+msgstr ""
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr ""
+
+msgid "IPK Uninstaller"
+msgstr "Видалення IPK-пакетів"
+
+msgid "remove seletected package from stb"
+msgstr "Видалення вибраних пакетів"
+
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Чистка креш-логу Enigma2"
+
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "Вибіркова чистка креш-логу Enigma2"
+
+msgid "Swapfile"
+msgstr "Файл підкачки"
+
+msgid "create and manage your Swapfile"
+msgstr "Створ-ня і кер-ня swap-файлом"
+
+msgid "Set NTP Time"
+msgstr "Встановити час по NTP"
+
+msgid "refresh time for enigma2 from ntp server"
+msgstr "Синхронізування часу через Інтернет"
+
+msgid "Harddisk Standby"
+msgstr "Режим очікування для жорсткого диску"
+
+msgid "turns hdd immediately into standby mode"
+msgstr "Вимикнення HDD в сплячому режими"
+
+msgid "Bitrate Viewer"
+msgstr "Переглядач битрейту"
+
+msgid "Show Advanced Bitrate infos"
+msgstr "Показати додаткову інформацію щодо битрейту"
+
+msgid "ECM Info"
+msgstr "ECM інфо"
+
+msgid "show ecm infos from temp dir"
+msgstr "Показати інформацію об ecm"
+
+msgid "News about VTI"
+msgstr "Новини о VTI"
+
+msgid "show Feed updates"
+msgstr "Показать обновления фида"
+
+msgid "Info about current system"
+msgstr ""
+
+msgid "show information about processes, load, mounts ..."
+msgstr ""
+
+msgid "Show processes"
+msgstr "Показати процеси"
+
+msgid "show running processes"
+msgstr "Показати поточні процеси"
+
+msgid "Show filesystem mounts"
+msgstr "Показати змонтовані файлові системи"
+
+msgid "show active mounts"
+msgstr "Показати активні змонтовані ресурси"
+
+msgid "Harddisk Temperature"
+msgstr "Температура жорсткого диску"
+
+msgid "show HDD Temperature"
+msgstr "Показати температуру HDD"
+
+msgid "Show Consolesessions"
+msgstr "Показати консольні сесії"
+
+msgid "show all active user sessions"
+msgstr "Показати усі активні сеанси користувачів"
+
+msgid "Show Uptime"
+msgstr "Показати час роботи"
+
+msgid "show operating system uptime of stb"
+msgstr "Показати час роботи"
+
+msgid "Show Networkconnections"
+msgstr "Показати мережеві з'єднання"
+
+msgid "show all connected sockets from ip-stack"
+msgstr "Показати усі підключені сокети в ip-стеці"
+
+msgid "Show Systemmemory Info"
+msgstr "Показати інформацію о пам'яті"
+
+msgid "show whole system memory usage"
+msgstr "Показати користування пам'яті"
+
+msgid "Show Networkdetails"
+msgstr "Показати інформацію о мережі"
+
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "Показати встановленні ip-адресу, dns-сервери і маршрути"
+
+msgid "Show diskspace"
+msgstr "Показати інформацію щодо дискового простору"
+
+msgid "show diskpace"
+msgstr "Показати дисковий простір"
+
+msgid "Image Info"
+msgstr "Інформація щодо прошивки"
+
+msgid "show simple Image infos"
+msgstr "Показати інформацію щодо прошивки"
+
+msgid "VTI System Infos"
+msgstr "Системна інформація"
+
+msgid "VTI Backupsuite"
+msgstr ""
+
+msgid "Backup installed channellist and plugins"
+msgstr ""
+
+msgid "Restore installed channellist and plugins"
+msgstr ""
+
+msgid "Backup Image"
+msgstr "Зберіження прошивки"
+
+msgid "Backup your running STB image."
+msgstr "Зберігти поточну прошивку ресівера."
+
+msgid "Restore Image"
+msgstr "Відновлення прошивки"
+
+msgid "Restore your backuped STB image."
+msgstr "Відновити прошивку ресівера."
+
+msgid "Choose backup location"
+msgstr "Вибрати місце для розташування резервної копії"
+
+msgid "Select your backup device. "
+msgstr "Виберіть пристрій для резервного копіювання"
+
+msgid "VTI Image Backup/Restore"
+msgstr ""
+
+msgid "Backup system settings"
+msgstr "Резервне копіювання системних налаштувань"
+
+msgid "Backup your STB settings."
+msgstr "Резервне копіювання налаштувань ресівера"
+
+msgid "Restore system settings"
+msgstr "Відновити системні налаштування"
+
+msgid "Restore your STB settings."
+msgstr "Відновити налаштування ресівера"
+
+msgid "Advanced restore"
+msgstr "Розширене відновлення"
+
+msgid "Restore your backups by date."
+msgstr "Відновити архіви по даті"
+
+msgid "Choose backup files"
+msgstr "Виберіть файли для резервного копіювання"
+
+msgid "Select files for backup. "
+msgstr "Виберіть файли для резервного копіювання."
+
+msgid "VTI Expert Backup/Restore"
+msgstr ""
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Нажміть ОК на вашому пульті керування щоби продовжити"
+
+msgid "VTI .tar.gz installer"
+msgstr "Ручне встановлення плагінів"
+
+msgid "VTI IPK Installer"
+msgstr "Встановлення IPK"
+
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Менеджер пристроїв не встановлено! \n"
+"Будь ласка, встановіть його."
+
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"Файл менеджер не встановлено! \n"
+"Будь ласка, встановіть його."
+
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"Браузер мережі не встановлено! \n"
+"Будь ласка, встановіть його."
+
+msgid "VTI Harddisk Standbymode"
+msgstr "Сплячий режим для HDD"
+
+msgid "VTI show ecm.info"
+msgstr "Показати ecm.info"
+
+msgid "VTI show running processes"
+msgstr "Показати запущені процеси"
+
+msgid "VTI show mounted filesystems"
+msgstr "Показати змонтовані файлові системи"
+
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "Показати мереж. налаштування"
+
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "Виробник HDD, Тип і Температура:"
+
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "Ви впевнені, що хочете перевести жорсткий диск в режим очікування?"
+
+msgid "HDD Temperature"
+msgstr "Температура жорсткого диску"
+
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check "
+"harddisk temperature."
+msgstr ""
+"Не знайдено внутрішній жорсткий диск! \n"
+"\n"
+"Будь ласка, встановіть внутрішній жорсткий диск для перевірки його "
+"температури."
+
+msgid "Active Usersessions :"
+msgstr "Активні сесії користувачів:"
+
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Поточний час, Робочий час та Середнє навантаження:"
+
+msgid "Uptime"
+msgstr "Час роботи"
+
+msgid "VTI show network stats"
+msgstr "Показати статистику мережі"
+
+msgid "Current Memory Usage :"
+msgstr "Поточне використання пам'яті:"
+
+msgid "Memory Usage"
+msgstr "Використання пам'яті"
+
+msgid "VTI show free diskspace"
+msgstr "Показати вільне місце"
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Вы уверены, что хотите восстановить Enigma2 из резервной копии?\n"
+"Enigma2 будет перезагружена после восстановления."
+
+msgid "Sorry no backups found!"
+msgstr "На жаль, резервних копій не знайдено!"
+
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Меню ще не реалізовано! \n"
+"\n"
+"Ви можете написати код цього меню самі ;)"
+
+msgid "Install/update finished."
+msgstr "Встановлення/оновлення завершено."
+
+msgid "Do you want to reboot your STB?"
+msgstr "Ви бажаете перезавантажити Ваш ресівер?"
+
+msgid "VTI Restore Image"
+msgstr "Відновлення прошивки"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Прошивку не знайдено! \n"
+"Будь ласка, скопіюйте прошивку на USB чи в папку /media/hdd/vuplus/duo"
+
 msgid "VTI-Backup done."
 msgstr "Рез. копіювання виконано."
 
-#: ../plugin.py:649
 msgid "VTI-Backup failed."
 msgstr "Помилка рез. копіювання."
 
-#: ../plugin.py:667
 msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
 msgstr "Нема жорсткого диску чи жорсткого диску із підтримкою S.M.A.R.T"
 
-#: ../plugin.py:673
 msgid "At"
 msgstr "На"
 
-#: ../plugin.py:677
 msgid "Could not grep Uptime Information from busybox"
 msgstr "Не можу відфільтрувати інформацію щодо аптайму в busybox"
 
-#: ../plugin.py:689
 msgid "Could not grep socket information from busybox"
 msgstr "Не можу відфільтрувати інформацію щодо сокетів в busybox"
 
-#: ../plugin.py:701
 msgid "Could not grep Memory Usage information from busybox"
 msgstr "Не можу відфільтрувати інформацію об використанні пам'яти в busybox"
 
-#: ../plugin.py:737
-#: ../plugin.py:802
 msgid "VTI Status List Menu"
 msgstr "Меню списку статусів"
 
-#: ../plugin.py:744
 msgid "Stop Swap"
 msgstr "Стоп Swap"
 
-#: ../plugin.py:745
 msgid "Start Swap"
 msgstr "Старт Swap"
 
-#: ../plugin.py:750
 msgid "VTI SwapFile Menu"
 msgstr "Управління swap-файлом"
 
-#: ../plugin.py:753
 msgid "Stop"
 msgstr "Стоп"
 
-#: ../plugin.py:754
-msgid "Start"
-msgstr "Старт"
-
-#: ../plugin.py:755
 msgid "Restart"
 msgstr "Перезапуск"
 
-#: ../plugin.py:758
 msgid "VTI Services Menu"
 msgstr "Сервіси"
 
-#: ../plugin.py:761
 msgid "Uninstall"
 msgstr "Видалення"
 
-#: ../plugin.py:762
 msgid "Force uninst."
 msgstr "Форс. видал."
 
-#: ../plugin.py:767
 msgid "VTI IPK Uninstaller Menu"
 msgstr "Меню видалення VTI IPK"
 
-#: ../plugin.py:770
 msgid "Remove Skin"
 msgstr "Видалити скін"
 
-#: ../plugin.py:777
 msgid "VTI Skinremove Menu"
 msgstr "Меню видалення скіну VTI"
 
-#: ../plugin.py:780
 msgid "Remove selected"
 msgstr "Видалити виделене"
 
-#: ../plugin.py:781
 msgid "Remove all"
 msgstr "Видалити все"
 
-#: ../plugin.py:782
 msgid "Remove older 7 Days"
 msgstr "Видалити все старше 7 днів"
 
-#: ../plugin.py:785
 msgid "VTI Crashlogremove Menu"
 msgstr "Видалення креш-логу"
 
-#: ../plugin.py:789
-msgid "Ok"
-msgstr "Ок"
-
-#: ../plugin.py:795
-#: ../plugin.py:1087
 msgid "VTI USB DVB-Panel"
 msgstr "Панель VTI"
 
-#: ../plugin.py:798
-#: ../plugin.py:799
-#: ../plugin.py:800
-#: ../plugin.py:801
 msgid "not in use"
 msgstr "не використовується"
 
-#: ../plugin.py:1014
 msgid "MB swapfile on "
 msgstr "Мб файл підкачки вмикнено"
 
-#: ../plugin.py:1029
 msgid "Are you sure to delete swapfile ?"
 msgstr "Ви впевнені, що хочете видалити файл підкачки?"
 
-#: ../plugin.py:1031
 #, python-format
 msgid "Are you sure to %s ?"
 msgstr "Ви впевнені, що %s ?"
 
-#: ../plugin.py:1038
 msgid "VTI Start Service"
 msgstr "Запуск сервісу"
 
-#: ../plugin.py:1040
 msgid "VTI Stop Service"
 msgstr "Зупинка сервісу"
 
-#: ../plugin.py:1042
 msgid "VTI Restart Service"
 msgstr "Перезапуск сервісу"
 
-#: ../plugin.py:1059
 msgid "VTI Skinremoval"
 msgstr "Видалення скінів"
 
-#: ../plugin.py:1067
-#: ../plugin.py:1069
 msgid "VTI Remove Enigma2 Crashlog"
 msgstr "Видалення креш-логу Enigma2"
 
-#: ../plugin.py:1080
 msgid "Deleted Crashlogs older 7 Days..."
 msgstr "Видаляти логи помилок старше 7 днів..."
 
-#: ../plugin.py:1121
 msgid "stopping swap for "
 msgstr "зупинка файлу підкачки на "
 
-#: ../plugin.py:1121
 msgid "swapfile was deleted successfully"
 msgstr "файл підкачки видалено"
 
-#: ../plugin.py:1122
-#: ../plugin.py:1138
 msgid "VTI create SwapFile"
 msgstr "Cтворити swap-файл"
 
-#: ../plugin.py:1124
 msgid "no swapfile active..."
 msgstr "нема активного файлу підкачки..."
 
-#: ../plugin.py:1136
 msgid "swapfile was created successfully"
 msgstr "файл підкачки створено"
 
-#: ../plugin.py:1158
 msgid "VTI IPK Uninstall"
 msgstr "Видалення IPK"
 
-#: ../plugin.py:1164
 msgid "VTI IPK Uninstall ignore depencies"
 msgstr "Видалення IPK, ігнорувати залежності"
 
-#: ../plugin.py:1172
 msgid "Stop Cam"
 msgstr "Стоп CAM"
 
-#: ../plugin.py:1173
 msgid "Start Cam"
 msgstr "Старт CAM"
 
-#: ../plugin.py:1174
 msgid "Restart Cam"
 msgstr "Перезапуск CAM"
 
-#: ../plugin.py:1175
 msgid "Manage Cams"
 msgstr "Управління CAM"
 
-#: ../plugin.py:1176
 msgid "Select Cam and press OK to activate"
 msgstr "Виберіть CAM та нажміть OK, щоб активувати"
 
-#: ../plugin.py:1337
 msgid "NO CAM ACTIVE !!! Cant restart current cam "
-msgstr "Нема активних CAM модулів! Не вдається перезапустити поточний CAM модуль"
+msgstr ""
+"Нема активних CAM модулів! Не вдається перезапустити поточний CAM модуль"
 
-#: ../plugin.py:1346
 msgid "cam info : "
 msgstr "Інформація о СAM: "
 
-#: ../plugin.py:1346
 msgid " -- "
 msgstr " --"
 
-#: ../plugin.py:1355
 msgid "Starting cam : "
 msgstr "Запуск CAM: "
 
-#: ../plugin.py:1363
 msgid "Stopping cam : "
 msgstr "Зупинка CAM: "
 
-#: ../plugin.py:1365
 msgid "Restarting cam : "
 msgstr "Перезавантаження СAM:"
 
-#: ../plugin.py:1421
 msgid "Video"
 msgstr "Відео"
 
-#: ../plugin.py:1422
 msgid "Audio"
 msgstr "Аудіо"
 
-#: ../plugin.py:1423
 msgid "Min"
 msgstr "Мін."
 
-#: ../plugin.py:1424
 msgid "Max"
 msgstr "Макс."
 
-#: ../plugin.py:1425
 msgid "Current"
 msgstr "Поточне"
 
-#: ../plugin.py:1426
 msgid "Average"
 msgstr "Середнє"
 
-#: ../plugin.py:1491
 msgid "Reload"
 msgstr "Перезавантажити"
 
-#: ../plugin.py:1492
 msgid "Download or delete Cam"
 msgstr "Встановлення або видалення CAM-модулів"
 
-#: ../plugin.py:1508
-msgid ""
-"\n"
-"After pressing OK, please wait!"
-msgstr ""
-"\n"
-"Після натиснення кнопки OK, будь ласка, зачекайте!"
-
-#: ../plugin.py:1551
-msgid "Trying to download a new packetlist. Please wait..."
-msgstr "Йде завантаження списку пакетів. Будь ласка, зачекайте..."
-
-#: ../plugin.py:1551
-msgid "Package list update"
-msgstr "Оновлення списку пакетів"
-
-#: ../plugin.py:1555
-msgid "There was an error downloading the packetlist. Please try again."
-msgstr "Виникли помилки при завантаженні списку пакетів. Будь ласка, спробуйте ще раз."
-
-#: ../plugin.py:1555
-msgid "Error"
-msgstr "Помилка"
-
-#: ../plugin.py:1580
 msgid "Do you want to remove the package:\n"
 msgstr "Ви хочете видалити пакет:\n"
 
-#: ../plugin.py:1584
 msgid "Do you want to upgrade the package:\n"
 msgstr "Вы хочете обновити пакет:\n"
 
-#: ../plugin.py:1588
 msgid "Do you want to install the package:\n"
 msgstr "Вы хочете встановити пакет:\n"
 
-#: ../plugin.py:1707
 msgid "Change Root Password"
 msgstr "Зміна паролю користувача root"
 
-#: ../plugin.py:1720
 msgid "Set Password"
 msgstr "Встановлення паролю"
 
-#: ../plugin.py:1721
 msgid "new Random"
 msgstr "Випадково"
 
-#: ../plugin.py:1722
 msgid "virt. Keyboard"
 msgstr "Вірт. клав-ра"
 
-#: ../plugin.py:1742
 msgid "Enter new Password"
 msgstr "Введіть новий пароль"
 
-#: ../plugin.py:1758
 #, python-format
 msgid ""
 "Sucessfully changed password for root user to:\n"
@@ -1086,42 +1118,431 @@ msgstr ""
 "Пароль користувача root успішно змінено на:\n"
 "%s "
 
-#: ../plugin.py:1760
 msgid "Unable to change/reset password for root user"
 msgstr "Неможливо змінити/скинути пароль для користувача root"
 
-#: ../plugin.py:1782
 msgid "Enter your password here:"
 msgstr "Введіть свій пароль:"
 
-#: ../plugin.py:1861
+msgid "Software Update"
+msgstr ""
+
 msgid "Manage your VU+ Team Image"
 msgstr "Керування Вашою прошивкою"
 
-#: ../ntpserver.py:47
+msgid "VTI CronManager"
+msgstr "VTI менеджер cron"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Modify"
+msgstr "Модифікувати"
+
+msgid "Execute"
+msgstr "Виконати"
+
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Команду: %s було виконано"
+
+msgid "your cronjob"
+msgstr "Ваша задача cron"
+
+msgid "Add a job to CronManager"
+msgstr "Додати задачу до менеджеру cron"
+
+msgid "Save"
+msgstr "Зберігти"
+
+msgid "Command to execute : "
+msgstr "Команда на виконання:"
+
+msgid "Additional command options : "
+msgstr "Додаткові опції команд:"
+
+msgid "Input minute : "
+msgstr "Ввести хвилину:"
+
+msgid "Input hour : "
+msgstr "Ввести годину:"
+
+msgid "Input day : "
+msgstr "Ввести день"
+
+msgid "Input month : "
+msgstr "Ввести місяць:"
+
+msgid "Input weekday : "
+msgstr "Ввести день тижня:"
+
+msgid "Modify a CronManager job"
+msgstr "Модифікувати задачу у менеджері cron"
+
+msgid "Select a executable file for a cronjob"
+msgstr "Вибрати виконуваний файл для задачі cron"
+
+msgid "File is not executable"
+msgstr "Файл не виконуваний"
+
+msgid " "
+msgstr ""
+
+msgid "chmod 755"
+msgstr ""
+
 msgid "NTP server "
 msgstr "NTP-сервер"
 
-#: ../ntpserver.py:47
 msgid " is activated."
 msgstr "активован."
 
-#: ../ntpserver.py:51
 msgid "NTP-Server Country Selection"
 msgstr "Вибір країни NTP-серверу"
 
-#: ../ntpserver.py:78
 msgid "NTP-Server Contenant Selection"
 msgstr "Вібір континенту NTP-серверу"
 
-#: ../BackupRestore.py:73
-#: ../BackupRestore.py:88
-#: ../BackupRestore.py:90
+msgid "Update"
+msgstr "Оновлення"
+
+msgid "show Updates"
+msgstr "показати оновлення"
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr ""
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr ""
+
+msgid "Upgradable Packages"
+msgstr "Оновлювані пакети"
+
+msgid "show News"
+msgstr "показати новини"
+
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Вашу систему оновлено"
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+
+msgid "VTI custom main menu"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Execute: "
+msgstr "Виконати:"
+
+msgid "VTI ExeManager"
+msgstr "VTI менеджер *.exe"
+
+#, python-format
+msgid "File %s was not found"
+msgstr "Файл %s не було знайдено"
+
+#, python-format
+msgid "File %s is not executable"
+msgstr "Файл %s не був виконуваним"
+
+msgid "your executable"
+msgstr "ваш виконуваний файл"
+
+msgid "no"
+msgstr "ні"
+
+msgid "yes"
+msgstr "так"
+
+msgid "Add a executable to ExeManager"
+msgstr "Додати виконуваний файл в менеджер *.exe"
+
+msgid "Show command output : "
+msgstr "Показати вивід команд:"
+
+msgid "Modify execute command"
+msgstr "Модифікувати виконувані команди"
+
+msgid "Select a file to execute"
+msgstr "Выбрати файл на виконання"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "PROCESS"
+msgstr ""
+
+msgid "CPU %"
+msgstr ""
+
+msgid "MEM %"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid "MOUNTPOINT"
+msgstr ""
+
+msgid "FS"
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "KERNEL : "
+msgstr ""
+
+msgid "IMAGE : "
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "SWAP"
+msgstr ""
+
+msgid "USED :"
+msgstr ""
+
+msgid "FREE :"
+msgstr ""
+
+msgid "TOTAL :"
+msgstr ""
+
+msgid "UPTIME : "
+msgstr ""
+
+msgid "LOAD : "
+msgstr ""
+
+msgid "TEMP : "
+msgstr ""
+
+msgid "FAN : "
+msgstr ""
+
+msgid "RECEIVED"
+msgstr ""
+
+msgid "SENT"
+msgstr ""
+
+msgid "VTI EPG Panel"
+msgstr "Панель VTI EPG"
+
+msgid "EPG Path :"
+msgstr "Шлях EPG :"
+
+msgid "Save EPG cache to epg.dat"
+msgstr "Зберігти кеш EPG у epg.dat"
+
+msgid "Load EPG data from epg.dat"
+msgstr "Завантажити дані EPG з epg.dat"
+
+msgid "Delete broken epg.dat"
+msgstr ""
+
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "Збереження кешу EPG в %s завершено"
+
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "Завантаження даних EPG з %s завершено"
+
+msgid ""
+"Do you really want to delete epg.dat ?\n"
+"Note: This will restart your VU+ STB"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Verifying your internet connection..."
+msgstr ""
+
+msgid "Press OK on your remote control to continue."
+msgstr ""
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+
+msgid "Upgrading STB... Please wait"
+msgstr ""
+
+msgid "Your network is not working. Please try again."
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Upgrading"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Removing"
+msgstr ""
+
+msgid "Configuring"
+msgstr ""
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr ""
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+
+msgid "Upgrade finished."
+msgstr ""
+
+msgid "VTi Image Download"
+msgstr ""
+
+msgid "Do your really want to cancel the image download ?"
+msgstr ""
+
+msgid "Select image for flash process"
+msgstr ""
+
+msgid "Install this image"
+msgstr ""
+
+msgid "VTI Image Flash Tool"
+msgstr ""
+
+msgid " downloading available image information"
+msgstr ""
+
+msgid "Flash extracted image from storage device"
+msgstr ""
+
+#, python-format
+msgid "Image: %s"
+msgstr ""
+
+msgid "Download image from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Sorry ..."
+msgstr ""
+
+msgid "The image list can not be loaded, please be patient and try again later"
+msgstr ""
+
+msgid ""
+"This will flash the selected image without further questions.\n"
+"Your current software installation will be deleted and overwritten\n"
+"Really continue ?"
+msgstr ""
+
+msgid "Please select medium to use as image location"
+msgstr ""
+
+msgid ""
+"Error at creating download destination !\n"
+"Please select another device."
+msgstr ""
+
+msgid ""
+"There is to low free memory at choosen device\n"
+"Please select another device."
+msgstr ""
+
+#, python-format
+msgid "Download %s"
+msgstr ""
+
+msgid "Extracting image ..."
+msgstr ""
+
+msgid ""
+"Sorry, download verification failed\n"
+"Please try again."
+msgstr ""
+
+msgid "Verifying download ..."
+msgstr ""
+
+msgid ""
+"This will flash the downloaded image.\n"
+"Your current software installation will be deleted and overwritten\n"
+"If you cancel here the downloaded image will be stored and you flash it "
+"later\n"
+"Really continue ?"
+msgstr ""
+
+msgid ""
+"Sorry, necessary files are missing\n"
+"Please try again."
+msgstr ""
+
+msgid ""
+"Sorry, extracting of image failed\n"
+"Please try again."
+msgstr ""
+
+msgid "VTi Image Flash Process"
+msgstr ""
+
+msgid "Change password for VTI Panel"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Input your new VTI Panel password : "
+msgstr ""
+
+msgid "Input password for VTI Panel"
+msgstr ""
+
+msgid "Input your VTI Panel password : "
+msgstr ""
+
 msgid "VTI-Backup is running..."
 msgstr "Рез. копіювання запущено..."
 
-#: ../BackupRestore.py:93
-#: ../BackupRestore.py:95
 msgid ""
 "Sorry your backup destination is not writeable.\n"
 "Please choose an other one."
@@ -1129,247 +1550,166 @@ msgstr ""
 "Вибачте, але місцезнаходження для резервних копій недоступно для запису.\n"
 "Будь ласка, виберіть інше місцезнаходження."
 
-#: ../BackupRestore.py:112
-#: ../BackupRestore.py:192
-#: ../BackupRestore.py:321
-#: ../ExeManager.py:203
-#: ../ExeManager.py:265
-#: ../ExeManager.py:339
-#: ../CronManager.py:235
-#: ../CronManager.py:353
-#: ../CronManager.py:445
-msgid "Cancel"
-msgstr "Відмінити"
-
-#: ../BackupRestore.py:145
 msgid "VTI-Backup - Select files/folders to backup"
 msgstr "Вибір файлів та папок для рез. копіювання"
 
-#: ../BackupRestore.py:150
 msgid "Deselect"
 msgstr "Зняти виділення"
 
-#: ../BackupRestore.py:152
 msgid "Select"
 msgstr "Виділити"
 
-#: ../BackupRestore.py:193
-#: ../BackupRestore.py:322
-msgid "Restore"
-msgstr "Відновити"
-
-#: ../BackupRestore.py:194
-#: ../BackupRestore.py:323
-#: ../ExeManager.py:114
-#: ../CronManager.py:150
-msgid "Delete"
-msgstr "Видалити"
-
-#: ../BackupRestore.py:224
-#: ../BackupRestore.py:353
 msgid "VTI-Restore backups"
 msgstr "Відновлення"
 
-#: ../BackupRestore.py:242
-#: ../BackupRestore.py:371
-msgid ""
-"Are you sure you want to restore\n"
-"following backup:\n"
-msgstr ""
-"Ви впевнені, що хочете відновити\n"
-"після резервного копіювання:\n"
-
-#: ../BackupRestore.py:242
-#: ../BackupRestore.py:371
-msgid ""
-"\n"
-"System will restart after the restore!"
-msgstr ""
-"\n"
-"Систему буде перезавантажено після відновлення!"
-
-#: ../BackupRestore.py:250
-msgid "Restore running"
-msgstr "Відновлення запущено"
-
-#: ../BackupRestore.py:256
-#: ../BackupRestore.py:399
-msgid ""
-"Are you sure you want to delete\n"
-"following backup:\n"
-msgstr ""
-"Ви впевнені, що хочете видалити\n"
-"після резервного копіювання:\n"
-
-#: ../BackupRestore.py:293
-#: ../BackupRestore.py:303
 msgid "VTI-Restore is running..."
 msgstr "Відновлення запущено..."
 
-#: ../BackupRestore.py:301
 msgid "Restore is running..."
 msgstr "Відновлення запущено..."
 
-#: ../BackupRestore.py:393
+msgid "VTi Restore Image"
+msgstr ""
+
 msgid ""
 "No image found!!!! \n"
 "\n"
-"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or ultimo ."
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or "
+"ultimo ."
 msgstr ""
 "Прошивку не знайдено! \n"
 "Будь ласка, скопіюйте прошивку на USB чи в папку /media/hdd/vuplus/duo"
 
-#: ../ExeManager.py:107
-#: ../ExeManager.py:184
-msgid "Execute: "
-msgstr "Виконати:"
-
-#: ../ExeManager.py:108
-#: ../ExeManager.py:161
-msgid "VTI ExeManager"
-msgstr "VTI менеджер *.exe"
-
-#: ../ExeManager.py:115
-#: ../CronManager.py:151
-msgid "Add"
-msgstr "Додати"
-
-#: ../ExeManager.py:116
-#: ../CronManager.py:152
-msgid "Modify"
-msgstr "Модифікувати"
-
-#: ../ExeManager.py:117
-#: ../CronManager.py:153
-msgid "Execute"
-msgstr "Виконати"
-
-#: ../ExeManager.py:155
-#, python-format
-msgid "File %s was not found"
-msgstr "Файл %s не було знайдено"
-
-#: ../ExeManager.py:158
-#, python-format
-msgid "File %s is not executable"
-msgstr "Файл %s не був виконуваним"
-
-#: ../ExeManager.py:164
-#: ../CronManager.py:187
-#, python-format
-msgid "Command: %s was executed"
-msgstr "Команду: %s було виконано"
-
-#: ../ExeManager.py:195
-msgid "your executable"
-msgstr "ваш виконуваний файл"
-
-#: ../ExeManager.py:197
-#: ../ExeManager.py:259
-msgid "no"
-msgstr "ні"
-
-#: ../ExeManager.py:197
-#: ../ExeManager.py:259
-msgid "yes"
-msgstr "так"
-
-#: ../ExeManager.py:198
-msgid "Add a executable to ExeManager"
-msgstr "Додати виконуваний файл в менеджер *.exe"
-
-#: ../ExeManager.py:218
-#: ../ExeManager.py:280
-#: ../CronManager.py:250
-#: ../CronManager.py:368
-msgid "Command to execute : "
-msgstr "Команда на виконання:"
-
-#: ../ExeManager.py:219
-#: ../ExeManager.py:281
-#: ../CronManager.py:251
-msgid "Additional command options : "
-msgstr "Додаткові опції команд:"
-
-#: ../ExeManager.py:220
-#: ../ExeManager.py:282
-msgid "Show command output : "
-msgstr "Показати вивід команд:"
-
-#: ../ExeManager.py:260
-msgid "Modify execute command"
-msgstr "Модифікувати виконувані команди"
-
-#: ../ExeManager.py:334
-msgid "Select a file to execute"
-msgstr "Выбрати файл на виконання"
-
-#: ../ExeManager.py:340
-#: ../CronManager.py:446
-msgid "OK"
-msgstr "Ок"
-
-#: ../ExeManager.py:347
-#: ../ExeManager.py:418
-#: ../CronManager.py:453
-#: ../CronManager.py:524
-msgid "Invalid Choice"
-msgstr "Невірний вибір"
-
-#: ../ExeManager.py:355
-#: ../ExeManager.py:407
-#: ../CronManager.py:461
-#: ../CronManager.py:513
-msgid "File is not executable"
-msgstr "Файл не виконуваний"
-
-#: ../ExeManager.py:408
-#: ../CronManager.py:514
-msgid "chmod 755"
+msgid "[ ok ]"
 msgstr ""
 
-#: ../CronManager.py:144
-msgid "VTI CronManager"
-msgstr "VTI менеджер cron"
+#, python-format
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
 
-#: ../CronManager.py:224
-msgid "your cronjob"
-msgstr "Ваша задача cron"
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../CronManager.py:230
-msgid "Add a job to CronManager"
-msgstr "Додати задачу до менеджеру cron"
+msgid ""
+"Flash process of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../CronManager.py:252
-#: ../CronManager.py:369
-msgid "Input minute : "
-msgstr "Ввести хвилину:"
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
 
-#: ../CronManager.py:253
-#: ../CronManager.py:370
-msgid "Input hour : "
-msgstr "Ввести годину:"
+msgid "preparing backup of image"
+msgstr ""
 
-#: ../CronManager.py:254
-#: ../CronManager.py:371
-msgid "Input day : "
-msgstr "Ввести день"
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
 
-#: ../CronManager.py:255
-#: ../CronManager.py:372
-msgid "Input month : "
-msgstr "Ввести місяць:"
+msgid "The system is missing some necessary files !"
+msgstr ""
 
-#: ../CronManager.py:256
-#: ../CronManager.py:373
-msgid "Input weekday : "
-msgstr "Ввести день тижня:"
+msgid "Backup of root filesystem failed"
+msgstr ""
 
-#: ../CronManager.py:348
-msgid "Modify a CronManager job"
-msgstr "Модифікувати задачу у менеджері cron"
+msgid "backup root filesystem"
+msgstr ""
 
-#: ../CronManager.py:440
-msgid "Select a executable file for a cronjob"
-msgstr "Вибрати виконуваний файл для задачі cron"
+msgid "Error at preparing system for backup"
+msgstr ""
 
+msgid "create flashable file of root filesystem"
+msgstr ""
+
+msgid "backup of running kernel"
+msgstr ""
+
+msgid "Backup of kernel failed"
+msgstr ""
+
+msgid "Image backup finished successfully"
+msgstr ""
+
+msgid "A new skin was installed\n"
+msgstr ""
+
+msgid "Do you want to open the skin choice list?"
+msgstr ""
+
+#~ msgid "EPG path set to : %s"
+#~ msgstr "Шлях EPG встановлено в : %s"
+
+#~ msgid "Infos about your VU+Duo"
+#~ msgstr "Інформація про Ваш ресівер"
+
+#~ msgid "manage your VU+Duo"
+#~ msgstr "Управління Вашим ресівером"
+
+#~ msgid "VTI Backup Tools"
+#~ msgstr "Резервне копіювання"
+
+#~ msgid "backup or restore your settings"
+#~ msgstr "Резервне копіювання та відновлення налаштувань"
+
+#~ msgid ""
+#~ "There are no news or your\n"
+#~ "Internet connection is not ok"
+#~ msgstr ""
+#~ "Новин нема або ваше \n"
+#~ "Інтернет-підключення не в порядку"
+
+#~ msgid ""
+#~ "\n"
+#~ "Package : %s \n"
+#~ " old version : %s | new version : %s \n"
+#~ msgstr ""
+#~ "\n"
+#~ "Пакет : %s \n"
+#~ "  стара версія : %s | нова версія : %s \n"
+
+#~ msgid "Remove Skins"
+#~ msgstr "Видалити скіни"
+
+#~ msgid "choose skin to remove"
+#~ msgstr "Вибрати скін для видалення"
+
+#~ msgid "Menu "
+#~ msgstr "Меню"
+
+#~ msgid ""
+#~ " not implemented yet\n"
+#~ "\n"
+#~ "Please choose another one."
+#~ msgstr ""
+#~ " ще не здійснено\n"
+#~ "\n"
+#~ "Будь ласка виберіть іншу."
+
+#~ msgid "VTI Backup Image"
+#~ msgstr "Рез. копіювання прошивки"
+
+#~ msgid ""
+#~ "No valid Backupdestion found!!!! \n"
+#~ "\n"
+#~ "Please install an internal Harddisk first to create Backups."
+#~ msgstr ""
+#~ "Не знайдено директорію для резервного копіювання! \n"
+#~ "\n"
+#~ "Будь ласка, встановіть внутрішній жорсткий диск перш ніж запускати "
+#~ "резервне копіювання."

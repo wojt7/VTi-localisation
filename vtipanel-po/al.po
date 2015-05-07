@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VTIPanel\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-25 09:56+0100\n"
+"POT-Creation-Date: 2014-07-08 21:39+0100\n"
 "PO-Revision-Date: 2012-02-09 22:37+0100\n"
 "Last-Translator: plnick\n"
 "Language-Team: LANGUAGE <VTI>\n"
@@ -18,744 +18,356 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../EPGPanel.py:33
-msgid "/hdd"
-msgstr "/hdd"
+msgid "VTI DriverManager"
+msgstr ""
 
-#: ../EPGPanel.py:33
-msgid "/media/hdd"
-msgstr "/media/hdd"
-
-#: ../EPGPanel.py:33
-msgid "/media/usb"
-msgstr "/media/usb"
-
-#: ../EPGPanel.py:33
-msgid "/media/hdd1"
-msgstr "/media/hdd1"
-
-#: ../EPGPanel.py:33
-msgid "/media/usb1"
-msgstr "/media/usb1"
-
-#: ../EPGPanel.py:36
-msgid "VTI EPG Panel"
-msgstr "VTI EPG Panel"
-
-#: ../EPGPanel.py:42
-#: ../plugin.py:1420
 msgid "Exit"
 msgstr "Dalje"
 
-#: ../EPGPanel.py:43
-#: ../BackupRestore.py:113
-#: ../ExeManager.py:204
-#: ../ExeManager.py:266
-#: ../CronManager.py:236
-#: ../CronManager.py:354
-msgid "Save"
-msgstr "Ruaj"
+msgid "OK"
+msgstr "OK"
 
-#: ../EPGPanel.py:59
-msgid "EPG Path :"
-msgstr "Vëndndodhja e EPG :"
+msgid "not available"
+msgstr ""
 
-#: ../EPGPanel.py:60
-msgid "Save EPG cache to epg.dat"
-msgstr "Ruaj detajet e EPG në epg.dat"
+msgid "Current drivers: "
+msgstr ""
 
-#: ../EPGPanel.py:61
-msgid "Load EPG data from epg.dat"
-msgstr "Merr detajet e EPG data nga epg.dat"
+msgid "Install drivers from a local device"
+msgstr ""
 
-#: ../EPGPanel.py:73
+msgid "choose drivers from local filesystem to install"
+msgstr ""
+
+msgid "Download and install drivers from Vu+ website"
+msgstr ""
+
+msgid "choose drivers for download/install"
+msgstr ""
+
+msgid "Sorry, detection of current kernel version failed !"
+msgstr ""
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+
+msgid "Installation of drivers failed !!!"
+msgstr ""
+
+msgid "Select a drivers to install"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Anulim"
+
+msgid "Invalid Choice"
+msgstr "Zgjidhje e Pavlefshme"
+
+msgid "no valid drivers"
+msgstr ""
+
+msgid "Please wait ..."
+msgstr ""
+
+msgid " downloading available drivers information"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
 #, python-format
-msgid "EPG path set to : %s"
-msgstr "Vendos vendndodhjen e EPG  tek : %s"
+msgid "Driver : %s"
+msgstr ""
 
-#: ../EPGPanel.py:89
-#, python-format
-msgid "Saving of EPG cache to %s finished"
-msgstr "Ruajtja e EPG cache për%s përfunduar"
+msgid "choose this drivers for download"
+msgstr ""
 
-#: ../EPGPanel.py:97
-#, python-format
-msgid "Loading EPG data from %s finished"
-msgstr "Merr ë dhënat e EPG nga%s përfunduar"
+msgid "Please wait, downloading drivers: "
+msgstr ""
 
-#: ../plugin.py:84
-#: ../plugin.py:213
-#: ../plugin.py:414
-#: ../plugin.py:1490
-#: ../plugin.py:1719
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+
 msgid "Close"
 msgstr "Mbyll"
 
-#: ../plugin.py:85
-msgid "News"
-msgstr "Te rejat"
-
-#: ../plugin.py:86
-msgid "System Tools"
-msgstr "Sistemi Tools"
-
-#: ../plugin.py:87
-msgid "Cam Center"
-msgstr "Qendra e Cam"
-
-#: ../plugin.py:91
-msgid "VTI Panel"
-msgstr "Paneli i VTI"
-
-#: ../plugin.py:138
-msgid "VTI Cam Center"
-msgstr "Qendra e Cam VTI"
-
-#: ../plugin.py:138
-msgid "select or install your favourite cam"
-msgstr "zgjedh ose istalo camin e juaj te preferuar"
-
-#: ../plugin.py:139
-msgid "VTI System Info"
-msgstr "Sistemi Info i VTI"
-
-#: ../plugin.py:139
-msgid "Infos about your VU+Duo"
-msgstr "Infos rreth VU+Duo tuaj"
-
-#: ../plugin.py:140
-#: ../plugin.py:394
-msgid "VTI System Tools"
-msgstr "Sistemi Tools i VTI"
-
-#: ../plugin.py:140
-msgid "manage your VU+Duo"
-msgstr "manaxho VU+Duo tuaj"
-
-#: ../plugin.py:141
-#: ../plugin.py:370
-msgid "VTI Image Tools"
-msgstr "VTI Image Tools"
-
-#: ../plugin.py:141
-msgid "backup or flash an image"
-msgstr "backup ose flesho nje image"
-
-#: ../plugin.py:142
-#: ../plugin.py:355
-msgid "VTI Backup Tools"
-msgstr "VTI Backup Tools"
-
-#: ../plugin.py:142
-msgid "backup or restore your settings"
-msgstr "backup (rezervo) ose rivendos settingun tuaj"
-
-#: ../plugin.py:143
-msgid "manual Installer"
-msgstr "Instalimi manual"
-
-#: ../plugin.py:143
-msgid "install .tar.gz or ipkg manually"
-msgstr "Istalo .tar.gz ose ipkg manual"
-
-#: ../plugin.py:144
-msgid "Plugins"
-msgstr "Plugins"
-
-#: ../plugin.py:144
-msgid "open enigma2 Plugin Menu"
-msgstr "Hap Menu-enigma2-Plugin"
-
-#: ../plugin.py:207
-#: ../plugin.py:249
-#: ../plugin.py:400
-msgid "News about VTI"
-msgstr "Lajme e reja në lidhje me VTI"
-
-#: ../plugin.py:214
-msgid "Update"
-msgstr "Update"
-
-#: ../plugin.py:215
-#: ../plugin.py:243
-#: ../plugin.py:253
-#: ../ExeManager.py:368
-#: ../ExeManager.py:405
-#: ../ExeManager.py:411
-#: ../ExeManager.py:416
-#: ../ExeManager.py:419
-#: ../CronManager.py:474
-#: ../CronManager.py:511
-#: ../CronManager.py:517
-#: ../CronManager.py:522
-#: ../CronManager.py:525
-msgid " "
+msgid "reload package data"
 msgstr ""
 
-#: ../plugin.py:216
-#: ../plugin.py:252
-msgid "show Updates"
-msgstr "Trego Updates"
+msgid "Download or delete Software"
+msgstr ""
 
-#: ../plugin.py:240
-msgid "Upgradable Packages"
-msgstr "Paketat që mund te aktualizohen"
-
-#: ../plugin.py:244
-msgid "show News"
-msgstr "Trego te rejat"
-
-#: ../plugin.py:293
-#: ../plugin.py:296
-#: ../plugin.py:322
 msgid ""
-"There are no news or your\n"
-"Internet connection is not ok"
+"\n"
+"After pressing OK, please wait!"
 msgstr ""
-"Nuk ka lajme ose lidhja e juaj\n"
-"Internet nuk është në rregull"
+"\n"
+"Mbas shtypjes OK, ju lutem prisni!"
 
-#: ../plugin.py:317
 #, python-format
 msgid ""
-"\n"
-"Package : %s \n"
-" old version : %s | new version : %s \n"
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
 msgstr ""
-"\n"
-"Paketë : %s \n"
-" version i vjetër : %s | version i ri :% s \n"
 
-#: ../plugin.py:319
+msgid "Excecute"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Package list update"
+msgstr "Lista e Paketes update"
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr ""
+"Duke u përpjekur për të shkarkuar një listë pakete të re. Ju lutem prisni..."
+
+msgid "Error"
+msgstr "Gabim"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Ndodhi nje gabim ne paketlist. Ju lutem provojeni përsëri."
+
+msgid "Extensions"
+msgstr ""
+
+msgid "install/remove common plugins"
+msgstr ""
+
+msgid "Systemplugins"
+msgstr ""
+
+msgid "install/remove systemplugins"
+msgstr ""
+
+msgid "Skins"
+msgstr ""
+
+msgid "install/remove skins to change look of OSD"
+msgstr ""
+
+msgid "SoftCams"
+msgstr ""
+
+msgid "install/remove softcams"
+msgstr ""
+
+msgid "Configurations"
+msgstr ""
+
+msgid "install/remove configuration files for softcams"
+msgstr ""
+
+msgid "Picons"
+msgstr ""
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "install/remove channel lists"
+msgstr ""
+
+msgid "Kernel modules"
+msgstr ""
+
+msgid "install/remove kernel modules"
+msgstr ""
+
+msgid "Language packages"
+msgstr ""
+
+msgid "install/remove language packages for dvbapp2"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Execution finished.\n"
+msgstr ""
+
+msgid "Do you want to restart GUI ?"
+msgstr ""
+
+msgid "VTi ZerO"
+msgstr ""
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Restore"
+msgstr "Rivendos"
+
+msgid "Free Flash"
+msgstr ""
+
+msgid "Remove preinstalled plugins"
+msgstr ""
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr ""
+
+msgid "Remove WLAN support"
+msgstr ""
+
+msgid "remove WLAN plugins and drivers"
+msgstr ""
+
+msgid "Remove HbbTV support"
+msgstr ""
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr ""
+
+msgid "Remove samba server"
+msgstr ""
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr ""
+
+msgid "Remove USB tuner support"
+msgstr ""
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr ""
+
+msgid "Remove language files"
+msgstr ""
+
+msgid "delete translation files expect configured language"
+msgstr ""
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+
+#, python-format
+msgid "Free space at flash memory : %d MB\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Jeni te sigurte qe doni te rivendosni\n"
+"backupin e rradhes:\n"
+
 msgid ""
 "\n"
-"Your System is up to date"
+"System will restart after the restore!"
 msgstr ""
 "\n"
-"Sistemi i juaj eshte aktual"
+"Sistemi do të rinis pas rivendosjes!"
 
-#: ../plugin.py:338
-msgid "VTI Sub Menu"
-msgstr "VTI Sub Menu"
-
-#: ../plugin.py:350
-msgid "Backup system settings"
-msgstr "Backup parametrat e sistemit"
-
-#: ../plugin.py:350
-msgid "Backup your STB settings."
-msgstr "Backup  STB settings tuaj."
-
-#: ../plugin.py:351
-msgid "Restore system settings"
-msgstr "Rikthe parametrat e sistemit"
-
-#: ../plugin.py:351
-msgid "Restore your STB settings."
-msgstr "Rikthe parametrat tuaj STB."
-
-#: ../plugin.py:352
-#: ../plugin.py:368
-msgid "Advanced restore"
-msgstr "Rivendosje e avancuar"
-
-#: ../plugin.py:352
-#: ../plugin.py:368
-msgid "Restore your backups by date."
-msgstr "Rikthe backupin tuaj nga date."
-
-#: ../plugin.py:353
-#: ../plugin.py:369
-msgid "Choose backup location"
-msgstr "Zgjidhni vendin e  backup"
-
-#: ../plugin.py:353
-#: ../plugin.py:369
-msgid "Select your backup device. "
-msgstr "Zgjidh pajisjen ku ndodhet backup."
-
-#: ../plugin.py:354
-msgid "Choose backup files"
-msgstr "Zgjidhini backup files"
-
-#: ../plugin.py:354
-msgid "Select files for backup. "
-msgstr "Zgjidh files për backup."
-
-#: ../plugin.py:358
-msgid "Install .tar.gz "
-msgstr "Instalo .tar.gz "
-
-#: ../plugin.py:358
-msgid "Install all .tar.gz file form /tmp "
-msgstr "Instalo të gjitha file . tar.gz nga /tmp"
-
-#: ../plugin.py:359
-msgid "Install Ipkg"
-msgstr "Instalo Ipkg"
-
-#: ../plugin.py:359
-msgid "Install local ipkg"
-msgstr "Instalo ipkg lokale"
-
-#: ../plugin.py:360
-msgid "Advanced Ipkg Install"
-msgstr "Instalm i Avancuar i Ipkg"
-
-#: ../plugin.py:360
-msgid "Install local ipkg with --force overwrite"
-msgstr "Instalo ipkg lokale me --force overwrite"
-
-#: ../plugin.py:361
-msgid "VTI manual Addon Installer"
-msgstr "VTI manual Addon Installer"
-
-#: ../plugin.py:364
-msgid "Update Image"
-msgstr "Update Image"
-
-#: ../plugin.py:364
-msgid "Update your STB image from Internet."
-msgstr "Update STB image-tuaj nga Interneti."
-
-#: ../plugin.py:366
-msgid "Backup Image"
-msgstr "Backup Image"
-
-#: ../plugin.py:366
-msgid "Backup your running STB image."
-msgstr "backup image aktual te STB."
-
-#: ../plugin.py:367
-msgid "Restore Image"
-msgstr "Rikthe Image ne STB"
-
-#: ../plugin.py:367
-msgid "Restore your backuped STB image."
-msgstr "Rikthe image tend Backup ne STB."
-
-#: ../plugin.py:374
-msgid "Device Manager"
-msgstr "Manaxher i Pajisjeve"
-
-#: ../plugin.py:374
-msgid "manage your HDD's and USB devices"
-msgstr "manaxho pajisjet tuaja HDD dhe USB"
-
-#: ../plugin.py:376
-msgid "File Manager"
-msgstr "File Manager"
-
-#: ../plugin.py:376
-msgid "open Filemanager"
-msgstr "Hap Filemanager"
-
-#: ../plugin.py:378
-msgid "Network Browser"
-msgstr "Network Browser"
-
-#: ../plugin.py:378
-msgid "open NetworkBrowswer"
-msgstr "hap NetworkBrowser"
-
-#: ../plugin.py:379
-msgid "EPG Settings"
-msgstr "EPG Settings"
-
-#: ../plugin.py:379
-msgid "set EPG path, restore or backup EPG data"
-msgstr "vendos EPG path, ose rivendos backup EPG data"
-
-#: ../plugin.py:380
-msgid "Cronjob Manager"
-msgstr "Cronjob Manager"
-
-#: ../plugin.py:380
-msgid "manage cronjobs of your VU+"
-msgstr "manaxho cronjobs ne VU+ tuaj"
-
-#: ../plugin.py:381
-msgid "Run Command"
-msgstr "Run Command"
-
-#: ../plugin.py:381
-msgid "run executable files of your VU+"
-msgstr "run executable files of your VU+"
-
-#: ../plugin.py:382
-msgid "Set Root Password"
-msgstr "Set Root Password"
-
-#: ../plugin.py:382
-msgid "set root password of your stb"
-msgstr "set root password ne stb tuaj"
-
-#: ../plugin.py:384
-msgid "Services"
-msgstr "Services"
-
-#: ../plugin.py:384
-msgid "enable/disable Systemservices"
-msgstr "aktivizo/caktiviso Sistemservice"
-
-#: ../plugin.py:385
-msgid "USB DVB-T/C/S2 Panel"
-msgstr "USB DVB-T/C/S2 Panel"
-
-#: ../plugin.py:385
-msgid "manage Sundtek USB DVB Stick"
-msgstr "manage Sundtek USB DVB Stick"
-
-#: ../plugin.py:386
-msgid "IPK Uninstaller"
-msgstr "IPK Fshirës"
-
-#: ../plugin.py:386
-msgid "remove seletected package from stb"
-msgstr "hiqni paketë seletected nga STB"
-
-#: ../plugin.py:388
-msgid "Purge Enigma2 Crashlogs"
-msgstr "Purge Enigma2 Crashlogs"
-
-#: ../plugin.py:388
-msgid "selective wipe of enigma2 crashlogs"
-msgstr "selective wipe of enigma2 crashlogs"
-
-#: ../plugin.py:389
-msgid "Remove Skins"
-msgstr "Hiq Skins"
-
-#: ../plugin.py:389
-msgid "choose skin to remove"
-msgstr "zgjedh skinin për ta hequr"
-
-#: ../plugin.py:391
-msgid "Swapfile"
-msgstr "Swapfile"
-
-#: ../plugin.py:391
-msgid "create and manage your Swapfile"
-msgstr "krijo dhe manaxho Swapfile tuaj"
-
-#: ../plugin.py:392
-msgid "Set NTP Time"
-msgstr "Set NTP Time"
-
-#: ../plugin.py:392
-msgid "refresh time for enigma2 from ntp server"
-msgstr "fresko kohë për enigma2 nga NTP server"
-
-#: ../plugin.py:393
-msgid "Harddisk Standby"
-msgstr "Harddisk Standby"
-
-#: ../plugin.py:393
-msgid "turns hdd immediately into standby mode"
-msgstr "HDD kthehet menjëherë në standby mode"
-
-#: ../plugin.py:397
-#: ../plugin.py:1414
-msgid "Bitrate Viewer"
-msgstr "Bitrate Viewer"
-
-#: ../plugin.py:397
-msgid "Show Advanced Bitrate infos"
-msgstr "Trego info te avancuar per Bitrate"
-
-#: ../plugin.py:399
-msgid "ECM Info"
-msgstr "ECM Info"
-
-#: ../plugin.py:399
-msgid "show ecm infos from temp dir"
-msgstr "tregojnë infos ecm nga temp dir"
-
-#: ../plugin.py:400
-msgid "show Feed updates"
-msgstr "tregojnë më të reja Feed"
-
-#: ../plugin.py:401
-msgid "Show processes"
-msgstr "trego proceset"
-
-#: ../plugin.py:401
-msgid "show running processes"
-msgstr "trego proceset aktive"
-
-#: ../plugin.py:402
-msgid "Show filesystem mounts"
-msgstr "Trego filesistemet e tjera"
-
-#: ../plugin.py:402
-msgid "show active mounts"
-msgstr "Trego filesistemet e tjera aktive"
-
-#: ../plugin.py:403
-msgid "Harddisk Temperature"
-msgstr "Temperatura e Harddisk"
-
-#: ../plugin.py:403
-msgid "show HDD Temperature"
-msgstr "trego Temperatur e HDD"
-
-#: ../plugin.py:404
-msgid "Show Consolesessions"
-msgstr "Trego Consolesessions"
-
-#: ../plugin.py:404
-msgid "show all active user sessions"
-msgstr "tregojnë të gjitha seancat aktive përdoruese"
-
-#: ../plugin.py:405
-msgid "Show Uptime"
-msgstr "Trego Uptime"
-
-#: ../plugin.py:405
-msgid "show operating system uptime of stb"
-msgstr "trego kohen e  sistemit operativ të stb"
-
-#: ../plugin.py:406
-msgid "Show Networkconnections"
-msgstr "Trego lidhjet me Network"
-
-#: ../plugin.py:406
-msgid "show all connected sockets from ip-stack"
-msgstr "trego të gjith lidhjet nga ip-stack"
-
-#: ../plugin.py:407
-msgid "Show Systemmemory Info"
-msgstr "Trego Systemmemory Info"
-
-#: ../plugin.py:407
-msgid "show whole system memory usage"
-msgstr "trego përdorimin e memorjes se sistemit"
-
-#: ../plugin.py:408
-msgid "Show Networkdetails"
-msgstr "Trego Networkdetails"
-
-#: ../plugin.py:408
-msgid "shows assigned ip-adresses, routingtable and nameserver"
-msgstr "tregon IP-adresat, nameserver dhe routingtable "
-
-#: ../plugin.py:409
-msgid "Show diskspace"
-msgstr "Tregon hapesiren e diskut"
-
-#: ../plugin.py:409
-msgid "show diskpace"
-msgstr "tregon hapesiren e diskut"
-
-#: ../plugin.py:410
-msgid "Image Info"
-msgstr "Image Info"
-
-#: ../plugin.py:410
-msgid "show simple Image infos"
-msgstr "trego info te thjeshtë Image"
-
-#: ../plugin.py:411
-msgid "VTI System Infos"
-msgstr "VTI  Sistemi Infos "
-
-#: ../plugin.py:415
-msgid ""
-"\n"
-"Press OK on your remote control to continue."
+msgid "VTI BackupSuite"
 msgstr ""
-"\n"
-"Shtyp OK ne telekomand për të vazhduar."
 
-#: ../plugin.py:454
-#: ../plugin.py:483
+msgid "Backup"
+msgstr ""
+
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr ""
+
+msgid "set device for directory vti-backupsuite"
+msgstr ""
+
+msgid "Backup installed plugins"
+msgstr ""
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr ""
+
+msgid "Backup channel settings"
+msgstr ""
+
+msgid "save channel and bouquet settings"
+msgstr ""
+
+msgid "Backup configurations"
+msgstr ""
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Restore plugins from saved list"
+msgstr ""
+
+msgid "installs all available plugins from online feed"
+msgstr ""
+
+msgid "Restore channel settings"
+msgstr ""
+
+msgid "reload saved channel and bouquet settings"
+msgstr ""
+
+msgid "Restore configurations"
+msgstr ""
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Install local packages"
+msgstr ""
+
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr ""
+
+msgid "Run personal script"
+msgstr ""
+
+msgid "executes your personal backup/restore scripts"
+msgstr ""
+
 msgid "Please select medium to use as backup location"
 msgstr "Ju lutem zgjidhni pajisjen qe do perdoret si vend backup"
 
-#: ../plugin.py:463
-msgid ""
-"Are you sure you want to restore your Enigma2 backup?\n"
-"Enigma2 will restart after the restore"
+msgid "List of installed plugins was created succesfully"
 msgstr ""
-"Jeni te sigurte qe doni te rivendosni backup tuaj Enigma2?\n"
-"Enigma2 do të rifillojë pas rivendosjes"
 
-#: ../plugin.py:465
-msgid "Sorry no backups found!"
-msgstr "Na vjen keq backup nuk u gjet!"
-
-#: ../plugin.py:468
-msgid "VTI .tar.gz installer"
-msgstr "VTI .tar.gz installer"
-
-#: ../plugin.py:470
-#: ../plugin.py:472
-msgid "VTI IPK Installer"
-msgstr "VTI IPK Installer"
-
-#: ../plugin.py:489
-#: ../plugin.py:491
-#: ../plugin.py:493
-#: ../plugin.py:495
-#: ../BackupRestore.py:385
-#: ../BackupRestore.py:387
-#: ../BackupRestore.py:389
-#: ../BackupRestore.py:391
-msgid "VTI Restore Image"
-msgstr "Rikthe VTI Image"
-
-#: ../plugin.py:497
-msgid ""
-"No image found!!!! \n"
-"\n"
-"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgid "Creating list of installed plugins failed"
 msgstr ""
-"image nuk ugjet!!!!\n"
-"\n"
-"Ju lutem kopjoni image usb ose rivendos image për /media/HDD/vuplus/MODEL ."
 
-#: ../plugin.py:499
-msgid "Menu "
-msgstr "Menu "
-
-#: ../plugin.py:499
-msgid ""
-" not implemented yet\n"
-"\n"
-"Please choose another one."
+msgid "Settings backup finished succesfully"
 msgstr ""
-"akoma nuk është implementuar\n"
-"\n"
-"Ju lutem zgjidhni një tjetër."
 
-#: ../plugin.py:503
-msgid "VTI Backup Image"
-msgstr "VTI Backup Image"
-
-#: ../plugin.py:505
-msgid ""
-"No valid Backupdestion found!!!! \n"
-"\n"
-"Please install an internal Harddisk first to create Backups."
+msgid "Backup settings failed"
 msgstr ""
-"Asnjë Backupdestion e vlefshme nuk u gjet!!!!\n"
-"\n"
-"Ju lutem instaloni një harddisk të brendshme  për të krijuar Backups."
 
-#: ../plugin.py:514
-msgid ""
-"The Device Manager is not installed!\n"
-"Please install it."
+msgid "Common configuration backup finished succesfully"
 msgstr ""
-"Device Manager nuk është e instaluar!\n"
-"Ju lutemi instaloni atë."
 
-#: ../plugin.py:522
-msgid ""
-"The FileManager is not installed!\n"
-"Please install it."
+msgid "Backup of common configurations failed"
 msgstr ""
-"FileManager nuk është e instaluar!\n"
-"Ju lutemi instaloni atë."
 
-#: ../plugin.py:530
-msgid ""
-"The NetworkBrowser is not installed!\n"
-"Please install it."
-msgstr ""
-"NetworkBrowser nuk është e instaluar!\n"
-"Ju lutemi instaloni atë."
-
-#: ../plugin.py:563
-msgid "VTI Harddisk Standbymode"
-msgstr "VTI Harddisk Standbymode"
-
-#: ../plugin.py:568
-msgid "VTI show ecm.info"
-msgstr "VTI trego ecm.info"
-
-#: ../plugin.py:570
-msgid "VTI show running processes"
-msgstr "VTI trego drejtimin e proceseve"
-
-#: ../plugin.py:574
-msgid "VTI show mounted filesystems"
-msgstr "VTI trego montuar Filesystem"
-
-#: ../plugin.py:576
-msgid "VTI show networkconfiguration and routingtable"
-msgstr "VTI trego konfigurimin e rrjetit dhe tabela kurs"
-
-#: ../plugin.py:579
-msgid "Harddiskmanufacturer, Type and it's Temperature :"
-msgstr "Prodhuesi Hard Disk, Lloji dhe temperatura e tij :"
-
-#: ../plugin.py:579
-msgid "Are you sure to set hdd in standby mode?"
-msgstr "A jeni i sigurt për të vendosur HDD në standby mode?"
-
-#: ../plugin.py:580
-msgid "HDD Temperature"
-msgstr "Temperatura e HDD"
-
-#: ../plugin.py:582
-msgid ""
-"No internal Harddisk detected!!!! \n"
-"\n"
-"Please install an internal Harddisk first to be in a position to check harddisk temperature."
-msgstr ""
-"Ska harddisk i brendshme i zbuluar!!!! \n"
-"\n"
-"Ju lutem instaloni një harddisk të brendshme qe te jete ne gjendtje te kontrolloj temperaturen. "
-
-#: ../plugin.py:584
-msgid "Active Usersessions :"
-msgstr "Sesionet Aktive te përdorues :"
-
-#: ../plugin.py:586
-msgid "Current Time, Operating Time and Load Average :"
-msgstr "Koha e tanishme, Koha Operative dhe Mesatarja e Ngarkeses :  "
-
-#: ../plugin.py:587
-msgid "Uptime"
-msgstr "Uptime"
-
-#: ../plugin.py:590
-msgid "VTI show network stats"
-msgstr "VTI tregon gjendjen e networkut"
-
-#: ../plugin.py:592
-msgid "Current Memory Usage :"
-msgstr "Perdorimi i Tanishëm i Kujteses :"
-
-#: ../plugin.py:593
-msgid "Memory Usage"
-msgstr "Perdirimi i memories"
-
-#: ../plugin.py:595
-msgid "VTI show free diskspace"
-msgstr "VTI tregon vendin e lir ne disk"
-
-#: ../plugin.py:599
-msgid ""
-"Menu not implemented yet!!!! \n"
-"\n"
-"feel free to code this menu now ;)"
-msgstr ""
-"Menu akoma nuk është e implementuar!!!! \n"
-"\n"
-"tani kodo perdorimin e menus ;)"
-
-#: ../plugin.py:602
-msgid "Install/update finished."
-msgstr "Install/update mbaroi."
-
-#: ../plugin.py:602
-msgid "Do you want to reboot your STB?"
-msgstr "A doni ta ristartoni STB tuaj?"
-
-#: ../plugin.py:634
-#: ../plugin.py:643
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
 "\n"
@@ -765,319 +377,737 @@ msgstr ""
 "\n"
 "Ju lutem zgjidhni një tjetër."
 
-#: ../plugin.py:647
+msgid "Delete"
+msgstr "Fshij"
+
+msgid "Restoring settings finished successfully"
+msgstr ""
+
+msgid "Restoring settings failed"
+msgstr ""
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr ""
+
+msgid "Restore running"
+msgstr "Rivendos punimin"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Jeni te sigurte qe doni te fshini\n"
+"pas backup:\n"
+
+msgid "Software"
+msgstr ""
+
+msgid "News"
+msgstr "Te rejat"
+
+msgid "System Tools"
+msgstr "Sistemi Tools"
+
+msgid "Cam Center"
+msgstr "Qendra e Cam"
+
+msgid "VTI Panel"
+msgstr "Paneli i VTI"
+
+msgid "VTI Cam Center"
+msgstr "Qendra e Cam VTI"
+
+msgid "select or install your favourite cam"
+msgstr "zgjedh ose istalo camin e juaj te preferuar"
+
+msgid "VTI System Info"
+msgstr "Sistemi Info i VTI"
+
+msgid "Infos about your Vu+ STB"
+msgstr ""
+
+msgid "VTI System Tools"
+msgstr "Sistemi Tools i VTI"
+
+msgid "manage your Vu+ STB"
+msgstr ""
+
+msgid "VTI Software Tools"
+msgstr ""
+
+msgid "backup/restore or install software"
+msgstr ""
+
+msgid "VTI Software Manager"
+msgstr ""
+
+msgid "install/download software for your Vu+"
+msgstr ""
+
+msgid "manual Installer"
+msgstr "Instalimi manual"
+
+msgid "install .tar.gz or ipkg manually"
+msgstr "Istalo .tar.gz ose ipkg manual"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "open enigma2 Plugin Menu"
+msgstr "Hap Menu-enigma2-Plugin"
+
+msgid "VTI Sub Menu"
+msgstr "VTI Sub Menu"
+
+msgid "Restore and backup installed channellist and plugins"
+msgstr ""
+
+msgid "Image Backup / Restore"
+msgstr ""
+
+msgid "backup or flash an image"
+msgstr "backup ose flesho nje image"
+
+msgid "Image Flash Tool"
+msgstr ""
+
+msgid "download images from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Driver Manager"
+msgstr ""
+
+msgid "install/download driver for your Vu+"
+msgstr ""
+
+msgid "Expert Backup / Restore"
+msgstr ""
+
+msgid "backup or restore your settings (only for experts)"
+msgstr ""
+
+msgid "Install .tar.gz "
+msgstr "Instalo .tar.gz "
+
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Instalo të gjitha file . tar.gz nga /tmp"
+
+msgid "Install Ipkg"
+msgstr "Instalo Ipkg"
+
+msgid "Install local ipkg"
+msgstr "Instalo ipkg lokale"
+
+msgid "Advanced Ipkg Install"
+msgstr "Instalm i Avancuar i Ipkg"
+
+msgid "Install local ipkg with --force overwrite"
+msgstr "Instalo ipkg lokale me --force overwrite"
+
+msgid "VTI manual Addon Installer"
+msgstr "VTI manual Addon Installer"
+
+msgid "Update Image"
+msgstr "Update Image"
+
+msgid "Update your STB image from Internet."
+msgstr "Update STB image-tuaj nga Interneti."
+
+msgid "VTI Image Tools"
+msgstr "VTI Image Tools"
+
+msgid "Device Manager"
+msgstr "Manaxher i Pajisjeve"
+
+msgid "manage your HDD's and USB devices"
+msgstr "manaxho pajisjet tuaja HDD dhe USB"
+
+msgid "File Manager"
+msgstr "File Manager"
+
+msgid "open Filemanager"
+msgstr "Hap Filemanager"
+
+msgid "Network Browser"
+msgstr "Network Browser"
+
+msgid "open NetworkBrowswer"
+msgstr "hap NetworkBrowser"
+
+msgid "Remove preinstalled packages from image"
+msgstr ""
+
+msgid "EPG Settings"
+msgstr "EPG Settings"
+
+msgid "set EPG path, restore or backup EPG data"
+msgstr "vendos EPG path, ose rivendos backup EPG data"
+
+msgid "Custom Main Menu"
+msgstr ""
+
+msgid "delete entries from main menu of your VU+"
+msgstr ""
+
+msgid "Cronjob Manager"
+msgstr "Cronjob Manager"
+
+msgid "manage cronjobs of your VU+"
+msgstr "manaxho cronjobs ne VU+ tuaj"
+
+msgid "Run Command"
+msgstr "Run Command"
+
+msgid "run executable files of your VU+"
+msgstr "run executable files of your VU+"
+
+msgid "Set VTI Panel Password"
+msgstr ""
+
+msgid "activate/change password for VTI Panel"
+msgstr ""
+
+msgid "Set Root Password"
+msgstr "Set Root Password"
+
+msgid "set root password of your stb"
+msgstr "set root password ne stb tuaj"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "enable/disable Systemservices"
+msgstr "aktivizo/caktiviso Sistemservice"
+
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "USB DVB-T/C/S2 Panel"
+
+msgid "manage Sundtek USB DVB Stick"
+msgstr "manage Sundtek USB DVB Stick"
+
+msgid "Remove WebBrowser"
+msgstr ""
+
+msgid "removes WebBrowser and dependencies"
+msgstr ""
+
+msgid "Remove Opera HbbTV"
+msgstr ""
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr ""
+
+msgid "IPK Uninstaller"
+msgstr "IPK Fshirës"
+
+msgid "remove seletected package from stb"
+msgstr "hiqni paketë seletected nga STB"
+
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Purge Enigma2 Crashlogs"
+
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "selective wipe of enigma2 crashlogs"
+
+msgid "Swapfile"
+msgstr "Swapfile"
+
+msgid "create and manage your Swapfile"
+msgstr "krijo dhe manaxho Swapfile tuaj"
+
+msgid "Set NTP Time"
+msgstr "Set NTP Time"
+
+msgid "refresh time for enigma2 from ntp server"
+msgstr "fresko kohë për enigma2 nga NTP server"
+
+msgid "Harddisk Standby"
+msgstr "Harddisk Standby"
+
+msgid "turns hdd immediately into standby mode"
+msgstr "HDD kthehet menjëherë në standby mode"
+
+msgid "Bitrate Viewer"
+msgstr "Bitrate Viewer"
+
+msgid "Show Advanced Bitrate infos"
+msgstr "Trego info te avancuar per Bitrate"
+
+msgid "ECM Info"
+msgstr "ECM Info"
+
+msgid "show ecm infos from temp dir"
+msgstr "tregojnë infos ecm nga temp dir"
+
+msgid "News about VTI"
+msgstr "Lajme e reja në lidhje me VTI"
+
+msgid "show Feed updates"
+msgstr "tregojnë më të reja Feed"
+
+msgid "Info about current system"
+msgstr ""
+
+msgid "show information about processes, load, mounts ..."
+msgstr ""
+
+msgid "Show processes"
+msgstr "trego proceset"
+
+msgid "show running processes"
+msgstr "trego proceset aktive"
+
+msgid "Show filesystem mounts"
+msgstr "Trego filesistemet e tjera"
+
+msgid "show active mounts"
+msgstr "Trego filesistemet e tjera aktive"
+
+msgid "Harddisk Temperature"
+msgstr "Temperatura e Harddisk"
+
+msgid "show HDD Temperature"
+msgstr "trego Temperatur e HDD"
+
+msgid "Show Consolesessions"
+msgstr "Trego Consolesessions"
+
+msgid "show all active user sessions"
+msgstr "tregojnë të gjitha seancat aktive përdoruese"
+
+msgid "Show Uptime"
+msgstr "Trego Uptime"
+
+msgid "show operating system uptime of stb"
+msgstr "trego kohen e  sistemit operativ të stb"
+
+msgid "Show Networkconnections"
+msgstr "Trego lidhjet me Network"
+
+msgid "show all connected sockets from ip-stack"
+msgstr "trego të gjith lidhjet nga ip-stack"
+
+msgid "Show Systemmemory Info"
+msgstr "Trego Systemmemory Info"
+
+msgid "show whole system memory usage"
+msgstr "trego përdorimin e memorjes se sistemit"
+
+msgid "Show Networkdetails"
+msgstr "Trego Networkdetails"
+
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "tregon IP-adresat, nameserver dhe routingtable "
+
+msgid "Show diskspace"
+msgstr "Tregon hapesiren e diskut"
+
+msgid "show diskpace"
+msgstr "tregon hapesiren e diskut"
+
+msgid "Image Info"
+msgstr "Image Info"
+
+msgid "show simple Image infos"
+msgstr "trego info te thjeshtë Image"
+
+msgid "VTI System Infos"
+msgstr "VTI  Sistemi Infos "
+
+msgid "VTI Backupsuite"
+msgstr ""
+
+msgid "Backup installed channellist and plugins"
+msgstr ""
+
+msgid "Restore installed channellist and plugins"
+msgstr ""
+
+msgid "Backup Image"
+msgstr "Backup Image"
+
+msgid "Backup your running STB image."
+msgstr "backup image aktual te STB."
+
+msgid "Restore Image"
+msgstr "Rikthe Image ne STB"
+
+msgid "Restore your backuped STB image."
+msgstr "Rikthe image tend Backup ne STB."
+
+msgid "Choose backup location"
+msgstr "Zgjidhni vendin e  backup"
+
+msgid "Select your backup device. "
+msgstr "Zgjidh pajisjen ku ndodhet backup."
+
+msgid "VTI Image Backup/Restore"
+msgstr ""
+
+msgid "Backup system settings"
+msgstr "Backup parametrat e sistemit"
+
+msgid "Backup your STB settings."
+msgstr "Backup  STB settings tuaj."
+
+msgid "Restore system settings"
+msgstr "Rikthe parametrat e sistemit"
+
+msgid "Restore your STB settings."
+msgstr "Rikthe parametrat tuaj STB."
+
+msgid "Advanced restore"
+msgstr "Rivendosje e avancuar"
+
+msgid "Restore your backups by date."
+msgstr "Rikthe backupin tuaj nga date."
+
+msgid "Choose backup files"
+msgstr "Zgjidhini backup files"
+
+msgid "Select files for backup. "
+msgstr "Zgjidh files për backup."
+
+msgid "VTI Expert Backup/Restore"
+msgstr ""
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Shtyp OK ne telekomand për të vazhduar."
+
+msgid "VTI .tar.gz installer"
+msgstr "VTI .tar.gz installer"
+
+msgid "VTI IPK Installer"
+msgstr "VTI IPK Installer"
+
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Device Manager nuk është e instaluar!\n"
+"Ju lutemi instaloni atë."
+
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"FileManager nuk është e instaluar!\n"
+"Ju lutemi instaloni atë."
+
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"NetworkBrowser nuk është e instaluar!\n"
+"Ju lutemi instaloni atë."
+
+msgid "VTI Harddisk Standbymode"
+msgstr "VTI Harddisk Standbymode"
+
+msgid "VTI show ecm.info"
+msgstr "VTI trego ecm.info"
+
+msgid "VTI show running processes"
+msgstr "VTI trego drejtimin e proceseve"
+
+msgid "VTI show mounted filesystems"
+msgstr "VTI trego montuar Filesystem"
+
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "VTI trego konfigurimin e rrjetit dhe tabela kurs"
+
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "Prodhuesi Hard Disk, Lloji dhe temperatura e tij :"
+
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "A jeni i sigurt për të vendosur HDD në standby mode?"
+
+msgid "HDD Temperature"
+msgstr "Temperatura e HDD"
+
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check "
+"harddisk temperature."
+msgstr ""
+"Ska harddisk i brendshme i zbuluar!!!! \n"
+"\n"
+"Ju lutem instaloni një harddisk të brendshme qe te jete ne gjendtje te "
+"kontrolloj temperaturen. "
+
+msgid "Active Usersessions :"
+msgstr "Sesionet Aktive te përdorues :"
+
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Koha e tanishme, Koha Operative dhe Mesatarja e Ngarkeses :  "
+
+msgid "Uptime"
+msgstr "Uptime"
+
+msgid "VTI show network stats"
+msgstr "VTI tregon gjendjen e networkut"
+
+msgid "Current Memory Usage :"
+msgstr "Perdorimi i Tanishëm i Kujteses :"
+
+msgid "Memory Usage"
+msgstr "Perdirimi i memories"
+
+msgid "VTI show free diskspace"
+msgstr "VTI tregon vendin e lir ne disk"
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Jeni te sigurte qe doni te rivendosni backup tuaj Enigma2?\n"
+"Enigma2 do të rifillojë pas rivendosjes"
+
+msgid "Sorry no backups found!"
+msgstr "Na vjen keq backup nuk u gjet!"
+
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Menu akoma nuk është e implementuar!!!! \n"
+"\n"
+"tani kodo perdorimin e menus ;)"
+
+msgid "Install/update finished."
+msgstr "Install/update mbaroi."
+
+msgid "Do you want to reboot your STB?"
+msgstr "A doni ta ristartoni STB tuaj?"
+
+msgid "VTI Restore Image"
+msgstr "Rikthe VTI Image"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"image nuk ugjet!!!!\n"
+"\n"
+"Ju lutem kopjoni image usb ose rivendos image për /media/HDD/vuplus/MODEL ."
+
 msgid "VTI-Backup done."
 msgstr "VTI-Backup u bë."
 
-#: ../plugin.py:649
 msgid "VTI-Backup failed."
 msgstr "VTI-Backup dështoi."
 
-#: ../plugin.py:667
 msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
 msgstr "Nuk ekziston asnjë Harddisk ose Harddisk me kapacitet S.M.A.R.T"
 
-#: ../plugin.py:673
 msgid "At"
 msgstr "Në"
 
-#: ../plugin.py:677
 msgid "Could not grep Uptime Information from busybox"
 msgstr "Nuk munde te marri Informacionin e Uptime nga busybox"
 
-#: ../plugin.py:689
 msgid "Could not grep socket information from busybox"
 msgstr "Nuk munde te marr informacion socketi nga busybox"
 
-#: ../plugin.py:701
 msgid "Could not grep Memory Usage information from busybox"
 msgstr "Nuk munde te marr informacion perdirm Memorje nga busybox"
 
-#: ../plugin.py:737
-#: ../plugin.py:802
 msgid "VTI Status List Menu"
 msgstr "Lista e Statusit VTI Menu"
 
-#: ../plugin.py:744
 msgid "Stop Swap"
 msgstr "Stop Swap"
 
-#: ../plugin.py:745
 msgid "Start Swap"
 msgstr "Start Swap"
 
-#: ../plugin.py:750
 msgid "VTI SwapFile Menu"
 msgstr "VTI SwapFile Menu"
 
-#: ../plugin.py:753
 msgid "Stop"
 msgstr "Stop"
 
-#: ../plugin.py:754
-msgid "Start"
-msgstr "Start"
-
-#: ../plugin.py:755
 msgid "Restart"
 msgstr "Restart"
 
-#: ../plugin.py:758
 msgid "VTI Services Menu"
 msgstr "VTI Menu e Serviseve"
 
-#: ../plugin.py:761
 msgid "Uninstall"
 msgstr "C' instalim"
 
-#: ../plugin.py:762
 msgid "Force uninst."
 msgstr "C' instalim me Force"
 
-#: ../plugin.py:767
 msgid "VTI IPK Uninstaller Menu"
 msgstr "Menuja e C' instalim VTI IPK"
 
-#: ../plugin.py:770
 msgid "Remove Skin"
 msgstr "Hiq Skinin"
 
-#: ../plugin.py:777
 msgid "VTI Skinremove Menu"
 msgstr "Menuja e heqjes te Skinit ne VTI"
 
-#: ../plugin.py:780
 msgid "Remove selected"
 msgstr "Hiq të zgjedhuat"
 
-#: ../plugin.py:781
 msgid "Remove all"
 msgstr "Hiq të gjitha"
 
-#: ../plugin.py:782
 msgid "Remove older 7 Days"
 msgstr "Hiq me te vjeter mbi 7 Ditë"
 
-#: ../plugin.py:785
 msgid "VTI Crashlogremove Menu"
 msgstr "VTI Crashlogremove Menu"
 
-#: ../plugin.py:789
-msgid "Ok"
-msgstr "Ok"
-
-#: ../plugin.py:795
-#: ../plugin.py:1087
 msgid "VTI USB DVB-Panel"
 msgstr "VTI USB DVB-Panel"
 
-#: ../plugin.py:798
-#: ../plugin.py:799
-#: ../plugin.py:800
-#: ../plugin.py:801
 msgid "not in use"
 msgstr "jo në përdorim"
 
-#: ../plugin.py:1014
 msgid "MB swapfile on "
 msgstr "MB swapfile gati"
 
-#: ../plugin.py:1029
 msgid "Are you sure to delete swapfile ?"
 msgstr "A jeni i sigurt për të fshir swapfile ?"
 
-#: ../plugin.py:1031
 #, python-format
 msgid "Are you sure to %s ?"
 msgstr "A jeni i sigurt për të %s ?"
 
-#: ../plugin.py:1038
 msgid "VTI Start Service"
 msgstr "VTI Sherbim Nis"
 
-#: ../plugin.py:1040
 msgid "VTI Stop Service"
 msgstr "VTI Sherbim Ndal"
 
-#: ../plugin.py:1042
 msgid "VTI Restart Service"
 msgstr "VTI Sherbim Rinis"
 
-#: ../plugin.py:1059
 msgid "VTI Skinremoval"
 msgstr "VTI Heqje Skin"
 
-#: ../plugin.py:1067
-#: ../plugin.py:1069
 msgid "VTI Remove Enigma2 Crashlog"
 msgstr "VTI Heq Enigma2 Crashlog"
 
-#: ../plugin.py:1080
 msgid "Deleted Crashlogs older 7 Days..."
 msgstr "Fshini Crashlogs që  janë mete vjetra se  7 Dit..."
 
-#: ../plugin.py:1121
 msgid "stopping swap for "
 msgstr "ndalo swap për"
 
-#: ../plugin.py:1121
 msgid "swapfile was deleted successfully"
 msgstr "swapfile u fshi me sukses"
 
-#: ../plugin.py:1122
-#: ../plugin.py:1138
 msgid "VTI create SwapFile"
 msgstr "VTI krijo SwapFile"
 
-#: ../plugin.py:1124
 msgid "no swapfile active..."
 msgstr "swapfile jo aktiv..."
 
-#: ../plugin.py:1136
 msgid "swapfile was created successfully"
 msgstr "swapfile u krijua me sukses"
 
-#: ../plugin.py:1158
 msgid "VTI IPK Uninstall"
 msgstr "VTI IPK C' instalim"
 
-#: ../plugin.py:1164
 msgid "VTI IPK Uninstall ignore depencies"
 msgstr "VTI IPK C' instalim me force"
 
-#: ../plugin.py:1172
 msgid "Stop Cam"
 msgstr "Ndalo Cam"
 
-#: ../plugin.py:1173
 msgid "Start Cam"
 msgstr "Nis Cam"
 
-#: ../plugin.py:1174
 msgid "Restart Cam"
 msgstr "Rinis Cam"
 
-#: ../plugin.py:1175
 msgid "Manage Cams"
 msgstr "Manaxho Cam"
 
-#: ../plugin.py:1176
 msgid "Select Cam and press OK to activate"
 msgstr "Zgjidh Cam dhe shtyp OK per ta aktivizuar"
 
-#: ../plugin.py:1337
 msgid "NO CAM ACTIVE !!! Cant restart current cam "
 msgstr "JO CAM Aktiv !!! nuk mundem te rinis camin aktual"
 
-#: ../plugin.py:1346
 msgid "cam info : "
 msgstr "cam info : "
 
-#: ../plugin.py:1346
 msgid " -- "
 msgstr " -- "
 
-#: ../plugin.py:1355
 msgid "Starting cam : "
 msgstr "Nis cam :"
 
-#: ../plugin.py:1363
 msgid "Stopping cam : "
 msgstr "Ndalo cam :"
 
-#: ../plugin.py:1365
 msgid "Restarting cam : "
 msgstr "Rinis cam :"
 
-#: ../plugin.py:1421
 msgid "Video"
 msgstr "Video"
 
-#: ../plugin.py:1422
 msgid "Audio"
 msgstr "Audio"
 
-#: ../plugin.py:1423
 msgid "Min"
 msgstr "Min"
 
-#: ../plugin.py:1424
 msgid "Max"
 msgstr "Max"
 
-#: ../plugin.py:1425
 msgid "Current"
 msgstr "Aktual"
 
-#: ../plugin.py:1426
 msgid "Average"
 msgstr "Mesatare"
 
-#: ../plugin.py:1491
 msgid "Reload"
 msgstr "Rifresko"
 
-#: ../plugin.py:1492
 msgid "Download or delete Cam"
 msgstr "Shkarko ose fshini Cam"
 
-#: ../plugin.py:1508
-msgid ""
-"\n"
-"After pressing OK, please wait!"
-msgstr ""
-"\n"
-"Mbas shtypjes OK, ju lutem prisni!"
-
-#: ../plugin.py:1551
-msgid "Trying to download a new packetlist. Please wait..."
-msgstr "Duke u përpjekur për të shkarkuar një listë pakete të re. Ju lutem prisni..."
-
-#: ../plugin.py:1551
-msgid "Package list update"
-msgstr "Lista e Paketes update"
-
-#: ../plugin.py:1555
-msgid "There was an error downloading the packetlist. Please try again."
-msgstr "Ndodhi nje gabim ne paketlist. Ju lutem provojeni përsëri."
-
-#: ../plugin.py:1555
-msgid "Error"
-msgstr "Gabim"
-
-#: ../plugin.py:1580
 msgid "Do you want to remove the package:\n"
 msgstr "A doni të hiqni paketen:\n"
 
-#: ../plugin.py:1584
 msgid "Do you want to upgrade the package:\n"
 msgstr "A doni të aktualizoni paketën e:\n"
 
-#: ../plugin.py:1588
 msgid "Do you want to install the package:\n"
 msgstr "A doni të instaloni paketën:\n"
 
-#: ../plugin.py:1707
 msgid "Change Root Password"
 msgstr "Ndrysho Fjalkalimin Root"
 
-#: ../plugin.py:1720
 msgid "Set Password"
 msgstr "Vendos Fjalëkalimin"
 
-#: ../plugin.py:1721
 msgid "new Random"
 msgstr "Random i ri"
 
-#: ../plugin.py:1722
 msgid "virt. Keyboard"
 msgstr "Tastatur. virtuale"
 
-#: ../plugin.py:1742
 msgid "Enter new Password"
 msgstr "Shkruani fjalëkalim e ri"
 
-#: ../plugin.py:1758
 #, python-format
 msgid ""
 "Sucessfully changed password for root user to:\n"
@@ -1086,42 +1116,432 @@ msgstr ""
 "U Ndryshuar me sukses fjalëkalimin për perdoruesin root te:\n"
 "%s "
 
-#: ../plugin.py:1760
 msgid "Unable to change/reset password for root user"
-msgstr "E pamundur për të ndryshuar/rivendosur fjalëkalimin për perdoruesin root "
+msgstr ""
+"E pamundur për të ndryshuar/rivendosur fjalëkalimin për perdoruesin root "
 
-#: ../plugin.py:1782
 msgid "Enter your password here:"
 msgstr "Fusni fjalëkalimin tuaj këtu:"
 
-#: ../plugin.py:1861
+msgid "Software Update"
+msgstr ""
+
 msgid "Manage your VU+ Team Image"
 msgstr "Manaxho VU+ Team Image tuaj"
 
-#: ../ntpserver.py:47
+msgid "VTI CronManager"
+msgstr "VTI CronManaxher"
+
+msgid "Add"
+msgstr "Shto"
+
+msgid "Modify"
+msgstr "Modifikoj"
+
+msgid "Execute"
+msgstr "Zbatoj"
+
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Komanda: %s u ekzekutua"
+
+msgid "your cronjob"
+msgstr "cronjob i juaj"
+
+msgid "Add a job to CronManager"
+msgstr "Shto një punë për CronManager"
+
+msgid "Save"
+msgstr "Ruaj"
+
+msgid "Command to execute : "
+msgstr "Komanda për të ekzekutuar :"
+
+msgid "Additional command options : "
+msgstr "Opsione komandë shtesë :"
+
+msgid "Input minute : "
+msgstr "Input minute : "
+
+msgid "Input hour : "
+msgstr "Input ora :"
+
+msgid "Input day : "
+msgstr "Input dite :"
+
+msgid "Input month : "
+msgstr "Input muaj :"
+
+msgid "Input weekday : "
+msgstr "Input jave :"
+
+msgid "Modify a CronManager job"
+msgstr "Modifiko një punë CronManager"
+
+msgid "Select a executable file for a cronjob"
+msgstr "Zgjidh një file ekzekutueshme për një cronjob"
+
+msgid "File is not executable"
+msgstr "File nuk është e ekzekutueshme"
+
+msgid " "
+msgstr ""
+
+msgid "chmod 755"
+msgstr "chmod 755"
+
 msgid "NTP server "
 msgstr "NTP server "
 
-#: ../ntpserver.py:47
 msgid " is activated."
 msgstr "është  aktivizuar."
 
-#: ../ntpserver.py:51
 msgid "NTP-Server Country Selection"
 msgstr "NTP-Server Përzgjedh Vendin"
 
-#: ../ntpserver.py:78
 msgid "NTP-Server Contenant Selection"
 msgstr "NTP-Server Perzgjedh Contenant"
 
-#: ../BackupRestore.py:73
-#: ../BackupRestore.py:88
-#: ../BackupRestore.py:90
+msgid "Update"
+msgstr "Update"
+
+msgid "show Updates"
+msgstr "Trego Updates"
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr ""
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr ""
+
+msgid "Upgradable Packages"
+msgstr "Paketat që mund te aktualizohen"
+
+msgid "show News"
+msgstr "Trego te rejat"
+
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Sistemi i juaj eshte aktual"
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+
+msgid "VTI custom main menu"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Execute: "
+msgstr "Zbatoj:"
+
+msgid "VTI ExeManager"
+msgstr "VTI ExeManager"
+
+#, python-format
+msgid "File %s was not found"
+msgstr "File %s nuk u gjet"
+
+#, python-format
+msgid "File %s is not executable"
+msgstr "File %s nuk është e ekzekutueshme"
+
+msgid "your executable"
+msgstr "ekzekutuesi juaj"
+
+msgid "no"
+msgstr "jo"
+
+msgid "yes"
+msgstr "po"
+
+msgid "Add a executable to ExeManager"
+msgstr "Shto një ekzekutues në ExeManager"
+
+msgid "Show command output : "
+msgstr "Trego komandën output :"
+
+msgid "Modify execute command"
+msgstr "Modifiko komandën ekzekutuse"
+
+msgid "Select a file to execute"
+msgstr "Zgjidh një file për ta ekzekutuar"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "PROCESS"
+msgstr ""
+
+msgid "CPU %"
+msgstr ""
+
+msgid "MEM %"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid "MOUNTPOINT"
+msgstr ""
+
+msgid "FS"
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "KERNEL : "
+msgstr ""
+
+msgid "IMAGE : "
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "SWAP"
+msgstr ""
+
+msgid "USED :"
+msgstr ""
+
+msgid "FREE :"
+msgstr ""
+
+msgid "TOTAL :"
+msgstr ""
+
+msgid "UPTIME : "
+msgstr ""
+
+msgid "LOAD : "
+msgstr ""
+
+msgid "TEMP : "
+msgstr ""
+
+msgid "FAN : "
+msgstr ""
+
+msgid "RECEIVED"
+msgstr ""
+
+msgid "SENT"
+msgstr ""
+
+msgid "VTI EPG Panel"
+msgstr "VTI EPG Panel"
+
+msgid "EPG Path :"
+msgstr "Vëndndodhja e EPG :"
+
+msgid "Save EPG cache to epg.dat"
+msgstr "Ruaj detajet e EPG në epg.dat"
+
+msgid "Load EPG data from epg.dat"
+msgstr "Merr detajet e EPG data nga epg.dat"
+
+msgid "Delete broken epg.dat"
+msgstr ""
+
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "Ruajtja e EPG cache për%s përfunduar"
+
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "Merr ë dhënat e EPG nga%s përfunduar"
+
+msgid ""
+"Do you really want to delete epg.dat ?\n"
+"Note: This will restart your VU+ STB"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Verifying your internet connection..."
+msgstr ""
+
+msgid "Press OK on your remote control to continue."
+msgstr ""
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+
+msgid "Upgrading STB... Please wait"
+msgstr ""
+
+msgid "Your network is not working. Please try again."
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Upgrading"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Removing"
+msgstr ""
+
+msgid "Configuring"
+msgstr ""
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr ""
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+
+msgid "Upgrade finished."
+msgstr ""
+
+msgid "VTi Image Download"
+msgstr ""
+
+msgid "Do your really want to cancel the image download ?"
+msgstr ""
+
+msgid "Select image for flash process"
+msgstr ""
+
+msgid "Install this image"
+msgstr ""
+
+msgid "VTI Image Flash Tool"
+msgstr ""
+
+msgid " downloading available image information"
+msgstr ""
+
+msgid "Flash extracted image from storage device"
+msgstr ""
+
+#, python-format
+msgid "Image: %s"
+msgstr ""
+
+msgid "Download image from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Sorry ..."
+msgstr ""
+
+msgid "The image list can not be loaded, please be patient and try again later"
+msgstr ""
+
+msgid ""
+"This will flash the selected image without further questions.\n"
+"Your current software installation will be deleted and overwritten\n"
+"Really continue ?"
+msgstr ""
+
+msgid "Please select medium to use as image location"
+msgstr ""
+
+msgid ""
+"Error at creating download destination !\n"
+"Please select another device."
+msgstr ""
+
+msgid ""
+"There is to low free memory at choosen device\n"
+"Please select another device."
+msgstr ""
+
+#, python-format
+msgid "Download %s"
+msgstr ""
+
+msgid "Extracting image ..."
+msgstr ""
+
+msgid ""
+"Sorry, download verification failed\n"
+"Please try again."
+msgstr ""
+
+msgid "Verifying download ..."
+msgstr ""
+
+msgid ""
+"This will flash the downloaded image.\n"
+"Your current software installation will be deleted and overwritten\n"
+"If you cancel here the downloaded image will be stored and you flash it "
+"later\n"
+"Really continue ?"
+msgstr ""
+
+msgid ""
+"Sorry, necessary files are missing\n"
+"Please try again."
+msgstr ""
+
+msgid ""
+"Sorry, extracting of image failed\n"
+"Please try again."
+msgstr ""
+
+msgid "VTi Image Flash Process"
+msgstr ""
+
+msgid "Change password for VTI Panel"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Input your new VTI Panel password : "
+msgstr ""
+
+msgid "Input password for VTI Panel"
+msgstr ""
+
+msgid "Input your VTI Panel password : "
+msgstr ""
+
 msgid "VTI-Backup is running..."
 msgstr "VTI-Backup është duke hecur..."
 
-#: ../BackupRestore.py:93
-#: ../BackupRestore.py:95
 msgid ""
 "Sorry your backup destination is not writeable.\n"
 "Please choose an other one."
@@ -1129,248 +1549,182 @@ msgstr ""
 "Na vjen keq destinacioni i backup nuk shkruhet.\n"
 "Ju lutem zgjidhni një tjetër."
 
-#: ../BackupRestore.py:112
-#: ../BackupRestore.py:192
-#: ../BackupRestore.py:321
-#: ../ExeManager.py:203
-#: ../ExeManager.py:265
-#: ../ExeManager.py:339
-#: ../CronManager.py:235
-#: ../CronManager.py:353
-#: ../CronManager.py:445
-msgid "Cancel"
-msgstr "Anulim"
-
-#: ../BackupRestore.py:145
 msgid "VTI-Backup - Select files/folders to backup"
 msgstr "VTI-Backup - Zgjidh files/folders për backup"
 
-#: ../BackupRestore.py:150
 msgid "Deselect"
 msgstr "C´zgjidh"
 
-#: ../BackupRestore.py:152
 msgid "Select"
 msgstr "Zgjidh"
 
-#: ../BackupRestore.py:193
-#: ../BackupRestore.py:322
-msgid "Restore"
-msgstr "Rivendos"
-
-#: ../BackupRestore.py:194
-#: ../BackupRestore.py:323
-#: ../ExeManager.py:114
-#: ../CronManager.py:150
-msgid "Delete"
-msgstr "Fshij"
-
-#: ../BackupRestore.py:224
-#: ../BackupRestore.py:353
 msgid "VTI-Restore backups"
 msgstr "VTI-Rivendos backups"
 
-#: ../BackupRestore.py:242
-#: ../BackupRestore.py:371
-msgid ""
-"Are you sure you want to restore\n"
-"following backup:\n"
-msgstr ""
-"Jeni te sigurte qe doni te rivendosni\n"
-"backupin e rradhes:\n"
-
-#: ../BackupRestore.py:242
-#: ../BackupRestore.py:371
-msgid ""
-"\n"
-"System will restart after the restore!"
-msgstr ""
-"\n"
-"Sistemi do të rinis pas rivendosjes!"
-
-#: ../BackupRestore.py:250
-msgid "Restore running"
-msgstr "Rivendos punimin"
-
-#: ../BackupRestore.py:256
-#: ../BackupRestore.py:399
-msgid ""
-"Are you sure you want to delete\n"
-"following backup:\n"
-msgstr ""
-"Jeni te sigurte qe doni te fshini\n"
-"pas backup:\n"
-
-#: ../BackupRestore.py:293
-#: ../BackupRestore.py:303
 msgid "VTI-Restore is running..."
 msgstr "VTI-Rivendosesi eshte duke punuar..."
 
-#: ../BackupRestore.py:301
 msgid "Restore is running..."
 msgstr "Rivendosesi eshte duke punuar..."
 
-#: ../BackupRestore.py:393
+msgid "VTi Restore Image"
+msgstr ""
+
 msgid ""
 "No image found!!!! \n"
 "\n"
-"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or ultimo ."
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or "
+"ultimo ."
 msgstr ""
 "nuk u gjet Image!!!!\n"
 "\n"
-"Ju lutem kopjoni usb image ose rivendos imazhin tek /media/HDD/vuplus/duo/solo/uno ose ultimo."
+"Ju lutem kopjoni usb image ose rivendos imazhin tek /media/HDD/vuplus/duo/"
+"solo/uno ose ultimo."
 
-#: ../ExeManager.py:107
-#: ../ExeManager.py:184
-msgid "Execute: "
-msgstr "Zbatoj:"
+msgid "[ ok ]"
+msgstr ""
 
-#: ../ExeManager.py:108
-#: ../ExeManager.py:161
-msgid "VTI ExeManager"
-msgstr "VTI ExeManager"
-
-#: ../ExeManager.py:115
-#: ../CronManager.py:151
-msgid "Add"
-msgstr "Shto"
-
-#: ../ExeManager.py:116
-#: ../CronManager.py:152
-msgid "Modify"
-msgstr "Modifikoj"
-
-#: ../ExeManager.py:117
-#: ../CronManager.py:153
-msgid "Execute"
-msgstr "Zbatoj"
-
-#: ../ExeManager.py:155
 #, python-format
-msgid "File %s was not found"
-msgstr "File %s nuk u gjet"
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
 
-#: ../ExeManager.py:158
-#, python-format
-msgid "File %s is not executable"
-msgstr "File %s nuk është e ekzekutueshme"
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:164
-#: ../CronManager.py:187
-#, python-format
-msgid "Command: %s was executed"
-msgstr "Komanda: %s u ekzekutua"
+msgid ""
+"Flash process of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:195
-msgid "your executable"
-msgstr "ekzekutuesi juaj"
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:197
-#: ../ExeManager.py:259
-msgid "no"
-msgstr "jo"
+msgid "preparing backup of image"
+msgstr ""
 
-#: ../ExeManager.py:197
-#: ../ExeManager.py:259
-msgid "yes"
-msgstr "po"
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
 
-#: ../ExeManager.py:198
-msgid "Add a executable to ExeManager"
-msgstr "Shto një ekzekutues në ExeManager"
+msgid "The system is missing some necessary files !"
+msgstr ""
 
-#: ../ExeManager.py:218
-#: ../ExeManager.py:280
-#: ../CronManager.py:250
-#: ../CronManager.py:368
-msgid "Command to execute : "
-msgstr "Komanda për të ekzekutuar :"
+msgid "Backup of root filesystem failed"
+msgstr ""
 
-#: ../ExeManager.py:219
-#: ../ExeManager.py:281
-#: ../CronManager.py:251
-msgid "Additional command options : "
-msgstr "Opsione komandë shtesë :"
+msgid "backup root filesystem"
+msgstr ""
 
-#: ../ExeManager.py:220
-#: ../ExeManager.py:282
-msgid "Show command output : "
-msgstr "Trego komandën output :"
+msgid "Error at preparing system for backup"
+msgstr ""
 
-#: ../ExeManager.py:260
-msgid "Modify execute command"
-msgstr "Modifiko komandën ekzekutuse"
+msgid "create flashable file of root filesystem"
+msgstr ""
 
-#: ../ExeManager.py:334
-msgid "Select a file to execute"
-msgstr "Zgjidh një file për ta ekzekutuar"
+msgid "backup of running kernel"
+msgstr ""
 
-#: ../ExeManager.py:340
-#: ../CronManager.py:446
-msgid "OK"
-msgstr "OK"
+msgid "Backup of kernel failed"
+msgstr ""
 
-#: ../ExeManager.py:347
-#: ../ExeManager.py:418
-#: ../CronManager.py:453
-#: ../CronManager.py:524
-msgid "Invalid Choice"
-msgstr "Zgjidhje e Pavlefshme"
+msgid "Image backup finished successfully"
+msgstr ""
 
-#: ../ExeManager.py:355
-#: ../ExeManager.py:407
-#: ../CronManager.py:461
-#: ../CronManager.py:513
-msgid "File is not executable"
-msgstr "File nuk është e ekzekutueshme"
+msgid "A new skin was installed\n"
+msgstr ""
 
-#: ../ExeManager.py:408
-#: ../CronManager.py:514
-msgid "chmod 755"
-msgstr "chmod 755"
+msgid "Do you want to open the skin choice list?"
+msgstr ""
 
-#: ../CronManager.py:144
-msgid "VTI CronManager"
-msgstr "VTI CronManaxher"
+#~ msgid "/hdd"
+#~ msgstr "/hdd"
 
-#: ../CronManager.py:224
-msgid "your cronjob"
-msgstr "cronjob i juaj"
+#~ msgid "/media/hdd"
+#~ msgstr "/media/hdd"
 
-#: ../CronManager.py:230
-msgid "Add a job to CronManager"
-msgstr "Shto një punë për CronManager"
+#~ msgid "/media/usb"
+#~ msgstr "/media/usb"
 
-#: ../CronManager.py:252
-#: ../CronManager.py:369
-msgid "Input minute : "
-msgstr "Input minute : "
+#~ msgid "/media/hdd1"
+#~ msgstr "/media/hdd1"
 
-#: ../CronManager.py:253
-#: ../CronManager.py:370
-msgid "Input hour : "
-msgstr "Input ora :"
+#~ msgid "/media/usb1"
+#~ msgstr "/media/usb1"
 
-#: ../CronManager.py:254
-#: ../CronManager.py:371
-msgid "Input day : "
-msgstr "Input dite :"
+#~ msgid "EPG path set to : %s"
+#~ msgstr "Vendos vendndodhjen e EPG  tek : %s"
 
-#: ../CronManager.py:255
-#: ../CronManager.py:372
-msgid "Input month : "
-msgstr "Input muaj :"
+#~ msgid "Infos about your VU+Duo"
+#~ msgstr "Infos rreth VU+Duo tuaj"
 
-#: ../CronManager.py:256
-#: ../CronManager.py:373
-msgid "Input weekday : "
-msgstr "Input jave :"
+#~ msgid "manage your VU+Duo"
+#~ msgstr "manaxho VU+Duo tuaj"
 
-#: ../CronManager.py:348
-msgid "Modify a CronManager job"
-msgstr "Modifiko një punë CronManager"
+#~ msgid "VTI Backup Tools"
+#~ msgstr "VTI Backup Tools"
 
-#: ../CronManager.py:440
-msgid "Select a executable file for a cronjob"
-msgstr "Zgjidh një file ekzekutueshme për një cronjob"
+#~ msgid "backup or restore your settings"
+#~ msgstr "backup (rezervo) ose rivendos settingun tuaj"
 
+#~ msgid ""
+#~ "There are no news or your\n"
+#~ "Internet connection is not ok"
+#~ msgstr ""
+#~ "Nuk ka lajme ose lidhja e juaj\n"
+#~ "Internet nuk është në rregull"
+
+#~ msgid ""
+#~ "\n"
+#~ "Package : %s \n"
+#~ " old version : %s | new version : %s \n"
+#~ msgstr ""
+#~ "\n"
+#~ "Paketë : %s \n"
+#~ " version i vjetër : %s | version i ri :% s \n"
+
+#~ msgid "Remove Skins"
+#~ msgstr "Hiq Skins"
+
+#~ msgid "choose skin to remove"
+#~ msgstr "zgjedh skinin për ta hequr"
+
+#~ msgid "Menu "
+#~ msgstr "Menu "
+
+#~ msgid ""
+#~ " not implemented yet\n"
+#~ "\n"
+#~ "Please choose another one."
+#~ msgstr ""
+#~ "akoma nuk është implementuar\n"
+#~ "\n"
+#~ "Ju lutem zgjidhni një tjetër."
+
+#~ msgid "VTI Backup Image"
+#~ msgstr "VTI Backup Image"
+
+#~ msgid ""
+#~ "No valid Backupdestion found!!!! \n"
+#~ "\n"
+#~ "Please install an internal Harddisk first to create Backups."
+#~ msgstr ""
+#~ "Asnjë Backupdestion e vlefshme nuk u gjet!!!!\n"
+#~ "\n"
+#~ "Ju lutem instaloni një harddisk të brendshme  për të krijuar Backups."

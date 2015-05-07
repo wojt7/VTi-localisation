@@ -10933,6 +10933,9 @@ msgstr "Es konnte keine Verbindung zum Server aufgebaut werden"
 msgid "No matching place names found"
 msgstr "Keine zutreffenden Orte gefunden"
 
+msgid "Animation start delay:"
+msgstr "Startverzögerung:"
+
 #~ msgid ""
 #~ "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
 #~ "Please install it to use this function"

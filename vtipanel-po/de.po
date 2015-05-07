@@ -1476,8 +1476,8 @@ msgid ""
 "Your STB isn't connected to the internet properly. Please check it and try "
 "again."
 msgstr ""
-"Ihre Vu+ konnte sich nicht korrekt mit dem Internet verbinden. Bitte beheben Sie "
-"dies und versuchen Sie es dann erneut."
+"Ihre Vu+ konnte sich nicht korrekt mit dem Internet verbinden. Bitte beheben "
+"Sie dies und versuchen Sie es dann erneut."
 
 msgid "Upgrade finished."
 msgstr "Aktualisierung abgeschlossen."
@@ -1731,3 +1731,9 @@ msgstr "Sicherung des Kernel fehlgeschlagen"
 
 msgid "Image backup finished successfully"
 msgstr "Die Sicherung Ihres Images wurde erfolgreich ausgeführt"
+
+msgid "A new skin was installed\n"
+msgstr "Es wurde ein neuer Skin installiert\n"
+
+msgid "Do you want to open the skin choice list?"
+msgstr "Soll die Skin-Auswahl geöffnet werden?"

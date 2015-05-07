@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VTIPanel\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-25 09:56+0100\n"
+"POT-Creation-Date: 2014-07-08 21:39+0100\n"
 "PO-Revision-Date: 2013-09-02 21:14+0100\n"
 "Last-Translator: Szécsényi László <szecslasz@gmail.com>\n"
 "Language-Team: VTi <VTi>\n"
@@ -19,518 +19,763 @@ msgstr ""
 "X-Generator: Poedit 1.5.7\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../EPGPanel.py:33
-msgid "/hdd"
-msgstr "/hdd"
+msgid "VTI DriverManager"
+msgstr ""
 
-#: ../EPGPanel.py:33
-msgid "/media/hdd"
-msgstr "/media/hdd"
-
-#: ../EPGPanel.py:33
-msgid "/media/usb"
-msgstr "/media/usb"
-
-#: ../EPGPanel.py:33
-msgid "/media/hdd1"
-msgstr "/media/hdd1"
-
-#: ../EPGPanel.py:33
-msgid "/media/usb1"
-msgstr "/media/usb1"
-
-#: ../EPGPanel.py:36
-msgid "VTI EPG Panel"
-msgstr "VTI EPG Tábla"
-
-#: ../EPGPanel.py:42 ../plugin.py:1420
 msgid "Exit"
 msgstr "Kilépés"
 
-#: ../EPGPanel.py:43 ../BackupRestore.py:113 ../ExeManager.py:204
-#: ../ExeManager.py:266 ../CronManager.py:236 ../CronManager.py:354
-msgid "Save"
-msgstr "Mentés"
+msgid "OK"
+msgstr "Rendben"
 
-#: ../EPGPanel.py:59
-msgid "EPG Path :"
-msgstr "EPG útvonal"
+msgid "not available"
+msgstr ""
 
-#: ../EPGPanel.py:60
-msgid "Save EPG cache to epg.dat"
-msgstr "EPG tároló mentése epg.dat fáljba"
+msgid "Current drivers: "
+msgstr ""
 
-#: ../EPGPanel.py:61
-msgid "Load EPG data from epg.dat"
-msgstr "EPG betöltése az epg.dat fáljból"
+msgid "Install drivers from a local device"
+msgstr ""
 
-#: ../EPGPanel.py:73
+msgid "choose drivers from local filesystem to install"
+msgstr ""
+
+msgid "Download and install drivers from Vu+ website"
+msgstr ""
+
+msgid "choose drivers for download/install"
+msgstr ""
+
+msgid "Sorry, detection of current kernel version failed !"
+msgstr ""
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+
+msgid "Installation of drivers failed !!!"
+msgstr ""
+
+msgid "Select a drivers to install"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Visszavonás"
+
+msgid "Invalid Choice"
+msgstr "Érvénytelen választás"
+
+msgid "no valid drivers"
+msgstr ""
+
+msgid "Please wait ..."
+msgstr ""
+
+msgid " downloading available drivers information"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
 #, python-format
-msgid "EPG path set to : %s"
-msgstr "EPG útvonal megadása:%s"
+msgid "Driver : %s"
+msgstr ""
 
-#: ../EPGPanel.py:89
-#, python-format
-msgid "Saving of EPG cache to %s finished"
-msgstr "EPG tároló mentése %s véglegesként"
+msgid "choose this drivers for download"
+msgstr ""
 
-#: ../EPGPanel.py:97
-#, python-format
-msgid "Loading EPG data from %s finished"
-msgstr "EPG adatok betöltése a %s véglegesből"
+msgid "Please wait, downloading drivers: "
+msgstr ""
 
-#: ../plugin.py:84 ../plugin.py:213 ../plugin.py:414 ../plugin.py:1490
-#: ../plugin.py:1719
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+
 msgid "Close"
 msgstr "Bezárás"
 
-#: ../plugin.py:85
+msgid "reload package data"
+msgstr ""
+
+msgid "Download or delete Software"
+msgstr ""
+
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Az OK megnyomása után kérlek, várj!"
+
+#, python-format
+msgid ""
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
+msgstr ""
+
+msgid "Excecute"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Package list update"
+msgstr "Csomagjegyzék frissítés"
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Az új csomagjegyzék letöltése folyamatban. Kérlek várj..."
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Hiba a csomagjegyzék letöltése során. Próbálja újra."
+
+msgid "Extensions"
+msgstr ""
+
+msgid "install/remove common plugins"
+msgstr ""
+
+msgid "Systemplugins"
+msgstr ""
+
+msgid "install/remove systemplugins"
+msgstr ""
+
+msgid "Skins"
+msgstr ""
+
+msgid "install/remove skins to change look of OSD"
+msgstr ""
+
+msgid "SoftCams"
+msgstr ""
+
+msgid "install/remove softcams"
+msgstr ""
+
+msgid "Configurations"
+msgstr ""
+
+msgid "install/remove configuration files for softcams"
+msgstr ""
+
+msgid "Picons"
+msgstr ""
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "install/remove channel lists"
+msgstr ""
+
+msgid "Kernel modules"
+msgstr ""
+
+msgid "install/remove kernel modules"
+msgstr ""
+
+msgid "Language packages"
+msgstr ""
+
+msgid "install/remove language packages for dvbapp2"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "Start"
+msgstr "Indítás"
+
+msgid "Execution finished.\n"
+msgstr ""
+
+msgid "Do you want to restart GUI ?"
+msgstr ""
+
+msgid "VTi ZerO"
+msgstr ""
+
+msgid "Ok"
+msgstr "Rendben"
+
+msgid "Restore"
+msgstr "Visszatöltés"
+
+msgid "Free Flash"
+msgstr ""
+
+msgid "Remove preinstalled plugins"
+msgstr ""
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr ""
+
+msgid "Remove WLAN support"
+msgstr ""
+
+msgid "remove WLAN plugins and drivers"
+msgstr ""
+
+msgid "Remove HbbTV support"
+msgstr ""
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr ""
+
+msgid "Remove samba server"
+msgstr ""
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr ""
+
+msgid "Remove USB tuner support"
+msgstr ""
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr ""
+
+msgid "Remove language files"
+msgstr ""
+
+msgid "delete translation files expect configured language"
+msgstr ""
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+
+#, python-format
+msgid "Free space at flash memory : %d MB\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Biztos vagy benne, hogy vissza akarod tölteni\n"
+"a következő biztonsági mentést:\n"
+
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"A visszatöltés után a rendszer újraindul!"
+
+msgid "VTI BackupSuite"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr ""
+
+msgid "set device for directory vti-backupsuite"
+msgstr ""
+
+msgid "Backup installed plugins"
+msgstr ""
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr ""
+
+msgid "Backup channel settings"
+msgstr ""
+
+msgid "save channel and bouquet settings"
+msgstr ""
+
+msgid "Backup configurations"
+msgstr ""
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Restore plugins from saved list"
+msgstr ""
+
+msgid "installs all available plugins from online feed"
+msgstr ""
+
+msgid "Restore channel settings"
+msgstr ""
+
+msgid "reload saved channel and bouquet settings"
+msgstr ""
+
+msgid "Restore configurations"
+msgstr ""
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Install local packages"
+msgstr ""
+
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr ""
+
+msgid "Run personal script"
+msgstr ""
+
+msgid "executes your personal backup/restore scripts"
+msgstr ""
+
+msgid "Please select medium to use as backup location"
+msgstr "Kérlek válasszd ki az eszközt a mentés helyét"
+
+msgid "List of installed plugins was created succesfully"
+msgstr ""
+
+msgid "Creating list of installed plugins failed"
+msgstr ""
+
+msgid "Settings backup finished succesfully"
+msgstr ""
+
+msgid "Backup settings failed"
+msgstr ""
+
+msgid "Common configuration backup finished succesfully"
+msgstr ""
+
+msgid "Backup of common configurations failed"
+msgstr ""
+
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Sajnos, a megadott mentési helyre nem tudok írni.\n"
+"\n"
+"Kérlek, válassz másikat."
+
+msgid "Delete"
+msgstr "Eltávolítás"
+
+msgid "Restoring settings finished successfully"
+msgstr ""
+
+msgid "Restoring settings failed"
+msgstr ""
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr ""
+
+msgid "Restore running"
+msgstr "A visszatöltés folyamatban van"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Biztos vagy benne, hogy törölni akarod\n"
+"a következő biztonsági mentést:\n"
+
+msgid "Software"
+msgstr ""
+
 msgid "News"
 msgstr "Újdonságok"
 
-#: ../plugin.py:86
 msgid "System Tools"
 msgstr "Rendszereszközök"
 
-#: ../plugin.py:87
 msgid "Cam Center"
 msgstr "Cam központ"
 
-#: ../plugin.py:91
 msgid "VTI Panel"
 msgstr "VTI Tábla"
 
-#: ../plugin.py:138
 msgid "VTI Cam Center"
 msgstr "VTI CAM Központ"
 
-#: ../plugin.py:138
 msgid "select or install your favourite cam"
 msgstr "a kedvenc cam kiválasztása vagy telepítése"
 
-#: ../plugin.py:139
 msgid "VTI System Info"
 msgstr "VTI Rendszerinformáció"
 
-#: ../plugin.py:139
-msgid "Infos about your VU+Duo"
-msgstr "Információ a te VU+Duo készülékedről"
+msgid "Infos about your Vu+ STB"
+msgstr ""
 
-#: ../plugin.py:140 ../plugin.py:394
 msgid "VTI System Tools"
 msgstr "VTI Rendszereszközök"
 
-#: ../plugin.py:140
-msgid "manage your VU+Duo"
-msgstr "a VU+Duó kezelése"
+msgid "manage your Vu+ STB"
+msgstr ""
 
-#: ../plugin.py:141 ../plugin.py:370
-msgid "VTI Image Tools"
-msgstr "VTI Image eszközök"
+msgid "VTI Software Tools"
+msgstr ""
 
-#: ../plugin.py:141
-msgid "backup or flash an image"
-msgstr "az image mentése vagy a flash tárolóba töltése"
+msgid "backup/restore or install software"
+msgstr ""
 
-#: ../plugin.py:142 ../plugin.py:355
-msgid "VTI Backup Tools"
-msgstr "VTI Mentési Eszközök"
+msgid "VTI Software Manager"
+msgstr ""
 
-#: ../plugin.py:142
-msgid "backup or restore your settings"
-msgstr "Beállításaid mentése vagy visszaállítása"
+msgid "install/download software for your Vu+"
+msgstr ""
 
-#: ../plugin.py:143
 msgid "manual Installer"
 msgstr "Kézi telepítés"
 
-#: ../plugin.py:143
 msgid "install .tar.gz or ipkg manually"
 msgstr "install .tar.gz vagy ipkg kézileg"
 
-#: ../plugin.py:144
 msgid "Plugins"
 msgstr "Beépülő modul ( Plugins )"
 
-#: ../plugin.py:144
 msgid "open enigma2 Plugin Menu"
 msgstr "enigma2 Plugin Menü megnyitása"
 
-#: ../plugin.py:207 ../plugin.py:249 ../plugin.py:400
-msgid "News about VTI"
-msgstr "Újdonságok a VTI-ről"
-
-#: ../plugin.py:214
-msgid "Update"
-msgstr "Frissítés"
-
-#: ../plugin.py:215 ../plugin.py:243 ../plugin.py:253 ../ExeManager.py:368
-#: ../ExeManager.py:405 ../ExeManager.py:411 ../ExeManager.py:416
-#: ../ExeManager.py:419 ../CronManager.py:474 ../CronManager.py:511
-#: ../CronManager.py:517 ../CronManager.py:522 ../CronManager.py:525
-msgid " "
-msgstr " "
-
-#: ../plugin.py:216 ../plugin.py:252
-msgid "show Updates"
-msgstr "Frissítések megtekintése"
-
-#: ../plugin.py:240
-msgid "Upgradable Packages"
-msgstr "Frissíthető csomagok"
-
-#: ../plugin.py:244
-msgid "show News"
-msgstr "Újdonságok megtekintése"
-
-#: ../plugin.py:293 ../plugin.py:296 ../plugin.py:322
-msgid ""
-"There are no news or your\n"
-"Internet connection is not ok"
-msgstr ""
-"Nincs új hír vagy a Te\n"
-"Internet kapcsolatod nincs rendben"
-
-#: ../plugin.py:317
-#, python-format
-msgid ""
-"\n"
-"Package : %s \n"
-" old version : %s | new version : %s \n"
-msgstr ""
-"\n"
-"Csomag : %s \n"
-" régi verzió : %s | új verzió : %s \n"
-
-#: ../plugin.py:319
-msgid ""
-"\n"
-"Your System is up to date"
-msgstr ""
-"\n"
-"A rendszered naprakész"
-
-#: ../plugin.py:338
 msgid "VTI Sub Menu"
 msgstr "VTI Főmenű"
 
-#: ../plugin.py:350
-msgid "Backup system settings"
-msgstr "Rendszerbeállítások mentése"
+msgid "Restore and backup installed channellist and plugins"
+msgstr ""
 
-#: ../plugin.py:350
-msgid "Backup your STB settings."
-msgstr "STB beállítások mentése"
+msgid "Image Backup / Restore"
+msgstr ""
 
-#: ../plugin.py:351
-msgid "Restore system settings"
-msgstr "Rendszerbeállítások visszatöltése"
+msgid "backup or flash an image"
+msgstr "az image mentése vagy a flash tárolóba töltése"
 
-#: ../plugin.py:351
-msgid "Restore your STB settings."
-msgstr "STB beállítások visszatöltése"
+msgid "Image Flash Tool"
+msgstr ""
 
-#: ../plugin.py:352 ../plugin.py:368
-msgid "Advanced restore"
-msgstr "Speciális visszaállítás"
+msgid "download images from vuplus-support.org and flash it"
+msgstr ""
 
-#: ../plugin.py:352 ../plugin.py:368
-msgid "Restore your backups by date."
-msgstr "Beállítások dátum szerinti  visszatöltése"
+msgid "Driver Manager"
+msgstr ""
 
-#: ../plugin.py:353 ../plugin.py:369
-msgid "Choose backup location"
-msgstr "Mentési hely kiválasztása"
+msgid "install/download driver for your Vu+"
+msgstr ""
 
-#: ../plugin.py:353 ../plugin.py:369
-msgid "Select your backup device. "
-msgstr "Mentési eszköz kiválasztása"
+msgid "Expert Backup / Restore"
+msgstr ""
 
-#: ../plugin.py:354
-msgid "Choose backup files"
-msgstr "Mentési fájlok kiválasztása"
+msgid "backup or restore your settings (only for experts)"
+msgstr ""
 
-#: ../plugin.py:354
-msgid "Select files for backup. "
-msgstr "Mentésre kiválasztott fájlok"
-
-#: ../plugin.py:358
 msgid "Install .tar.gz "
 msgstr ".tar.gz telepítése "
 
-#: ../plugin.py:358
 msgid "Install all .tar.gz file form /tmp "
 msgstr "Minden .tar.gz file telepítése a /tmp -ből"
 
-#: ../plugin.py:359
 msgid "Install Ipkg"
 msgstr "Ipkg telepítése"
 
-#: ../plugin.py:359
 msgid "Install local ipkg"
 msgstr "Helyi ipkg telepítése"
 
-#: ../plugin.py:360
 msgid "Advanced Ipkg Install"
 msgstr "Speciális ipkg telepítése"
 
-#: ../plugin.py:360
 msgid "Install local ipkg with --force overwrite"
 msgstr "Helyi ipkg telepítése  --kényszerített felülírással"
 
-#: ../plugin.py:361
 msgid "VTI manual Addon Installer"
 msgstr "VTI Kiegészítők kézi Telepítése"
 
-#: ../plugin.py:364
 msgid "Update Image"
 msgstr "Lemezkép frissítése"
 
-#: ../plugin.py:364
 msgid "Update your STB image from Internet."
 msgstr "STB lemezkép frissítése az Internetről"
 
-#: ../plugin.py:366
-msgid "Backup Image"
-msgstr "Lemezkép mentése"
+msgid "VTI Image Tools"
+msgstr "VTI Image eszközök"
 
-#: ../plugin.py:366
-msgid "Backup your running STB image."
-msgstr "A jelenleg futó STB lemezkép mentése"
-
-#: ../plugin.py:367
-msgid "Restore Image"
-msgstr "Lemezkép Visszatöltése"
-
-#: ../plugin.py:367
-msgid "Restore your backuped STB image."
-msgstr "A mentett STB lemezkép visszatöltése"
-
-#: ../plugin.py:374
 msgid "Device Manager"
 msgstr "Eszközkezelő"
 
-#: ../plugin.py:374
 msgid "manage your HDD's and USB devices"
 msgstr "Merevlemezek és USB eszközök kezelése"
 
-#: ../plugin.py:376
 msgid "File Manager"
 msgstr "Fájlkezelő"
 
-#: ../plugin.py:376
 msgid "open Filemanager"
 msgstr "Fájlkezelő megnyitása"
 
-#: ../plugin.py:378
 msgid "Network Browser"
 msgstr "Hálózati böngésző"
 
-#: ../plugin.py:378
 msgid "open NetworkBrowswer"
 msgstr "A hálózati böngésző megnyitása"
 
-#: ../plugin.py:379
+msgid "Remove preinstalled packages from image"
+msgstr ""
+
 msgid "EPG Settings"
 msgstr "EPG (Elektromos Programújság) beállításai"
 
-#: ../plugin.py:379
 msgid "set EPG path, restore or backup EPG data"
 msgstr "EPG útvonal megadása,az EPG Adat visszatöltése vagy mentése"
 
-#: ../plugin.py:380
+msgid "Custom Main Menu"
+msgstr ""
+
+msgid "delete entries from main menu of your VU+"
+msgstr ""
+
 msgid "Cronjob Manager"
 msgstr "Időzitett feladatok (Cronjob) kezelése"
 
-#: ../plugin.py:380
 msgid "manage cronjobs of your VU+"
 msgstr "Időzített feladatok beállításai a  VU+-on"
 
-#: ../plugin.py:381
 msgid "Run Command"
 msgstr "Indítási Parancs"
 
-#: ../plugin.py:381
 msgid "run executable files of your VU+"
 msgstr "Végrehajtható (exe) fájlok indítása a VU+-don"
 
-#: ../plugin.py:382
+msgid "Set VTI Panel Password"
+msgstr ""
+
+msgid "activate/change password for VTI Panel"
+msgstr ""
+
 msgid "Set Root Password"
 msgstr "Gyökér (Root) jelszó megadása"
 
-#: ../plugin.py:382
 msgid "set root password of your stb"
 msgstr "STB Gyökér (Root) jelszó megadása "
 
-#: ../plugin.py:384
 msgid "Services"
 msgstr "Szolgáltatások"
 
-#: ../plugin.py:384
 msgid "enable/disable Systemservices"
 msgstr "Rendszerszolgáltatások engedélyezése/tiltása"
 
-#: ../plugin.py:385
 msgid "USB DVB-T/C/S2 Panel"
 msgstr "USB DVB-T/C/S2 Tábla"
 
-#: ../plugin.py:385
 msgid "manage Sundtek USB DVB Stick"
 msgstr "Sundtek USB DVB kulcs kezelése"
 
-#: ../plugin.py:386
+msgid "Remove WebBrowser"
+msgstr ""
+
+msgid "removes WebBrowser and dependencies"
+msgstr ""
+
+msgid "Remove Opera HbbTV"
+msgstr ""
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr ""
+
 msgid "IPK Uninstaller"
 msgstr "IPK Eltávolító"
 
-#: ../plugin.py:386
 msgid "remove seletected package from stb"
 msgstr "A kiválasztott csomagok törlése az STB-ről"
 
-#: ../plugin.py:388
 msgid "Purge Enigma2 Crashlogs"
 msgstr "Enigma2 hibajegyzék adatainak törlése"
 
-#: ../plugin.py:388
 msgid "selective wipe of enigma2 crashlogs"
 msgstr "Enigma2 hibajegyzék szelektív törlése"
 
-#: ../plugin.py:389
-msgid "Remove Skins"
-msgstr "Arculat (Skin) törlése"
-
-#: ../plugin.py:389
-msgid "choose skin to remove"
-msgstr "Arculat kijelölése törlésre"
-
-#: ../plugin.py:391
 msgid "Swapfile"
 msgstr "Swapfile"
 
-#: ../plugin.py:391
 msgid "create and manage your Swapfile"
 msgstr "Swapfile készítése és mentése"
 
-#: ../plugin.py:392
 msgid "Set NTP Time"
 msgstr "Hálózati idő (NTP) beállítása"
 
-#: ../plugin.py:392
 msgid "refresh time for enigma2 from ntp server"
 msgstr "enigma2 időszinkronizálás az NTP-szerverről "
 
-#: ../plugin.py:393
 msgid "Harddisk Standby"
 msgstr "Merevlemez-készenlét"
 
-#: ../plugin.py:393
 msgid "turns hdd immediately into standby mode"
 msgstr "Merevlemez közvetlen készenléti módba helyezése"
 
-#: ../plugin.py:397 ../plugin.py:1414
 msgid "Bitrate Viewer"
 msgstr "Bitráta figyelő"
 
-#: ../plugin.py:397
 msgid "Show Advanced Bitrate infos"
 msgstr "Speciális bitrátainformációk "
 
-#: ../plugin.py:399
 msgid "ECM Info"
 msgstr "ECM Információ"
 
-#: ../plugin.py:399
 msgid "show ecm infos from temp dir"
 msgstr "ecm információk  a temp könyvtárból"
 
-#: ../plugin.py:400
+msgid "News about VTI"
+msgstr "Újdonságok a VTI-ről"
+
 msgid "show Feed updates"
 msgstr "Feed frissítések "
 
-#: ../plugin.py:401
+msgid "Info about current system"
+msgstr ""
+
+msgid "show information about processes, load, mounts ..."
+msgstr ""
+
 msgid "Show processes"
 msgstr "Feldolgozások"
 
-#: ../plugin.py:401
 msgid "show running processes"
 msgstr "Futó feldolgozások "
 
-#: ../plugin.py:402
 msgid "Show filesystem mounts"
 msgstr "Fájlrendszer integrálás (Mounts)"
 
-#: ../plugin.py:402
 msgid "show active mounts"
 msgstr "Aktív integrálások"
 
-#: ../plugin.py:403
 msgid "Harddisk Temperature"
 msgstr "Merevlemez hőmérséklet"
 
-#: ../plugin.py:403
 msgid "show HDD Temperature"
 msgstr "Merevlemez hőmérséklet mutatása"
 
-#: ../plugin.py:404
 msgid "Show Consolesessions"
 msgstr "Konzolfolyamatok"
 
-#: ../plugin.py:404
 msgid "show all active user sessions"
 msgstr "Minden aktív felhasználó "
 
-#: ../plugin.py:405
 msgid "Show Uptime"
 msgstr "Futásidő"
 
-#: ../plugin.py:405
 msgid "show operating system uptime of stb"
 msgstr "STB operációs rendszer futásideje"
 
-#: ../plugin.py:406
 msgid "Show Networkconnections"
 msgstr "Hálózati kapcsolatok "
 
-#: ../plugin.py:406
 msgid "show all connected sockets from ip-stack"
 msgstr "IP-Stack kapcsolódó socket-ek"
 
-#: ../plugin.py:407
 msgid "Show Systemmemory Info"
 msgstr "Rendszermemória információ "
 
-#: ../plugin.py:407
 msgid "show whole system memory usage"
 msgstr "A rendszer teljes memóriahasználata "
 
-#: ../plugin.py:408
 msgid "Show Networkdetails"
 msgstr "Hálózati részletek"
 
-#: ../plugin.py:408
 msgid "shows assigned ip-adresses, routingtable and nameserver"
 msgstr "Kapcsolódó IP-címek,routingtábla és DNS-server"
 
-#: ../plugin.py:409
 msgid "Show diskspace"
 msgstr "Merevlemezterület"
 
-#: ../plugin.py:409
 msgid "show diskpace"
 msgstr "Merevlemezterület"
 
-#: ../plugin.py:410
 msgid "Image Info"
 msgstr "Lemezkép-információ"
 
-#: ../plugin.py:410
 msgid "show simple Image infos"
 msgstr "Egyszerű lemezkép-információ"
 
-#: ../plugin.py:411
 msgid "VTI System Infos"
 msgstr "VTI Rendszerinformáció"
 
-#: ../plugin.py:415
+msgid "VTI Backupsuite"
+msgstr ""
+
+msgid "Backup installed channellist and plugins"
+msgstr ""
+
+msgid "Restore installed channellist and plugins"
+msgstr ""
+
+msgid "Backup Image"
+msgstr "Lemezkép mentése"
+
+msgid "Backup your running STB image."
+msgstr "A jelenleg futó STB lemezkép mentése"
+
+msgid "Restore Image"
+msgstr "Lemezkép Visszatöltése"
+
+msgid "Restore your backuped STB image."
+msgstr "A mentett STB lemezkép visszatöltése"
+
+msgid "Choose backup location"
+msgstr "Mentési hely kiválasztása"
+
+msgid "Select your backup device. "
+msgstr "Mentési eszköz kiválasztása"
+
+msgid "VTI Image Backup/Restore"
+msgstr ""
+
+msgid "Backup system settings"
+msgstr "Rendszerbeállítások mentése"
+
+msgid "Backup your STB settings."
+msgstr "STB beállítások mentése"
+
+msgid "Restore system settings"
+msgstr "Rendszerbeállítások visszatöltése"
+
+msgid "Restore your STB settings."
+msgstr "STB beállítások visszatöltése"
+
+msgid "Advanced restore"
+msgstr "Speciális visszaállítás"
+
+msgid "Restore your backups by date."
+msgstr "Beállítások dátum szerinti  visszatöltése"
+
+msgid "Choose backup files"
+msgstr "Mentési fájlok kiválasztása"
+
+msgid "Select files for backup. "
+msgstr "Mentésre kiválasztott fájlok"
+
+msgid "VTI Expert Backup/Restore"
+msgstr ""
+
 msgid ""
 "\n"
 "Press OK on your remote control to continue."
@@ -538,76 +783,12 @@ msgstr ""
 "\n"
 "Nyomd meg az OK gombot a távirányítón a folytatáshoz."
 
-#: ../plugin.py:454 ../plugin.py:483
-msgid "Please select medium to use as backup location"
-msgstr "Kérlek válasszd ki az eszközt a mentés helyét"
-
-#: ../plugin.py:463
-msgid ""
-"Are you sure you want to restore your Enigma2 backup?\n"
-"Enigma2 will restart after the restore"
-msgstr ""
-"Vissza akarod tölteni az Enigma2 mentésedet?\n"
-" Enigma2 újraindítást akar a visszatöltés után"
-
-#: ../plugin.py:465
-msgid "Sorry no backups found!"
-msgstr "Sajnos nem található mentés!"
-
-#: ../plugin.py:468
 msgid "VTI .tar.gz installer"
 msgstr "VTI .tar.gz-telepítő"
 
-#: ../plugin.py:470 ../plugin.py:472
 msgid "VTI IPK Installer"
 msgstr "VTI IPK-telepítő"
 
-#: ../plugin.py:489 ../plugin.py:491 ../plugin.py:493 ../plugin.py:495
-#: ../BackupRestore.py:385 ../BackupRestore.py:387 ../BackupRestore.py:389
-#: ../BackupRestore.py:391
-msgid "VTI Restore Image"
-msgstr "VTI lemezkép visszatöltés"
-
-#: ../plugin.py:497
-msgid ""
-"No image found!!!! \n"
-"\n"
-"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
-msgstr ""
-"Nem található image !!!! \n"
-"\n"
-"Kérlek másold az usb image-t vagy visszatölthető image-t ide: /media/hdd/"
-"vuplus/MODEL ."
-
-#: ../plugin.py:499
-msgid "Menu "
-msgstr "Menü"
-
-#: ../plugin.py:499
-msgid ""
-" not implemented yet\n"
-"\n"
-"Please choose another one."
-msgstr ""
-"Még nincs megvalósítva\n"
-"\n"
-"Kérlek válassz másikat"
-
-#: ../plugin.py:503
-msgid "VTI Backup Image"
-msgstr "VTI Mentett Image"
-
-#: ../plugin.py:505
-msgid ""
-"No valid Backupdestion found!!!! \n"
-"\n"
-"Please install an internal Harddisk first to create Backups."
-msgstr ""
-"Nem tatálható mentési hely!!!! \n"
-"\n"
-"Kérlek telepíts egy merevlemezt a mentéshez."
-
-#: ../plugin.py:514
 msgid ""
 "The Device Manager is not installed!\n"
 "Please install it."
@@ -615,7 +796,6 @@ msgstr ""
 "Az eszközkezelő nincs telepítve!\n"
 "kérlek telepítsd."
 
-#: ../plugin.py:522
 msgid ""
 "The FileManager is not installed!\n"
 "Please install it."
@@ -623,7 +803,6 @@ msgstr ""
 "Az fájlkezelő nincs telepítve!\n"
 "Kérlek telepítsd."
 
-#: ../plugin.py:530
 msgid ""
 "The NetworkBrowser is not installed!\n"
 "Please install it."
@@ -631,39 +810,30 @@ msgstr ""
 "A hálózati kereső nincs telepítve!\n"
 "Kérlek telepítsd."
 
-#: ../plugin.py:563
 msgid "VTI Harddisk Standbymode"
 msgstr "VTI merevlemez készenléti állapot"
 
-#: ../plugin.py:568
 msgid "VTI show ecm.info"
 msgstr "VTI ecm.információ"
 
-#: ../plugin.py:570
 msgid "VTI show running processes"
 msgstr "VTI futó folyamatok"
 
-#: ../plugin.py:574
 msgid "VTI show mounted filesystems"
 msgstr "VTI integrált (mounted) fájlrendszer"
 
-#: ../plugin.py:576
 msgid "VTI show networkconfiguration and routingtable"
 msgstr "Hálózati konfiguráció és routing-táblázat"
 
-#: ../plugin.py:579
 msgid "Harddiskmanufacturer, Type and it's Temperature :"
 msgstr "Merevlemezgyártó-, típus- és hőmérsékletmutató:"
 
-#: ../plugin.py:579
 msgid "Are you sure to set hdd in standby mode?"
 msgstr "Biztos abban,hogy a merevlemezt készültségi állapotba akarja helyezni?"
 
-#: ../plugin.py:580
 msgid "HDD Temperature"
 msgstr "Merevlemez-hőmérséklet"
 
-#: ../plugin.py:582
 msgid ""
 "No internal Harddisk detected!!!! \n"
 "\n"
@@ -674,35 +844,37 @@ msgstr ""
 "\n"
 "Kérlek telepítsd először a belső merevlemezt a hőmérséklet megállapításához."
 
-#: ../plugin.py:584
 msgid "Active Usersessions :"
 msgstr "Aktív felhasználók:"
 
-#: ../plugin.py:586
 msgid "Current Time, Operating Time and Load Average :"
 msgstr "Jelenlegi idő, működési idő és átlagos terhelés:"
 
-#: ../plugin.py:587
 msgid "Uptime"
 msgstr "Rendelkezésreállási idő"
 
-#: ../plugin.py:590
 msgid "VTI show network stats"
 msgstr "VTI hálózati státusz"
 
-#: ../plugin.py:592
 msgid "Current Memory Usage :"
 msgstr "Aktuális memóriahasználat :"
 
-#: ../plugin.py:593
 msgid "Memory Usage"
 msgstr "Memóriahasználat"
 
-#: ../plugin.py:595
 msgid "VTI show free diskspace"
 msgstr "VTI szabad merevlemezterület"
 
-#: ../plugin.py:599
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Vissza akarod tölteni az Enigma2 mentésedet?\n"
+" Enigma2 újraindítást akar a visszatöltés után"
+
+msgid "Sorry no backups found!"
+msgstr "Sajnos nem található mentés!"
+
 msgid ""
 "Menu not implemented yet!!!! \n"
 "\n"
@@ -712,330 +884,230 @@ msgstr ""
 "\n"
 " nmost még szabad kódok ebben a menüben;)"
 
-#: ../plugin.py:602
 msgid "Install/update finished."
 msgstr "Telepítés/frissítés befejeződött."
 
-#: ../plugin.py:602
 msgid "Do you want to reboot your STB?"
 msgstr "Szeretnéd újraindítani az STB-t?"
 
-#: ../plugin.py:634 ../plugin.py:643
-msgid ""
-"Sorry, your backup destination is not writeable.\n"
-"\n"
-"Please choose another one."
-msgstr ""
-"Sajnos, a megadott mentési helyre nem tudok írni.\n"
-"\n"
-"Kérlek, válassz másikat."
+msgid "VTI Restore Image"
+msgstr "VTI lemezkép visszatöltés"
 
-#: ../plugin.py:647
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Nem található image !!!! \n"
+"\n"
+"Kérlek másold az usb image-t vagy visszatölthető image-t ide: /media/hdd/"
+"vuplus/MODEL ."
+
 msgid "VTI-Backup done."
 msgstr "VTI-mentés megtörtént."
 
-#: ../plugin.py:649
 msgid "VTI-Backup failed."
 msgstr "VTI-mentés sikertelen."
 
-#: ../plugin.py:667
 msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
 msgstr "Nincs mervlemez vagy S.M.A.R.T típusú merevlemez van csatlakoztatva"
 
-#: ../plugin.py:673
 msgid "At"
 msgstr "At"
 
-#: ../plugin.py:677
 msgid "Could not grep Uptime Information from busybox"
 msgstr "Nem sikerült a futási időt lekérdezni a busybox-tól"
 
-#: ../plugin.py:689
 msgid "Could not grep socket information from busybox"
 msgstr "Nem sikerült socket információt a busybox-tól"
 
-#: ../plugin.py:701
 msgid "Could not grep Memory Usage information from busybox"
 msgstr "Nem sikerült memóriahasználati információt lekérdezni a busybox-tól"
 
-#: ../plugin.py:737 ../plugin.py:802
 msgid "VTI Status List Menu"
 msgstr "VTI Állapot Lista Menü"
 
-#: ../plugin.py:744
 msgid "Stop Swap"
 msgstr "Swap leállítása"
 
-#: ../plugin.py:745
 msgid "Start Swap"
 msgstr "Swap indítása"
 
-#: ../plugin.py:750
 msgid "VTI SwapFile Menu"
 msgstr "VTI Swap Menü"
 
-#: ../plugin.py:753
 msgid "Stop"
 msgstr "Leállítás"
 
-#: ../plugin.py:754
-msgid "Start"
-msgstr "Indítás"
-
-#: ../plugin.py:755
 msgid "Restart"
 msgstr "Újraindítás"
 
-#: ../plugin.py:758
 msgid "VTI Services Menu"
 msgstr "VTI Szolgáltatások Menü"
 
-#: ../plugin.py:761
 msgid "Uninstall"
 msgstr "Eltávolítás"
 
-#: ../plugin.py:762
 msgid "Force uninst."
 msgstr "Kényszerített eltávolítás"
 
-#: ../plugin.py:767
 msgid "VTI IPK Uninstaller Menu"
 msgstr "VTI IPK Eltávolító Menű"
 
-#: ../plugin.py:770
 msgid "Remove Skin"
 msgstr "Skin eltávolítása"
 
-#: ../plugin.py:777
 msgid "VTI Skinremove Menu"
 msgstr "VTI Skin Eltávolítási Menü"
 
-#: ../plugin.py:780
 msgid "Remove selected"
 msgstr "Válogatott eltávolítás"
 
-#: ../plugin.py:781
 msgid "Remove all"
 msgstr "Valmennyi eltávolítása"
 
-#: ../plugin.py:782
 msgid "Remove older 7 Days"
 msgstr "A 7 napnál régebbiek eltávolítása"
 
-#: ../plugin.py:785
 msgid "VTI Crashlogremove Menu"
 msgstr "VTI Hibajegyzék Eltávolítási Menü"
 
-#: ../plugin.py:789
-msgid "Ok"
-msgstr "Rendben"
-
-#: ../plugin.py:795 ../plugin.py:1087
 msgid "VTI USB DVB-Panel"
 msgstr "VTI USB DVB-Tábla"
 
-#: ../plugin.py:798 ../plugin.py:799 ../plugin.py:800 ../plugin.py:801
 msgid "not in use"
 msgstr "Nincs használatban"
 
-#: ../plugin.py:1014
 msgid "MB swapfile on "
 msgstr "MB SWAP-fájl bekapcsolva"
 
-#: ../plugin.py:1029
 msgid "Are you sure to delete swapfile ?"
 msgstr "Biztos vagy benne, hogy a törlöd a SWAP-fájlt?"
 
-#: ../plugin.py:1031
 #, python-format
 msgid "Are you sure to %s ?"
 msgstr "Biztos vagy benne %s ?"
 
-#: ../plugin.py:1038
 msgid "VTI Start Service"
 msgstr "VTI Szolgáltatások indítása"
 
-#: ../plugin.py:1040
 msgid "VTI Stop Service"
 msgstr "VTI Szolgáltatások leállítása"
 
-#: ../plugin.py:1042
 msgid "VTI Restart Service"
 msgstr "VTI Szolgáltatások újraindítása"
 
-#: ../plugin.py:1059
 msgid "VTI Skinremoval"
 msgstr "VTI Skin Eltávolító"
 
-#: ../plugin.py:1067 ../plugin.py:1069
 msgid "VTI Remove Enigma2 Crashlog"
 msgstr "VTI Enigma2 hibajegyzék eltávolítása"
 
-#: ../plugin.py:1080
 msgid "Deleted Crashlogs older 7 Days..."
 msgstr "Eltávolított 7 napnál régebbi hibajegyzékek..."
 
-#: ../plugin.py:1121
 msgid "stopping swap for "
 msgstr "Csere megállás"
 
-#: ../plugin.py:1121
 msgid "swapfile was deleted successfully"
 msgstr "A SWAP-fájl törlése sikeres "
 
-#: ../plugin.py:1122 ../plugin.py:1138
 msgid "VTI create SwapFile"
 msgstr "VTI SWAP-fájl Létrehozása"
 
-#: ../plugin.py:1124
 msgid "no swapfile active..."
 msgstr "Nincs aktív SWAP-fájl"
 
-#: ../plugin.py:1136
 msgid "swapfile was created successfully"
 msgstr "Sikeresen létrehozott SWAP-fájl"
 
-#: ../plugin.py:1158
 msgid "VTI IPK Uninstall"
 msgstr "VTI IPK Eltávolítás"
 
-#: ../plugin.py:1164
 msgid "VTI IPK Uninstall ignore depencies"
 msgstr "VTI IPK Eltávolító függőségek figyelmen kívül hagyásával"
 
-#: ../plugin.py:1172
 msgid "Stop Cam"
 msgstr "CAM leállítása"
 
-#: ../plugin.py:1173
 msgid "Start Cam"
 msgstr "CAM elindítása"
 
-#: ../plugin.py:1174
 msgid "Restart Cam"
 msgstr "CAM újraindítása"
 
-#: ../plugin.py:1175
 msgid "Manage Cams"
 msgstr "A CAM-ok kezelése"
 
-#: ../plugin.py:1176
 msgid "Select Cam and press OK to activate"
 msgstr "CAM kiválasztása és aktiválása az OK gomb megnyomásával"
 
-#: ../plugin.py:1337
 msgid "NO CAM ACTIVE !!! Cant restart current cam "
 msgstr "NINCS AKTÍV CAM !!! Nem lehet újraindítani az aktuális CAM-ot"
 
-#: ../plugin.py:1346
 msgid "cam info : "
 msgstr "cam információ : "
 
-#: ../plugin.py:1346
 msgid " -- "
 msgstr " -- "
 
-#: ../plugin.py:1355
 msgid "Starting cam : "
 msgstr "CAM indulása :"
 
-#: ../plugin.py:1363
 msgid "Stopping cam : "
 msgstr "CAM leállása : "
 
-#: ../plugin.py:1365
 msgid "Restarting cam : "
 msgstr "CAM újraindulása :"
 
-#: ../plugin.py:1421
 msgid "Video"
 msgstr "Videó"
 
-#: ../plugin.py:1422
 msgid "Audio"
 msgstr "Audió"
 
-#: ../plugin.py:1423
 msgid "Min"
 msgstr "Min"
 
-#: ../plugin.py:1424
 msgid "Max"
 msgstr "Max"
 
-#: ../plugin.py:1425
 msgid "Current"
 msgstr "Jelenlegi"
 
-#: ../plugin.py:1426
 msgid "Average"
 msgstr "Átlagos"
 
-#: ../plugin.py:1491
 msgid "Reload"
 msgstr "Újratöltés"
 
-#: ../plugin.py:1492
 msgid "Download or delete Cam"
 msgstr "CAM letöltése vagy törlése"
 
-#: ../plugin.py:1508
-msgid ""
-"\n"
-"After pressing OK, please wait!"
-msgstr ""
-"\n"
-"Az OK megnyomása után kérlek, várj!"
-
-#: ../plugin.py:1551
-msgid "Trying to download a new packetlist. Please wait..."
-msgstr "Az új csomagjegyzék letöltése folyamatban. Kérlek várj..."
-
-#: ../plugin.py:1551
-msgid "Package list update"
-msgstr "Csomagjegyzék frissítés"
-
-#: ../plugin.py:1555
-msgid "There was an error downloading the packetlist. Please try again."
-msgstr "Hiba a csomagjegyzék letöltése során. Próbálja újra."
-
-#: ../plugin.py:1555
-msgid "Error"
-msgstr "Hiba"
-
-#: ../plugin.py:1580
 msgid "Do you want to remove the package:\n"
 msgstr "El akarod távolítani a csomagot:\n"
 
-#: ../plugin.py:1584
 msgid "Do you want to upgrade the package:\n"
 msgstr "Frissíteni akarod a csomagot:\n"
 
-#: ../plugin.py:1588
 msgid "Do you want to install the package:\n"
 msgstr "Telepíteni akarod a csomagot:\n"
 
-#: ../plugin.py:1707
 msgid "Change Root Password"
 msgstr "A gyökér (Root) jelszó megadása"
 
-#: ../plugin.py:1720
 msgid "Set Password"
 msgstr "Jelszó beállítása"
 
-#: ../plugin.py:1721
 msgid "new Random"
 msgstr "Új véletlenszerű"
 
-#: ../plugin.py:1722
 msgid "virt. Keyboard"
 msgstr "Virtuális billentyűzet"
 
-#: ../plugin.py:1742
 msgid "Enter new Password"
 msgstr "Belépés új jelszóval"
 
-#: ../plugin.py:1758
 #, python-format
 msgid ""
 "Sucessfully changed password for root user to:\n"
@@ -1044,40 +1116,432 @@ msgstr ""
 "Sikeresen megváltoztatott root-felhasznállói jelszó:\n"
 "%s "
 
-#: ../plugin.py:1760
 msgid "Unable to change/reset password for root user"
 msgstr ""
 "A  root-felhasználóhoz tartozó jelszó változtatása/visszaállítása lehetetlen"
 
-#: ../plugin.py:1782
 msgid "Enter your password here:"
 msgstr "Add meg itt a belépési jelszavadat:"
 
-#: ../plugin.py:1861
+msgid "Software Update"
+msgstr ""
+
 msgid "Manage your VU+ Team Image"
 msgstr "A te VU+ Team Lemezképed kezelése "
 
-#: ../ntpserver.py:47
+msgid "VTI CronManager"
+msgstr "VTI Időzített feladatkezelő"
+
+msgid "Add"
+msgstr "Hozzáadás"
+
+msgid "Modify"
+msgstr "Módosítás"
+
+msgid "Execute"
+msgstr "Végrehajtás"
+
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Parancs: %s végrehajtva"
+
+msgid "your cronjob"
+msgstr "Időzített feladatod"
+
+msgid "Add a job to CronManager"
+msgstr "Feladat hozzáadása az időzített feladatkezelőhöz"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Command to execute : "
+msgstr "Parancs a végrehajtásra :"
+
+msgid "Additional command options : "
+msgstr "Pótlólagos parancslehetőségek : "
+
+msgid "Input minute : "
+msgstr "Add  meg a percet:"
+
+msgid "Input hour : "
+msgstr "Add meg az órát: "
+
+msgid "Input day : "
+msgstr "Add meg a napot: "
+
+msgid "Input month : "
+msgstr "Add meg a hónapot: "
+
+msgid "Input weekday : "
+msgstr "Add meg a hétköznapot: "
+
+msgid "Modify a CronManager job"
+msgstr "Időzített feladatkezelői feladat módosítása"
+
+msgid "Select a executable file for a cronjob"
+msgstr "Végrehajtható fájl kiválasztása az időzített feladathoz"
+
+msgid "File is not executable"
+msgstr "Fájl nem  végrehajtható"
+
+msgid " "
+msgstr " "
+
+msgid "chmod 755"
+msgstr "chmod 755"
+
 msgid "NTP server "
 msgstr "NTP Kiszolgáló"
 
-#: ../ntpserver.py:47
 msgid " is activated."
 msgstr "aktivált"
 
-#: ../ntpserver.py:51
 msgid "NTP-Server Country Selection"
 msgstr "NTP-Szerver ország kiválasztása"
 
-#: ../ntpserver.py:78
 msgid "NTP-Server Contenant Selection"
 msgstr "NTP-Szerver tartalom kiválasztása"
 
-#: ../BackupRestore.py:73 ../BackupRestore.py:88 ../BackupRestore.py:90
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "show Updates"
+msgstr "Frissítések megtekintése"
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr ""
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr ""
+
+msgid "Upgradable Packages"
+msgstr "Frissíthető csomagok"
+
+msgid "show News"
+msgstr "Újdonságok megtekintése"
+
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"A rendszered naprakész"
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+
+msgid "VTI custom main menu"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Execute: "
+msgstr "Végrehajtás:"
+
+msgid "VTI ExeManager"
+msgstr "VTI ExeKezeló"
+
+#, python-format
+msgid "File %s was not found"
+msgstr "Fájl %s  nem található "
+
+#, python-format
+msgid "File %s is not executable"
+msgstr "Fájl %s nem futtatható"
+
+msgid "your executable"
+msgstr "Végrehajtható"
+
+msgid "no"
+msgstr "nem"
+
+msgid "yes"
+msgstr "igen"
+
+msgid "Add a executable to ExeManager"
+msgstr "Egy végrehajtás hozzáadása az Exe-kezelőhöz"
+
+msgid "Show command output : "
+msgstr "Parancskimenet : "
+
+msgid "Modify execute command"
+msgstr "A végrehajtási parancs módosítása"
+
+msgid "Select a file to execute"
+msgstr "Fájl kiválasztása futtatásra"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "PROCESS"
+msgstr ""
+
+msgid "CPU %"
+msgstr ""
+
+msgid "MEM %"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid "MOUNTPOINT"
+msgstr ""
+
+msgid "FS"
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "KERNEL : "
+msgstr ""
+
+msgid "IMAGE : "
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "SWAP"
+msgstr ""
+
+msgid "USED :"
+msgstr ""
+
+msgid "FREE :"
+msgstr ""
+
+msgid "TOTAL :"
+msgstr ""
+
+msgid "UPTIME : "
+msgstr ""
+
+msgid "LOAD : "
+msgstr ""
+
+msgid "TEMP : "
+msgstr ""
+
+msgid "FAN : "
+msgstr ""
+
+msgid "RECEIVED"
+msgstr ""
+
+msgid "SENT"
+msgstr ""
+
+msgid "VTI EPG Panel"
+msgstr "VTI EPG Tábla"
+
+msgid "EPG Path :"
+msgstr "EPG útvonal"
+
+msgid "Save EPG cache to epg.dat"
+msgstr "EPG tároló mentése epg.dat fáljba"
+
+msgid "Load EPG data from epg.dat"
+msgstr "EPG betöltése az epg.dat fáljból"
+
+msgid "Delete broken epg.dat"
+msgstr ""
+
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "EPG tároló mentése %s véglegesként"
+
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "EPG adatok betöltése a %s véglegesből"
+
+msgid ""
+"Do you really want to delete epg.dat ?\n"
+"Note: This will restart your VU+ STB"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Verifying your internet connection..."
+msgstr ""
+
+msgid "Press OK on your remote control to continue."
+msgstr ""
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+
+msgid "Upgrading STB... Please wait"
+msgstr ""
+
+msgid "Your network is not working. Please try again."
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Upgrading"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Removing"
+msgstr ""
+
+msgid "Configuring"
+msgstr ""
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr ""
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+
+msgid "Upgrade finished."
+msgstr ""
+
+msgid "VTi Image Download"
+msgstr ""
+
+msgid "Do your really want to cancel the image download ?"
+msgstr ""
+
+msgid "Select image for flash process"
+msgstr ""
+
+msgid "Install this image"
+msgstr ""
+
+msgid "VTI Image Flash Tool"
+msgstr ""
+
+msgid " downloading available image information"
+msgstr ""
+
+msgid "Flash extracted image from storage device"
+msgstr ""
+
+#, python-format
+msgid "Image: %s"
+msgstr ""
+
+msgid "Download image from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Sorry ..."
+msgstr ""
+
+msgid "The image list can not be loaded, please be patient and try again later"
+msgstr ""
+
+msgid ""
+"This will flash the selected image without further questions.\n"
+"Your current software installation will be deleted and overwritten\n"
+"Really continue ?"
+msgstr ""
+
+msgid "Please select medium to use as image location"
+msgstr ""
+
+msgid ""
+"Error at creating download destination !\n"
+"Please select another device."
+msgstr ""
+
+msgid ""
+"There is to low free memory at choosen device\n"
+"Please select another device."
+msgstr ""
+
+#, python-format
+msgid "Download %s"
+msgstr ""
+
+msgid "Extracting image ..."
+msgstr ""
+
+msgid ""
+"Sorry, download verification failed\n"
+"Please try again."
+msgstr ""
+
+msgid "Verifying download ..."
+msgstr ""
+
+msgid ""
+"This will flash the downloaded image.\n"
+"Your current software installation will be deleted and overwritten\n"
+"If you cancel here the downloaded image will be stored and you flash it "
+"later\n"
+"Really continue ?"
+msgstr ""
+
+msgid ""
+"Sorry, necessary files are missing\n"
+"Please try again."
+msgstr ""
+
+msgid ""
+"Sorry, extracting of image failed\n"
+"Please try again."
+msgstr ""
+
+msgid "VTi Image Flash Process"
+msgstr ""
+
+msgid "Change password for VTI Panel"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Input your new VTI Panel password : "
+msgstr ""
+
+msgid "Input password for VTI Panel"
+msgstr ""
+
+msgid "Input your VTI Panel password : "
+msgstr ""
+
 msgid "VTI-Backup is running..."
 msgstr "VTI-Biztonsági mentés folyamatban..."
 
-#: ../BackupRestore.py:93 ../BackupRestore.py:95
 msgid ""
 "Sorry your backup destination is not writeable.\n"
 "Please choose an other one."
@@ -1085,74 +1549,27 @@ msgstr ""
 "Sajnos a kiválasztott mentési célra nem lehet írni.\n"
 "Kérlek válassz egy másik célt."
 
-#: ../BackupRestore.py:112 ../BackupRestore.py:192 ../BackupRestore.py:321
-#: ../ExeManager.py:203 ../ExeManager.py:265 ../ExeManager.py:339
-#: ../CronManager.py:235 ../CronManager.py:353 ../CronManager.py:445
-msgid "Cancel"
-msgstr "Visszavonás"
-
-#: ../BackupRestore.py:145
 msgid "VTI-Backup - Select files/folders to backup"
 msgstr "VTI-Biztonsági mentés - Fájl/Mappa kiválasztása mentéshez"
 
-#: ../BackupRestore.py:150
 msgid "Deselect"
 msgstr "Visszavonás"
 
-#: ../BackupRestore.py:152
 msgid "Select"
 msgstr "Kiválasztás"
 
-#: ../BackupRestore.py:193 ../BackupRestore.py:322
-msgid "Restore"
-msgstr "Visszatöltés"
-
-#: ../BackupRestore.py:194 ../BackupRestore.py:323 ../ExeManager.py:114
-#: ../CronManager.py:150
-msgid "Delete"
-msgstr "Eltávolítás"
-
-#: ../BackupRestore.py:224 ../BackupRestore.py:353
 msgid "VTI-Restore backups"
 msgstr "VTI-Biztonsági mentés visszatöltése"
 
-#: ../BackupRestore.py:242 ../BackupRestore.py:371
-msgid ""
-"Are you sure you want to restore\n"
-"following backup:\n"
-msgstr ""
-"Biztos vagy benne, hogy vissza akarod tölteni\n"
-"a következő biztonsági mentést:\n"
-
-#: ../BackupRestore.py:242 ../BackupRestore.py:371
-msgid ""
-"\n"
-"System will restart after the restore!"
-msgstr ""
-"\n"
-"A visszatöltés után a rendszer újraindul!"
-
-#: ../BackupRestore.py:250
-msgid "Restore running"
-msgstr "A visszatöltés folyamatban van"
-
-#: ../BackupRestore.py:256 ../BackupRestore.py:399
-msgid ""
-"Are you sure you want to delete\n"
-"following backup:\n"
-msgstr ""
-"Biztos vagy benne, hogy törölni akarod\n"
-"a következő biztonsági mentést:\n"
-
-#: ../BackupRestore.py:293 ../BackupRestore.py:303
 msgid "VTI-Restore is running..."
 msgstr "VTI-visszatöltés folyamatban van..."
 
-#: ../BackupRestore.py:301
 msgid "Restore is running..."
 msgstr "A visszatöltés folyamatban van..."
 
-#: ../BackupRestore.py:393
+msgid "VTi Restore Image"
+msgstr ""
+
 msgid ""
 "No image found!!!! \n"
 "\n"
@@ -1164,132 +1581,150 @@ msgstr ""
 "Kérlek másold az usb lemezképet-t vagy állítsd vissza a lemezképet-t a "
 "következő helyre /media/hdd/vuplus/duo/solo/uno or ultimo ."
 
-#: ../ExeManager.py:107 ../ExeManager.py:184
-msgid "Execute: "
-msgstr "Végrehajtás:"
+msgid "[ ok ]"
+msgstr ""
 
-#: ../ExeManager.py:108 ../ExeManager.py:161
-msgid "VTI ExeManager"
-msgstr "VTI ExeKezeló"
-
-#: ../ExeManager.py:115 ../CronManager.py:151
-msgid "Add"
-msgstr "Hozzáadás"
-
-#: ../ExeManager.py:116 ../CronManager.py:152
-msgid "Modify"
-msgstr "Módosítás"
-
-#: ../ExeManager.py:117 ../CronManager.py:153
-msgid "Execute"
-msgstr "Végrehajtás"
-
-#: ../ExeManager.py:155
 #, python-format
-msgid "File %s was not found"
-msgstr "Fájl %s  nem található "
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
 
-#: ../ExeManager.py:158
-#, python-format
-msgid "File %s is not executable"
-msgstr "Fájl %s nem futtatható"
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:164 ../CronManager.py:187
-#, python-format
-msgid "Command: %s was executed"
-msgstr "Parancs: %s végrehajtva"
+msgid ""
+"Flash process of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:195
-msgid "your executable"
-msgstr "Végrehajtható"
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:197 ../ExeManager.py:259
-msgid "no"
-msgstr "nem"
+msgid "preparing backup of image"
+msgstr ""
 
-#: ../ExeManager.py:197 ../ExeManager.py:259
-msgid "yes"
-msgstr "igen"
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
 
-#: ../ExeManager.py:198
-msgid "Add a executable to ExeManager"
-msgstr "Egy végrehajtás hozzáadása az Exe-kezelőhöz"
+msgid "The system is missing some necessary files !"
+msgstr ""
 
-#: ../ExeManager.py:218 ../ExeManager.py:280 ../CronManager.py:250
-#: ../CronManager.py:368
-msgid "Command to execute : "
-msgstr "Parancs a végrehajtásra :"
+msgid "Backup of root filesystem failed"
+msgstr ""
 
-#: ../ExeManager.py:219 ../ExeManager.py:281 ../CronManager.py:251
-msgid "Additional command options : "
-msgstr "Pótlólagos parancslehetőségek : "
+msgid "backup root filesystem"
+msgstr ""
 
-#: ../ExeManager.py:220 ../ExeManager.py:282
-msgid "Show command output : "
-msgstr "Parancskimenet : "
+msgid "Error at preparing system for backup"
+msgstr ""
 
-#: ../ExeManager.py:260
-msgid "Modify execute command"
-msgstr "A végrehajtási parancs módosítása"
+msgid "create flashable file of root filesystem"
+msgstr ""
 
-#: ../ExeManager.py:334
-msgid "Select a file to execute"
-msgstr "Fájl kiválasztása futtatásra"
+msgid "backup of running kernel"
+msgstr ""
 
-#: ../ExeManager.py:340 ../CronManager.py:446
-msgid "OK"
-msgstr "Rendben"
+msgid "Backup of kernel failed"
+msgstr ""
 
-#: ../ExeManager.py:347 ../ExeManager.py:418 ../CronManager.py:453
-#: ../CronManager.py:524
-msgid "Invalid Choice"
-msgstr "Érvénytelen választás"
+msgid "Image backup finished successfully"
+msgstr ""
 
-#: ../ExeManager.py:355 ../ExeManager.py:407 ../CronManager.py:461
-#: ../CronManager.py:513
-msgid "File is not executable"
-msgstr "Fájl nem  végrehajtható"
+msgid "A new skin was installed\n"
+msgstr ""
 
-#: ../ExeManager.py:408 ../CronManager.py:514
-msgid "chmod 755"
-msgstr "chmod 755"
+msgid "Do you want to open the skin choice list?"
+msgstr ""
 
-#: ../CronManager.py:144
-msgid "VTI CronManager"
-msgstr "VTI Időzített feladatkezelő"
+#~ msgid "/hdd"
+#~ msgstr "/hdd"
 
-#: ../CronManager.py:224
-msgid "your cronjob"
-msgstr "Időzített feladatod"
+#~ msgid "/media/hdd"
+#~ msgstr "/media/hdd"
 
-#: ../CronManager.py:230
-msgid "Add a job to CronManager"
-msgstr "Feladat hozzáadása az időzített feladatkezelőhöz"
+#~ msgid "/media/usb"
+#~ msgstr "/media/usb"
 
-#: ../CronManager.py:252 ../CronManager.py:369
-msgid "Input minute : "
-msgstr "Add  meg a percet:"
+#~ msgid "/media/hdd1"
+#~ msgstr "/media/hdd1"
 
-#: ../CronManager.py:253 ../CronManager.py:370
-msgid "Input hour : "
-msgstr "Add meg az órát: "
+#~ msgid "/media/usb1"
+#~ msgstr "/media/usb1"
 
-#: ../CronManager.py:254 ../CronManager.py:371
-msgid "Input day : "
-msgstr "Add meg a napot: "
+#~ msgid "EPG path set to : %s"
+#~ msgstr "EPG útvonal megadása:%s"
 
-#: ../CronManager.py:255 ../CronManager.py:372
-msgid "Input month : "
-msgstr "Add meg a hónapot: "
+#~ msgid "Infos about your VU+Duo"
+#~ msgstr "Információ a te VU+Duo készülékedről"
 
-#: ../CronManager.py:256 ../CronManager.py:373
-msgid "Input weekday : "
-msgstr "Add meg a hétköznapot: "
+#~ msgid "manage your VU+Duo"
+#~ msgstr "a VU+Duó kezelése"
 
-#: ../CronManager.py:348
-msgid "Modify a CronManager job"
-msgstr "Időzített feladatkezelői feladat módosítása"
+#~ msgid "VTI Backup Tools"
+#~ msgstr "VTI Mentési Eszközök"
 
-#: ../CronManager.py:440
-msgid "Select a executable file for a cronjob"
-msgstr "Végrehajtható fájl kiválasztása az időzített feladathoz"
+#~ msgid "backup or restore your settings"
+#~ msgstr "Beállításaid mentése vagy visszaállítása"
+
+#~ msgid ""
+#~ "There are no news or your\n"
+#~ "Internet connection is not ok"
+#~ msgstr ""
+#~ "Nincs új hír vagy a Te\n"
+#~ "Internet kapcsolatod nincs rendben"
+
+#~ msgid ""
+#~ "\n"
+#~ "Package : %s \n"
+#~ " old version : %s | new version : %s \n"
+#~ msgstr ""
+#~ "\n"
+#~ "Csomag : %s \n"
+#~ " régi verzió : %s | új verzió : %s \n"
+
+#~ msgid "Remove Skins"
+#~ msgstr "Arculat (Skin) törlése"
+
+#~ msgid "choose skin to remove"
+#~ msgstr "Arculat kijelölése törlésre"
+
+#~ msgid "Menu "
+#~ msgstr "Menü"
+
+#~ msgid ""
+#~ " not implemented yet\n"
+#~ "\n"
+#~ "Please choose another one."
+#~ msgstr ""
+#~ "Még nincs megvalósítva\n"
+#~ "\n"
+#~ "Kérlek válassz másikat"
+
+#~ msgid "VTI Backup Image"
+#~ msgstr "VTI Mentett Image"
+
+#~ msgid ""
+#~ "No valid Backupdestion found!!!! \n"
+#~ "\n"
+#~ "Please install an internal Harddisk first to create Backups."
+#~ msgstr ""
+#~ "Nem tatálható mentési hely!!!! \n"
+#~ "\n"
+#~ "Kérlek telepíts egy merevlemezt a mentéshez."

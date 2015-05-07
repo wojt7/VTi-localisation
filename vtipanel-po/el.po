@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VTIPanel\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-25 09:56+0100\n"
+"POT-Creation-Date: 2014-07-08 21:39+0100\n"
 "PO-Revision-Date: 2011-07-06 20:44+0200\n"
 "Last-Translator: stavros <staxi@in.gr>\n"
 "Language-Team: LANGUAGE VTI <VTI>\n"
@@ -18,744 +18,357 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../EPGPanel.py:33
-msgid "/hdd"
-msgstr "/hdd"
+msgid "VTI DriverManager"
+msgstr ""
 
-#: ../EPGPanel.py:33
-msgid "/media/hdd"
-msgstr "/media/hdd"
-
-#: ../EPGPanel.py:33
-msgid "/media/usb"
-msgstr "/media/usb"
-
-#: ../EPGPanel.py:33
-msgid "/media/hdd1"
-msgstr "/media/hdd1"
-
-#: ../EPGPanel.py:33
-msgid "/media/usb1"
-msgstr "/media/usb1"
-
-#: ../EPGPanel.py:36
-msgid "VTI EPG Panel"
-msgstr "VTI EPG Πάνελ"
-
-#: ../EPGPanel.py:42
-#: ../plugin.py:1420
 msgid "Exit"
 msgstr "Εξοδος"
 
-#: ../EPGPanel.py:43
-#: ../BackupRestore.py:113
-#: ../ExeManager.py:204
-#: ../ExeManager.py:266
-#: ../CronManager.py:236
-#: ../CronManager.py:354
-msgid "Save"
-msgstr "Αποθήκευση"
+msgid "OK"
+msgstr "OK"
 
-#: ../EPGPanel.py:59
-msgid "EPG Path :"
-msgstr "EPG Path :"
+msgid "not available"
+msgstr ""
 
-#: ../EPGPanel.py:60
-msgid "Save EPG cache to epg.dat"
-msgstr "Αποθήκευση EPG cache στο epg.dat"
+msgid "Current drivers: "
+msgstr ""
 
-#: ../EPGPanel.py:61
-msgid "Load EPG data from epg.dat"
-msgstr "Φορτώση EPG δεδομένων από epg.dat"
+msgid "Install drivers from a local device"
+msgstr ""
 
-#: ../EPGPanel.py:73
+msgid "choose drivers from local filesystem to install"
+msgstr ""
+
+msgid "Download and install drivers from Vu+ website"
+msgstr ""
+
+msgid "choose drivers for download/install"
+msgstr ""
+
+msgid "Sorry, detection of current kernel version failed !"
+msgstr ""
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+
+msgid "Installation of drivers failed !!!"
+msgstr ""
+
+msgid "Select a drivers to install"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Invalid Choice"
+msgstr "Άκυρα Choice"
+
+msgid "no valid drivers"
+msgstr ""
+
+msgid "Please wait ..."
+msgstr ""
+
+msgid " downloading available drivers information"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
 #, python-format
-msgid "EPG path set to : %s"
-msgstr "EPG path set στο : %s"
+msgid "Driver : %s"
+msgstr ""
 
-#: ../EPGPanel.py:89
-#, python-format
-msgid "Saving of EPG cache to %s finished"
-msgstr "Αποθήκευση του EPG cache στο  %s τελείωσε"
+msgid "choose this drivers for download"
+msgstr ""
 
-#: ../EPGPanel.py:97
-#, python-format
-msgid "Loading EPG data from %s finished"
-msgstr "Φώρτοση EPG δεδομένων από %s τελείωσε"
+msgid "Please wait, downloading drivers: "
+msgstr ""
 
-#: ../plugin.py:84
-#: ../plugin.py:213
-#: ../plugin.py:414
-#: ../plugin.py:1490
-#: ../plugin.py:1719
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+
 msgid "Close"
 msgstr "Κλείσημο"
 
-#: ../plugin.py:85
-msgid "News"
-msgstr "Ειδήσεις"
-
-#: ../plugin.py:86
-msgid "System Tools"
-msgstr "Εργαλεία συστήματος"
-
-#: ../plugin.py:87
-msgid "Cam Center"
-msgstr "Cam Κέντρο"
-
-#: ../plugin.py:91
-msgid "VTI Panel"
-msgstr "VTI Πάνελ"
-
-#: ../plugin.py:138
-msgid "VTI Cam Center"
-msgstr "VTI Cam Κέντρο"
-
-#: ../plugin.py:138
-msgid "select or install your favourite cam"
-msgstr "επιλέξετε ή να εγκαταστήσετε το αγαπημένο σας cam"
-
-#: ../plugin.py:139
-msgid "VTI System Info"
-msgstr "VTI Σύστημα Πληροφοριών"
-
-#: ../plugin.py:139
-msgid "Infos about your VU+Duo"
-msgstr "Πληροφορίες σχετικά με VU+Duo"
-
-#: ../plugin.py:140
-#: ../plugin.py:394
-msgid "VTI System Tools"
-msgstr "VTI Εργαλεία συστήματος"
-
-#: ../plugin.py:140
-msgid "manage your VU+Duo"
-msgstr "διαχειριστείτε VU+Duo  "
-
-#: ../plugin.py:141
-#: ../plugin.py:370
-msgid "VTI Image Tools"
-msgstr "VTI Εργαλεία Image "
-
-#: ../plugin.py:141
-msgid "backup or flash an image"
-msgstr "αντιγράφων ασφαλείας ή flash ενα image"
-
-#: ../plugin.py:142
-#: ../plugin.py:355
-msgid "VTI Backup Tools"
-msgstr "VTI εργαλεία δημιουργίας αντιγράφων ασφαλείας"
-
-#: ../plugin.py:142
-msgid "backup or restore your settings"
-msgstr "αντιγράφων ασφαλείας ή να επαναφέρετε τις ρυθμίσεις σας"
-
-#: ../plugin.py:143
-msgid "manual Installer"
-msgstr "χειροκήνιτη εγκατάστασης"
-
-#: ../plugin.py:143
-msgid "install .tar.gz or ipkg manually"
-msgstr "εγγατάσταη .tar.gz ή ipkg χειροκήνιτα"
-
-#: ../plugin.py:144
-msgid "Plugins"
-msgstr "Plugins"
-
-#: ../plugin.py:144
-msgid "open enigma2 Plugin Menu"
-msgstr "άνοιγμα Enigma2 Μενού Plugin"
-
-#: ../plugin.py:207
-#: ../plugin.py:249
-#: ../plugin.py:400
-msgid "News about VTI"
-msgstr "Ειδήσεις για VTI"
-
-#: ../plugin.py:214
-msgid "Update"
-msgstr "Ενημέρωση"
-
-#: ../plugin.py:215
-#: ../plugin.py:243
-#: ../plugin.py:253
-#: ../ExeManager.py:368
-#: ../ExeManager.py:405
-#: ../ExeManager.py:411
-#: ../ExeManager.py:416
-#: ../ExeManager.py:419
-#: ../CronManager.py:474
-#: ../CronManager.py:511
-#: ../CronManager.py:517
-#: ../CronManager.py:522
-#: ../CronManager.py:525
-msgid " "
+msgid "reload package data"
 msgstr ""
 
-#: ../plugin.py:216
-#: ../plugin.py:252
-msgid "show Updates"
-msgstr "δες Ενημερώσεις "
+msgid "Download or delete Software"
+msgstr ""
 
-#: ../plugin.py:240
-msgid "Upgradable Packages"
-msgstr "Τα πακέτα αναβάθμισης"
-
-#: ../plugin.py:244
-msgid "show News"
-msgstr "Εμφάνιση Ειδήσεις"
-
-#: ../plugin.py:293
-#: ../plugin.py:296
-#: ../plugin.py:322
 msgid ""
-"There are no news or your\n"
-"Internet connection is not ok"
+"\n"
+"After pressing OK, please wait!"
 msgstr ""
-"Δεν υπάρχουν νέα ή \n"
-"Σύνδεση με το Διαδίκτυο δεν είναι εντάξει"
+"\n"
+"Αφού πατήσετε OK, παρακαλώ περιμένετε!"
 
-#: ../plugin.py:317
 #, python-format
 msgid ""
-"\n"
-"Package : %s \n"
-" old version : %s | new version : %s \n"
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
 msgstr ""
-"\n"
-"Πακέτο : %s \n"
-" παλιά έκδοση : %s | νέα έκδοση : %s \n"
 
-#: ../plugin.py:319
+msgid "Excecute"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Package list update"
+msgstr "Πακέτο ενημέρωση λίστας"
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Προσπαθώντας να κατεβάσετε ένα νέο packetlist. Παρακαλώ περιμένετε ..."
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr ""
+"Υπήρξε ένα σφάλμα κατά τη λήψη του packetlist. Παρακαλώ δοκιμάστε ξανά."
+
+msgid "Extensions"
+msgstr ""
+
+msgid "install/remove common plugins"
+msgstr ""
+
+msgid "Systemplugins"
+msgstr ""
+
+msgid "install/remove systemplugins"
+msgstr ""
+
+msgid "Skins"
+msgstr ""
+
+msgid "install/remove skins to change look of OSD"
+msgstr ""
+
+msgid "SoftCams"
+msgstr ""
+
+msgid "install/remove softcams"
+msgstr ""
+
+msgid "Configurations"
+msgstr ""
+
+msgid "install/remove configuration files for softcams"
+msgstr ""
+
+msgid "Picons"
+msgstr ""
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "install/remove channel lists"
+msgstr ""
+
+msgid "Kernel modules"
+msgstr ""
+
+msgid "install/remove kernel modules"
+msgstr ""
+
+msgid "Language packages"
+msgstr ""
+
+msgid "install/remove language packages for dvbapp2"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "Start"
+msgstr "Εκκίνηση"
+
+msgid "Execution finished.\n"
+msgstr ""
+
+msgid "Do you want to restart GUI ?"
+msgstr ""
+
+msgid "VTi ZerO"
+msgstr ""
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Restore"
+msgstr "Επαναφορά"
+
+msgid "Free Flash"
+msgstr ""
+
+msgid "Remove preinstalled plugins"
+msgstr ""
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr ""
+
+msgid "Remove WLAN support"
+msgstr ""
+
+msgid "remove WLAN plugins and drivers"
+msgstr ""
+
+msgid "Remove HbbTV support"
+msgstr ""
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr ""
+
+msgid "Remove samba server"
+msgstr ""
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr ""
+
+msgid "Remove USB tuner support"
+msgstr ""
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr ""
+
+msgid "Remove language files"
+msgstr ""
+
+msgid "delete translation files expect configured language"
+msgstr ""
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+
+#, python-format
+msgid "Free space at flash memory : %d MB\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να επαναφέρετε \n"
+"παρακάτω αντιγράφων ασφαλείας:\n"
+
 msgid ""
 "\n"
-"Your System is up to date"
+"System will restart after the restore!"
 msgstr ""
 "\n"
-"Το σύστημά σας είναι ενημερωμένο"
+"Το σύστημα θα κάνει επανεκκίνηση μετά την επαναφορά!"
 
-#: ../plugin.py:338
-msgid "VTI Sub Menu"
-msgstr "VTI Sub Menu"
-
-#: ../plugin.py:350
-msgid "Backup system settings"
-msgstr "Αντιγράφων ασφαλείας των ρυθμίσεων συστήματος"
-
-#: ../plugin.py:350
-msgid "Backup your STB settings."
-msgstr "Αντιγράφων ασφαλείας STB των ρυθμίσεων σας."
-
-#: ../plugin.py:351
-msgid "Restore system settings"
-msgstr "Επαναφορά ρυθμίσεων συστήματος"
-
-#: ../plugin.py:351
-msgid "Restore your STB settings."
-msgstr "Επαναφορά STB των ρυθμίσεων σας."
-
-#: ../plugin.py:352
-#: ../plugin.py:368
-msgid "Advanced restore"
-msgstr "Προηγμένη αποκατάσταση"
-
-#: ../plugin.py:352
-#: ../plugin.py:368
-msgid "Restore your backups by date."
-msgstr "Επαναφορά αντιγράφων ασφαλείας σας κατά ημερομηνία."
-
-#: ../plugin.py:353
-#: ../plugin.py:369
-msgid "Choose backup location"
-msgstr "Επιλέξτε θέση των αντιγράφων ασφαλείας"
-
-#: ../plugin.py:353
-#: ../plugin.py:369
-msgid "Select your backup device. "
-msgstr "Επιλέξτε το αντίγραφο ασφαλείας της συσκευής σας."
-
-#: ../plugin.py:354
-msgid "Choose backup files"
-msgstr "Επιλέξτε τα αρχεία αντιγράφων ασφαλείας"
-
-#: ../plugin.py:354
-msgid "Select files for backup. "
-msgstr "Επιλέξτε τα αρχεία για backup."
-
-#: ../plugin.py:358
-msgid "Install .tar.gz "
-msgstr "Εγκατάσταση .tar.gz "
-
-#: ../plugin.py:358
-msgid "Install all .tar.gz file form /tmp "
-msgstr "Εγκαταστήστε όλα .tar.gz μορφή αρχείου /tmp "
-
-#: ../plugin.py:359
-msgid "Install Ipkg"
-msgstr "Εγκαταστήστε Ipkg"
-
-#: ../plugin.py:359
-msgid "Install local ipkg"
-msgstr "Install τοπικά ipkg"
-
-#: ../plugin.py:360
-msgid "Advanced Ipkg Install"
-msgstr "Σύνθετη Ipkg Εγκατάσταση"
-
-#: ../plugin.py:360
-msgid "Install local ipkg with --force overwrite"
-msgstr "Εγκαταστήστε τις τοπικές ipkg με - force overwrite"
-
-#: ../plugin.py:361
-msgid "VTI manual Addon Installer"
-msgstr "VTI χειροκήνιτη εγκατάσταση Addon  "
-
-#: ../plugin.py:364
-msgid "Update Image"
-msgstr "Ενημέρωση Image"
-
-#: ../plugin.py:364
-msgid "Update your STB image from Internet."
-msgstr "Ενημέρωση STB image από το Internet."
-
-#: ../plugin.py:366
-msgid "Backup Image"
-msgstr "Αντίγραφο ασφαλείας Image"
-
-#: ../plugin.py:366
-msgid "Backup your running STB image."
-msgstr "Αντιγράφων ασφαλείας image εκτελείται απο τον δεκτη σας απο "
-
-#: ../plugin.py:367
-msgid "Restore Image"
-msgstr "Επαναφορά Image"
-
-#: ../plugin.py:367
-msgid "Restore your backuped STB image."
-msgstr "Επαναφορά backuped image στον δέκτη σας."
-
-#: ../plugin.py:374
-msgid "Device Manager"
-msgstr "Διαχείριση συσκευών"
-
-#: ../plugin.py:374
-msgid "manage your HDD's and USB devices"
-msgstr "διαχείριση του HDD σας και συσκευές USB"
-
-#: ../plugin.py:376
-msgid "File Manager"
-msgstr "Διαχείριση Αρχείων"
-
-#: ../plugin.py:376
-msgid "open Filemanager"
-msgstr "άνοιγμα διαχειριστή αρχείων"
-
-#: ../plugin.py:378
-msgid "Network Browser"
-msgstr "Browser Network"
-
-#: ../plugin.py:378
-msgid "open NetworkBrowswer"
-msgstr "άνοιγμα NetworkBrowswer"
-
-#: ../plugin.py:379
-msgid "EPG Settings"
-msgstr "EPG Ρυθμίσεις"
-
-#: ../plugin.py:379
-msgid "set EPG path, restore or backup EPG data"
-msgstr "set EPG path, αποκατάσταση ή δημιουργία αντιγράφων ασφαλείας των δεδομένων EPG"
-
-#: ../plugin.py:380
-msgid "Cronjob Manager"
-msgstr "Cronjob Διευθυντής"
-
-#: ../plugin.py:380
-msgid "manage cronjobs of your VU+"
-msgstr "διαχειρίζονται cronjobs της VU+ σας"
-
-#: ../plugin.py:381
-msgid "Run Command"
-msgstr "Εκτέλεση εντολών"
-
-#: ../plugin.py:381
-msgid "run executable files of your VU+"
-msgstr "τρέξε εκτελέσιμα αρχεία της VU+ "
-
-#: ../plugin.py:382
-msgid "Set Root Password"
-msgstr "Ορισμός κωδικού πρόσβασης Root"
-
-#: ../plugin.py:382
-msgid "set root password of your stb"
-msgstr "Ορισμός κωδικού πρόσβασης root του αποκωδικοποιητή σαςαποκωδικοποιητή "
-
-#: ../plugin.py:384
-msgid "Services"
-msgstr "Υπηρεσίες"
-
-#: ../plugin.py:384
-msgid "enable/disable Systemservices"
-msgstr "ενεργοποίηση/απενεργοποίηση Systemservices"
-
-#: ../plugin.py:385
-msgid "USB DVB-T/C/S2 Panel"
-msgstr "USB DVB-T/C/S2 Πάνελ"
-
-#: ../plugin.py:385
-msgid "manage Sundtek USB DVB Stick"
-msgstr "διαχείριση Sundtek USB Stick DVB"
-
-#: ../plugin.py:386
-msgid "IPK Uninstaller"
-msgstr "IPK Απεγκαταστάτης"
-
-#: ../plugin.py:386
-msgid "remove seletected package from stb"
-msgstr "αφαιρέσετε seletected πακέτο από STB"
-
-#: ../plugin.py:388
-msgid "Purge Enigma2 Crashlogs"
-msgstr "Εκκαθάριση Enigma2 Crashlogs"
-
-#: ../plugin.py:388
-msgid "selective wipe of enigma2 crashlogs"
-msgstr "επιλεκτικός καθαρησμός του Enigma2 crashlogs"
-
-#: ../plugin.py:389
-msgid "Remove Skins"
-msgstr "Κατάργηση Skins"
-
-#: ../plugin.py:389
-msgid "choose skin to remove"
-msgstr "επιλέξτε το skin για να το αφαιρέσετε"
-
-#: ../plugin.py:391
-msgid "Swapfile"
-msgstr "Swapfile"
-
-#: ../plugin.py:391
-msgid "create and manage your Swapfile"
-msgstr "δημιουργήσετε και να διαχειριστείτε το Swapfile σας"
-
-#: ../plugin.py:392
-msgid "Set NTP Time"
-msgstr "Ρύθμιση NTP Χρόνος"
-
-#: ../plugin.py:392
-msgid "refresh time for enigma2 from ntp server"
-msgstr "ανανέωσης χρόνου για Enigma2 από NTP διακομιστή"
-
-#: ../plugin.py:393
-msgid "Harddisk Standby"
-msgstr "Αναμονή σκληρό δίσκο"
-
-#: ../plugin.py:393
-msgid "turns hdd immediately into standby mode"
-msgstr "στροφές hdd αμέσως σε κατάσταση αναμονής"
-
-#: ../plugin.py:397
-#: ../plugin.py:1414
-msgid "Bitrate Viewer"
-msgstr "Bitrate Viewer"
-
-#: ../plugin.py:397
-msgid "Show Advanced Bitrate infos"
-msgstr "Εμφάνιση Σύνθεταες Πληροφορίες Bitrate"
-
-#: ../plugin.py:399
-msgid "ECM Info"
-msgstr "ECM Πληροφορίες"
-
-#: ../plugin.py:399
-msgid "show ecm infos from temp dir"
-msgstr "Εμφάνιση Πληροφορίες ECM από temp dir"
-
-#: ../plugin.py:400
-msgid "show Feed updates"
-msgstr "Εμφάνιση ενημερώσεις Feed"
-
-#: ../plugin.py:401
-msgid "Show processes"
-msgstr "Διεργασίες Εμφάνιση"
-
-#: ../plugin.py:401
-msgid "show running processes"
-msgstr "δείχνουν τις διεργασίες που εκτελούνται"
-
-#: ../plugin.py:402
-msgid "Show filesystem mounts"
-msgstr "Εμφάνιση αναρτήσεις σύστημα αρχείων"
-
-#: ../plugin.py:402
-msgid "show active mounts"
-msgstr "δείχνουν ενεργό αναρτήσεις"
-
-#: ../plugin.py:403
-msgid "Harddisk Temperature"
-msgstr "Θερμοκρασία σκληρό δίσκο"
-
-#: ../plugin.py:403
-msgid "show HDD Temperature"
-msgstr "Εμφάνιση HDD θερμοκρασίας"
-
-#: ../plugin.py:404
-msgid "Show Consolesessions"
-msgstr "Consolesessions Εμφάνιση"
-
-#: ../plugin.py:404
-msgid "show all active user sessions"
-msgstr "Εμφάνιση όλων των ενεργών συνεδριών χρήστη"
-
-#: ../plugin.py:405
-msgid "Show Uptime"
-msgstr "Εμφάνιση Uptime"
-
-#: ../plugin.py:405
-msgid "show operating system uptime of stb"
-msgstr "Εμφάνιση λειτουργικό χρόνος λειτουργίας του συστήματος του δέκτη"
-
-#: ../plugin.py:406
-msgid "Show Networkconnections"
-msgstr "Εμφάνιση Networkconnections"
-
-#: ../plugin.py:406
-msgid "show all connected sockets from ip-stack"
-msgstr "Εμφάνιση όλων των συνδεδεμένων sockets από ip-stack"
-
-#: ../plugin.py:407
-msgid "Show Systemmemory Info"
-msgstr "Εμφάνιση Systemmemory Πληροφορίες"
-
-#: ../plugin.py:407
-msgid "show whole system memory usage"
-msgstr "δείχνουν όλη τη χρήση της μνήμης του συστήματος"
-
-#: ../plugin.py:408
-msgid "Show Networkdetails"
-msgstr "Εμφάνιση Networkdetails"
-
-#: ../plugin.py:408
-msgid "shows assigned ip-adresses, routingtable and nameserver"
-msgstr "δείχνει ανατεθεί διευθύνσεις IP, routingtable και nameserver"
-
-#: ../plugin.py:409
-msgid "Show diskspace"
-msgstr "Εμφάνιση χώρο στο δίσκο"
-
-#: ../plugin.py:409
-msgid "show diskpace"
-msgstr "Εμφάνιση diskpace"
-
-#: ../plugin.py:410
-msgid "Image Info"
-msgstr "Πληροφορίες Image "
-
-#: ../plugin.py:410
-msgid "show simple Image infos"
-msgstr "δείχνουν απλές πληροφορές  Image "
-
-#: ../plugin.py:411
-msgid "VTI System Infos"
-msgstr "VTI Πληροφορίες Συστήματος"
-
-#: ../plugin.py:415
-msgid ""
-"\n"
-"Press OK on your remote control to continue."
+msgid "VTI BackupSuite"
 msgstr ""
-"\n"
-"Πατήστε OK στο τηλεχειριστήριο σας για να συνεχίσετε."
 
-#: ../plugin.py:454
-#: ../plugin.py:483
+msgid "Backup"
+msgstr ""
+
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr ""
+
+msgid "set device for directory vti-backupsuite"
+msgstr ""
+
+msgid "Backup installed plugins"
+msgstr ""
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr ""
+
+msgid "Backup channel settings"
+msgstr ""
+
+msgid "save channel and bouquet settings"
+msgstr ""
+
+msgid "Backup configurations"
+msgstr ""
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Restore plugins from saved list"
+msgstr ""
+
+msgid "installs all available plugins from online feed"
+msgstr ""
+
+msgid "Restore channel settings"
+msgstr ""
+
+msgid "reload saved channel and bouquet settings"
+msgstr ""
+
+msgid "Restore configurations"
+msgstr ""
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr ""
+
+msgid "Install local packages"
+msgstr ""
+
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr ""
+
+msgid "Run personal script"
+msgstr ""
+
+msgid "executes your personal backup/restore scripts"
+msgstr ""
+
 msgid "Please select medium to use as backup location"
-msgstr "Παρακαλώ επιλέξτε μέσο που θα χρησιμοποιηθεί ως θέση των αντιγράφων ασφαλείας"
-
-#: ../plugin.py:463
-msgid ""
-"Are you sure you want to restore your Enigma2 backup?\n"
-"Enigma2 will restart after the restore"
 msgstr ""
-"Είστε σίγουροι ότι θέλετε να επαναφέρετε το αντίγραφο ασφαλείας Enigma2?\n"
-"Enigma2 θα επανεκκίνηση μετά την επαναφορά"
+"Παρακαλώ επιλέξτε μέσο που θα χρησιμοποιηθεί ως θέση των αντιγράφων ασφαλείας"
 
-#: ../plugin.py:465
-msgid "Sorry no backups found!"
-msgstr "Συγνώμη δεν βρέθηκαν αντίγραφα ασφαλείας!"
-
-#: ../plugin.py:468
-msgid "VTI .tar.gz installer"
-msgstr "VTI .tar.gz installer"
-
-#: ../plugin.py:470
-#: ../plugin.py:472
-msgid "VTI IPK Installer"
-msgstr "VTI IPK Installer"
-
-#: ../plugin.py:489
-#: ../plugin.py:491
-#: ../plugin.py:493
-#: ../plugin.py:495
-#: ../BackupRestore.py:385
-#: ../BackupRestore.py:387
-#: ../BackupRestore.py:389
-#: ../BackupRestore.py:391
-msgid "VTI Restore Image"
-msgstr "VTI Επαναφορά Image"
-
-#: ../plugin.py:497
-msgid ""
-"No image found!!!! \n"
-"\n"
-"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgid "List of installed plugins was created succesfully"
 msgstr ""
-"Δεν βρέθηκαν image !!!! \n"
-"\n"
-"Παρακαλώ αντιγράψτε usb image ή την αποκατάσταση του image στο /media/hdd/vuplus/MODEL ."
 
-#: ../plugin.py:499
-msgid "Menu "
-msgstr "Μενού"
-
-#: ../plugin.py:499
-msgid ""
-" not implemented yet\n"
-"\n"
-"Please choose another one."
+msgid "Creating list of installed plugins failed"
 msgstr ""
-"δεν εφαρμόζονται ακόμη \n"
-"\n"
-"Παρακαλώ επιλέξτε ένα άλλο."
 
-#: ../plugin.py:503
-msgid "VTI Backup Image"
-msgstr "VTI Backup Image"
-
-#: ../plugin.py:505
-msgid ""
-"No valid Backupdestion found!!!! \n"
-"\n"
-"Please install an internal Harddisk first to create Backups."
+msgid "Settings backup finished succesfully"
 msgstr ""
-"Δεν βρέθηκε έγκυρο Backupdestion !!!! \n"
-"\n"
-" Παρακαλείσθε να εγκαταστήσετε μια εσωτερική Harddisk πρώτα να δημιουργήσει αντίγραφα ασφαλείας."
 
-#: ../plugin.py:514
-msgid ""
-"The Device Manager is not installed!\n"
-"Please install it."
+msgid "Backup settings failed"
 msgstr ""
-"Η Διαχείριση συσκευών δεν έχει εγκατασταθεί! \n"
-"Παρακαλώ να το εγκαταστήσετε."
 
-#: ../plugin.py:522
-msgid ""
-"The FileManager is not installed!\n"
-"Please install it."
+msgid "Common configuration backup finished succesfully"
 msgstr ""
-"Ο διαχειριστής αρχείων δεν είναι εγκατεστημένο!\n"
-"Παρακαλώ να το εγκαταστήσετε."
 
-#: ../plugin.py:530
-msgid ""
-"The NetworkBrowser is not installed!\n"
-"Please install it."
+msgid "Backup of common configurations failed"
 msgstr ""
-"Το NetworkBrowser δεν είναι εγκατεστημένο! \n"
-"Παρακαλώ να το εγκαταστήσετε."
 
-#: ../plugin.py:563
-msgid "VTI Harddisk Standbymode"
-msgstr "VTI Standbymode Harddisk"
-
-#: ../plugin.py:568
-msgid "VTI show ecm.info"
-msgstr "VTI δείχνη ecm.info"
-
-#: ../plugin.py:570
-msgid "VTI show running processes"
-msgstr "VTI δείχνουν τις διεργασίες που εκτελούνται"
-
-#: ../plugin.py:574
-msgid "VTI show mounted filesystems"
-msgstr "VTI δείχνουν προσαρτημένα συστήματα αρχείων"
-
-#: ../plugin.py:576
-msgid "VTI show networkconfiguration and routingtable"
-msgstr "VTI δείχνουν networkconfiguration and routingtable"
-
-#: ../plugin.py:579
-msgid "Harddiskmanufacturer, Type and it's Temperature :"
-msgstr "Harddiskmanufacturer, Τύπος και είναι Θερμοκρασία: "
-
-#: ../plugin.py:579
-msgid "Are you sure to set hdd in standby mode?"
-msgstr "Είστε βέβαιοι ότι για να ρυθμίσετε hdd σε κατάσταση αναμονής;"
-
-#: ../plugin.py:580
-msgid "HDD Temperature"
-msgstr "HDD θερμοκρασίας"
-
-#: ../plugin.py:582
-msgid ""
-"No internal Harddisk detected!!!! \n"
-"\n"
-"Please install an internal Harddisk first to be in a position to check harddisk temperature."
-msgstr ""
-"Δεν ανιχνεύεται ο σκληρός δίσκος!!!! \n"
-"\n"
-"Παρακαλείσθε να εγκαταστήσετε μια εσωτερική Harddisk πρώτος που είναι σε θέση να ελέγξει τη θερμοκρασία σκληρό δίσκο."
-
-#: ../plugin.py:584
-msgid "Active Usersessions :"
-msgstr "Ενεργός Usersessions:"
-
-#: ../plugin.py:586
-msgid "Current Time, Operating Time and Load Average :"
-msgstr "Τρέχουσα ώρα, χρόνου λειτουργίας και Μέσοςφόρτος:"
-
-#: ../plugin.py:587
-msgid "Uptime"
-msgstr "Uptime"
-
-#: ../plugin.py:590
-msgid "VTI show network stats"
-msgstr "VTI δείχνουν στατηστικά δίκτυο "
-
-#: ../plugin.py:592
-msgid "Current Memory Usage :"
-msgstr "Η τρέχουσα χρήση μνήμης:"
-
-#: ../plugin.py:593
-msgid "Memory Usage"
-msgstr "Χρήση μνήμης"
-
-#: ../plugin.py:595
-msgid "VTI show free diskspace"
-msgstr "VTI δείχνουν ελεύθερο χώρο στο δίσκο"
-
-#: ../plugin.py:599
-msgid ""
-"Menu not implemented yet!!!! \n"
-"\n"
-"feel free to code this menu now ;)"
-msgstr ""
-"Μενού δεν εφαρμόζονται ακόμη!!! \n"
-"\n"
-"feel free to code this menu now ;)"
-
-#: ../plugin.py:602
-msgid "Install/update finished."
-msgstr "Εγκαταστήστε / ενημέρωση τελειώσει."
-
-#: ../plugin.py:602
-msgid "Do you want to reboot your STB?"
-msgstr "Θέλετε να κάνετε επανεκκίνηση του αποκωδικοποιητή σας;"
-
-#: ../plugin.py:634
-#: ../plugin.py:643
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
 "\n"
@@ -765,319 +378,740 @@ msgstr ""
 "\n"
 "Παρακαλώ επιλέξτε ένα άλλο."
 
-#: ../plugin.py:647
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Restoring settings finished successfully"
+msgstr ""
+
+msgid "Restoring settings failed"
+msgstr ""
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr ""
+
+msgid "Restore running"
+msgstr "Επαναφορά λειτουργίας"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να διαγράψετε\n"
+"παρακάτω αντιγράφων ασφαλείας:\n"
+
+msgid "Software"
+msgstr ""
+
+msgid "News"
+msgstr "Ειδήσεις"
+
+msgid "System Tools"
+msgstr "Εργαλεία συστήματος"
+
+msgid "Cam Center"
+msgstr "Cam Κέντρο"
+
+msgid "VTI Panel"
+msgstr "VTI Πάνελ"
+
+msgid "VTI Cam Center"
+msgstr "VTI Cam Κέντρο"
+
+msgid "select or install your favourite cam"
+msgstr "επιλέξετε ή να εγκαταστήσετε το αγαπημένο σας cam"
+
+msgid "VTI System Info"
+msgstr "VTI Σύστημα Πληροφοριών"
+
+msgid "Infos about your Vu+ STB"
+msgstr ""
+
+msgid "VTI System Tools"
+msgstr "VTI Εργαλεία συστήματος"
+
+msgid "manage your Vu+ STB"
+msgstr ""
+
+msgid "VTI Software Tools"
+msgstr ""
+
+msgid "backup/restore or install software"
+msgstr ""
+
+msgid "VTI Software Manager"
+msgstr ""
+
+msgid "install/download software for your Vu+"
+msgstr ""
+
+msgid "manual Installer"
+msgstr "χειροκήνιτη εγκατάστασης"
+
+msgid "install .tar.gz or ipkg manually"
+msgstr "εγγατάσταη .tar.gz ή ipkg χειροκήνιτα"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "open enigma2 Plugin Menu"
+msgstr "άνοιγμα Enigma2 Μενού Plugin"
+
+msgid "VTI Sub Menu"
+msgstr "VTI Sub Menu"
+
+msgid "Restore and backup installed channellist and plugins"
+msgstr ""
+
+msgid "Image Backup / Restore"
+msgstr ""
+
+msgid "backup or flash an image"
+msgstr "αντιγράφων ασφαλείας ή flash ενα image"
+
+msgid "Image Flash Tool"
+msgstr ""
+
+msgid "download images from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Driver Manager"
+msgstr ""
+
+msgid "install/download driver for your Vu+"
+msgstr ""
+
+msgid "Expert Backup / Restore"
+msgstr ""
+
+msgid "backup or restore your settings (only for experts)"
+msgstr ""
+
+msgid "Install .tar.gz "
+msgstr "Εγκατάσταση .tar.gz "
+
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Εγκαταστήστε όλα .tar.gz μορφή αρχείου /tmp "
+
+msgid "Install Ipkg"
+msgstr "Εγκαταστήστε Ipkg"
+
+msgid "Install local ipkg"
+msgstr "Install τοπικά ipkg"
+
+msgid "Advanced Ipkg Install"
+msgstr "Σύνθετη Ipkg Εγκατάσταση"
+
+msgid "Install local ipkg with --force overwrite"
+msgstr "Εγκαταστήστε τις τοπικές ipkg με - force overwrite"
+
+msgid "VTI manual Addon Installer"
+msgstr "VTI χειροκήνιτη εγκατάσταση Addon  "
+
+msgid "Update Image"
+msgstr "Ενημέρωση Image"
+
+msgid "Update your STB image from Internet."
+msgstr "Ενημέρωση STB image από το Internet."
+
+msgid "VTI Image Tools"
+msgstr "VTI Εργαλεία Image "
+
+msgid "Device Manager"
+msgstr "Διαχείριση συσκευών"
+
+msgid "manage your HDD's and USB devices"
+msgstr "διαχείριση του HDD σας και συσκευές USB"
+
+msgid "File Manager"
+msgstr "Διαχείριση Αρχείων"
+
+msgid "open Filemanager"
+msgstr "άνοιγμα διαχειριστή αρχείων"
+
+msgid "Network Browser"
+msgstr "Browser Network"
+
+msgid "open NetworkBrowswer"
+msgstr "άνοιγμα NetworkBrowswer"
+
+msgid "Remove preinstalled packages from image"
+msgstr ""
+
+msgid "EPG Settings"
+msgstr "EPG Ρυθμίσεις"
+
+msgid "set EPG path, restore or backup EPG data"
+msgstr ""
+"set EPG path, αποκατάσταση ή δημιουργία αντιγράφων ασφαλείας των δεδομένων "
+"EPG"
+
+msgid "Custom Main Menu"
+msgstr ""
+
+msgid "delete entries from main menu of your VU+"
+msgstr ""
+
+msgid "Cronjob Manager"
+msgstr "Cronjob Διευθυντής"
+
+msgid "manage cronjobs of your VU+"
+msgstr "διαχειρίζονται cronjobs της VU+ σας"
+
+msgid "Run Command"
+msgstr "Εκτέλεση εντολών"
+
+msgid "run executable files of your VU+"
+msgstr "τρέξε εκτελέσιμα αρχεία της VU+ "
+
+msgid "Set VTI Panel Password"
+msgstr ""
+
+msgid "activate/change password for VTI Panel"
+msgstr ""
+
+msgid "Set Root Password"
+msgstr "Ορισμός κωδικού πρόσβασης Root"
+
+msgid "set root password of your stb"
+msgstr "Ορισμός κωδικού πρόσβασης root του αποκωδικοποιητή σαςαποκωδικοποιητή "
+
+msgid "Services"
+msgstr "Υπηρεσίες"
+
+msgid "enable/disable Systemservices"
+msgstr "ενεργοποίηση/απενεργοποίηση Systemservices"
+
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "USB DVB-T/C/S2 Πάνελ"
+
+msgid "manage Sundtek USB DVB Stick"
+msgstr "διαχείριση Sundtek USB Stick DVB"
+
+msgid "Remove WebBrowser"
+msgstr ""
+
+msgid "removes WebBrowser and dependencies"
+msgstr ""
+
+msgid "Remove Opera HbbTV"
+msgstr ""
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr ""
+
+msgid "IPK Uninstaller"
+msgstr "IPK Απεγκαταστάτης"
+
+msgid "remove seletected package from stb"
+msgstr "αφαιρέσετε seletected πακέτο από STB"
+
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Εκκαθάριση Enigma2 Crashlogs"
+
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "επιλεκτικός καθαρησμός του Enigma2 crashlogs"
+
+msgid "Swapfile"
+msgstr "Swapfile"
+
+msgid "create and manage your Swapfile"
+msgstr "δημιουργήσετε και να διαχειριστείτε το Swapfile σας"
+
+msgid "Set NTP Time"
+msgstr "Ρύθμιση NTP Χρόνος"
+
+msgid "refresh time for enigma2 from ntp server"
+msgstr "ανανέωσης χρόνου για Enigma2 από NTP διακομιστή"
+
+msgid "Harddisk Standby"
+msgstr "Αναμονή σκληρό δίσκο"
+
+msgid "turns hdd immediately into standby mode"
+msgstr "στροφές hdd αμέσως σε κατάσταση αναμονής"
+
+msgid "Bitrate Viewer"
+msgstr "Bitrate Viewer"
+
+msgid "Show Advanced Bitrate infos"
+msgstr "Εμφάνιση Σύνθεταες Πληροφορίες Bitrate"
+
+msgid "ECM Info"
+msgstr "ECM Πληροφορίες"
+
+msgid "show ecm infos from temp dir"
+msgstr "Εμφάνιση Πληροφορίες ECM από temp dir"
+
+msgid "News about VTI"
+msgstr "Ειδήσεις για VTI"
+
+msgid "show Feed updates"
+msgstr "Εμφάνιση ενημερώσεις Feed"
+
+msgid "Info about current system"
+msgstr ""
+
+msgid "show information about processes, load, mounts ..."
+msgstr ""
+
+msgid "Show processes"
+msgstr "Διεργασίες Εμφάνιση"
+
+msgid "show running processes"
+msgstr "δείχνουν τις διεργασίες που εκτελούνται"
+
+msgid "Show filesystem mounts"
+msgstr "Εμφάνιση αναρτήσεις σύστημα αρχείων"
+
+msgid "show active mounts"
+msgstr "δείχνουν ενεργό αναρτήσεις"
+
+msgid "Harddisk Temperature"
+msgstr "Θερμοκρασία σκληρό δίσκο"
+
+msgid "show HDD Temperature"
+msgstr "Εμφάνιση HDD θερμοκρασίας"
+
+msgid "Show Consolesessions"
+msgstr "Consolesessions Εμφάνιση"
+
+msgid "show all active user sessions"
+msgstr "Εμφάνιση όλων των ενεργών συνεδριών χρήστη"
+
+msgid "Show Uptime"
+msgstr "Εμφάνιση Uptime"
+
+msgid "show operating system uptime of stb"
+msgstr "Εμφάνιση λειτουργικό χρόνος λειτουργίας του συστήματος του δέκτη"
+
+msgid "Show Networkconnections"
+msgstr "Εμφάνιση Networkconnections"
+
+msgid "show all connected sockets from ip-stack"
+msgstr "Εμφάνιση όλων των συνδεδεμένων sockets από ip-stack"
+
+msgid "Show Systemmemory Info"
+msgstr "Εμφάνιση Systemmemory Πληροφορίες"
+
+msgid "show whole system memory usage"
+msgstr "δείχνουν όλη τη χρήση της μνήμης του συστήματος"
+
+msgid "Show Networkdetails"
+msgstr "Εμφάνιση Networkdetails"
+
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "δείχνει ανατεθεί διευθύνσεις IP, routingtable και nameserver"
+
+msgid "Show diskspace"
+msgstr "Εμφάνιση χώρο στο δίσκο"
+
+msgid "show diskpace"
+msgstr "Εμφάνιση diskpace"
+
+msgid "Image Info"
+msgstr "Πληροφορίες Image "
+
+msgid "show simple Image infos"
+msgstr "δείχνουν απλές πληροφορές  Image "
+
+msgid "VTI System Infos"
+msgstr "VTI Πληροφορίες Συστήματος"
+
+msgid "VTI Backupsuite"
+msgstr ""
+
+msgid "Backup installed channellist and plugins"
+msgstr ""
+
+msgid "Restore installed channellist and plugins"
+msgstr ""
+
+msgid "Backup Image"
+msgstr "Αντίγραφο ασφαλείας Image"
+
+msgid "Backup your running STB image."
+msgstr "Αντιγράφων ασφαλείας image εκτελείται απο τον δεκτη σας απο "
+
+msgid "Restore Image"
+msgstr "Επαναφορά Image"
+
+msgid "Restore your backuped STB image."
+msgstr "Επαναφορά backuped image στον δέκτη σας."
+
+msgid "Choose backup location"
+msgstr "Επιλέξτε θέση των αντιγράφων ασφαλείας"
+
+msgid "Select your backup device. "
+msgstr "Επιλέξτε το αντίγραφο ασφαλείας της συσκευής σας."
+
+msgid "VTI Image Backup/Restore"
+msgstr ""
+
+msgid "Backup system settings"
+msgstr "Αντιγράφων ασφαλείας των ρυθμίσεων συστήματος"
+
+msgid "Backup your STB settings."
+msgstr "Αντιγράφων ασφαλείας STB των ρυθμίσεων σας."
+
+msgid "Restore system settings"
+msgstr "Επαναφορά ρυθμίσεων συστήματος"
+
+msgid "Restore your STB settings."
+msgstr "Επαναφορά STB των ρυθμίσεων σας."
+
+msgid "Advanced restore"
+msgstr "Προηγμένη αποκατάσταση"
+
+msgid "Restore your backups by date."
+msgstr "Επαναφορά αντιγράφων ασφαλείας σας κατά ημερομηνία."
+
+msgid "Choose backup files"
+msgstr "Επιλέξτε τα αρχεία αντιγράφων ασφαλείας"
+
+msgid "Select files for backup. "
+msgstr "Επιλέξτε τα αρχεία για backup."
+
+msgid "VTI Expert Backup/Restore"
+msgstr ""
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Πατήστε OK στο τηλεχειριστήριο σας για να συνεχίσετε."
+
+msgid "VTI .tar.gz installer"
+msgstr "VTI .tar.gz installer"
+
+msgid "VTI IPK Installer"
+msgstr "VTI IPK Installer"
+
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Η Διαχείριση συσκευών δεν έχει εγκατασταθεί! \n"
+"Παρακαλώ να το εγκαταστήσετε."
+
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"Ο διαχειριστής αρχείων δεν είναι εγκατεστημένο!\n"
+"Παρακαλώ να το εγκαταστήσετε."
+
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"Το NetworkBrowser δεν είναι εγκατεστημένο! \n"
+"Παρακαλώ να το εγκαταστήσετε."
+
+msgid "VTI Harddisk Standbymode"
+msgstr "VTI Standbymode Harddisk"
+
+msgid "VTI show ecm.info"
+msgstr "VTI δείχνη ecm.info"
+
+msgid "VTI show running processes"
+msgstr "VTI δείχνουν τις διεργασίες που εκτελούνται"
+
+msgid "VTI show mounted filesystems"
+msgstr "VTI δείχνουν προσαρτημένα συστήματα αρχείων"
+
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "VTI δείχνουν networkconfiguration and routingtable"
+
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "Harddiskmanufacturer, Τύπος και είναι Θερμοκρασία: "
+
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "Είστε βέβαιοι ότι για να ρυθμίσετε hdd σε κατάσταση αναμονής;"
+
+msgid "HDD Temperature"
+msgstr "HDD θερμοκρασίας"
+
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check "
+"harddisk temperature."
+msgstr ""
+"Δεν ανιχνεύεται ο σκληρός δίσκος!!!! \n"
+"\n"
+"Παρακαλείσθε να εγκαταστήσετε μια εσωτερική Harddisk πρώτος που είναι σε "
+"θέση να ελέγξει τη θερμοκρασία σκληρό δίσκο."
+
+msgid "Active Usersessions :"
+msgstr "Ενεργός Usersessions:"
+
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Τρέχουσα ώρα, χρόνου λειτουργίας και Μέσοςφόρτος:"
+
+msgid "Uptime"
+msgstr "Uptime"
+
+msgid "VTI show network stats"
+msgstr "VTI δείχνουν στατηστικά δίκτυο "
+
+msgid "Current Memory Usage :"
+msgstr "Η τρέχουσα χρήση μνήμης:"
+
+msgid "Memory Usage"
+msgstr "Χρήση μνήμης"
+
+msgid "VTI show free diskspace"
+msgstr "VTI δείχνουν ελεύθερο χώρο στο δίσκο"
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να επαναφέρετε το αντίγραφο ασφαλείας Enigma2?\n"
+"Enigma2 θα επανεκκίνηση μετά την επαναφορά"
+
+msgid "Sorry no backups found!"
+msgstr "Συγνώμη δεν βρέθηκαν αντίγραφα ασφαλείας!"
+
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Μενού δεν εφαρμόζονται ακόμη!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+
+msgid "Install/update finished."
+msgstr "Εγκαταστήστε / ενημέρωση τελειώσει."
+
+msgid "Do you want to reboot your STB?"
+msgstr "Θέλετε να κάνετε επανεκκίνηση του αποκωδικοποιητή σας;"
+
+msgid "VTI Restore Image"
+msgstr "VTI Επαναφορά Image"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Δεν βρέθηκαν image !!!! \n"
+"\n"
+"Παρακαλώ αντιγράψτε usb image ή την αποκατάσταση του image στο /media/hdd/"
+"vuplus/MODEL ."
+
 msgid "VTI-Backup done."
 msgstr "VTI-αντιγράφων ασφαλείας γίνεται."
 
-#: ../plugin.py:649
 msgid "VTI-Backup failed."
 msgstr "VTI-αντιγράφων ασφαλείας απέτυχε."
 
-#: ../plugin.py:667
 msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
 msgstr "Δεν ανιχνεύθεικε σκληρούς δίσκους ή σκληρούς δίσκους με  S.M.A.R.T "
 
-#: ../plugin.py:673
 msgid "At"
 msgstr "At"
 
-#: ../plugin.py:677
 msgid "Could not grep Uptime Information from busybox"
 msgstr "Δεν ήταν δυνατή η grep Uptime Πληροφορίες από busybox"
 
-#: ../plugin.py:689
 msgid "Could not grep socket information from busybox"
 msgstr "Δεν ήταν δυνατή η grep πληροφορίες υποδοχή από busybox"
 
-#: ../plugin.py:701
 msgid "Could not grep Memory Usage information from busybox"
 msgstr "Δεν ήταν δυνατή η grep μνήμης Πληροφορίες χρήσης από busybox"
 
-#: ../plugin.py:737
-#: ../plugin.py:802
 msgid "VTI Status List Menu"
 msgstr "VTI μενού λίστας Κατάσταση"
 
-#: ../plugin.py:744
 msgid "Stop Swap"
 msgstr "Σταματήστε Swap"
 
-#: ../plugin.py:745
 msgid "Start Swap"
 msgstr "Έναρξη Swap"
 
-#: ../plugin.py:750
 msgid "VTI SwapFile Menu"
 msgstr "VTI αρχείο αντιμετάθεσης Μενού"
 
-#: ../plugin.py:753
 msgid "Stop"
 msgstr "Stop"
 
-#: ../plugin.py:754
-msgid "Start"
-msgstr "Εκκίνηση"
-
-#: ../plugin.py:755
 msgid "Restart"
 msgstr "Επανεκκίνηση"
 
-#: ../plugin.py:758
 msgid "VTI Services Menu"
 msgstr "VTI Υπηρεσίες Menu"
 
-#: ../plugin.py:761
 msgid "Uninstall"
 msgstr "Απεγκατάσταση"
 
-#: ../plugin.py:762
 msgid "Force uninst."
 msgstr "Force uninst."
 
-#: ../plugin.py:767
 msgid "VTI IPK Uninstaller Menu"
 msgstr "VTI IPK Uninstaller Μενού"
 
-#: ../plugin.py:770
 msgid "Remove Skin"
 msgstr "Κατάργηση του Skin"
 
-#: ../plugin.py:777
 msgid "VTI Skinremove Menu"
 msgstr "VTI Skinremove Menu"
 
-#: ../plugin.py:780
 msgid "Remove selected"
 msgstr "Κατάργηση επιλεγμένων"
 
-#: ../plugin.py:781
 msgid "Remove all"
 msgstr "Κατάργηση όλων "
 
-#: ../plugin.py:782
 msgid "Remove older 7 Days"
 msgstr "Αφαιρέστε τα παλαιότερα τον 7 Ημέρων"
 
-#: ../plugin.py:785
 msgid "VTI Crashlogremove Menu"
 msgstr "VTI Crashlogremove Μενού"
 
-#: ../plugin.py:789
-msgid "Ok"
-msgstr "Ok"
-
-#: ../plugin.py:795
-#: ../plugin.py:1087
 msgid "VTI USB DVB-Panel"
 msgstr "VTI USB DVB-Panel"
 
-#: ../plugin.py:798
-#: ../plugin.py:799
-#: ../plugin.py:800
-#: ../plugin.py:801
 msgid "not in use"
 msgstr "δεν είναι σε χρήση"
 
-#: ../plugin.py:1014
 msgid "MB swapfile on "
 msgstr "MB αρχείο αντιμετάθεσης σε"
 
-#: ../plugin.py:1029
 msgid "Are you sure to delete swapfile ?"
 msgstr "Είστε σίγουροι για τη διαγραφή αρχείο αντιμετάθεσης;"
 
-#: ../plugin.py:1031
 #, python-format
 msgid "Are you sure to %s ?"
 msgstr "Είστε βέβαιοι ότι για να %s ?"
 
-#: ../plugin.py:1038
 msgid "VTI Start Service"
 msgstr "VTI Έναρξη Υπηρεσία"
 
-#: ../plugin.py:1040
 msgid "VTI Stop Service"
 msgstr "VTI Διακοπή Υπηρεσίας"
 
-#: ../plugin.py:1042
 msgid "VTI Restart Service"
 msgstr "VTI Επανεκκίνηση Υπηρεσία"
 
-#: ../plugin.py:1059
 msgid "VTI Skinremoval"
 msgstr "VTI Skinremoval"
 
-#: ../plugin.py:1067
-#: ../plugin.py:1069
 msgid "VTI Remove Enigma2 Crashlog"
 msgstr "VTI Κατάργηση Enigma2 Crashlog"
 
-#: ../plugin.py:1080
 msgid "Deleted Crashlogs older 7 Days..."
 msgstr "Διαγράφεται Crashlogs μεγαλύτερα 7 Ημέρες ..."
 
-#: ../plugin.py:1121
 msgid "stopping swap for "
 msgstr "σταματώντας swap για"
 
-#: ../plugin.py:1121
 msgid "swapfile was deleted successfully"
 msgstr "αρχείο αντιμετάθεσης διαγράφηκε με επιτυχία"
 
-#: ../plugin.py:1122
-#: ../plugin.py:1138
 msgid "VTI create SwapFile"
 msgstr "VTI δημιουργήσει αρχείο αντιμετάθεσης"
 
-#: ../plugin.py:1124
 msgid "no swapfile active..."
 msgstr "κανένα αρχείο αντιμετάθεσης ενεργό ..."
 
-#: ../plugin.py:1136
 msgid "swapfile was created successfully"
 msgstr "αρχείο αντιμετάθεσης δημιουργήθηκε με επιτυχία"
 
-#: ../plugin.py:1158
 msgid "VTI IPK Uninstall"
 msgstr "VTI IPK Απεγκατάσταση"
 
-#: ../plugin.py:1164
 msgid "VTI IPK Uninstall ignore depencies"
 msgstr "VTI IPK Uninstall αγνοήσει depencies"
 
-#: ../plugin.py:1172
 msgid "Stop Cam"
 msgstr "Σταματήστε Cam"
 
-#: ../plugin.py:1173
 msgid "Start Cam"
 msgstr "Έναρξη Cam"
 
-#: ../plugin.py:1174
 msgid "Restart Cam"
 msgstr "Επανεκκίνηση Cam"
 
-#: ../plugin.py:1175
 msgid "Manage Cams"
 msgstr "Διαχειριστείτε τις Cams"
 
-#: ../plugin.py:1176
 msgid "Select Cam and press OK to activate"
 msgstr "Επιλέξτε την Cam και πιέστε το OK για να ενεργοποιήσετε"
 
-#: ../plugin.py:1337
 msgid "NO CAM ACTIVE !!! Cant restart current cam "
 msgstr "ΝΟ CAM ACTIVE!!επανεκκίνηση τρέχουσα cam"
 
-#: ../plugin.py:1346
 msgid "cam info : "
 msgstr "cam πληροφορίες:"
 
-#: ../plugin.py:1346
 msgid " -- "
 msgstr " -- "
 
-#: ../plugin.py:1355
 msgid "Starting cam : "
 msgstr "Ξεκινώντας cam:"
 
-#: ../plugin.py:1363
 msgid "Stopping cam : "
 msgstr "Διακοπή cam:"
 
-#: ../plugin.py:1365
 msgid "Restarting cam : "
 msgstr "Επανεκκίνηση cam:"
 
-#: ../plugin.py:1421
 msgid "Video"
 msgstr "Βίντεο"
 
-#: ../plugin.py:1422
 msgid "Audio"
 msgstr "Ήχου"
 
-#: ../plugin.py:1423
 msgid "Min"
 msgstr "Min"
 
-#: ../plugin.py:1424
 msgid "Max"
 msgstr "Max"
 
-#: ../plugin.py:1425
 msgid "Current"
 msgstr "Current"
 
-#: ../plugin.py:1426
 msgid "Average"
 msgstr "Average"
 
-#: ../plugin.py:1491
 msgid "Reload"
 msgstr "Ανανέωση"
 
-#: ../plugin.py:1492
 msgid "Download or delete Cam"
 msgstr "Λήψη ή να διαγράψετε Cam "
 
-#: ../plugin.py:1508
-msgid ""
-"\n"
-"After pressing OK, please wait!"
-msgstr ""
-"\n"
-"Αφού πατήσετε OK, παρακαλώ περιμένετε!"
-
-#: ../plugin.py:1551
-msgid "Trying to download a new packetlist. Please wait..."
-msgstr "Προσπαθώντας να κατεβάσετε ένα νέο packetlist. Παρακαλώ περιμένετε ..."
-
-#: ../plugin.py:1551
-msgid "Package list update"
-msgstr "Πακέτο ενημέρωση λίστας"
-
-#: ../plugin.py:1555
-msgid "There was an error downloading the packetlist. Please try again."
-msgstr "Υπήρξε ένα σφάλμα κατά τη λήψη του packetlist. Παρακαλώ δοκιμάστε ξανά."
-
-#: ../plugin.py:1555
-msgid "Error"
-msgstr "Σφάλμα"
-
-#: ../plugin.py:1580
 msgid "Do you want to remove the package:\n"
 msgstr "Θέλετε να αφαιρέσετε το πακέτο:\n"
 
-#: ../plugin.py:1584
 msgid "Do you want to upgrade the package:\n"
 msgstr "Θέλετε να αναβαθμίσετε το πακέτο:\n"
 
-#: ../plugin.py:1588
 msgid "Do you want to install the package:\n"
 msgstr "Θέλετε να εγκαταστήσετε το πακέτο:\n"
 
-#: ../plugin.py:1707
 msgid "Change Root Password"
 msgstr "Αλλαγή κωδικού πρόσβασης Root "
 
-#: ../plugin.py:1720
 msgid "Set Password"
 msgstr "Ορισμός κωδικού πρόσβασης"
 
-#: ../plugin.py:1721
 msgid "new Random"
 msgstr "νέα Τυχαία"
 
-#: ../plugin.py:1722
 msgid "virt. Keyboard"
 msgstr "virt. Πληκτρολόγιο"
 
-#: ../plugin.py:1742
 msgid "Enter new Password"
 msgstr "Πληκτρολογήστε νέο κωδικό πρόσβασης"
 
-#: ../plugin.py:1758
 #, python-format
 msgid ""
 "Sucessfully changed password for root user to:\n"
@@ -1086,42 +1120,433 @@ msgstr ""
 "Επιτυχής αλλαγή κωδικού πρόσβασης για το χρήστη root για να: \n"
 "%s "
 
-#: ../plugin.py:1760
 msgid "Unable to change/reset password for root user"
-msgstr "Δεν είναι δυνατή η αλλαγή / επαναφορά του κωδικού πρόσβασης για το χρήστη root"
+msgstr ""
+"Δεν είναι δυνατή η αλλαγή / επαναφορά του κωδικού πρόσβασης για το χρήστη "
+"root"
 
-#: ../plugin.py:1782
 msgid "Enter your password here:"
 msgstr "Εισάγετε τον κωδικό σας εδώ:"
 
-#: ../plugin.py:1861
+msgid "Software Update"
+msgstr ""
+
 msgid "Manage your VU+ Team Image"
 msgstr "Διαχειριστείτε VU + Team Image σας"
 
-#: ../ntpserver.py:47
+msgid "VTI CronManager"
+msgstr "VTI CronManager"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Modify"
+msgstr "Τροποποίηση"
+
+msgid "Execute"
+msgstr "Εκτέλεση"
+
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Εντολή: %s εκτελέστηκε"
+
+msgid "your cronjob"
+msgstr "your cronjob"
+
+msgid "Add a job to CronManager"
+msgstr "Προσθέστε μια δουλειά για να CronManager"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Command to execute : "
+msgstr "Εντολή για την εκτέλεση:"
+
+msgid "Additional command options : "
+msgstr "Πρόσθετες επιλογές εντολή:"
+
+msgid "Input minute : "
+msgstr "Λεπτά εισόδου:"
+
+msgid "Input hour : "
+msgstr "Ώρα εισόδου:"
+
+msgid "Input day : "
+msgstr "Ημέρα εισόδου:"
+
+msgid "Input month : "
+msgstr "Μήνες εισόδου:"
+
+msgid "Input weekday : "
+msgstr "Ημέρα της εβδομάδας εισόδου:"
+
+msgid "Modify a CronManager job"
+msgstr "Τροποποίηση δουλειά CronManager"
+
+msgid "Select a executable file for a cronjob"
+msgstr "Επιλέξτε ένα εκτελέσιμο αρχείο για cronjob"
+
+msgid "File is not executable"
+msgstr "Το αρχείο δεν είναι εκτελέσιμο"
+
+msgid " "
+msgstr ""
+
+msgid "chmod 755"
+msgstr "chmod 755"
+
 msgid "NTP server "
 msgstr "NTP διακομιστή"
 
-#: ../ntpserver.py:47
 msgid " is activated."
 msgstr "είναι ενεργοποιειμένο ."
 
-#: ../ntpserver.py:51
 msgid "NTP-Server Country Selection"
 msgstr "NTP-Server Επιλογή Χώρας "
 
-#: ../ntpserver.py:78
 msgid "NTP-Server Contenant Selection"
 msgstr "NTP-Server contenant Επιλογής"
 
-#: ../BackupRestore.py:73
-#: ../BackupRestore.py:88
-#: ../BackupRestore.py:90
+msgid "Update"
+msgstr "Ενημέρωση"
+
+msgid "show Updates"
+msgstr "δες Ενημερώσεις "
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr ""
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr ""
+
+msgid "Upgradable Packages"
+msgstr "Τα πακέτα αναβάθμισης"
+
+msgid "show News"
+msgstr "Εμφάνιση Ειδήσεις"
+
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Το σύστημά σας είναι ενημερωμένο"
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+
+msgid "VTI custom main menu"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Execute: "
+msgstr "Εκτέλεση:"
+
+msgid "VTI ExeManager"
+msgstr "VTI ExeManager"
+
+#, python-format
+msgid "File %s was not found"
+msgstr "Αρχείο %s δεν βρέθηκε"
+
+#, python-format
+msgid "File %s is not executable"
+msgstr "Αρχείο %s δεν είναι εκτελέσιμο"
+
+msgid "your executable"
+msgstr "εκτελέσιμο σας"
+
+msgid "no"
+msgstr "όχι"
+
+msgid "yes"
+msgstr "ναί"
+
+msgid "Add a executable to ExeManager"
+msgstr "Προσθέστε ένα εκτελέσιμο να ExeManager"
+
+msgid "Show command output : "
+msgstr "Εμφάνιση έξοδο της εντολής:"
+
+msgid "Modify execute command"
+msgstr "Τροποποίηση εκτελέσει την εντολή"
+
+msgid "Select a file to execute"
+msgstr "Επιλέξτε ένα αρχείο για να εκτελεστεί"
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "PROCESS"
+msgstr ""
+
+msgid "CPU %"
+msgstr ""
+
+msgid "MEM %"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid "MOUNTPOINT"
+msgstr ""
+
+msgid "FS"
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "KERNEL : "
+msgstr ""
+
+msgid "IMAGE : "
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "SWAP"
+msgstr ""
+
+msgid "USED :"
+msgstr ""
+
+msgid "FREE :"
+msgstr ""
+
+msgid "TOTAL :"
+msgstr ""
+
+msgid "UPTIME : "
+msgstr ""
+
+msgid "LOAD : "
+msgstr ""
+
+msgid "TEMP : "
+msgstr ""
+
+msgid "FAN : "
+msgstr ""
+
+msgid "RECEIVED"
+msgstr ""
+
+msgid "SENT"
+msgstr ""
+
+msgid "VTI EPG Panel"
+msgstr "VTI EPG Πάνελ"
+
+msgid "EPG Path :"
+msgstr "EPG Path :"
+
+msgid "Save EPG cache to epg.dat"
+msgstr "Αποθήκευση EPG cache στο epg.dat"
+
+msgid "Load EPG data from epg.dat"
+msgstr "Φορτώση EPG δεδομένων από epg.dat"
+
+msgid "Delete broken epg.dat"
+msgstr ""
+
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "Αποθήκευση του EPG cache στο  %s τελείωσε"
+
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "Φώρτοση EPG δεδομένων από %s τελείωσε"
+
+msgid ""
+"Do you really want to delete epg.dat ?\n"
+"Note: This will restart your VU+ STB"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Verifying your internet connection..."
+msgstr ""
+
+msgid "Press OK on your remote control to continue."
+msgstr ""
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+
+msgid "Upgrading STB... Please wait"
+msgstr ""
+
+msgid "Your network is not working. Please try again."
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Upgrading"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Removing"
+msgstr ""
+
+msgid "Configuring"
+msgstr ""
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr ""
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+
+msgid "Upgrade finished."
+msgstr ""
+
+msgid "VTi Image Download"
+msgstr ""
+
+msgid "Do your really want to cancel the image download ?"
+msgstr ""
+
+msgid "Select image for flash process"
+msgstr ""
+
+msgid "Install this image"
+msgstr ""
+
+msgid "VTI Image Flash Tool"
+msgstr ""
+
+msgid " downloading available image information"
+msgstr ""
+
+msgid "Flash extracted image from storage device"
+msgstr ""
+
+#, python-format
+msgid "Image: %s"
+msgstr ""
+
+msgid "Download image from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Sorry ..."
+msgstr ""
+
+msgid "The image list can not be loaded, please be patient and try again later"
+msgstr ""
+
+msgid ""
+"This will flash the selected image without further questions.\n"
+"Your current software installation will be deleted and overwritten\n"
+"Really continue ?"
+msgstr ""
+
+msgid "Please select medium to use as image location"
+msgstr ""
+
+msgid ""
+"Error at creating download destination !\n"
+"Please select another device."
+msgstr ""
+
+msgid ""
+"There is to low free memory at choosen device\n"
+"Please select another device."
+msgstr ""
+
+#, python-format
+msgid "Download %s"
+msgstr ""
+
+msgid "Extracting image ..."
+msgstr ""
+
+msgid ""
+"Sorry, download verification failed\n"
+"Please try again."
+msgstr ""
+
+msgid "Verifying download ..."
+msgstr ""
+
+msgid ""
+"This will flash the downloaded image.\n"
+"Your current software installation will be deleted and overwritten\n"
+"If you cancel here the downloaded image will be stored and you flash it "
+"later\n"
+"Really continue ?"
+msgstr ""
+
+msgid ""
+"Sorry, necessary files are missing\n"
+"Please try again."
+msgstr ""
+
+msgid ""
+"Sorry, extracting of image failed\n"
+"Please try again."
+msgstr ""
+
+msgid "VTi Image Flash Process"
+msgstr ""
+
+msgid "Change password for VTI Panel"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Input your new VTI Panel password : "
+msgstr ""
+
+msgid "Input password for VTI Panel"
+msgstr ""
+
+msgid "Input your VTI Panel password : "
+msgstr ""
+
 msgid "VTI-Backup is running..."
 msgstr "VTI-Backup βρίσκεται σε λειτουργία ..."
 
-#: ../BackupRestore.py:93
-#: ../BackupRestore.py:95
 msgid ""
 "Sorry your backup destination is not writeable.\n"
 "Please choose an other one."
@@ -1129,248 +1554,185 @@ msgstr ""
 "Λυπούμαστε προορισμό το αντίγραφο ασφαλείας σας δεν είναι εγγράψιμο. \n"
 "Παρακαλώ επιλέξτε ένα άλλο."
 
-#: ../BackupRestore.py:112
-#: ../BackupRestore.py:192
-#: ../BackupRestore.py:321
-#: ../ExeManager.py:203
-#: ../ExeManager.py:265
-#: ../ExeManager.py:339
-#: ../CronManager.py:235
-#: ../CronManager.py:353
-#: ../CronManager.py:445
-msgid "Cancel"
-msgstr "Ακύρωση"
-
-#: ../BackupRestore.py:145
 msgid "VTI-Backup - Select files/folders to backup"
-msgstr "VTI-Backup - Επιλέξτε τα αρχεία / φακέλους για δημιουργία αντιγράφων ασφαλείας"
+msgstr ""
+"VTI-Backup - Επιλέξτε τα αρχεία / φακέλους για δημιουργία αντιγράφων "
+"ασφαλείας"
 
-#: ../BackupRestore.py:150
 msgid "Deselect"
 msgstr "Αποεπιλέξτε"
 
-#: ../BackupRestore.py:152
 msgid "Select"
 msgstr "Επιλέξτε "
 
-#: ../BackupRestore.py:193
-#: ../BackupRestore.py:322
-msgid "Restore"
-msgstr "Επαναφορά"
-
-#: ../BackupRestore.py:194
-#: ../BackupRestore.py:323
-#: ../ExeManager.py:114
-#: ../CronManager.py:150
-msgid "Delete"
-msgstr "Διαγραφή"
-
-#: ../BackupRestore.py:224
-#: ../BackupRestore.py:353
 msgid "VTI-Restore backups"
 msgstr "VTI αντιγράφων ασφαλείας Επαναφορά"
 
-#: ../BackupRestore.py:242
-#: ../BackupRestore.py:371
-msgid ""
-"Are you sure you want to restore\n"
-"following backup:\n"
-msgstr ""
-"Είστε σίγουροι ότι θέλετε να επαναφέρετε \n"
-"παρακάτω αντιγράφων ασφαλείας:\n"
-
-#: ../BackupRestore.py:242
-#: ../BackupRestore.py:371
-msgid ""
-"\n"
-"System will restart after the restore!"
-msgstr ""
-"\n"
-"Το σύστημα θα κάνει επανεκκίνηση μετά την επαναφορά!"
-
-#: ../BackupRestore.py:250
-msgid "Restore running"
-msgstr "Επαναφορά λειτουργίας"
-
-#: ../BackupRestore.py:256
-#: ../BackupRestore.py:399
-msgid ""
-"Are you sure you want to delete\n"
-"following backup:\n"
-msgstr ""
-"Είστε σίγουροι ότι θέλετε να διαγράψετε\n"
-"παρακάτω αντιγράφων ασφαλείας:\n"
-
-#: ../BackupRestore.py:293
-#: ../BackupRestore.py:303
 msgid "VTI-Restore is running..."
 msgstr "VTI-Επαναφορά τρέχει ..."
 
-#: ../BackupRestore.py:301
 msgid "Restore is running..."
 msgstr "Επαναφορά τρέχει ..."
 
-#: ../BackupRestore.py:393
+msgid "VTi Restore Image"
+msgstr ""
+
 msgid ""
 "No image found!!!! \n"
 "\n"
-"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or ultimo ."
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or "
+"ultimo ."
 msgstr ""
 "Δεν βρέθηκε image  !!  \n"
 "\n"
-"Παρακαλώ αντιγράψτε usb image ή να αποκαταστήσει το image των μέσων ενημέρωσης /media/hdd/vuplus/duo/solo/uno ή Ultimo."
+"Παρακαλώ αντιγράψτε usb image ή να αποκαταστήσει το image των μέσων "
+"ενημέρωσης /media/hdd/vuplus/duo/solo/uno ή Ultimo."
 
-#: ../ExeManager.py:107
-#: ../ExeManager.py:184
-msgid "Execute: "
-msgstr "Εκτέλεση:"
+msgid "[ ok ]"
+msgstr ""
 
-#: ../ExeManager.py:108
-#: ../ExeManager.py:161
-msgid "VTI ExeManager"
-msgstr "VTI ExeManager"
-
-#: ../ExeManager.py:115
-#: ../CronManager.py:151
-msgid "Add"
-msgstr "Προσθήκη"
-
-#: ../ExeManager.py:116
-#: ../CronManager.py:152
-msgid "Modify"
-msgstr "Τροποποίηση"
-
-#: ../ExeManager.py:117
-#: ../CronManager.py:153
-msgid "Execute"
-msgstr "Εκτέλεση"
-
-#: ../ExeManager.py:155
 #, python-format
-msgid "File %s was not found"
-msgstr "Αρχείο %s δεν βρέθηκε"
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
 
-#: ../ExeManager.py:158
-#, python-format
-msgid "File %s is not executable"
-msgstr "Αρχείο %s δεν είναι εκτελέσιμο"
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:164
-#: ../CronManager.py:187
-#, python-format
-msgid "Command: %s was executed"
-msgstr "Εντολή: %s εκτελέστηκε"
+msgid ""
+"Flash process of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:195
-msgid "your executable"
-msgstr "εκτελέσιμο σας"
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
 
-#: ../ExeManager.py:197
-#: ../ExeManager.py:259
-msgid "no"
-msgstr "όχι"
+msgid "preparing backup of image"
+msgstr ""
 
-#: ../ExeManager.py:197
-#: ../ExeManager.py:259
-msgid "yes"
-msgstr "ναί"
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
 
-#: ../ExeManager.py:198
-msgid "Add a executable to ExeManager"
-msgstr "Προσθέστε ένα εκτελέσιμο να ExeManager"
+msgid "The system is missing some necessary files !"
+msgstr ""
 
-#: ../ExeManager.py:218
-#: ../ExeManager.py:280
-#: ../CronManager.py:250
-#: ../CronManager.py:368
-msgid "Command to execute : "
-msgstr "Εντολή για την εκτέλεση:"
+msgid "Backup of root filesystem failed"
+msgstr ""
 
-#: ../ExeManager.py:219
-#: ../ExeManager.py:281
-#: ../CronManager.py:251
-msgid "Additional command options : "
-msgstr "Πρόσθετες επιλογές εντολή:"
+msgid "backup root filesystem"
+msgstr ""
 
-#: ../ExeManager.py:220
-#: ../ExeManager.py:282
-msgid "Show command output : "
-msgstr "Εμφάνιση έξοδο της εντολής:"
+msgid "Error at preparing system for backup"
+msgstr ""
 
-#: ../ExeManager.py:260
-msgid "Modify execute command"
-msgstr "Τροποποίηση εκτελέσει την εντολή"
+msgid "create flashable file of root filesystem"
+msgstr ""
 
-#: ../ExeManager.py:334
-msgid "Select a file to execute"
-msgstr "Επιλέξτε ένα αρχείο για να εκτελεστεί"
+msgid "backup of running kernel"
+msgstr ""
 
-#: ../ExeManager.py:340
-#: ../CronManager.py:446
-msgid "OK"
-msgstr "OK"
+msgid "Backup of kernel failed"
+msgstr ""
 
-#: ../ExeManager.py:347
-#: ../ExeManager.py:418
-#: ../CronManager.py:453
-#: ../CronManager.py:524
-msgid "Invalid Choice"
-msgstr "Άκυρα Choice"
+msgid "Image backup finished successfully"
+msgstr ""
 
-#: ../ExeManager.py:355
-#: ../ExeManager.py:407
-#: ../CronManager.py:461
-#: ../CronManager.py:513
-msgid "File is not executable"
-msgstr "Το αρχείο δεν είναι εκτελέσιμο"
+msgid "A new skin was installed\n"
+msgstr ""
 
-#: ../ExeManager.py:408
-#: ../CronManager.py:514
-msgid "chmod 755"
-msgstr "chmod 755"
+msgid "Do you want to open the skin choice list?"
+msgstr ""
 
-#: ../CronManager.py:144
-msgid "VTI CronManager"
-msgstr "VTI CronManager"
+#~ msgid "/hdd"
+#~ msgstr "/hdd"
 
-#: ../CronManager.py:224
-msgid "your cronjob"
-msgstr "your cronjob"
+#~ msgid "/media/hdd"
+#~ msgstr "/media/hdd"
 
-#: ../CronManager.py:230
-msgid "Add a job to CronManager"
-msgstr "Προσθέστε μια δουλειά για να CronManager"
+#~ msgid "/media/usb"
+#~ msgstr "/media/usb"
 
-#: ../CronManager.py:252
-#: ../CronManager.py:369
-msgid "Input minute : "
-msgstr "Λεπτά εισόδου:"
+#~ msgid "/media/hdd1"
+#~ msgstr "/media/hdd1"
 
-#: ../CronManager.py:253
-#: ../CronManager.py:370
-msgid "Input hour : "
-msgstr "Ώρα εισόδου:"
+#~ msgid "/media/usb1"
+#~ msgstr "/media/usb1"
 
-#: ../CronManager.py:254
-#: ../CronManager.py:371
-msgid "Input day : "
-msgstr "Ημέρα εισόδου:"
+#~ msgid "EPG path set to : %s"
+#~ msgstr "EPG path set στο : %s"
 
-#: ../CronManager.py:255
-#: ../CronManager.py:372
-msgid "Input month : "
-msgstr "Μήνες εισόδου:"
+#~ msgid "Infos about your VU+Duo"
+#~ msgstr "Πληροφορίες σχετικά με VU+Duo"
 
-#: ../CronManager.py:256
-#: ../CronManager.py:373
-msgid "Input weekday : "
-msgstr "Ημέρα της εβδομάδας εισόδου:"
+#~ msgid "manage your VU+Duo"
+#~ msgstr "διαχειριστείτε VU+Duo  "
 
-#: ../CronManager.py:348
-msgid "Modify a CronManager job"
-msgstr "Τροποποίηση δουλειά CronManager"
+#~ msgid "VTI Backup Tools"
+#~ msgstr "VTI εργαλεία δημιουργίας αντιγράφων ασφαλείας"
 
-#: ../CronManager.py:440
-msgid "Select a executable file for a cronjob"
-msgstr "Επιλέξτε ένα εκτελέσιμο αρχείο για cronjob"
+#~ msgid "backup or restore your settings"
+#~ msgstr "αντιγράφων ασφαλείας ή να επαναφέρετε τις ρυθμίσεις σας"
 
+#~ msgid ""
+#~ "There are no news or your\n"
+#~ "Internet connection is not ok"
+#~ msgstr ""
+#~ "Δεν υπάρχουν νέα ή \n"
+#~ "Σύνδεση με το Διαδίκτυο δεν είναι εντάξει"
+
+#~ msgid ""
+#~ "\n"
+#~ "Package : %s \n"
+#~ " old version : %s | new version : %s \n"
+#~ msgstr ""
+#~ "\n"
+#~ "Πακέτο : %s \n"
+#~ " παλιά έκδοση : %s | νέα έκδοση : %s \n"
+
+#~ msgid "Remove Skins"
+#~ msgstr "Κατάργηση Skins"
+
+#~ msgid "choose skin to remove"
+#~ msgstr "επιλέξτε το skin για να το αφαιρέσετε"
+
+#~ msgid "Menu "
+#~ msgstr "Μενού"
+
+#~ msgid ""
+#~ " not implemented yet\n"
+#~ "\n"
+#~ "Please choose another one."
+#~ msgstr ""
+#~ "δεν εφαρμόζονται ακόμη \n"
+#~ "\n"
+#~ "Παρακαλώ επιλέξτε ένα άλλο."
+
+#~ msgid "VTI Backup Image"
+#~ msgstr "VTI Backup Image"
+
+#~ msgid ""
+#~ "No valid Backupdestion found!!!! \n"
+#~ "\n"
+#~ "Please install an internal Harddisk first to create Backups."
+#~ msgstr ""
+#~ "Δεν βρέθηκε έγκυρο Backupdestion !!!! \n"
+#~ "\n"
+#~ " Παρακαλείσθε να εγκαταστήσετε μια εσωτερική Harddisk πρώτα να "
+#~ "δημιουργήσει αντίγραφα ασφαλείας."

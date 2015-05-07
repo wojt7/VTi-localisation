@@ -9644,6 +9644,9 @@ msgstr ""
 msgid "No matching place names found"
 msgstr ""
 
+msgid "Animation start delay:"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"
