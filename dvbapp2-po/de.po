@@ -10936,6 +10936,9 @@ msgstr "Keine zutreffenden Orte gefunden"
 msgid "Animation start delay:"
 msgstr "Startverzögerung:"
 
+msgid "Do you want to setup animations?"
+msgstr "Wollen Sie die Animationen der Bneutzeroberfläche konfigurieren?"
+
 #~ msgid ""
 #~ "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
 #~ "Please install it to use this function"
