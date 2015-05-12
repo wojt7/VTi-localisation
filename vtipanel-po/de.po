@@ -1737,3 +1737,9 @@ msgstr "Es wurde ein neuer Skin installiert\n"
 
 msgid "Do you want to open the skin choice list?"
 msgstr "Soll die Skin-Auswahl geöffnet werden?"
+
+msgid "Remove xbmc"
+msgstr "xbmc entfernen"
+
+msgid "uninstall xbmc and dependencies"
+msgstr "xbmc und davon abhängige Pakete deinstallieren"

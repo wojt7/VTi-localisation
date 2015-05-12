@@ -1660,6 +1660,12 @@ msgstr ""
 msgid "Do you want to open the skin choice list?"
 msgstr ""
 
+msgid "Remove xbmc"
+msgstr ""
+
+msgid "uninstall xbmc and dependencies"
+msgstr ""
+
 #~ msgid "/hdd"
 #~ msgstr "/hdd"
 
