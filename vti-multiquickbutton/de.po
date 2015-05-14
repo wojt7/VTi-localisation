@@ -265,7 +265,7 @@ msgid "Input name for MQB macro : "
 msgstr "Namen für das MQB Macro eingeben :"
 
 msgid "Select a file to execute"
-msgstr "Ausführbare Datei auswähöen"
+msgstr "Ausführbare Datei auswählen"
 
 msgid "Invalid Choice"
 msgstr "Ungültige Auswahl"
