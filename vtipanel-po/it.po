@@ -1704,7 +1704,7 @@ msgstr ""
 msgid "Remove xbmc"
 msgstr ""
 
-msgid "uninstall xbmc and dependencies"
+msgid "uninstall xbmc and dependend packages"
 msgstr ""
 
 #~ msgid "/hdd"
