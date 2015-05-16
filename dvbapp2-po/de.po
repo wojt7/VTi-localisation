@@ -10939,6 +10939,24 @@ msgstr "Startverzögerung:"
 msgid "Do you want to setup animations?"
 msgstr "Wollen Sie die Animationseffekte der Benutzeroberfläche konfigurieren?"
 
+msgid "show"
+msgstr "anzeigen"
+
+msgid "hide"
+msgstr "verstecken"
+
+msgid "Sort order for plugins"
+msgstr "Sortierreihenfolge für Plugins"
+
+msgid "Edit mode off"
+msgstr "Bearbeitungsmodus aus"
+
+msgid "Edit mode on"
+msgstr "Bearbeitungsmodus an"
+
+msgid "alphabetical"
+msgstr "Alphabetisch"
+
 #~ msgid ""
 #~ "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
 #~ "Please install it to use this function"

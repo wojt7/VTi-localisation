@@ -10171,6 +10171,24 @@ msgstr ""
 msgid "Do you want to setup animations?"
 msgstr ""
 
+msgid "show"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "Sort order for plugins"
+msgstr ""
+
+msgid "Edit mode off"
+msgstr ""
+
+msgid "Edit mode on"
+msgstr ""
+
+msgid "alphabetical"
+msgstr ""
+
 #
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
