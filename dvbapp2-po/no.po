@@ -10092,3 +10092,9 @@ msgstr ""
 
 msgid "alphabetical"
 msgstr ""
+
+msgid "Sort order for menu entries"
+msgstr ""
+
+msgid "Move mode"
+msgstr ""

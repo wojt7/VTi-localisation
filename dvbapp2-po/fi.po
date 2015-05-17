@@ -10118,6 +10118,12 @@ msgstr ""
 msgid "alphabetical"
 msgstr ""
 
+msgid "Sort order for menu entries"
+msgstr ""
+
+msgid "Move mode"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"
