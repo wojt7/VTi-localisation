@@ -10098,3 +10098,6 @@ msgstr ""
 
 msgid "Move mode"
 msgstr ""
+
+msgid "copy to: "
+msgstr ""

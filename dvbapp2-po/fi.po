@@ -10124,6 +10124,9 @@ msgstr ""
 msgid "Move mode"
 msgstr ""
 
+msgid "copy to: "
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"
