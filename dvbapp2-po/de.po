@@ -10960,11 +10960,17 @@ msgstr "Alphabetisch"
 msgid "Sort order for menu entries"
 msgstr "Sortierreihenfolge für die Menüs"
 
-msgid "Move mode"
-msgstr "Verschiebemodus"
+msgid "Move mode on"
+msgstr "Verschiebemodus ein"
+
+msgid "Move mode off"
+msgstr "Verschiebemodus aus"
 
 msgid "copy to: "
 msgstr "Kopiere auf: "
+
+#~ msgid "Move mode"
+#~ msgstr "Verschiebemodus"
 
 #~ msgid ""
 #~ "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"

@@ -8860,7 +8860,10 @@ msgstr ""
 msgid "Sort order for menu entries"
 msgstr ""
 
-msgid "Move mode"
+msgid "Move mode on"
+msgstr ""
+
+msgid "Move mode off"
 msgstr ""
 
 msgid "copy to: "
