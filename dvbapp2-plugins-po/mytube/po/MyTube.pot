@@ -575,3 +575,12 @@ msgstr ""
 #: ../src/plugin.py:1697
 msgid "Yes, but play previous video"
 msgstr ""
+
+msgid "Auto paginate on last entry:"
+msgstr ""
+
+msgid "Reset tv-screen after playback:"
+msgstr ""
+
+msgid "Max search results:"
+msgstr ""
