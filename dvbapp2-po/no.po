@@ -10104,3 +10104,6 @@ msgstr ""
 
 msgid "copy to: "
 msgstr ""
+
+msgid "Animation Setup"
+msgstr ""

@@ -10969,6 +10969,9 @@ msgstr "Verschiebemodus aus"
 msgid "copy to: "
 msgstr "Kopiere auf: "
 
+msgid "Animation Setup"
+msgstr "Animationen konfigurieren"
+
 #~ msgid "Move mode"
 #~ msgstr "Verschiebemodus"
 

@@ -8753,6 +8753,9 @@ msgstr ""
 msgid "copy to: "
 msgstr ""
 
+msgid "Animation Setup"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"
