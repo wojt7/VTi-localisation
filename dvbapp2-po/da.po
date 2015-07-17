@@ -10262,6 +10262,9 @@ msgstr ""
 msgid "SAT>IP SERVER : %s"
 msgstr ""
 
+msgid "Choices"
+msgstr ""
+
 #
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"

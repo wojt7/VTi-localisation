@@ -11035,6 +11035,9 @@ msgstr "Tuner-Typ : %s"
 msgid "SAT>IP SERVER : %s"
 msgstr "SAT>IP Server : %s"
 
+msgid "Choices"
+msgstr "Auswahl"
+
 #~ msgid "Move mode"
 #~ msgstr "Verschiebemodus"
 
