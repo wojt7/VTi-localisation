@@ -11038,6 +11038,21 @@ msgstr "SAT>IP Server : %s"
 msgid "Choices"
 msgstr "Auswahl"
 
+msgid "Animate Infobar show/hide"
+msgstr "InfoBar ein-/ausblenden animieren"
+
+msgid "Infobar show/hide animation speed"
+msgstr "Geschwindigkeit der Infobaranimation"
+
+msgid "fade in"
+msgstr "einblenden"
+
+msgid "fade out"
+msgstr "ausblenden"
+
+msgid "fade in/out"
+msgstr "ein-/ausblenden"
+
 #~ msgid "Move mode"
 #~ msgstr "Verschiebemodus"
 

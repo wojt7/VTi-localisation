@@ -10273,3 +10273,18 @@ msgstr ""
 
 msgid "Choices"
 msgstr ""
+
+msgid "Animate Infobar show/hide"
+msgstr ""
+
+msgid "Infobar show/hide animation speed"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "fade in/out"
+msgstr ""
