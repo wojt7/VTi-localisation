@@ -103,31 +103,56 @@ msgstr "EPG wird durchsucht..."
 msgid "Edit Search"
 msgstr "Suchtext bearbeiten"
 
+msgid "Length of History"
+msgstr "Limit des Suchverlaufs"
+
+msgid ""
+"How many entries to keep in the search history at most. 0 disables history "
+"entirely!"
+msgstr ""
+"Maximale Anzahl von Einträgen im Suchverlauf. Diesen Wert auf \"0\" setzen, "
+"um den Verlauf zu deaktivieren."
+
+msgid "Add \"Search\" Button to EPG"
+msgstr "\"Suchen\" im Standard EPG hinzufügen"
+
+msgid ""
+"If this setting is enabled, the plugin adds a \"Search\" Button to the "
+"regular EPG."
+msgstr ""
+"Wenn diese Option aktiviert ist, wird der Standard EPG um die Funktion "
+"\"Suchen\" erweitert"
+
+msgid "Default search type"
+msgstr "Standard-Suchtyp"
+
+msgid "Configure EPG search type"
+msgstr "Legt die EPG-Standardsuche fest"
+
+msgid "Case sensitive search"
+msgstr "Groß-/Kleinschreibung beachten"
+
+msgid "Perform case sensitive or case intensive EPG searches"
+msgstr ""
+"Legt fest ob die Groß-/Kleinschreibung bei der Suche beachtet werden soll."
+
+msgid "EPGSearch Setup"
+msgstr "Konfiguration der EPG Suche"
+
+msgid "Extended description"
+msgstr "Erweiterte Beschreibung"
+
+msgid "Title and extended description"
+msgstr "Titel und erweiterte Beschreibung"
+
+msgid "Select EPG search typ"
+msgstr "EPG Suchtyp auswählen"
+
+msgid "Ask before search"
+msgstr "Vor der Suche fragen"
+
 #~ msgid "Setup"
 #~ msgstr "Suche einrichten"
-
-#~ msgid "EPGSearch Setup"
-#~ msgstr "EPGSearch Einrichtung"
-
-#~ msgid "Length of History"
-#~ msgstr "Limit des Suchverlaufs"
-
-#~ msgid ""
-#~ "How many entries to keep in the search history at most. 0 disables "
-#~ "history entirely!"
-#~ msgstr ""
-#~ "Maximale Anzahl von Einträgen im Suchverlauf. Diesen Wert auf \"0\" "
-#~ "setzen, um den Verlauf zu deaktivieren."
-
-#~ msgid "Add \"Search\" Button to EPG"
-#~ msgstr "\"Suchen\" im Standard EPG hinzufügen"
-
-#~ msgid ""
-#~ "If this setting is enabled, the plugin adds a \"Search\" Button to the "
-#~ "regular EPG."
-#~ msgstr ""
-#~ "Wenn diese Option aktiviert ist, wird der Standard EPG um die Funktion "
-#~ "\"Suchen\" erweitert"
 
 #~ msgid "search EPG"
 #~ msgstr "Suche in EPG"

@@ -12,8 +12,9 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../src/EPGSearch.py:150
@@ -26,12 +27,12 @@ msgstr "Anuluj"
 
 #: ../src/EPGSearch.py:387
 msgid "Channel Selection"
-msgstr "Wybór kanałów"
+msgstr "Wybr kanaw"
 
 #: ../src/EPGSearch.py:257
 #, python-format
 msgid "Could not read AutoTimer timer list: %s"
-msgstr "Nie mogę odczytać listy timera: %s"
+msgstr "Nie mog odczyta listy timera: %s"
 
 #: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179
 msgid "EPG Search"
@@ -87,11 +88,11 @@ msgstr "Szukaj EPG"
 
 #: ../src/EPGSearch.py:364
 msgid "Select a timer to search"
-msgstr "Wybierz timer, aby wyszukać"
+msgstr "Wybierz timer, aby wyszuka"
 
 #: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292
 msgid "Select text to search for"
-msgstr "Wybierz tekst, aby wyszukać"
+msgstr "Wybierz tekst, aby wyszuka"
 
 #: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
@@ -100,3 +101,45 @@ msgstr "Szukaj EPG..."
 msgid "Edit Search"
 msgstr "Edytuj"
 
+msgid "Length of History"
+msgstr ""
+
+msgid ""
+"How many entries to keep in the search history at most. 0 disables history "
+"entirely!"
+msgstr ""
+
+msgid "Add \"Search\" Button to EPG"
+msgstr ""
+
+msgid ""
+"If this setting is enabled, the plugin adds a \"Search\" Button to the "
+"regular EPG."
+msgstr ""
+
+msgid "Default search type"
+msgstr ""
+
+msgid "Configure EPG search type"
+msgstr ""
+
+msgid "Case sensitive search"
+msgstr ""
+
+msgid "Perform case sensitive or case intensive EPG searches"
+msgstr ""
+
+msgid "EPGSearch Setup"
+msgstr ""
+
+msgid "Extended description"
+msgstr ""
+
+msgid "Title and extended description"
+msgstr ""
+
+msgid "Select EPG search typ"
+msgstr ""
+
+msgid "Ask before search"
+msgstr ""

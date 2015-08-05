@@ -101,34 +101,57 @@ msgstr "ricerca EPG..."
 msgid "Edit Search"
 msgstr ""
 
+msgid "Length of History"
+msgstr "Dimensione History"
+
+msgid ""
+"How many entries to keep in the search history at most. 0 disables history "
+"entirely!"
+msgstr ""
+"Numero massimo di voci da conservare nella history. 0 >> disabilitare "
+"l'opzione history."
+
+msgid "Add \"Search\" Button to EPG"
+msgstr "Aggiungere il pulsante \"Ricerca\" all'EPG"
+
+msgid ""
+"If this setting is enabled, the plugin adds a \"Search\" Button to the "
+"regular EPG."
+msgstr ""
+"Abilitando l'opzione, verrà aggiunto un pulsante di ricerca all'EPG standard."
+
+msgid "Default search type"
+msgstr ""
+
+msgid "Configure EPG search type"
+msgstr ""
+
+msgid "Case sensitive search"
+msgstr ""
+
+msgid "Perform case sensitive or case intensive EPG searches"
+msgstr ""
+
+msgid "EPGSearch Setup"
+msgstr "Configurazione EPGSearch"
+
+msgid "Extended description"
+msgstr ""
+
+msgid "Title and extended description"
+msgstr ""
+
+msgid "Select EPG search typ"
+msgstr ""
+
+msgid "Ask before search"
+msgstr ""
+
 #~ msgid "Open selected in IMDb"
 #~ msgstr "Aprire scheda in IMDb"
 
 #~ msgid "Setup"
 #~ msgstr "Configurazione"
-
-#~ msgid "EPGSearch Setup"
-#~ msgstr "Configurazione EPGSearch"
-
-#~ msgid "Length of History"
-#~ msgstr "Dimensione History"
-
-#~ msgid ""
-#~ "How many entries to keep in the search history at most. 0 disables "
-#~ "history entirely!"
-#~ msgstr ""
-#~ "Numero massimo di voci da conservare nella history. 0 >> disabilitare "
-#~ "l'opzione history."
-
-#~ msgid "Add \"Search\" Button to EPG"
-#~ msgstr "Aggiungere il pulsante \"Ricerca\" all'EPG"
-
-#~ msgid ""
-#~ "If this setting is enabled, the plugin adds a \"Search\" Button to the "
-#~ "regular EPG."
-#~ msgstr ""
-#~ "Abilitando l'opzione, verrà aggiunto un pulsante di ricerca all'EPG "
-#~ "standard."
 
 #~ msgid "search EPG"
 #~ msgstr "Ricercare EPG"
