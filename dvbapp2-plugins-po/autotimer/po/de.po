@@ -1007,3 +1007,9 @@ msgstr ""
 
 msgid "title or description match"
 msgstr "Teil des Titels oder Beschreibung"
+
+msgid "title or short description match"
+msgstr "Teil des Titels oder Kurzbeschreibung"
+
+msgid "short description match"
+msgstr "Teil der Kurzbeschreibung"

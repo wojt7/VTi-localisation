@@ -904,6 +904,12 @@ msgstr ""
 msgid "title or description match"
 msgstr ""
 
+msgid "title or short description match"
+msgstr ""
+
+msgid "short description match"
+msgstr ""
+
 #~ msgid ""
 #~ "Select \"exact match\" to enforce \"Match title\" to match exactly or "
 #~ "\"partial match\" if you only want to search for a part of the event "

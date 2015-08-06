@@ -140,10 +140,16 @@ msgid "EPGSearch Setup"
 msgstr "Konfiguration der EPG Suche"
 
 msgid "Extended description"
-msgstr "Erweiterte Beschreibung"
+msgstr "Langbeschreibung"
 
-msgid "Title and extended description"
-msgstr "Titel und erweiterte Beschreibung"
+msgid "Title, short and extended description"
+msgstr "Titel, Kurz- und Langbeschreibung"
+
+msgid "Title and short description"
+msgstr "Titel und Kurzbeschreibung"
+
+msgid "Short description"
+msgstr "Kurzbeschreibung"
 
 msgid "Select EPG search typ"
 msgstr "EPG Suchtyp auswählen"

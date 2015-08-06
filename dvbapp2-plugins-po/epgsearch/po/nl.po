@@ -137,7 +137,13 @@ msgstr ""
 msgid "Extended description"
 msgstr ""
 
-msgid "Title and extended description"
+msgid "Title, short and extended description"
+msgstr ""
+
+msgid "Title and short description"
+msgstr ""
+
+msgid "Short description"
 msgstr ""
 
 msgid "Select EPG search typ"
