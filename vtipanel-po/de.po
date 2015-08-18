@@ -1743,15 +1743,3 @@ msgstr "Xbmc entfernen"
 
 msgid "uninstall xbmc and dependend packages"
 msgstr "Xbmc und davon abhängige Pakete deinstallieren"
-
-msgid "Load EPG data from file every X minutes (0 = off)"
-msgstr "EPG-Daten alle X Minuten aus Datei laden (0 = aus)"
-
-msgid "Save EPG data every X minutes to file (0 = off)"
-msgstr "EPG-Daten alle X Minuten in Datei speichern (0 = aus)"
-
-msgid "Enable EPG client mode (don't save EPG file)"
-msgstr "EPG-Client Modus aktivieren (EPG Datei nicht speichern)"
-
-msgid "Setup - EPG"
-msgstr "Einstellungen - EPG"
