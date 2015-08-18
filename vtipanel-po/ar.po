@@ -1658,6 +1658,18 @@ msgstr ""
 msgid "uninstall xbmc and dependend packages"
 msgstr ""
 
+msgid "Load EPG data from file every X minutes (0 = off)"
+msgstr ""
+
+msgid "Save EPG data every X minutes to file (0 = off)"
+msgstr ""
+
+msgid "Enable EPG client mode (don't save EPG file)"
+msgstr ""
+
+msgid "Setup - EPG"
+msgstr ""
+
 #~ msgid "EPG path set to : %s"
 #~ msgstr "%s : الى EPGتحديد مسار الـ"
 
