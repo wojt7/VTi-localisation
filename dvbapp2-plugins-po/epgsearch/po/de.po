@@ -313,11 +313,11 @@ msgstr "Kurzbeschreibung ausblenden"
 
 #: EPGSearch.py:381
 msgid "Filter: remove"
-msgstr "Filter: entfernen"
+msgstr "Filter: ohne diese(n)"
 
 #: EPGSearch.py:383
 msgid "Filter: keep"
-msgstr "Filter: behalten"
+msgstr "Filter: nur diese(r)"
 
 msgid "Removed all filters"
 msgstr "Alle Filter entfernt"
