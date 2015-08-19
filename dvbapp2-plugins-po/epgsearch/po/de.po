@@ -168,7 +168,7 @@ msgstr "Titel"
 
 #: __init__.py:42
 msgid "any substring"
-msgstr "beliebiger Teil des Texts"
+msgstr "beliebiger Teil des Textes"
 
 #: __init__.py:42
 msgid "beginning of a word"
