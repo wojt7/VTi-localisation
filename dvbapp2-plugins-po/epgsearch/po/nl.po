@@ -310,5 +310,14 @@ msgstr ""
 msgid "Filter: keep"
 msgstr ""
 
+msgid "Removed all filters"
+msgstr ""
+
+msgid "event"
+msgstr ""
+
+msgid "channel"
+msgstr ""
+
 #~ msgid "search EPG"
 #~ msgstr "EPG doorzoeken"

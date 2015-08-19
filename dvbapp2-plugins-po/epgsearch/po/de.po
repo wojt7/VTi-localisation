@@ -90,7 +90,8 @@ msgstr "EPG durchsuchen"
 msgid "Select a timer to search"
 msgstr "Einen Timer auswählen"
 
-#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292 EPGSearch.py:477 EPGSearch.py:514
+#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292 EPGSearch.py:477
+#: EPGSearch.py:514
 msgid "Select text to search for"
 msgstr "Zu suchenden Text auswählen"
 
@@ -107,17 +108,24 @@ msgid "Length of History"
 msgstr "Limit des Suchverlaufs"
 
 #: EPGSearchSetup.py:39
-msgid "How many entries to keep in the search history at most. 0 disables history entirely!"
+msgid ""
+"How many entries to keep in the search history at most. 0 disables history "
+"entirely!"
 msgstr ""
-"Maximale Anzahl von Einträgen im Suchverlauf. Diesen Wert auf \"0\" setzen, um den Verlauf zu deaktivieren."
+"Maximale Anzahl von Einträgen im Suchverlauf. Diesen Wert auf \"0\" setzen, "
+"um den Verlauf zu deaktivieren."
 
 #: EPGSearchSetup.py:41
 msgid "Add \"Search\" Button to EPG"
 msgstr "\"Suchen\" im Standard EPG hinzufügen"
 
 #: EPGSearchSetup.py:41
-msgid "If this setting is enabled, the plugin adds a \"Search\" Button to the regular EPG."
-msgstr "Wenn diese Option aktiviert ist, wird der Standard EPG um die Funktion \"Suchen\" erweitert"
+msgid ""
+"If this setting is enabled, the plugin adds a \"Search\" Button to the "
+"regular EPG."
+msgstr ""
+"Wenn diese Option aktiviert ist, wird der Standard EPG um die Funktion "
+"\"Suchen\" erweitert"
 
 #: EPGSearchSetup.py:42
 msgid "Default search type"
@@ -132,7 +140,8 @@ msgid "Case sensitive search"
 msgstr "Groß-/Kleinschreibung beachten"
 
 msgid "Perform case sensitive or case intensive EPG searches"
-msgstr "Legt fest ob die Groß-/Kleinschreibung bei der Suche beachtet werden soll."
+msgstr ""
+"Legt fest ob die Groß-/Kleinschreibung bei der Suche beachtet werden soll."
 
 #: EPGSearchSetup.py:33 EPGSearchSetup.py:81
 msgid "EPGSearch Setup"
@@ -184,9 +193,11 @@ msgstr "Jede Suche im Verlauf speichern"
 
 #: EPGSearchSetup.py:40
 msgid ""
-"Save any search string in history (e.g. searches started via EPG) or only manually entered/edited search "
-"strings."
-msgstr "Fügt jede Suche dem Suchverlauf hinzu, auch jene die direkt aus dem EPG gewählt werden"
+"Save any search string in history (e.g. searches started via EPG) or only "
+"manually entered/edited search strings."
+msgstr ""
+"Fügt jede Suche dem Suchverlauf hinzu, auch jene die direkt aus dem EPG "
+"gewählt werden"
 
 #: EPGSearchSetup.py:43
 msgid "Perform case sensitive or case insensitive EPG searches"
@@ -197,8 +208,12 @@ msgid "Limit \"Search\" to Channels from Bouquet (TV or Radio)"
 msgstr "Sender auf Favoriten begrenzen (TV oder Radio)"
 
 #: EPGSearchSetup.py:44
-msgid "If enabled, only search results for Channels within a Bouquet are shown (either TV or Radio Bouquets)."
-msgstr "Bei Aktivierung dieser Option werden nur Suchresultate  angezeigt die in den Favoriten hinterlegt sind."
+msgid ""
+"If enabled, only search results for Channels within a Bouquet are shown "
+"(either TV or Radio Bouquets)."
+msgstr ""
+"Bei Aktivierung dieser Option werden nur Suchresultate  angezeigt die in den "
+"Favoriten hinterlegt sind."
 
 #: EPGSearchSetup.py:45
 msgid "Type of match for search string"
@@ -214,8 +229,11 @@ msgstr "Kurzbeschreibung anzeigen"
 
 #: EPGSearchSetup.py:46
 msgid ""
-"Show the event short description in the result list. Useful when looking for a certain episode of a TV show."
-msgstr "Zeigt die Kurzbeschreibung der Suchesultate. Diese Option ist sinnvoll wenn z.B. Serien gesucht werden"
+"Show the event short description in the result list. Useful when looking for "
+"a certain episode of a TV show."
+msgstr ""
+"Zeigt die Kurzbeschreibung der Suchesultate. Diese Option ist sinnvoll wenn "
+"z.B. Serien gesucht werden"
 
 #: EPGSearch.py:183
 msgid "Settings"
@@ -287,7 +305,7 @@ msgstr "Auswahl mit IMDb öffnen"
 
 #: EPGSearch.py:265
 msgid "Setup"
-msgstr "Suche einrichten"
+msgstr "Einstellungen"
 
 #: EPGSearch.py:350
 msgid "Hide event short description"
@@ -300,6 +318,15 @@ msgstr "Filter: entfernen"
 #: EPGSearch.py:383
 msgid "Filter: keep"
 msgstr "Filter: behalten"
+
+msgid "Removed all filters"
+msgstr "Alle Filter entfernt"
+
+msgid "event"
+msgstr "Sendung"
+
+msgid "channel"
+msgstr "Sender"
 
 #~ msgid "search EPG"
 #~ msgstr "Suche in EPG"
