@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-24 16:16+0200\n"
+"POT-Creation-Date: 2015-08-19 17:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,68 +17,68 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../src/EPGSearch.py:150
+#: ../src/EPGSearch.py:150 EPGSearch.py:162
 msgid "Add timer"
 msgstr "Dodaj timer"
 
-#: ../src/EPGSearch.py:349
+#: ../src/EPGSearch.py:349 EPGSearchSetup.py:64 EPGSearch.py:617
 msgid "Cancel"
 msgstr "Anuluj"
 
-#: ../src/EPGSearch.py:387
+#: ../src/EPGSearch.py:387 EPGSearch.py:716
 msgid "Channel Selection"
 msgstr "Wybr kanaw"
 
-#: ../src/EPGSearch.py:257
+#: ../src/EPGSearch.py:257 EPGSearch.py:466
 #, python-format
 msgid "Could not read AutoTimer timer list: %s"
 msgstr "Nie mog odczyta listy timera: %s"
 
-#: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179
+#: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179 EPGSearch.py:207
 msgid "EPG Search"
 msgstr "Szukaj EPG"
 
-#: ../src/EPGSearch.py:203
+#: ../src/EPGSearch.py:203 EPGSearch.py:239 EPGSearch.py:246
 msgid "Enter text to search for"
 msgstr "Wpisz tekst do wyszukania"
 
-#: ../src/EPGSearch.py:216
+#: ../src/EPGSearch.py:216 EPGSearch.py:260
 msgid "Export selected as AutoTimer"
 msgstr "Eksportuj wybrane jako AutoTimer"
 
-#: ../src/EPGSearch.py:135
+#: ../src/EPGSearch.py:135 EPGSearch.py:146
 msgid "History"
 msgstr "Historia"
 
-#: ../src/EPGSearch.py:214
+#: ../src/EPGSearch.py:214 EPGSearch.py:258
 msgid "Import from AutoTimer"
 msgstr ""
 
-#: ../src/EPGSearch.py:209
+#: ../src/EPGSearch.py:209 EPGSearch.py:253
 msgid "Import from EPG"
 msgstr ""
 
-#: ../src/EPGSearch.py:208
+#: ../src/EPGSearch.py:208 EPGSearch.py:252
 msgid "Import from Timer"
 msgstr "Importuj z AutoTimer"
 
-#: ../src/EPGSearch.py:134
+#: ../src/EPGSearch.py:134 EPGSearch.py:145
 msgid "New Search"
 msgstr "Szukaj"
 
-#: ../src/EPGSearch.py:298
+#: ../src/EPGSearch.py:298 EPGSearch.py:520
 msgid "No history"
 msgstr "Brak historii"
 
-#: ../src/EPGSearch.py:350
+#: ../src/EPGSearch.py:350 EPGSearchSetup.py:63 EPGSearch.py:618
 msgid "OK"
 msgstr "OK"
 
-#: ../src/EPGSearch.py:215
+#: ../src/EPGSearch.py:215 EPGSearch.py:259
 msgid "Save search as AutoTimer"
 msgstr "Zapisz wyszukiwanie jako AutoTimer"
 
-#: ../src/EPGSearch.py:415
+#: ../src/EPGSearch.py:415 EPGSearch.py:71 EPGSearch.py:744
 msgid "Search"
 msgstr "Szukaj"
 
@@ -86,11 +86,12 @@ msgstr "Szukaj"
 msgid "Search EPG"
 msgstr "Szukaj EPG"
 
-#: ../src/EPGSearch.py:364
+#: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
 msgstr "Wybierz timer, aby wyszuka"
 
-#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292
+#: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292 EPGSearch.py:477
+#: EPGSearch.py:514
 msgid "Select text to search for"
 msgstr "Wybierz tekst, aby wyszuka"
 
@@ -98,54 +99,211 @@ msgstr "Wybierz tekst, aby wyszuka"
 msgid "search EPG..."
 msgstr "Szukaj EPG..."
 
+#: EPGSearch.py:153
 msgid "Edit Search"
 msgstr "Edytuj"
 
+#: EPGSearchSetup.py:39
 msgid "Length of History"
 msgstr ""
 
+#: EPGSearchSetup.py:39
 msgid ""
 "How many entries to keep in the search history at most. 0 disables history "
 "entirely!"
 msgstr ""
 
+#: EPGSearchSetup.py:41
 msgid "Add \"Search\" Button to EPG"
 msgstr ""
 
+#: EPGSearchSetup.py:41
 msgid ""
 "If this setting is enabled, the plugin adds a \"Search\" Button to the "
 "regular EPG."
 msgstr ""
 
+#: EPGSearchSetup.py:42
 msgid "Default search type"
 msgstr ""
 
+#: EPGSearchSetup.py:42
 msgid "Configure EPG search type"
 msgstr ""
 
+#: EPGSearchSetup.py:43
 msgid "Case sensitive search"
 msgstr ""
 
 msgid "Perform case sensitive or case intensive EPG searches"
 msgstr ""
 
+#: EPGSearchSetup.py:33 EPGSearchSetup.py:81
 msgid "EPGSearch Setup"
 msgstr ""
 
+#: __init__.py:33 EPGSearch.py:536
 msgid "Extended description"
 msgstr ""
 
+#: __init__.py:34 EPGSearch.py:537
 msgid "Title, short and extended description"
 msgstr ""
 
+#: __init__.py:32 EPGSearch.py:535
 msgid "Title and short description"
 msgstr ""
 
+#: __init__.py:31 EPGSearch.py:534
 msgid "Short description"
 msgstr ""
 
+#: EPGSearch.py:541
 msgid "Select EPG search typ"
 msgstr ""
 
+#: __init__.py:29
 msgid "Ask before search"
+msgstr ""
+
+#: __init__.py:30 EPGSearch.py:533
+msgid "Title"
+msgstr ""
+
+#: __init__.py:42
+msgid "any substring"
+msgstr ""
+
+#: __init__.py:42
+msgid "beginning of a word"
+msgstr ""
+
+#: __init__.py:42
+msgid "exact match"
+msgstr ""
+
+#: EPGSearchSetup.py:40
+msgid "Save any search string in history"
+msgstr ""
+
+#: EPGSearchSetup.py:40
+msgid ""
+"Save any search string in history (e.g. searches started via EPG) or only "
+"manually entered/edited search strings."
+msgstr ""
+
+#: EPGSearchSetup.py:43
+msgid "Perform case sensitive or case insensitive EPG searches"
+msgstr ""
+
+#: EPGSearchSetup.py:44
+msgid "Limit \"Search\" to Channels from Bouquet (TV or Radio)"
+msgstr ""
+
+#: EPGSearchSetup.py:44
+msgid ""
+"If enabled, only search results for Channels within a Bouquet are shown "
+"(either TV or Radio Bouquets)."
+msgstr ""
+
+#: EPGSearchSetup.py:45
+msgid "Type of match for search string"
+msgstr ""
+
+#: EPGSearchSetup.py:45
+msgid "Choose how the search string should match the results."
+msgstr ""
+
+#: EPGSearchSetup.py:46 EPGSearch.py:352
+msgid "Show event short description"
+msgstr ""
+
+#: EPGSearchSetup.py:46
+msgid ""
+"Show the event short description in the result list. Useful when looking for "
+"a certain episode of a TV show."
+msgstr ""
+
+#: EPGSearch.py:183
+msgid "Settings"
+msgstr ""
+
+#: EPGSearch.py:187
+msgid "Exit"
+msgstr ""
+
+#: EPGSearch.py:188
+msgid "Select"
+msgstr ""
+
+#: EPGSearch.py:192
+msgid "Reset search result list"
+msgstr ""
+
+#: EPGSearch.py:193
+msgid "Remove Channel from result list"
+msgstr ""
+
+#: EPGSearch.py:194
+msgid "Keep only this Channel in result list"
+msgstr ""
+
+#: EPGSearch.py:195
+msgid "Remove Event from result list"
+msgstr ""
+
+#: EPGSearch.py:196
+msgid "Toggle: show event short description in result list"
+msgstr ""
+
+#: EPGSearch.py:197
+msgid "Keep only this Event in result list"
+msgstr ""
+
+#: EPGSearch.py:198
+msgid "Match of search string: exact, from begin or any substring"
+msgstr ""
+
+#: EPGSearch.py:199
+msgid "Toggle: search all Channels or only Channels in Bouquet"
+msgstr ""
+
+#: EPGSearch.py:219 EPGSearch.py:374
+msgid "Search all channels"
+msgstr ""
+
+#: EPGSearch.py:221 EPGSearch.py:376
+msgid "Limit to bouquet"
+msgstr ""
+
+#: EPGSearch.py:223 EPGSearch.py:367
+msgid "Match any substring"
+msgstr ""
+
+#: EPGSearch.py:225 EPGSearch.py:361
+msgid "Match beginning of a word"
+msgstr ""
+
+#: EPGSearch.py:227 EPGSearch.py:364
+msgid "Match exactly"
+msgstr ""
+
+#: EPGSearch.py:263
+msgid "Open selected in IMDb"
+msgstr ""
+
+#: EPGSearch.py:265
+msgid "Setup"
+msgstr ""
+
+#: EPGSearch.py:350
+msgid "Hide event short description"
+msgstr ""
+
+#: EPGSearch.py:381
+msgid "Filter: remove"
+msgstr ""
+
+#: EPGSearch.py:383
+msgid "Filter: keep"
 msgstr ""
