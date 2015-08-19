@@ -319,5 +319,11 @@ msgstr ""
 msgid "channel"
 msgstr ""
 
+msgid "Timeout for info pop up"
+msgstr ""
+
+msgid "Duration for showing additional information for search filters"
+msgstr ""
+
 #~ msgid "search EPG"
 #~ msgstr "pretraga EPG"
