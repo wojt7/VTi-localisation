@@ -11053,6 +11053,23 @@ msgstr "ausblenden"
 msgid "fade in/out"
 msgstr "ein-/ausblenden"
 
+msgid ""
+"\n"
+"<This tuner is configured automatically>"
+msgstr "\n<Dieser Tuner wird automatisch konfiguriert>"
+
+msgid "Disable FastZapping"
+msgstr "FastZapping ausschalten"
+
+msgid "Enable FastZapping"
+msgstr "FastZapping einschalten"
+
+msgid "Disable MiniTV"
+msgstr "MiniTV im LCD ausschalten"
+
+msgid "Enable MiniTV"
+msgstr "MiniTV im LCD einschalten"
+
 #~ msgid "Move mode"
 #~ msgstr "Verschiebemodus"
 

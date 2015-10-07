@@ -10183,3 +10183,20 @@ msgstr ""
 
 msgid "fade in/out"
 msgstr ""
+
+msgid ""
+"\n"
+"<This tuner is configured automatically>"
+msgstr ""
+
+msgid "Disable FastZapping"
+msgstr ""
+
+msgid "Enable FastZapping"
+msgstr ""
+
+msgid "Disable MiniTV"
+msgstr ""
+
+msgid "Enable MiniTV"
+msgstr ""
