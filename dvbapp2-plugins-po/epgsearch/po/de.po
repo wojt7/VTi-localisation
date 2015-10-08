@@ -232,7 +232,7 @@ msgid ""
 "Show the event short description in the result list. Useful when looking for "
 "a certain episode of a TV show."
 msgstr ""
-"Zeigt die Kurzbeschreibung der Suchesultate. Diese Option ist sinnvoll wenn "
+"Zeigt die Kurzbeschreibung der Suchresultate. Diese Option ist sinnvoll wenn "
 "z.B. Serien gesucht werden"
 
 #: EPGSearch.py:183
