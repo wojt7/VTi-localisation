@@ -4483,6 +4483,30 @@ msgstr "Παρακαλώ παραμετροποιήσετε το tuner C"
 msgid "Please set up tuner D"
 msgstr "Παρακαλώ παραμετροποιήσετε το tuner D"
 
+#
+msgid "Please set up tuner E"
+msgstr ""
+
+#
+msgid "Please set up tuner F"
+msgstr ""
+
+#
+msgid "Please set up tuner G"
+msgstr ""
+
+#
+msgid "Please set up tuner H"
+msgstr ""
+
+#
+msgid "Please set up tuner I"
+msgstr ""
+
+#
+msgid "Please set up tuner J"
+msgstr ""
+
 msgid "Please setup your tuner configuration."
 msgstr ""
 

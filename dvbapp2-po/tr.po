@@ -4781,6 +4781,30 @@ msgid "Please set up tuner D"
 msgstr "Lütfen tuner D'yi yapılandırın"
 
 #
+msgid "Please set up tuner E"
+msgstr ""
+
+#
+msgid "Please set up tuner F"
+msgstr ""
+
+#
+msgid "Please set up tuner G"
+msgstr ""
+
+#
+msgid "Please set up tuner H"
+msgstr ""
+
+#
+msgid "Please set up tuner I"
+msgstr ""
+
+#
+msgid "Please set up tuner J"
+msgstr ""
+
+#
 #, fuzzy
 msgid "Please setup your tuner configuration."
 msgstr "ağ donanımı yapılandırmasından çık"

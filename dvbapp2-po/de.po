@@ -4903,6 +4903,30 @@ msgid "Please set up tuner D"
 msgstr "Einstellungen für Tuner D"
 
 #
+msgid "Please set up tuner E"
+msgstr "Einstellungen für Tuner E"
+
+#
+msgid "Please set up tuner F"
+msgstr "Einstellungen für Tuner F"
+
+#
+msgid "Please set up tuner G"
+msgstr "Einstellungen für Tuner G"
+
+#
+msgid "Please set up tuner H"
+msgstr "Einstellungen für Tuner H"
+
+#
+msgid "Please set up tuner I"
+msgstr "Einstellungen für Tuner I"
+
+#
+msgid "Please set up tuner J"
+msgstr "Einstellungen für Tuner J"
+
+#
 msgid "Please setup your tuner configuration."
 msgstr "Bitte Tuner einrichten"
 
@@ -11056,7 +11080,9 @@ msgstr "ein-/ausblenden"
 msgid ""
 "\n"
 "<This tuner is configured automatically>"
-msgstr "\n<Dieser Tuner wird automatisch konfiguriert>"
+msgstr ""
+"\n"
+"<Dieser Tuner wird automatisch konfiguriert>"
 
 msgid "Disable FastZapping"
 msgstr "FastZapping ausschalten"

@@ -4543,6 +4543,30 @@ msgstr "Lūdzu iestatiet C uztvērēju"
 msgid "Please set up tuner D"
 msgstr "Lūdzu iestatiet D uztvērēju"
 
+#
+msgid "Please set up tuner E"
+msgstr ""
+
+#
+msgid "Please set up tuner F"
+msgstr ""
+
+#
+msgid "Please set up tuner G"
+msgstr ""
+
+#
+msgid "Please set up tuner H"
+msgstr ""
+
+#
+msgid "Please set up tuner I"
+msgstr ""
+
+#
+msgid "Please set up tuner J"
+msgstr ""
+
 msgid "Please setup your tuner configuration."
 msgstr ""
 
