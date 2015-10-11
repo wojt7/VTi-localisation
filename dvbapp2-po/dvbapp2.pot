@@ -10512,5 +10512,6 @@ msgstr ""
 msgid "Enable MiniTV"
 msgstr ""
 
-
+msgid "You can now choose your preferred skin.\nPlease press OK"
+msgstr ""
 
