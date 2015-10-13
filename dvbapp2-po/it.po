@@ -1995,9 +1995,6 @@ msgstr "Olandese"
 msgid "Dynamic contrast"
 msgstr "Contrasto dinamico"
 
-msgid "E"
-msgstr "E"
-
 msgid "EPG Selection"
 msgstr "Selezione EPG"
 
@@ -6577,9 +6574,6 @@ msgstr "Modalità voltaggio"
 msgid "Volume"
 msgstr "Volume"
 
-msgid "W"
-msgstr "O"
-
 msgid "WEP"
 msgstr "WEP"
 
@@ -9127,3 +9121,9 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "W"
+#~ msgstr "O"

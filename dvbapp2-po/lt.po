@@ -2150,10 +2150,6 @@ msgid "Dynamic contrast"
 msgstr "Dinamiškas kontrastas"
 
 #
-msgid "E"
-msgstr "E"
-
-#
 msgid "EPG Selection"
 msgstr "EPG pasirinkimas"
 
@@ -6608,9 +6604,6 @@ msgstr "Įtampa"
 msgid "Volume"
 msgstr "Garsumas"
 
-msgid "W"
-msgstr "W"
-
 msgid "WEP"
 msgstr "WEP"
 
@@ -9168,6 +9161,13 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "W"
+#~ msgstr "W"
 
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"

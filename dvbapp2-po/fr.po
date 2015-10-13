@@ -2158,10 +2158,6 @@ msgid "Dynamic contrast"
 msgstr "Contraste dynamique"
 
 #
-msgid "E"
-msgstr "E"
-
-#
 msgid "EPG Selection"
 msgstr "Sélection EPG"
 
@@ -7370,10 +7366,6 @@ msgid "Volume"
 msgstr "Volume"
 
 #
-msgid "W"
-msgstr "O"
-
-#
 msgid "WEP"
 msgstr "WEP"
 
@@ -10248,6 +10240,14 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#
+#~ msgid "E"
+#~ msgstr "E"
+
+#
+#~ msgid "W"
+#~ msgstr "O"
 
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"

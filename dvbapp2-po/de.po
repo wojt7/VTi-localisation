@@ -2408,10 +2408,6 @@ msgid "Dynamic contrast"
 msgstr "Dynamischer Kontrast"
 
 #
-msgid "E"
-msgstr "O"
-
-#
 msgid "EPG Selection"
 msgstr "Elektronischer Programmführer (EPG)"
 
@@ -8056,10 +8052,6 @@ msgid "Volume"
 msgstr "Lautstärke"
 
 #
-msgid "W"
-msgstr "W"
-
-#
 msgid "WEP"
 msgstr "WEP"
 
@@ -11108,13 +11100,3 @@ msgstr "Chipsatz"
 
 msgid "CPU"
 msgstr "CPU"
-
-#~ msgid "Move mode"
-#~ msgstr "Verschiebemodus"
-
-#~ msgid ""
-#~ "Sorry, but the plugin EPGSearch is not installed at your Vu+ STB!\n"
-#~ "Please install it to use this function"
-#~ msgstr ""
-#~ "Das Plugin EPGSearch ist nicht auf Ihrer Vu+ STB installiert!\n"
-#~ "Bitte installieren Sie das Plugin um diese Funktion nutzen zu können."

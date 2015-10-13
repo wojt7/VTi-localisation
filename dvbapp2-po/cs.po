@@ -1992,9 +1992,6 @@ msgstr "Holandsky"
 msgid "Dynamic contrast"
 msgstr "Dynamický kontrast"
 
-msgid "E"
-msgstr "Východní"
-
 msgid "EPG Selection"
 msgstr "Programy akt.kanálu..."
 
@@ -6542,9 +6539,6 @@ msgstr "Napěťový mód"
 msgid "Volume"
 msgstr "Hlasitost"
 
-msgid "W"
-msgstr "Západní"
-
 msgid "WEP"
 msgstr "WEP"
 
@@ -8999,3 +8993,9 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#~ msgid "E"
+#~ msgstr "Východní"
+
+#~ msgid "W"
+#~ msgstr "Západní"

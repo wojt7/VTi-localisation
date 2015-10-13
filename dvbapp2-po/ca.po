@@ -2186,10 +2186,6 @@ msgid "Dynamic contrast"
 msgstr ""
 
 #
-msgid "E"
-msgstr "E"
-
-#
 msgid "EPG Selection"
 msgstr "Selecció EPG"
 
@@ -7343,10 +7339,6 @@ msgid "Volume"
 msgstr "Volum"
 
 #
-msgid "W"
-msgstr "O"
-
-#
 msgid "WEP"
 msgstr ""
 
@@ -10203,3 +10195,11 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#
+#~ msgid "E"
+#~ msgstr "E"
+
+#
+#~ msgid "W"
+#~ msgstr "O"

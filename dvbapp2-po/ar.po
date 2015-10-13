@@ -2035,9 +2035,6 @@ msgstr "هولندى"
 msgid "Dynamic contrast"
 msgstr "تباين ديناميكى"
 
-msgid "E"
-msgstr ""
-
 #
 msgid "EPG Selection"
 msgstr "إختيار EPG"
@@ -6840,10 +6837,6 @@ msgstr "وضعيه الفولت"
 #
 msgid "Volume"
 msgstr "درجه الصوت"
-
-#
-msgid "W"
-msgstr ""
 
 #
 msgid "WEP"

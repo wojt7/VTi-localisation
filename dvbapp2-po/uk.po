@@ -2217,10 +2217,6 @@ msgid "Dynamic contrast"
 msgstr ""
 
 #
-msgid "E"
-msgstr "O"
-
-#
 msgid "EPG Selection"
 msgstr "Вибір EPG"
 
@@ -7443,10 +7439,6 @@ msgid "Volume"
 msgstr "Гучність"
 
 #
-msgid "W"
-msgstr "W"
-
-#
 msgid "WEP"
 msgstr ""
 
@@ -10326,3 +10318,11 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#
+#~ msgid "E"
+#~ msgstr "O"
+
+#
+#~ msgid "W"
+#~ msgstr "W"

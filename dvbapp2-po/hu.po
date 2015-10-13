@@ -2214,10 +2214,6 @@ msgid "Dynamic contrast"
 msgstr "Dinamikus kontraszt"
 
 #
-msgid "E"
-msgstr "K"
-
-#
 msgid "EPG Selection"
 msgstr "Elektronikus műsorújság"
 
@@ -7444,10 +7440,6 @@ msgid "Volume"
 msgstr "Hangerő"
 
 #
-msgid "W"
-msgstr "Ny"
-
-#
 msgid "WEP"
 msgstr "WEP"
 
@@ -10340,3 +10332,11 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#
+#~ msgid "E"
+#~ msgstr "K"
+
+#
+#~ msgid "W"
+#~ msgstr "Ny"

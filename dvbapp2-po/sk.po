@@ -1903,9 +1903,6 @@ msgstr "Holandčina"
 msgid "Dynamic contrast"
 msgstr "Dynamický kontrast"
 
-msgid "E"
-msgstr "V"
-
 msgid "EPG Selection"
 msgstr "Voľba EPG"
 
@@ -6325,9 +6322,6 @@ msgstr "Napäťový režim"
 msgid "Volume"
 msgstr "Hlasitosť"
 
-msgid "W"
-msgstr "Z"
-
 msgid "WEP"
 msgstr "WEP"
 
@@ -8883,6 +8877,12 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#~ msgid "E"
+#~ msgstr "V"
+
+#~ msgid "W"
+#~ msgstr "Z"
 
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"

@@ -2212,10 +2212,6 @@ msgid "Dynamic contrast"
 msgstr "Dynamisk kontrast"
 
 #
-msgid "E"
-msgstr "Ø"
-
-#
 msgid "EPG Selection"
 msgstr "EPG Valg"
 
@@ -7443,10 +7439,6 @@ msgid "Volume"
 msgstr "Lydstyrke"
 
 #
-msgid "W"
-msgstr "V"
-
-#
 msgid "WEP"
 msgstr "WEP"
 
@@ -10331,6 +10323,14 @@ msgstr ""
 
 msgid "CPU"
 msgstr ""
+
+#
+#~ msgid "E"
+#~ msgstr "Ø"
+
+#
+#~ msgid "W"
+#~ msgstr "V"
 
 #
 #~ msgid ""
