@@ -11099,8 +11099,15 @@ msgstr "MiniTV im LCD einschalten"
 msgid ""
 "You can now choose your preferred skin.\n"
 "Please press OK"
-msgstr "Sie können jetzt Ihren bevorzugten Skin auswählen.\n"
+msgstr ""
+"Sie können jetzt Ihren bevorzugten Skin auswählen.\n"
 "Bitte drücken Sie die OK Taste"
+
+msgid "Chipset"
+msgstr "Chipsatz"
+
+msgid "CPU"
+msgstr "CPU"
 
 #~ msgid "Move mode"
 #~ msgstr "Verschiebemodus"

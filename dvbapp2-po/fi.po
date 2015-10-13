@@ -10255,6 +10255,12 @@ msgid ""
 "Please press OK"
 msgstr ""
 
+msgid "Chipset"
+msgstr ""
+
+msgid "CPU"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

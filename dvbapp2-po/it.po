@@ -9121,3 +9121,9 @@ msgid ""
 "You can now choose your preferred skin.\n"
 "Please press OK"
 msgstr ""
+
+msgid "Chipset"
+msgstr ""
+
+msgid "CPU"
+msgstr ""
