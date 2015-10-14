@@ -10353,6 +10353,18 @@ msgstr ""
 msgid "CPU"
 msgstr ""
 
+msgid "Enable SmartSeek (8) by default (7 and 9)"
+msgstr ""
+
+msgid "Set marker at SmartSeek start and end position"
+msgstr ""
+
+msgid "Initial SmartSeek time intervall (seconds)"
+msgstr ""
+
+msgid "Timeout for SmartSeek in seconds"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
