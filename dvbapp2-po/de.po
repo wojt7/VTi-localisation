@@ -11101,8 +11101,8 @@ msgstr "Chipsatz"
 msgid "CPU"
 msgstr "CPU"
 
-msgid "Enable SmartSeek (8) by default (7 and 9)"
-msgstr "SmartSeek (8) immer aktivieren (7 und 9)"
+msgid "Enable SmartSeek (button UP and DOWN)"
+msgstr "SmartSeek aktivieren (Tasten AUF und AB)"
 
 msgid "Set marker at SmartSeek start and end position"
 msgstr "Marker am Start und Ende von SmartSeek setzen"
@@ -11112,3 +11112,9 @@ msgstr "Startintervall in Sekunden für SmartSeek"
 
 msgid "Timeout for SmartSeek in seconds"
 msgstr "Timeout für SmartSeek"
+
+msgid "SmartSeek: skip forward..."
+msgstr "SmartSeek: vorwärts springen..."
+
+msgid "SmartSeek: skip backward..."
+msgstr "SmartSeek: rückwärts springen..."
