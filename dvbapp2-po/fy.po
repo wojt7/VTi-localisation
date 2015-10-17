@@ -10269,6 +10269,21 @@ msgstr ""
 msgid "SmartSeek: skip backward..."
 msgstr ""
 
+msgid "update latest movies information"
+msgstr ""
+
+msgid "latest movies"
+msgstr ""
+
+msgid "Mark recordings as new for X days (0=off)"
+msgstr ""
+
+msgid "Location for info file"
+msgstr ""
+
+msgid "Recordings of last %d days"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

@@ -11118,3 +11118,18 @@ msgstr "SmartSeek: vorwärts springen..."
 
 msgid "SmartSeek: skip backward..."
 msgstr "SmartSeek: rückwärts springen..."
+
+msgid "update latest movies information"
+msgstr "Aktualisiere Informationen zu neuen Aufnahmen"
+
+msgid "latest movies"
+msgstr "Neuste Aufnahmen"
+
+msgid "Mark recordings as new for X days (0=off)"
+msgstr "Markiere Aufnahmen als neu für X Tage (0=aus)"
+
+msgid "Location for info file"
+msgstr "Ort der Informationsdatei"
+
+msgid "Recordings of last %d days"
+msgstr "Aufnahmen der letzten %d Tage"
