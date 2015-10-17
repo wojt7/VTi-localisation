@@ -11123,10 +11123,10 @@ msgid "update latest movies information"
 msgstr "Aktualisiere Informationen zu neuen Aufnahmen"
 
 msgid "latest movies"
-msgstr "Neuste Aufnahmen"
+msgstr "Neueste Aufnahmen"
 
 msgid "Mark recordings as new for X days (0=off)"
-msgstr "Markiere Aufnahmen als neu für X Tage (0=aus)"
+msgstr "Markiere Aufnahmen als 'NEU' für X Tage (0=aus)"
 
 msgid "Location for info file"
 msgstr "Ort der Informationsdatei"
