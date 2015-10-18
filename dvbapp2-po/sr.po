@@ -10386,6 +10386,15 @@ msgstr ""
 msgid "Recordings of last %d days"
 msgstr ""
 
+msgid "Mark only unseen recordings as new"
+msgstr ""
+
+msgid "Unseen recordings of last %d days"
+msgstr ""
+
+msgid "latest unseen movies"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

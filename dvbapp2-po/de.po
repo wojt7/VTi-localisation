@@ -11133,3 +11133,12 @@ msgstr "Ort der Informationsdatei"
 
 msgid "Recordings of last %d days"
 msgstr "Aufnahmen der letzten %d Tage"
+
+msgid "Mark only unseen recordings as new"
+msgstr "Markiere nur ungesehene Aufnahmen als 'NEU'"
+
+msgid "Unseen recordings of last %d days"
+msgstr "Ungesehene Aufnahmen der letzten %d Tage"
+
+msgid "latest unseen movies"
+msgstr "Neueste, ungesehene Aufnahmen"
