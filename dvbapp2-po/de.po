@@ -11151,3 +11151,6 @@ msgstr "Anzeige im Betrieb"
 
 msgid "Display mode in standby"
 msgstr "Anzeige im Standby"
+
+msgid "Turn off display"
+msgstr "Display ausschalten"

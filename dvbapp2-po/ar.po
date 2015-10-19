@@ -9556,6 +9556,9 @@ msgstr ""
 msgid "Display mode in standby"
 msgstr ""
 
+msgid "Turn off display"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

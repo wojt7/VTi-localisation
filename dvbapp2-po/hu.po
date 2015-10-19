@@ -10384,6 +10384,9 @@ msgstr ""
 msgid "Display mode in standby"
 msgstr ""
 
+msgid "Turn off display"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "K"
