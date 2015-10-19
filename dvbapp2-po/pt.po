@@ -10240,6 +10240,15 @@ msgstr ""
 msgid "latest unseen movies"
 msgstr ""
 
+msgid "Setup - Display"
+msgstr ""
+
+msgid "Display mode in operation"
+msgstr ""
+
+msgid "Display mode in standby"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

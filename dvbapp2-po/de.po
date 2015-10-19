@@ -11142,3 +11142,12 @@ msgstr "Ungesehene Aufnahmen der letzten %d Tage"
 
 msgid "latest unseen movies"
 msgstr "Neueste, ungesehene Aufnahmen"
+
+msgid "Setup - Display"
+msgstr "Einstellungen - Display"
+
+msgid "Display mode in operation"
+msgstr "Anzeige im Betrieb"
+
+msgid "Display mode in standby"
+msgstr "Anzeige im Standby"
