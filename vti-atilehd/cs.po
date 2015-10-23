@@ -23,14 +23,14 @@ msgstr "fahrenheita"
 
 #, python-format
 msgid "%s Setup"
-msgstr ""
+msgstr "Nastavení %s"
 
 msgid "Personalize your Skin"
 msgstr "Přizpůsobit vzhled"
 
 #, python-format
 msgid "Setup - %s"
-msgstr ""
+msgstr "Nastavení - %s"
 
 msgid "Cancel"
 msgstr "Storno"
@@ -46,7 +46,7 @@ msgid "%s - Setup"
 msgstr ""
 
 msgid "Default"
-msgstr ""
+msgstr "Předvolba"
 
 msgid "Style:"
 msgstr "Styl "
@@ -56,10 +56,10 @@ msgstr "Font "
 
 #, python-format
 msgid "Enable %s pro:"
-msgstr ""
+msgstr "Povolit %s pro:"
 
 msgid "Change skin"
-msgstr ""
+msgstr "Změna skinu"
 
 msgid "---Weather---"
 msgstr "--- počasí ---"
@@ -84,7 +84,7 @@ msgstr "Zpráva"
 
 #, python-format
 msgid "%s additional screens"
-msgstr ""
+msgstr "%s přídavná okna"
 
 msgid "Exit"
 msgstr "Zavřít"
@@ -96,16 +96,16 @@ msgid "off"
 msgstr "Deaktivovat"
 
 msgid "Location list"
-msgstr ""
+msgstr "Seznam míst"
 
 msgid "Search weather location ID"
-msgstr ""
+msgstr "Vyhledat ID místa pro počasí"
 
 msgid "Please enter search string for your location"
-msgstr ""
+msgstr "Zadejte hledaný text pro místo"
 
 msgid "Sorry, there was a problem:"
-msgstr ""
+msgstr "Sorry, je tu problém: "
 
 #~ msgid ""
 #~ "GUI needs a restart to apply a new skin.\n"
