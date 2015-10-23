@@ -10373,6 +10373,12 @@ msgstr ""
 msgid "Turn off display"
 msgstr ""
 
+msgid "Display mode (LCD)"
+msgstr ""
+
+msgid "Please select display (LCD) mode..."
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "O"

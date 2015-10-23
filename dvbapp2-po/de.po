@@ -11154,3 +11154,9 @@ msgstr "Anzeige im Standby"
 
 msgid "Turn off display"
 msgstr "Display ausschalten"
+
+msgid "Display mode (LCD)"
+msgstr "Display Modus (LCD)"
+
+msgid "Please select display (LCD) mode..."
+msgstr "Bitte wählen Sie den LCD-Display-Modus..."
