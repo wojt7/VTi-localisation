@@ -215,3 +215,9 @@ msgstr ""
 
 msgid "never"
 msgstr ""
+
+msgid "Save epg to file after EPG refresh"
+msgstr ""
+
+msgid "This setting controls whether the cached EPG should be saved to file or not."
+msgstr ""

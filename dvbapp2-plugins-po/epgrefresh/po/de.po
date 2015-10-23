@@ -242,3 +242,10 @@ msgstr "Löschen"
 
 msgid "never"
 msgstr "niemals"
+
+msgid "Save epg to file after EPG refresh"
+msgstr "Nach EPG Aktualisierung EPG in Datei speichern"
+
+msgid ""
+"This setting controls whether the cached EPG should be saved to file or not."
+msgstr "Diese Einstellung legt fest, ob der EPG Zwischenspeicher nach der Aktualisierung in der EPG Datei gespeichert werden soll."
