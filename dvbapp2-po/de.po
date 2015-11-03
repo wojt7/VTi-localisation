@@ -11160,3 +11160,6 @@ msgstr "Display Modus (LCD)"
 
 msgid "Please select display (LCD) mode..."
 msgstr "Bitte wählen Sie den LCD-Display-Modus..."
+
+msgid "HDMI Colorspace"
+msgstr "HDMI Farbraum"

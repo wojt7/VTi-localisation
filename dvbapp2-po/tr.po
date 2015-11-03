@@ -10903,6 +10903,9 @@ msgstr ""
 msgid "Please select display (LCD) mode..."
 msgstr ""
 
+msgid "HDMI Colorspace"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "D"
