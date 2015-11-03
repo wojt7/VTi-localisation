@@ -9233,59 +9233,59 @@ msgstr ""
 
 #
 msgid "January"
-msgstr ""
+msgstr "Janvier"
 
 #
 msgid "February"
-msgstr ""
+msgstr "Février"
 
 #
 msgid "March"
-msgstr ""
+msgstr "Mars"
 
 #
 msgid "April"
-msgstr ""
+msgstr "Avril"
 
 #
 msgid "May"
-msgstr ""
+msgstr "Mai"
 
 #
 msgid "June"
-msgstr ""
+msgstr "Juin"
 
 #
 msgid "July"
-msgstr ""
+msgstr "Juillet"
 
 #
 msgid "August"
-msgstr ""
+msgstr "Août"
 
 #
 msgid "September"
-msgstr ""
+msgstr "Septembre"
 
 #
 msgid "October"
-msgstr ""
+msgstr "Octobre"
 
 #
 msgid "November"
-msgstr ""
+msgstr "Novembre"
 
 #
 msgid "December"
-msgstr ""
+msgstr "Décembre"
 
 #
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #
 msgid "Feb"
-msgstr ""
+msgstr "Fév"
 
 #
 msgid "Mar"
@@ -9293,7 +9293,7 @@ msgstr ""
 
 #
 msgid "Apr"
-msgstr ""
+msgstr "Avr"
 
 #
 msgid "Jun"
@@ -9305,7 +9305,7 @@ msgstr ""
 
 #
 msgid "Aug"
-msgstr ""
+msgstr "Aou"
 
 #
 msgid "Sep"
