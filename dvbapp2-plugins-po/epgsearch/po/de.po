@@ -86,6 +86,9 @@ msgstr "Suche"
 msgid "Search EPG"
 msgstr "EPG durchsuchen"
 
+msgid "search EPG"
+msgstr "Suche in EPG"
+
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
 msgstr "Einen Timer auswählen"
@@ -332,7 +335,6 @@ msgid "Timeout for info pop up"
 msgstr "Anzeigedauer Hinweistext in Sekunden ( 0 = aus)"
 
 msgid "Duration for showing additional information for search filters"
-msgstr "Zeit in Sekunden in der der Hinweistext zu den Suchfiltern angegeben wird (0 = aus)"
-
-#~ msgid "search EPG"
-#~ msgstr "Suche in EPG"
+msgstr ""
+"Zeit in Sekunden in der der Hinweistext zu den Suchfiltern angegeben wird (0 "
+"= aus)"

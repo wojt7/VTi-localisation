@@ -88,6 +88,9 @@ msgstr "Traženje"
 msgid "Search EPG"
 msgstr "Pretraga EPG"
 
+msgid "search EPG"
+msgstr "pretraga EPG"
+
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
 msgstr "Izaberi tajmer za pretragu"
@@ -324,6 +327,3 @@ msgstr ""
 
 msgid "Duration for showing additional information for search filters"
 msgstr ""
-
-#~ msgid "search EPG"
-#~ msgstr "pretraga EPG"

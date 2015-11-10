@@ -87,6 +87,10 @@ msgstr "جستجو"
 msgid "Search EPG"
 msgstr "جستجوی یک برنامه راهنمای الکترونیک"
 
+#
+msgid "search EPG"
+msgstr ""
+
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
 msgstr "انتخاب یک تایمر برای جستجو "

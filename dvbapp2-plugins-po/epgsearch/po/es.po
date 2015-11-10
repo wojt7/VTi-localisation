@@ -86,6 +86,9 @@ msgstr "Buscar"
 msgid "Search EPG"
 msgstr "Buscar EPG"
 
+msgid "search EPG"
+msgstr "Buscar EPG"
+
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
 msgstr "Seleccionar una programación a buscar"
@@ -322,6 +325,3 @@ msgstr ""
 
 msgid "Duration for showing additional information for search filters"
 msgstr ""
-
-#~ msgid "search EPG"
-#~ msgstr "Buscar EPG"

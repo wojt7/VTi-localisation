@@ -83,6 +83,10 @@ msgstr "Ara"
 msgid "Search EPG"
 msgstr "EPG'de ara"
 
+#
+msgid "search EPG"
+msgstr ""
+
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
 msgstr "Arama zamanını seçin"

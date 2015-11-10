@@ -88,6 +88,9 @@ msgstr "Zoeken"
 msgid "Search EPG"
 msgstr "EPG doorzoeken"
 
+msgid "search EPG"
+msgstr "EPG doorzoeken"
+
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
 msgstr "Selecteer te zoeken timer..."
@@ -324,6 +327,3 @@ msgstr ""
 
 msgid "Duration for showing additional information for search filters"
 msgstr ""
-
-#~ msgid "search EPG"
-#~ msgstr "EPG doorzoeken"
