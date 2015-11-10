@@ -11163,3 +11163,6 @@ msgstr "Bitte wählen Sie den LCD-Display-Modus..."
 
 msgid "HDMI Colorspace"
 msgstr "HDMI Farbraum"
+
+msgid "Minimum SmartSeek time intervall (seconds)"
+msgstr "Minimale Sprungzeit in Sekunden für SmartSeek""

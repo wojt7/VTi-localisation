@@ -9568,6 +9568,9 @@ msgstr ""
 msgid "HDMI Colorspace"
 msgstr ""
 
+msgid "Minimum SmartSeek time intervall (seconds)"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

@@ -10384,6 +10384,9 @@ msgstr ""
 msgid "HDMI Colorspace"
 msgstr ""
 
+msgid "Minimum SmartSeek time intervall (seconds)"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
