@@ -35,6 +35,8 @@ msgid ""
 "\n"
 "Backup your STB settings."
 msgstr ""
+"\n"
+"Sauvegarder vos paramètres."
 
 #, python-format
 msgid ""
@@ -52,6 +54,8 @@ msgid ""
 "\n"
 "Do you want to exit?"
 msgstr ""
+"\n"
+"Voulez-vous quiiter?"
 
 #
 msgid ""
@@ -71,11 +75,15 @@ msgid ""
 "\n"
 "Manage extensions or plugins for your STB"
 msgstr ""
+"\n"
+"Gérer les extensions ou plugins de votre STB"
 
 msgid ""
 "\n"
 "Online update of your STB software."
 msgstr ""
+"\n"
+"Mises à Jour en ligne du logiciel."
 
 #, python-format
 msgid ""
@@ -95,11 +103,15 @@ msgid ""
 "\n"
 "Restore your STB settings."
 msgstr ""
+"\n"
+"Restaurer vos paramètres STB."
 
 msgid ""
 "\n"
 "Restore your STB with a new firmware."
 msgstr ""
+"\n"
+"Resturer votre STB avec un nouveau firmware."
 
 #
 msgid ""
@@ -131,18 +143,24 @@ msgid ""
 "\n"
 "Size : %d MB\n"
 msgstr ""
+"\n"
+"Taille : %d MB\n"
 
 #, python-format
 msgid ""
 "\n"
 "Size : %s"
 msgstr ""
+"\n"
+"Taille : %s"
 
 #, python-format
 msgid ""
 "\n"
 "Size : %s MB\n"
 msgstr ""
+"\n"
+"Taille : %s MB\n"
 
 #
 msgid ""
@@ -164,11 +182,15 @@ msgid ""
 "\n"
 "When transcoding, PIP is disabled."
 msgstr ""
+"\n"
+"Si transcodage, PIP est désactivé."
 
 msgid ""
 "\n"
 "When transcoding, both PIP and analog video outputs are disabled."
 msgstr ""
+"\n"
+"Si transcodage, PIP et sortie analogique sont désactivés."
 
 #, python-format
 msgid ""
@@ -291,6 +313,8 @@ msgid ""
 "%s\n"
 "Start Device Inititlization?"
 msgstr ""
+"%s\n"
+"Commencer l'initialisation du périphérique?"
 
 #, python-format
 msgid "%s (%s)\n"
@@ -304,7 +328,7 @@ msgid "(ZAP)"
 msgstr "(ZAP)"
 
 msgid "(de)activate Picture in Picture..."
-msgstr ""
+msgstr "(dés)activer Picture in Picture"
 
 #
 msgid "(empty)"
@@ -438,7 +462,7 @@ msgid "4"
 msgstr "4"
 
 msgid "4. Attempt to connect"
-msgstr ""
+msgstr "4. Essai de connexion"
 
 msgid "4:3"
 msgstr "4:3"
@@ -456,7 +480,7 @@ msgid "5 minutes"
 msgstr "5 minutes"
 
 msgid "5. Done"
-msgstr ""
+msgstr "5. Fait"
 
 msgid "50000"
 msgstr ""
@@ -517,11 +541,15 @@ msgid ""
 "A finished record timer wants to set your\n"
 "STB to standby. Do that now?"
 msgstr ""
+"Un timer terminé veut mettre en \n"
+"veille votre STB. Ok?"
 
 msgid ""
 "A finished record timer wants to shut down\n"
 "your STB. Shutdown now?"
 msgstr ""
+"Un timer terminé veut éteindre \n"
+"votre STB. Ok?"
 
 #
 msgid "A graphical EPG for all services of an specific bouquet"
@@ -597,19 +625,19 @@ msgid "A/V Settings"
 msgstr "Paramètres A/V"
 
 msgid "A/V-Receiver power off:"
-msgstr ""
+msgstr "Éteindre récepteur A/V"
 
 msgid "A/V-Receiver power on:"
-msgstr ""
+msgstr "Allumer récepteur A/V"
 
 msgid "A/V-Receiver toggle mute:"
 msgstr ""
 
 msgid "A/V-Receiver volume down:"
-msgstr ""
+msgstr "Diminuer volume récepteur A/V"
 
 msgid "A/V-Receiver volume up:"
-msgstr ""
+msgstr "Augmenter volume récepteur A/V"
 
 #
 msgid "AA"
@@ -719,10 +747,10 @@ msgid "Address (0~FF):"
 msgstr ""
 
 msgid "Adjust 3D settings"
-msgstr ""
+msgstr "Ajuster paramètres 3D"
 
 msgid "Adjust screen position"
-msgstr ""
+msgstr "Ajuster la position de l'écran"
 
 #
 msgid ""
@@ -809,7 +837,7 @@ msgid "Always ask"
 msgstr "Toujours demander"
 
 msgid "Always zap before record"
-msgstr ""
+msgstr "Toujours zapper avant d'enregistrer"
 
 #
 msgid "An empty filename is illegal."
@@ -851,7 +879,7 @@ msgid "Are you sure you want to exit this wizard?"
 msgstr "Etes-vous sûr de vouloir quitter cet assistant?"
 
 msgid "Are you sure you want to restart your network interfaces?\n"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir redémarrer votre interface réseau?\n"
 
 #
 msgid ""
@@ -950,7 +978,7 @@ msgid "Automatic Scan"
 msgstr "Analyse automatique"
 
 msgid "Automatically set up a Mount Point"
-msgstr ""
+msgstr "Paraméter automatiquement un point de montage"
 
 msgid "Autoremove depended packages at package remove"
 msgstr ""
@@ -1285,7 +1313,7 @@ msgid "Channel"
 msgstr "Canal"
 
 msgid "Channel (1~13)"
-msgstr ""
+msgstr "Canal (1~13)"
 
 #
 msgid "Channel Selection"
@@ -1320,7 +1348,7 @@ msgid "Check"
 msgstr "Vérification"
 
 msgid "Check filesystem, please wait ..."
-msgstr ""
+msgstr "Vérification des fichier système..."
 
 #
 msgid "Checking Filesystem..."
@@ -1330,10 +1358,10 @@ msgid "Choice filesystem."
 msgstr ""
 
 msgid "Choose A/V-Receiver HDMI input:"
-msgstr ""
+msgstr "Choisir l'entrée HDMI du récepteur"
 
 msgid "Choose TV HDMI input:"
-msgstr ""
+msgstr "Choisir l'entrée HDMI de la TV"
 
 #
 msgid "Choose Tuner"
@@ -1359,7 +1387,7 @@ msgid "Choose bouquet"
 msgstr "Choisir le bouquet"
 
 msgid "Choose folder"
-msgstr ""
+msgstr "Choisir dossier"
 
 msgid "Choose remote control picture for help screen"
 msgstr ""
@@ -1423,7 +1451,7 @@ msgid "Color Format"
 msgstr "Format de couleur"
 
 msgid "Colorize movie list"
-msgstr ""
+msgstr "Colorier la liste des films"
 
 #
 msgid "Command execution..."
@@ -1473,7 +1501,7 @@ msgid "Configuration Mode"
 msgstr "Mode de configuration"
 
 msgid "Configuration your AP is finished"
-msgstr ""
+msgstr "La configuration de votre AP est finie"
 
 #
 msgid "Configure interface"
@@ -1493,7 +1521,7 @@ msgstr "Configurer votre LAN sans fil encore"
 
 #
 msgid "Configuring"
-msgstr "configuration"
+msgstr "Configuration"
 
 #
 msgid "Conflicting timer"
@@ -1541,7 +1569,7 @@ msgid "Contrast"
 msgstr "Contraste"
 
 msgid "Copy"
-msgstr ""
+msgstr "Copie"
 
 msgid "Could not load Medium! No disc inserted?"
 msgstr "Ne peux charger le support! Aucun DVD inséré?"
@@ -1573,13 +1601,14 @@ msgid "Create DVD-ISO"
 msgstr "Créer DVD-ISO"
 
 msgid "Create directory"
-msgstr ""
+msgstr "Créer dossier"
 
 #, python-format
 msgid ""
 "Create directory failed!\n"
 "%s"
-msgstr ""
+msgstr "Échec création dossier!\n"
+"%s"
 
 msgid "Create filesystem, please wait ..."
 msgstr ""
@@ -1611,7 +1640,7 @@ msgid "Croatian"
 msgstr "Croate"
 
 msgid "Current Page"
-msgstr ""
+msgstr "Page courante"
 
 #
 msgid "Current Transponder"
@@ -1683,7 +1712,7 @@ msgid "DUAL LAYER DVD"
 msgstr "DVD DOUBLE COUCHE"
 
 msgid "DVB subtitle transparency"
-msgstr ""
+msgstr "Transparence sous-titres DVB"
 
 #
 msgid "DVB-S"
@@ -1725,17 +1754,17 @@ msgid "Deep Standby"
 msgstr "Veille profonde"
 
 msgid "Deep Standby with WOL"
-msgstr ""
+msgstr "Veille profonde avec WOL"
 
 msgid "DeepStandby"
-msgstr ""
+msgstr "Veille profonde"
 
 #
 msgid "Default"
 msgstr "Standard"
 
 msgid "Default EPG view (EPG button)"
-msgstr ""
+msgstr "Visualisation EPG par défaut (bouton EPG)"
 
 #
 msgid "Default Settings"
@@ -1799,7 +1828,7 @@ msgstr "Détails pour plugin: "
 
 #
 msgid "Detected HDD:"
-msgstr "DD détecté: "
+msgstr "HDD détecté: "
 
 #
 msgid "Detected NIMs:"
@@ -1809,19 +1838,19 @@ msgid "Device Initialization finished sucessfully!"
 msgstr ""
 
 msgid "Device not found."
-msgstr ""
+msgstr "Périphérique non trouvé."
 
 msgid "DeviceList Refresh Interval"
 msgstr ""
 
 msgid "DeviceManager"
-msgstr ""
+msgstr "Gestion périphériques"
 
 msgid "DeviceManager configuration"
-msgstr ""
+msgstr "Configuration DeviceManager"
 
 msgid "Devices"
-msgstr ""
+msgstr "Périphériques"
 
 #
 msgid "DiSEqC"
@@ -1922,7 +1951,7 @@ msgid "Display and Userinterface"
 msgstr "Affichage et interface utilisateur"
 
 msgid "Do not zap to not available services"
-msgstr ""
+msgstr "Ne pas zapper sur les services non disponibles"
 
 #
 #, python-format
@@ -1988,13 +2017,13 @@ msgid "Do you want to delete recording files of stopped timer ?"
 msgstr ""
 
 msgid "Do you want to delete the bookmark?"
-msgstr ""
+msgstr "Voulez-vous effacer le favori?"
 
 msgid "Do you want to delete the category and the bookmarks?"
-msgstr ""
+msgstr "Voulez-vous effacer la catégorie et les favoris?"
 
 msgid "Do you want to disconnect?"
-msgstr ""
+msgstr "Voules-vous vous déconnecter?"
 
 #
 msgid "Do you want to do a service scan?"
@@ -2005,7 +2034,7 @@ msgid "Do you want to do another manual service scan?"
 msgstr "Voulez-vous faire une autre analyse manuelle des services?"
 
 msgid "Do you want to enable the parental control feature on your STB?"
-msgstr ""
+msgstr "Voulez-vous activer le contrôle parental de votre STB?"
 
 #
 msgid "Do you want to install default sat lists?"
@@ -2039,7 +2068,7 @@ msgid "Do you want to preview this DVD before burning?"
 msgstr "Voulez-vous une prévue du DVD avant de le graver?"
 
 msgid "Do you want to reboot your STB?"
-msgstr ""
+msgstr "Vouez-vous redémarrer votre STB"
 
 msgid "Do you want to remove binary data?"
 msgstr ""
@@ -2059,15 +2088,17 @@ msgid "Do you want to set selected url to the Startpage?"
 msgstr ""
 
 msgid "Do you want to shut down?"
-msgstr ""
+msgstr "VOulez-vous éteindre?"
 
 msgid "Do you want to update your STB?"
-msgstr ""
+msgstr "Voulez-vous mettre à jour votre STB?"
 
 msgid ""
 "Do you want to update your STB?\n"
 "After pressing OK, please wait!"
 msgstr ""
+"Voulez-vous mettre à jour votre STB?\n"
+"Après avoir appuyé sur OK, attendez!"
 
 #
 msgid "Do you want to upgrade the package:\n"
@@ -2127,7 +2158,7 @@ msgid "Downloadable plugins"
 msgstr "Extensions téléchargeables"
 
 msgid "Downloaded "
-msgstr ""
+msgstr "Téléchargés"
 
 #, python-format
 msgid ""
@@ -2144,7 +2175,7 @@ msgid "Downloading plugin information. Please wait..."
 msgstr "Téléchargement des informations sur les extensions. Patientez SVP..."
 
 msgid "Downloading..."
-msgstr ""
+msgstr "Téléchargement..."
 
 msgid "Duo/Solo was not support."
 msgstr ""
@@ -2357,7 +2388,7 @@ msgid "Estonian"
 msgstr "Estonien"
 
 msgid "Ethernet network interface"
-msgstr ""
+msgstr "Interface Ethernet"
 
 msgid "Event Description"
 msgstr ""
@@ -2402,7 +2433,7 @@ msgid "Exit network wizard"
 msgstr "Quitter assistant réseau"
 
 msgid "Exit the Opera browser."
-msgstr ""
+msgstr "Quitter le navigateur Opera."
 
 #
 msgid "Exit the wizard"
@@ -2470,21 +2501,23 @@ msgid "Factory reset"
 msgstr "Réinitialisation usine"
 
 msgid "Factory reset fail"
-msgstr ""
+msgstr "Échec réinitialisation usine"
 
 msgid "Fail to download."
 msgstr ""
 
 msgid "Fail to update!!"
-msgstr ""
+msgstr "Échec de la mise à jour!"
 
 msgid "Fail to upgrade!! Retry!!"
-msgstr ""
+msgstr "Échec de la mise à jour! Recommencez!!"
 
 msgid ""
 "Fail to upgrade.\n"
 "Cause : "
 msgstr ""
+"Échec de la mise à jour.\n"
+"Cause : "
 
 msgid ""
 "Fail to upgrade.\n"
@@ -2550,7 +2583,7 @@ msgid "Favourites"
 msgstr "Favoris"
 
 msgid "File"
-msgstr ""
+msgstr "Fichier"
 
 msgid ""
 "File not Found!\n"
@@ -2558,17 +2591,17 @@ msgid ""
 msgstr ""
 
 msgid "File not found"
-msgstr ""
+msgstr "Fichier non trouvé"
 
 msgid "File transfer was cancelled by user"
-msgstr ""
+msgstr "Le transfert de fichier a été annulé"
 
 #
 msgid "Filesystem Check"
 msgstr "Vérification fichiers sytème"
 
 msgid "Filesystem check finished sucessfully"
-msgstr ""
+msgstr "Vérification fichiers sytème terminée avec succès"
 
 #
 msgid "Filesystem contains uncorrectable errors"
@@ -2598,10 +2631,10 @@ msgid "Firmware"
 msgstr ""
 
 msgid "Firmware Upgrade"
-msgstr ""
+msgstr "Mise à jour firmware"
 
 msgid "Firmware does not exist."
-msgstr ""
+msgstr "Le firmware n'existe pas"
 
 msgid "Follow the instructions on the front-display."
 msgstr ""
@@ -2724,7 +2757,7 @@ msgstr ""
 "Voulez-vous relancer l'interface maintenant?"
 
 msgid "GUI restart now, press 'OK' button."
-msgstr ""
+msgstr "Redémarrage de l'interface graphique, appuyer sur 'OK'."
 
 #
 msgid "Gateway"
@@ -2753,10 +2786,10 @@ msgid "Global"
 msgstr ""
 
 msgid "Go to next page."
-msgstr ""
+msgstr "Page suivante"
 
 msgid "Go to previous page."
-msgstr ""
+msgstr "Page précédente"
 
 #
 msgid "Goto 0"
@@ -2807,7 +2840,7 @@ msgid "Harddisk standby after"
 msgstr "Disque dur en veille après"
 
 msgid "Harddisk standby after : "
-msgstr ""
+msgstr "Disque dur en veille après : "
 
 msgid "HbbTV Applications"
 msgstr ""
@@ -3262,10 +3295,10 @@ msgid "Left"
 msgstr "Gauche"
 
 msgid "Left Key"
-msgstr ""
+msgstr "Touche gauche"
 
 msgid "Left Mouse Button"
-msgstr ""
+msgstr "Bouton gauche de la souris"
 
 #
 #. TRANSLATORS: (aspect ratio policy: black bars on top/bottom) in doubt, keep english term.
@@ -3305,7 +3338,7 @@ msgid "Linked titles with a DVD menu"
 msgstr "Titres liés avec un menu DVD"
 
 msgid "List available networks"
-msgstr ""
+msgstr "Liste des réseaux disponibles"
 
 #
 msgid "List of Storage Devices"
@@ -3425,7 +3458,7 @@ msgid "Manual Scan"
 msgstr "Analyse manuelle"
 
 msgid "Manual configuration"
-msgstr ""
+msgstr "Configuration manuelle"
 
 #
 msgid "Manual transponder"
@@ -3444,7 +3477,7 @@ msgid "Margin before record (minutes)"
 msgstr "Marge avant l'enregistrement (minutes)"
 
 msgid "Mark movie as seen after X %"
-msgstr ""
+msgstr "Marquer film comme vu après X %"
 
 msgid "Mark recording services in service list"
 msgstr ""
@@ -3545,7 +3578,7 @@ msgid ""
 msgstr ""
 
 msgid "Mount Point"
-msgstr ""
+msgstr "Point de montage"
 
 #, python-format
 msgid "Mount Point : %s -> %s"
@@ -3576,10 +3609,10 @@ msgid "Mounted on : %s"
 msgstr ""
 
 msgid "Mouse"
-msgstr ""
+msgstr "Souris"
 
 msgid "Move"
-msgstr ""
+msgstr "Déplacer"
 
 #
 msgid "Move Picture in Picture"
@@ -3602,11 +3635,11 @@ msgid "Movielist menu"
 msgstr "Menu liste film"
 
 msgid "Movies / Timers"
-msgstr ""
+msgstr "Films / timers"
 
 #
 msgid "Movies"
-msgstr ""
+msgstr "Films"
 
 #
 msgid "Timer"
@@ -3635,7 +3668,7 @@ msgid "Multisat"
 msgstr "Multisat"
 
 msgid "Music Directory"
-msgstr ""
+msgstr "Dossier de musique"
 
 #
 msgid "Mute"
@@ -3670,7 +3703,7 @@ msgid "Name"
 msgstr "Nom"
 
 msgid "Name :"
-msgstr ""
+msgstr "Nom :"
 
 #
 msgid "Nameserver"
@@ -3752,7 +3785,7 @@ msgid "NetworkWizard"
 msgstr "Assistant réseau"
 
 msgid "Networkname (SSID)"
-msgstr ""
+msgstr "Nom réseau (SSID)"
 
 #
 msgid "New"
@@ -3815,7 +3848,7 @@ msgid "No free tuner!"
 msgstr "Pas de tuner libre"
 
 msgid "No information..."
-msgstr ""
+msgstr "pas d'information..."
 
 #, python-format
 msgid ""
@@ -3902,7 +3935,7 @@ msgstr ""
 "Si vous répondez 'NON', la protection des Réglages restera désactivé!"
 
 msgid "No wireless networks found! Searching..."
-msgstr ""
+msgstr "Aucun réseau Wifi trouvé! Recherche..."
 
 msgid ""
 "No working local network adapter found.\n"
@@ -3945,7 +3978,7 @@ msgid "No, do nothing."
 msgstr "Non, ne rien faire."
 
 msgid "No, just start my STB"
-msgstr ""
+msgstr "Non, juste démarrer mon STB"
 
 msgid "No, never"
 msgstr "Non, jamais"
@@ -4052,10 +4085,10 @@ msgid "Only extensions."
 msgstr "Extensions seules"
 
 msgid "Open Startpage"
-msgstr ""
+msgstr "Ouvrir page de démarrage"
 
 msgid "Open URL"
-msgstr ""
+msgstr "Ouvrir URL"
 
 msgid "Opera Browser"
 msgstr ""
@@ -4066,7 +4099,7 @@ msgid ""
 msgstr ""
 
 msgid "Opera Web Browser"
-msgstr ""
+msgstr "navigateur Web Opera"
 
 msgid "Opera Web Browser Plugin v1.0"
 msgstr ""
@@ -4169,14 +4202,14 @@ msgid "Password"
 msgstr "Mot de passe"
 
 msgid "Password :"
-msgstr ""
+msgstr "Mot de passe :"
 
 #
 msgid "Pause movie at end"
 msgstr "Pause film à la fin"
 
 msgid "Phone :"
-msgstr ""
+msgstr "Téléphone :"
 
 #
 msgid "Phone number"
@@ -4187,7 +4220,7 @@ msgid "PiPSetup"
 msgstr "Paramètres PiP"
 
 msgid "Picture Directory"
-msgstr ""
+msgstr "Dossier d'images"
 
 #
 msgid "PicturePlayer"
@@ -4319,7 +4352,7 @@ msgid "Please choose the default services lists you want to install."
 msgstr "Veuillez choisir la liste services standard à installer."
 
 msgid "Please choose."
-msgstr ""
+msgstr ""Veuillez choisir.
 
 #
 msgid ""
@@ -4336,7 +4369,7 @@ msgid "Please do not change any values unless you know what you are doing!"
 msgstr "Veuillez ne changer aucune valeur avant de savoir ce que vous faites!"
 
 msgid "Please enter URL here"
-msgstr ""
+msgstr "Veuillez entrer l'URL ici"
 
 #
 msgid "Please enter a name for the new bouquet"
@@ -4410,11 +4443,11 @@ msgid "Please select tag to filter..."
 msgstr "Veuillez choisir pointeur pour filtrer..."
 
 msgid "Please select the destination path..."
-msgstr ""
+msgstr "Veuilles choisir le chemin de destination..."
 
 #
 msgid "Please select the source path..."
-msgstr ""
+msgstr "Veuillez choisir le chemin source..."
 
 #
 msgid "Please select the movie path..."
@@ -4456,30 +4489,30 @@ msgstr "Veuillez paramétrer le tuner D"
 
 #
 msgid "Please set up tuner E"
-msgstr ""
+msgstr "Veuillez paramétrer le tuner E"
 
 #
 msgid "Please set up tuner F"
-msgstr ""
+msgstr "Veuillez paramétrer le tuner F"
 
 #
 msgid "Please set up tuner G"
-msgstr ""
+msgstr "Veuillez paramétrer le tuner G"
 
 #
 msgid "Please set up tuner H"
-msgstr ""
+msgstr "Veuillez paramétrer le tuner H"
 
 #
 msgid "Please set up tuner I"
-msgstr ""
+msgstr "Veuillez paramétrer le tuner I"
 
 #
 msgid "Please set up tuner J"
-msgstr ""
+msgstr "Veuillez paramétrer le tuner J"
 
 msgid "Please setup your tuner configuration."
-msgstr ""
+msgstr "Veuillez paramétrer cotre configuration tuner"
 
 #
 msgid ""
@@ -4500,7 +4533,7 @@ msgstr ""
 "Ensuite presser le bouton OK."
 
 msgid "Please wait during download."
-msgstr ""
+msgstr "Attendez pendant le téléchargement."
 
 msgid "Please wait for AP Configuration....\n"
 msgstr ""
@@ -4510,7 +4543,7 @@ msgid "Please wait for activation of your network configuration..."
 msgstr "Veuillez attendre l'activation de votre configuration réseau..."
 
 msgid "Please wait for scanning AP..."
-msgstr ""
+msgstr "Attendez pendant la recherche d'AP..."
 
 #
 msgid "Please wait while scanning is in progress..."
@@ -4544,10 +4577,10 @@ msgid "Please wait... Loading list..."
 msgstr "Veuillez patienter... Chargement de la liste..."
 
 msgid "Please wait.... almost ready!"
-msgstr ""
+msgstr "Attndez... presque prêt!"
 
 msgid "Plugin Browser"
-msgstr ""
+msgstr "Navigateur d'extensions"
 
 #
 msgid "Plugin browser"
@@ -4636,7 +4669,7 @@ msgid "Prefer specific tuner"
 msgstr ""
 
 msgid "Preference"
-msgstr ""
+msgstr "Préférence"
 
 #
 msgid "Preparing... Please wait"
@@ -4780,10 +4813,10 @@ msgid "RC Menu"
 msgstr "Menu télécommande"
 
 msgid "REC button long press"
-msgstr ""
+msgstr "Appui long sur bouton REC"
 
 msgid "REC button press"
-msgstr ""
+msgstr "Appui sur bouton REC"
 
 #
 msgid "RF output"
@@ -4894,13 +4927,13 @@ msgid "Recordings always have priority"
 msgstr "Enregistrements toujours prioritaires"
 
 msgid "Red button..."
-msgstr ""
+msgstr "Bouton rouge..."
 
 msgid "Reenter new PIN"
 msgstr "Re-saisir nouveau PIN"
 
 msgid "Refresh rate selection"
-msgstr ""
+msgstr "Seléction du taux de rafraichissement"
 
 #
 msgid "Reload"
@@ -4911,7 +4944,7 @@ msgid "Reload Black-/Whitelists"
 msgstr "Recharger Black-/Whitelists"
 
 msgid "Reload Device"
-msgstr ""
+msgstr "Recharger périphérique"
 
 msgid "Remember service PIN"
 msgstr "Enregistrer PIN service"
@@ -4949,7 +4982,7 @@ msgid "Remove currently selected title"
 msgstr "Retirer le titre actuellement sélectionné"
 
 msgid "Remove finished timers from timer list"
-msgstr ""
+msgstr "Retirer les timers terminés de la liste des timers"
 
 #
 msgid "Remove finished."
@@ -5095,7 +5128,7 @@ msgid "Resuming playback"
 msgstr "Reprise de la lecture"
 
 msgid "Return"
-msgstr ""
+msgstr "Retour"
 
 msgid "Return the Love Event"
 msgstr ""
@@ -5121,10 +5154,10 @@ msgid "Right"
 msgstr "Droite"
 
 msgid "Right Key"
-msgstr ""
+msgstr "Touche droite"
 
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "Bouton droit de la souris"
 
 msgid "Roll-off"
 msgstr ""
@@ -5371,7 +5404,7 @@ msgstr ""
 "utilisant le périphérique sélectionné.\n"
 
 msgid "Scanning AP List.."
-msgstr ""
+msgstr "Sacn de la liste d'AP..."
 
 #
 msgid ""
@@ -5414,11 +5447,11 @@ msgstr "Sélectionner"
 #
 #, python-format
 msgid "Select %s button function:"
-msgstr ""
+msgstr "Choisir l'action du bouton %s :"
 
 #
 msgid "Select %s (long) button function:"
-msgstr ""
+msgstr "Choisir l'action (long) du bouton %s :"
 
 #
 msgid "Select HDD"
@@ -5484,7 +5517,7 @@ msgid "Select video mode"
 msgstr "Choisir le mode vidéo"
 
 msgid "Select video port"
-msgstr ""
+msgstr "Choisir le port video"
 
 #
 msgid "Select wireless network"
@@ -5511,10 +5544,10 @@ msgid "Serbian"
 msgstr "Serbe"
 
 msgid "Server"
-msgstr ""
+msgstr "Serveur"
 
 msgid "Server Name"
-msgstr ""
+msgstr "Nom du serveur"
 
 #
 msgid "Service"
@@ -5524,7 +5557,7 @@ msgid "Service EPGBar"
 msgstr ""
 
 msgid "Service List"
-msgstr ""
+msgstr "Liste des services"
 
 #
 msgid "Service Scan"
@@ -5586,7 +5619,7 @@ msgid "Set End Time"
 msgstr "Régler heure de fin"
 
 msgid "Set VU device name:"
-msgstr ""
+msgstr "Paramétrer le nom du VU:"
 
 #
 msgid "Set Voltage and 22KHz"
@@ -5607,7 +5640,7 @@ msgid "Set up Default Mount Point"
 msgstr ""
 
 msgid "Setting"
-msgstr ""
+msgstr "Paramètre"
 
 #
 msgid "Settings"
@@ -5617,30 +5650,30 @@ msgid "Setup"
 msgstr "Paramétrer"
 
 msgid "Setup - Movies / Timers"
-msgstr ""
+msgstr "Paramétrer - Films / Timers"
 
 #
 msgid "Setup - Movies"
-msgstr ""
+msgstr "Paramétrer - Films"
 
 #
 msgid "Setup - Timer"
-msgstr ""
+msgstr "Paramétrer - Timer"
 
 msgid "Setup - Service List"
-msgstr ""
+msgstr "Paramétrer - Liste des services"
 
 msgid "Setup - Subtitles"
-msgstr ""
+msgstr "Paramétrer - Sous-titres"
 
 msgid "Setup - System"
-msgstr ""
+msgstr "Paramétrer - Système"
 
 msgid "Setup - TV / Radio"
-msgstr ""
+msgstr "Paramétrer - TV / Radio"
 
 msgid "Setup - User Interface"
-msgstr ""
+msgstr "Paramétrer - Interface utilisateur"
 
 msgid "Setup LED brightness and blink interval"
 msgstr ""
@@ -5650,13 +5683,13 @@ msgid "Setup Mode"
 msgstr "Mode configuration"
 
 msgid "Setup mode"
-msgstr ""
+msgstr "Mode configuration"
 
 msgid "Setup picon directory for service list"
-msgstr ""
+msgstr "Paramétrer le répertoire des picons pour les services"
 
 msgid "Setup primary picon directory"
-msgstr ""
+msgstr "Paramétrer le répertoire principal des picons"
 
 #
 msgid "Sharpness"
@@ -5681,7 +5714,7 @@ msgid "Show Device"
 msgstr ""
 
 msgid "Show ECM info"
-msgstr ""
+msgstr "Montrer info ECM"
 
 msgid "Show EPG data in single EPG list older than"
 msgstr ""
@@ -5709,7 +5742,7 @@ msgid "Show blinking rec symbol in VFD during recording"
 msgstr ""
 
 msgid "Show directories in movie list"
-msgstr ""
+msgstr "Montrer répertoires dans la liste des films"
 
 msgid "Show event progress in % in service list"
 msgstr ""
@@ -5745,13 +5778,13 @@ msgid "Show menu entries arranged in alphabetical order"
 msgstr ""
 
 msgid "Show on the Standby Menu"
-msgstr ""
+msgstr "Montrer le menu Veille"
 
 msgid "Show picon at number zap"
-msgstr ""
+msgstr "Montrer picon lors du zapping"
 
 msgid "Show picons in service list"
-msgstr ""
+msgstr "Montrer picon dans la liste des services"
 
 msgid "Show plugin entries arranged in alphabetical order"
 msgstr ""
@@ -5810,7 +5843,7 @@ msgid "Shutdown"
 msgstr "Eteindre"
 
 msgid "Shutdown STB after"
-msgstr ""
+msgstr "Éteindre le STB après"
 
 msgid "Side by Side"
 msgstr ""
@@ -5987,7 +6020,7 @@ msgstr ""
 "Veuillez en choisir un autre."
 
 msgid "Sort"
-msgstr ""
+msgstr "Tri"
 
 #
 #. TRANSLATORS: This must fit into the header button in the EPG-List
@@ -6046,7 +6079,7 @@ msgid "Start test"
 msgstr "Lancer le test"
 
 msgid "Start/Stop"
-msgstr ""
+msgstr "Départ/Stop"
 
 #
 msgid "StartTime"
@@ -6138,7 +6171,7 @@ msgstr ""
 
 #
 msgid "Subservice list..."
-msgstr "liste des sous-services..."
+msgstr "Liste des sous-services..."
 
 #
 msgid "Subservices"
@@ -6156,7 +6189,7 @@ msgid "Succeed"
 msgstr ""
 
 msgid "Success. Press OK to exit."
-msgstr ""
+msgstr "Succès. Appuyer sur OK pour quitter."
 
 #
 msgid "Sun"
@@ -6274,7 +6307,7 @@ msgid "Test mode"
 msgstr "Mode test"
 
 msgid "Test the network configuration of your STB.\n"
-msgstr ""
+msgstr "Tester les paramètres réseaux de votre STB.\n"
 
 msgid "Testing Smartcard 2..."
 msgstr ""
@@ -6340,7 +6373,7 @@ msgid "The backup failed. Please choose a different backup location."
 msgstr "La sauvegarde a échoué. Veuillez choisir un autre emplacement."
 
 msgid "The content of the folder is:"
-msgstr ""
+msgstr "Le contenu de ce répertoire est:"
 
 #
 #, python-format
@@ -6524,7 +6557,7 @@ msgstr "Ce plugin est installée."
 
 #
 msgid "This plugin is not installed."
-msgstr "Ce plugin n'est pas installée."
+msgstr "Ce plugin n'est pas installé."
 
 #
 msgid "This plugin will be installed."
@@ -6532,7 +6565,7 @@ msgstr "Ce plugin sera installée."
 
 #
 msgid "This plugin will be removed."
-msgstr "Ce plugin sera retirée."
+msgstr "Ce plugin sera retiré."
 
 msgid ""
 "This test checks for configured Nameservers.\n"
@@ -6612,7 +6645,7 @@ msgid "This test detects your configured LAN-Adapter."
 msgstr "Ce test détecte votre adaptateur LAN configuré."
 
 msgid "This test detects your configured Wireless LAN-Adapter."
-msgstr ""
+msgstr "Ce test détecte votre adaptateur WLAN configuré."
 
 #
 msgid "Three"
@@ -6750,13 +6783,13 @@ msgid "Toneburst A/B"
 msgstr "Toneburst A/B"
 
 msgid "Tools"
-msgstr ""
+msgstr "Outils"
 
 msgid "Top"
-msgstr ""
+msgstr "Haut"
 
 msgid "Top and Bottom"
-msgstr ""
+msgstr "Haut et bas"
 
 msgid "Touch LED Blinking time"
 msgstr ""
@@ -6775,17 +6808,17 @@ msgid "Track"
 msgstr "Piste"
 
 msgid "Transcoding"
-msgstr ""
+msgstr "Tanscodage"
 
 msgid "Transcoding Setup"
-msgstr ""
+msgstr "Paramètrage transcodage"
 
 msgid ""
 "Transcoding can be started when there is no corresponding channel recordings."
 msgstr ""
 
 msgid "TranscodingSetup"
-msgstr ""
+msgstr "Paramètrage transcodage"
 
 #
 msgid "Translation"
@@ -6867,7 +6900,7 @@ msgstr "Type Tuner"
 
 #
 msgid "Turkish"
-msgstr "Turke"
+msgstr "Turc"
 
 #
 msgid "Two"
@@ -6982,10 +7015,10 @@ msgid "Universal LNB"
 msgstr "LNB universel"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Inconnu"
 
 msgid "Unknown network adapter"
-msgstr ""
+msgstr "Adapatateur réseau inconnu"
 
 #
 msgid "Unmount failed"
@@ -6996,10 +7029,10 @@ msgid "Unsupported"
 msgstr "Non supporté"
 
 msgid "Up"
-msgstr ""
+msgstr "haut"
 
 msgid "Up Key"
-msgstr ""
+msgstr "Touche haut"
 
 #
 msgid "Update"
@@ -7023,13 +7056,13 @@ msgstr ""
 "Mise à jour... Veuillez patienter... Ceci peut prendre quelques minutes..."
 
 msgid "Upgrade"
-msgstr ""
+msgstr "Mise à jour"
 
 msgid "Upgrade FPGA.."
-msgstr ""
+msgstr "ise à jour FPGA..."
 
 msgid "Upgrade Firmware.."
-msgstr ""
+msgstr "Mise à jour du firmware"
 
 #
 msgid "Upgrade finished."
@@ -7045,7 +7078,7 @@ msgid "Upgrading"
 msgstr "Mise à jour"
 
 msgid "Upgrading STB... Please wait"
-msgstr ""
+msgstr "Mise à jour... Veuillez attendre"
 
 msgid "Url"
 msgstr ""
@@ -7068,7 +7101,7 @@ msgid "Use EIT EPG"
 msgstr ""
 
 msgid "Use EXIT-Button to leave movie player"
-msgstr ""
+msgstr "Utiliser le bouton EXIT pour quitter la liste des films"
 
 msgid "Use Fan timer"
 msgstr ""
@@ -7104,7 +7137,7 @@ msgid "Use custom main menu"
 msgstr ""
 
 msgid "Use matrix mode for service list"
-msgstr ""
+msgstr "Utiliser le mode 'matrix' pour la liste des services"
 
 msgid "Use package maintainer config files"
 msgstr ""
@@ -7291,7 +7324,7 @@ msgstr "Afficher Rass interactif..."
 
 #
 msgid "View Video CD..."
-msgstr "Voir viudéo CD..."
+msgstr "Voir vidéo CD..."
 
 #
 msgid "View details"
@@ -7411,10 +7444,10 @@ msgid "Waiting"
 msgstr "Attendez"
 
 msgid "WakeOnLan Enable"
-msgstr ""
+msgstr "Activer WOL"
 
 msgid "WakeOnLan Setup"
-msgstr ""
+msgstr "Paramétrer WOL"
 
 msgid "Web Browser"
 msgstr ""
@@ -7510,7 +7543,7 @@ msgid "Wireless LAN"
 msgstr "LAN sans fil"
 
 msgid "Wireless LAN Setup"
-msgstr ""
+msgstr "Paramétrage Wifi"
 
 msgid "Wireless Lan Device is not detected."
 msgstr ""
@@ -7724,7 +7757,7 @@ msgid ""
 msgstr ""
 
 msgid "Your STB will restart after pressing OK on your remote control."
-msgstr ""
+msgstr "Votre STB redémarrera après avoir appuyé sur la touche OK."
 
 #
 msgid ""
@@ -7759,7 +7792,7 @@ msgid "Your network configuration has been activated."
 msgstr "Votre configuration réseau a été activée."
 
 msgid "Your network is not working. Please try again."
-msgstr ""
+msgstr "Votre réseau en fonctionne pas. Recommenez."
 
 #
 msgid ""
@@ -7941,10 +7974,10 @@ msgid "assigned Services/Provider:"
 msgstr "Services/Opérateurs assignés:"
 
 msgid "at beginning"
-msgstr ""
+msgstr "au début"
 
 msgid "at end"
-msgstr ""
+msgstr "à la fin"
 
 #
 #, python-format
@@ -7968,7 +8001,7 @@ msgid "auto (off)"
 msgstr ""
 
 msgid "available "
-msgstr ""
+msgstr "disponible"
 
 #
 msgid "back"
@@ -7997,7 +8030,7 @@ msgid "black"
 msgstr "noir"
 
 msgid "black screen"
-msgstr ""
+msgstr "écran noir"
 
 #
 msgid "blacklist"
@@ -8008,7 +8041,7 @@ msgid "blue"
 msgstr "bleu"
 
 msgid "bookmark"
-msgstr ""
+msgstr "favori"
 
 #
 #, python-format
@@ -8071,11 +8104,11 @@ msgid "continue/pause"
 msgstr ""
 
 msgid "copy"
-msgstr ""
+msgstr "copie"
 
 #, python-format
 msgid "copy : %s"
-msgstr ""
+msgstr "copie : %s"
 
 #
 msgid "copy to bouquets"
@@ -8217,7 +8250,7 @@ msgid "equal to"
 msgstr "égale au"
 
 msgid "error"
-msgstr ""
+msgstr "erreur"
 
 msgid "exit"
 msgstr ""
@@ -8305,14 +8338,14 @@ msgid "green"
 msgstr "vert"
 
 msgid "grey"
-msgstr ""
+msgstr "gris"
 
 #
 msgid "hear radio..."
 msgstr "écouter radio..."
 
 msgid "height"
-msgstr ""
+msgstr "hauteur"
 
 #
 msgid "help..."
@@ -8471,11 +8504,11 @@ msgid "month"
 msgstr "Mois"
 
 msgid "move"
-msgstr ""
+msgstr "déplacer"
 
 #, python-format
 msgid "move : %s"
-msgstr ""
+msgstr "déplacer : %s"
 
 #
 msgid "move PiP to main picture"
@@ -8559,7 +8592,7 @@ msgid "normal"
 msgstr ""
 
 msgid "not available"
-msgstr ""
+msgstr "pas disponible"
 
 #
 msgid "not configured"
@@ -8573,7 +8606,7 @@ msgid "not locked"
 msgstr "pas verrouillé"
 
 msgid "not mounted"
-msgstr ""
+msgstr "pas monté"
 
 msgid "not set"
 msgstr ""
@@ -8616,7 +8649,7 @@ msgid "only calculate"
 msgstr ""
 
 msgid "open VTi Panel"
-msgstr ""
+msgstr "ouvrir panneau VTi"
 
 #
 msgid "open servicelist"
@@ -8642,7 +8675,7 @@ msgid "pause"
 msgstr "pause"
 
 msgid "percent"
-msgstr ""
+msgstr "pourcent"
 
 #
 msgid "play entry"
@@ -8692,7 +8725,7 @@ msgid "red"
 msgstr "rouge"
 
 msgid "remove"
-msgstr ""
+msgstr "supprimer"
 
 #
 msgid "remove a nameserver entry"
@@ -8863,14 +8896,14 @@ msgid "show EPG..."
 msgstr "montrer EPG..."
 
 msgid "show Favourites"
-msgstr ""
+msgstr "montrer favoris"
 
 #
 msgid "show Infoline"
 msgstr "montrer informations"
 
 msgid "show VTi system informations"
-msgstr ""
+msgstr "montrer infos système VTi"
 
 #
 msgid "show all"
@@ -8961,10 +8994,10 @@ msgid "slide picture in loop"
 msgstr "afficher images en boucle"
 
 msgid "slow"
-msgstr ""
+msgstr "lent"
 
 msgid "sort"
-msgstr ""
+msgstr "tri"
 
 #
 msgid "sort by date"
@@ -9145,7 +9178,7 @@ msgid "weekly"
 msgstr "hebdomadaire"
 
 msgid "white"
-msgstr ""
+msgstr "blanc"
 
 #
 msgid "whitelist"
@@ -9194,7 +9227,7 @@ msgstr ""
 
 #
 msgid "zap and record"
-msgstr ""
+msgstr "zap et enregistrement"
 
 #
 msgid "reminder"
@@ -9229,7 +9262,7 @@ msgstr ""
 
 #
 msgid "create folder"
-msgstr ""
+msgstr "créer dossier"
 
 #
 msgid "January"
