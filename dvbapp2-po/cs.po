@@ -8679,246 +8679,254 @@ msgid "h"
 msgstr "h"
 
 msgid "Zap+Exit"
-msgstr ""
+msgstr "Zap + Konec"
 
 msgid ""
 "Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
 "Please install it to use this function"
 msgstr ""
+"Modul '%s' není nainstalovaný v sat.přijímači VU+.\n"
+"Pro tuto funkci jej nainstalujte."
 
 msgid "Toggle timer state"
-msgstr ""
+msgstr "Přepnout status časovače"
 
 msgid "EPG search"
-msgstr ""
+msgstr "Vyhledat EPG"
 
 msgid "Toggle clock / bars view for timer"
-msgstr ""
+msgstr "Přepnout symbol hodin a pásek pro časovač"
 
 msgid "Disable Animations"
-msgstr ""
+msgstr "Vypnout animace"
 
 msgid "Simple fade"
-msgstr ""
+msgstr "Jednoduché pohasínání"
 
 msgid "Grow drop"
-msgstr ""
+msgstr "Nárůst shora"
 
 msgid "Grow from left"
-msgstr ""
+msgstr "Nárůst zleva"
 
 msgid "Popup"
-msgstr ""
+msgstr "Vyskakovací"
 
 msgid "Slide drop"
-msgstr ""
+msgstr "Skluz dolů"
 
 msgid "Slide left to right"
-msgstr ""
+msgstr "Skluz zleva doprava"
 
 msgid "Slide top to bottom"
-msgstr ""
+msgstr "Skluz shora dolů"
 
 msgid "Stripes"
-msgstr ""
+msgstr "Pásky"
 
 msgid "* current animation"
-msgstr ""
+msgstr "* aktuálně nastavená animace"
 
 msgid "Preview"
 msgstr "Náhled"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animace"
 
 msgid "Animation type:"
-msgstr ""
+msgstr "Typ animace:"
 
 msgid "Animation speed:"
-msgstr ""
+msgstr "Rychlost animací:"
 
 msgid "Setup UI animations"
-msgstr ""
+msgstr "Nastavit UI animace"
 
 msgid "start xbmc mediacenter"
-msgstr ""
+msgstr "Spustit XBMC"
 
 msgid "XBMC Launcher"
-msgstr ""
+msgstr "Spuštěno XBMC"
 
 msgid "Do you really want to disable timer:"
-msgstr ""
+msgstr "Chcete vypnout časovač ?"
 
 msgid "Do you really want to enable timer:"
-msgstr ""
+msgstr "Chcete aktivovat časovač ?"
 
 msgid "Would you save the entered PIN %s persistent?"
-msgstr ""
+msgstr "Chcete uložit vložený PIN %s natrvalo ?"
 
 msgid "Set pin code persistent"
-msgstr ""
+msgstr "Nastavit PIN natrvalo"
 
 msgid "Enter persistent PIN code"
-msgstr ""
+msgstr "Zadat PIN natrvalo"
 
 msgid "Reset persistent PIN code"
-msgstr ""
+msgstr "Reset zadaného PINu"
 
 msgid "The saved PIN was cleared."
-msgstr ""
+msgstr "Uložený PIN byl odstraněný"
 
 msgid "Enter PIN"
-msgstr ""
+msgstr "Zadejte PIN"
 
 msgid "Reenter PIN"
-msgstr ""
+msgstr "Zopakovat vložení pinu"
 
 msgid "The PIN code has been saved successfully."
-msgstr ""
+msgstr "PIN byl v pořádku uložený"
 
 msgid "Enable ZAP history menu"
-msgstr ""
+msgstr "Zobrazit menu historie kanálů (tl. Exit)"
 
 msgid "Zap History"
-msgstr ""
+msgstr "Aktivovat historii"
 
 msgid "Use folder based configuration (list / sort type)"
-msgstr ""
+msgstr "Použít složku se základní konfigurací -seznam, řazení"
 
 msgid "Protect movies and directories"
-msgstr ""
+msgstr "Zapnout ochranu videa / složky"
 
 msgid "Change movie / directory PIN"
-msgstr ""
+msgstr "Změnit video / změnit PIN složky"
 
 msgid "Remember movie / directory PIN"
-msgstr ""
+msgstr "Uložit PIN videa / složky"
 
 msgid "movie / directory PIN"
-msgstr ""
+msgstr "Změnit video / změnit PIN složky"
 
 msgid ""
 "No valid movie / directory PIN found!\n"
 "Do you like to change the movie / directory PIN now?\n"
 "When you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
+"Nebylo nalezeno žádné platné video / PIN složky !\n"
+"Chcete video / PIN složky změmit ?\n"
+"Pokud zadáte 'NE', bude video / složka deaktivována."
 
 msgid "Reset movie / directory PIN cache"
-msgstr ""
+msgstr "Reset cache PINu videa / složky"
 
 msgid "Protect deleting of movies"
-msgstr ""
+msgstr "Odebrat ochranu videa"
 
 msgid "Change movie-delete PIN"
-msgstr ""
+msgstr "Změnit video - odebrat PIN"
 
 msgid "Remember movie-delete PIN"
-msgstr ""
+msgstr "Uložit PIN odebíraného videa"
 
 msgid "movie-delete PIN"
-msgstr ""
+msgstr "Změnit video - odebrat PIN"
 
 msgid ""
 "No valid movie-delete PIN found!\n"
 "Do you like to change the movie-delete PIN now?\n"
 "When you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
+"Nebylo nalezeno žádné video pro odebrání !\n"
+"Chcete PIN odebíraného videa změmit ?\n"
+"Pokud zadáte 'NE', bude video / složka deaktivována."
 
 msgid "Reset movie-delete PIN cache"
-msgstr ""
+msgstr "Reset cache PINu odebíraného videa"
 
 msgid "toggle parental control"
-msgstr ""
+msgstr "Přepnout rodičovskou kontrolu"
 
 msgid "search EPG"
-msgstr ""
+msgstr "Hledat EPG"
 
 msgid "Hide service name in service list (compact style)"
-msgstr ""
+msgstr "Skrýt název kanálu v seznamu (kompaktní seznam)"
 
 msgid "Use double-spaced list style"
-msgstr ""
+msgstr "Použít dvojitý seznam"
 
 msgid "Add Autotimer"
-msgstr ""
+msgstr "přidat AutoTimer..."
 
 msgid "TMDb Infos"
-msgstr ""
+msgstr "TMDb-info"
 
 msgid "Could not connect to server"
-msgstr ""
+msgstr "Nelze připojit server"
 
 msgid "No matching place names found"
-msgstr ""
+msgstr "Nenalezený odpovídající název"
 
 msgid "Animation start delay:"
-msgstr ""
+msgstr "Odložený start animací:"
 
 msgid "Do you want to setup animations?"
-msgstr ""
+msgstr "Chcete nakonfigurovat animace ?"
 
 msgid "show"
-msgstr ""
+msgstr "Zobrazit"
 
 msgid "hide"
-msgstr ""
+msgstr "Skrýt"
 
 msgid "Sort order for plugins"
-msgstr ""
+msgstr "Seřadit moduly"
 
 msgid "Edit mode off"
-msgstr ""
+msgstr "Vypnout editaci"
 
 msgid "Edit mode on"
-msgstr ""
+msgstr "Zapnout editaci"
 
 msgid "alphabetical"
-msgstr ""
+msgstr "Podle abecedy"
 
 msgid "Sort order for menu entries"
-msgstr ""
+msgstr "Seřadit položky menu"
 
 msgid "Move mode on"
-msgstr ""
+msgstr "Zapnout přesun"
 
 msgid "Move mode off"
-msgstr ""
+msgstr "Vypnout přesun"
 
 msgid "copy to: "
-msgstr ""
+msgstr "Kopie do: "
 
 msgid "Animation Setup"
-msgstr ""
+msgstr "Konfigurace animací"
 
 msgid "SAT>IP Client Tuner Setup"
-msgstr ""
+msgstr "SAT>IP - nastavení tuneru klienta"
 
 msgid "Discover"
-msgstr ""
+msgstr "Zjistit"
 
 msgid "Starting..."
-msgstr ""
+msgstr "Start..."
 
 msgid "SAT>IP server discovering for %d seconds..."
-msgstr ""
+msgstr "SAT>IP server se znovu vyhledá za %d sekund..."
 
 msgid "SAT>IP server is not detected."
-msgstr ""
+msgstr "SAT>IP server nebyl nalezený"
 
 msgid "SAT>IP Server : "
-msgstr ""
+msgstr "SAT>IP server : "
 
 msgid "SAT>IP Tuner Type : "
-msgstr ""
+msgstr "SAT>IP typ tuneru : "
 
 msgid "Server capacity is fulled."
-msgstr ""
+msgstr "Kapacita serveru je dodatečná"
 
 msgid "SAT>IP Client Setup"
-msgstr ""
+msgstr "SAT>IP - nastavení klienta"
 
 msgid "Select tuner and press setup key (Yellow)"
-msgstr ""
+msgstr "Vyberte tuner a stiskněte žluté tlačítko"
 
 msgid ""
 "You should now reboot your STB to change SAT>IP Configuration.\n"
@@ -8926,45 +8934,48 @@ msgid ""
 "Reboot now ?\n"
 "\n"
 msgstr ""
+"Po změně konfigurace SAT>IP je třeba sat.přijímač restartovat.\n"
+"Restartovat nyní ?\n"
+"\n"
 
 msgid "SAT>IP Client"
-msgstr ""
+msgstr "SAT>IP - klient"
 
 msgid "SAT>IP Client attached to vtuner."
-msgstr ""
+msgstr "SAT>IP - klient připojený na vtuner"
 
 msgid "VIRTUAL TUNER %s"
-msgstr ""
+msgstr "Virtuální tuner %s"
 
 msgid "TYPE : %s"
-msgstr ""
+msgstr "Typ tuneru : %s"
 
 msgid "IP : %s"
-msgstr ""
+msgstr "IP : %s"
 
 msgid "TUNER TYPE : %s"
-msgstr ""
+msgstr "Typ tuneru : %s"
 
 msgid "SAT>IP SERVER : %s"
-msgstr ""
+msgstr "SAT>IP server : %s"
 
 msgid "Choices"
-msgstr ""
+msgstr "Volby"
 
 msgid "Animate Infobar show/hide"
-msgstr ""
+msgstr "Animace InfoBaru zap/vyp."
 
 msgid "Infobar show/hide animation speed"
-msgstr ""
+msgstr "Rychlost animace zobrazit/skrýt pro Info-panel"
 
 msgid "fade in"
-msgstr ""
+msgstr "zesvětlit"
 
 msgid "fade out"
-msgstr ""
+msgstr "ztmavit"
 
 msgid "fade in/out"
-msgstr ""
+msgstr "zesvětlit/ztmavit"
 
 msgid ""
 "\n"
@@ -9062,9 +9073,6 @@ msgstr ""
 
 msgid "Add bouquet services"
 msgstr ""
-
-#~ msgid "E"
-#~ msgstr "Východní"
 
 #~ msgid "W"
 #~ msgstr "Západní"
