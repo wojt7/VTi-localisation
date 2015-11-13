@@ -11166,3 +11166,6 @@ msgstr "HDMI Farbraum"
 
 msgid "Minimum SmartSeek time intervall (seconds)"
 msgstr "Minimale Sprungzeit in Sekunden für SmartSeek"
+
+msgid "Add bouquet services"
+msgstr "Fav-Sender +"

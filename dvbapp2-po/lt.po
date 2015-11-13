@@ -9228,6 +9228,9 @@ msgstr ""
 msgid "Minimum SmartSeek time intervall (seconds)"
 msgstr ""
 
+msgid "Add bouquet services"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
