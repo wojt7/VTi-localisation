@@ -10422,6 +10422,9 @@ msgstr ""
 msgid "Add bouquet services"
 msgstr ""
 
+msgid "Include CI assignment for detection of available services"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

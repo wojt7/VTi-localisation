@@ -11169,3 +11169,6 @@ msgstr "Minimale Sprungzeit in Sekunden für SmartSeek"
 
 msgid "Add bouquet services"
 msgstr "Fav-Sender +"
+
+msgid "Include CI assignment for detection of available services"
+msgstr "Ermittlung verf. Kanäle inkl. Berücksichtigung der CI-Zuweisung"
