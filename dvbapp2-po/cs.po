@@ -8886,46 +8886,46 @@ msgid "Sort order for menu entries"
 msgstr "Seřadit menu"
 
 msgid "Move mode on"
-msgstr ""
+msgstr "Zapnout přesun"
 
 msgid "Move mode off"
-msgstr ""
+msgstr "Vypnout přesun"
 
 msgid "copy to: "
-msgstr ""
+msgstr "Kopie do :"
 
 msgid "Animation Setup"
-msgstr ""
+msgstr "Nastavit animaci"
 
 msgid "SAT>IP Client Tuner Setup"
-msgstr ""
+msgstr "SAT>IP - nastavit tuner klienta"
 
 msgid "Discover"
-msgstr ""
+msgstr "Ověřit"
 
 msgid "Starting..."
-msgstr ""
+msgstr "Spustit..."
 
 msgid "SAT>IP server discovering for %d seconds..."
-msgstr ""
+msgstr "SAT>IP - ověřit server za  %d sekund"
 
 msgid "SAT>IP server is not detected."
-msgstr ""
+msgstr "SAT>IP server nebyl detekovaný !"
 
 msgid "SAT>IP Server : "
-msgstr ""
+msgstr "SAT>IP server : "
 
 msgid "SAT>IP Tuner Type : "
-msgstr ""
+msgstr "SAT>IP - typ tuneru : "
 
 msgid "Server capacity is fulled."
-msgstr ""
+msgstr "Kapacita serveru je vyčerpána !"
 
 msgid "SAT>IP Client Setup"
-msgstr ""
+msgstr "SAT>IP - nastavení klienta"
 
 msgid "Select tuner and press setup key (Yellow)"
-msgstr ""
+msgstr "Vyberte tuner a stiskněte žluté tlačítko"
 
 msgid ""
 "You should now reboot your STB to change SAT>IP Configuration.\n"
@@ -8933,139 +8933,146 @@ msgid ""
 "Reboot now ?\n"
 "\n"
 msgstr ""
+"Je třeba restartovat sat.přijímač, aby se aktualizovaly změny SAT>IP.\n"
+"\n"
+"Restartovat nyní ?\n"
+"\n"
 
 msgid "SAT>IP Client"
-msgstr ""
+msgstr "SAT>IP klient"
 
 msgid "SAT>IP Client attached to vtuner."
-msgstr ""
+msgstr "SAT>IP klient je připojený na vtuner"
 
 msgid "VIRTUAL TUNER %s"
-msgstr ""
+msgstr "Virtuální tuner %s "
 
 msgid "TYPE : %s"
-msgstr ""
+msgstr "Typ : %s"
 
 msgid "IP : %s"
-msgstr ""
+msgstr "IP : %s"
 
 msgid "TUNER TYPE : %s"
-msgstr ""
+msgstr "Typ tuneru : %s"
 
 msgid "SAT>IP SERVER : %s"
-msgstr ""
+msgstr "SAT>IP server : %s "
 
 msgid "Choices"
-msgstr ""
+msgstr "Vybrané"
 
 msgid "Animate Infobar show/hide"
-msgstr ""
+msgstr "Animovaný info-panel zobrazit/skrýt"
 
 msgid "Infobar show/hide animation speed"
-msgstr ""
+msgstr "Rychlost zobrazení/skrytí anim.info-panelu"
 
 msgid "fade in"
-msgstr ""
+msgstr "zesvětlit"
 
 msgid "fade out"
-msgstr ""
+msgstr "ztmavit"
 
 msgid "fade in/out"
-msgstr ""
+msgstr "zesvětlit/ztmavit"
 
 msgid ""
 "\n"
 "<This tuner is configured automatically>"
 msgstr ""
+"<Tento tuner je nakonfigurovaný automaticky>"
 
 msgid "Disable FastZapping"
-msgstr ""
+msgstr "Vypnout FastZapping"
 
 msgid "Enable FastZapping"
-msgstr ""
+msgstr "Aktivovat FastZapping"
 
 msgid "Disable MiniTV"
-msgstr ""
+msgstr "Vypnout MiniTV"
 
 msgid "Enable MiniTV"
-msgstr ""
+msgstr "Aktivovat MiniTV"
 
 msgid ""
 "You can now choose your preferred skin.\n"
 "Please press OK"
 msgstr ""
+"Můžete vybrat preferovaný skin.\n"
+"OK -> vybrat..."
 
 msgid "Chipset"
-msgstr ""
+msgstr "Chipset"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Enable SmartSeek (button UP and DOWN)"
-msgstr ""
+msgstr "Aktivovat SmartSeek (tl. nahoru/dolů)"
 
 msgid "Set marker at SmartSeek start and end position"
-msgstr ""
+msgstr "Nastavit značku pro SmartSeek - start a konec "
 
 msgid "Initial SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Nastavit čas.interval pro SmartSeek (sek.)"
 
 msgid "Timeout for SmartSeek in seconds"
-msgstr ""
+msgstr "Časový limit pro SmartSeek (sek.)"
 
 msgid "SmartSeek: skip forward..."
-msgstr ""
+msgstr "SmartSeek : skok dopředu..."
 
 msgid "SmartSeek: skip backward..."
-msgstr ""
+msgstr "SmartSeek : skok zpět..."
 
 msgid "update latest movies information"
-msgstr ""
+msgstr "aktualizovat poslední info videa"
 
 msgid "latest movies"
-msgstr ""
+msgstr "poslední videa"
 
 msgid "Mark recordings as new for X days (0=off)"
-msgstr ""
+msgstr "Označit záznam jako nový za x dnů (0=vyp.)"
 
 msgid "Location for info file"
-msgstr ""
+msgstr "Umístění pro info soubor"
 
 msgid "Recordings of last %d days"
-msgstr ""
+msgstr "Záznamy za %d posledních dnů"
 
 msgid "Mark only unseen recordings as new"
-msgstr ""
+msgstr "Označit pouze neshlédnuté záznamy jako nové"
 
 msgid "Unseen recordings of last %d days"
-msgstr ""
+msgstr "Neshlédnuté záznamy za posledních %d dnů"
 
 msgid "latest unseen movies"
-msgstr ""
+msgstr "poslední neshlédnuté záznamy"
 
 msgid "Setup - Display"
-msgstr ""
+msgstr "Nastavení obrazu"
 
 msgid "Display mode in operation"
-msgstr ""
+msgstr "Obraz v provozu"
 
 msgid "Display mode in standby"
-msgstr ""
+msgstr "Obraz v režimu spánku"
 
 msgid "Turn off display"
-msgstr ""
+msgstr "Vypnout obraz"
 
 msgid "Display mode (LCD)"
-msgstr ""
+msgstr "Obrazový mód (LCD)"
 
 msgid "Please select display (LCD) mode..."
-msgstr ""
+msgstr "Vyberte obrazový mód (LCD)..."
 
 msgid "HDMI Colorspace"
-msgstr ""
+msgstr "Barevný prostor HDMI"
 
 msgid "Minimum SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Min.časový interval SmartSeek (sek.)"
 
 #~ msgid "E"
 #~ msgstr "Východní"
