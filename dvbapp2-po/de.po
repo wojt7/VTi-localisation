@@ -11178,3 +11178,6 @@ msgstr "Statisches SmartSeek Sprungintervall in Sekunden (links/rechts)"
 
 msgid "Remap left/right to SmartSeek constant skip intervall"
 msgstr "Links/Rechts immer für SmartSeek Sprungintervall verwenden"
+
+msgid "Show info for folder"
+msgstr "Zeige Verzeichnisinformationen"

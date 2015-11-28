@@ -9583,6 +9583,9 @@ msgstr ""
 msgid "Remap left/right to SmartSeek constant skip intervall"
 msgstr ""
 
+msgid "Show info for folder"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"
