@@ -4352,7 +4352,7 @@ msgid "Please choose the default services lists you want to install."
 msgstr "Veuillez choisir la liste services standard à installer."
 
 msgid "Please choose."
-msgstr ""Veuillez choisir.
+msgstr "Veuillez choisir."
 
 #
 msgid ""
