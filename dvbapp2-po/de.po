@@ -11172,3 +11172,9 @@ msgstr "Fav-Sender +"
 
 msgid "Include CI assignment for detection of available services"
 msgstr "Ermittlung verf. Kanäle inkl. Berücksichtigung der CI-Zuweisung"
+
+msgid "Constant SmartSeek skip intervall in seconds (left/right)"
+msgstr "Statisches SmartSeek Sprungintervall in Sekunden (links/rechts)"
+
+msgid "Remap left/right to SmartSeek constant skip intervall"
+msgstr "Links/Rechts immer für SmartSeek Sprungintervall verwenden"

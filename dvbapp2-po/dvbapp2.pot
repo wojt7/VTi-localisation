@@ -10584,3 +10584,9 @@ msgstr ""
 
 msgid "Include CI assignment for detection of available services"
 msgstr ""
+
+msgid "Constant SmartSeek skip intervall in seconds (left/right)"
+msgstr ""
+
+msgid "Remap left/right to SmartSeek constant skip intervall"
+msgstr ""

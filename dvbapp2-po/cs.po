@@ -8684,8 +8684,7 @@ msgstr "Zap.-Konec"
 msgid ""
 "Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
 "Please install it to use this function"
-msgstr ""
-"Sorry, ale modul %s není nainstalovaný !"
+msgstr "Sorry, ale modul %s není nainstalovaný !"
 
 msgid "Toggle timer state"
 msgstr "Přepnout stav času"
@@ -8980,8 +8979,7 @@ msgstr "zesvětlit/ztmavit"
 msgid ""
 "\n"
 "<This tuner is configured automatically>"
-msgstr ""
-"<Tento tuner je nakonfigurovaný automaticky>"
+msgstr "<Tento tuner je nakonfigurovaný automaticky>"
 
 msgid "Disable FastZapping"
 msgstr "Vypnout FastZapping"
@@ -9073,6 +9071,18 @@ msgstr "Barevný prostor HDMI"
 
 msgid "Minimum SmartSeek time intervall (seconds)"
 msgstr "Min.časový interval SmartSeek (sek.)"
+
+msgid "Add bouquet services"
+msgstr ""
+
+msgid "Include CI assignment for detection of available services"
+msgstr ""
+
+msgid "Constant SmartSeek skip intervall in seconds (left/right)"
+msgstr ""
+
+msgid "Remap left/right to SmartSeek constant skip intervall"
+msgstr ""
 
 #~ msgid "E"
 #~ msgstr "Východní"
