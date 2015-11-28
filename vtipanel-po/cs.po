@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: VTIPanel 7.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-08 21:39+0100\n"
-"PO-Revision-Date: 2014-07-23 17:58+0100\n"
+"PO-Revision-Date: 2015-11-27\n"
 "Last-Translator: Roxy <vro@wo.cz>\n"
 "Language-Team: Roxy <vro@wo.cz>\n"
 "Language: cs_CZ\n"
@@ -1707,28 +1707,28 @@ msgid "Image backup finished successfully"
 msgstr "Záloha Image byla v pořádku dokončena ..."
 
 msgid "A new skin was installed\n"
-msgstr ""
+msgstr "Nový skin byl nainstalovaný"
 
 msgid "Do you want to open the skin choice list?"
-msgstr ""
+msgstr "Chcete otevřít seznam skinů ?"
 
 msgid "Remove xbmc"
-msgstr ""
+msgstr "Odebrat XBMC"
 
 msgid "uninstall xbmc and dependend packages"
-msgstr ""
+msgstr "Odebrat XBMC a doprovodné balíčky"
 
 msgid "Load EPG data from file every X minutes (0 = off)"
-msgstr ""
+msgstr "Stahovat EPG data ze souboru každých x min. (0=vyp.)"
 
 msgid "Save EPG data every X minutes to file (0 = off)"
-msgstr ""
+msgstr "Ukládat EPG data každých x min. (0=vyp.)"
 
 msgid "Enable EPG client mode (don't save EPG file)"
-msgstr ""
+msgstr "Aktivovat klienta EPG (neukládá EPG soubor)"
 
 msgid "Setup - EPG"
-msgstr ""
+msgstr "Nastavení EPG"
 
 #~ msgid ""
 #~ "\n"

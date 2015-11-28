@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Atile v0.1\n"
 "POT-Creation-Date: 2015-03-22 16:33+0100\n"
-"PO-Revision-Date: 2013-07-04 21:13+0100\n"
+"PO-Revision-Date: 2015-11-27 \n"
 "Last-Translator: Roxy <vro@wo.cz>\n"
 "Language-Team: Roxy\n"
 "Language: cs_CS\n"
@@ -43,7 +43,7 @@ msgstr "O prg..."
 
 #, python-format
 msgid "%s - Setup"
-msgstr ""
+msgstr "%s - nastavení"
 
 msgid "Default"
 msgstr "Předvolba"
