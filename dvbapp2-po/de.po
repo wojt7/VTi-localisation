@@ -11181,3 +11181,18 @@ msgstr "Links/Rechts immer für SmartSeek Sprungintervall verwenden"
 
 msgid "Show info for folder"
 msgstr "Zeige Verzeichnisinformationen"
+
+msgid "Show new movies in folder info"
+msgstr "Anzeigen von neuen Aufnahmen in den Verzeichnisinformationen"
+
+msgid "Show sub directories in folder info"
+msgstr "Anzeigen von Unterordnern in den Verzeichnisinformationen"
+
+msgid "Show folder info at the beginning"
+msgstr "Verzeichnisinformattionen an den Anfang stellen"
+
+msgid "All movies"
+msgstr "Alle Aufnahmen"
+
+msgid "Show CI messages"
+msgstr "CI Meldungen anzeigen"

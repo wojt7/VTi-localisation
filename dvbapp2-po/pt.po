@@ -10279,6 +10279,21 @@ msgstr ""
 msgid "Show info for folder"
 msgstr ""
 
+msgid "Show new movies in folder info"
+msgstr ""
+
+msgid "Show sub directories in folder info"
+msgstr ""
+
+msgid "Show folder info at the beginning"
+msgstr ""
+
+msgid "All movies"
+msgstr ""
+
+msgid "Show CI messages"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
