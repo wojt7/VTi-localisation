@@ -11196,3 +11196,9 @@ msgstr "Alle Aufnahmen"
 
 msgid "Show CI messages"
 msgstr "CI Meldungen anzeigen"
+
+msgid "Show only new movies in folder info"
+msgstr "Zeige nur neue Aufnahmen in den Verzeichnisinformationen"
+
+msgid "Sort folders by new items"
+msgstr "Sortiere Ordner nach Anzahl neuer Aufnahmen"

@@ -9061,6 +9061,12 @@ msgstr ""
 msgid "Show CI messages"
 msgstr ""
 
+msgid "Show only new movies in folder info"
+msgstr ""
+
+msgid "Sort folders by new items"
+msgstr ""
+
 #~ msgid "E"
 #~ msgstr "E"
 
