@@ -1,4 +1,4 @@
-[21~msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: VTIPanel 7.0.0\n"
 "Report-Msgid-Bugs-To: \n"
