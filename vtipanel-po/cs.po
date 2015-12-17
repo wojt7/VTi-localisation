@@ -1,4 +1,4 @@
-msgid ""
+[21~msgid ""
 msgstr ""
 "Project-Id-Version: VTIPanel 7.0.0\n"
 "Report-Msgid-Bugs-To: \n"
@@ -1707,7 +1707,7 @@ msgid "Image backup finished successfully"
 msgstr "Záloha Image byla v pořádku dokončena ..."
 
 msgid "A new skin was installed\n"
-msgstr "Nový skin byl nainstalovaný"
+msgstr "Nový skin byl nainstalovaný\n"
 
 msgid "Do you want to open the skin choice list?"
 msgstr "Chcete otevřít seznam skinů ?"
