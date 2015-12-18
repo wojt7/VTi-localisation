@@ -1627,3 +1627,24 @@ msgstr ""
 
 msgid "Setup - EPG"
 msgstr ""
+
+msgid "Download services lists"
+msgstr ""
+
+msgid "Download of services list failes, please be patient and try again later"
+msgstr ""
+
+msgid "Sorry, creating download folder failed"
+msgstr ""
+
+msgid "Sorry, there are some mandatory files missing\nPlease try antoher services list."
+msgstr ""
+
+msgid "Sorry, extracting of services list failed\nPlease try again."
+msgstr ""
+
+msgid "Loading new services list finished succesfully."
+msgstr ""
+
+msgid "Loading the new services list failed.\nPlease try again"
+msgstr ""

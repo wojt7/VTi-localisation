@@ -1755,3 +1755,37 @@ msgstr "EPG-Client Modus aktivieren (EPG Datei nicht speichern)"
 
 msgid "Setup - EPG"
 msgstr "Einstellungen - EPG"
+
+msgid "Download services lists"
+msgstr "Kanallisten herunterladen"
+
+msgid "Download of services list failes, please be patient and try again later"
+msgstr "Der Download der Kanallisten ist fehlgeschlagen, bitte versuchen Sie es später noch einmal."
+
+msgid "Sorry, creating download folder failed"
+msgstr "Entschuldigung, die Erstellung des Download-Ordners ist fehlgeschlagen"
+
+msgid ""
+"Sorry, there are some mandatory files missing\n"
+"Please try antoher services list."
+msgstr ""
+"Entschuldigung, zum Installieren dieser Kanalliste fehlen wichtige Dateien.\n"
+"Bitte, versuchen Sie es mit einer anderen Kanalliste"
+
+msgid ""
+"Sorry, extracting of services list failed\n"
+"Please try again."
+msgstr ""
+"Entschuldigung, das Entpacken der Kanallisten ist fehlgeschlagen.\n"
+"Bitte, versuchen Sie es mit einer anderen Kanalliste"
+
+msgid "Loading new services list finished succesfully."
+msgstr "Die neuen Kanallisten wurden erfolgreich geladen"
+
+msgid ""
+"Loading the new services list failed.\n"
+"Please try again"
+msgstr ""
+"Beim Laden der neuen Kanallisten ist ein Fehler aufgetreten\n"
+"Bitte versuchen Sie es noch einmal"
+
