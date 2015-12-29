@@ -9607,6 +9607,78 @@ msgstr ""
 msgid "Sort folders by new items"
 msgstr ""
 
+msgid "Behavior when Live TV event changes during timeshift"
+msgstr ""
+
+msgid "Ask before stopping timeshift"
+msgstr ""
+
+msgid "Start timeshift automatically after given time"
+msgstr ""
+
+msgid "1 second"
+msgstr ""
+
+msgid "2 seconds"
+msgstr ""
+
+msgid "3 seconds"
+msgstr ""
+
+msgid "4 seconds"
+msgstr ""
+
+msgid "5 seconds"
+msgstr ""
+
+msgid "10 seconds"
+msgstr ""
+
+msgid "20 seconds"
+msgstr ""
+
+msgid "30 seconds"
+msgstr ""
+
+msgid "1 minute"
+msgstr ""
+
+msgid "2 minutes"
+msgstr ""
+
+msgid "continue timeshift"
+msgstr ""
+
+msgid "split & keep"
+msgstr ""
+
+msgid "split & delete"
+msgstr ""
+
+msgid "stop & keep"
+msgstr ""
+
+msgid "stop & delete"
+msgstr ""
+
+msgid "Live TV event changed"
+msgstr ""
+
+msgid "Save old event and continue timeshift"
+msgstr ""
+
+msgid "Delete old event and continue timeshift"
+msgstr ""
+
+msgid "Save old event and stop timeshift"
+msgstr ""
+
+msgid "Delete old event and stop timeshift"
+msgstr ""
+
+msgid "seek to timeshift end (Live TV)"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

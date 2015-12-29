@@ -11202,3 +11202,75 @@ msgstr "Zeige nur neue Aufnahmen in den Verzeichnisinformationen"
 
 msgid "Sort folders by new items"
 msgstr "Sortiere Ordner nach Anzahl neuer Aufnahmen"
+
+msgid "Behavior when Live TV event changes during timeshift"
+msgstr "Verhalten wenn die Live TV Sendung wechselt"
+
+msgid "Ask before stopping timeshift"
+msgstr "Frage vor dem Beenden von Timeshift"
+
+msgid "Start timeshift automatically after given time"
+msgstr "Starte Timeshift automatische nach"
+
+msgid "1 second"
+msgstr "1 Sekunde"
+
+msgid "2 seconds"
+msgstr "2 Sekunden"
+
+msgid "3 seconds"
+msgstr "3 Sekunden"
+
+msgid "4 seconds"
+msgstr "4 Sekunden"
+
+msgid "5 seconds"
+msgstr "5 Sekunden"
+
+msgid "10 seconds"
+msgstr "10 Sekunden"
+
+msgid "20 seconds"
+msgstr "20 Sekunden"
+
+msgid "30 seconds"
+msgstr "30 Sekunden"
+
+msgid "1 minute"
+msgstr "1 Minute"
+
+msgid "2 minutes"
+msgstr "2 Minuten"
+
+msgid "continue timeshift"
+msgstr "Timeshift fortsetzen"
+
+msgid "split & keep"
+msgstr "teilen & behalten"
+
+msgid "split & delete"
+msgstr "teilen & löschen"
+
+msgid "stop & keep"
+msgstr "beenden & behalten"
+
+msgid "stop & delete"
+msgstr "beenden & löschen"
+
+msgid "Live TV event changed"
+msgstr "Neue Live TV Sendung"
+
+msgid "Save old event and continue timeshift"
+msgstr "Speichere die vorherige Sendung und setze Timeshift fort"
+
+msgid "Delete old event and continue timeshift"
+msgstr "Lösche die vorherige Sendung und setze Timeshift fort"
+
+msgid "Save old event and stop timeshift"
+msgstr "Speichere die vorherige Sendung und beende Timeshift"
+
+msgid "Delete old event and stop timeshift"
+msgstr "Lösche die vorherige Sendung und beende Timeshift"
+
+msgid "seek to timeshift end (Live TV)"
+msgstr "springe ans Ende der Timeshift-Aufnahme (Live TV)"
