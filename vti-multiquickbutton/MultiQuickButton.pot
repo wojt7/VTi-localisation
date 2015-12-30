@@ -561,3 +561,12 @@ msgstr ""
 
 msgid "Multi Quickbutton"
 msgstr ""
+
+msgid "Stop Timeshift"
+msgstr ""
+
+msgid "Timeshift switch to Live TV"
+msgstr ""
+
+msgid "Stop running recordings"
+msgstr ""

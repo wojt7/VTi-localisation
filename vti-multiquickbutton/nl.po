@@ -6,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: plnick\n"
 "Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -574,6 +575,15 @@ msgstr "bestand %s niet gevonden"
 
 msgid "Multi Quickbutton"
 msgstr "Multi Quickbutton"
+
+msgid "Stop Timeshift"
+msgstr ""
+
+msgid "Timeshift switch to Live TV"
+msgstr ""
+
+msgid "Stop running recordings"
+msgstr ""
 
 #~ msgid "Channels"
 #~ msgstr "Kanalen"

@@ -562,6 +562,15 @@ msgstr "Soubor %s není dostupný !"
 msgid "Multi Quickbutton"
 msgstr "Multi Quickbutton"
 
+msgid "Stop Timeshift"
+msgstr ""
+
+msgid "Timeshift switch to Live TV"
+msgstr ""
+
+msgid "Stop running recordings"
+msgstr ""
+
 #~ msgid "Channel"
 #~ msgstr "Kanál ... "
 
