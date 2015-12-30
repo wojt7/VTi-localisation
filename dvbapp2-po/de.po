@@ -11286,7 +11286,7 @@ msgid "keep timeshift file"
 msgstr "Timeshift Datei speichern"
 
 msgid "Behavior when a service changes during timeshift"
-msgstr "Verhalten beim Senderwechsel beim Timeshift"
+msgstr "Verhalten beim Senderwechsel während Timeshift"
 
 msgid "Delete timeshift files older than X days"
 msgstr "Lösche Timehsift-Dateien die älter als X Tage sind"
