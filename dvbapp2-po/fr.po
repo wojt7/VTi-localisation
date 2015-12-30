@@ -5661,6 +5661,10 @@ msgstr "Paramétrer - Films"
 msgid "Setup - Timer"
 msgstr "Paramétrer - Timer"
 
+#
+msgid "Setup - Timeshift"
+msgstr ""
+
 msgid "Setup - Service List"
 msgstr "Paramétrer - Liste des services"
 
@@ -10447,6 +10451,21 @@ msgid "Delete old event and stop timeshift"
 msgstr ""
 
 msgid "seek to timeshift end (Live TV)"
+msgstr ""
+
+msgid "delete timeshift file"
+msgstr ""
+
+msgid "keep timeshift file"
+msgstr ""
+
+msgid "Behavior when a service changes during timeshift"
+msgstr ""
+
+msgid "Delete timeshift files older than X days"
+msgstr ""
+
+msgid "Search for old timeshift files every X hours (0 = off)"
 msgstr ""
 
 #

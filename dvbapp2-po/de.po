@@ -6133,6 +6133,10 @@ msgid "Setup - Timer"
 msgstr "Einstellungen - Timer"
 
 #
+msgid "Setup - Timeshift"
+msgstr "Einstellungen - Timeshift"
+
+#
 msgid "Setup - Service List"
 msgstr "Einstellungen - Kanalliste"
 
@@ -11274,3 +11278,18 @@ msgstr "Lösche die vorherige Sendung und beende Timeshift"
 
 msgid "seek to timeshift end (Live TV)"
 msgstr "springe ans Ende der Timeshift-Aufnahme (Live TV)"
+
+msgid "delete timeshift file"
+msgstr "Timeshift Datei löschen"
+
+msgid "keep timeshift file"
+msgstr "Timeshift Datei speichern"
+
+msgid "Behavior when a service changes during timeshift"
+msgstr "Verhalten beim Senderwechsel beim Timeshift"
+
+msgid "Delete timeshift files older than X days"
+msgstr "Lösche Timehsift-Dateien die älter als X Tage sind"
+
+msgid "Search for old timeshift files every X hours (0 = off)"
+msgstr "Suche alle X Stunden nach alten Timeshift-Dateien (0 = aus)"
