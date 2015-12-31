@@ -10528,6 +10528,21 @@ msgstr ""
 msgid "Search for old timeshift files every X hours (0 = off)"
 msgstr ""
 
+msgid "Bars view for timer"
+msgstr ""
+
+msgid "Time frame of entries in minutes"
+msgstr ""
+
+msgid "Set jump time in hours"
+msgstr ""
+
+msgid "Ok button action"
+msgstr ""
+
+msgid "EPG button action"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

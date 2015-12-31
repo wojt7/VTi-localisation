@@ -11293,3 +11293,18 @@ msgstr "Lösche Timehsift-Dateien die älter als X Tage sind"
 
 msgid "Search for old timeshift files every X hours (0 = off)"
 msgstr "Suche alle X Stunden nach alten Timeshift-Dateien (0 = aus)"
+
+msgid "Bars view for timer"
+msgstr "Balken-Anzeige für Timer"
+
+msgid "Time frame of entries in minutes"
+msgstr "Zeitbereich für Einträge in Minuten"
+
+msgid "Set jump time in hours"
+msgstr "Sprungzeit in Stunden"
+
+msgid "Ok button action"
+msgstr "Aktion für OK-Taste"
+
+msgid "EPG button action"
+msgstr "Aktion für EPG-Taste"
