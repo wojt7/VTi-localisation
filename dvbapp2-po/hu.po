@@ -10541,6 +10541,9 @@ msgstr ""
 msgid "EPG button action"
 msgstr ""
 
+msgid "Transform Timeshift into recording"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "K"

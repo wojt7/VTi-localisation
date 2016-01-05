@@ -1681,9 +1681,6 @@ msgstr ""
 msgid "Download services lists"
 msgstr ""
 
-msgid "Services list downloader"
-msgstr ""
-
 msgid "Download of services list failes, please be patient and try again later"
 msgstr ""
 
@@ -1706,6 +1703,9 @@ msgstr ""
 msgid ""
 "Loading the new services list failed.\n"
 "Please try again"
+msgstr ""
+
+msgid "Update DVB EPG only for whitelisted services"
 msgstr ""
 
 #~ msgid "/hdd"

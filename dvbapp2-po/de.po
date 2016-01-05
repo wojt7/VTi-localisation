@@ -11308,3 +11308,9 @@ msgstr "Aktion für OK-Taste"
 
 msgid "EPG button action"
 msgstr "Aktion für EPG-Taste"
+
+msgid "Transform Timeshift into recording"
+msgstr "Timeshift in Aufnahme umwandeln"
+
+#~ msgid "Update DVB EPG only for whitelisted services"
+#~ msgstr "DVB EPG nur für Sender in der Whitelist laden"

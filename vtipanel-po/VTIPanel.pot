@@ -1648,3 +1648,7 @@ msgstr ""
 
 msgid "Loading the new services list failed.\nPlease try again"
 msgstr ""
+
+msgid "Update DVB EPG only for whitelisted services"
+msgstr ""
+

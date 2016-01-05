@@ -1760,7 +1760,9 @@ msgid "Download services lists"
 msgstr "Kanallisten herunterladen"
 
 msgid "Download of services list failes, please be patient and try again later"
-msgstr "Der Download der Kanallisten ist fehlgeschlagen, bitte versuchen Sie es später noch einmal."
+msgstr ""
+"Der Download der Kanallisten ist fehlgeschlagen, bitte versuchen Sie es "
+"später noch einmal."
 
 msgid "Sorry, creating download folder failed"
 msgstr "Entschuldigung, die Erstellung des Download-Ordners ist fehlgeschlagen"
@@ -1789,3 +1791,5 @@ msgstr ""
 "Beim Laden der neuen Kanallisten ist ein Fehler aufgetreten\n"
 "Bitte versuchen Sie es noch einmal"
 
+msgid "Update DVB EPG only for whitelisted services"
+msgstr "DVB-EPG nur für Sender der Whitelist laden"
