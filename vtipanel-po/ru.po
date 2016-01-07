@@ -1701,6 +1701,9 @@ msgstr ""
 msgid "Edit DVB EPG whitelist"
 msgstr ""
 
+msgid "Edit whitelist for DVB EPG"
+msgstr ""
+
 #~ msgid "EPG path set to : %s"
 #~ msgstr "Путь EPG установлен в : %s"
 

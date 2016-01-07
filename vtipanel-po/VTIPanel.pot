@@ -1656,3 +1656,5 @@ msgstr ""
 msgid "Edit DVB EPG whitelist"
 msgstr ""
 
+msgid "Edit whitelist for DVB EPG"
+msgstr ""

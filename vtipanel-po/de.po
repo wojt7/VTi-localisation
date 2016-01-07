@@ -1796,6 +1796,9 @@ msgstr "Kanal hinzufügen"
 msgid "Edit DVB EPG whitelist"
 msgstr "DVB-EPG Whitelist bearbeiten"
 
+msgid "Edit whitelist for DVB EPG"
+msgstr "DVB-EPG Whitelist bearbeiten"
+
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"
 #~ "Note: This will restart your VU+ STB"
