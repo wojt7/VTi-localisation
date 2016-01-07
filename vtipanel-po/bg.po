@@ -1374,9 +1374,7 @@ msgstr "Записът на EPG кеша в %s е завършено"
 msgid "Loading EPG data from %s finished"
 msgstr "Зареждане на EPG данни от %s е завършено"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
 
 msgid "Please wait..."

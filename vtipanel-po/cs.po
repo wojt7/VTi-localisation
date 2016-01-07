@@ -1385,12 +1385,8 @@ msgstr "Ukládádní kanálů do cache %s dokončeno"
 msgid "Loading EPG data from %s finished"
 msgstr "Načtení dat kanálů z %s bylo dokončeno"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
-"Opravdu chcete zrušit soubor \"epg.dat\" ?\n"
-"VU+ sat.přijímač bude restartovaný..."
 
 msgid "Please wait..."
 msgstr "Čekejte, prosím ..."
@@ -1759,6 +1755,13 @@ msgstr ""
 
 msgid "Update DVB EPG only for whitelisted services"
 msgstr ""
+
+#~ msgid ""
+#~ "Do you really want to delete epg.dat ?\n"
+#~ "Note: This will restart your VU+ STB"
+#~ msgstr ""
+#~ "Opravdu chcete zrušit soubor \"epg.dat\" ?\n"
+#~ "VU+ sat.přijímač bude restartovaný..."
 
 #~ msgid ""
 #~ "\n"

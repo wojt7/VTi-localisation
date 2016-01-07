@@ -1374,9 +1374,7 @@ msgstr "EPG tároló mentése %s véglegesként"
 msgid "Loading EPG data from %s finished"
 msgstr "EPG adatok betöltése a %s véglegesből"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
 
 msgid "Please wait..."

@@ -1373,9 +1373,7 @@ msgstr "%s  في  EPGنهاية حفظ معلومات الـ"
 msgid "Loading EPG data from %s finished"
 msgstr "%s  من EPG نهاية تحميل داتا "
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
 
 msgid "Please wait..."

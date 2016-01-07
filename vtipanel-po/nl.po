@@ -1386,12 +1386,8 @@ msgstr "Opslaan van EPG cache naar %s gereed"
 msgid "Loading EPG data from %s finished"
 msgstr "Laden van EPG data van %s gereed"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
-"Wilt U werkelijk epg.dat verwijderen ?\n"
-"Opmerking: Dit zal Uw VU+ doen herstarten"
 
 msgid "Please wait..."
 msgstr ""
@@ -1713,6 +1709,13 @@ msgstr ""
 
 msgid "Update DVB EPG only for whitelisted services"
 msgstr ""
+
+#~ msgid ""
+#~ "Do you really want to delete epg.dat ?\n"
+#~ "Note: This will restart your VU+ STB"
+#~ msgstr ""
+#~ "Wilt U werkelijk epg.dat verwijderen ?\n"
+#~ "Opmerking: Dit zal Uw VU+ doen herstarten"
 
 #~ msgid "/hdd"
 #~ msgstr "/hdd"

@@ -1374,9 +1374,7 @@ msgstr "Ruajtja e EPG cache për%s përfunduar"
 msgid "Loading EPG data from %s finished"
 msgstr "Merr ë dhënat e EPG nga%s përfunduar"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
 
 msgid "Please wait..."

@@ -1398,12 +1398,8 @@ msgstr "Salvataggio cache EPG %s terminata"
 msgid "Loading EPG data from %s finished"
 msgstr "Caricare dati EPG da %s terminato"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
-"Sei sicuro di voler cancellare epg.dat ?\n"
-"Nota: per questa operazione riavviare il VU+"
 
 msgid "Please wait..."
 msgstr "Si prega di attendere ..."
@@ -1748,6 +1744,13 @@ msgstr ""
 
 msgid "Update DVB EPG only for whitelisted services"
 msgstr ""
+
+#~ msgid ""
+#~ "Do you really want to delete epg.dat ?\n"
+#~ "Note: This will restart your VU+ STB"
+#~ msgstr ""
+#~ "Sei sicuro di voler cancellare epg.dat ?\n"
+#~ "Nota: per questa operazione riavviare il VU+"
 
 #~ msgid "/hdd"
 #~ msgstr "/hdd"

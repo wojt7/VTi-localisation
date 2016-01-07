@@ -1379,9 +1379,7 @@ msgstr "Αποθήκευση του EPG cache στο  %s τελείωσε"
 msgid "Loading EPG data from %s finished"
 msgstr "Φώρτοση EPG δεδομένων από %s τελείωσε"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
 
 msgid "Please wait..."

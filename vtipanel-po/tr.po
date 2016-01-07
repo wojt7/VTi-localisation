@@ -1374,9 +1374,7 @@ msgstr "EPG hafiza kayidi %s tamamlanmisdir"
 msgid "Loading EPG data from %s finished"
 msgstr "EPG bilgileri yükleme %s tamamlanmisdir"
 
-msgid ""
-"Do you really want to delete epg.dat ?\n"
-"Note: This will restart your VU+ STB"
+msgid "Clearing EPG DB finished"
 msgstr ""
 
 msgid "Please wait..."
