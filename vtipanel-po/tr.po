@@ -1699,6 +1699,12 @@ msgstr ""
 msgid "Update DVB EPG only for whitelisted services"
 msgstr ""
 
+msgid "Add Service"
+msgstr ""
+
+msgid "Edit DVB EPG whitelist"
+msgstr ""
+
 #~ msgid "/hdd"
 #~ msgstr "/hdd"
 

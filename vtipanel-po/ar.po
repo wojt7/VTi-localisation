@@ -1698,6 +1698,12 @@ msgstr ""
 msgid "Update DVB EPG only for whitelisted services"
 msgstr ""
 
+msgid "Add Service"
+msgstr ""
+
+msgid "Edit DVB EPG whitelist"
+msgstr ""
+
 #~ msgid "EPG path set to : %s"
 #~ msgstr "%s : الى EPGتحديد مسار الـ"
 

@@ -1790,6 +1790,12 @@ msgstr ""
 msgid "Update DVB EPG only for whitelisted services"
 msgstr "DVB-EPG nur für Sender der Whitelist laden"
 
+msgid "Add Service"
+msgstr "Kanal hinzufügen"
+
+msgid "Edit DVB EPG whitelist"
+msgstr "DVB-EPG Whitelist bearbeiten"
+
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"
 #~ "Note: This will restart your VU+ STB"

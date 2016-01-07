@@ -1710,6 +1710,12 @@ msgstr ""
 msgid "Update DVB EPG only for whitelisted services"
 msgstr ""
 
+msgid "Add Service"
+msgstr ""
+
+msgid "Edit DVB EPG whitelist"
+msgstr ""
+
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"
 #~ "Note: This will restart your VU+ STB"
