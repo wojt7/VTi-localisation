@@ -6218,7 +6218,7 @@ msgstr "Benachrichtigung bei Aufnahmestart anzeigen"
 
 #
 msgid "Show Now/Next EIT EPG at InfoBar"
-msgstr "EPG-Informationen in der Infoleiste anzeigen"
+msgstr "EPG-Informationen (Now/Next) in der Infoleiste anzeigen"
 
 #
 msgid "Show WLAN Status"
