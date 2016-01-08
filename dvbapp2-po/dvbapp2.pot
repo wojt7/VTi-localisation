@@ -10723,3 +10723,15 @@ msgstr ""
 
 msgid "Transform Timeshift into recording"
 msgstr ""
+
+msgid "Unhide all entries"
+msgstr ""
+
+msgid "Please select entry to unhide..."
+msgstr ""
+
+msgid "hide entry: %s"
+msgstr ""
+
+msgid "unhide hidden entry"
+msgstr ""

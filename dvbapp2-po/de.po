@@ -11312,5 +11312,14 @@ msgstr "Aktion für EPG-Taste"
 msgid "Transform Timeshift into recording"
 msgstr "Timeshift in Aufnahme umwandeln"
 
-#~ msgid "Update DVB EPG only for whitelisted services"
-#~ msgstr "DVB EPG nur für Sender in der Whitelist laden"
+msgid "Unhide all entries"
+msgstr "Alle Einträge wieder einblenden"
+
+msgid "Please select entry to unhide..."
+msgstr "Bitte Eintrag zum Einblenden auswählen..."
+
+msgid "hide entry: %s"
+msgstr "Eintrag ausblenden: %s"
+
+msgid "unhide hidden entry"
+msgstr "Versteckten Eintrag einblenden"
