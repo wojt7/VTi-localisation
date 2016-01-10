@@ -11323,3 +11323,6 @@ msgstr "Eintrag ausblenden: %s"
 
 msgid "unhide hidden entry"
 msgstr "Versteckten Eintrag einblenden"
+
+msgid "Picon folder for graphical multi EPG"
+msgstr "Picon-Verzeichnis für grafischen Multi-EPG"

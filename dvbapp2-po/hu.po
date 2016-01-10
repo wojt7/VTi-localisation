@@ -10556,6 +10556,9 @@ msgstr ""
 msgid "unhide hidden entry"
 msgstr ""
 
+msgid "Picon folder for graphical multi EPG"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "K"
