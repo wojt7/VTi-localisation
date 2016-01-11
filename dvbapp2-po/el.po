@@ -10461,6 +10461,15 @@ msgstr ""
 msgid "Picon folder for graphical multi EPG"
 msgstr ""
 
+msgid "Console"
+msgstr ""
+
+msgid "Console & File"
+msgstr ""
+
+msgid "Enable debug log"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

@@ -1787,21 +1787,11 @@ msgstr ""
 "Beim Laden der neuen Kanallisten ist ein Fehler aufgetreten\n"
 "Bitte versuchen Sie es noch einmal"
 
-msgid "Update DVB EPG only for whitelisted services"
-msgstr "DVB-EPG nur für Sender der Whitelist laden"
+msgid "Forbid DVB EPG update for black listed services"
+msgstr "DVB-EPG Update für Sender in Blacklist verbieten"
 
 msgid "Add Service"
 msgstr "Kanal hinzufügen"
 
-msgid "Edit DVB EPG whitelist"
-msgstr "DVB-EPG Whitelist bearbeiten"
-
-msgid "Edit whitelist for DVB EPG"
-msgstr "DVB-EPG Whitelist bearbeiten"
-
-#~ msgid ""
-#~ "Do you really want to delete epg.dat ?\n"
-#~ "Note: This will restart your VU+ STB"
-#~ msgstr ""
-#~ "Möchten Sie die Datei \"epg.dat\" wirklich löschen?\n"
-#~ "Achtung: Dies startet Ihre Vu+ neu."
+msgid "Edit blacklist for DVB EPG"
+msgstr "DVB-EPG Blacklist bearbeiten"

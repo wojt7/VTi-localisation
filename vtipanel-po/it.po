@@ -1742,16 +1742,13 @@ msgid ""
 "Please try again"
 msgstr ""
 
-msgid "Update DVB EPG only for whitelisted services"
+msgid "Forbid DVB EPG update for black listed services"
 msgstr ""
 
 msgid "Add Service"
 msgstr ""
 
-msgid "Edit DVB EPG whitelist"
-msgstr ""
-
-msgid "Edit whitelist for DVB EPG"
+msgid "Edit blacklist for DVB EPG"
 msgstr ""
 
 #~ msgid ""

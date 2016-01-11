@@ -11326,3 +11326,12 @@ msgstr "Versteckten Eintrag einblenden"
 
 msgid "Picon folder for graphical multi EPG"
 msgstr "Picon-Verzeichnis für grafischen Multi-EPG"
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "Console & File"
+msgstr "Konsole & Datei"
+
+msgid "Enable debug log"
+msgstr "Debug-Ausgabe aktivieren"
