@@ -10507,6 +10507,12 @@ msgstr ""
 msgid "Enable debug log"
 msgstr ""
 
+msgid "File (loop)"
+msgstr ""
+
+msgid "Console & File (loop)"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

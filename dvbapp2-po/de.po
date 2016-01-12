@@ -11335,3 +11335,9 @@ msgstr "Konsole & Datei"
 
 msgid "Enable debug log"
 msgstr "Debug-Ausgabe aktivieren"
+
+msgid "File (loop)"
+msgstr "Datei (Schleife)"
+
+msgid "Console & File (loop)"
+msgstr "Konsole & Datei (Schleife)"
