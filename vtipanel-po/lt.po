@@ -1,0 +1,1777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-VTIPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-21 17:07+0200\n"
+"PO-Revision-Date: 2016-01-21 17:19+0200\n"
+"Last-Translator: Jannick Kuhr <jakuhrlinux@googlemail.com>\n"
+"Language-Team: Vytenis Pulokas <vyteniui@gmail.com>\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+
+msgid "VTI DriverManager"
+msgstr "VTi Tvarkyklių tvarkytuvas"
+
+msgid "Exit"
+msgstr "Užverti"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "not available"
+msgstr "nepasiekiama"
+
+msgid "Current drivers: "
+msgstr "Dabartinės tvarkyklės: "
+
+msgid "Install drivers from a local device"
+msgstr "Įdiegti tvarkykles iš vietinio įrenginio"
+
+msgid "choose drivers from local filesystem to install"
+msgstr "tvarkyklių įdiegimas iš lokaliai turimų failų"
+
+msgid "Download and install drivers from Vu+ website"
+msgstr "Parsisiųsti ir įdiegti tvarkykles iš Vu+   svetainės"
+
+msgid "choose drivers for download/install"
+msgstr "tvarkyklių atsisiuntimas/įdiegimas"
+
+msgid "Sorry, detection of current kernel version failed !"
+msgstr "Branduolio versijos nustatyti nepavyko !"
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+"Jūs tikrai norite įdiegti\n"
+"šias tvarkykles:\n"
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+"Tvarkyklė įdiegta sėkmingai !\n"
+"Vu+ reikia paleisti iš naujo:\n"
+"Paleisti iš naujo dabar?"
+
+msgid "Installation of drivers failed !!!"
+msgstr "Įdiegti tvarkyklių nepavyko !!!"
+
+msgid "Select a drivers to install"
+msgstr "Pasirinkite tvarkykles įdiegti"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Invalid Choice"
+msgstr "Neteisingas pasirinkimas"
+
+msgid "no valid drivers"
+msgstr "nėra teisingų tvarkyklių"
+
+msgid "Please wait ..."
+msgstr "Palaukite..."
+
+msgid " downloading available drivers information"
+msgstr " parsiunčiama informacija apie tvarkykles"
+
+msgid "Download"
+msgstr "Parsisiųsti"
+
+#, python-format
+msgid "Driver : %s"
+msgstr "Tvarkyklė : %s"
+
+msgid "choose this drivers for download"
+msgstr "pasirinkite tai, atsisiųsti tvarkykles"
+
+msgid "Please wait, downloading drivers: "
+msgstr "Palaukite, parsisiunčiamos tvarkyklės: "
+
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+"Parsisiųsti nepavyko!\n"
+"Patikrinkite interneto ryšį"
+
+msgid "Close"
+msgstr "Užverti"
+
+msgid "reload package data"
+msgstr "atnaujinti paketo duomenis"
+
+msgid "Download or delete Software"
+msgstr "Parsisiųsti/pašalinti programas"
+
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Paspaudę 'OK', palaukite!"
+
+#, python-format
+msgid ""
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
+msgstr ""
+"Įdiegimui yra tik % d MB laisvos vietos\n"
+"Programinės įrangos įdiegimas ir atnaujinimas gali sukelti rimtų problemų!\n"
+"Tęsti diegimą/atnaujinimą (savo pačių rizika)?"
+
+msgid "Excecute"
+msgstr "Vykdyti"
+
+msgid "Remove"
+msgstr "Pašalinti"
+
+msgid "Install"
+msgstr "Įdiegti"
+
+msgid "Upgrade"
+msgstr "Atnaujinti"
+
+msgid "Package list update"
+msgstr "Paketų sąrašo atnaujinimas"
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Bandoma parsisiųsti naują paketų sąrašą. Palaukite..."
+
+msgid "Error"
+msgstr "Klaida"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Parsisiunčiant paketų sąrašą, įvyko klaida. Pabandykite dar kartą."
+
+msgid "Extensions"
+msgstr "Plėtiniai"
+
+msgid "install/remove common plugins"
+msgstr "įdiegti/pašalinti įskiepius"
+
+msgid "Systemplugins"
+msgstr "Sistemos įskiepiai"
+
+msgid "install/remove systemplugins"
+msgstr "įdiegti/pašalinti sistemos įskiepius"
+
+msgid "Skins"
+msgstr "Temos"
+
+msgid "install/remove skins to change look of OSD"
+msgstr "įdiegti/pašalinti OSD išvaizdos temas"
+
+msgid "SoftCams"
+msgstr "Emuliatoriai"
+
+msgid "install/remove softcams"
+msgstr "įdiegti/pašalinti emuliatorius"
+
+msgid "Configurations"
+msgstr "Konfigūracija"
+
+msgid "install/remove configuration files for softcams"
+msgstr "įdiegti/pašalinti emuliatorių konfigūracijos failus"
+
+msgid "Picons"
+msgstr "Piktogramos"
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr "įdiegti/pašalinti OSD ir VFD piktogramas"
+
+msgid "Settings"
+msgstr "Nuostatos"
+
+msgid "install/remove channel lists"
+msgstr "įdiegti/pašalinti kanalų sąrašus"
+
+msgid "Kernel modules"
+msgstr "Branduolio moduliai"
+
+msgid "install/remove kernel modules"
+msgstr "įdiegti/pašalinti branduolio modulius"
+
+msgid "Language packages"
+msgstr "Kalbų paketai"
+
+msgid "install/remove language packages for dvbapp2"
+msgstr "įdiegti/pašalinti dvbapp2 kalbų paketus"
+
+msgid "upgrade"
+msgstr "atnaujinti"
+
+msgid "Start"
+msgstr "Pradėti"
+
+msgid "Execution finished.\n"
+msgstr "Įvykdyta.\n"
+
+msgid "Do you want to restart GUI ?"
+msgstr "Ar norite paleisti grafinę aplinką iš naujo ?"
+
+msgid "VTi ZerO"
+msgstr "VTi ZerO (išvalymas)"
+
+msgid "Ok"
+msgstr "Gerai"
+
+msgid "Restore"
+msgstr "Atkurti"
+
+msgid "Free Flash"
+msgstr "Laisva atmintinė"
+
+msgid "Remove preinstalled plugins"
+msgstr "Šalinti įskiepius"
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr "pašalinti beveik visus anksčiau įdiegtus įskiepius ir priklausomybes"
+
+msgid "Remove WLAN support"
+msgstr "Šalinti bevielio tinklo palaikymą"
+
+msgid "remove WLAN plugins and drivers"
+msgstr "pašalinti belaidžio tinklo įskiepius ir tvarkykles"
+
+msgid "Remove HbbTV support"
+msgstr "Šalinti HbbTV palaikymą"
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr "pašalinti HbbTV įskiepį ir naršyklę"
+
+msgid "Remove samba server"
+msgstr "Pašalinti samba serverį"
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr "pašalinti samba serverį, bet NE cifs failų sistemos palaikymą"
+
+msgid "Remove USB tuner support"
+msgstr "Šalinti USB imtuvo palaikymą"
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr "pašalinti USB imtuvo branduolio modulius ir mikroprogramos paketus"
+
+msgid "Remove language files"
+msgstr "Šalinti kalbos failus"
+
+msgid "delete translation files expect configured language"
+msgstr "šalinti lokalizacijų failus, paliekant pasirinktą kalbą"
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+"DĖMESIO !!!\n"
+"Neištrinkite to, ko prisireiks vėliau\n"
+"VTI-komanda neatsako už duomenų praradimą\n"
+"Sutinkate su tuo ?"
+
+#, python-format
+msgid "Free space at flash memory : %d MB\n"
+msgstr "Laisvos atminties atmintinėje : %d MB\n"
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Jūs tikrai norite atkurti\n"
+"šią atsarginę kopiją:\n"
+
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Po atkūrimo sistema pasileis iš naujo!"
+
+msgid "VTI BackupSuite"
+msgstr "VTi Atsarginių kopijų įrankis"
+
+msgid "Backup"
+msgstr "Atsarginė kopija"
+
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr "Sukurti/atkurti atsarginę įrenginio kopiją: %s"
+
+msgid "set device for directory vti-backupsuite"
+msgstr "nurodyti laikmeną VTi atsarginių kopijų įrankio  katalogui"
+
+msgid "Backup installed plugins"
+msgstr "Įdiegtų įskiepių atsarginė kopija"
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr "sukuria įdiegtų įskiepių, temų ir emuliatorių sąrašą"
+
+msgid "Backup channel settings"
+msgstr "Kanalų nuostatų atsarginė kopija"
+
+msgid "save channel and bouquet settings"
+msgstr "įrašyti kanalų ir bukietų parametrus"
+
+msgid "Backup configurations"
+msgstr "Konfigūracijos atsarginė kopija"
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr ""
+"įrašyti bendrąsias grafinės aplinkos, įskiepių ir emuliatorių konfigūracija"
+
+msgid "Restore plugins from saved list"
+msgstr "Atkurti įskiepius iš išsaugoto sąrašo"
+
+msgid "installs all available plugins from online feed"
+msgstr "įdiegti visus galimus įskiepius iš internetinių šaltinių"
+
+msgid "Restore channel settings"
+msgstr "Atkurti kanalų nustatymus"
+
+msgid "reload saved channel and bouquet settings"
+msgstr "atnaujinti išsaugotas kanalų ir bukietų nuostatas"
+
+msgid "Restore configurations"
+msgstr "Atkurti konfigūraciją"
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr ""
+"atkurti bendrąsias grafinės aplinkos, įskiepių ir emuliatorių konfigūracija"
+
+msgid "Install local packages"
+msgstr "Įdiegti vietinius paketus"
+
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr "iš %s/vti-backupsuite/plugins"
+
+msgid "Run personal script"
+msgstr "Paleisti savą scenarijų"
+
+msgid "executes your personal backup/restore scripts"
+msgstr "vykdo vartotojo atsarginės kopijos kūrimo/atkūrimo scenarijus"
+
+msgid "Please select medium to use as backup location"
+msgstr "Pasirinkite laikmeną atsarginėms kopijoms"
+
+msgid "List of installed plugins was created succesfully"
+msgstr "Įdiegtų įskiepių sąrašas sukurtas"
+
+msgid "Creating list of installed plugins failed"
+msgstr "Sukurti įdiegtų įskiepių sąrašo nepavyko"
+
+msgid "Settings backup finished succesfully"
+msgstr "Nustatymų atsarginė kopija padaryta"
+
+msgid "Backup settings failed"
+msgstr "Nuostatų atsarginė kopija nepavyko"
+
+msgid "Common configuration backup finished succesfully"
+msgstr "Konfigūracijos atsarginė kopija padaryta"
+
+msgid "Backup of common configurations failed"
+msgstr "Konfigūracijos atsarginė kopija nepavyko"
+
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Jūsų atsarginės kopijos vieta neskirta rašymui.\n"
+"\n"
+"Prašome pasirinkti kitą."
+
+msgid "Delete"
+msgstr "Šalinti"
+
+msgid "Restoring settings finished successfully"
+msgstr "Nustatymai sėkmingai atkurti"
+
+msgid "Restoring settings failed"
+msgstr "Nustatymų atkūrimas nepavyko"
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+"Jūs tikrai norite paleisti\n"
+"šį scenarijų:\n"
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr "VTi Atsarginių kopijų įrankis vykdo savą scenarijų ..."
+
+msgid "Restore running"
+msgstr "Vyksta atkūrimas"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Jūs tikrai norite šalinti\n"
+"šią atsarginę kopiją:\n"
+
+msgid "Software"
+msgstr "Programinė įranga"
+
+msgid "News"
+msgstr "Naujienos"
+
+msgid "System Tools"
+msgstr "Sistemos įrankiai"
+
+msgid "Cam Center"
+msgstr "Emuliatoriai"
+
+msgid "VTI Panel"
+msgstr "VTi valdymo langas"
+
+msgid "VTI Cam Center"
+msgstr "VTi Emu centras"
+
+msgid "select or install your favourite cam"
+msgstr "pasirinkti, arba įdiegti mėgstamus Emu"
+
+msgid "VTI System Info"
+msgstr "VTi Informacija apie sistemą"
+
+msgid "Infos about your Vu+ STB"
+msgstr "Informacija apie jūsų Vu+"
+
+msgid "VTI System Tools"
+msgstr "VTi sistemos įrankiai"
+
+msgid "manage your Vu+ STB"
+msgstr "valdyti savo Vu+ "
+
+msgid "VTI Software Tools"
+msgstr "VTi Programų įrankiai"
+
+msgid "backup/restore or install software"
+msgstr "programų instaliacija, jų atsarginių kopijų sukūrimas/atkūrimas"
+
+msgid "VTI Software Manager"
+msgstr "VTi Programų tvarkytuvas"
+
+msgid "install/download software for your Vu+"
+msgstr "parsisiųsti/įdiegti Vu+ programinę įrangą"
+
+msgid "manual Installer"
+msgstr "rankinis įdiegimas"
+
+msgid "install .tar.gz or ipkg manually"
+msgstr ".tar.gz ir ipkg rankinis įdiegimas"
+
+msgid "Plugins"
+msgstr "Įskiepiai"
+
+msgid "open enigma2 Plugin Menu"
+msgstr "atverti enigma2 įskiepio meniu"
+
+msgid "VTI Sub Menu"
+msgstr "VTi Submeniu"
+
+msgid "Restore and backup installed channellist and plugins"
+msgstr "Kopijuoti atsargai/atkurti kanalų sąrašą ir įskiepius"
+
+msgid "Image Backup / Restore"
+msgstr "Atvaizdo atsarginis kopijavimas/atkūrimas"
+
+msgid "backup or flash an image"
+msgstr "kopijuoti atsargai, ar įdiegti atvaizdą"
+
+msgid "Image Flash Tool"
+msgstr "Atvaizdo diegimo įrankis"
+
+msgid "download images from vuplus-support.org and flash it"
+msgstr "parsisiųsti atvaizdus iš vuplus-support.org ir juos įdiegti"
+
+msgid "Driver Manager"
+msgstr "Tvarkyklių tvarkytuvas"
+
+msgid "install/download driver for your Vu+"
+msgstr "parsisiųsti/įdiegti Vu+ tvarkykles"
+
+msgid "Expert Backup / Restore"
+msgstr "Išmanus atsarginis kopijavimas/atkūrimas"
+
+msgid "backup or restore your settings (only for experts)"
+msgstr "sukurti/atkurti nuostatų atsarginę kopiją (tik ekspertams)"
+
+msgid "Install .tar.gz "
+msgstr "Įdiegti.tar.gz "
+
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Įdiegti visus .tar.gz iš /tmp "
+
+msgid "Install Ipkg"
+msgstr "Įdiegti Ipkg"
+
+msgid "Install local ipkg"
+msgstr "Įdiegti vietinį Ipkg"
+
+msgid "Advanced Ipkg Install"
+msgstr "Išplėstinis Ipkg įdiegimas"
+
+msgid "Install local ipkg with --force overwrite"
+msgstr "Įdiegti vietinį Ipkg su --force overwrite"
+
+msgid "VTI manual Addon Installer"
+msgstr "VTi Rankinis priedų įdiegimas"
+
+msgid "Update Image"
+msgstr "Atnaujinti atvaizdą"
+
+msgid "Update your STB image from Internet."
+msgstr "Atnaujinti atvaizdą iš interneto."
+
+msgid "VTI Image Tools"
+msgstr "VTi Atvaizdo įrankiai"
+
+msgid "Device Manager"
+msgstr "Įtaisų tvarkytuvas"
+
+msgid "manage your HDD's and USB devices"
+msgstr "valdyti HDD ur USB laikmenas"
+
+msgid "File Manager"
+msgstr "Failų tvarkytuvas"
+
+msgid "open Filemanager"
+msgstr "atverti failų tvarkytuvą"
+
+msgid "Network Browser"
+msgstr "Tinklo naršyklė"
+
+msgid "open NetworkBrowswer"
+msgstr "atverti tinklo naršyklę"
+
+msgid "Remove preinstalled packages from image"
+msgstr "Šalinti paketus iš atvaizdo"
+
+msgid "EPG Settings"
+msgstr "EPG nuostatos"
+
+msgid "set EPG path, restore or backup EPG data"
+msgstr "nurodyti EPG kelią, atkurti, arba išsaugoti EPG duomenis"
+
+msgid "Custom Main Menu"
+msgstr "Personalizuotas pagrindinis meniu"
+
+msgid "delete entries from main menu of your VU+"
+msgstr "pašalinti įrašus iš Vu+ pagrindinio meniu"
+
+msgid "Cronjob Manager"
+msgstr "Cron užduočių tvarkytuvas"
+
+msgid "manage cronjobs of your VU+"
+msgstr "valdyti savo Vu+ Cron užduotis"
+
+msgid "Run Command"
+msgstr "Paleisti komandą"
+
+msgid "run executable files of your VU+"
+msgstr "paleisti vykdomuosiui failus Vu+ aparate"
+
+msgid "Set VTI Panel Password"
+msgstr "Nustatyti VTi lango slaptažodį"
+
+msgid "activate/change password for VTI Panel"
+msgstr "aktyvuoti/pakeisti VTi lango slaptažodį"
+
+msgid "Set Root Password"
+msgstr "Nustatyti root slaptažodį"
+
+msgid "set root password of your stb"
+msgstr "nustatyti Vu+ root slaptažodį"
+
+msgid "Services"
+msgstr "Kanalai"
+
+msgid "enable/disable Systemservices"
+msgstr "įjungti išjungti sistemos tarnybas"
+
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "USB DVB-T/C/S2 skydas"
+
+msgid "manage Sundtek USB DVB Stick"
+msgstr "valdyti Sundtek USB DVB imtuvą"
+
+msgid "Remove WebBrowser"
+msgstr "Šalinti interneto naršyklę"
+
+msgid "removes WebBrowser and dependencies"
+msgstr "pašalins interneto naršyklę ir priklausomybes"
+
+msgid "Remove Opera HbbTV"
+msgstr "Šalinti Opera HbbTV"
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr "pašalins Opera HbbTV ir priklausomybes"
+
+msgid "IPK Uninstaller"
+msgstr "IPK šalinimas"
+
+msgid "remove seletected package from stb"
+msgstr "pašalinti pasirinktą paketą"
+
+msgid "Purge Enigma2 Crashlogs"
+msgstr "Išvalyti Enigma2 lūžio žurnalus"
+
+msgid "selective wipe of enigma2 crashlogs"
+msgstr "selektyvus enigma2 lūžio žurnalų šalinimas"
+
+msgid "Swapfile"
+msgstr "Mainų failas"
+
+msgid "create and manage your Swapfile"
+msgstr "sukurti ir valdyti mainų atminties failą"
+
+msgid "Set NTP Time"
+msgstr "Nustatyti NTP laiką"
+
+msgid "refresh time for enigma2 from ntp server"
+msgstr "enigma2 laiko sutikrinimas su NTP serveriu"
+
+msgid "Harddisk Standby"
+msgstr "HDD budintis režimas"
+
+msgid "turns hdd immediately into standby mode"
+msgstr "nedelsiant perjungs HDD į budėjimo režimą"
+
+msgid "Bitrate Viewer"
+msgstr "Bitų dažnio peržiūra"
+
+msgid "Show Advanced Bitrate infos"
+msgstr "Rodyti išsamią bitų dažnio informaciją"
+
+msgid "ECM Info"
+msgstr "ECM informacija"
+
+msgid "show ecm infos from temp dir"
+msgstr "rodyti ECM informaciją iš laikino katalogo"
+
+msgid "News about VTI"
+msgstr "VTi naujienos"
+
+msgid "show Feed updates"
+msgstr "rodyti šaltinių atnaujinimus"
+
+msgid "Info about current system"
+msgstr "Informacija apie sistemą"
+
+msgid "show information about processes, load, mounts ..."
+msgstr "rodyti informaciją apie procesus, apkrovas, pajungimus..."
+
+msgid "Show processes"
+msgstr "Rodyti procesus"
+
+msgid "show running processes"
+msgstr "rodyti veikiančius procesus"
+
+msgid "Show filesystem mounts"
+msgstr "Rodyti pajungimus"
+
+msgid "show active mounts"
+msgstr "rodyti aktyvius pajungimus"
+
+msgid "Harddisk Temperature"
+msgstr "HDD temperatūra"
+
+msgid "show HDD Temperature"
+msgstr "rodyti HDD temperatūrą"
+
+msgid "Show Consolesessions"
+msgstr "Rodyti komandinės eilutės sesijas"
+
+msgid "show all active user sessions"
+msgstr "rodyti aktyvias vartotojo sesijas"
+
+msgid "Show Uptime"
+msgstr "Rodyti nepertraukiamo darbo laiką"
+
+msgid "show operating system uptime of stb"
+msgstr "rodyti operacinės sistemos nepertraukiamo darbo laiką"
+
+msgid "Show Networkconnections"
+msgstr "Rodyti tinklo prisijungimus"
+
+msgid "show all connected sockets from ip-stack"
+msgstr "rodyti aktyvius IP prisijungimus"
+
+msgid "Show Systemmemory Info"
+msgstr "Rodyti sistemos atminties informaciją"
+
+msgid "show whole system memory usage"
+msgstr "rodyti visos sistemos atminties naudojimą"
+
+msgid "Show Networkdetails"
+msgstr "Rodyti tinklo informaciją"
+
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr "rodo priskirtus IP adresus, maršrutizaciją ir vardų sererį"
+
+msgid "Show diskspace"
+msgstr "Rodyti vietą diske"
+
+msgid "show diskpace"
+msgstr "Rodyti disko vietą"
+
+msgid "Image Info"
+msgstr "Atvaizdo informacija"
+
+msgid "show simple Image infos"
+msgstr "rodyti bendrąją atvaizdo informaciją"
+
+msgid "VTI System Infos"
+msgstr "VTi Sistemos informacija"
+
+msgid "VTI Backupsuite"
+msgstr "VTi Atsarginių kopijų įrankis"
+
+msgid "Backup installed channellist and plugins"
+msgstr "Kanalų sąrašo ir įskiepių atsarginė kopija"
+
+msgid "Restore installed channellist and plugins"
+msgstr "Atkurti kanalų sąrašą ir įskiepius"
+
+msgid "Backup Image"
+msgstr "Atvaizdo atsarginė kopija"
+
+msgid "Backup your running STB image."
+msgstr "Darykite veikiančio atvaizdo atsargines kopijas."
+
+msgid "Restore Image"
+msgstr "Atkurti atvaizdą"
+
+msgid "Restore your backuped STB image."
+msgstr "Atkurti iš anksčiau sukurto atvaizdo."
+
+msgid "Choose backup location"
+msgstr "Pasirinkite atsarginės kopijos vietą"
+
+msgid "Select your backup device. "
+msgstr "Pasirinkite įrenginį atsarginei kopijai. "
+
+msgid "VTI Image Backup/Restore"
+msgstr "VTi Atvaizdo atsarginis kopijavimas/atkūrimas"
+
+msgid "Backup system settings"
+msgstr "Sistemos nuostatų atsarginė kopija"
+
+msgid "Backup your STB settings."
+msgstr "Darykite atsargines kopijas."
+
+msgid "Restore system settings"
+msgstr "Atkurti sistemos nustatymus"
+
+msgid "Restore your STB settings."
+msgstr "Atkurti Vu+ nustatymus."
+
+msgid "Advanced restore"
+msgstr "Išplėstinis atkūrimas"
+
+msgid "Restore your backups by date."
+msgstr "Atkurti atsarginę kopiją pagal datą."
+
+msgid "Choose backup files"
+msgstr "Pasirinkite atsarginės kopijos  failus"
+
+msgid "Select files for backup. "
+msgstr "Pasirinkite failus atsarginei kopijai. "
+
+msgid "VTI Expert Backup/Restore"
+msgstr "VTi Išmanus atsarginis kopijavimas/atkūrimas"
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Kad tęsti, nuotolinio valdymo pulte spauskite 'OK'."
+
+msgid "VTI .tar.gz installer"
+msgstr "VTi .tar.gz paketų įdiegimas"
+
+msgid "VTI IPK Installer"
+msgstr "VTi IPK įdiegimas"
+
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Įrenginių tvarkytuvas neįdiegtas!\n"
+"Įdiekite jį."
+
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"Failų  tvarkytuvas neįdiegtas!\n"
+"Įdiekite jį."
+
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"Tinklo naršyklė neįdiegta!\n"
+"Įdiekite ją."
+
+msgid "VTI Harddisk Standbymode"
+msgstr "VTi HDD budėjimo režimas"
+
+msgid "VTI show ecm.info"
+msgstr "VTi Rodyti ECM informaciją"
+
+msgid "VTI show running processes"
+msgstr "VTi Rodyti veikiančius procesus"
+
+msgid "VTI show mounted filesystems"
+msgstr "VTi Pajungtos failų sistemos"
+
+msgid "VTI show networkconfiguration and routingtable"
+msgstr "VTi Tinklo konfigūracija ir maršrutizacija"
+
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "HDD gamintojas, tipas ir temperatūra :"
+
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "Ar tikrai norite nustatyti HDD budėjimo režimu?"
+
+msgid "HDD Temperature"
+msgstr "HDD temperatūra"
+
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check "
+"harddisk temperature."
+msgstr ""
+"Vidinių HDD nėra!!! \n"
+"\n"
+"Prieš šioje pozicijoje tikrindami HDD temperatūrą, įdiekite vidinį HDD."
+
+msgid "Active Usersessions :"
+msgstr "Aktyvios sesijos :"
+
+msgid "Current Time, Operating Time and Load Average :"
+msgstr "Dabartinis laikas, darbo laikas ir apkrovimo vidurkis:"
+
+msgid "Uptime"
+msgstr "Nepertraukiamo darbo laikas"
+
+msgid "VTI show network stats"
+msgstr "VTi Rodyti tinklo statistika"
+
+msgid "Current Memory Usage :"
+msgstr "Dabar naudojama atminties :"
+
+msgid "Memory Usage"
+msgstr "Atminties naudojimas"
+
+msgid "VTI show free diskspace"
+msgstr "VTi Laisvos vietos diske"
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Jūs tikrai norite atkurti savo Enigma2 atsarginę kopiją?\n"
+"Enigma2 po atkūrimo pasileis iš naujo"
+
+msgid "Sorry no backups found!"
+msgstr "Atsarginių kopijų nerasta!"
+
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+"Meniu dar nerealizuotas!!! \n"
+"\n"
+"drąsiai susikoduokite jį dabar ;)"
+
+msgid "Install/update finished."
+msgstr "Įdiegimas/atnaujinimas baigtas."
+
+msgid "Do you want to reboot your STB?"
+msgstr "Ar norite savo aparatą paleisti iš naujo?"
+
+msgid "VTI Restore Image"
+msgstr "VTi Atkurti atvaizdą"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+"Atvaizdo nėra!!! \n"
+"\n"
+"Nukopijuokite USB atvaizdą, arba įkelkite į /media/hdd/vuplus/MODELIS ."
+
+msgid "VTI-Backup done."
+msgstr "VTi Atsarginis kopijavimas atliktas."
+
+msgid "VTI-Backup failed."
+msgstr "VTi Atsarginis kopijavimas nepavyko."
+
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr "Nėra HDD, arba HDD su įjungtu S.M.A.R.T"
+
+msgid "At"
+msgstr "AT"
+
+msgid "Could not grep Uptime Information from busybox"
+msgstr "Nepavyksta išgauti iš busybox informacijos apie nepertraukiamą darbą"
+
+msgid "Could not grep socket information from busybox"
+msgstr "Nepavyksta išgauti iš busybox informacijos apie prisijungimus"
+
+msgid "Could not grep Memory Usage information from busybox"
+msgstr "Nepavyksta išgauti iš busybox informacijos apie atminties panaudojimą"
+
+msgid "VTI Status List Menu"
+msgstr "VTi Stovio sąrašo meniu"
+
+msgid "Stop Swap"
+msgstr "Išjungti mainus"
+
+msgid "Start Swap"
+msgstr "Įjungti mainus"
+
+msgid "VTI SwapFile Menu"
+msgstr "VTi Mainų failo meniu"
+
+msgid "Stop"
+msgstr "Stabdyti"
+
+msgid "Restart"
+msgstr "Paleisti iš naujo"
+
+msgid "VTI Services Menu"
+msgstr "VTi Tarnybų meniu"
+
+msgid "Uninstall"
+msgstr "Šalinti"
+
+msgid "Force uninst."
+msgstr "Priverstinai išdiegti"
+
+msgid "VTI IPK Uninstaller Menu"
+msgstr "VTi IPK šalinimo meniu"
+
+msgid "Remove Skin"
+msgstr "Šalinti temą"
+
+msgid "VTI Skinremove Menu"
+msgstr "VTi Temų šalinimo meniu"
+
+msgid "Remove selected"
+msgstr "Pašalinti parinktus"
+
+msgid "Remove all"
+msgstr "Pašalinti viską"
+
+msgid "Remove older 7 Days"
+msgstr "Šalinti senesnius, nei 7 dienų"
+
+msgid "VTI Crashlogremove Menu"
+msgstr "VTi Lūžių įrašų šalinimo meniu"
+
+msgid "VTI USB DVB-Panel"
+msgstr "VTi USB DVB skydas"
+
+msgid "not in use"
+msgstr "nenaudojama"
+
+msgid "MB swapfile on "
+msgstr "MB mainų failas "
+
+msgid "Are you sure to delete swapfile ?"
+msgstr "Ar tikrai norite panaikinti mainų failą?"
+
+#, python-format
+msgid "Are you sure to %s ?"
+msgstr "Ar tikrai norite %s?"
+
+msgid "VTI Start Service"
+msgstr "VTi Įjungti paslaugą"
+
+msgid "VTI Stop Service"
+msgstr "VTi Išjungti paslaugą"
+
+msgid "VTI Restart Service"
+msgstr "VTi Paleisti tarnybą iš naujo"
+
+msgid "VTI Skinremoval"
+msgstr "VTi Temų šalinimas"
+
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr "VTi šalinti Enigma2 lūžio žurnalus"
+
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr "Šalinti senesnius, nei 7 dienų lūžio žurnalus"
+
+msgid "stopping swap for "
+msgstr "mainų failas stabdomas "
+
+msgid "swapfile was deleted successfully"
+msgstr "mainų failas sėkmingai pašalintas"
+
+msgid "VTI create SwapFile"
+msgstr "VTi Sukurti mainų failą"
+
+msgid "no swapfile active..."
+msgstr "nėra aktyvaus mainų atminties failo..."
+
+msgid "swapfile was created successfully"
+msgstr "mainų failas sėkmingai sukurtas"
+
+msgid "VTI IPK Uninstall"
+msgstr "VTi IPK šalinimas"
+
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr "VTi IPK šalinimas ignoruojant priklausomybes"
+
+msgid "Stop Cam"
+msgstr "Stabdyti Emu"
+
+msgid "Start Cam"
+msgstr "Paleisti Emu"
+
+msgid "Restart Cam"
+msgstr "Paleisti Emu iš naujo"
+
+msgid "Manage Cams"
+msgstr "Tvarkyti Emu"
+
+msgid "Select Cam and press OK to activate"
+msgstr "Pasirinkite Emu ir kad aktyvuoti, spauskite 'OK'"
+
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr "NĖRA AKTYVAUS EMU !!! Nepavyks Emu paleisti iš naujo"
+
+msgid "cam info : "
+msgstr "Emu info : "
+
+msgid " -- "
+msgstr " -- "
+
+msgid "Starting cam : "
+msgstr "Paleidžiamas Emu: "
+
+msgid "Stopping cam : "
+msgstr "Stabdomas Emu: "
+
+msgid "Restarting cam : "
+msgstr "Emu paleidžiamas iš naujo: "
+
+msgid "Video"
+msgstr "Vaizdas"
+
+msgid "Audio"
+msgstr "Garsas"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Max"
+msgstr "Maks."
+
+msgid "Current"
+msgstr "Dabartinis"
+
+msgid "Average"
+msgstr "Vidurkis"
+
+msgid "Reload"
+msgstr "Atnaujinti"
+
+msgid "Download or delete Cam"
+msgstr "Parsisiųsti/pašalinti Emu"
+
+msgid "Do you want to remove the package:\n"
+msgstr "Ar norite pašalinti paketą:\n"
+
+msgid "Do you want to upgrade the package:\n"
+msgstr "Ar norite atnaujinti paketą:\n"
+
+msgid "Do you want to install the package:\n"
+msgstr "Ar norite įdiegti paketą:\n"
+
+msgid "Change Root Password"
+msgstr "Pakeisti root slaptažodį"
+
+msgid "Set Password"
+msgstr "Nustatyti slaptažodį"
+
+msgid "new Random"
+msgstr "naujas atsitiktinis"
+
+msgid "virt. Keyboard"
+msgstr "virtuali klaviatūra"
+
+msgid "Enter new Password"
+msgstr "Įrašykite naują slaptažodį"
+
+#, python-format
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+"root vartotojo slabtažodis pakeistas į:\n"
+"%s "
+
+msgid "Unable to change/reset password for root user"
+msgstr "Nepavyko pakeisti/atkurti root slaptažodį"
+
+msgid "Enter your password here:"
+msgstr "Čai įrašykite slaptažodį:"
+
+msgid "Software Update"
+msgstr "Programinės įrangos naujinimas"
+
+msgid "Manage your VU+ Team Image"
+msgstr "Tvarkyti Vu+ komandos atvaizdą"
+
+msgid "VTI CronManager"
+msgstr "VTi Cron tvarkytuvas"
+
+msgid "Add"
+msgstr "Pridėti"
+
+msgid "Modify"
+msgstr "Redaguoti"
+
+msgid "Execute"
+msgstr "Vykdyti"
+
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Komanda: %s įvykdyta"
+
+msgid "your cronjob"
+msgstr "jūsų Cron užduotis"
+
+msgid "Add a job to CronManager"
+msgstr "Cron tvarkyklei duoti užduotį"
+
+msgid "Save"
+msgstr "Įrašyti"
+
+msgid "Command to execute : "
+msgstr "Komanda vykdymui : "
+
+msgid "Additional command options : "
+msgstr "Papildomos komandos nuostatos : "
+
+msgid "Input minute : "
+msgstr "Įvesties minutė : "
+
+msgid "Input hour : "
+msgstr "Įvesties valanda : "
+
+msgid "Input day : "
+msgstr "Įvesties diena : "
+
+msgid "Input month : "
+msgstr "Įvesties mėnuo : "
+
+msgid "Input weekday : "
+msgstr "Įveskite savaitės dieną : "
+
+msgid "Modify a CronManager job"
+msgstr "Redaguoti Cron tvarkyklės užduotį"
+
+msgid "Select a executable file for a cronjob"
+msgstr "Pasirinkite vykdomąjį failą Cron užduočiai"
+
+msgid "File is not executable"
+msgstr "Tai ne vykdomasis failas"
+
+msgid " "
+msgstr " "
+
+msgid "chmod 755"
+msgstr "chmod 755"
+
+msgid "NTP server "
+msgstr "NTP serveris"
+
+msgid " is activated."
+msgstr " aktyvuota."
+
+msgid "NTP-Server Country Selection"
+msgstr "NTP serverio šalies pasirinkimas"
+
+# klaida???
+msgid "NTP-Server Contenant Selection"
+msgstr "NTP serverio pasirinkimas"
+
+msgid "Update"
+msgstr "Atnaujinti"
+
+msgid "show Updates"
+msgstr "rodyti atnaujinimus"
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr "Atrodo, kad jūsų interneto ryšys netvarkoj, patikrinkite"
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr "Naujienų failo išanalizuoti nepavyksta, kantrybės ir bandykite vėliau"
+
+msgid "Upgradable Packages"
+msgstr "Atnaujintini paketai"
+
+msgid "show News"
+msgstr "rodyti naujienas"
+
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+"\n"
+"Paketas : %s \n"
+"sena versija : %s \n"
+"nauja versija : %s\n"
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Atnaujinimų nėra"
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+"Yra atnaujinimų.\n"
+"Ar atidaryti programinės įrangos atnaujinimo meniu?"
+
+msgid "VTI custom main menu"
+msgstr "VTi Personalizuotas pagrindinis meniu"
+
+msgid "Default"
+msgstr "Numatyta"
+
+msgid "Execute: "
+msgstr "Vykdyti: "
+
+msgid "VTI ExeManager"
+msgstr "VTi Exe tvarkytuvas"
+
+#, python-format
+msgid "File %s was not found"
+msgstr "Failo %s nerasta"
+
+#, python-format
+msgid "File %s is not executable"
+msgstr "Failas %s nėra vykdomasis"
+
+msgid "your executable"
+msgstr "jūsų vykdomasis"
+
+msgid "no"
+msgstr "ne"
+
+msgid "yes"
+msgstr "taip"
+
+msgid "Add a executable to ExeManager"
+msgstr "EXE tvarkyklei užduoti vykdymą"
+
+msgid "Show command output : "
+msgstr "Rodyti komandų atsakus : "
+
+msgid "Modify execute command"
+msgstr "Redaguotii komandos vykdymą"
+
+msgid "Select a file to execute"
+msgstr "Pasirinkite vykdomą failą"
+
+msgid "Screenshot"
+msgstr "Ekrano nuotrauka"
+
+msgid "PROCESS"
+msgstr "PROCESAS"
+
+msgid "CPU %"
+msgstr "CPU %"
+
+msgid "MEM %"
+msgstr "ATM %"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "DEVICE"
+msgstr "ĮRENGINYS"
+
+msgid "MOUNTPOINT"
+msgstr "PAJUNGIMO TAŠKAS"
+
+msgid "FS"
+msgstr "FS"
+
+msgid "SIZE"
+msgstr "DYDIS"
+
+msgid "FREE"
+msgstr "LAISVA"
+
+msgid "KERNEL : "
+msgstr "BRANDUOLYS : "
+
+msgid "IMAGE : "
+msgstr "ATVAIZDAS: "
+
+msgid "RAM"
+msgstr "RAM"
+
+msgid "SWAP"
+msgstr "MAINAI"
+
+msgid "USED :"
+msgstr "NAUDOJAMA : "
+
+msgid "FREE :"
+msgstr "LAISVA:"
+
+msgid "TOTAL :"
+msgstr "IŠ VISO :"
+
+msgid "UPTIME : "
+msgstr "NEIŠJUNGTAS : "
+
+msgid "LOAD : "
+msgstr "APKROVA : "
+
+msgid "TEMP : "
+msgstr "TEMPERATŪRA : "
+
+msgid "FAN : "
+msgstr "Ventiliatorius:"
+
+msgid "RECEIVED"
+msgstr "PRIIMTA"
+
+msgid "SENT"
+msgstr "IŠSIŲSTA"
+
+msgid "VTI EPG Panel"
+msgstr "VTi EPG skydas"
+
+msgid "EPG Path :"
+msgstr "EPG kelias:"
+
+msgid "Save EPG cache to epg.dat"
+msgstr "Įrašyti EPG podėlį į epg.dat"
+
+msgid "Load EPG data from epg.dat"
+msgstr "EPG duomenis imti iš epg.dat"
+
+msgid "Delete broken epg.dat"
+msgstr "Šalniti sugadintą epg.dat"
+
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr "EPG podėlis įrašytas į %s"
+
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr "EPG duomenų įkėlimas iš %s baigtas"
+
+msgid "Clearing EPG DB finished"
+msgstr "EPG duomenų bazės išvalymas baigtas"
+
+msgid "Please wait..."
+msgstr "Palaukite..."
+
+msgid "Verifying your internet connection..."
+msgstr "Tikrinamas interneto ryšys..."
+
+msgid "Press OK on your remote control to continue."
+msgstr "Kad tęsti, spauskite 'OK'."
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+"VTi atsarginių kopijų įrankiui kuriant automatinę kopiją, kilo problema. Jūs "
+"tikrai norite tęsti?"
+
+msgid "Upgrading STB... Please wait"
+msgstr "Vyksta atnaujinimas... Palaukite"
+
+msgid "Your network is not working. Please try again."
+msgstr "Jūsų tinklas neveikia. Pabandykite dar kartą."
+
+msgid "Downloading"
+msgstr "Parsiunčiama"
+
+msgid "Upgrading"
+msgstr "Atnaujinama"
+
+msgid "Installing"
+msgstr "Diegiama"
+
+msgid "Removing"
+msgstr "Šalinama"
+
+msgid "Configuring"
+msgstr "Konfigūravimas"
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr "Baigta - įdiegta, arba atnaujinta %d paketų"
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+"jūsų Vu+ galėjo tapti netinkamu naudoti. Vadovaukitės vartotojo vadovu, "
+"prieš paleisdami imtuvą iš naujo."
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+"Paketai neatnaujinti. Patikrinkite tinklo nustatymus ir bandykite dar kartą."
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+"Jūsų aparatas neprijungtas prie interneto. Sutvarkykite tai ir bandykite dar "
+"kartą."
+
+msgid "Upgrade finished."
+msgstr "Atnaujinimas baigtas."
+
+msgid "VTi Image Download"
+msgstr "VTi Atsisiųsti atvaizdą"
+
+msgid "Do your really want to cancel the image download ?"
+msgstr "Jūs tikrai norite atšaukti atvaizdo atsisiuntimą?"
+
+msgid "Select image for flash process"
+msgstr "Pasirinkite atvaizdą įdiegimui"
+
+msgid "Install this image"
+msgstr "Įdiegti šį atvaizdą"
+
+msgid "VTI Image Flash Tool"
+msgstr "VTi Atvaizdo diegimo įrankis"
+
+msgid " downloading available image information"
+msgstr " parsiunčiama informacija apie atvaizdą"
+
+msgid "Flash extracted image from storage device"
+msgstr "Diegiant, atvaizdas išskleistas iš laikmenos"
+
+#, python-format
+msgid "Image: %s"
+msgstr "Atvaizdas: %s"
+
+msgid "Download image from vuplus-support.org and flash it"
+msgstr "Parsisiųsti atvaizdą iš vuplus-support.org ir jį įdiegti"
+
+msgid "Sorry ..."
+msgstr "Atleiskite ..."
+
+msgid "The image list can not be loaded, please be patient and try again later"
+msgstr "Atvaizdų sąrašo įkelti nepavyksta, kantrybės ir bandykite vėliau"
+
+msgid ""
+"This will flash the selected image without further questions.\n"
+"Your current software installation will be deleted and overwritten\n"
+"Really continue ?"
+msgstr ""
+"Pasirinktas atvaizdas bus įdiegtas be tolimesnių klausimų.\n"
+"Visi dabartiniai duomenys bus ištrinti ir perrašyti naujais\n"
+"Ar tikrai tęsti ?"
+
+msgid "Please select medium to use as image location"
+msgstr "Pasirinkite laikmeną atvaizdui"
+
+msgid ""
+"Error at creating download destination !\n"
+"Please select another device."
+msgstr ""
+"Parsisiuntimui vietos sukurti nepavyko !\n"
+"Pasirinkite kitą įrenginį."
+
+msgid ""
+"There is to low free memory at choosen device\n"
+"Please select another device."
+msgstr ""
+"Pasirinktame įrenginyje trūksta laisvos atminties\n"
+"Pasirinkite kitą įrenginį."
+
+#, python-format
+msgid "Download %s"
+msgstr "Parsisiųsti %s"
+
+msgid "Extracting image ..."
+msgstr "Atvaizdas išskleidžiamas..."
+
+msgid ""
+"Sorry, download verification failed\n"
+"Please try again."
+msgstr ""
+"Parsiuntimo patikrinimas nepavyko\n"
+"Bandykite dar kartą."
+
+msgid "Verifying download ..."
+msgstr "Tikrinami atsisiųsti duomenys..."
+
+msgid ""
+"This will flash the downloaded image.\n"
+"Your current software installation will be deleted and overwritten\n"
+"If you cancel here the downloaded image will be stored and you flash it "
+"later\n"
+"Really continue ?"
+msgstr ""
+"Bus įdiegtas parsisiųstas atvaizdas.\n"
+"Visi dabartiniai duomenys bus ištrinti ir perrašyti naujais\n"
+"Jei jūs čia nutrauksite, parsiųstas atvaizdas bus išsaugotas ir galėsite jį "
+"įsikelti vėliau\n"
+"Ar tikrai tęsti ?"
+
+msgid ""
+"Sorry, necessary files are missing\n"
+"Please try again."
+msgstr ""
+"Trūksta būtinų failų\n"
+"Bandykite dar kartą."
+
+msgid ""
+"Sorry, extracting of image failed\n"
+"Please try again."
+msgstr ""
+"Atvaizdo išskleisti nepavyko\n"
+"Bandykite dar kartą."
+
+msgid "VTi Image Flash Process"
+msgstr "VTi Atvaizdo įdiegimas"
+
+msgid "Change password for VTI Panel"
+msgstr "Pakeisti VTi lango slaptažodį"
+
+msgid "Deactivate"
+msgstr "Deaktyvuoti"
+
+msgid "Input your new VTI Panel password : "
+msgstr "Įveskite naują VTi lango slaptažodį : "
+
+msgid "Input password for VTI Panel"
+msgstr "Įveskite VTi lango slaptažodį"
+
+msgid "Input your VTI Panel password : "
+msgstr "Įveskite VTi lango slaptažodį : "
+
+msgid "VTI-Backup is running..."
+msgstr "VTi Atsarginis kopijavimas..."
+
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Jūsų atsarginės kopijos vieta neskirta rašymui.\n"
+"Prašome pasirinkti kitą vietą."
+
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr "VTi Atsarginis kopijavimas - Išsirinkite kopijuojamus failus/katalogus"
+
+msgid "Deselect"
+msgstr "Atšaukti pasirinkimą"
+
+msgid "Select"
+msgstr "Pasirinkti"
+
+msgid "VTI-Restore backups"
+msgstr "VTi Atkurti iš kopijos"
+
+msgid "VTI-Restore is running..."
+msgstr "VTi Vyksta atkūrimas..."
+
+msgid "Restore is running..."
+msgstr "Vyksta atkūrimas..."
+
+msgid "VTi Restore Image"
+msgstr "VTi Atvaizdo atkūrimas"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or "
+"ultimo ."
+msgstr ""
+"Atvaizdo nėra!!! \n"
+"\n"
+"Nukopijuokite USB atvaizdą, arba įkelkite į /media/hdd/vuplus/duo/solo/uno, "
+"ar ultimo ."
+
+msgid "[ ok ]"
+msgstr "[ OK ]"
+
+#, python-format
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
+"\n"
+"\n"
+"Išsamesnės informacijos\n"
+"ieškokite\n"
+"%s"
+
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
+"Vyksta pasirinkto atvaizdo atkūrimas.\n"
+"Pabaigus, jūsų Vu+ bus paleistas iš naujo\n"
+"Neišjunginėkite !!!\n"
+"\n"
+"Palaukite ..."
+
+msgid ""
+"Flash process of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
+"Vyksta pasirinkto atvaizdo diegimas.\n"
+"Pabaigus, jūsų Vu+ bus paleistas iš naujo\n"
+"Neišjunginėkite !!!\n"
+"\n"
+"Palaukite ..."
+
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
+"Vyksta jūsų veikiančio atvaizdo  atsarginis kopijavimas.\n"
+"Tai užtruks keletą minučių\n"
+"Palaukite ..."
+
+msgid "preparing backup of image"
+msgstr "ruošiama atvaizdo atsarginė kopija"
+
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
+"Atsarginės kopijos katalogo sukurti nepavyko\n"
+"Pasirinkite kitą vietą išsaugojimui."
+
+msgid "The system is missing some necessary files !"
+msgstr "Sistemoje trūksta keleto būtinų failus!"
+
+msgid "Backup of root filesystem failed"
+msgstr "Šakninės failų sistemos atsarginė kopija nepavyko"
+
+msgid "backup root filesystem"
+msgstr "šakninės failų sistemos atsarginė kopija"
+
+msgid "Error at preparing system for backup"
+msgstr "Atsarginės kopijos paruošti nepavyko"
+
+msgid "create flashable file of root filesystem"
+msgstr "sukurti šakninės failų sistemos įdiegiamą failą"
+
+msgid "backup of running kernel"
+msgstr "veikiančio branduolio atsarginė kopija"
+
+msgid "Backup of kernel failed"
+msgstr "Branduolio atsarginė kopija nepavyko"
+
+msgid "Image backup finished successfully"
+msgstr "Atvaizdo atsarginė kopija sukurta"
+
+msgid "A new skin was installed\n"
+msgstr "Įdiegta nauja tema\n"
+
+msgid "Do you want to open the skin choice list?"
+msgstr "Jūs norite atverti temų pasirinkimo sąrašą?"
+
+msgid "Remove xbmc"
+msgstr "Šalinti XBMC"
+
+msgid "uninstall xbmc and dependend packages"
+msgstr "pašalinti XBMC ir priklausomus paketus"
+
+msgid "Load EPG data from file every X minutes (0 = off)"
+msgstr "EPG duomenis imti iš failo kas X min. (0 = išjungta)"
+
+msgid "Save EPG data every X minutes to file (0 = off)"
+msgstr "EPG duomenis išsaugoti faile kas X min. (0 = išjungta)"
+
+msgid "Enable EPG client mode (don't save EPG file)"
+msgstr "Įjungti EPG kliento režimą (neišsaugo EPG failo)"
+
+msgid "Setup - EPG"
+msgstr "Nustatymas - EPG"
+
+msgid "Download services lists"
+msgstr "Kanalų sąrašo parsisiuntimas"
+
+msgid "Download of services list failes, please be patient and try again later"
+msgstr "Kanalų sąrašo įkelti nepavyksta, kantrybės ir bandykite vėliau"
+
+msgid "Sorry, creating download folder failed"
+msgstr "Sukurti parsisiuntimui katalogą nepavyko"
+
+msgid ""
+"Sorry, there are some mandatory files missing\n"
+"Please try antoher services list."
+msgstr ""
+"Trūksta kelių būtinų failų\n"
+"Bandykite kitą kanalų sąrašą."
+
+msgid ""
+"Sorry, extracting of services list failed\n"
+"Please try again."
+msgstr ""
+"Kanalų sąrašo išskleisti nepavyko.\n"
+"Bandykite dar kartą."
+
+msgid "Loading new services list finished succesfully."
+msgstr "Naujas kanalų sąrašas įkeltas."
+
+msgid ""
+"Loading the new services list failed.\n"
+"Please try again"
+msgstr ""
+"Naujo kanalų sąrašo įkelti nepavyko.\n"
+"Bandykite dar kartą."
+
+msgid "Forbid DVB EPG update for black listed services"
+msgstr "Uždrausti DVB EPG atnaujinimą juodame sąraše esantiems kanalams"
+
+msgid "Add Service"
+msgstr "Pridėti kanalą"
+
+msgid "Edit blacklist for DVB EPG"
+msgstr "Redaguoti DVB EPG juodąjį sąrašą"
+
