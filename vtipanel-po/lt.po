@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: enigma2-VTIPanel\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-21 17:07+0200\n"
-"PO-Revision-Date: 2016-01-21 17:19+0200\n"
-"Last-Translator: Jannick Kuhr <jakuhrlinux@googlemail.com>\n"
-"Language-Team: Vytenis Pulokas <vyteniui@gmail.com>\n"
-"Language: lt_LT\n"
+"PO-Revision-Date: 2016-01-23 16:02+0200\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -106,10 +106,10 @@ msgid "Close"
 msgstr "Užverti"
 
 msgid "reload package data"
-msgstr "atnaujinti paketo duomenis"
+msgstr "Atnaujinti duomenis"
 
 msgid "Download or delete Software"
-msgstr "Parsisiųsti/pašalinti programas"
+msgstr "Parsisiųsti ir pašalinti programas"
 
 msgid ""
 "\n"
@@ -156,55 +156,55 @@ msgid "Extensions"
 msgstr "Plėtiniai"
 
 msgid "install/remove common plugins"
-msgstr "įdiegti/pašalinti įskiepius"
+msgstr "įdiegti / pašalinti bendruosius plėtinius"
 
 msgid "Systemplugins"
 msgstr "Sistemos įskiepiai"
 
 msgid "install/remove systemplugins"
-msgstr "įdiegti/pašalinti sistemos įskiepius"
+msgstr "įdiegti / pašalinti sistemos įskiepius"
 
 msgid "Skins"
 msgstr "Temos"
 
 msgid "install/remove skins to change look of OSD"
-msgstr "įdiegti/pašalinti OSD išvaizdos temas"
+msgstr "įdiegti / pašalinti išvaizdos temas"
 
 msgid "SoftCams"
 msgstr "Emuliatoriai"
 
 msgid "install/remove softcams"
-msgstr "įdiegti/pašalinti emuliatorius"
+msgstr "įdiegti / pašalinti emuliatorius"
 
 msgid "Configurations"
 msgstr "Konfigūracija"
 
 msgid "install/remove configuration files for softcams"
-msgstr "įdiegti/pašalinti emuliatorių konfigūracijos failus"
+msgstr "įdiegti / pašalinti emuliatorių konfigūracijos failus"
 
 msgid "Picons"
 msgstr "Piktogramos"
 
 msgid "install/remove picons for OSD and graphical VFD"
-msgstr "įdiegti/pašalinti OSD ir VFD piktogramas"
+msgstr "įdiegti / pašalinti OSD ir VFD piktogramas"
 
 msgid "Settings"
 msgstr "Nuostatos"
 
 msgid "install/remove channel lists"
-msgstr "įdiegti/pašalinti kanalų sąrašus"
+msgstr "įdiegti / pašalinti kanalų sąrašus"
 
 msgid "Kernel modules"
 msgstr "Branduolio moduliai"
 
 msgid "install/remove kernel modules"
-msgstr "įdiegti/pašalinti branduolio modulius"
+msgstr "įdiegti / pašalinti branduolio modulius"
 
 msgid "Language packages"
 msgstr "Kalbų paketai"
 
 msgid "install/remove language packages for dvbapp2"
-msgstr "įdiegti/pašalinti dvbapp2 kalbų paketus"
+msgstr "įdiegti / pašalinti dvbapp2 kalbų paketus"
 
 msgid "upgrade"
 msgstr "atnaujinti"
@@ -296,7 +296,7 @@ msgstr ""
 "Po atkūrimo sistema pasileis iš naujo!"
 
 msgid "VTI BackupSuite"
-msgstr "VTi Atsarginių kopijų įrankis"
+msgstr "VTi Nustatymų atsarginių kopijų įrankis"
 
 msgid "Backup"
 msgstr "Atsarginė kopija"
@@ -437,37 +437,37 @@ msgid "VTI Cam Center"
 msgstr "VTi Emu centras"
 
 msgid "select or install your favourite cam"
-msgstr "pasirinkti, arba įdiegti mėgstamus Emu"
+msgstr "galite pasirinkti, valdyti ir įdiegti reikalingus Emu"
 
 msgid "VTI System Info"
 msgstr "VTi Informacija apie sistemą"
 
 msgid "Infos about your Vu+ STB"
-msgstr "Informacija apie jūsų Vu+"
+msgstr "išsami informacija apie jūsų Vu+ komponentus"
 
 msgid "VTI System Tools"
-msgstr "VTi sistemos įrankiai"
+msgstr "VTi Sistemos įrankiai"
 
 msgid "manage your Vu+ STB"
-msgstr "valdyti savo Vu+ "
+msgstr "valdyti savo Vu+ įrangą"
 
 msgid "VTI Software Tools"
 msgstr "VTi Programų įrankiai"
 
 msgid "backup/restore or install software"
-msgstr "programų instaliacija, jų atsarginių kopijų sukūrimas/atkūrimas"
+msgstr "programų instaliacija, atsarginis kopijavimas  ir atkūrimas"
 
 msgid "VTI Software Manager"
 msgstr "VTi Programų tvarkytuvas"
 
 msgid "install/download software for your Vu+"
-msgstr "parsisiųsti/įdiegti Vu+ programinę įrangą"
+msgstr "parsisiųsti / įdiegti Vu+ programinę įrangą"
 
 msgid "manual Installer"
-msgstr "rankinis įdiegimas"
+msgstr "Rankinis įdiegimas"
 
 msgid "install .tar.gz or ipkg manually"
-msgstr ".tar.gz ir ipkg rankinis įdiegimas"
+msgstr ".tar.gz ir ipkg paketų rankinis įdiegimas"
 
 msgid "Plugins"
 msgstr "Įskiepiai"
@@ -479,16 +479,16 @@ msgid "VTI Sub Menu"
 msgstr "VTi Submeniu"
 
 msgid "Restore and backup installed channellist and plugins"
-msgstr "Kopijuoti atsargai/atkurti kanalų sąrašą ir įskiepius"
+msgstr "kopijuoti atsargai / atkurti kanalų sąrašą ir įskiepius"
 
 msgid "Image Backup / Restore"
-msgstr "Atvaizdo atsarginis kopijavimas/atkūrimas"
+msgstr "Atvaizdo atsarginių kopijų įrankis"
 
 msgid "backup or flash an image"
-msgstr "kopijuoti atsargai, ar įdiegti atvaizdą"
+msgstr "kopijuoti atsargai, ar įdiegti atvaizdą iš savos kopijos"
 
 msgid "Image Flash Tool"
-msgstr "Atvaizdo diegimo įrankis"
+msgstr "Atvaizdo tiesioginio diegimo įrankis"
 
 msgid "download images from vuplus-support.org and flash it"
 msgstr "parsisiųsti atvaizdus iš vuplus-support.org ir juos įdiegti"
@@ -500,7 +500,7 @@ msgid "install/download driver for your Vu+"
 msgstr "parsisiųsti/įdiegti Vu+ tvarkykles"
 
 msgid "Expert Backup / Restore"
-msgstr "Išmanus atsarginis kopijavimas/atkūrimas"
+msgstr "Išmanus atsarginis kopijavimas / atkūrimas"
 
 msgid "backup or restore your settings (only for experts)"
 msgstr "sukurti/atkurti nuostatų atsarginę kopiją (tik ekspertams)"
@@ -539,7 +539,7 @@ msgid "Device Manager"
 msgstr "Įtaisų tvarkytuvas"
 
 msgid "manage your HDD's and USB devices"
-msgstr "valdyti HDD ur USB laikmenas"
+msgstr "valdyti HDD ir USB laikmenas"
 
 msgid "File Manager"
 msgstr "Failų tvarkytuvas"
@@ -551,10 +551,10 @@ msgid "Network Browser"
 msgstr "Tinklo naršyklė"
 
 msgid "open NetworkBrowswer"
-msgstr "atverti tinklo naršyklę"
+msgstr "atverti tinklo resursų naršyklę"
 
 msgid "Remove preinstalled packages from image"
-msgstr "Šalinti paketus iš atvaizdo"
+msgstr "šalinti iš atvaizdo nereikalingus paketus"
 
 msgid "EPG Settings"
 msgstr "EPG nuostatos"
@@ -566,7 +566,7 @@ msgid "Custom Main Menu"
 msgstr "Personalizuotas pagrindinis meniu"
 
 msgid "delete entries from main menu of your VU+"
-msgstr "pašalinti įrašus iš Vu+ pagrindinio meniu"
+msgstr "keisti Vu+ pagrindinio meniu komponentus ir įrašus"
 
 msgid "Cronjob Manager"
 msgstr "Cron užduočių tvarkytuvas"
@@ -593,10 +593,10 @@ msgid "set root password of your stb"
 msgstr "nustatyti Vu+ root slaptažodį"
 
 msgid "Services"
-msgstr "Kanalai"
+msgstr "Sistemos tarnybos"
 
 msgid "enable/disable Systemservices"
-msgstr "įjungti išjungti sistemos tarnybas"
+msgstr "įjungti - išjungti sistemos tarnybas"
 
 msgid "USB DVB-T/C/S2 Panel"
 msgstr "USB DVB-T/C/S2 skydas"
@@ -617,10 +617,10 @@ msgid "removes Opera HbbTV and dependencies"
 msgstr "pašalins Opera HbbTV ir priklausomybes"
 
 msgid "IPK Uninstaller"
-msgstr "IPK šalinimas"
+msgstr "IPK paketų šalinimas"
 
 msgid "remove seletected package from stb"
-msgstr "pašalinti pasirinktą paketą"
+msgstr "pašalinti pasirinktą IPK paketą iš sistemos"
 
 msgid "Purge Enigma2 Crashlogs"
 msgstr "Išvalyti Enigma2 lūžio žurnalus"
@@ -650,85 +650,85 @@ msgid "Bitrate Viewer"
 msgstr "Bitų dažnio peržiūra"
 
 msgid "Show Advanced Bitrate infos"
-msgstr "Rodyti išsamią bitų dažnio informaciją"
+msgstr "peržiūrėti išsamią bitų dažnio informaciją"
 
 msgid "ECM Info"
 msgstr "ECM informacija"
 
 msgid "show ecm infos from temp dir"
-msgstr "rodyti ECM informaciją iš laikino katalogo"
+msgstr "peržiūrėti ECM informaciją iš laikino katalogo"
 
 msgid "News about VTI"
 msgstr "VTi naujienos"
 
 msgid "show Feed updates"
-msgstr "rodyti šaltinių atnaujinimus"
+msgstr "peržiūrėti galimus ir esamus atnaujinimus"
 
 msgid "Info about current system"
 msgstr "Informacija apie sistemą"
 
 msgid "show information about processes, load, mounts ..."
-msgstr "rodyti informaciją apie procesus, apkrovas, pajungimus..."
+msgstr "peržiūrėti informaciją apie procesus, apkrovas, pajungimus..."
 
 msgid "Show processes"
-msgstr "Rodyti procesus"
+msgstr "Veikiantys procesai"
 
 msgid "show running processes"
-msgstr "rodyti veikiančius procesus"
+msgstr "peržiūrėti veikiančius sistemos procesus"
 
 msgid "Show filesystem mounts"
 msgstr "Rodyti pajungimus"
 
 msgid "show active mounts"
-msgstr "rodyti aktyvius pajungimus"
+msgstr "peržiūrėti aktyvius sistemos ir tinklo pajungimus"
 
 msgid "Harddisk Temperature"
 msgstr "HDD temperatūra"
 
 msgid "show HDD Temperature"
-msgstr "rodyti HDD temperatūrą"
+msgstr "peržiūrėti HDD temperatūrą"
 
 msgid "Show Consolesessions"
-msgstr "Rodyti komandinės eilutės sesijas"
+msgstr "Aktyvios konsolės sesijos"
 
 msgid "show all active user sessions"
-msgstr "rodyti aktyvias vartotojo sesijas"
+msgstr "peržiūrėti visas aktyvias vartotojo sesijas"
 
 msgid "Show Uptime"
-msgstr "Rodyti nepertraukiamo darbo laiką"
+msgstr "Nepertraukiamo darbo laikas"
 
 msgid "show operating system uptime of stb"
-msgstr "rodyti operacinės sistemos nepertraukiamo darbo laiką"
+msgstr "peržiūrėti operacinės sistemos nepertraukiamo darbo laiką"
 
 msgid "Show Networkconnections"
-msgstr "Rodyti tinklo prisijungimus"
+msgstr "Aktyvūs tinklo prisijungimai"
 
 msgid "show all connected sockets from ip-stack"
-msgstr "rodyti aktyvius IP prisijungimus"
+msgstr "peržiūrėti aktyvių IP prisijungimų statistiką"
 
 msgid "Show Systemmemory Info"
-msgstr "Rodyti sistemos atminties informaciją"
+msgstr "Sistemos atminties informacija"
 
 msgid "show whole system memory usage"
-msgstr "rodyti visos sistemos atminties naudojimą"
+msgstr "peržiūrėti visos sistemos atminties naudojimą"
 
 msgid "Show Networkdetails"
 msgstr "Rodyti tinklo informaciją"
 
 msgid "shows assigned ip-adresses, routingtable and nameserver"
-msgstr "rodo priskirtus IP adresus, maršrutizaciją ir vardų sererį"
+msgstr "peržiūrėti priskirtus IP adresus, maršrutizaciją ir vardų sererį"
 
 msgid "Show diskspace"
-msgstr "Rodyti vietą diske"
+msgstr "Diskų panaudojimas"
 
 msgid "show diskpace"
-msgstr "Rodyti disko vietą"
+msgstr "peržiūrėti visų diskų naudojimo statistiką"
 
 msgid "Image Info"
 msgstr "Atvaizdo informacija"
 
 msgid "show simple Image infos"
-msgstr "rodyti bendrąją atvaizdo informaciją"
+msgstr "peržiūrėti bendrąją atvaizdo informaciją"
 
 msgid "VTI System Infos"
 msgstr "VTi Sistemos informacija"
@@ -737,10 +737,10 @@ msgid "VTI Backupsuite"
 msgstr "VTi Atsarginių kopijų įrankis"
 
 msgid "Backup installed channellist and plugins"
-msgstr "Kanalų sąrašo ir įskiepių atsarginė kopija"
+msgstr "sukurti kanalų sąrašo ir įskiepių atsarginę kopiją"
 
 msgid "Restore installed channellist and plugins"
-msgstr "Atkurti kanalų sąrašą ir įskiepius"
+msgstr "stkurti kanalų sąrašą ir įskiepius iš atsarginės kopijos"
 
 msgid "Backup Image"
 msgstr "Atvaizdo atsarginė kopija"
@@ -755,10 +755,10 @@ msgid "Restore your backuped STB image."
 msgstr "Atkurti iš anksčiau sukurto atvaizdo."
 
 msgid "Choose backup location"
-msgstr "Pasirinkite atsarginės kopijos vietą"
+msgstr "Atsarginių kopijų vieta"
 
 msgid "Select your backup device. "
-msgstr "Pasirinkite įrenginį atsarginei kopijai. "
+msgstr "pasirinkite įrenginį savo atsarginei kopijai. "
 
 msgid "VTI Image Backup/Restore"
 msgstr "VTi Atvaizdo atsarginis kopijavimas/atkūrimas"
@@ -767,25 +767,25 @@ msgid "Backup system settings"
 msgstr "Sistemos nuostatų atsarginė kopija"
 
 msgid "Backup your STB settings."
-msgstr "Darykite atsargines kopijas."
+msgstr "darykite sistemos nustatymų atsargines kopijas."
 
 msgid "Restore system settings"
-msgstr "Atkurti sistemos nustatymus"
+msgstr "Sistemos nuostatų atkūrimas iš kopijos"
 
 msgid "Restore your STB settings."
-msgstr "Atkurti Vu+ nustatymus."
+msgstr "atkurkite savo Vu+ sistemos nustatymus iš atsarginių kopijų."
 
 msgid "Advanced restore"
 msgstr "Išplėstinis atkūrimas"
 
 msgid "Restore your backups by date."
-msgstr "Atkurti atsarginę kopiją pagal datą."
+msgstr "atkurti atsarginę kopiją pagal sukūrimo datą."
 
 msgid "Choose backup files"
-msgstr "Pasirinkite atsarginės kopijos  failus"
+msgstr "Atsarginės kopijos failai"
 
 msgid "Select files for backup. "
-msgstr "Pasirinkite failus atsarginei kopijai. "
+msgstr "pasirinkite katalogus ir failus atsarginiam kopijavimui. "
 
 msgid "VTI Expert Backup/Restore"
 msgstr "VTi Išmanus atsarginis kopijavimas/atkūrimas"
@@ -828,13 +828,13 @@ msgid "VTI Harddisk Standbymode"
 msgstr "VTi HDD budėjimo režimas"
 
 msgid "VTI show ecm.info"
-msgstr "VTi Rodyti ECM informaciją"
+msgstr "Rodyti VTi ECM informaciją"
 
 msgid "VTI show running processes"
-msgstr "VTi Rodyti veikiančius procesus"
+msgstr "Rodyti VTi veikiančius procesus"
 
 msgid "VTI show mounted filesystems"
-msgstr "VTi Pajungtos failų sistemos"
+msgstr "Pajungtos VTi failų sistemos"
 
 msgid "VTI show networkconfiguration and routingtable"
 msgstr "VTi Tinklo konfigūracija ir maršrutizacija"
@@ -938,7 +938,7 @@ msgid "Could not grep Memory Usage information from busybox"
 msgstr "Nepavyksta išgauti iš busybox informacijos apie atminties panaudojimą"
 
 msgid "VTI Status List Menu"
-msgstr "VTi Stovio sąrašo meniu"
+msgstr "VTi sąrašų meniu"
 
 msgid "Stop Swap"
 msgstr "Išjungti mainus"
@@ -980,7 +980,7 @@ msgid "Remove all"
 msgstr "Pašalinti viską"
 
 msgid "Remove older 7 Days"
-msgstr "Šalinti senesnius, nei 7 dienų"
+msgstr "Šalinti senus (>7 dienų)"
 
 msgid "VTI Crashlogremove Menu"
 msgstr "VTi Lūžių įrašų šalinimo meniu"
@@ -1113,10 +1113,10 @@ msgid "Set Password"
 msgstr "Nustatyti slaptažodį"
 
 msgid "new Random"
-msgstr "naujas atsitiktinis"
+msgstr "Naujas atsitiktinis"
 
 msgid "virt. Keyboard"
-msgstr "virtuali klaviatūra"
+msgstr "Virtuali klaviatūra"
 
 msgid "Enter new Password"
 msgstr "Įrašykite naują slaptažodį"
@@ -1211,15 +1211,14 @@ msgstr " aktyvuota."
 msgid "NTP-Server Country Selection"
 msgstr "NTP serverio šalies pasirinkimas"
 
-# klaida???
 msgid "NTP-Server Contenant Selection"
-msgstr "NTP serverio pasirinkimas"
+msgstr "NTP serverio kontinento pasirinkimas"
 
 msgid "Update"
 msgstr "Atnaujinti"
 
 msgid "show Updates"
-msgstr "rodyti atnaujinimus"
+msgstr "Rodyti"
 
 msgid "It seems that your Internet connection is not ok, please check it"
 msgstr "Atrodo, kad jūsų interneto ryšys netvarkoj, patikrinkite"
@@ -1232,7 +1231,7 @@ msgid "Upgradable Packages"
 msgstr "Atnaujintini paketai"
 
 msgid "show News"
-msgstr "rodyti naujienas"
+msgstr "Naujienos"
 
 #, python-format
 msgid ""
@@ -1270,7 +1269,7 @@ msgid "Execute: "
 msgstr "Vykdyti: "
 
 msgid "VTI ExeManager"
-msgstr "VTi Exe tvarkytuvas"
+msgstr "VTi vykdomųjų failų tvarkytuvas"
 
 #, python-format
 msgid "File %s was not found"
@@ -1290,7 +1289,7 @@ msgid "yes"
 msgstr "taip"
 
 msgid "Add a executable to ExeManager"
-msgstr "EXE tvarkyklei užduoti vykdymą"
+msgstr "Užduotis vykdomųjų failų tvarkytuvui"
 
 msgid "Show command output : "
 msgstr "Rodyti komandų atsakus : "
@@ -1302,7 +1301,7 @@ msgid "Select a file to execute"
 msgstr "Pasirinkite vykdomą failą"
 
 msgid "Screenshot"
-msgstr "Ekrano nuotrauka"
+msgstr "Nuotrauka"
 
 msgid "PROCESS"
 msgstr "PROCESAS"
@@ -1471,7 +1470,7 @@ msgstr "Pasirinkite atvaizdą įdiegimui"
 msgid "Install this image"
 msgstr "Įdiegti šį atvaizdą"
 
-msgid "VTI Image Flash Tool"
+msgid "VTi Image Flash Tool"
 msgstr "VTi Atvaizdo diegimo įrankis"
 
 msgid " downloading available image information"
@@ -1592,7 +1591,7 @@ msgstr ""
 "Prašome pasirinkti kitą vietą."
 
 msgid "VTI-Backup - Select files/folders to backup"
-msgstr "VTi Atsarginis kopijavimas - Išsirinkite kopijuojamus failus/katalogus"
+msgstr "VTi Pasirinkite kopijuojamus failus/katalogus"
 
 msgid "Deselect"
 msgstr "Atšaukti pasirinkimą"
@@ -1775,3 +1774,9 @@ msgstr "Pridėti kanalą"
 msgid "Edit blacklist for DVB EPG"
 msgstr "Redaguoti DVB EPG juodąjį sąrašą"
 
+#~ msgid ""
+#~ "Do you really want to delete epg.dat ?\n"
+#~ "Note: This will restart your VU+ STB"
+#~ msgstr ""
+#~ "Jūs tikrai norite šalinti epg.dat ?\n"
+#~ "Pastaba: po to VU+ bus paleistas iš naujo"
