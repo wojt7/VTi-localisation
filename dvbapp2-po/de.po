@@ -11289,7 +11289,7 @@ msgid "Behavior when a service changes during timeshift"
 msgstr "Verhalten beim Senderwechsel während Timeshift"
 
 msgid "Delete timeshift files older than X days"
-msgstr "Lösche Timehsift-Dateien die älter als X Tage sind"
+msgstr "Lösche Timeshift-Dateien die älter als X Tage sind"
 
 msgid "Search for old timeshift files every X hours (0 = off)"
 msgstr "Suche alle X Stunden nach alten Timeshift-Dateien (0 = aus)"
