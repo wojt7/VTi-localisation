@@ -9168,43 +9168,43 @@ msgid "Set jump time in hours"
 msgstr ""
 
 msgid "Ok button action"
-msgstr ""
+msgstr "Działanie przycisku OK"
 
 msgid "EPG button action"
-msgstr ""
+msgstr "Działanie przycisku EPG"
 
 msgid "Transform Timeshift into recording"
-msgstr ""
+msgstr "Zamień timeshift w nagrywanie"
 
 msgid "Unhide all entries"
-msgstr ""
+msgstr "Pokaż wszystkie wpisy"
 
 msgid "Please select entry to unhide..."
-msgstr ""
+msgstr "Wybierz pozycję, aby pokazać..."
 
 msgid "hide entry: %s"
-msgstr ""
+msgstr "ukryj wpis: %s"
 
 msgid "unhide hidden entry"
-msgstr ""
+msgstr "pokaż ukryty wpis"
 
 msgid "Picon folder for graphical multi EPG"
-msgstr ""
+msgstr "Folder pikon dla graficznego multi EPG"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsola"
 
 msgid "Console & File"
-msgstr ""
+msgstr "Konsola i plik"
 
 msgid "Enable debug log"
-msgstr ""
+msgstr "Włącz dziennik diagnostyczny"
 
 msgid "File (loop)"
-msgstr ""
+msgstr "Plik (pętla)"
 
 msgid "Console & File (loop)"
-msgstr ""
+msgstr "Konsola i plik (pętla)"
 
 #~ msgid "E"
 #~ msgstr "E"
