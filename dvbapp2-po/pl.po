@@ -8570,22 +8570,22 @@ msgid "Page up (Timer list)"
 msgstr ""
 
 msgid "Exit plugin"
-msgstr ""
+msgstr "Wyjdź z wtyczki"
 
 msgid "Show detailed programm info"
-msgstr ""
+msgstr "Wyświetl szczegółowe informacje o programie"
 
 msgid "Previous entry"
-msgstr ""
+msgstr "Poprzedni wpis"
 
 msgid "Next entry"
-msgstr ""
+msgstr "Następny wpis"
 
 msgid "Next Channel"
-msgstr ""
+msgstr "Następny kanał"
 
 msgid "Previous Channel"
-msgstr ""
+msgstr "Poprzedni kanał"
 
 msgid "Page up"
 msgstr ""
