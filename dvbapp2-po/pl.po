@@ -8821,67 +8821,67 @@ msgid "Hide service name in service list (compact style)"
 msgstr "Ukryj nazwa usługi na liście usług (styl kompaktowy)"
 
 msgid "Use double-spaced list style"
-msgstr ""
+msgstr "Użyj stylu listy podwójnego odstępu"
 
 msgid "Add Autotimer"
-msgstr ""
+msgstr "Dodaj Autotimer"
 
 msgid "TMDb Infos"
-msgstr ""
+msgstr "Informacja TMDb"
 
 msgid "Could not connect to server"
-msgstr ""
+msgstr "Nie można połączyć się z serwerem"
 
 msgid "No matching place names found"
-msgstr ""
+msgstr "Nie znaleziono pasujących nazw miejsc"
 
 msgid "Animation start delay:"
-msgstr ""
+msgstr "Opóźnienia startu animacji:"
 
 msgid "Do you want to setup animations?"
-msgstr ""
+msgstr "Chcesz ustawić animacje?"
 
 msgid "show"
-msgstr ""
+msgstr "pokaż"
 
 msgid "hide"
-msgstr ""
+msgstr "ukryj"
 
 msgid "Sort order for plugins"
-msgstr ""
+msgstr "Sortuj porządek dla wtyczek"
 
 msgid "Edit mode off"
-msgstr ""
+msgstr "Tryb edycji wyłączony"
 
 msgid "Edit mode on"
-msgstr ""
+msgstr "Tryb edycji włączony"
 
 msgid "alphabetical"
-msgstr ""
+msgstr "alfabetycznie"
 
 msgid "Sort order for menu entries"
-msgstr ""
+msgstr "Sortuj porządek dla pozycji menu"
 
 msgid "Move mode on"
-msgstr ""
+msgstr "Tryb przenoszenia włączony"
 
 msgid "Move mode off"
-msgstr ""
+msgstr "Tryb przenoszenia wyłączony"
 
 msgid "copy to: "
-msgstr ""
+msgstr "kopiuj do:"
 
 msgid "Animation Setup"
-msgstr ""
+msgstr "Ustawienia animacji"
 
 msgid "SAT>IP Client Tuner Setup"
-msgstr ""
+msgstr "Ustawienia tunera klienta SAT>IP"
 
 msgid "Discover"
-msgstr ""
+msgstr "Odkryj"
 
 msgid "Starting..."
-msgstr ""
+msgstr "Uruchamiam..."
 
 msgid "SAT>IP server discovering for %d seconds..."
 msgstr ""
