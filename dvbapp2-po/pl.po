@@ -8591,225 +8591,234 @@ msgid "Page up"
 msgstr ""
 
 msgid "Zap and Exit"
-msgstr ""
+msgstr "Przełącz i wyjdź"
 
 msgid "Open Timerlist"
-msgstr ""
+msgstr "Otwórz listę nagrań"
 
 msgid "Add instant Timer"
-msgstr ""
+msgstr "Dodaj natychmiastowe nagrywanie"
 
 msgid "Switch between views"
-msgstr ""
+msgstr "Przełącz między widokami"
 
 msgid "Enter Prime Time"
-msgstr ""
+msgstr "Wprowadź godziny największej oglądalności"
 
 msgid "Next Bouquet"
-msgstr ""
+msgstr "Następny bukiet"
 
 msgid "Previous Bouquet"
-msgstr ""
+msgstr "Poprzedni bukiet"
 
 msgid "Jump Day forward"
-msgstr ""
+msgstr "Skocz dzień do przodu"
 
 msgid "Jump Day backward"
-msgstr ""
+msgstr "Skocz dzień wstecz"
 
 msgid "Show less entries"
-msgstr ""
+msgstr "Pokaż mniej wpisów"
 
 msgid "Show normal entries"
-msgstr ""
+msgstr "Pokaż normalne pozycje"
 
 msgid "Show more entries"
-msgstr ""
+msgstr "Pokaż więcej wpisów"
 
 msgid "Jump prefered hours backward"
-msgstr ""
+msgstr "Skocz preferowane czas do tyłu"
 
 msgid "Set prefered hours to jump"
-msgstr ""
+msgstr "Ustaw preferowany czas do skoku"
 
 msgid "Jump prefered hours forward"
-msgstr ""
+msgstr "Skocz preferowane czas do przodu"
 
 msgid "Jump page backward"
-msgstr ""
+msgstr "Skocz stronę do tyłu"
 
 msgid "Jump to Prime Time"
-msgstr ""
+msgstr "Skocz do czasu największej oglądalności"
 
 msgid "Jump page forward"
-msgstr ""
+msgstr "Skocz stronę do przodu"
 
 msgid "Jump to now"
-msgstr ""
+msgstr "Skocz do teraz"
 
 msgid "jump: "
-msgstr ""
+msgstr "skocz:"
 
 msgid "h"
-msgstr ""
+msgstr "h"
 
 msgid "Zap+Exit"
-msgstr ""
+msgstr "Przełącz i wyjdź"
 
 msgid ""
 "Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
 "Please install it to use this function"
 msgstr ""
+"Przepraszam, ale wtyczka %s nie jest zainstalowana na Twoim VU+
+"Proszę zainstalować ją aby użyć tej funkcji"
 
 msgid "Toggle timer state"
-msgstr ""
+msgstr "Przełącz stan timera"
 
 msgid "EPG search"
-msgstr ""
+msgstr "Szukaj EPG"
 
 msgid "Toggle clock / bars view for timer"
-msgstr ""
+msgstr "Przełączanie zegara / widoku belki dla nagrania"
 
 msgid "Disable Animations"
-msgstr ""
+msgstr "Wyłącz animacje"
 
 msgid "Simple fade"
-msgstr ""
+msgstr "Proste blaknięcie"
 
 msgid "Grow drop"
-msgstr ""
+msgstr "Uporządkuj rosnąco"
 
 msgid "Grow from left"
-msgstr ""
+msgstr "Rosnąco od lewej"
 
 msgid "Popup"
-msgstr ""
+msgstr "Wyskakujące okno"
 
 msgid "Slide drop"
-msgstr ""
+msgstr "Przesuń spadkowo"
 
 msgid "Slide left to right"
-msgstr ""
+msgstr "Przesuń od lewej do prawej"
 
 msgid "Slide top to bottom"
-msgstr ""
+msgstr "Przesuń od góry do dołu"
 
 msgid "Stripes"
-msgstr ""
+msgstr "Paski"
 
 msgid "* current animation"
-msgstr ""
+msgstr "* obecna animacja
 
 msgid "Preview"
-msgstr ""
+msgstr "Zapowiedź"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animacje"
 
 msgid "Animation type:"
-msgstr ""
+msgstr "Typ animacji:"
 
 msgid "Animation speed:"
-msgstr ""
+msgstr "Szybkość animacji:"
 
 msgid "Setup UI animations"
-msgstr ""
+msgstr "Konfiguracja animacji"
 
 msgid "start xbmc mediacenter"
-msgstr ""
+msgstr "Uruchom XBMC Media Center"
 
 msgid "XBMC Launcher"
-msgstr ""
+msgstr "XBMC Launcher"
 
 msgid "Do you really want to disable timer:"
-msgstr ""
+msgstr "Czy na pewno chcesz wyłączyć nagranie:"
 
 msgid "Do you really want to enable timer:"
-msgstr ""
+msgstr "Czy na pewno chcesz włączyć nagranie:"
 
 msgid "Would you save the entered PIN %s persistent?"
-msgstr ""
+msgstr "Czy chcesz zapisać wprowadzony kod PIN% na trwałe?"
 
 msgid "Set pin code persistent"
-msgstr ""
+msgstr "Ustaw kod PIN trwale"
 
 msgid "Enter persistent PIN code"
-msgstr ""
+msgstr "Wprowadź trwale kod PIN"
 
 msgid "Reset persistent PIN code"
-msgstr ""
+msgstr "Zresetuj trwale kod PIN"
 
 msgid "The saved PIN was cleared."
-msgstr ""
+msgstr "Zapisany PIN został wyczyszczony."
 
 msgid "Enter PIN"
-msgstr ""
+msgstr "Wprowadź kod PIN"
 
 msgid "Reenter PIN"
-msgstr ""
+msgstr "Wprowadź ponownie kod PIN"
 
 msgid "The PIN code has been saved successfully."
-msgstr ""
+msgstr "Kod PIN został zapisany pomyślnie."
 
 msgid "Enable ZAP history menu"
-msgstr ""
+msgstr "Włacz menu historii przełączania"
 
 msgid "Zap History"
-msgstr ""
+msgstr "Historia przełączania"
 
 msgid "Use folder based configuration (list / sort type)"
-msgstr ""
+msgstr "Użyj folder na podstawie konfiguracji (lista / typ sortowania)"
 
 msgid "Protect movies and directories"
-msgstr ""
+msgstr "Chroń filmy i katalogi"
 
 msgid "Change movie / directory PIN"
-msgstr ""
+msgstr "Zmień PIN filmu / katalogu"
 
 msgid "Remember movie / directory PIN"
-msgstr ""
+msgstr "Zapamiętaj PIN filmu / katalogu"
 
 msgid "movie / directory PIN"
-msgstr ""
+msgstr "PIN filmu / katalogu"
 
 msgid ""
 "No valid movie / directory PIN found!\n"
 "Do you like to change the movie / directory PIN now?\n"
 "When you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
+"Brak ważnego PIN dla filmu / katalogu!\n"
+"Czy chcesz zmienić kod PIN filmu / katalogu teraz?\n"
+"Kiedy powieisz "nie" ochrona filmu / katalogu pozostanie wyłączona!"
 
 msgid "Reset movie / directory PIN cache"
-msgstr ""
+msgstr "Zresetuj PIN filmu / katalogu"
 
 msgid "Protect deleting of movies"
-msgstr ""
+msgstr "Chroń kasowanie filmów"
 
 msgid "Change movie-delete PIN"
-msgstr ""
+msgstr "Zmień PIN kasowania filmu"
 
 msgid "Remember movie-delete PIN"
-msgstr ""
+msgstr "Zapamiętaj PIN kasowania filmu"
 
 msgid "movie-delete PIN"
-msgstr ""
+msgstr "PIN kasowania filmu"
 
 msgid ""
 "No valid movie-delete PIN found!\n"
 "Do you like to change the movie-delete PIN now?\n"
 "When you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
+"Brak ważnego PIN kasowania filmu / katalogu!\n"
+"Czy chcesz zmienić kod PIN kasowania filmu / katalogu teraz?\n"
+"Kiedy powiesz "nie" ochrona filmu / katalogu pozostanie wyłączona!"
+
 
 msgid "Reset movie-delete PIN cache"
-msgstr ""
+msgstr "Zresetuj PIN kasowania filmu / katalogu"
 
 msgid "toggle parental control"
-msgstr ""
+msgstr "przełącznik kontroli rodzicielskiej"
 
 msgid "search EPG"
-msgstr ""
+msgstr "szukaj EPG"
 
 msgid "Hide service name in service list (compact style)"
-msgstr ""
+msgstr "Ukryj nazwa usługi na liście usług (styl kompaktowy)"
 
 msgid "Use double-spaced list style"
 msgstr ""
