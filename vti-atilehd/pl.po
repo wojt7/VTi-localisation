@@ -23,14 +23,14 @@ msgstr "Fahrenheit"
 
 #, python-format
 msgid "%s Setup"
-msgstr ""
+msgstr "%s Ustawienia"
 
 msgid "Personalize your Skin"
 msgstr "Personalizuj twoją skórę"
 
 #, python-format
 msgid "Setup - %s"
-msgstr ""
+msgstr "Ustawienia - %s"
 
 msgid "Cancel"
 msgstr "Zrezygnuj"
@@ -43,10 +43,10 @@ msgstr "O"
 
 #, python-format
 msgid "%s - Setup"
-msgstr ""
+msgstr "%s - Ustawienia"
 
 msgid "Default"
-msgstr ""
+msgstr "Domyślne"
 
 msgid "Style:"
 msgstr "Styl:"
@@ -56,10 +56,10 @@ msgstr "Czcionka:"
 
 #, python-format
 msgid "Enable %s pro:"
-msgstr ""
+msgstr "Włącz % s pro"
 
 msgid "Change skin"
-msgstr ""
+msgstr "Zmień skórę"
 
 msgid "---Weather---"
 msgstr "---Pogoda---"
@@ -84,7 +84,7 @@ msgstr "Wiadomość"
 
 #, python-format
 msgid "%s additional screens"
-msgstr ""
+msgstr "%s dodatkowe ekrany"
 
 msgid "Exit"
 msgstr "Wyjście"
@@ -96,16 +96,16 @@ msgid "off"
 msgstr "Wyłączony"
 
 msgid "Location list"
-msgstr ""
+msgstr "Lista lokalizacji"
 
 msgid "Search weather location ID"
-msgstr ""
+msgstr "Szukaj ID lokalizacji pogody"
 
 msgid "Please enter search string for your location"
-msgstr ""
+msgstr "Proszę wprowadzić ciąg wyszukiwania dla danej lokalizacji"
 
 msgid "Sorry, there was a problem:"
-msgstr ""
+msgstr "Przepraszam, ale był problem:"
 
 #~ msgid ""
 #~ "GUI needs a restart to apply a new skin.\n"
