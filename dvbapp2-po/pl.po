@@ -8564,10 +8564,10 @@ msgid "change play mode..."
 msgstr "Zmień tryb odtwarzania ..."
 
 msgid "Page down"
-msgstr ""
+msgstr "Strona w dół"
 
 msgid "Page up (Timer list)"
-msgstr ""
+msgstr "Strona do góry (lista nagrań) "
 
 msgid "Exit plugin"
 msgstr "Wyjdź z wtyczki"
@@ -8588,7 +8588,7 @@ msgid "Previous Channel"
 msgstr "Poprzedni kanał"
 
 msgid "Page up"
-msgstr ""
+msgstr "Strona do góry"
 
 msgid "Zap and Exit"
 msgstr "Przełącz i wyjdź"
@@ -8700,7 +8700,7 @@ msgid "Stripes"
 msgstr "Paski"
 
 msgid "* current animation"
-msgstr "* obecna animacja
+msgstr "* obecna animacja"
 
 msgid "Preview"
 msgstr "Zapowiedź"
@@ -8937,248 +8937,252 @@ msgid "SAT>IP SERVER : %s"
 msgstr "SERVER SAT>IP : %s "
 
 msgid "Choices"
-msgstr ""
+msgstr "Wybór"
 
 msgid "Animate Infobar show/hide"
-msgstr ""
+msgstr "Pokaż / Ukryj animację paska informacyjnego"
 
 msgid "Infobar show/hide animation speed"
-msgstr ""
+msgstr "Pokaż / Ukryj animację prędkości paseka informacyjnego"
 
 msgid "fade in"
-msgstr ""
+msgstr "blaknięcie"
 
 msgid "fade out"
-msgstr ""
+msgstr "zanikanie"
 
 msgid "fade in/out"
-msgstr ""
+msgstr "blaknięcie/zanikanie"
 
 msgid ""
 "\n"
 "<This tuner is configured automatically>"
 msgstr ""
+"\n"
+"<Ten tuner jest automatycznie konfigurowany>"
 
 msgid "Disable FastZapping"
-msgstr ""
+msgstr "Wyłącz szybkie przełączanie"
 
 msgid "Enable FastZapping"
-msgstr ""
+msgstr "Włącz szybkie przełączanie"
 
 msgid "Disable MiniTV"
-msgstr ""
+msgstr "Wyłącz MiniTV"
 
 msgid "Enable MiniTV"
-msgstr ""
+msgstr "Włącz MiniTV"
 
 msgid ""
 "You can now choose your preferred skin.\n"
 "Please press OK"
 msgstr ""
+"Teraz możesz wybrać preferowaną skórę.\n"
+"Proszę nacisnąć OK"
 
 msgid "Chipset"
-msgstr ""
+msgstr "Chipset"
 
 msgid "CPU"
-msgstr ""
+msgstr "Procesor"
 
 msgid "Enable SmartSeek (button UP and DOWN)"
-msgstr ""
+msgstr "Włącz SmartSeek (klawisz góra i dół)"
 
 msgid "Set marker at SmartSeek start and end position"
-msgstr ""
+msgstr "Ustaw znacznik w SmartSeek dla rozpoczęcia i zakończenia"
 
 msgid "Initial SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Wstępny przedział czasowy SmartSeek (sekundy)"
 
 msgid "Timeout for SmartSeek in seconds"
-msgstr ""
+msgstr "Limit czasu dla SmartSeek w sekundach"
 
 msgid "SmartSeek: skip forward..."
-msgstr ""
+msgstr "SmartSeek: przejdź do przodu..."
 
 msgid "SmartSeek: skip backward..."
-msgstr ""
+msgstr "SmartSeek: przejdź do tyłu..."
 
 msgid "update latest movies information"
-msgstr ""
+msgstr "aktualizuj najnowsze informacje o filmach"
 
 msgid "latest movies"
-msgstr ""
+msgstr "najnowsze filmy"
 
 msgid "Mark recordings as new for X days (0=off)"
-msgstr ""
+msgstr "Oznacz nagrania jako nowe przez X dni(0 = wyłączone)"
 
 msgid "Location for info file"
-msgstr ""
+msgstr "Lokalizacja dla pliku informacji"
 
 msgid "Recordings of last %d days"
-msgstr ""
+msgstr "Nagrania z ostatnich% dni"
 
 msgid "Mark only unseen recordings as new"
-msgstr ""
+msgstr "Oznacz tylko nieobejrzane nagrania jako nowe"
 
 msgid "Unseen recordings of last %d days"
-msgstr ""
+msgstr "Nieobejrzane nagrania ostatnich %d dni"
 
 msgid "latest unseen movies"
-msgstr ""
+msgstr "Najnowsze nieobejrzane filmy"
 
 msgid "Setup - Display"
-msgstr ""
+msgstr "Ustawienia wyświetlacza"
 
 msgid "Display mode in operation"
-msgstr ""
+msgstr "Tryb wyświetlania w eksploatacji"
 
 msgid "Display mode in standby"
-msgstr ""
+msgstr "Tryb wyświetlania w trybie czuwania"
 
 msgid "Turn off display"
-msgstr ""
+msgstr "Wyłącz wyświetlanie"
 
 msgid "Display mode (LCD)"
-msgstr ""
+msgstr "Tryb wyświetlania (LCD)"
 
 msgid "Please select display (LCD) mode..."
-msgstr ""
+msgstr "Proszę wybrać tryb wyświetlania (LCD) ..."
 
 msgid "HDMI Colorspace"
-msgstr ""
+msgstr "Przestrzeń kolorów HDMI"
 
 msgid "Minimum SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Minimalny przedział czasowy SmartSeek (sekundy)"
 
 msgid "Add bouquet services"
-msgstr ""
+msgstr "Dodaj bukiet usług "
 
 msgid "Include CI assignment for detection of available services"
-msgstr ""
+msgstr "Dołącz zadanie CI do wykrywania dostępnych usług"
 
 msgid "Constant SmartSeek skip intervall in seconds (left/right)"
-msgstr ""
+msgstr "Stały przeskok przedziału czasowego SmartSeek w sekundach(lewy/prawy)"
 
 msgid "Remap left/right to SmartSeek constant skip intervall"
-msgstr ""
+msgstr "Ustaw lewy/prawy dla stałego przeskoku przedziału czasowego SmartSeek"
 
 msgid "Show info for folder"
-msgstr ""
+msgstr "Pokaż informacje o folderze"
 
 msgid "Show new movies in folder info"
-msgstr ""
+msgstr "Pokaż nowe filmy w informacji folderu"
 
 msgid "Show sub directories in folder info"
-msgstr ""
+msgstr "Pokaż podkatalogi w informacji folderu"
 
 msgid "Show folder info at the beginning"
-msgstr ""
+msgstr "Pokaż informacje o katalogu na początku"
 
 msgid "All movies"
-msgstr ""
+msgstr "Wszytskie filmy"
 
 msgid "Show CI messages"
-msgstr ""
+msgstr "Pokaż wiadomości CI"
 
 msgid "Show only new movies in folder info"
-msgstr ""
+msgstr "Pokaż tylko nowe filmy w informacji folderu"
 
 msgid "Sort folders by new items"
-msgstr ""
+msgstr "Sortuj foldery według nowych pozycji"
 
 msgid "Behavior when Live TV event changes during timeshift"
-msgstr ""
+msgstr "Zachowanie podczas zmiany wydarzenia w czasie timeshift"
 
 msgid "Ask before stopping timeshift"
-msgstr ""
+msgstr "Zapytaj przed zatrzymaniem timeshift"
 
 msgid "Start timeshift automatically after given time"
-msgstr ""
+msgstr "Rozpocznij timeshift automatycznie po określonym czasie"
 
 msgid "1 second"
-msgstr ""
+msgstr "1 sekunda"
 
 msgid "2 seconds"
-msgstr ""
+msgstr "2 sekundy"
 
 msgid "3 seconds"
-msgstr ""
+msgstr "3 sekundy"
 
 msgid "4 seconds"
-msgstr ""
+msgstr "4 sekundy"
 
 msgid "5 seconds"
-msgstr ""
+msgstr "5 sekund"
 
 msgid "10 seconds"
-msgstr ""
+msgstr "10 sekund"
 
 msgid "20 seconds"
-msgstr ""
+msgstr "20 sekund"
 
 msgid "30 seconds"
-msgstr ""
+msgstr "30 sekund"
 
 msgid "1 minute"
-msgstr ""
+msgstr "1 minuta"
 
 msgid "2 minutes"
-msgstr ""
+msgstr "2 minuty"
 
 msgid "continue timeshift"
-msgstr ""
+msgstr "kontynuuj timeshift"
 
 msgid "split & keep"
-msgstr ""
+msgstr "podziel i zatrzymaj"
 
 msgid "split & delete"
-msgstr ""
+msgstr "podziel i skasuj"
 
 msgid "stop & keep"
-msgstr ""
+msgstr "zatrzymaj i zostaw"
 
 msgid "stop & delete"
-msgstr ""
+msgstr "zatrzymaj i usuń"
 
 msgid "Live TV event changed"
-msgstr ""
+msgstr "Wydarzenie TV uległo zmianie"
 
 msgid "Save old event and continue timeshift"
-msgstr ""
+msgstr "Zapisz stare wydarzenie i kontynuuj timeshift"
 
 msgid "Delete old event and continue timeshift"
-msgstr ""
+msgstr "Skasuj stare wydarzenie i kontynuuj timeshift"
 
 msgid "Save old event and stop timeshift"
-msgstr ""
+msgstr "Zachowaj stare wydarzenie i kontynuuj timeshift"
 
 msgid "Delete old event and stop timeshift"
-msgstr ""
+msgstr "Skasuj stare wydarzenie i zatrzymaj timeshift"
 
 msgid "seek to timeshift end (Live TV)"
-msgstr ""
+msgstr "szukaj końca timeshift"
 
 msgid "delete timeshift file"
-msgstr ""
+msgstr "skasuj plik timeshift"
 
 msgid "keep timeshift file"
-msgstr ""
+msgstr "zostaw plik timeshift"
 
 msgid "Behavior when a service changes during timeshift"
-msgstr ""
+msgstr "Zachowanie podczas zmiany programu w czasie timeshift"
 
 msgid "Delete timeshift files older than X days"
-msgstr ""
+msgstr "Usuń pliki timeshift starsze niż X dni"
 
 msgid "Search for old timeshift files every X hours (0 = off)"
-msgstr ""
+msgstr "Szukaj starych plików timeshift co X godzin (0 = wyłączone)"
 
 msgid "Bars view for timer"
-msgstr ""
+msgstr "Widok listy nagrań"
 
 msgid "Time frame of entries in minutes"
-msgstr ""
+msgstr "Ramy czasowe wpisów w minutach"
 
 msgid "Set jump time in hours"
-msgstr ""
+msgstr "Ustaw czas skoku w godzinach"
 
 msgid "Ok button action"
 msgstr "Działanie przycisku OK"
