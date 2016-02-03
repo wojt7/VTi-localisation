@@ -8564,333 +8564,342 @@ msgid "change play mode..."
 msgstr "Zmień tryb odtwarzania ..."
 
 msgid "Page down"
-msgstr ""
+msgstr "Strona w dół"
 
 msgid "Page up (Timer list)"
-msgstr ""
+msgstr "Strona do góry (lista nagrań) "
 
 msgid "Exit plugin"
-msgstr ""
+msgstr "Wyjdź z wtyczki"
 
 msgid "Show detailed programm info"
-msgstr ""
+msgstr "Wyświetl szczegółowe informacje o programie"
 
 msgid "Previous entry"
-msgstr ""
+msgstr "Poprzedni wpis"
 
 msgid "Next entry"
-msgstr ""
+msgstr "Następny wpis"
 
 msgid "Next Channel"
-msgstr ""
+msgstr "Następny kanał"
 
 msgid "Previous Channel"
-msgstr ""
+msgstr "Poprzedni kanał"
 
 msgid "Page up"
-msgstr ""
+msgstr "Strona do góry"
 
 msgid "Zap and Exit"
-msgstr ""
+msgstr "Przełącz i wyjdź"
 
 msgid "Open Timerlist"
-msgstr ""
+msgstr "Otwórz listę nagrań"
 
 msgid "Add instant Timer"
-msgstr ""
+msgstr "Dodaj natychmiastowe nagrywanie"
 
 msgid "Switch between views"
-msgstr ""
+msgstr "Przełącz między widokami"
 
 msgid "Enter Prime Time"
-msgstr ""
+msgstr "Wprowadź godziny największej oglądalności"
 
 msgid "Next Bouquet"
-msgstr ""
+msgstr "Następny bukiet"
 
 msgid "Previous Bouquet"
-msgstr ""
+msgstr "Poprzedni bukiet"
 
 msgid "Jump Day forward"
-msgstr ""
+msgstr "Skocz dzień do przodu"
 
 msgid "Jump Day backward"
-msgstr ""
+msgstr "Skocz dzień wstecz"
 
 msgid "Show less entries"
-msgstr ""
+msgstr "Pokaż mniej wpisów"
 
 msgid "Show normal entries"
-msgstr ""
+msgstr "Pokaż normalne pozycje"
 
 msgid "Show more entries"
-msgstr ""
+msgstr "Pokaż więcej wpisów"
 
 msgid "Jump prefered hours backward"
-msgstr ""
+msgstr "Skocz preferowane czas do tyłu"
 
 msgid "Set prefered hours to jump"
-msgstr ""
+msgstr "Ustaw preferowany czas do skoku"
 
 msgid "Jump prefered hours forward"
-msgstr ""
+msgstr "Skocz preferowane czas do przodu"
 
 msgid "Jump page backward"
-msgstr ""
+msgstr "Skocz stronę do tyłu"
 
 msgid "Jump to Prime Time"
-msgstr ""
+msgstr "Skocz do czasu największej oglądalności"
 
 msgid "Jump page forward"
-msgstr ""
+msgstr "Skocz stronę do przodu"
 
 msgid "Jump to now"
-msgstr ""
+msgstr "Skocz do teraz"
 
 msgid "jump: "
-msgstr ""
+msgstr "skocz:"
 
 msgid "h"
-msgstr ""
+msgstr "h"
 
 msgid "Zap+Exit"
-msgstr ""
+msgstr "Przełącz i wyjdź"
 
 msgid ""
 "Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
 "Please install it to use this function"
 msgstr ""
+"Przepraszam, ale wtyczka %s nie jest zainstalowana na Twoim VU+
+"Proszę zainstalować ją aby użyć tej funkcji"
 
 msgid "Toggle timer state"
-msgstr ""
+msgstr "Przełącz stan timera"
 
 msgid "EPG search"
-msgstr ""
+msgstr "Szukaj EPG"
 
 msgid "Toggle clock / bars view for timer"
-msgstr ""
+msgstr "Przełączanie zegara / widoku belki dla nagrania"
 
 msgid "Disable Animations"
-msgstr ""
+msgstr "Wyłącz animacje"
 
 msgid "Simple fade"
-msgstr ""
+msgstr "Proste blaknięcie"
 
 msgid "Grow drop"
-msgstr ""
+msgstr "Uporządkuj rosnąco"
 
 msgid "Grow from left"
-msgstr ""
+msgstr "Rosnąco od lewej"
 
 msgid "Popup"
-msgstr ""
+msgstr "Wyskakujące okno"
 
 msgid "Slide drop"
-msgstr ""
+msgstr "Przesuń spadkowo"
 
 msgid "Slide left to right"
-msgstr ""
+msgstr "Przesuń od lewej do prawej"
 
 msgid "Slide top to bottom"
-msgstr ""
+msgstr "Przesuń od góry do dołu"
 
 msgid "Stripes"
-msgstr ""
+msgstr "Paski"
 
 msgid "* current animation"
-msgstr ""
+msgstr "* obecna animacja"
 
 msgid "Preview"
-msgstr ""
+msgstr "Zapowiedź"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animacje"
 
 msgid "Animation type:"
-msgstr ""
+msgstr "Typ animacji:"
 
 msgid "Animation speed:"
-msgstr ""
+msgstr "Szybkość animacji:"
 
 msgid "Setup UI animations"
-msgstr ""
+msgstr "Konfiguracja animacji"
 
 msgid "start xbmc mediacenter"
-msgstr ""
+msgstr "Uruchom XBMC Media Center"
 
 msgid "XBMC Launcher"
-msgstr ""
+msgstr "XBMC Launcher"
 
 msgid "Do you really want to disable timer:"
-msgstr ""
+msgstr "Czy na pewno chcesz wyłączyć nagranie:"
 
 msgid "Do you really want to enable timer:"
-msgstr ""
+msgstr "Czy na pewno chcesz włączyć nagranie:"
 
 msgid "Would you save the entered PIN %s persistent?"
-msgstr ""
+msgstr "Czy chcesz zapisać wprowadzony kod PIN% na trwałe?"
 
 msgid "Set pin code persistent"
-msgstr ""
+msgstr "Ustaw kod PIN trwale"
 
 msgid "Enter persistent PIN code"
-msgstr ""
+msgstr "Wprowadź trwale kod PIN"
 
 msgid "Reset persistent PIN code"
-msgstr ""
+msgstr "Zresetuj trwale kod PIN"
 
 msgid "The saved PIN was cleared."
-msgstr ""
+msgstr "Zapisany PIN został wyczyszczony."
 
 msgid "Enter PIN"
-msgstr ""
+msgstr "Wprowadź kod PIN"
 
 msgid "Reenter PIN"
-msgstr ""
+msgstr "Wprowadź ponownie kod PIN"
 
 msgid "The PIN code has been saved successfully."
-msgstr ""
+msgstr "Kod PIN został zapisany pomyślnie."
 
 msgid "Enable ZAP history menu"
-msgstr ""
+msgstr "Włacz menu historii przełączania"
 
 msgid "Zap History"
-msgstr ""
+msgstr "Historia przełączania"
 
 msgid "Use folder based configuration (list / sort type)"
-msgstr ""
+msgstr "Użyj folder na podstawie konfiguracji (lista / typ sortowania)"
 
 msgid "Protect movies and directories"
-msgstr ""
+msgstr "Chroń filmy i katalogi"
 
 msgid "Change movie / directory PIN"
-msgstr ""
+msgstr "Zmień PIN filmu / katalogu"
 
 msgid "Remember movie / directory PIN"
-msgstr ""
+msgstr "Zapamiętaj PIN filmu / katalogu"
 
 msgid "movie / directory PIN"
-msgstr ""
+msgstr "PIN filmu / katalogu"
 
 msgid ""
 "No valid movie / directory PIN found!\n"
 "Do you like to change the movie / directory PIN now?\n"
 "When you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
+"Brak ważnego PIN dla filmu / katalogu!\n"
+"Czy chcesz zmienić kod PIN filmu / katalogu teraz?\n"
+"Kiedy powieisz "nie" ochrona filmu / katalogu pozostanie wyłączona!"
 
 msgid "Reset movie / directory PIN cache"
-msgstr ""
+msgstr "Zresetuj PIN filmu / katalogu"
 
 msgid "Protect deleting of movies"
-msgstr ""
+msgstr "Chroń kasowanie filmów"
 
 msgid "Change movie-delete PIN"
-msgstr ""
+msgstr "Zmień PIN kasowania filmu"
 
 msgid "Remember movie-delete PIN"
-msgstr ""
+msgstr "Zapamiętaj PIN kasowania filmu"
 
 msgid "movie-delete PIN"
-msgstr ""
+msgstr "PIN kasowania filmu"
 
 msgid ""
 "No valid movie-delete PIN found!\n"
 "Do you like to change the movie-delete PIN now?\n"
 "When you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
+"Brak ważnego PIN kasowania filmu / katalogu!\n"
+"Czy chcesz zmienić kod PIN kasowania filmu / katalogu teraz?\n"
+"Kiedy powiesz "nie" ochrona filmu / katalogu pozostanie wyłączona!"
+
 
 msgid "Reset movie-delete PIN cache"
-msgstr ""
+msgstr "Zresetuj PIN kasowania filmu / katalogu"
 
 msgid "toggle parental control"
-msgstr ""
+msgstr "przełącznik kontroli rodzicielskiej"
 
 msgid "search EPG"
-msgstr ""
+msgstr "szukaj EPG"
 
 msgid "Hide service name in service list (compact style)"
-msgstr ""
+msgstr "Ukryj nazwa usługi na liście usług (styl kompaktowy)"
 
 msgid "Use double-spaced list style"
-msgstr ""
+msgstr "Użyj stylu listy podwójnego odstępu"
 
 msgid "Add Autotimer"
-msgstr ""
+msgstr "Dodaj Autotimer"
 
 msgid "TMDb Infos"
-msgstr ""
+msgstr "Informacja TMDb"
 
 msgid "Could not connect to server"
-msgstr ""
+msgstr "Nie można połączyć się z serwerem"
 
 msgid "No matching place names found"
-msgstr ""
+msgstr "Nie znaleziono pasujących nazw miejsc"
 
 msgid "Animation start delay:"
-msgstr ""
+msgstr "Opóźnienia startu animacji:"
 
 msgid "Do you want to setup animations?"
-msgstr ""
+msgstr "Chcesz ustawić animacje?"
 
 msgid "show"
-msgstr ""
+msgstr "pokaż"
 
 msgid "hide"
-msgstr ""
+msgstr "ukryj"
 
 msgid "Sort order for plugins"
-msgstr ""
+msgstr "Sortuj porządek dla wtyczek"
 
 msgid "Edit mode off"
-msgstr ""
+msgstr "Tryb edycji wyłączony"
 
 msgid "Edit mode on"
-msgstr ""
+msgstr "Tryb edycji włączony"
 
 msgid "alphabetical"
-msgstr ""
+msgstr "alfabetycznie"
 
 msgid "Sort order for menu entries"
-msgstr ""
+msgstr "Sortuj porządek dla pozycji menu"
 
 msgid "Move mode on"
-msgstr ""
+msgstr "Tryb przenoszenia włączony"
 
 msgid "Move mode off"
-msgstr ""
+msgstr "Tryb przenoszenia wyłączony"
 
 msgid "copy to: "
-msgstr ""
+msgstr "kopiuj do:"
 
 msgid "Animation Setup"
-msgstr ""
+msgstr "Ustawienia animacji"
 
 msgid "SAT>IP Client Tuner Setup"
-msgstr ""
+msgstr "Ustawienia tunera klienta SAT>IP"
 
 msgid "Discover"
-msgstr ""
+msgstr "Odkryj"
 
 msgid "Starting..."
-msgstr ""
+msgstr "Uruchamiam..."
 
 msgid "SAT>IP server discovering for %d seconds..."
-msgstr ""
+msgstr "SAT>IP server zostanie odnaleziony za %d sekund..."
 
 msgid "SAT>IP server is not detected."
-msgstr ""
+msgstr "SAT> IP serwer nie został znaleziony."
 
 msgid "SAT>IP Server : "
-msgstr ""
+msgstr "SAT>IP Serwer : "
 
 msgid "SAT>IP Tuner Type : "
-msgstr ""
+msgstr "Typ tunera SAT>IP : "
 
 msgid "Server capacity is fulled."
-msgstr ""
+msgstr "Pojemność serwera jest przepełniona."
 
 msgid "SAT>IP Client Setup"
-msgstr ""
+msgstr "Ustawienia klkienta SAT>IP"
 
 msgid "Select tuner and press setup key (Yellow)"
 msgstr ""
@@ -8901,310 +8910,318 @@ msgid ""
 "Reboot now ?\n"
 "\n"
 msgstr ""
+"Należy ponownie uruchomić VU+ aby zmienić konfigurację SAT>IP.\n"
+"\n"
+"Uruchom ponownie ?\n"
+"\n"
 
 msgid "SAT>IP Client"
-msgstr ""
+msgstr "Klient SAT>IP"
 
 msgid "SAT>IP Client attached to vtuner."
-msgstr ""
+msgstr "Klient SAT>IP połączone z vtuner"
 
 msgid "VIRTUAL TUNER %s"
-msgstr ""
+msgstr "VIRTUALNY TUNER %s"
 
 msgid "TYPE : %s"
-msgstr ""
+msgstr "TYP : %s"
 
 msgid "IP : %s"
-msgstr ""
+msgstr "IP : %s"
 
 msgid "TUNER TYPE : %s"
-msgstr ""
+msgstr "TYP TUNERA : %s"
 
 msgid "SAT>IP SERVER : %s"
-msgstr ""
+msgstr "SERVER SAT>IP : %s "
 
 msgid "Choices"
-msgstr ""
+msgstr "Wybór"
 
 msgid "Animate Infobar show/hide"
-msgstr ""
+msgstr "Pokaż / Ukryj animację paska informacyjnego"
 
 msgid "Infobar show/hide animation speed"
-msgstr ""
+msgstr "Pokaż / Ukryj animację prędkości paseka informacyjnego"
 
 msgid "fade in"
-msgstr ""
+msgstr "blaknięcie"
 
 msgid "fade out"
-msgstr ""
+msgstr "zanikanie"
 
 msgid "fade in/out"
-msgstr ""
+msgstr "blaknięcie/zanikanie"
 
 msgid ""
 "\n"
 "<This tuner is configured automatically>"
 msgstr ""
+"\n"
+"<Ten tuner jest automatycznie konfigurowany>"
 
 msgid "Disable FastZapping"
-msgstr ""
+msgstr "Wyłącz szybkie przełączanie"
 
 msgid "Enable FastZapping"
-msgstr ""
+msgstr "Włącz szybkie przełączanie"
 
 msgid "Disable MiniTV"
-msgstr ""
+msgstr "Wyłącz MiniTV"
 
 msgid "Enable MiniTV"
-msgstr ""
+msgstr "Włącz MiniTV"
 
 msgid ""
 "You can now choose your preferred skin.\n"
 "Please press OK"
 msgstr ""
+"Teraz możesz wybrać preferowaną skórę.\n"
+"Proszę nacisnąć OK"
 
 msgid "Chipset"
-msgstr ""
+msgstr "Chipset"
 
 msgid "CPU"
-msgstr ""
+msgstr "Procesor"
 
 msgid "Enable SmartSeek (button UP and DOWN)"
-msgstr ""
+msgstr "Włącz SmartSeek (klawisz góra i dół)"
 
 msgid "Set marker at SmartSeek start and end position"
-msgstr ""
+msgstr "Ustaw znacznik w SmartSeek dla rozpoczęcia i zakończenia"
 
 msgid "Initial SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Wstępny przedział czasowy SmartSeek (sekundy)"
 
 msgid "Timeout for SmartSeek in seconds"
-msgstr ""
+msgstr "Limit czasu dla SmartSeek w sekundach"
 
 msgid "SmartSeek: skip forward..."
-msgstr ""
+msgstr "SmartSeek: przejdź do przodu..."
 
 msgid "SmartSeek: skip backward..."
-msgstr ""
+msgstr "SmartSeek: przejdź do tyłu..."
 
 msgid "update latest movies information"
-msgstr ""
+msgstr "aktualizuj najnowsze informacje o filmach"
 
 msgid "latest movies"
-msgstr ""
+msgstr "najnowsze filmy"
 
 msgid "Mark recordings as new for X days (0=off)"
-msgstr ""
+msgstr "Oznacz nagrania jako nowe przez X dni(0 = wyłączone)"
 
 msgid "Location for info file"
-msgstr ""
+msgstr "Lokalizacja dla pliku informacji"
 
 msgid "Recordings of last %d days"
-msgstr ""
+msgstr "Nagrania z ostatnich% dni"
 
 msgid "Mark only unseen recordings as new"
-msgstr ""
+msgstr "Oznacz tylko nieobejrzane nagrania jako nowe"
 
 msgid "Unseen recordings of last %d days"
-msgstr ""
+msgstr "Nieobejrzane nagrania ostatnich %d dni"
 
 msgid "latest unseen movies"
-msgstr ""
+msgstr "Najnowsze nieobejrzane filmy"
 
 msgid "Setup - Display"
-msgstr ""
+msgstr "Ustawienia wyświetlacza"
 
 msgid "Display mode in operation"
-msgstr ""
+msgstr "Tryb wyświetlania w eksploatacji"
 
 msgid "Display mode in standby"
-msgstr ""
+msgstr "Tryb wyświetlania w trybie czuwania"
 
 msgid "Turn off display"
-msgstr ""
+msgstr "Wyłącz wyświetlanie"
 
 msgid "Display mode (LCD)"
-msgstr ""
+msgstr "Tryb wyświetlania (LCD)"
 
 msgid "Please select display (LCD) mode..."
-msgstr ""
+msgstr "Proszę wybrać tryb wyświetlania (LCD) ..."
 
 msgid "HDMI Colorspace"
-msgstr ""
+msgstr "Przestrzeń kolorów HDMI"
 
 msgid "Minimum SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Minimalny przedział czasowy SmartSeek (sekundy)"
 
 msgid "Add bouquet services"
-msgstr ""
+msgstr "Dodaj bukiet usług "
 
 msgid "Include CI assignment for detection of available services"
-msgstr ""
+msgstr "Dołącz zadanie CI do wykrywania dostępnych usług"
 
 msgid "Constant SmartSeek skip intervall in seconds (left/right)"
-msgstr ""
+msgstr "Stały przeskok przedziału czasowego SmartSeek w sekundach(lewy/prawy)"
 
 msgid "Remap left/right to SmartSeek constant skip intervall"
-msgstr ""
+msgstr "Ustaw lewy/prawy dla stałego przeskoku przedziału czasowego SmartSeek"
 
 msgid "Show info for folder"
-msgstr ""
+msgstr "Pokaż informacje o folderze"
 
 msgid "Show new movies in folder info"
-msgstr ""
+msgstr "Pokaż nowe filmy w informacji folderu"
 
 msgid "Show sub directories in folder info"
-msgstr ""
+msgstr "Pokaż podkatalogi w informacji folderu"
 
 msgid "Show folder info at the beginning"
-msgstr ""
+msgstr "Pokaż informacje o katalogu na początku"
 
 msgid "All movies"
-msgstr ""
+msgstr "Wszytskie filmy"
 
 msgid "Show CI messages"
-msgstr ""
+msgstr "Pokaż wiadomości CI"
 
 msgid "Show only new movies in folder info"
-msgstr ""
+msgstr "Pokaż tylko nowe filmy w informacji folderu"
 
 msgid "Sort folders by new items"
-msgstr ""
+msgstr "Sortuj foldery według nowych pozycji"
 
 msgid "Behavior when Live TV event changes during timeshift"
-msgstr ""
+msgstr "Zachowanie podczas zmiany wydarzenia w czasie timeshift"
 
 msgid "Ask before stopping timeshift"
-msgstr ""
+msgstr "Zapytaj przed zatrzymaniem timeshift"
 
 msgid "Start timeshift automatically after given time"
-msgstr ""
+msgstr "Rozpocznij timeshift automatycznie po określonym czasie"
 
 msgid "1 second"
-msgstr ""
+msgstr "1 sekunda"
 
 msgid "2 seconds"
-msgstr ""
+msgstr "2 sekundy"
 
 msgid "3 seconds"
-msgstr ""
+msgstr "3 sekundy"
 
 msgid "4 seconds"
-msgstr ""
+msgstr "4 sekundy"
 
 msgid "5 seconds"
-msgstr ""
+msgstr "5 sekund"
 
 msgid "10 seconds"
-msgstr ""
+msgstr "10 sekund"
 
 msgid "20 seconds"
-msgstr ""
+msgstr "20 sekund"
 
 msgid "30 seconds"
-msgstr ""
+msgstr "30 sekund"
 
 msgid "1 minute"
-msgstr ""
+msgstr "1 minuta"
 
 msgid "2 minutes"
-msgstr ""
+msgstr "2 minuty"
 
 msgid "continue timeshift"
-msgstr ""
+msgstr "kontynuuj timeshift"
 
 msgid "split & keep"
-msgstr ""
+msgstr "podziel i zatrzymaj"
 
 msgid "split & delete"
-msgstr ""
+msgstr "podziel i skasuj"
 
 msgid "stop & keep"
-msgstr ""
+msgstr "zatrzymaj i zostaw"
 
 msgid "stop & delete"
-msgstr ""
+msgstr "zatrzymaj i usuń"
 
 msgid "Live TV event changed"
-msgstr ""
+msgstr "Wydarzenie TV uległo zmianie"
 
 msgid "Save old event and continue timeshift"
-msgstr ""
+msgstr "Zapisz stare wydarzenie i kontynuuj timeshift"
 
 msgid "Delete old event and continue timeshift"
-msgstr ""
+msgstr "Skasuj stare wydarzenie i kontynuuj timeshift"
 
 msgid "Save old event and stop timeshift"
-msgstr ""
+msgstr "Zachowaj stare wydarzenie i kontynuuj timeshift"
 
 msgid "Delete old event and stop timeshift"
-msgstr ""
+msgstr "Skasuj stare wydarzenie i zatrzymaj timeshift"
 
 msgid "seek to timeshift end (Live TV)"
-msgstr ""
+msgstr "szukaj końca timeshift"
 
 msgid "delete timeshift file"
-msgstr ""
+msgstr "skasuj plik timeshift"
 
 msgid "keep timeshift file"
-msgstr ""
+msgstr "zostaw plik timeshift"
 
 msgid "Behavior when a service changes during timeshift"
-msgstr ""
+msgstr "Zachowanie podczas zmiany programu w czasie timeshift"
 
 msgid "Delete timeshift files older than X days"
-msgstr ""
+msgstr "Usuń pliki timeshift starsze niż X dni"
 
 msgid "Search for old timeshift files every X hours (0 = off)"
-msgstr ""
+msgstr "Szukaj starych plików timeshift co X godzin (0 = wyłączone)"
 
 msgid "Bars view for timer"
-msgstr ""
+msgstr "Widok listy nagrań"
 
 msgid "Time frame of entries in minutes"
-msgstr ""
+msgstr "Ramy czasowe wpisów w minutach"
 
 msgid "Set jump time in hours"
-msgstr ""
+msgstr "Ustaw czas skoku w godzinach"
 
 msgid "Ok button action"
-msgstr ""
+msgstr "Działanie przycisku OK"
 
 msgid "EPG button action"
-msgstr ""
+msgstr "Działanie przycisku EPG"
 
 msgid "Transform Timeshift into recording"
-msgstr ""
+msgstr "Zamień timeshift w nagrywanie"
 
 msgid "Unhide all entries"
-msgstr ""
+msgstr "Pokaż wszystkie wpisy"
 
 msgid "Please select entry to unhide..."
-msgstr ""
+msgstr "Wybierz pozycję, aby pokazać..."
 
 msgid "hide entry: %s"
-msgstr ""
+msgstr "ukryj wpis: %s"
 
 msgid "unhide hidden entry"
-msgstr ""
+msgstr "pokaż ukryty wpis"
 
 msgid "Picon folder for graphical multi EPG"
-msgstr ""
+msgstr "Folder pikon dla graficznego multi EPG"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsola"
 
 msgid "Console & File"
-msgstr ""
+msgstr "Konsola i plik"
 
 msgid "Enable debug log"
-msgstr ""
+msgstr "Włącz dziennik diagnostyczny"
 
 msgid "File (loop)"
-msgstr ""
+msgstr "Plik (pętla)"
 
 msgid "Console & File (loop)"
-msgstr ""
+msgstr "Konsola i plik (pętla)"
 
 msgid "Use buttons &lt; &gt; for switching Timehsift events"
 msgstr ""

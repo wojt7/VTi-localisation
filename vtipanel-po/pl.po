@@ -24,7 +24,7 @@ msgid "OK"
 msgstr "OK"
 
 msgid "not available"
-msgstr ""
+msgstr "niedostępne"
 
 msgid "Current drivers: "
 msgstr "Aktualne sterowniki:"
@@ -42,7 +42,7 @@ msgid "choose drivers for download/install"
 msgstr "Wybierz sterowniki do pobrania/instalacji"
 
 msgid "Sorry, detection of current kernel version failed !"
-msgstr ""
+msgstr "Niestety, wykrywanie obecnej wersji jądra nie powiodło się!"
 
 msgid ""
 "Are you sure you want to install\n"
@@ -73,7 +73,7 @@ msgid "Invalid Choice"
 msgstr "Nieprawidłowy wybór"
 
 msgid "no valid drivers"
-msgstr ""
+msgstr "brak obowiązujących sterowników"
 
 msgid "Please wait ..."
 msgstr "Proszę czekać ..."
@@ -89,7 +89,7 @@ msgid "Driver : %s"
 msgstr "Sterownik : %s"
 
 msgid "choose this drivers for download"
-msgstr ""
+msgstr "Wybierz sterowniki do pobrania"
 
 msgid "Please wait, downloading drivers: "
 msgstr "Proszę czekać, pobieram sterowniki:"
@@ -184,7 +184,7 @@ msgid "install/remove configuration files for softcams"
 msgstr "Instalowanie/Usuwanie plików konfiguracujnych dla Softcam"
 
 msgid "Picons"
-msgstr ""
+msgstr "Pikony"
 
 msgid "install/remove picons for OSD and graphical VFD"
 msgstr "Instalowanie/Usuwanie pikon OSD i VFD"
@@ -208,7 +208,7 @@ msgid "install/remove language packages for dvbapp2"
 msgstr "Instalowanie/Usuwanie pakietów językowych dla Enigma2"
 
 msgid "upgrade"
-msgstr ""
+msgstr "aktualizuj"
 
 msgid "Start"
 msgstr "Uruchom"
@@ -406,7 +406,7 @@ msgstr ""
 "następujący skrypt:\n"
 
 msgid "VTI BackupSuite is running personal script ..."
-msgstr ""
+msgstr "VTI BackupSuite wykonuje prywatny skrypt ..."
 
 msgid "Restore running"
 msgstr "Przywracanie w toku"
@@ -419,7 +419,7 @@ msgstr ""
 "następujące kopie zapasowe:\n"
 
 msgid "Software"
-msgstr ""
+msgstr "Oprogramowanie"
 
 msgid "News"
 msgstr "Nowości"
@@ -608,7 +608,7 @@ msgid "Remove WebBrowser"
 msgstr "Usuń przeglądarkę"
 
 msgid "removes WebBrowser and dependencies"
-msgstr ""
+msgstr "Usuń przeglądarkę internetową i zależności"
 
 msgid "Remove Opera HbbTV"
 msgstr "Usuń Operę HbbTV"
@@ -761,7 +761,7 @@ msgid "Select your backup device. "
 msgstr "Wybierz urządzenie dla kopii zapasowej."
 
 msgid "VTI Image Backup/Restore"
-msgstr ""
+msgstr "VTI Wykonaj/Przywróć kopię zapasową"
 
 msgid "Backup system settings"
 msgstr "Skopiuj ustawienia systemu"
@@ -788,7 +788,7 @@ msgid "Select files for backup. "
 msgstr "Wybierz pliki do kopii zapasowej."
 
 msgid "VTI Expert Backup/Restore"
-msgstr ""
+msgstr "VTI Wykonaj/Przywróć kopię zapasową (ekspert)"
 
 msgid ""
 "\n"
@@ -1390,13 +1390,13 @@ msgid "Loading EPG data from %s finished"
 msgstr "Ładowanie danych EPG z %s ukończone"
 
 msgid "Clearing EPG DB finished"
-msgstr ""
+msgstr "Usuwanie bazy danych EPG ukończone"
 
 msgid "Please wait..."
 msgstr "Proszę czekać..."
 
 msgid "Verifying your internet connection..."
-msgstr ""
+msgstr "Sprawdzanie połączenia internetowego ..."
 
 msgid "Press OK on your remote control to continue."
 msgstr "Naciśnij OK aby kontynuować. "
@@ -1412,7 +1412,7 @@ msgid "Upgrading STB... Please wait"
 msgstr "Aktualizuję VU+.... Proszę czekać"
 
 msgid "Your network is not working. Please try again."
-msgstr ""
+msgstr "Sieć nie działa. Proszę spróbuj ponownie."
 
 msgid "Downloading"
 msgstr "Pobieranie"
@@ -1455,72 +1455,81 @@ msgid "Upgrade finished."
 msgstr "Aktualizacja zakończona."
 
 msgid "VTi Image Download"
-msgstr ""
+msgstr "VTI Pobierz obraz"
 
 msgid "Do your really want to cancel the image download ?"
-msgstr ""
+msgstr "Czy na pewno chcesz anulować pobieranie obrazu?"
 
 msgid "Select image for flash process"
-msgstr ""
+msgstr "Wybierz obraz do załadowania"
 
 msgid "Install this image"
-msgstr ""
+msgstr "Zainstaluj ten obraz"
 
 msgid "VTI Image Flash Tool"
 msgstr "VTI Narzędzia obrazu"
 
 msgid " downloading available image information"
-msgstr ""
+msgstr "pobieranie dostępnej informacje o obrazie"
 
 msgid "Flash extracted image from storage device"
 msgstr "Wgraj rozpakowany obraz z pamięci przenośnej"
 
 #, python-format
 msgid "Image: %s"
-msgstr ""
+msgstr "Obraz: %s"
 
 msgid "Download image from vuplus-support.org and flash it"
 msgstr "Ściągnij obraz z vuplus-support.org i wgraj go"
 
 msgid "Sorry ..."
-msgstr ""
+msgstr "Przepraszam ..."
 
 msgid "The image list can not be loaded, please be patient and try again later"
-msgstr ""
+msgstr "Lista obrazu nie może zostać załadowana, prosimy o cierpliwość i spróbuj ponownie później"
 
 msgid ""
 "This will flash the selected image without further questions.\n"
 "Your current software installation will be deleted and overwritten\n"
 "Really continue ?"
-msgstr ""
+msgstr "
+"To uruchomi wgrywanie obrazu bez dalszych pytań.\n"
+"Twoja obecna instalacja oprogramowania zostanie skasowana i nadpisana\n"
+"Naprawdę kontynuować?"
 
 msgid "Please select medium to use as image location"
-msgstr ""
+msgstr "Proszę wybrać nośnik, który zostanie użyty jako lokalizacja obrazu"
 
 msgid ""
 "Error at creating download destination !\n"
 "Please select another device."
 msgstr ""
+"Błąd przy tworzeniu miejsca pobierania !\n"
+"Proszę wybrać inne urządzenie."
 
 msgid ""
 "There is to low free memory at choosen device\n"
 "Please select another device."
 msgstr ""
+"Nie ma wolnej pamięci na wybranym urządzeniu\n"
+"Proszę wybrać inne urządzenie."
 
 #, python-format
 msgid "Download %s"
-msgstr ""
+msgstr "Pobierz %s"
 
 msgid "Extracting image ..."
-msgstr ""
+msgstr "Wyodrębnianie obrazu ..."
 
 msgid ""
 "Sorry, download verification failed\n"
 "Please try again."
 msgstr ""
+"Niestety, weryfikacja pobierania nie powiodła się\n"
+"Proszę spróbuj ponownie."
 
 msgid "Verifying download ..."
-msgstr ""
+msgstr "Weryfikacja pobrania ..."
 
 msgid ""
 "This will flash the downloaded image.\n"
@@ -1529,19 +1538,29 @@ msgid ""
 "later\n"
 "Really continue ?"
 msgstr ""
+"To załaduje ściągnięty obraz.\n"
+"Twoja obecna instalacja oprogramowania zostanie skasowana i nadpisana\n"
+"Jeśli anulujesz pobrany tutaj obraz zostanie zapisany i załadowany"
+"później\n"
+"Naprawdę kontynuować?"
 
 msgid ""
 "Sorry, necessary files are missing\n"
 "Please try again."
 msgstr ""
+"Niestety, brakuje niezbędnych plików\n"
+"Proszę spróbuj ponownie."
 
 msgid ""
 "Sorry, extracting of image failed\n"
 "Please try again."
 msgstr ""
+"Niestety, nie udało wyodrębnienie obrazu\n"
+"Proszę spróbuj ponownie."
+
 
 msgid "VTi Image Flash Process"
-msgstr ""
+msgstr "VTI Proces wgrywania obrazu"
 
 msgid "Change password for VTI Panel"
 msgstr "Zmień hasło dla VTI Panel"
@@ -1588,7 +1607,7 @@ msgid "Restore is running..."
 msgstr "Przywracanie w toku..."
 
 msgid "VTi Restore Image"
-msgstr ""
+msgstr "VTI Przywróć obraz"
 
 msgid ""
 "No image found!!!! \n"
@@ -1602,7 +1621,7 @@ msgstr ""
 "\"\"z katalogu media/hdd/vuplus/duo/solo/uno lub ultimo.\""
 
 msgid "[ ok ]"
-msgstr ""
+msgstr "[ ok ]"
 
 #, python-format
 msgid ""
@@ -1612,6 +1631,11 @@ msgid ""
 "%s\n"
 "for more details"
 msgstr ""
+"\n"
+"\n"
+"Proszę spójrz\n"
+"%s\n"
+"po więcej szczegółów"
 
 msgid ""
 "Restore of selected image is in progress.\n"
@@ -1620,6 +1644,11 @@ msgid ""
 "\n"
 "Please wait ..."
 msgstr ""
+"Odtwarzanie wybranego obrazu jest w toku.\n"
+"Twój VU+ zostanie uruchomiony ponownie po procesie zapisu\n"
+"Nie wyłączaj !!!\n"
+"\n"
+"Proszę czekać ..."
 
 msgid ""
 "Flash process of selected image is in progress.\n"
@@ -1628,104 +1657,120 @@ msgid ""
 "\n"
 "Please wait ..."
 msgstr ""
+"Proces wgrywania wybranego obrazu jest w toku.\n"
+"Twój VU+ zostanie uruchomiony ponownie po procesie zapisu\n"
+"Nie wyłączaj !!!\n"
+"\n"
+"Proszę czekać ..."
 
 msgid ""
 "Backup of your running image is in progress.\n"
 "The backup can take a few minutes\n"
 "Please wait ..."
 msgstr ""
+"Tworzenie kopii zapasowej obrazu z systemem jest w toku.\n"
+"Kopia zapasowa może potrwać kilka minut\n"
+"Proszę czekać ..."
 
 msgid "preparing backup of image"
-msgstr ""
+msgstr "przygotowanie kopii zapasowej obrazu"
 
 msgid ""
 "Error at creating backup directories\n"
 "Please try another backup location"
 msgstr ""
+"Błąd przy tworzeniu katalogów kopii zapasowej\n"
+"Proszę spróbować innej lokalizacji kopii zapasowej"
 
 msgid "The system is missing some necessary files !"
-msgstr ""
+msgstr "W systemie brakuje kilku niezbędnych plików!"
 
 msgid "Backup of root filesystem failed"
-msgstr ""
+msgstr "Tworzenie kopii zapasowej głównego systemu plików nie powiodło się"
 
 msgid "backup root filesystem"
-msgstr ""
+msgstr "Kopia zapasowa głównego systemu plików"
 
 msgid "Error at preparing system for backup"
-msgstr ""
+msgstr "Błąd w przygotowaniu systemu do tworzenia kopii zapasowej"
 
 msgid "create flashable file of root filesystem"
-msgstr ""
+msgstr "Utwórz obraz głównego systemu plików"
 
 msgid "backup of running kernel"
-msgstr ""
+msgstr "Kopia zapasowa jądra systemu"
 
 msgid "Backup of kernel failed"
-msgstr ""
+msgstr "Kopia zapasowa jądra systemu nie powiodła się"
 
 msgid "Image backup finished successfully"
-msgstr ""
+msgstr "Kopia zapasowa obrazu zakończyła się pomyślnie"
 
 msgid "A new skin was installed\n"
-msgstr ""
+msgstr "Nowa skóra zainstalowana\n"
 
 msgid "Do you want to open the skin choice list?"
-msgstr ""
+msgstr "Czy chcesz otworzyć listę wyboru skór?"
 
 msgid "Remove xbmc"
-msgstr ""
+msgstr "Usuń XBMC"
 
 msgid "uninstall xbmc and dependend packages"
-msgstr ""
+msgstr "Odinstaluj XBMC i pakiety zależne"
 
 msgid "Load EPG data from file every X minutes (0 = off)"
-msgstr ""
+msgstr "Załadowuj dane EPG z pliku co X minut (0 = wyłączone)"
 
 msgid "Save EPG data every X minutes to file (0 = off)"
-msgstr ""
+msgstr "Zapisz dane EPG co X minut do pliku (0 = off)"
 
 msgid "Enable EPG client mode (don't save EPG file)"
-msgstr ""
+msgstr "Włącz tryb klienta EPG (nie zapisuj pliku EPG)"
 
 msgid "Setup - EPG"
-msgstr ""
+msgstr "Ustawienia - EPG"
 
 msgid "Download services lists"
-msgstr ""
+msgstr "Pobierz listę usług"
 
 msgid "Download of services list failes, please be patient and try again later"
-msgstr ""
+msgstr "Pobierz listę usług, które nie powiodły się, prosimy o cierpliwość i spróbuj ponownie późnie
 
 msgid "Sorry, creating download folder failed"
-msgstr ""
+msgstr "Niestety, tworzenie folderu pobierania nie udało się"
 
 msgid ""
 "Sorry, there are some mandatory files missing\n"
 "Please try antoher services list."
 msgstr ""
+"Niestety, brakuje kilku niezbędnych plików.\n"
+"Spróbuj inną listę usług."
 
 msgid ""
 "Sorry, extracting of services list failed\n"
 "Please try again."
 msgstr ""
+"Niestety, wyodrębnienie listy usług nie powiodło się\n"
+"Proszę spróbuj ponownie."
 
 msgid "Loading new services list finished succesfully."
-msgstr ""
+msgstr "Ładowanie listy nowych usług zakończona pomyślnie."
 
 msgid ""
 "Loading the new services list failed.\n"
 "Please try again"
 msgstr ""
+"Ładowanie listy nowych usług nie powiodło się.\n"
+"Proszę spróbuj ponownie"
 
 msgid "Forbid DVB EPG update for black listed services"
-msgstr ""
+msgstr "Zabroń aktualizacji EPG dla czarnej listy programów DVB"
 
 msgid "Add Service"
-msgstr ""
+msgstr "Dodaj usługę"
 
 msgid "Edit blacklist for DVB EPG"
-msgstr ""
+msgstr "Edytuj czarną listę dla DVB EPG"
 
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"
