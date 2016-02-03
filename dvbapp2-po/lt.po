@@ -201,6 +201,9 @@ msgstr ""
 "\n"
 "skaidinys %d : %s MB"
 
+msgid " "
+msgstr ""
+
 msgid "    - Log Directory"
 msgstr "    - Žurnalo katalogas"
 
@@ -9267,6 +9270,9 @@ msgstr "Failas (kartoti)"
 
 msgid "Console & File (loop)"
 msgstr "Konsolė ir failas (kartoti)"
+
+msgid "Use buttons &lt; &gt; for switching Timehsift events"
+msgstr ""
 
 #~ msgid "Cam Center"
 #~ msgstr "Emuliatoriai"

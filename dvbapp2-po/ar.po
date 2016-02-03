@@ -9746,6 +9746,9 @@ msgstr ""
 msgid "Console & File (loop)"
 msgstr ""
 
+msgid "Use buttons &lt; &gt; for switching Timehsift events"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

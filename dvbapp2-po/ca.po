@@ -10437,6 +10437,9 @@ msgstr ""
 msgid "Console & File (loop)"
 msgstr ""
 
+msgid "Use buttons &lt; &gt; for switching Timehsift events"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
