@@ -8660,7 +8660,7 @@ msgid ""
 "Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
 "Please install it to use this function"
 msgstr ""
-"Przepraszam, ale wtyczka %s nie jest zainstalowana na Twoim VU+
+"Przepraszam, ale wtyczka %s nie jest zainstalowana na Twoim VU+\n"
 "Proszę zainstalować ją aby użyć tej funkcji"
 
 msgid "Toggle timer state"
@@ -8781,7 +8781,7 @@ msgid ""
 msgstr ""
 "Brak ważnego PIN dla filmu / katalogu!\n"
 "Czy chcesz zmienić kod PIN filmu / katalogu teraz?\n"
-"Kiedy powieisz "nie" ochrona filmu / katalogu pozostanie wyłączona!"
+"Kiedy powieisz 'nie' ochrona filmu / katalogu pozostanie wyłączona!"
 
 msgid "Reset movie / directory PIN cache"
 msgstr "Zresetuj PIN filmu / katalogu"
@@ -8805,7 +8805,7 @@ msgid ""
 msgstr ""
 "Brak ważnego PIN kasowania filmu / katalogu!\n"
 "Czy chcesz zmienić kod PIN kasowania filmu / katalogu teraz?\n"
-"Kiedy powiesz "nie" ochrona filmu / katalogu pozostanie wyłączona!"
+"Kiedy powiesz 'nie' ochrona filmu / katalogu pozostanie wyłączona!"
 
 
 msgid "Reset movie-delete PIN cache"
