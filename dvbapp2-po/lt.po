@@ -9271,7 +9271,7 @@ msgstr "Failas (kartoti)"
 msgid "Console & File (loop)"
 msgstr "Konsolė ir failas (kartoti)"
 
-msgid "Use buttons &lt; &gt; for switching Timehsift events"
+msgid "Use prev/next buttons for switching timeshift events"
 msgstr ""
 
 #~ msgid "Cam Center"

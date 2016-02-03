@@ -11342,5 +11342,5 @@ msgstr "Datei (Schleife)"
 msgid "Console & File (loop)"
 msgstr "Konsole & Datei (Schleife)"
 
-msgid "Use buttons &lt; &gt; for switching Timehsift events"
-msgstr "Verwende die Tasten &lt; &gt; für den Wechsel der Timehsift Sendungen"
+msgid "Use prev/next buttons for switching timeshift events"
+msgstr "Benutze vor/zurück für Wechsel der Timehsift Sendung"

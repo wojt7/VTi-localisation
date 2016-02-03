@@ -10476,7 +10476,7 @@ msgstr ""
 msgid "Console & File (loop)"
 msgstr ""
 
-msgid "Use buttons &lt; &gt; for switching Timehsift events"
+msgid "Use prev/next buttons for switching timeshift events"
 msgstr ""
 
 #

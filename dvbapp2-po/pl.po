@@ -8807,7 +8807,6 @@ msgstr ""
 "Czy chcesz zmienić kod PIN kasowania filmu / katalogu teraz?\n"
 "Kiedy powiesz 'nie' ochrona filmu / katalogu pozostanie wyłączona!"
 
-
 msgid "Reset movie-delete PIN cache"
 msgstr "Zresetuj PIN kasowania filmu / katalogu"
 
@@ -9223,7 +9222,7 @@ msgstr "Plik (pętla)"
 msgid "Console & File (loop)"
 msgstr "Konsola i plik (pętla)"
 
-msgid "Use buttons &lt; &gt; for switching Timehsift events"
+msgid "Use prev/next buttons for switching timeshift events"
 msgstr ""
 
 #~ msgid "E"
