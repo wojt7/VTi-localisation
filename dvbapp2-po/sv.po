@@ -10524,6 +10524,9 @@ msgstr ""
 msgid "Transform old timeshift event into recording"
 msgstr ""
 
+msgid "Hide timeshift files in movie list"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "Ö"

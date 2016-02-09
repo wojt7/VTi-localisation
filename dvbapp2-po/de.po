@@ -11353,3 +11353,6 @@ msgstr "Bitte Timeshift Datei auswählen"
 
 msgid "Transform old timeshift event into recording"
 msgstr "Alte Timeshift Sendung in Aufnahme wandeln"
+
+msgid "Hide timeshift files in movie list"
+msgstr "Timeshift Sendungen in der Filmliste ausblenden"
