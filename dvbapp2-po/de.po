@@ -11343,4 +11343,13 @@ msgid "Console & File (loop)"
 msgstr "Konsole & Datei (Schleife)"
 
 msgid "Use prev/next buttons for switching timeshift events"
-msgstr "Benutze vor/zurück für Wechsel der Timehsift Sendung"
+msgstr "Benutze vor/zurück für Wechsel der Timeshift Sendung"
+
+msgid "Avoid simultaneous timer starts"
+msgstr "Verhindere zeitgleiche Aufnahmestarts"
+
+msgid "Please select timeshift file"
+msgstr "Bitte Timeshift Datei auswählen"
+
+msgid "Transform old timeshift event into recording"
+msgstr "Alte Timeshift Sendung in Aufnahme wandeln"

@@ -9225,6 +9225,15 @@ msgstr "Konsola i plik (pętla)"
 msgid "Use prev/next buttons for switching timeshift events"
 msgstr ""
 
+msgid "Avoid simultaneous timer starts"
+msgstr ""
+
+msgid "Please select timeshift file"
+msgstr ""
+
+msgid "Transform old timeshift event into recording"
+msgstr ""
+
 #~ msgid "E"
 #~ msgstr "E"
 
