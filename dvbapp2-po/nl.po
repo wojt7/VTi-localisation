@@ -10593,6 +10593,9 @@ msgstr ""
 msgid "Hide timeshift files in movie list"
 msgstr ""
 
+msgid "Current timeshift"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "O"
