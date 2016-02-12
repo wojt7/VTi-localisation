@@ -9764,6 +9764,9 @@ msgstr ""
 msgid "Current timeshift"
 msgstr ""
 
+msgid "Show old timeshift events"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

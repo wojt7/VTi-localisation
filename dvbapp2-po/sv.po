@@ -10530,6 +10530,9 @@ msgstr ""
 msgid "Current timeshift"
 msgstr ""
 
+msgid "Show old timeshift events"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "Ö"

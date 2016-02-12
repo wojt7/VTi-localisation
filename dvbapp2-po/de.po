@@ -11359,3 +11359,6 @@ msgstr "Timeshift Sendungen in der Filmliste ausblenden"
 
 msgid "Current timeshift"
 msgstr "Aktuelles Timeshift"
+
+msgid "Show old timeshift events"
+msgstr "Alte Timeshift Aufzeichnungen anzeigen"
