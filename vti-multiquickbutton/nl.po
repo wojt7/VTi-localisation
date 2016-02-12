@@ -585,6 +585,15 @@ msgstr ""
 msgid "Stop running recordings"
 msgstr ""
 
+msgid "Previous timeshift event"
+msgstr ""
+
+msgid "Next timeshift event"
+msgstr ""
+
+msgid "Select timeshift event"
+msgstr ""
+
 #~ msgid "Channels"
 #~ msgstr "Kanalen"
 

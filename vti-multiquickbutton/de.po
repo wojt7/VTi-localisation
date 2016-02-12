@@ -569,6 +569,15 @@ msgstr "Wechsle von Timeshift zu Live TV"
 msgid "Stop running recordings"
 msgstr "Laufende Aufnahmen beenden"
 
+msgid "Previous timeshift event"
+msgstr "Vorherige Timeshift Aufzeichnung"
+
+msgid "Next timeshift event"
+msgstr "Nächste Timeshift Aufzeichnung"
+
+msgid "Select timeshift event"
+msgstr "Timeshift Aufzeichnung auswählen"
+
 #~ msgid "InfoBar Show Movies"
 #~ msgstr "Aufnahmen"
 
