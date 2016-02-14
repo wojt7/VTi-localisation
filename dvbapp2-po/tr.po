@@ -11105,6 +11105,9 @@ msgstr ""
 msgid "Show old timeshift events"
 msgstr ""
 
+msgid "Do not save timeshift events shorter than X minutes"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "D"

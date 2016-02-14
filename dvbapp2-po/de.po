@@ -11362,3 +11362,6 @@ msgstr "Aktuelles Timeshift"
 
 msgid "Show old timeshift events"
 msgstr "Alte Timeshift Aufzeichnungen anzeigen"
+
+msgid "Do not save timeshift events shorter than X minutes"
+msgstr "Timeshift Aufzeichnungen kürzer als X Minuten nicht speichern"
