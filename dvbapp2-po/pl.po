@@ -6669,13 +6669,13 @@ msgid "Wireless Network"
 msgstr "Sieć bezprzewodowa"
 
 msgid "Wireless network connection setup"
-msgstr ""
+msgstr "Konfiguracja połączenia z siecią bezprzewodową"
 
 msgid "Wireless network connection setup."
-msgstr ""
+msgstr "Konfiguracja połączenia z siecią bezprzewodową"
 
 msgid "Wireless network state"
-msgstr ""
+msgstr "Stan sieci bezprzewodowej"
 
 msgid "Write error while recording. Disk full?\n"
 msgstr "Błąd zapisu podczas nagrywania. Dysk jest pełny?\n"
@@ -6699,7 +6699,7 @@ msgid "Yes to all"
 msgstr "Tak dla wszystkich"
 
 msgid "Yes, always"
-msgstr ""
+msgstr "Tak, zawsze"
 
 msgid "Yes, and delete this movie"
 msgstr "Tak, usuń ten film"
@@ -6944,7 +6944,7 @@ msgid "[favourite edit]"
 msgstr "[edycja ulubionych]"
 
 msgid "[move mode]"
-msgstr "[[tryb przesuwania]"
+msgstr "[tryb przesuwania]"
 
 msgid "a gui to assign services/providers to common interface modules"
 msgstr "GUI do wyznaczenia kanałów/nadawców dla modułów CI"
@@ -8901,7 +8901,7 @@ msgid "SAT>IP Client Setup"
 msgstr "Ustawienia klkienta SAT>IP"
 
 msgid "Select tuner and press setup key (Yellow)"
-msgstr ""
+msgstr "Wybierz tuner i naciśnij przycisk setup (żółty)"
 
 msgid ""
 "You should now reboot your STB to change SAT>IP Configuration.\n"
@@ -9223,28 +9223,28 @@ msgid "Console & File (loop)"
 msgstr "Konsola i plik (pętla)"
 
 msgid "Use prev/next buttons for switching timeshift events"
-msgstr ""
+msgstr "Użyj przycisku poprzedni/następny do przełączania wydarzenia timeshift"
 
 msgid "Avoid simultaneous timer starts"
-msgstr ""
+msgstr "Unikaj jednoczesnego załączenia timera"
 
 msgid "Please select timeshift file"
-msgstr ""
+msgstr "Proszę wybrać plik timeshift"
 
 msgid "Transform old timeshift event into recording"
-msgstr ""
+msgstr "Zamień stare wydarzenia timeshift w nagrania"
 
 msgid "Hide timeshift files in movie list"
-msgstr ""
+msgstr "Ukryj pliki timeshift na liście filmów"
 
 msgid "Current timeshift"
-msgstr ""
+msgstr "Aktualny timeshift"
 
 msgid "Show old timeshift events"
-msgstr ""
+msgstr "Pokaż stare wydarzenia timeshift"
 
 msgid "Do not save timeshift events shorter than X minutes"
-msgstr ""
+msgstr "Nie zapisuj wydarzenia timeshift krótszego niż X minut"
 
 #~ msgid "E"
 #~ msgstr "E"
