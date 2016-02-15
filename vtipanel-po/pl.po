@@ -1492,7 +1492,7 @@ msgid ""
 "This will flash the selected image without further questions.\n"
 "Your current software installation will be deleted and overwritten\n"
 "Really continue ?"
-msgstr "
+msgstr ""
 "To uruchomi wgrywanie obrazu bez dalszych pytań.\n"
 "Twoja obecna instalacja oprogramowania zostanie skasowana i nadpisana\n"
 "Naprawdę kontynuować?"
@@ -1734,7 +1734,7 @@ msgid "Download services lists"
 msgstr "Pobierz listę usług"
 
 msgid "Download of services list failes, please be patient and try again later"
-msgstr "Pobierz listę usług, które nie powiodły się, prosimy o cierpliwość i spróbuj ponownie późnie
+msgstr "Pobierz listę usług, które nie powiodły się, prosimy o cierpliwość i spróbuj ponownie późnie"
 
 msgid "Sorry, creating download folder failed"
 msgstr "Niestety, tworzenie folderu pobierania nie udało się"
