@@ -2,122 +2,176 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Automatic Screen Resolution V. 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-10 16:57+0100\n"
+"POT-Creation-Date: 2010-04-14 19:59+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Roxy <vro@wo.cz>\n"
 "Language-Team: \n"
+"Language: cs_CS\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _(\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"Language: cs_CS\n"
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: ../src\n"
 
-msgid "Autoresolution"
-msgstr "Automatické rozlišení"
-
-msgid ""
-"Autoresolution Plugin Testmode:\n"
-"Is %s OK?"
+#: ../src/plugin.py:36
+msgid "disabled"
 msgstr ""
-"Automatické rozlišení - plugin, test.mód : \n"
-"Je %s OK ?"
 
-msgid "Autoresolution Switch"
-msgstr "Automatické rozlišení - přepínač"
+#: ../src/plugin.py:36
+msgid "immediately after recording"
+msgstr ""
 
-msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr "Automatické rozlišení - nepracuje v Scart/DVI-PC módu"
+#: ../src/plugin.py:36
+msgid "older than 1 day"
+msgstr ""
 
-msgid "Autoresolution settings"
-msgstr "Automatické rozlišení..."
+#: ../src/plugin.py:36
+msgid "older than 3 days"
+msgstr ""
 
-msgid "Autoresolution videomode setup"
-msgstr "Automatické rozlišení - nastavení módu videa"
+#: ../src/plugin.py:36
+msgid "older than 1 week"
+msgstr ""
 
+#: ../src/plugin.py:36
+msgid "older than 2 weeks"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 4 weeks"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 6 weeks"
+msgstr ""
+
+#: ../src/plugin.py:49 ../src/plugin.py:125
+msgid "Automatic Timerlist Cleanup Setup"
+msgstr ""
+
+#: ../src/plugin.py:122 ../src/plugin.py:125
+msgid "Timerlist Cleanup Setup"
+msgstr ""
+
+#: ../src/plugin.py:53
 msgid "Cancel"
 msgstr "Storno"
 
-msgid "Deinterlacer mode for interlaced content"
-msgstr "Neprokládaný režim pro prokládaný obsah"
-
-msgid "Deinterlacer mode for progressive content"
-msgstr "Neprokládaný režim pro progresivní obsah"
-
-msgid "Delay x seconds after service started"
-msgstr "Zpoždění x sekund po startu služby"
-
-msgid "Enable 1080p24 Mode"
-msgstr "Aktivovat 1080p24 jako..."
-
-msgid "Enable 1080p25 Mode"
-msgstr "Aktivovat 1080p25 jako..."
-
-msgid "Enable 1080p30 Mode"
-msgstr "Aktivovat 1080p30 jako..."
-
-msgid "Enable 720p24 Mode"
-msgstr "Aktivovat 720p24 jako..."
-
-msgid "Enable Autoresolution"
-msgstr "Aktivovat aut.rozlišení"
-
-msgid "HD Interlace Mode"
-msgstr "HD prokládaný mód"
-
-msgid "HD Progressive Mode"
-msgstr "HD progresivní mód"
-
+#: ../src/plugin.py:54
 msgid "OK"
 msgstr "OK"
 
-msgid "Refresh Rate"
-msgstr "Obnovovací kmitočet"
+#: ../src/plugin.py:56
+msgid "Cleanup timerlist-entries"
+msgstr ""
 
-msgid "Running in testmode"
-msgstr "Spustit v test.módu"
+#
+msgid "UHD Interlace Mode"
+msgstr ""
 
-msgid "SD 25/50HZ Interlace Mode"
-msgstr "SD 25/50HZ prokládaný mód"
+#
+msgid "UHD Progressive Mode"
+msgstr ""
 
-msgid "SD 25/50HZ Progressive Mode"
-msgstr "SD 25/50HZ progresivní mód"
+#~ msgid "Autoresolution"
+#~ msgstr "Automatické rozlišení"
 
-msgid "SD 30/60HZ Interlace Mode"
-msgstr "SD 30/60HZ prokládaný mód"
+#~ msgid ""
+#~ "Autoresolution Plugin Testmode:\n"
+#~ "Is %s OK?"
+#~ msgstr ""
+#~ "Automatické rozlišení - plugin, test.mód : \n"
+#~ "Je %s OK ?"
 
-msgid "SD 30/60HZ Progressive Mode"
-msgstr "SD 30/60HZ progresivní mód"
+#~ msgid "Autoresolution Switch"
+#~ msgstr "Automatické rozlišení - přepínač"
 
-msgid "Show info screen"
-msgstr "Zobrazit info"
+#~ msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+#~ msgstr "Automatické rozlišení - nepracuje v Scart/DVI-PC módu"
 
-msgid "Videocontent:"
-msgstr "Obsah videa :"
+#~ msgid "Autoresolution settings"
+#~ msgstr "Automatické rozlišení..."
 
-msgid "Videomode:"
-msgstr "Mód videa :"
+#~ msgid "Autoresolution videomode setup"
+#~ msgstr "Automatické rozlišení - nastavení módu videa"
 
-msgid "auto"
-msgstr "automaticky"
+#~ msgid "Deinterlacer mode for interlaced content"
+#~ msgstr "Neprokládaný režim pro prokládaný obsah"
 
-msgid "bob"
-msgstr "nejlepší"
+#~ msgid "Deinterlacer mode for progressive content"
+#~ msgstr "Neprokládaný režim pro progresivní obsah"
 
-msgid "default"
-msgstr "standardní"
+#~ msgid "Delay x seconds after service started"
+#~ msgstr "Zpoždění x sekund po startu služby"
 
-msgid "off"
-msgstr "vypnuto"
+#~ msgid "Enable 1080p24 Mode"
+#~ msgstr "Aktivovat 1080p24 jako..."
 
-msgid "on"
-msgstr "zapnuto"
+#~ msgid "Enable 1080p25 Mode"
+#~ msgstr "Aktivovat 1080p25 jako..."
 
-msgid "second"
-msgstr "sekund"
+#~ msgid "Enable 1080p30 Mode"
+#~ msgstr "Aktivovat 1080p30 jako..."
 
-msgid "seconds"
-msgstr "sekund"
+#~ msgid "Enable 720p24 Mode"
+#~ msgstr "Aktivovat 720p24 jako..."
+
+#~ msgid "Enable Autoresolution"
+#~ msgstr "Aktivovat aut.rozlišení"
+
+#~ msgid "HD Interlace Mode"
+#~ msgstr "HD prokládaný mód"
+
+#~ msgid "HD Progressive Mode"
+#~ msgstr "HD progresivní mód"
+
+#~ msgid "Refresh Rate"
+#~ msgstr "Obnovovací kmitočet"
+
+#~ msgid "Running in testmode"
+#~ msgstr "Spustit v test.módu"
+
+#~ msgid "SD 25/50HZ Interlace Mode"
+#~ msgstr "SD 25/50HZ prokládaný mód"
+
+#~ msgid "SD 25/50HZ Progressive Mode"
+#~ msgstr "SD 25/50HZ progresivní mód"
+
+#~ msgid "SD 30/60HZ Interlace Mode"
+#~ msgstr "SD 30/60HZ prokládaný mód"
+
+#~ msgid "SD 30/60HZ Progressive Mode"
+#~ msgstr "SD 30/60HZ progresivní mód"
+
+#~ msgid "Show info screen"
+#~ msgstr "Zobrazit info"
+
+#~ msgid "Videocontent:"
+#~ msgstr "Obsah videa :"
+
+#~ msgid "Videomode:"
+#~ msgstr "Mód videa :"
+
+#~ msgid "auto"
+#~ msgstr "automaticky"
+
+#~ msgid "bob"
+#~ msgstr "nejlepší"
+
+#~ msgid "default"
+#~ msgstr "standardní"
+
+#~ msgid "off"
+#~ msgstr "vypnuto"
+
+#~ msgid "on"
+#~ msgstr "zapnuto"
+
+#~ msgid "second"
+#~ msgstr "sekund"
+
+#~ msgid "seconds"
+#~ msgstr "sekund"

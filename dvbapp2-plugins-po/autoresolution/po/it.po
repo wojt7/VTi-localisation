@@ -2,121 +2,175 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Automatic Screen Resolution V. 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-10 16:57+0100\n"
+"POT-Creation-Date: 2010-04-14 19:59+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Diamante\n"
 "Language-Team: Diamondear <diavar@tin.it>\n"
+"Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _(\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
-"Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Autoresolution"
-msgstr "Auto Risoluzione"
-
-msgid ""
-"Autoresolution Plugin Testmode:\n"
-"Is %s OK?"
+#: ../src/plugin.py:36
+msgid "disabled"
 msgstr ""
-"Plugin Auto Risoluzione Modalità Test:\n"
-"E %s OK?"
 
-msgid "Autoresolution Switch"
-msgstr "Switch Auto Risoluzione"
+#: ../src/plugin.py:36
+msgid "immediately after recording"
+msgstr ""
 
-msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr "Auto Risoluzione non funziona in modalità Scart/DVI-PC"
+#: ../src/plugin.py:36
+msgid "older than 1 day"
+msgstr ""
 
-msgid "Autoresolution settings"
-msgstr "Impostazioni Auto Risoluzione"
+#: ../src/plugin.py:36
+msgid "older than 3 days"
+msgstr ""
 
-msgid "Autoresolution videomode setup"
-msgstr "Auto Risoluzione Configurazione Modalità Video"
+#: ../src/plugin.py:36
+msgid "older than 1 week"
+msgstr ""
 
+#: ../src/plugin.py:36
+msgid "older than 2 weeks"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 4 weeks"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 6 weeks"
+msgstr ""
+
+#: ../src/plugin.py:49 ../src/plugin.py:125
+msgid "Automatic Timerlist Cleanup Setup"
+msgstr ""
+
+#: ../src/plugin.py:122 ../src/plugin.py:125
+msgid "Timerlist Cleanup Setup"
+msgstr ""
+
+#: ../src/plugin.py:53
 msgid "Cancel"
 msgstr "Cancella"
 
-msgid "Deinterlacer mode for interlaced content"
-msgstr "Modalità di deinterlacciamento per contenuti interlacciati"
-
-msgid "Deinterlacer mode for progressive content"
-msgstr "Modalità di deinterlacciamento per i contenuti progressivi"
-
-msgid "Delay x seconds after service started"
-msgstr "Ritardo x secondi dopo l'avvio del servizio"
-
-msgid "Enable 1080p24 Mode"
-msgstr "Abilita modalità 1080p24"
-
-msgid "Enable 1080p25 Mode"
-msgstr "Abilita modalità 1080p25"
-
-msgid "Enable 1080p30 Mode"
-msgstr "Abilita modalità 1080p30"
-
-msgid "Enable 720p24 Mode"
-msgstr "Abilita modalità 720p24"
-
-msgid "Enable Autoresolution"
-msgstr "Abilita Auto Risoluzione"
-
-msgid "HD Interlace Mode"
-msgstr "Modalità interlacciata HD"
-
-msgid "HD Progressive Mode"
-msgstr "Modalità Progressiva HD"
-
+#: ../src/plugin.py:54
 msgid "OK"
 msgstr "OK"
 
-msgid "Refresh Rate"
-msgstr "Frequenza di Aggiornamento"
+#: ../src/plugin.py:56
+msgid "Cleanup timerlist-entries"
+msgstr ""
 
-msgid "Running in testmode"
-msgstr "Esecuzione in modalità Test"
+#
+msgid "UHD Interlace Mode"
+msgstr ""
 
-msgid "SD 25/50HZ Interlace Mode"
-msgstr "25/50HZ Modalità Interlacciata SD"
+#
+msgid "UHD Progressive Mode"
+msgstr ""
 
-msgid "SD 25/50HZ Progressive Mode"
-msgstr "25/50HZ Modalità Progressiva SD"
+#~ msgid "Autoresolution"
+#~ msgstr "Auto Risoluzione"
 
-msgid "SD 30/60HZ Interlace Mode"
-msgstr "30/60HZ Modalità Interlacciata SD"
+#~ msgid ""
+#~ "Autoresolution Plugin Testmode:\n"
+#~ "Is %s OK?"
+#~ msgstr ""
+#~ "Plugin Auto Risoluzione Modalità Test:\n"
+#~ "E %s OK?"
 
-msgid "SD 30/60HZ Progressive Mode"
-msgstr "30/60HZ Modalità Progressiva SD"
+#~ msgid "Autoresolution Switch"
+#~ msgstr "Switch Auto Risoluzione"
 
-msgid "Show info screen"
-msgstr "Mostra Informazioni sullo Schermo"
+#~ msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+#~ msgstr "Auto Risoluzione non funziona in modalità Scart/DVI-PC"
 
-msgid "auto"
-msgstr "Auto"
+#~ msgid "Autoresolution settings"
+#~ msgstr "Impostazioni Auto Risoluzione"
 
-msgid "bob"
-msgstr "Ottimale"
+#~ msgid "Autoresolution videomode setup"
+#~ msgstr "Auto Risoluzione Configurazione Modalità Video"
 
-msgid "default"
-msgstr "Predefinito"
+#~ msgid "Deinterlacer mode for interlaced content"
+#~ msgstr "Modalità di deinterlacciamento per contenuti interlacciati"
 
-msgid "off"
-msgstr "Off"
+#~ msgid "Deinterlacer mode for progressive content"
+#~ msgstr "Modalità di deinterlacciamento per i contenuti progressivi"
 
-msgid "on"
-msgstr "On"
+#~ msgid "Delay x seconds after service started"
+#~ msgstr "Ritardo x secondi dopo l'avvio del servizio"
 
-msgid "second"
-msgstr "Secondo"
+#~ msgid "Enable 1080p24 Mode"
+#~ msgstr "Abilita modalità 1080p24"
 
-msgid "seconds"
-msgstr "Secondi"
+#~ msgid "Enable 1080p25 Mode"
+#~ msgstr "Abilita modalità 1080p25"
 
-msgid "Videocontent:"
-msgstr "Contenuto Video:"
+#~ msgid "Enable 1080p30 Mode"
+#~ msgstr "Abilita modalità 1080p30"
 
-msgid "Videomode:"
-msgstr "Modalità Video:"
+#~ msgid "Enable 720p24 Mode"
+#~ msgstr "Abilita modalità 720p24"
+
+#~ msgid "Enable Autoresolution"
+#~ msgstr "Abilita Auto Risoluzione"
+
+#~ msgid "HD Interlace Mode"
+#~ msgstr "Modalità interlacciata HD"
+
+#~ msgid "HD Progressive Mode"
+#~ msgstr "Modalità Progressiva HD"
+
+#~ msgid "Refresh Rate"
+#~ msgstr "Frequenza di Aggiornamento"
+
+#~ msgid "Running in testmode"
+#~ msgstr "Esecuzione in modalità Test"
+
+#~ msgid "SD 25/50HZ Interlace Mode"
+#~ msgstr "25/50HZ Modalità Interlacciata SD"
+
+#~ msgid "SD 25/50HZ Progressive Mode"
+#~ msgstr "25/50HZ Modalità Progressiva SD"
+
+#~ msgid "SD 30/60HZ Interlace Mode"
+#~ msgstr "30/60HZ Modalità Interlacciata SD"
+
+#~ msgid "SD 30/60HZ Progressive Mode"
+#~ msgstr "30/60HZ Modalità Progressiva SD"
+
+#~ msgid "Show info screen"
+#~ msgstr "Mostra Informazioni sullo Schermo"
+
+#~ msgid "auto"
+#~ msgstr "Auto"
+
+#~ msgid "bob"
+#~ msgstr "Ottimale"
+
+#~ msgid "default"
+#~ msgstr "Predefinito"
+
+#~ msgid "off"
+#~ msgstr "Off"
+
+#~ msgid "on"
+#~ msgstr "On"
+
+#~ msgid "second"
+#~ msgstr "Secondo"
+
+#~ msgid "seconds"
+#~ msgstr "Secondi"
+
+#~ msgid "Videocontent:"
+#~ msgstr "Contenuto Video:"
+
+#~ msgid "Videomode:"
+#~ msgstr "Modalità Video:"

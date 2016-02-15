@@ -67,3 +67,10 @@ msgstr ""
 msgid "Cleanup timerlist-entries"
 msgstr ""
 
+#
+msgid "UHD Interlace Mode"
+msgstr ""
+
+#
+msgid "UHD Progressive Mode"
+msgstr ""

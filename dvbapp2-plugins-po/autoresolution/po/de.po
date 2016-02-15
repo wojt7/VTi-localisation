@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Automatic Screen Resolution V. 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-10 16:57+0100\n"
+"POT-Creation-Date: 2010-04-14 19:59+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: JuSt611 <Software@Strasdas.de>\n"
 "Language-Team: JuSt611\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,143 +17,156 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-SearchPath-0: ../src\n"
 
-#: ../src/plugin.py:24
-msgid "SD 25/50HZ Interlace Mode"
-msgstr "SD 25/50HZ Interlace Modus"
-
-#: ../src/plugin.py:24
-msgid "SD 30/60HZ Interlace Mode"
-msgstr "SD 30/60HZ Interlace Modus"
-
-#: ../src/plugin.py:25
-msgid "SD 25/50HZ Progressive Mode"
-msgstr "SD 25/50HZ Progressiv Modus"
-
-#: ../src/plugin.py:25
-msgid "SD 30/60HZ Progressive Mode"
-msgstr "SD 30/60HZ Progressiv Modus"
-
-#: ../src/plugin.py:26
-msgid "HD Interlace Mode"
-msgstr "HD Interlace Modus"
-
-#: ../src/plugin.py:26
-msgid "HD Progressive Mode"
-msgstr "HD Progressiv Modus"
-
-#: ../src/plugin.py:27
-msgid "Enable 720p24 Mode"
-msgstr "Modus 720p24 aktivieren"
-
-#: ../src/plugin.py:27
-msgid "Enable 1080p24 Mode"
-msgstr "Modus 1080p24 aktivieren"
-
-#: ../src/plugin.py:28
-msgid "Enable 1080p25 Mode"
-msgstr "Modus 1080p25 aktivieren"
-
-#: ../src/plugin.py:28
-msgid "Enable 1080p30 Mode"
-msgstr "Modus 1080p30 aktivieren"
-
-#: ../src/plugin.py:35
-#: ../src/plugin.py:37
-msgid "off"
-msgstr "aus"
-
-#: ../src/plugin.py:35
-#: ../src/plugin.py:37
-msgid "auto"
-msgstr "automatisch"
-
-#: ../src/plugin.py:35
-#: ../src/plugin.py:37
-msgid "on"
-msgstr "ein"
-
-#: ../src/plugin.py:35
-#: ../src/plugin.py:37
-msgid "bob"
-msgstr "bestmöglich"
-
-#: ../src/plugin.py:39
-msgid "second"
-msgstr "Sekunde"
-
-#: ../src/plugin.py:39
-#: ../src/plugin.py:40
-#: ../src/plugin.py:41
-msgid "seconds"
-msgstr "Sekunden"
-
-#: ../src/plugin.py:117
-msgid "default"
-msgstr "Standard"
-
-#: ../src/plugin.py:227
-#, python-format
-msgid ""
-"Autoresolution Plugin Testmode:\n"
-"Is %s OK?"
+#: ../src/plugin.py:36
+msgid "disabled"
 msgstr ""
-"Autoresolution Plugin Testmodus:\n"
-"Ist %s OK?"
 
-#: ../src/plugin.py:276
-msgid "Autoresolution videomode setup"
-msgstr "Autoresolution Videomodus einstellen"
+#: ../src/plugin.py:36
+msgid "immediately after recording"
+msgstr ""
 
-#: ../src/plugin.py:288
-msgid "OK"
-msgstr "OK"
+#: ../src/plugin.py:36
+msgid "older than 1 day"
+msgstr ""
 
-#: ../src/plugin.py:289
+#: ../src/plugin.py:36
+msgid "older than 3 days"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 1 week"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 2 weeks"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 4 weeks"
+msgstr ""
+
+#: ../src/plugin.py:36
+msgid "older than 6 weeks"
+msgstr ""
+
+#: ../src/plugin.py:49 ../src/plugin.py:125
+msgid "Automatic Timerlist Cleanup Setup"
+msgstr ""
+
+#: ../src/plugin.py:122 ../src/plugin.py:125
+msgid "Timerlist Cleanup Setup"
+msgstr ""
+
+#: ../src/plugin.py:53
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: ../src/plugin.py:295
-msgid "Autoresolution settings"
-msgstr "Autoresolution Einstellungen"
+#: ../src/plugin.py:54
+msgid "OK"
+msgstr "OK"
 
-#: ../src/plugin.py:298
-msgid "Enable Autoresolution"
-msgstr "Autoresolution aktivieren"
+#: ../src/plugin.py:56
+msgid "Cleanup timerlist-entries"
+msgstr ""
 
-#: ../src/plugin.py:304
-#: ../src/plugin.py:305
-msgid "Refresh Rate"
-msgstr "Auflösung"
+#
+msgid "UHD Interlace Mode"
+msgstr "UHD Interlace Modus"
 
-#: ../src/plugin.py:306
-msgid "Show info screen"
-msgstr "Info zeigen"
+#
+msgid "UHD Progressive Mode"
+msgstr "UHD Progressiv Modus"
 
-#: ../src/plugin.py:307
-msgid "Delay x seconds after service started"
-msgstr "Verzögerung von x Sekunden nach Umschaltung"
+#~ msgid "SD 25/50HZ Interlace Mode"
+#~ msgstr "SD 25/50HZ Interlace Modus"
 
-#: ../src/plugin.py:308
-msgid "Running in testmode"
-msgstr "Läuft im Testbetrieb"
+#~ msgid "SD 30/60HZ Interlace Mode"
+#~ msgstr "SD 30/60HZ Interlace Modus"
 
-#: ../src/plugin.py:309
-msgid "Deinterlacer mode for interlaced content"
-msgstr "Deinterlacer Modus für interlaced Inhalt"
+#~ msgid "SD 25/50HZ Progressive Mode"
+#~ msgstr "SD 25/50HZ Progressiv Modus"
 
-#: ../src/plugin.py:310
-msgid "Deinterlacer mode for progressive content"
-msgstr "Deinterlacer Modus für progressive Inhalt"
+#~ msgid "SD 30/60HZ Progressive Mode"
+#~ msgstr "SD 30/60HZ Progressiv Modus"
 
-#: ../src/plugin.py:313
-msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr "Autoresolution läuft nicht im Scart/DVI-PC Modus"
+#~ msgid "HD Interlace Mode"
+#~ msgstr "HD Interlace Modus"
 
-#: ../src/plugin.py:357
-msgid "Autoresolution"
-msgstr "Autoresolution"
+#~ msgid "HD Progressive Mode"
+#~ msgstr "HD Progressiv Modus"
 
-#: ../src/plugin.py:365
-msgid "Autoresolution Switch"
-msgstr "Autoresolution Umschaltung"
+#~ msgid "Enable 720p24 Mode"
+#~ msgstr "Modus 720p24 aktivieren"
 
+#~ msgid "Enable 1080p24 Mode"
+#~ msgstr "Modus 1080p24 aktivieren"
+
+#~ msgid "Enable 1080p25 Mode"
+#~ msgstr "Modus 1080p25 aktivieren"
+
+#~ msgid "Enable 1080p30 Mode"
+#~ msgstr "Modus 1080p30 aktivieren"
+
+#~ msgid "off"
+#~ msgstr "aus"
+
+#~ msgid "auto"
+#~ msgstr "automatisch"
+
+#~ msgid "on"
+#~ msgstr "ein"
+
+#~ msgid "bob"
+#~ msgstr "bestmöglich"
+
+#~ msgid "second"
+#~ msgstr "Sekunde"
+
+#~ msgid "seconds"
+#~ msgstr "Sekunden"
+
+#~ msgid "default"
+#~ msgstr "Standard"
+
+#~ msgid ""
+#~ "Autoresolution Plugin Testmode:\n"
+#~ "Is %s OK?"
+#~ msgstr ""
+#~ "Autoresolution Plugin Testmodus:\n"
+#~ "Ist %s OK?"
+
+#~ msgid "Autoresolution videomode setup"
+#~ msgstr "Autoresolution Videomodus einstellen"
+
+#~ msgid "Autoresolution settings"
+#~ msgstr "Autoresolution Einstellungen"
+
+#~ msgid "Enable Autoresolution"
+#~ msgstr "Autoresolution aktivieren"
+
+#~ msgid "Refresh Rate"
+#~ msgstr "Auflösung"
+
+#~ msgid "Show info screen"
+#~ msgstr "Info zeigen"
+
+#~ msgid "Delay x seconds after service started"
+#~ msgstr "Verzögerung von x Sekunden nach Umschaltung"
+
+#~ msgid "Running in testmode"
+#~ msgstr "Läuft im Testbetrieb"
+
+#~ msgid "Deinterlacer mode for interlaced content"
+#~ msgstr "Deinterlacer Modus für interlaced Inhalt"
+
+#~ msgid "Deinterlacer mode for progressive content"
+#~ msgstr "Deinterlacer Modus für progressive Inhalt"
+
+#~ msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+#~ msgstr "Autoresolution läuft nicht im Scart/DVI-PC Modus"
+
+#~ msgid "Autoresolution"
+#~ msgstr "Autoresolution"
+
+#~ msgid "Autoresolution Switch"
+#~ msgstr "Autoresolution Umschaltung"
