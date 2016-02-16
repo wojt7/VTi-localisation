@@ -11214,7 +11214,7 @@ msgid "Ask before stopping timeshift"
 msgstr "Frage vor dem Beenden von Timeshift"
 
 msgid "Start timeshift automatically after given time"
-msgstr "Starte Timeshift automatische nach"
+msgstr "Starte Timeshift automatisch nach"
 
 msgid "1 second"
 msgstr "1 Sekunde"
