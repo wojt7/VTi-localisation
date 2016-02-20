@@ -1,4 +1,3 @@
-# Copyright (C) 2012 THE enigma2-plugins'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the enigma2-plugins package.
 # Automatically generated, 2012.
 #
@@ -6,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-AutoResolution\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-04-14 19:59+0100\n"
-"PO-Revision-Date: 2016-01-23 18:52+0200\n"
+"POT-Creation-Date: 2016-02-20 10:01+0200\n"
+"PO-Revision-Date: 2016-02-20 10:05+0200\n"
 "Last-Translator: Vytenis P.\n"
 "Language-Team: Vytenis Pulokas <vytemiui@gmail.com>\n"
 "Language: lt_LT\n"
@@ -16,48 +15,48 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.7\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../src/plugin.py:36
 msgid "disabled"
-msgstr ""
+msgstr "išjungta"
 
 #: ../src/plugin.py:36
 msgid "immediately after recording"
-msgstr ""
+msgstr "iškart po įrašymo"
 
 #: ../src/plugin.py:36
 msgid "older than 1 day"
-msgstr ""
+msgstr "senesni, nei 1 dienos"
 
 #: ../src/plugin.py:36
 msgid "older than 3 days"
-msgstr ""
+msgstr "senesni, nei 3 dienų"
 
 #: ../src/plugin.py:36
 msgid "older than 1 week"
-msgstr ""
+msgstr "senesni, nei 1 savaitės"
 
 #: ../src/plugin.py:36
 msgid "older than 2 weeks"
-msgstr ""
+msgstr "senesni, nei 2 savaičių"
 
 #: ../src/plugin.py:36
 msgid "older than 4 weeks"
-msgstr ""
+msgstr "senesni, nei 4 savaičių"
 
 #: ../src/plugin.py:36
 msgid "older than 6 weeks"
-msgstr ""
+msgstr "senesni, nei 6 savaičių"
 
 #: ../src/plugin.py:49 ../src/plugin.py:125
 msgid "Automatic Timerlist Cleanup Setup"
-msgstr ""
+msgstr "Automatinio laikmačių sąrašo išvalymo nustatymas"
 
 #: ../src/plugin.py:122 ../src/plugin.py:125
 msgid "Timerlist Cleanup Setup"
-msgstr ""
+msgstr "Laikmačių sąrašo išvalymo nustatymas"
 
 #: ../src/plugin.py:53
 msgid "Cancel"
@@ -69,115 +68,12 @@ msgstr "Gerai"
 
 #: ../src/plugin.py:56
 msgid "Cleanup timerlist-entries"
-msgstr ""
+msgstr "Valyti laikmačių sąrašo įrašus"
 
 #
 msgid "UHD Interlace Mode"
-msgstr ""
+msgstr "UHD dvieilio pynimo (interlace) režimas"
 
 #
 msgid "UHD Progressive Mode"
-msgstr ""
-
-#~ msgid "SD 25/50HZ Interlace Mode"
-#~ msgstr "SD 25/50HZ puseilis režimas"
-
-#~ msgid "SD 30/60HZ Interlace Mode"
-#~ msgstr "SD 30/60HZ puseilis režimas"
-
-#~ msgid "SD 25/50HZ Progressive Mode"
-#~ msgstr "SD 25/50HZ pilnaeilis režimas"
-
-#~ msgid "SD 30/60HZ Progressive Mode"
-#~ msgstr "SD 30/60HZ pilnaeilis režimas"
-
-#~ msgid "HD Interlace Mode"
-#~ msgstr "HD puseilis režimas"
-
-#~ msgid "HD Progressive Mode"
-#~ msgstr "HD pilnaeilis režimas"
-
-#~ msgid "Enable 720p24 Mode"
-#~ msgstr "Įjungti 720p24 režimą"
-
-#~ msgid "Enable 1080p24 Mode"
-#~ msgstr "Įjungti 1080p24 režimą"
-
-#~ msgid "Enable 1080p25 Mode"
-#~ msgstr "Įjungti 1080p25 režimą"
-
-#~ msgid "Enable 1080p30 Mode"
-#~ msgstr "Įjungti 1080p30 režimą"
-
-#~ msgid "off"
-#~ msgstr "išjungti"
-
-#~ msgid "auto"
-#~ msgstr "automatinis"
-
-#~ msgid "on"
-#~ msgstr "įjungti"
-
-#~ msgid "bob"
-#~ msgstr "bob"
-
-#~ msgid "second"
-#~ msgstr "sekundė"
-
-#~ msgid "seconds"
-#~ msgstr "sekundžių"
-
-#~ msgid "default"
-#~ msgstr "numatyta"
-
-#~ msgid ""
-#~ "Autoresolution Plugin Testmode:\n"
-#~ "Is %s OK?"
-#~ msgstr ""
-#~ "Autorezoliucijos įskiepio Testo režimas:\n"
-#~ "Ar %s tinka?"
-
-#~ msgid "Autoresolution videomode setup"
-#~ msgstr "Autorezoliucijos vaizdo režimo sąranka"
-
-#~ msgid "Autoresolution settings"
-#~ msgstr "Autorezoliucijos nustatymai"
-
-#~ msgid "Enable Autoresolution"
-#~ msgstr "Įjungti autorezoliuciją"
-
-#~ msgid "Refresh Rate"
-#~ msgstr "Skleistinės dažnis"
-
-#~ msgid "Show info screen"
-#~ msgstr "Rodyti informacinį ekraną"
-
-#~ msgid "Delay x seconds after service started"
-#~ msgstr "Atvėrus kanalą, uždelsti x sekundžių"
-
-#~ msgid "Running in testmode"
-#~ msgstr "Veikia testavimo režime"
-
-#~ msgid "Deinterlacer mode for interlaced content"
-#~ msgstr "Deinterlacer metodas puseilio pynimo turiniui"
-
-#~ msgid "Deinterlacer mode for progressive content"
-#~ msgstr "Deinterlacer metodas pilnaeiliam turiniui"
-
-#~ msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-#~ msgstr "Autorezoliucija neveikia Scart/DVI-PC režimu"
-
-#~ msgid "Autoresolution"
-#~ msgstr "Autorezoliucija"
-
-#~ msgid "Autoresolution Switch"
-#~ msgstr "Autorezoliucijos perjungėjas"
-
-#~ msgid "Videocontent:"
-#~ msgstr "Vaizdo turinys:"
-
-#~ msgid "Videomode:"
-#~ msgstr "Vaizdo režimas:"
-
-#~ msgid "SD 24HZ Progressive mode"
-#~ msgstr "SD 30/60HZ pilnaeilis režimas"
+msgstr "UHD pilnaeilis (progressive) režimas"
