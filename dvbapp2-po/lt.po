@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: VTI - enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-01-21 18:09+0200\n"
+"PO-Revision-Date: 2016-02-20 09:37+0200\n"
 "Last-Translator: plnick\n"
 "Language-Team: Adga / enigma2 (c), 2016.01.21 red. Vytenis Pulokas "
 "<audrgrin@takas.lt, vyteniui@gmail.com>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.7\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid ""
@@ -202,7 +202,7 @@ msgstr ""
 "skaidinys %d : %s MB"
 
 msgid " "
-msgstr ""
+msgstr " "
 
 msgid "    - Log Directory"
 msgstr "    - Žurnalo katalogas"
@@ -6414,7 +6414,7 @@ msgid "Username"
 msgstr "Vartotojas"
 
 msgid "Using a Wireless module as access point."
-msgstr "Belaidis modulis naudojamas, kaip prieigos taškas."
+msgstr "belaidžio modulio naudojimas, kaip prieigos taško."
 
 msgid "VCR scart"
 msgstr "VCR SCART"
@@ -7222,7 +7222,7 @@ msgid "default"
 msgstr "numatyta"
 
 msgid "delete"
-msgstr "šalinti"
+msgstr "Šalinti"
 
 #, python-format
 msgid "delete : %s"
@@ -7911,7 +7911,7 @@ msgid "slow"
 msgstr "lėtas"
 
 msgid "sort"
-msgstr "rūšiuoti"
+msgstr "Rūšiuoti"
 
 msgid "sort by date"
 msgstr "rūšiuoti pagal datą"
@@ -9053,7 +9053,7 @@ msgid "update latest movies information"
 msgstr "atnaujinti naujausių filmų informaciją"
 
 msgid "latest movies"
-msgstr "naujausi filmai"
+msgstr "Naujausi filmai"
 
 msgid "Mark recordings as new for X days (0=off)"
 msgstr "Žymėti įrašus, kaip naujus,  X dienų (0=išjungta)"
@@ -9273,27 +9273,28 @@ msgstr "Konsolė ir failas (kartoti)"
 
 msgid "Use prev/next buttons for switching timeshift events"
 msgstr ""
+"Perjungti laiko poslinkio įvykiams, naudokite Ankstesnis/Sekantis mygtukus"
 
 msgid "Avoid simultaneous timer starts"
-msgstr ""
+msgstr "Venkite vienu metu prasidedančių laikmačių"
 
 msgid "Please select timeshift file"
-msgstr ""
+msgstr "Pasirinkite laiko poslinkio failą"
 
 msgid "Transform old timeshift event into recording"
-msgstr ""
+msgstr "Seną laiko poslinkio įvykį paversti įrašu"
 
 msgid "Hide timeshift files in movie list"
-msgstr ""
+msgstr "Slėpti filmų sąraše laiko poslinkio failus"
 
 msgid "Current timeshift"
-msgstr ""
+msgstr "Dabartinis laiko poslinkis"
 
 msgid "Show old timeshift events"
-msgstr ""
+msgstr "Rodyti senus laiko poslinkio įvykius"
 
-msgid "Do not save timeshift events shorter than X minutes"
-msgstr ""
+#~ msgid "Image:"
+#~ msgstr "Atvaizdas:"
 
 #~ msgid "Cam Center"
 #~ msgstr "Emuliatoriai"
