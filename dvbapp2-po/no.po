@@ -10520,6 +10520,9 @@ msgstr ""
 msgid "Fast Channel Change Setup"
 msgstr ""
 
+msgid "Disable FCC during recordings"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
