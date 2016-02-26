@@ -11395,3 +11395,6 @@ msgstr "Schnellen Kanalwechsel konfigurieren"
 
 msgid "Disable FCC during recordings"
 msgstr "Kein Schneller Kanalwechsel während Aufnahmen"
+
+msgid "FCCSetup"
+msgstr "Schneller Kanalwechsel (FCC)"

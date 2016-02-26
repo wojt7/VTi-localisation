@@ -11138,6 +11138,9 @@ msgstr ""
 msgid "Disable FCC during recordings"
 msgstr ""
 
+msgid "FCCSetup"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "D"
