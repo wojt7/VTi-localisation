@@ -10493,6 +10493,33 @@ msgstr ""
 msgid "Do not save timeshift events shorter than X minutes"
 msgstr ""
 
+msgid "Zap Up/Down"
+msgstr ""
+
+msgid "History Prev/Next"
+msgstr ""
+
+msgid "Box or driver is not support FCC."
+msgstr ""
+
+msgid "FCC enabled"
+msgstr ""
+
+msgid "Max Channels"
+msgstr ""
+
+msgid "priority"
+msgstr ""
+
+msgid "Disable FastChannelChange"
+msgstr ""
+
+msgid "Enable FastChannelChange"
+msgstr ""
+
+msgid "Fast Channel Change Setup"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

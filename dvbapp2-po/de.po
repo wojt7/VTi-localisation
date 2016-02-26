@@ -11365,3 +11365,30 @@ msgstr "Alte Timeshift Aufzeichnungen anzeigen"
 
 msgid "Do not save timeshift events shorter than X minutes"
 msgstr "Timeshift Aufzeichnungen kürzer als X Minuten nicht speichern"
+
+msgid "Zap Up/Down"
+msgstr "Zappen vor/zurück"
+
+msgid "History Prev/Next"
+msgstr "Senderverlauf vor/zurück"
+
+msgid "Box or driver is not support FCC."
+msgstr "Vu+ Box oder Treiber untersützen keinen schnnellen Kanalwechsel"
+
+msgid "FCC enabled"
+msgstr "Schneller Kanalwechsel aktiviert"
+
+msgid "Max Channels"
+msgstr "Maximale Anzahl an Kanälen"
+
+msgid "priority"
+msgstr "Priorität"
+
+msgid "Disable FastChannelChange"
+msgstr "Schnellen Kanalwechsel deaktivieren"
+
+msgid "Enable FastChannelChange"
+msgstr "Schnellen Kanalwechsel aktivieren"
+
+msgid "Fast Channel Change Setup"
+msgstr "Schnellen Kanalwechsel konfigurieren"
