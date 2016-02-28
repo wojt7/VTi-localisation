@@ -1200,7 +1200,7 @@ msgid "Catalan"
 msgstr "Hiszpański"
 
 msgid "Category Name"
-msgstr ""
+msgstr "Nazwa kategorii"
 
 msgid "Change bouquets in quickzap"
 msgstr "Automatyczna zmiana pakietów"
