@@ -916,7 +916,7 @@ msgid "Automatic Scan"
 msgstr "Automatyczne skanowanie"
 
 msgid "Automatically set up a Mount Point"
-msgstr ""
+msgstr "Konfiguracja automatycznego punktów montowania"
 
 msgid "Autoremove depended packages at package remove"
 msgstr "Automatyczne usuwanie zależnych pakietów"
