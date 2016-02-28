@@ -2236,7 +2236,7 @@ msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
 msgstr "Plik nie istnieje : /proc/stb/fp/remote_code"
 
 msgid "FLASH IS BROKEN"
-msgstr ""
+msgstr "Pamieć flash jest uszkodzona"
 
 msgid "FPGA"
 msgstr "FPGA"
