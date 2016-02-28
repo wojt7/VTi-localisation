@@ -964,7 +964,7 @@ msgid "Backup failed."
 msgstr "Kopia zapasowa nieudana."
 
 msgid "Backup finished and copied to your USB-flashdrive."
-msgstr ""
+msgstr "Zakończono wykonywanie kopii zapasowej i skopiowano pliki na USB."
 
 msgid "Backup is running..."
 msgstr "Tworzenie kopii..."
