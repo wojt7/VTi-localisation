@@ -9151,7 +9151,7 @@ msgid "Delete old event and continue timeshift"
 msgstr "Skasuj stare wydarzenie i kontynuuj timeshift"
 
 msgid "Save old event and stop timeshift"
-msgstr "Zachowaj stare wydarzenie i kontynuuj timeshift"
+msgstr "Zachowaj stare wydarzenie i zatrzymaj timeshift"
 
 msgid "Delete old event and stop timeshift"
 msgstr "Skasuj stare wydarzenie i zatrzymaj timeshift"
