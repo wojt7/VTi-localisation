@@ -883,7 +883,7 @@ msgid ""
 "Are you sure you want to restore your Enigma2 backup?\n"
 "Enigma2 will restart after the restore"
 msgstr ""
-"Jesteś pewien, że chcesz przywrócić ustawienia Enigma2?\n"
+"Jesteś pewien, że chcesz przywrócić kopię Enigma2?\n"
 "Enigma2 zostanie uruchomiona ponownie po przywróceniu"
 
 msgid "Sorry no backups found!"
@@ -1557,7 +1557,6 @@ msgid ""
 msgstr ""
 "Niestety, nie udało wyodrębnienie obrazu\n"
 "Proszę spróbuj ponownie."
-
 
 msgid "VTi Image Flash Process"
 msgstr "VTI Proces wgrywania obrazu"
