@@ -10811,3 +10811,5 @@ msgstr ""
 msgid "FCCSetup"
 msgstr ""
 
+msgid "Display crash information on TV"
+msgstr ""

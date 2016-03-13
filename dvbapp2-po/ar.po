@@ -9803,6 +9803,9 @@ msgstr ""
 msgid "FCCSetup"
 msgstr ""
 
+msgid "Display crash information on TV"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

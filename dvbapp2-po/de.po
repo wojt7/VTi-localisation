@@ -11398,3 +11398,6 @@ msgstr "Kein Schneller Kanalwechsel während Aufnahmen"
 
 msgid "FCCSetup"
 msgstr "Schneller Kanalwechsel (FCC)"
+
+msgid "Display crash information on TV"
+msgstr "Absturzinformationen am TV anzeigen"
