@@ -1716,6 +1716,12 @@ msgstr ""
 msgid "Edit blacklist for DVB EPG"
 msgstr ""
 
+msgid "Please select location of software packages"
+msgstr ""
+
+msgid "Temporary folder (/tmp)"
+msgstr ""
+
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"
 #~ "Note: This will restart your VU+ STB"

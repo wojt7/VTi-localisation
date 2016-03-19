@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-VTIPanel\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 17:07+0200\n"
+"POT-Creation-Date: 2014-07-08 21:39+0100\n"
 "PO-Revision-Date: 2016-01-23 16:02+0200\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
@@ -1470,8 +1470,8 @@ msgstr "Pasirinkite atvaizdą įdiegimui"
 msgid "Install this image"
 msgstr "Įdiegti šį atvaizdą"
 
-msgid "VTi Image Flash Tool"
-msgstr "VTi Atvaizdo diegimo įrankis"
+msgid "VTI Image Flash Tool"
+msgstr ""
 
 msgid " downloading available image information"
 msgstr " parsiunčiama informacija apie atvaizdą"
@@ -1773,6 +1773,15 @@ msgstr "Pridėti kanalą"
 
 msgid "Edit blacklist for DVB EPG"
 msgstr "Redaguoti DVB EPG juodąjį sąrašą"
+
+msgid "Please select location of software packages"
+msgstr ""
+
+msgid "Temporary folder (/tmp)"
+msgstr ""
+
+#~ msgid "VTi Image Flash Tool"
+#~ msgstr "VTi Atvaizdo diegimo įrankis"
 
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"

@@ -1486,7 +1486,9 @@ msgid "Sorry ..."
 msgstr "Przepraszam ..."
 
 msgid "The image list can not be loaded, please be patient and try again later"
-msgstr "Lista obrazu nie może zostać załadowana, prosimy o cierpliwość i spróbuj ponownie później"
+msgstr ""
+"Lista obrazu nie może zostać załadowana, prosimy o cierpliwość i spróbuj "
+"ponownie później"
 
 msgid ""
 "This will flash the selected image without further questions.\n"
@@ -1540,8 +1542,7 @@ msgid ""
 msgstr ""
 "To załaduje ściągnięty obraz.\n"
 "Twoja obecna instalacja oprogramowania zostanie skasowana i nadpisana\n"
-"Jeśli anulujesz pobrany tutaj obraz zostanie zapisany i załadowany"
-"później\n"
+"Jeśli anulujesz pobrany tutaj obraz zostanie zapisany i załadowanypóźniej\n"
 "Naprawdę kontynuować?"
 
 msgid ""
@@ -1733,7 +1734,9 @@ msgid "Download services lists"
 msgstr "Pobierz listę usług"
 
 msgid "Download of services list failes, please be patient and try again later"
-msgstr "Pobierz listę usług, które nie powiodły się, prosimy o cierpliwość i spróbuj ponownie późnie"
+msgstr ""
+"Pobierz listę usług, które nie powiodły się, prosimy o cierpliwość i spróbuj "
+"ponownie późnie"
 
 msgid "Sorry, creating download folder failed"
 msgstr "Niestety, tworzenie folderu pobierania nie udało się"
@@ -1770,6 +1773,12 @@ msgstr "Dodaj usługę"
 
 msgid "Edit blacklist for DVB EPG"
 msgstr "Edytuj czarną listę dla DVB EPG"
+
+msgid "Please select location of software packages"
+msgstr ""
+
+msgid "Temporary folder (/tmp)"
+msgstr ""
 
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"

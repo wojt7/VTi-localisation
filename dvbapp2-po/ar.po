@@ -9806,6 +9806,9 @@ msgstr ""
 msgid "Display crash information on TV"
 msgstr ""
 
+msgid "Select packages to install"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

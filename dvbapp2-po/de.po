@@ -11401,3 +11401,6 @@ msgstr "Schneller Kanalwechsel (FCC)"
 
 msgid "Display crash information on TV"
 msgstr "Absturzinformationen am TV anzeigen"
+
+msgid "Select packages to install"
+msgstr "Paket(e) zum Installieren auswählen"

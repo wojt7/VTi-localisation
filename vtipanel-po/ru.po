@@ -1701,6 +1701,12 @@ msgstr ""
 msgid "Edit blacklist for DVB EPG"
 msgstr ""
 
+msgid "Please select location of software packages"
+msgstr ""
+
+msgid "Temporary folder (/tmp)"
+msgstr ""
+
 #~ msgid "EPG path set to : %s"
 #~ msgstr "Путь EPG установлен в : %s"
 

@@ -1795,3 +1795,9 @@ msgstr "Kanal hinzufügen"
 
 msgid "Edit blacklist for DVB EPG"
 msgstr "DVB-EPG Blacklist bearbeiten"
+
+msgid "Please select location of software packages"
+msgstr "Bitte Ort der Software-Pakete auswählen"
+
+msgid "Temporary folder (/tmp)"
+msgstr "Temporäres Verzeichnis (/tmp)"

@@ -1707,6 +1707,12 @@ msgstr ""
 msgid "Edit blacklist for DVB EPG"
 msgstr ""
 
+msgid "Please select location of software packages"
+msgstr ""
+
+msgid "Temporary folder (/tmp)"
+msgstr ""
+
 #~ msgid "/hdd"
 #~ msgstr "/hdd"
 
