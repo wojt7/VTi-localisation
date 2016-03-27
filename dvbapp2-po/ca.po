@@ -10191,7 +10191,7 @@ msgstr ""
 
 msgid ""
 "You can now choose your preferred skin.\n"
-"Please press OK"
+"Do you want to change default skin?"
 msgstr ""
 
 msgid "Chipset"
@@ -10498,6 +10498,32 @@ msgid "Display crash information on TV"
 msgstr ""
 
 msgid "Select packages to install"
+msgstr ""
+
+msgid ""
+"Do you want timeshift to be actviated automatically (permanent timeshift) ?"
+msgstr ""
+
+msgid ""
+"You can now use VTi ZerO to remove some packages which you do not need.\n"
+"\n"
+"You can now also use VTi BackupSuite to restore your previously saved "
+"settings, plugins or favourite bouquets ?"
+msgstr ""
+
+msgid "Next step"
+msgstr ""
+
+msgid "Remove not needed packages (VTi ZerO)"
+msgstr ""
+
+msgid "Restore configuration (VTi BackupSuite)"
+msgstr ""
+
+msgid ""
+"Use the left and right buttons to change an option.\n"
+"\n"
+"Please configure timeshift options:"
 msgstr ""
 
 #

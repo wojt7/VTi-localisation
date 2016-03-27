@@ -10508,7 +10508,7 @@ msgstr ""
 msgid "Enable MiniTV"
 msgstr ""
 
-msgid "You can now choose your preferred skin.\nPlease press OK"
+msgid "You can now choose your preferred skin.\nDo you want to change default skin?"
 msgstr ""
 
 msgid "Chipset"
@@ -10815,4 +10815,22 @@ msgid "Display crash information on TV"
 msgstr ""
 
 msgid "Select packages to install"
+msgstr ""
+
+msgid "Do you want timeshift to be actviated automatically (permanent timeshift) ?"
+msgstr ""
+
+msgid "You can now use VTi ZerO to remove some packages which you do not need.\n\nYou can now also use VTi BackupSuite to restore your previously saved settings, plugins or favourite bouquets ?"
+msgstr ""
+
+msgid "Next step"
+msgstr ""
+
+msgid "Remove not needed packages (VTi ZerO)"
+msgstr ""
+
+msgid "Restore configuration (VTi BackupSuite)"
+msgstr ""
+
+msgid "Use the left and right buttons to change an option.\n\nPlease configure timeshift options:"
 msgstr ""

@@ -11094,10 +11094,10 @@ msgstr "MiniTV im LCD einschalten"
 
 msgid ""
 "You can now choose your preferred skin.\n"
-"Please press OK"
+"Do you want to change default skin?"
 msgstr ""
 "Sie können jetzt Ihren bevorzugten Skin auswählen.\n"
-"Bitte drücken Sie die OK Taste"
+"Wollen Sie jetzt den Standard-Skin wechseln?"
 
 msgid "Chipset"
 msgstr "Chipsatz"
@@ -11404,3 +11404,35 @@ msgstr "Absturzinformationen am TV anzeigen"
 
 msgid "Select packages to install"
 msgstr "Paket(e) zum Installieren auswählen"
+
+msgid ""
+"Do you want timeshift to be actviated automatically (permanent timeshift) ?"
+msgstr "Soll Timeshift automatisch aktiviert werden (permanentes Timeshift)?"
+
+msgid ""
+"You can now use VTi ZerO to remove some packages which you do not need.\n"
+"\n"
+"You can now also use VTi BackupSuite to restore your previously saved "
+"settings, plugins or favourite bouquets ?"
+msgstr ""
+"Sie können jetzt VTi ZerO benutzen um nicht benötigte Softwarepakete zu deinstallieren.\n"
+"\n"
+"Des Weiteren steht Ihnen die VTi BackupSuite zur Verfügung, um vorher gesicherte Einstellungen, Plugins und Favoritenlisten wiederherzustellen."
+
+msgid "Next step"
+msgstr "Weiter"
+
+msgid "Remove not needed packages (VTi ZerO)"
+msgstr "Nicht benötigte Pakete entfernen (VTi ZerO)"
+
+msgid "Restore configuration (VTi BackupSuite)"
+msgstr "Einstellungen wiederherstellen (VTi BackupSuite)"
+
+msgid ""
+"Use the left and right buttons to change an option.\n"
+"\n"
+"Please configure timeshift options:"
+msgstr ""
+"Mit den rechts-/links-Tasten können Sie Optionen ändern.\n"
+"\n"
+"Bitte konfigurieren Sie Timeshift:"
