@@ -5913,10 +5913,6 @@ msgid "Show event-progress in channel selection"
 msgstr ""
 
 #
-msgid "Show favourite list with bouquet-up"
-msgstr ""
-
-#
 msgid "Show icons in movie list"
 msgstr ""
 
@@ -10833,4 +10829,31 @@ msgid "Restore configuration (VTi BackupSuite)"
 msgstr ""
 
 msgid "Use the left and right buttons to change an option.\n\nPlease configure timeshift options:"
+msgstr ""
+
+msgid "Channel -"
+msgstr ""
+
+msgid "Channel +"
+msgstr ""
+
+msgid "Show favourite list with bouquet button"
+msgstr ""
+
+msgid "Use channel +/- buttons for channel zap"
+msgstr ""
+
+msgid "Please configure function for short keypress of Power button"
+msgstr ""
+
+msgid "Please configure function for long keypress of Exit button"
+msgstr ""
+
+msgid "Please configure function for short keypress of REC button"
+msgstr ""
+
+msgid "Please select your preferred EPG view"
+msgstr ""
+
+msgid "Do you want to change channels with Channel +/- buttons?"
 msgstr ""
