@@ -9342,6 +9342,12 @@ msgstr ""
 msgid "Do you want to change channels with Channel +/- buttons?"
 msgstr ""
 
+msgid "Software Setup"
+msgstr ""
+
+msgid "Please press EPG/Info key for detailed error description"
+msgstr ""
+
 #~ msgid "Show favourite list with bouquet-up"
 #~ msgstr "Pokaż listę ulubionych po przyciśnięciu klawisza w górę"
 

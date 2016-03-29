@@ -11448,16 +11448,28 @@ msgid "Use channel +/- buttons for channel zap"
 msgstr "Benutze die Kanal-Tasten +/- zum Senderwechsel"
 
 msgid "Please configure function for short keypress of Power button"
-msgstr "Bitte konfigurieren Sie die Funktion für den kurzen Tastendruck auf die Power-Taste"
+msgstr ""
+"Bitte konfigurieren Sie die Funktion für den kurzen Tastendruck auf die "
+"Power-Taste"
 
 msgid "Please configure function for long keypress of Exit button"
-msgstr "Bitte konfigurieren Sie die Funktion für den langen Tastendruck auf die Exit-Taste"
+msgstr ""
+"Bitte konfigurieren Sie die Funktion für den langen Tastendruck auf die Exit-"
+"Taste"
 
 msgid "Please configure function for short keypress of REC button"
-msgstr "Bitte konfigurieren Sie die Funktion für den kurzen Tastendruck auf die REC-Taste"
+msgstr ""
+"Bitte konfigurieren Sie die Funktion für den kurzen Tastendruck auf die REC-"
+"Taste"
 
 msgid "Please select your preferred EPG view"
 msgstr "Bitte wählen Sie die Standard-Darstellung des EPG"
 
 msgid "Do you want to change channels with Channel +/- buttons?"
 msgstr "Sollen die Kanal+/- Tasten für den Kanalwechsel verwendet werden?"
+
+msgid "Software Setup"
+msgstr "Software Installation"
+
+msgid "Please press EPG/Info key for detailed error description"
+msgstr "Bitte drücken Sie die EPG/Info-Taste für eine genaue Fehlerbeschreibung"
