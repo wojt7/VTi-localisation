@@ -578,6 +578,12 @@ msgstr "Nächste Timeshift Aufzeichnung"
 msgid "Select timeshift event"
 msgstr "Timeshift Aufzeichnung auswählen"
 
+msgid "Select Buttons"
+msgstr "Tasten auswählen"
+
+msgid "MultiQuickButton button selection"
+msgstr "MultiQuickButton Tastenauswahl"
+
 #~ msgid "InfoBar Show Movies"
 #~ msgstr "Aufnahmen"
 

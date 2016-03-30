@@ -577,3 +577,9 @@ msgstr ""
 
 msgid "Select timeshift event"
 msgstr ""
+
+msgid "Select Buttons"
+msgstr ""
+
+msgid "MultiQuickButton button selection"
+msgstr ""
