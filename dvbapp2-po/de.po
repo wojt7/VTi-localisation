@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-04-17 00:47+0200\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2016-05-02 17:33+0200\n"
+"Last-Translator: plnick <plnick@vuplus-support.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #
@@ -11472,4 +11472,107 @@ msgid "Software Setup"
 msgstr "Software Installation"
 
 msgid "Please press EPG/Info key for detailed error description"
-msgstr "Bitte drücken Sie die EPG/Info-Taste für eine genaue Fehlerbeschreibung"
+msgstr ""
+"Bitte drücken Sie die EPG/Info-Taste für eine genaue Fehlerbeschreibung"
+
+msgid "Subtitle settings"
+msgstr "Untertitel-Einstellungen"
+
+msgid "Subtitle font color"
+msgstr "Untertitel- Schriftfarbe"
+
+msgid "Subtitle font size"
+msgstr "Untertitel-Schriftgröße"
+
+msgid "Subtitle padding Y"
+msgstr "Untertitel-Zeilenerhöhung"
+
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+msgid "Background transparency"
+msgstr "Hintergrundtransparenz"
+
+msgid "Character edge style"
+msgstr "Schrifteffekt"
+
+msgid "Character style level"
+msgstr "Schrifteffektstärke"
+
+msgid "Subtitle text transparency"
+msgstr "Untertitel Schrifttransparenz"
+
+msgid "Use original position"
+msgstr "Ursprüngliche Position verwenden"
+
+msgid "Subtitle alignment"
+msgstr "Untertitel-Ausrichtung"
+
+msgid "Subtitle position"
+msgstr "Untertitel-Position"
+
+msgid "Center DVB subtitles"
+msgstr "DVB-Untertitel zentrieren"
+
+msgid "Rewrap subtitles"
+msgstr "Untertitel automatisch umbrechen"
+
+msgid "Subtitle delay when timing lacks"
+msgstr "Untertitel Verzögerung bei fehlendem UT-Timing"
+
+msgid "Subtitle delay when timing is bad"
+msgstr "Zusätzliche Untertitel-Verzögerung"
+
+msgid "External subtitle switch fonts"
+msgstr "Schrift bei externen Untertitel anpassen"
+
+msgid "External subtitle dialog colorisation"
+msgstr "Externe Untertitel einfärben"
+
+msgid "Delay for external subtitles"
+msgstr "Verzögerung für externe Untertitel"
+
+msgid "Set fps for external subtitles"
+msgstr "Bildwiederholrate für externe Untertitel"
+
+msgid "Automatically turn on external subtitles"
+msgstr "Externe Untertitel automatisch aktivieren"
+
+msgid "Subtitle Quickmenu"
+msgstr "Untertitel-Schnelleinstellungen"
+
+msgid "Force LNB Power"
+msgstr "LNB Stromversorgung erzwingen"
+
+msgid "Force ToneBurst"
+msgstr "Erzwinge ToneBurst"
+
+msgid "DVB CI Delay"
+msgstr "DVB CI Verzögerung"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "No delay"
+msgstr "Keine Verzögerung"
+
+msgid "center"
+msgstr "zentriert"
+
+msgid "No transparency"
+msgstr "Keine Transparenz"
+
+msgid "Depressed"
+msgstr "tiefgestellt"
+
+msgid "Raised"
+msgstr "hochgestellt"
+
+msgid "Uniform"
+msgstr "umrandet"
+
+msgid "Full transparency"
+msgstr "Transparent"
+
+msgid "magneta"
+msgstr "Magenta"

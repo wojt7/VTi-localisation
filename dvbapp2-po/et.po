@@ -10163,6 +10163,108 @@ msgstr ""
 msgid "Please press EPG/Info key for detailed error description"
 msgstr ""
 
+msgid "Subtitle settings"
+msgstr ""
+
+msgid "Subtitle font color"
+msgstr ""
+
+msgid "Subtitle font size"
+msgstr ""
+
+msgid "Subtitle padding Y"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Background transparency"
+msgstr ""
+
+msgid "Character edge style"
+msgstr ""
+
+msgid "Character style level"
+msgstr ""
+
+msgid "Subtitle text transparency"
+msgstr ""
+
+msgid "Use original position"
+msgstr ""
+
+msgid "Subtitle alignment"
+msgstr ""
+
+msgid "Subtitle position"
+msgstr ""
+
+msgid "Center DVB subtitles"
+msgstr ""
+
+msgid "Rewrap subtitles"
+msgstr ""
+
+msgid "Subtitle delay when timing lacks"
+msgstr ""
+
+msgid "Subtitle delay when timing is bad"
+msgstr ""
+
+msgid "External subtitle switch fonts"
+msgstr ""
+
+msgid "External subtitle dialog colorisation"
+msgstr ""
+
+msgid "Delay for external subtitles"
+msgstr ""
+
+msgid "Set fps for external subtitles"
+msgstr ""
+
+msgid "Automatically turn on external subtitles"
+msgstr ""
+
+msgid "Subtitle Quickmenu"
+msgstr ""
+
+msgid "Force LNB Power"
+msgstr ""
+
+msgid "Force ToneBurst"
+msgstr ""
+
+msgid "DVB CI Delay"
+msgstr ""
+
+msgid "Original"
+msgstr ""
+
+msgid "No delay"
+msgstr ""
+
+msgid "center"
+msgstr ""
+
+msgid "No transparency"
+msgstr ""
+
+msgid "Depressed"
+msgstr ""
+
+msgid "Raised"
+msgstr ""
+
+msgid "Uniform"
+msgstr ""
+
+msgid "Full transparency"
+msgstr ""
+
+msgid "magneta"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
