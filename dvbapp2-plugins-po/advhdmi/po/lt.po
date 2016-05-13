@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdvHdmi\n"
+"POT-Creation-Date: 2016-05-12 11:56+0300\n"
+"PO-Revision-Date: 2016-05-12 12:30+0300\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: lt\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Add"
+msgstr "Pridėti"
+
+msgid "Advanced HDMI-Cec Control"
+msgstr "Išplėstinis HDMI-CEC valdymas"
+
+msgid "Advanced HDMI-Cec Setup"
+msgstr "Išplėstinė HDMI CEC sąranka"
+
+msgid "At which time, HDMI-Cec should be disabled?"
+msgstr "Kuriuo metu HDMI-CEC turėtų būti išjungtas?"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Delete"
+msgstr "Pašalinti"
+
+msgid "Disable HDMI-CEC chronologically"
+msgstr "Išjungti HDMI-CEC chronologiškai"
+
+msgid "Edit"
+msgstr "Redaguoti"
+
+msgid "Edit HDMI-Cec-Timespan"
+msgstr "Redaguoti HDMI-CEC-laikotarpį"
+
+msgid "Friday"
+msgstr "penktadienis"
+
+msgid "From"
+msgstr "Nuo"
+
+msgid "From WD"
+msgstr "Nuo sav.d."
+
+msgid "From which day of the week, HDMI-Cec should be disabled?"
+msgstr "Nuo kurios savaitės dienos HDMI-CEC turėtų būti išjungtas?"
+
+msgid "Hook"
+msgstr "Įrangos sąsaja"
+
+msgid "Monday"
+msgstr "pirmadienis"
+
+msgid "No HDMI-Cec-Hooks are registered!"
+msgstr "Nėra registruotų HDMI-CEC įrangos sąsajų!"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid ""
+"Partially disable HDMI-Cec?\n"
+"It can be prevented only the signals that are sent from the Dreambox. "
+"Signals received by the Dreambox will not be prevented."
+msgstr ""
+"Dalinai išjungti HDMI-CEC?\n"
+"Tai gali apsaugoti tik nuo signalų, siunčiamų iš Dreambox. Pagal Dreambox "
+"gautus signalus apsaugos nebus."
+
+msgid "Really delete this HDMI-Cec-Timespan Entry?"
+msgstr "Ar tikrai pašalinti šį HDMI-CEC laikotarpio įrašą?"
+
+msgid "Registered HDMI-Cec-Hooks:"
+msgstr "Registruotos HDMI-CEC įrangos sąsajos:"
+
+msgid "Saturday"
+msgstr "šeštadienis"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Schould debugmessages be printed?"
+msgstr "Ar spausdinti klaidų derinimo pranešimus?"
+
+msgid "Should HDMI-Cec be disabled when GUI service startup?"
+msgstr "Ar HDMI-CEC turi būti išjungtas, kai paleidžiama grafinė aplinka?"
+
+msgid ""
+"Should HDMI-Cec be disabled when the commands are sent from the web "
+"interface?"
+msgstr ""
+"Ar HDMI-CEC turi būti išjungtas, kai komandos siunčiamos iš internetinės "
+"sąsajos?"
+
+msgid "Should HDMI-Cec be send on Power Off?"
+msgstr "Ar siųsti HDMI-CEC komandas išjungiant?"
+
+msgid "Should HDMI-Cec be send on Power On?"
+msgstr "Ar siųsti HDMI-CEC komandas įjungiant?"
+
+msgid "Sunday"
+msgstr "sekmadienis"
+
+msgid "Thursday"
+msgstr "ketvirtadienis"
+
+msgid "Timespans"
+msgstr "Laikotarpiai"
+
+msgid "To"
+msgstr "Į"
+
+msgid "To WD"
+msgstr "Iki sav.d."
+
+msgid "To what day of the week, HDMI-Cec should be disabled?"
+msgstr "Iki kurios savaitės dienos HDMI-CEC turėtų būti išjungtas?"
+
+msgid "Tuesday"
+msgstr "antradienis"
+
+msgid "Until the time at which, HDMI-Cec should be disabled?"
+msgstr "Iki kada HDMI-CEC turėtų būti išjungtas?"
+
+msgid "Version: "
+msgstr "Versija: "
+
+msgid "Wednesday"
+msgstr "trečiadienis"
+
+msgid "Where should this setup be displayed?"
+msgstr "Kur turėtų būti rodoma ši sąranka?"
+
+msgid "disable at GUI-start"
+msgstr "išjungti, kai paleidžiama grafinė aplinka"
+
+msgid "disable from webinterface"
+msgstr "išjungti, kai valdymas iš internetinės sąsajos"
+
+msgid "enable Power Off"
+msgstr "leisti išjungimą"
+
+msgid "enable Power On"
+msgstr "leisti įjungimą"
+
+msgid "enable debug"
+msgstr "įjungti klaidų derinimą"
+
+msgid "extensions"
+msgstr "plėtiniai"
+
+msgid "from (HH:MI)"
+msgstr "nuo (HH:MI)"
+
+msgid "from weekday"
+msgstr "nuo savaitės dienos"
+
+msgid "manage when HDMI Cec is enabled"
+msgstr "nustatyti, kada HDMI-CEC yra įjungtas"
+
+msgid "partially disable HdmiCec"
+msgstr "dalinai išjungti HDMI-CEC"
+
+msgid "pluginmenue"
+msgstr "įskiepių meniu"
+
+msgid "show in"
+msgstr "rodyti"
+
+msgid "systemmenue"
+msgstr "sistemos meniu"
+
+msgid "to (HH:MI)"
+msgstr "iki (HH:MI)"
+
+msgid "to weekday"
+msgstr "iki savaitės dienos"

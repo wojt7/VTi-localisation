@@ -1,0 +1,610 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MultiQuickButton\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-21 17:46+0100\n"
+"PO-Revision-Date: 2016-05-12 11:46+0300\n"
+"Last-Translator: \n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+msgid "Autostart"
+msgstr "Autopaleidimas"
+
+msgid "Main menu"
+msgstr "Pagrindinis meniu"
+
+msgid "Info"
+msgstr "Informacija"
+
+msgid "OK/EXIT"
+msgstr "'OK'/'EXIT'"
+
+msgid "Restore"
+msgstr "Atkurti"
+
+msgid "Backup"
+msgstr "Atsarginė kopija"
+
+msgid "red"
+msgstr "'RAUDONAS'"
+
+msgid " long"
+msgstr " ilgas paspaudimas"
+
+msgid "green"
+msgstr "'ŽALIAS'"
+
+msgid "yellow"
+msgstr "'GELTONAS'"
+
+msgid "blue"
+msgstr "'MĖLYNAS'"
+
+msgid "TEXT"
+msgstr "'TEXT'"
+
+msgid "HELP"
+msgstr "'HELP'"
+
+msgid "VU+ EPG / INFO"
+msgstr "VU+ EPG / INFORMACIJA"
+
+msgid "HOME"
+msgstr "PRADŽIA"
+
+msgid "END"
+msgstr "PABAIGA"
+
+msgid "Subtitle"
+msgstr "Subtitrai"
+
+msgid "VU+ R-Button"
+msgstr "VU+ R-mygtukas"
+
+msgid "RADIO"
+msgstr "RADIJAS"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Cross Up"
+msgstr "Pereiti aukštyn"
+
+msgid "Cross Down"
+msgstr "Pereiti žemyn"
+
+msgid "Cross Left"
+msgstr "Pereiti kairėn"
+
+msgid "Cross Right"
+msgstr "Pereiti dešinėn"
+
+msgid "Channel +"
+msgstr "Kanalas +"
+
+msgid "Channel -"
+msgstr "Kanalas -"
+
+msgid "Forward >"
+msgstr "Pirmyn '>'"
+
+msgid "Backward <"
+msgstr "Atgal '<'"
+
+msgid "Volume +"
+msgstr "Garsas +"
+
+msgid "Volume -"
+msgstr "Garsas -"
+
+msgid "Mute"
+msgstr "Nutildyti"
+
+msgid "Power"
+msgstr "Įjungimas"
+
+msgid "Audio"
+msgstr "Garsas"
+
+msgid "EXIT"
+msgstr "'EXIT'"
+
+msgid "Play"
+msgstr "Atkurti"
+
+msgid "Pause"
+msgstr "Pauzė"
+
+msgid "Stop"
+msgstr "Stabdyti"
+
+msgid "Rewind <<"
+msgstr "Atsukti '<<'"
+
+msgid "FastForward >>"
+msgstr "Prasukti pirmyn '>>'"
+
+msgid "on"
+msgstr "įjungta"
+
+msgid "off"
+msgstr "išjungta"
+
+#, python-format
+msgid "Quickbutton Key : %s"
+msgstr "Greitasis mygtukas : %s"
+
+msgid "Please select the backup path..."
+msgstr "Pasirinkite kelią atsarginei kopijai..."
+
+msgid "Overwrite existing Backup?."
+msgstr "Perrašyti esamą atsarginę kopiją?"
+
+msgid "Backup Settings..."
+msgstr "Atsarginio kopijavimo nustatymai..."
+
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr "Katalogas %s neegzistuoja."
+
+msgid "Please select the restore path..."
+msgstr "Pasirinkite kelią atkūrimui..."
+
+msgid "Overwrite existing Settings?."
+msgstr "Perrašyti esamus nustatymus?"
+
+#, python-format
+msgid "File %s nonexistent."
+msgstr "Failas %s neegzistuoja."
+
+msgid "Restore Settings..."
+msgstr "Atkurti nustatymus..."
+
+msgid ""
+"Restarting Enigma2 to set\n"
+"Multi QuickButton Autostart"
+msgstr ""
+"Enigma2 paleidžiama iš naujo, kad veiktų\n"
+"Multi QuickButton autopaleidimas"
+
+msgid "Restarting Enigma2 to load:\n"
+msgstr "Enigma2 paleidžiama iš naujo, kad veiktų:\n"
+
+msgid "Multi QuickButton settings"
+msgstr "Multi QuickButton parametrai"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "delete"
+msgstr "pašalinti"
+
+msgid "Add"
+msgstr "Pridėti"
+
+msgid "Error"
+msgstr "Klaida"
+
+msgid "MQB Functions and Plugins"
+msgstr "MQB funkcijos ir įskiepiai"
+
+msgid "No valid selection"
+msgstr "Neteisingas pasirinkimas"
+
+msgid "Add Functions to MQB Key"
+msgstr "MQB mygtukui priskirti funkcijas"
+
+msgid "Add Plugins to MQB Key"
+msgstr "MQB mygtukui priskirti įskiepius"
+
+msgid "Add Macro to MQB Key"
+msgstr "MQB mygtukui priskirti makrokomandą"
+
+msgid "Add Script/Binary to MQB Key"
+msgstr "MQB mygtukui priskirti scenarijus/dvejet. reikšmes"
+
+msgid "Functions"
+msgstr "Funkcijos"
+
+msgid "No valid function file found"
+msgstr "Funkcijų failo nerasta"
+
+msgid "Plugins"
+msgstr "Įskiepiai"
+
+#, python-format
+msgid "Entry %s already exists."
+msgstr "Įrašas %s jau yra."
+
+msgid "Save Settings"
+msgstr "Išsaugoti nustatymus"
+
+msgid "MultiQuickButton macro configuration"
+msgstr "MQB makrokomandų konfigūracija"
+
+msgid "Name"
+msgstr "Pavadinimas"
+
+msgid "Modify"
+msgstr "Redaguoti"
+
+msgid "Delete"
+msgstr "Pašalinti"
+
+msgid "Menu"
+msgstr "Meniu"
+
+msgid "VU+ EPG / Info"
+msgstr "VU+ EPG / informacija"
+
+msgid "OK"
+msgstr "'OK'"
+
+msgid "Record"
+msgstr "Įrašas"
+
+msgid "Ok"
+msgstr "Gerai"
+
+msgid "Button : "
+msgstr "Mygtukas : "
+
+msgid "Input name for MQB macro"
+msgstr "MQB makrokomandos pavadinimas"
+
+msgid "Input name for MQB macro : "
+msgstr "MQB makrokomandos pavadinimas : "
+
+msgid "Select a file to execute"
+msgstr "Pasirinkite failą vykdymui"
+
+msgid "Invalid Choice"
+msgstr "Neteisingas pasirinkimas"
+
+msgid "File is not executable"
+msgstr "Tai ne vykdomasis failas"
+
+msgid "Script"
+msgstr "Scenarijus"
+
+msgid "Add command line options ?"
+msgstr "Įvesti komandų eilutės parinktis?"
+
+msgid "Please enter the command line options"
+msgstr "Įveskite komandų eilutės parinktis"
+
+msgid "chmod 755"
+msgstr "chmod 755"
+
+msgid "VTI Panel"
+msgstr "VTi valdymo langas"
+
+msgid "Restart SoftCam"
+msgstr "Paleisti emuliatorių iš naujo"
+
+msgid "Plugin Browser"
+msgstr "Iskiepių naršyklė"
+
+msgid "Extension Selection"
+msgstr "Plėtinių pasirinkimas"
+
+msgid "Sleeptimer"
+msgstr "Miego laikmatis"
+
+msgid "Timer"
+msgstr "Laikmatis"
+
+msgid "Channel zap +"
+msgstr "Perjungti kanalą +"
+
+msgid "Channel zap -"
+msgstr "Perjungti kanalą -"
+
+msgid "Channel zap (list) +"
+msgstr "Kanalas (sąrašas) +"
+
+msgid "Channel zap (list) -"
+msgstr "Kanalas (sąrašas) -"
+
+msgid "Dolby Digital downmix on/off"
+msgstr "Dolby Digital kanalų miksavimas"
+
+msgid "List of Bouquets"
+msgstr "Bukietų sąrašas"
+
+msgid "Channel list"
+msgstr "Kanalų sąrašas"
+
+msgid "Zap history back"
+msgstr "Jungimų istorija atgal"
+
+msgid "Zap history next"
+msgstr "Jungimų istorija pirmyn"
+
+msgid "InfoBar"
+msgstr "Infojuosta"
+
+msgid "InfoBar EventInfoPlugins"
+msgstr "Įvykių informacijos įskiepių infojuosta"
+
+msgid "InfoBar EventView"
+msgstr "Įvykių vaizdo infojuosta"
+
+msgid "InfoBar EPG"
+msgstr "EPG infojuosta"
+
+msgid "InfoBar Multi EPG"
+msgstr "Daugiakanalio EPG infojuosta"
+
+msgid "InfoBar Audio Selection"
+msgstr "Garso parinkimo infojuosta"
+
+msgid "InfoBar Show Radio"
+msgstr "Radijo infojuosta"
+
+msgid "InfoBar Show Tv"
+msgstr "TV infojuosta"
+
+msgid "Movie Archive"
+msgstr "Filmų archyvas"
+
+msgid "InfoBar Record"
+msgstr "Įrašų infojuosta"
+
+msgid "InfoBar Instant Record"
+msgstr "Neplaninių įrašų infojuosta"
+
+msgid "Start Timeshift"
+msgstr "Pradėti laiko poslinkį"
+
+msgid "Start Teletext"
+msgstr "Rodyti teletekstą"
+
+msgid "Favourite channel 1"
+msgstr "Mėgstamiausias kanalas 1"
+
+msgid "Favourite channel 2"
+msgstr "Mėgstamiausias kanalas 2"
+
+msgid "Favourite channel 3"
+msgstr "Mėgstamiausias kanalas 3"
+
+msgid "Favourite channel 4"
+msgstr "Mėgstamiausias kanalas 4"
+
+msgid "Favourite channel 5"
+msgstr "Mėgstamiausias kanalas 5"
+
+msgid "Toggle AtmoLight"
+msgstr "Perjungti AtmoLight"
+
+msgid "Subservice Selection"
+msgstr "Subkanalų pasirinkimas"
+
+msgid "Subtitles"
+msgstr "Subtitrai"
+
+msgid "MediaPlayer"
+msgstr "Mediagrotuvas"
+
+msgid "DVDPlayer"
+msgstr "DVD grotuvas"
+
+msgid "Picture Player"
+msgstr "Paveikslėlių peržiūra"
+
+msgid "Cool TV Guide"
+msgstr "Cool TV vadovas"
+
+msgid "A/V Settings"
+msgstr "Garso/vaizdo nustatymai"
+
+msgid "Switch 4:3 (Pillarbox) (Pan&Scan)"
+msgstr "Perjungti 4: 3 (Pillarbox) (Pan&Scan)"
+
+msgid "Mount info"
+msgstr "Pajungimo informacija"
+
+msgid "Show PIP"
+msgstr "Rodyti PiP"
+
+msgid "Swap PIP"
+msgstr "Sukeisti PiP"
+
+msgid "Move PIP"
+msgstr "Perkelti PiP"
+
+msgid "VTI EPG Settings"
+msgstr "VTi EPG nuostatos"
+
+msgid "VTI DeviceManager"
+msgstr "VTi įrenginių tvarkymas"
+
+msgid "VTI CamCenter"
+msgstr "VTi emuliatoriai"
+
+msgid "VTI Backup Tools"
+msgstr "VTi atsarginio kopijavimo įrankiai"
+
+msgid "VTI Image Tools"
+msgstr "VTi atvaizdo įrankiai"
+
+msgid "VTI System Tools"
+msgstr "VTi sistemos įrankiai"
+
+msgid "VTI Info Tools"
+msgstr "VTi informaciniai įrankiai"
+
+msgid "VTI Manual Package Installation"
+msgstr "VTI rankinis paketų diegimas"
+
+msgid "VTI BitrateViewer"
+msgstr "VTi garso kokybės peržiūra"
+
+msgid "VTI System InfoPanel"
+msgstr "VTi informacija apie sistemą"
+
+msgid "VTI USB DVB-T/C/S2 Panel"
+msgstr "VTi USB DVB T/C/S2 valdymas"
+
+msgid "VTI CronManager"
+msgstr "VTi Cron tvarkytuvas"
+
+msgid "VTI ExeManager"
+msgstr "VTi vykdomųjų failų tvarkytuvas"
+
+msgid "VTI News"
+msgstr "VTI naujienos"
+
+msgid "Reboot"
+msgstr "Paleisti iš naujo"
+
+msgid "GUI Restart"
+msgstr "Paleisti grafinę aplinką iš naujo"
+
+msgid "DeepStandby"
+msgstr "Išjungti"
+
+msgid "Remount Network Shares"
+msgstr "Tinklo bendrinimus pajungti iš naujo"
+
+msgid "Remote control macro I"
+msgstr "Nuotolinio valdymo makro I"
+
+msgid "Remote control macro II"
+msgstr "Nuotolinio valdymo makro II"
+
+msgid "Remote control macro III"
+msgstr "Nuotolinio valdymo makro III"
+
+msgid "Remote control macro IV"
+msgstr "Nuotolinio valdymo makro IV"
+
+msgid "Remote control macro V"
+msgstr "Nuotolinio valdymo makro V"
+
+msgid "AutoResolution on/off"
+msgstr "Autorezoliucijos įjungimas/išjungimas"
+
+msgid "AutoResolution is disabled"
+msgstr "Autorezoliucija išjungta"
+
+msgid "AutoResolution is enabled"
+msgstr "Autorezoliucija įjungta"
+
+msgid "HDMI-CEC TV on"
+msgstr "HDMI-CEC TV įjungta"
+
+msgid "HDMI-CEC TV off"
+msgstr "HDMI-CEC TV išungta"
+
+msgid "HDMI-CEC A/V on"
+msgstr "HDMI-CEC vaizdas/garsas įjungta"
+
+msgid "HDMI-CEC A/V off"
+msgstr "HDMI-CEC vaizdas/garsas išungta"
+
+msgid "HDMI-CEC A/V Volume +"
+msgstr "HDMI-CEC garsas +"
+
+msgid "HDMI-CEC A/V Volume -"
+msgstr "HDMI-CEC garsas -"
+
+msgid "HDMI-CEC A/V Volume mute"
+msgstr "HDMI-CEC nutildyti garsą"
+
+msgid "HDMI-CEC message was sent"
+msgstr "HDMI-CEC žinutė pasiųsta"
+
+msgid "Power long"
+msgstr "'Įjungimas' ilgas nuspaudimas"
+
+msgid "VTI BackupSuite (Restore)"
+msgstr "VTi atsarginio kopijavimo rinkinys (atkūrimas)"
+
+msgid "VTI BackupSuite (Backup)"
+msgstr "VTi atsarginio kopijavimo rinkinys (kopijavimas)"
+
+msgid "show EPGBar"
+msgstr "rodyti EPG juostą"
+
+msgid "(De)/Activate SplitScreen"
+msgstr "(De)Aktyvuokite ekrano perskyrimą"
+
+msgid "(De)/Activate AudioZap"
+msgstr "(De)Aktyvuokite garso perjungimą..."
+
+msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
+msgstr ""
+"Nustatyti perjungimo būdą (PiP, perskirtame ekrane, garso perjungime)"
+
+msgid "Quickbutton: Key "
+msgstr "Greitasis mygtukas: mygtukas"
+
+#, python-format
+msgid "file %s not found!"
+msgstr "failo %s nerasta"
+
+msgid "Multi Quickbutton"
+msgstr "Multi Quickbutton"
+
+msgid "Stop Timeshift"
+msgstr "Stabdyti laiko poslinkį"
+
+msgid "Timeshift switch to Live TV"
+msgstr "Laiko poslinkio perjungimas į tiesioginę transliaciją"
+
+msgid "Stop running recordings"
+msgstr "Nutraukti vykdomus įrašymus"
+
+msgid "Previous timeshift event"
+msgstr "Ankstesnis laiko poslinkio įvykis"
+
+msgid "Next timeshift event"
+msgstr "Sekantis laiko poslinkio įvykis"
+
+msgid "Select timeshift event"
+msgstr "Pasirinkti laiko poslinkio įvykį"
+
+msgid "Channels"
+msgstr "Kanalai"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Please Restart MultiQuickButton"
+msgstr "Iš naujo paleiskite MultiQuickButton"
+
+msgid ""
+"Restarting Enigma2 to (de)activate:\n"
+"OK and EXIT Button"
+msgstr ""
+"Enigma2 paleidžiama iš naujo, kad\n"
+"(de)aktyvuoti 'OK'  ir 'EXIT' mygtukus"
+
+msgid "Channel"
+msgstr "Kanalas"
+
+msgid "Channel Selection"
+msgstr "Kanalo parinkimas"
+
+msgid "Quite without saving changes ?"
+msgstr "Nutraukti, neįrašant pakeitimų?"
