@@ -11580,3 +11580,5 @@ msgstr "Magenta"
 msgid "Limit FCC to current bouquet"
 msgstr "Schnellen Kanalwechsel auf aktives Bouquet beschränken"
 
+msgid "FCC restart"
+msgstr "Schnellen Kanalwechsel neu starten"

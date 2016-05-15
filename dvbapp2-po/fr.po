@@ -10740,6 +10740,9 @@ msgstr ""
 msgid "Limit FCC to current bouquet"
 msgstr ""
 
+msgid "FCC restart"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

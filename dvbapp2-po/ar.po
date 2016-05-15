@@ -9970,6 +9970,9 @@ msgstr ""
 msgid "Limit FCC to current bouquet"
 msgstr ""
 
+msgid "FCC restart"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

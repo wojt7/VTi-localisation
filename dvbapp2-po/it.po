@@ -9587,6 +9587,9 @@ msgstr ""
 msgid "Limit FCC to current bouquet"
 msgstr ""
 
+msgid "FCC restart"
+msgstr ""
+
 #~ msgid "Show favourite list with bouquet-up"
 #~ msgstr "Mostra la lista dei preferiti con Bouquet-Up"
 
