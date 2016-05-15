@@ -10690,6 +10690,9 @@ msgstr ""
 msgid "magneta"
 msgstr ""
 
+msgid "Limit FCC to current bouquet"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

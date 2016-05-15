@@ -9468,6 +9468,9 @@ msgstr ""
 msgid "magneta"
 msgstr ""
 
+msgid "Limit FCC to current bouquet"
+msgstr ""
+
 #~ msgid "Show favourite list with bouquet-up"
 #~ msgstr "Zobrazit seznam oblíbených klávesou \"Kanál +\""
 
