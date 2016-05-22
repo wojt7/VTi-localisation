@@ -10569,10 +10569,6 @@ msgid "Behavior of 0 key (double-click) in PiP-mode"
 msgstr "Verhalten der '0'-Taste (Doppelklick) bei Bild-in-Bild"
 
 #
-msgid "Timeout for 0 key double-click (ms)"
-msgstr "Zeitgrenze für Doppelklick bei Taste 0 (ms)"
-
-#
 msgid "Default function for 0 key (double-click)"
 msgstr "Standard für Taste 0 (Doppelklick)"
 
@@ -11582,3 +11578,24 @@ msgstr "Schnellen Kanalwechsel auf aktives Bouquet beschränken"
 
 msgid "FCC restart"
 msgstr "Schnellen Kanalwechsel neu starten"
+
+msgid "Show build in SecondInfobar"
+msgstr "Benutze integrierte Secondinfobar"
+
+msgid "SecondInfobar timeout"
+msgstr "Anzeigedauer Secondinfobar"
+
+msgid "same as Infobar"
+msgstr "wie normale Infoleiste"
+
+msgid "Use cross left/right buttons for bouquet change in service list"
+msgstr "Steuerkreuz links/rechts für Favoritenwechsel in Senderliste"
+
+msgid "Use OK button for opening favourite list"
+msgstr "Kanalliste mit OK-Taste öffnen"
+
+msgid "Timeout for double-click (ms)"
+msgstr "Timeout für Doppelklick in Millisekunden"
+
+msgid "Use double click for OK button"
+msgstr "Aktiviere Doppelklick für OK-Taste"

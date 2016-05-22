@@ -8521,9 +8521,6 @@ msgstr "įjungti perjungimo fokusavimą"
 msgid "Behavior of 0 key (double-click) in PiP-mode"
 msgstr "'0' dukart paspaudimas PIP metu"
 
-msgid "Timeout for 0 key double-click (ms)"
-msgstr "Delsa, dukart spaudžiant '0' (ms)"
-
 msgid "Default function for 0 key (double-click)"
 msgstr "Numatytas veiksmas, dukart paspaudus '0'"
 
@@ -9495,6 +9492,30 @@ msgstr ""
 
 msgid "FCC restart"
 msgstr ""
+
+msgid "Show build in SecondInfobar"
+msgstr ""
+
+msgid "SecondInfobar timeout"
+msgstr ""
+
+msgid "same as Infobar"
+msgstr ""
+
+msgid "Use cross left/right buttons for bouquet change in service list"
+msgstr ""
+
+msgid "Use OK button for opening favourite list"
+msgstr ""
+
+msgid "Timeout for double-click (ms)"
+msgstr ""
+
+msgid "Use double click for OK button"
+msgstr ""
+
+#~ msgid "Timeout for 0 key double-click (ms)"
+#~ msgstr "Delsa, dukart spaudžiant '0' (ms)"
 
 # Pasitikslinti
 #~ msgid "Show favourite list with bouquet-up"
