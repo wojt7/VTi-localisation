@@ -10809,6 +10809,18 @@ msgstr ""
 msgid "Use double click for OK button"
 msgstr ""
 
+msgid "Enable advertisment detection (I-net is mandatory)"
+msgstr ""
+
+msgid "Show icons in service list at services with advertisment"
+msgstr ""
+
+msgid "Exclude services with advertisment at left/right zapping"
+msgstr ""
+
+msgid "Set marker for advertisment during recording"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "Ø"
