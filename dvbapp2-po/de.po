@@ -11601,7 +11601,7 @@ msgid "Use double click for OK button"
 msgstr "Aktiviere Doppelklick für OK-Taste"
 
 msgid "Enable advertisment detection (I-net is mandatory)"
-msgstr "Aktiviere Werbeerkennung (Internet ist Voraussetzung)"
+msgstr "Aktiviere Werbeerkennung (Internetverbindung nötig)"
 
 msgid "Show icons in service list at services with advertisment"
 msgstr "Zeige Icons für Sender mit Werbung in der Senderliste"
