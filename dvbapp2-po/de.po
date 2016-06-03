@@ -11611,3 +11611,6 @@ msgstr "Überspringe Sender mit Werbung beim links/rechts Zappen"
 
 msgid "Set marker for advertisment during recording"
 msgstr "Setze Marker für erkannte Werbung bei Aufnahmen"
+
+msgid "Scan in background"
+msgstr "Suchlauf im Hintergrund ausführen"

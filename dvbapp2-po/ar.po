@@ -10002,6 +10002,9 @@ msgstr ""
 msgid "Set marker for advertisment during recording"
 msgstr ""
 
+msgid "Scan in background"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

@@ -9504,6 +9504,9 @@ msgstr ""
 msgid "Set marker for advertisment during recording"
 msgstr ""
 
+msgid "Scan in background"
+msgstr ""
+
 #~ msgid "Timeout for 0 key double-click (ms)"
 #~ msgstr "Časový limit pro dvojklik tlačítka 0 (ms)"
 

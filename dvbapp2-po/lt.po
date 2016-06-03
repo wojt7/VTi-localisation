@@ -9526,6 +9526,9 @@ msgstr ""
 msgid "Set marker for advertisment during recording"
 msgstr ""
 
+msgid "Scan in background"
+msgstr ""
+
 #~ msgid "Timeout for 0 key double-click (ms)"
 #~ msgstr "Delsa, dukart spaudžiant '0' (ms)"
 

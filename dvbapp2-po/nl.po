@@ -10834,6 +10834,9 @@ msgstr ""
 msgid "Set marker for advertisment during recording"
 msgstr ""
 
+msgid "Scan in background"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "O"

@@ -9619,6 +9619,9 @@ msgstr ""
 msgid "Set marker for advertisment during recording"
 msgstr ""
 
+msgid "Scan in background"
+msgstr ""
+
 #~ msgid "Show favourite list with bouquet-up"
 #~ msgstr "Mostra la lista dei preferiti con Bouquet-Up"
 
