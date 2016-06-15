@@ -11631,7 +11631,7 @@ msgid "Show preview pictures in service list"
 msgstr "Zeige Vorschaubilder in der Kanalliste"
 
 msgid "Setup preview pictures directory for service list"
-msgstr "Verzeichnis für Voschaubilder"
+msgstr "Verzeichnis für Vorschaubilder"
 
 msgid "Include configuration file in crash log"
 msgstr "Konfigurationsdatei in Crashdateien ausgeben"
