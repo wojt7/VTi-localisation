@@ -9151,6 +9151,18 @@ msgstr "4 sekundės"
 msgid "5 seconds"
 msgstr "5 sekundės"
 
+msgid "6 seconds"
+msgstr ""
+
+msgid "7 seconds"
+msgstr ""
+
+msgid "8 seconds"
+msgstr ""
+
+msgid "9 seconds"
+msgstr ""
+
 msgid "10 seconds"
 msgstr "10 sekundžių"
 
@@ -9533,6 +9545,9 @@ msgid "Show preview pictures in service list"
 msgstr ""
 
 msgid "Setup preview pictures directory for service list"
+msgstr ""
+
+msgid "Include configuration file in crash log"
 msgstr ""
 
 #~ msgid "Timeout for 0 key double-click (ms)"

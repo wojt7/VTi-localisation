@@ -10394,6 +10394,18 @@ msgstr ""
 msgid "5 seconds"
 msgstr ""
 
+msgid "6 seconds"
+msgstr ""
+
+msgid "7 seconds"
+msgstr ""
+
+msgid "8 seconds"
+msgstr ""
+
+msgid "9 seconds"
+msgstr ""
+
 msgid "10 seconds"
 msgstr ""
 
@@ -10775,6 +10787,9 @@ msgid "Show preview pictures in service list"
 msgstr ""
 
 msgid "Setup preview pictures directory for service list"
+msgstr ""
+
+msgid "Include configuration file in crash log"
 msgstr ""
 
 #

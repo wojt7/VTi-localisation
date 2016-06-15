@@ -11223,6 +11223,18 @@ msgstr "4 Sekunden"
 msgid "5 seconds"
 msgstr "5 Sekunden"
 
+msgid "6 seconds"
+msgstr "6 Sekunden"
+
+msgid "7 seconds"
+msgstr "7 Sekunden"
+
+msgid "8 seconds"
+msgstr "8 Sekunden"
+
+msgid "9 seconds"
+msgstr "9 Sekunden"
+
 msgid "10 seconds"
 msgstr "10 Sekunden"
 
@@ -11620,3 +11632,6 @@ msgstr "Zeige Vorschaubilder in der Kanalliste"
 
 msgid "Setup preview pictures directory for service list"
 msgstr "Verzeichnis für Voschaubilder"
+
+msgid "Include configuration file in crash log"
+msgstr "Konfigurationsdatei in Crashdateien ausgeben"
