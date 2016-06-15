@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-05-02 17:33+0200\n"
+"PO-Revision-Date: 2016-06-15 17:59+0200\n"
 "Last-Translator: plnick <plnick@vuplus-support.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -11635,3 +11635,36 @@ msgstr "Verzeichnis für Vorschaubilder"
 
 msgid "Include configuration file in crash log"
 msgstr "Konfigurationsdatei in Crashdateien ausgeben"
+
+msgid "Fast Scan"
+msgstr "Fast Scan"
+
+msgid "Scanning %s..."
+msgstr "Suche Paket: %s..."
+
+msgid "Scanning failed!"
+msgstr "Suchlauf fehlgeschlagen"
+
+msgid "List version %d, found %d channels"
+msgstr "Version %d der Liste, %d Kanäle gefunden"
+
+msgid "HD list"
+msgstr "HD Liste"
+
+msgid "Select your provider, and press OK to start the scan"
+msgstr "Provider auswählen und Suchlauf mit OK starten"
+
+msgid "Use fastscan channel names"
+msgstr "Verwende die Sendernamen des Fast Scan Suchlaufes"
+
+msgid "Enable auto fast scan"
+msgstr "Fast Scan automatisch starten"
+
+msgid "Enable auto fast scan for %s"
+msgstr "Starte Fast Scan automatisch für %s"
+
+msgid "A recording is currently running. Please stop the recording before trying to scan."
+msgstr "Aktuell läuft eine Aufnahme. Bitte beenden Sie die Aufnahme und versuchen es erneut"
+
+msgid "No suitable sat tuner found!"
+msgstr "Kein passender Sat-Tuner vorhanden"

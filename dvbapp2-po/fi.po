@@ -10774,6 +10774,41 @@ msgstr ""
 msgid "Include configuration file in crash log"
 msgstr ""
 
+msgid "Fast Scan"
+msgstr ""
+
+msgid "Scanning %s..."
+msgstr ""
+
+msgid "Scanning failed!"
+msgstr ""
+
+msgid "List version %d, found %d channels"
+msgstr ""
+
+msgid "HD list"
+msgstr ""
+
+msgid "Select your provider, and press OK to start the scan"
+msgstr ""
+
+msgid "Use fastscan channel names"
+msgstr ""
+
+msgid "Enable auto fast scan"
+msgstr ""
+
+msgid "Enable auto fast scan for %s"
+msgstr ""
+
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"scan."
+msgstr ""
+
+msgid "No suitable sat tuner found!"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"
