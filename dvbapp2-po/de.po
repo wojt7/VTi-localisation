@@ -11614,3 +11614,9 @@ msgstr "Setze Marker für erkannte Werbung bei Aufnahmen"
 
 msgid "Scan in background"
 msgstr "Suchlauf im Hintergrund ausführen"
+
+msgid "Show preview pictures in service list"
+msgstr "Zeige Vorschaubilder in der Kanalliste"
+
+msgid "Setup preview pictures directory for service list"
+msgstr "Verzeichnis für Voschaubilder"

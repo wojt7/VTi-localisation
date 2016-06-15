@@ -11003,3 +11003,10 @@ msgstr ""
 
 msgid "Scan in background"
 msgstr ""
+
+msgid "Show preview pictures in service list"
+msgstr ""
+
+msgid "Setup preview pictures directory for service list"
+msgstr ""
+
