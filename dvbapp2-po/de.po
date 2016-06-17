@@ -11630,11 +11630,11 @@ msgstr "Suchlauf im Hintergrund ausführen"
 msgid "Show preview pictures in service list"
 msgstr "Zeige Vorschaubilder in der Kanalliste"
 
-msgid "Setup preview pictures directory for service list"
-msgstr "Verzeichnis für Vorschaubilder"
+msgid "Time in seconds before preview pictures will be updated"
+msgstr "Zeit in Sekunden bevor Vorschaubilder erneuert werden"
 
 msgid "Include configuration file in crash log"
-msgstr "Konfigurationsdatei in Crashdateien ausgeben"
+msgstr "Konfigurationsdateien in Crashdateien ausgeben"
 
 msgid "Fast Scan"
 msgstr "Fast Scan"
@@ -11663,8 +11663,15 @@ msgstr "Fast Scan automatisch starten"
 msgid "Enable auto fast scan for %s"
 msgstr "Starte Fast Scan automatisch für %s"
 
-msgid "A recording is currently running. Please stop the recording before trying to scan."
-msgstr "Aktuell läuft eine Aufnahme. Bitte beenden Sie die Aufnahme und versuchen es erneut"
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"scan."
+msgstr ""
+"Aktuell läuft eine Aufnahme. Bitte beenden Sie die Aufnahme und versuchen es "
+"erneut"
 
 msgid "No suitable sat tuner found!"
 msgstr "Kein passender Sat-Tuner vorhanden"
+
+#~ msgid "Setup preview pictures directory for service list"
+#~ msgstr "Verzeichnis für Vorschaubilder"
