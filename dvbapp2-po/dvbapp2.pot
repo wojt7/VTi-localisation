@@ -11057,3 +11057,18 @@ msgstr ""
 
 msgid "No suitable sat tuner found!"
 msgstr ""
+
+msgid "Automatic framerate detection"
+msgstr ""
+
+msgid "Mode for framerate change"
+msgstr ""
+
+msgid "Changing framerate for current service?\nCurrent framerate: %s\nNew framerate: %s\n"
+msgstr ""
+
+msgid "automatically"
+msgstr ""
+
+msgid "manually"
+msgstr ""

@@ -11673,5 +11673,26 @@ msgstr ""
 msgid "No suitable sat tuner found!"
 msgstr "Kein passender Sat-Tuner vorhanden"
 
+msgid "Automatic framerate detection"
+msgstr "Automatische Erkennung der Bildwiederholrate"
+
+msgid "Mode for framerate change"
+msgstr "Modus für Umschaltung der Bildwiederholrate"
+
+msgid ""
+"Changing framerate for current service?\n"
+"Current framerate: %s\n"
+"New framerate: %s\n"
+msgstr ""
+"Bildwiederholrate für aktuelle Wiedergabe ändern?\n"
+"Aktuelle Bildwiederholrate: %s\n"
+"Neue Bildwiederholrate: %s\n"
+
+msgid "automatically"
+msgstr "automatisch"
+
+msgid "manually"
+msgstr "manuell"
+
 #~ msgid "Setup preview pictures directory for service list"
 #~ msgstr "Verzeichnis für Vorschaubilder"

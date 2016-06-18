@@ -9545,6 +9545,24 @@ msgstr ""
 msgid "No suitable sat tuner found!"
 msgstr ""
 
+msgid "Automatic framerate detection"
+msgstr ""
+
+msgid "Mode for framerate change"
+msgstr ""
+
+msgid ""
+"Changing framerate for current service?\n"
+"Current framerate: %s\n"
+"New framerate: %s\n"
+msgstr ""
+
+msgid "automatically"
+msgstr ""
+
+msgid "manually"
+msgstr ""
+
 #~ msgid "Timeout for 0 key double-click (ms)"
 #~ msgstr "Limit czasu dla dwukrotnego naciśniecia przycisku 0 (ms)"
 
