@@ -9696,6 +9696,9 @@ msgstr ""
 msgid "manually"
 msgstr ""
 
+msgid "Hide Infobar when SecondInfobar is shown"
+msgstr ""
+
 #~ msgid "Show favourite list with bouquet-up"
 #~ msgstr "Mostra la lista dei preferiti con Bouquet-Up"
 

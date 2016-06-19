@@ -10600,6 +10600,9 @@ msgstr ""
 msgid "manually"
 msgstr ""
 
+msgid "Hide Infobar when SecondInfobar is shown"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

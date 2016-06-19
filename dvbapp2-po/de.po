@@ -11694,5 +11694,8 @@ msgstr "automatisch"
 msgid "manually"
 msgstr "manuell"
 
+msgid "Hide Infobar when SecondInfobar is shown"
+msgstr "Infobar bei SecondInfobar ausblenden"
+
 #~ msgid "Setup preview pictures directory for service list"
 #~ msgstr "Verzeichnis für Vorschaubilder"

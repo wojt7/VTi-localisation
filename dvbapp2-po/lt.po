@@ -9615,6 +9615,9 @@ msgstr ""
 msgid "manually"
 msgstr ""
 
+msgid "Hide Infobar when SecondInfobar is shown"
+msgstr ""
+
 #~ msgid "Timeout for 0 key double-click (ms)"
 #~ msgstr "Delsa, dukart spaudžiant '0' (ms)"
 
