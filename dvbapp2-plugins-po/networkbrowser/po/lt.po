@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NetworkBrowser-VTI\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-23 12:08+0200\n"
-"PO-Revision-Date: 2016-01-23 12:23+0200\n"
+"POT-Creation-Date: 2013-09-22 10:46+0100\n"
+"PO-Revision-Date: 2016-06-19 12:44+0300\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
 "Language: lt\n"
@@ -14,8 +14,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.8.6\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid ""
 "Mounted/\n"
@@ -44,7 +45,7 @@ msgid "Delete mount"
 msgstr "Šalinti pajungimą"
 
 msgid "Manage network shares"
-msgstr "Valdykite tinklo bendrinimus"
+msgstr "Valdykite tinklo bendrus resursus"
 
 msgid "IP:"
 msgstr "IP:"
@@ -166,10 +167,10 @@ msgid "Search for network shares..."
 msgstr "Tinklo bendrinimų paieška..."
 
 msgid "MountManager"
-msgstr "Pajungimų tvarkytuvas"
+msgstr "Pajungimų valdymas"
 
 msgid "Manage your network shares..."
-msgstr "Valdykite tinklo bendrinimus..."
+msgstr "Valdykite savo tinklo pajungimus..."
 
 msgid "Mounts management"
 msgstr "Pajungimų valdymas"
@@ -223,25 +224,27 @@ msgid "Add new network mount point"
 msgstr "Pridėti naują tinklo pajungimo tašką"
 
 msgid "Add a new NFS or CIFS mount point to your STB."
-msgstr "Pridėti savo Vu+ naują NFS arba CIFS pajungimo tašką."
+msgstr ""
+"čia galite prijungti prie savo Vu+ naują NFS arba CIFS pajungimo tašką."
 
 msgid "Mountpoints management"
 msgstr "Pajungimo taškų valdymas"
 
 msgid "View, edit or delete mountpoints on your STB."
-msgstr "Žiūrėkite, redaguokite, ar šalinkite pajungimo taškus."
+msgstr "čia žiūrėkite, redaguokite, ar šalinkite pajungimo taškus."
 
 msgid "User management"
 msgstr "Vartotojų valdymas"
 
 msgid "View, edit or delete usernames and passwords for your network."
-msgstr "Žiūrėkite, redaguokite, ar šalinkite savo tinklo vartotojus ir slaptažodžius."
+msgstr ""
+"žiūrėkite, redaguokite, ar šalinkite savo tinklo vartotojus ir slaptažodžius."
 
 msgid "Change hostname"
 msgstr "Keisti vardą tinkle"
 
 msgid "Change the hostname of your STB."
-msgstr "Keisti savo Vu+ vardą tinkle."
+msgstr "čia pakeiskite savo Vu+ vardą tinkle."
 
 msgid "Enter new hostname for your STB"
 msgstr "Įrašykite savo Vu+ naują vardą tinkle"
@@ -251,9 +254,6 @@ msgstr "Palaukite, kol jūsų tinklas paleidžiamas iš naujo..."
 
 msgid "Finished restarting your network"
 msgstr "Tinklo paleidimas iš naujo baigtas"
-
-#~ msgid "Save"
-#~ msgstr "Išsaugoti"
 
 #~ msgid "AUTOFS (mount as needed)"
 #~ msgstr "AUTOFS (pajungti esant reikalui)"

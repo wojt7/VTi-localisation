@@ -1,3 +1,4 @@
+# Copyright (C) 2012 THE enigma2-plugins'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the enigma2-plugins package.
 # Automatically generated, 2012.
 #
@@ -5,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-AutoResolution\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-20 10:01+0200\n"
-"PO-Revision-Date: 2016-02-20 10:05+0200\n"
+"POT-Creation-Date: 2011-06-10 16:57+0100\n"
+"PO-Revision-Date: 2016-06-19 09:17+0300\n"
 "Last-Translator: Vytenis P.\n"
 "Language-Team: Vytenis Pulokas <vytemiui@gmail.com>\n"
 "Language: lt_LT\n"
@@ -15,65 +16,147 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-#: ../src/plugin.py:36
-msgid "disabled"
-msgstr "išjungta"
+#: ../src/plugin.py:24
+msgid "SD 25/50HZ Interlace Mode"
+msgstr "SD 25/50HZ dvieilio pynimo (interlace) režimas"
 
-#: ../src/plugin.py:36
-msgid "immediately after recording"
-msgstr "iškart po įrašymo"
+#: ../src/plugin.py:24
+msgid "SD 30/60HZ Interlace Mode"
+msgstr "SD 30/60HZ dvieilio pynimo (interlace) režimas"
 
-#: ../src/plugin.py:36
-msgid "older than 1 day"
-msgstr "senesni, nei 1 dienos"
+#: ../src/plugin.py:25
+msgid "SD 25/50HZ Progressive Mode"
+msgstr "SD 25/50HZ pilnaeilis (progressive) režimas"
 
-#: ../src/plugin.py:36
-msgid "older than 3 days"
-msgstr "senesni, nei 3 dienų"
+#: ../src/plugin.py:25
+msgid "SD 30/60HZ Progressive Mode"
+msgstr "SD 30/60HZ pilnaeilis (progressive) režimas"
 
-#: ../src/plugin.py:36
-msgid "older than 1 week"
-msgstr "senesni, nei 1 savaitės"
+#: ../src/plugin.py:26
+msgid "HD Interlace Mode"
+msgstr "HD dvieilio pynimo (interlace) režimas"
 
-#: ../src/plugin.py:36
-msgid "older than 2 weeks"
-msgstr "senesni, nei 2 savaičių"
+#: ../src/plugin.py:26
+msgid "HD Progressive Mode"
+msgstr "HD pilnaeilis (progressive) režimas"
 
-#: ../src/plugin.py:36
-msgid "older than 4 weeks"
-msgstr "senesni, nei 4 savaičių"
+#: ../src/plugin.py:27
+msgid "Enable 720p24 Mode"
+msgstr "Įjungti 720p24 režimą"
 
-#: ../src/plugin.py:36
-msgid "older than 6 weeks"
-msgstr "senesni, nei 6 savaičių"
+#: ../src/plugin.py:27
+msgid "Enable 1080p24 Mode"
+msgstr "Įjungti 1080p24 režimą"
 
-#: ../src/plugin.py:49 ../src/plugin.py:125
-msgid "Automatic Timerlist Cleanup Setup"
-msgstr "Automatinio laikmačių sąrašo išvalymo nustatymas"
+#: ../src/plugin.py:28
+msgid "Enable 1080p25 Mode"
+msgstr "Įjungti 1080p25 režimą"
 
-#: ../src/plugin.py:122 ../src/plugin.py:125
-msgid "Timerlist Cleanup Setup"
-msgstr "Laikmačių sąrašo išvalymo nustatymas"
+#: ../src/plugin.py:28
+msgid "Enable 1080p30 Mode"
+msgstr "Įjungti 1080p30 režimą"
 
-#: ../src/plugin.py:53
-msgid "Cancel"
-msgstr "Atšaukti"
+#: ../src/plugin.py:35 ../src/plugin.py:37
+msgid "off"
+msgstr "išjungti"
 
-#: ../src/plugin.py:54
+#: ../src/plugin.py:35 ../src/plugin.py:37
+msgid "auto"
+msgstr "automatinis"
+
+#: ../src/plugin.py:35 ../src/plugin.py:37
+msgid "on"
+msgstr "įjungti"
+
+#: ../src/plugin.py:35 ../src/plugin.py:37
+msgid "bob"
+msgstr "bob"
+
+#: ../src/plugin.py:39
+msgid "second"
+msgstr "sekundę"
+
+#: ../src/plugin.py:39 ../src/plugin.py:40 ../src/plugin.py:41
+msgid "seconds"
+msgstr "sek."
+
+#: ../src/plugin.py:117
+msgid "default"
+msgstr "numatyta"
+
+#: ../src/plugin.py:227
+#, python-format
+msgid ""
+"Autoresolution Plugin Testmode:\n"
+"Is %s OK?"
+msgstr ""
+"Autorezoliucijos įskiepio Testo režimas:\n"
+"Ar %s tinka?"
+
+#: ../src/plugin.py:276
+msgid "Autoresolution videomode setup"
+msgstr "Autorezoliucijos vaizdo režimo sąranka"
+
+#: ../src/plugin.py:288
 msgid "OK"
 msgstr "Gerai"
 
-#: ../src/plugin.py:56
-msgid "Cleanup timerlist-entries"
-msgstr "Valyti laikmačių sąrašo įrašus"
+#: ../src/plugin.py:289
+msgid "Cancel"
+msgstr "Atšaukti"
 
-#
-msgid "UHD Interlace Mode"
-msgstr "UHD dvieilio pynimo (interlace) režimas"
+#: ../src/plugin.py:295
+msgid "Autoresolution settings"
+msgstr "Autorezoliucijos nustatymai"
 
-#
-msgid "UHD Progressive Mode"
-msgstr "UHD pilnaeilis (progressive) režimas"
+#: ../src/plugin.py:298
+msgid "Enable Autoresolution"
+msgstr "Įjungti autorezoliuciją"
+
+#: ../src/plugin.py:304 ../src/plugin.py:305
+msgid "Refresh Rate"
+msgstr "Skleistinės dažnis"
+
+#: ../src/plugin.py:306
+msgid "Show info screen"
+msgstr "Rodyti informacinį ekraną"
+
+#: ../src/plugin.py:307
+msgid "Delay x seconds after service started"
+msgstr "Atvėrus kanalą, uždelsti X sekundžių"
+
+#: ../src/plugin.py:308
+msgid "Running in testmode"
+msgstr "Veikia testavimo režime"
+
+#: ../src/plugin.py:309
+msgid "Deinterlacer mode for interlaced content"
+msgstr "Deinterlacer metodas dvieilio pynimo turiniui"
+
+#: ../src/plugin.py:310
+msgid "Deinterlacer mode for progressive content"
+msgstr "Deinterlacer metodas pilnaeiliam turiniui"
+
+#: ../src/plugin.py:313
+msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+msgstr "Autorezoliucija neveikia Scart/DVI-PC režimu"
+
+#: ../src/plugin.py:357
+msgid "Autoresolution"
+msgstr "Autorezoliucija"
+
+#: ../src/plugin.py:365
+msgid "Autoresolution Switch"
+msgstr "Autorezoliucijos perjungėjas"
+
+#~ msgid "Videocontent:"
+#~ msgstr "Vaizdo turinys:"
+
+#~ msgid "Videomode:"
+#~ msgstr "Vaizdo režimas:"
+
+#~ msgid "SD 24HZ Progressive mode"
+#~ msgstr "SD 30/60HZ pilnaeilis režimas"
