@@ -9556,7 +9556,7 @@ msgstr "Skenuoti fone"
 msgid "Show preview pictures in service list"
 msgstr ""
 
-msgid "Time in seconds before preview pictures will be updated"
+msgid "Time in minutes before preview pictures will be updated"
 msgstr ""
 
 msgid "Include configuration file in crash log"

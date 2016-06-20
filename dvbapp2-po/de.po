@@ -11630,8 +11630,8 @@ msgstr "Suchlauf im Hintergrund ausführen"
 msgid "Show preview pictures in service list"
 msgstr "Zeige Vorschaubilder in der Kanalliste"
 
-msgid "Time in seconds before preview pictures will be updated"
-msgstr "Zeit in Sekunden bevor Vorschaubilder erneuert werden"
+msgid "Time in minutes before preview pictures will be updated"
+msgstr "Zeit in Minuten bevor Vorschaubilder erneuert werden"
 
 msgid "Include configuration file in crash log"
 msgstr "Konfigurationsdateien in Crashdateien ausgeben"
