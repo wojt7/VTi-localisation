@@ -9441,46 +9441,46 @@ msgid "Subtitle Quickmenu"
 msgstr "Rychlé menu titulků"
 
 msgid "Force LNB Power"
-msgstr ""
+msgstr "Vnutit napájení LNB"
 
 msgid "Force ToneBurst"
-msgstr ""
+msgstr "Vnutit ToneBurst"
 
 msgid "DVB CI Delay"
-msgstr ""
+msgstr "Zpoždění DVB CI"
 
 msgid "Original"
-msgstr ""
+msgstr "Originál"
 
 msgid "No delay"
-msgstr ""
+msgstr "Bez zpoždění"
 
 msgid "center"
-msgstr ""
+msgstr "střed"
 
 msgid "No transparency"
-msgstr ""
+msgstr "Není transparentní"
 
 msgid "Depressed"
-msgstr ""
+msgstr "Snížený"
 
 msgid "Raised"
-msgstr ""
+msgstr "Zvýšený"
 
 msgid "Uniform"
-msgstr ""
+msgstr "Jednotný"
 
 msgid "Full transparency"
-msgstr ""
+msgstr "Plně transparentní"
 
 msgid "magneta"
-msgstr ""
+msgstr "fialová"
 
 msgid "Limit FCC to current bouquet"
-msgstr ""
+msgstr "Limit FCC pro aktuální sadu kanálů"
 
 msgid "FCC restart"
-msgstr ""
+msgstr "Restart FCC"
 
 #~ msgid "Show favourite list with bouquet-up"
 #~ msgstr "Zobrazit seznam oblíbených klávesou \"Kanál +\""
