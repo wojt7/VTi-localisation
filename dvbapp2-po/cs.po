@@ -9074,242 +9074,243 @@ msgid "Minimum SmartSeek time intervall (seconds)"
 msgstr "Min.časový interval SmartSeek (sek.)"
 
 msgid "Add bouquet services"
-msgstr ""
+msgstr "Přidat kanál do sady kanálů"
 
 msgid "Include CI assignment for detection of available services"
-msgstr ""
+msgstr "Včetně CI pro detekci dostupných kanálů "
 
 msgid "Constant SmartSeek skip intervall in seconds (left/right)"
-msgstr ""
+msgstr "SmartSeek - konstantní intervat skoku v sek. (vlevo / vpravo)""
 
 msgid "Remap left/right to SmartSeek constant skip intervall"
-msgstr ""
+msgstr "SmartSeek - přemapovat konstantní interval skoku vlevo / vpravo"
 
 msgid "Show info for folder"
-msgstr ""
+msgstr "Zobrazit info pro složku"
 
 msgid "Show new movies in folder info"
-msgstr ""
+msgstr "Zobrazit nové video v infu složky"
 
 msgid "Show sub directories in folder info"
-msgstr ""
+msgstr "Zobrazit pod-složky v infu složky"
 
 msgid "Show folder info at the beginning"
-msgstr ""
+msgstr "Zobrazit info složky na začátku"
 
 msgid "All movies"
-msgstr ""
+msgstr "Všechna videa"
 
 msgid "Show CI messages"
-msgstr ""
+msgstr "Zobrazit CI hlášení"
 
 msgid "Show only new movies in folder info"
-msgstr ""
+msgstr "Zobrazit pouze nové video v infu složky"
 
 msgid "Sort folders by new items"
-msgstr ""
+msgstr "Zobrazit složky u nových položek"
 
 msgid "Behavior when Live TV event changes during timeshift"
-msgstr ""
+msgstr "Akce, když Live TV změní událost během timeshiftu"
 
 msgid "Ask before stopping timeshift"
-msgstr ""
+msgstr "Dotaz před zastavením timeshiftu"
 
 msgid "Start timeshift automatically after given time"
-msgstr ""
+msgstr "Aut.spustit timeshift po zadaném času"
 
 msgid "1 second"
-msgstr ""
+msgstr "1 sek."
 
 msgid "2 seconds"
-msgstr ""
+msgstr "2 sek."
 
 msgid "3 seconds"
-msgstr ""
+msgstr "3 sek."
 
 msgid "4 seconds"
-msgstr ""
+msgstr "4 sek."
 
 msgid "5 seconds"
-msgstr ""
+msgstr "5 sek."
 
 msgid "10 seconds"
-msgstr ""
+msgstr "10 sek."
 
 msgid "20 seconds"
-msgstr ""
+msgstr "20 sek."
 
 msgid "30 seconds"
-msgstr ""
+msgstr "30 sek."
 
 msgid "1 minute"
-msgstr ""
+msgstr "1 min."
 
 msgid "2 minutes"
-msgstr ""
+msgstr "2 mun."
 
 msgid "continue timeshift"
-msgstr ""
+msgstr "pokračovat s timeshiftem""
 
 msgid "split & keep"
-msgstr ""
+msgstr "rozdělit a ponechat"
 
 msgid "split & delete"
-msgstr ""
+msgstr "rozdělit a odstranit"
 
 msgid "stop & keep"
-msgstr ""
+msgstr "zastavit a ponechat"
 
 msgid "stop & delete"
-msgstr ""
+msgstr "zastavit a odstranit"
 
 msgid "Live TV event changed"
-msgstr ""
+msgstr "Událost Live TV byla změněna"
 
 msgid "Save old event and continue timeshift"
-msgstr ""
+msgstr "Uložit původní událost a pokračovat s timeshiftem"
 
 msgid "Delete old event and continue timeshift"
-msgstr ""
+msgstr "Odstranit původní událost a pokračovat s timeshiftem"
 
 msgid "Save old event and stop timeshift"
-msgstr ""
+msgstr "Uložit původní událost a zastavit timeshift"
 
 msgid "Delete old event and stop timeshift"
-msgstr ""
+msgstr "Odstranit původní událost a zastavit timeshift"
 
 msgid "seek to timeshift end (Live TV)"
-msgstr ""
+msgstr "Vyhledat konec timeshiftu (Live TV)"
 
 msgid "delete timeshift file"
-msgstr ""
+msgstr "Odstranit soubor timeshiftu"
 
 msgid "keep timeshift file"
-msgstr ""
+msgstr "Ponechat soubor timeshiftu"
 
 msgid "Behavior when a service changes during timeshift"
-msgstr ""
+msgstr "Akce, když se změní kanál během timeshiftu"
 
 msgid "Delete timeshift files older than X days"
-msgstr ""
+msgstr "Odstranit soubory timeshiftu starší než x dnů"
 
 msgid "Search for old timeshift files every X hours (0 = off)"
-msgstr ""
+msgstr "Vyhledat starší soubory timeshiftu každých x hod. (0 = off)"
 
 msgid "Bars view for timer"
-msgstr ""
+msgstr "Zobrazit pásek pro časovač"
 
 msgid "Time frame of entries in minutes"
-msgstr ""
+msgstr "Časové rozpětí položek v min."
 
 msgid "Set jump time in hours"
-msgstr ""
+msgstr "Nastavit časový skok v hod."
 
 msgid "Ok button action"
-msgstr ""
+msgstr "Akce pro tlačítko OK"
 
 msgid "EPG button action"
-msgstr ""
+msgstr "Akce pro tlačítko EPG"
 
 msgid "Transform Timeshift into recording"
-msgstr ""
+msgstr "Převod Timeshiftu do nahrávky"
 
 msgid "Unhide all entries"
-msgstr ""
+msgstr "Zviditelnit všechny položky"
 
 msgid "Please select entry to unhide..."
-msgstr ""
+msgstr "Vyberte položky pro zviditelnění"
 
 msgid "hide entry: %s"
-msgstr ""
+msgstr "Skrýt položku : %s"
 
 msgid "unhide hidden entry"
-msgstr ""
+msgstr "Zobrazit skrytou položku"
 
 msgid "Picon folder for graphical multi EPG"
-msgstr ""
+msgstr "Složka picon pro grafické muti EPG"
 
 msgid "Console"
-msgstr ""
+msgstr "Konzola"
 
 msgid "Console & File"
-msgstr ""
+msgstr "Konzola a soubor"
 
 msgid "Enable debug log"
-msgstr ""
+msgstr "Aktivovat log.zápisy pro ladění"
 
 msgid "File (loop)"
-msgstr ""
+msgstr "Soubor (smyčka)"
 
 msgid "Console & File (loop)"
-msgstr ""
+msgstr "Konzola a soubor (smyčka)"
 
 msgid "Use prev/next buttons for switching timeshift events"
-msgstr ""
+msgstr "Použít tlačítka předchozí/další pro přepínání  položek timeshiftu"
 
 msgid "Avoid simultaneous timer starts"
-msgstr ""
+msgstr "Vyhlete se souběžným startům časovačů"
 
 msgid "Please select timeshift file"
-msgstr ""
+msgstr "Vyberte soubor timeshiftu"
 
 msgid "Transform old timeshift event into recording"
-msgstr ""
+msgstr "Převést starší položku timeshiftu do nahrávky"
 
 msgid "Hide timeshift files in movie list"
-msgstr ""
+msgstr "Skrýt soubory timeshiftu v seznamu videa"
 
 msgid "Current timeshift"
-msgstr ""
+msgstr "Aktuální timeshift"
 
 msgid "Show old timeshift events"
-msgstr ""
+msgstr "Zobrazit starší položky timeshiftu"
 
 msgid "Do not save timeshift events shorter than X minutes"
-msgstr ""
+msgstr "Neukládat položky timeshiftu kratší než x min."
 
 msgid "Zap Up/Down"
-msgstr ""
+msgstr "Zapnout nahoru/dolů""
 
 msgid "History Prev/Next"
-msgstr ""
+msgstr "Historie předchozí/další"
 
 msgid "Box or driver is not support FCC."
-msgstr ""
+msgstr "Box nebo jednotka nepodporuje FCC"
 
 msgid "FCC enabled"
-msgstr ""
+msgstr "FCC - aktivováno"
 
 msgid "Max Channels"
-msgstr ""
+msgstr "Maximum kanálů"
 
 msgid "priority"
-msgstr ""
+msgstr "priorita"
 
 msgid "Disable FastChannelChange"
-msgstr ""
+msgstr "Vypnout FastChannelChange"
 
 msgid "Enable FastChannelChange"
-msgstr ""
+msgstr "Aktivovat FastChannelChange"
 
 msgid "Fast Channel Change Setup"
-msgstr ""
+msgstr "Nastavit FastChannelChange"
 
 msgid "Disable FCC during recordings"
-msgstr ""
+msgstr "Vypnout FCC při nahrávání"
 
 msgid "FCCSetup"
-msgstr ""
+msgstr "FCCSetup"
 
 msgid "Display crash information on TV"
-msgstr ""
+msgstr "Zobrazit info o havárii na TV"
 
 msgid "Select packages to install"
-msgstr ""
+msgstr "Vybrat balíčky pro instalaci"
 
 msgid ""
 "Do you want timeshift to be actviated automatically (permanent timeshift) ?"
 msgstr ""
+"Chcete aby se timeshift aktivoval automaticky (permanentní timeshift) ?"
 
 msgid ""
 "You can now use VTi ZerO to remove some packages which you do not need.\n"
@@ -9317,120 +9318,127 @@ msgid ""
 "You can now also use VTi BackupSuite to restore your previously saved "
 "settings, plugins or favourite bouquets ?"
 msgstr ""
+"Můžete nyní použít VTi ZerO pro odebrání některých balíčků, které nepotřebujete.\n"
+"\n"
+"Můžete také použít VTi BackupSuite pro obnovení dříve uloženého "
+"nastavení, modulů nebo sady kanálů."
 
 msgid "Next step"
-msgstr ""
+msgstr "Další krok"
 
 msgid "Remove not needed packages (VTi ZerO)"
-msgstr ""
+msgstr "Odebrat nepotřebné balíčky (VTi ZerO)"
 
 msgid "Restore configuration (VTi BackupSuite)"
-msgstr ""
+msgstr "Obnovit konfiguraci (VTi BackupSuite)"
 
 msgid ""
 "Use the left and right buttons to change an option.\n"
 "\n"
 "Please configure timeshift options:"
 msgstr ""
+"Použijte tlačítka vlevo/vpravo pro změnu volby.\n"
+"\n"
+"Konfigurace timeshiftu :"
 
 msgid "Channel -"
-msgstr ""
+msgstr "Kanál -"
 
 msgid "Channel +"
-msgstr ""
+msgstr "Kanál +"
 
 msgid "Show favourite list with bouquet button"
-msgstr ""
+msgstr "Zobrazit seznam oblíbených tlačítkem bouquet"
 
 msgid "Use channel +/- buttons for channel zap"
-msgstr ""
+msgstr "Použít tlačítko +/- pro změnu kanálu"
 
 msgid "Please configure function for short keypress of Power button"
-msgstr ""
+msgstr "Zadejte funkci pro krátký stisk tlačítka Power"
 
 msgid "Please configure function for long keypress of Exit button"
-msgstr ""
+msgstr "Zadejte funkci pro dlouhý stisk tlačítka Exit"
 
 msgid "Please configure function for short keypress of REC button"
-msgstr ""
+msgstr "Zadejte funkci pro krátký stitsk tlačítka REC"
 
 msgid "Please select your preferred EPG view"
-msgstr ""
+msgstr "Vyberte preferovaný náhled EPG"
 
 msgid "Do you want to change channels with Channel +/- buttons?"
-msgstr ""
+msgstr "Chcete přepínat kanály tlačítky +/- ?"
 
 msgid "Software Setup"
-msgstr ""
+msgstr "Nastavení software"
 
 msgid "Please press EPG/Info key for detailed error description"
-msgstr ""
+msgstr "Stiskněte tlačítko EPG/Info pro detailní popis chyby"
 
 msgid "Subtitle settings"
-msgstr ""
+msgstr "Nastavení titulků"
 
 msgid "Subtitle font color"
-msgstr ""
+msgstr "Barva fontu titulků"
 
 msgid "Subtitle font size"
-msgstr ""
+msgstr "Velikost fontu titulků"
 
 msgid "Subtitle padding Y"
-msgstr ""
+msgstr "Vyplnit tiutlky Y"
 
 msgid "Background color"
-msgstr ""
+msgstr "Barva pozadí"
 
 msgid "Background transparency"
-msgstr ""
+msgstr "Transparentní pozadí"
 
 msgid "Character edge style"
-msgstr ""
+msgstr "Znaky v edge stylu"
 
 msgid "Character style level"
-msgstr ""
+msgstr "Úrověň stylu znaků"
 
 msgid "Subtitle text transparency"
-msgstr ""
+msgstr "Transparentní text titulků"
 
 msgid "Use original position"
-msgstr ""
+msgstr "Použít orig.pozici"
 
 msgid "Subtitle alignment"
-msgstr ""
+msgstr "Zarovnání titulků"
 
 msgid "Subtitle position"
-msgstr ""
+msgstr "Pozice titulků"
 
 msgid "Center DVB subtitles"
-msgstr ""
+msgstr "Střed DVB titulků"
 
 msgid "Rewrap subtitles"
-msgstr ""
+msgstr "Zalomit titulky"
 
 msgid "Subtitle delay when timing lacks"
-msgstr ""
+msgstr "Zpoždění titulků v načasování chybí"
 
 msgid "Subtitle delay when timing is bad"
-msgstr ""
+msgstr "Zpoždění titulků v načasování je chybné"
 
 msgid "External subtitle switch fonts"
-msgstr ""
+msgstr "Přepnout font u externích titulků"
 
 msgid "External subtitle dialog colorisation"
-msgstr ""
+msgstr "Dialog pro barvu externích titulků"
 
 msgid "Delay for external subtitles"
-msgstr ""
+msgstr "Zpoždění pro externí titulky"
 
 msgid "Set fps for external subtitles"
-msgstr ""
+msgstr "Nastavit fps pro externí titulky"
 
 msgid "Automatically turn on external subtitles"
-msgstr ""
+msgstr "Aut.přepnout na externí titulky"
 
 msgid "Subtitle Quickmenu"
-msgstr ""
+msgstr "Rychlé menu titulků"
 
 msgid "Force LNB Power"
 msgstr ""
