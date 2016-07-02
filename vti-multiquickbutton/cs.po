@@ -283,7 +283,7 @@ msgid "Add command line options ?"
 msgstr "Přidat volby na příkazový řádek ?"
 
 msgid " "
-msgstr ""
+msgstr " "
 
 msgid "Please enter the command line options"
 msgstr "Zadejte volbu na příkazový řádek"
@@ -563,28 +563,28 @@ msgid "Multi Quickbutton"
 msgstr "Multi Quickbutton"
 
 msgid "Stop Timeshift"
-msgstr ""
+msgstr "Zastavit timeshift"
 
 msgid "Timeshift switch to Live TV"
-msgstr ""
+msgstr "Přepnout timeshift na Live TV"
 
 msgid "Stop running recordings"
-msgstr ""
+msgstr "Zastavit nahrávání"
 
 msgid "Previous timeshift event"
-msgstr ""
+msgstr "Předchozí událost timeshiftu"
 
 msgid "Next timeshift event"
-msgstr ""
+msgstr "Další událost timeshift"
 
 msgid "Select timeshift event"
-msgstr ""
+msgstr "Výběr události timeshiftu"
 
 msgid "Select Buttons"
-msgstr ""
+msgstr "Výběr tlačítek"
 
 msgid "MultiQuickButton button selection"
-msgstr ""
+msgstr "MultiQuickButton - výběr tlačítka "
 
 #~ msgid "Channel"
 #~ msgstr "Kanál ... "
