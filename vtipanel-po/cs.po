@@ -1727,46 +1727,52 @@ msgid "Setup - EPG"
 msgstr "Nastavení EPG"
 
 msgid "Download services lists"
-msgstr ""
+msgstr "Stáhnout seznam kanálů"
 
 msgid "Download of services list failes, please be patient and try again later"
-msgstr ""
+msgstr "Stažení seznamu kanálů selhalo ! Zkoste to později."
 
 msgid "Sorry, creating download folder failed"
-msgstr ""
+msgstr "Sorry, založení složky pro stahování selhalo !"
 
 msgid ""
 "Sorry, there are some mandatory files missing\n"
 "Please try antoher services list."
 msgstr ""
+"Sorry, některé důležité soubory chybé !\n"
+"Použijte jiný seznam kanálů."
 
 msgid ""
 "Sorry, extracting of services list failed\n"
 "Please try again."
 msgstr ""
+"Sorry, rozbalení seznamu kanálů selhalo !\n"
+"Zopakujte akci později..."
 
 msgid "Loading new services list finished succesfully."
-msgstr ""
+msgstr "Načtení seznamu nových kanálů bylo dokončeno"
 
 msgid ""
 "Loading the new services list failed.\n"
 "Please try again"
 msgstr ""
+"Načtení seznamu nových kanálů selhalo ! \n"
+"Zkuste akci později."
 
 msgid "Forbid DVB EPG update for black listed services"
-msgstr ""
+msgstr "Zakázat aktualizaci DVB-EPG pro kanály Blacklistu"
 
 msgid "Add Service"
-msgstr ""
+msgstr "Přidat kanál"
 
 msgid "Edit blacklist for DVB EPG"
-msgstr ""
+msgstr "Upravit DVB-EPG Blacklist"
 
 msgid "Please select location of software packages"
-msgstr ""
+msgstr "Vyberte lokalizační balíček"
 
 msgid "Temporary folder (/tmp)"
-msgstr ""
+msgstr "Dočasná složka (/tmp)"
 
 #~ msgid ""
 #~ "Do you really want to delete epg.dat ?\n"
