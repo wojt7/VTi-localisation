@@ -1,203 +1,164 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: HDMISEC\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 18:39+0200\n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Last-Translator: Piotr <kapciu1975@wp.pl>\n"
 "Language-Team: Vytenis Pulokas <vyteniui@gmail.com>\n"
-"Language: lt_LT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: lt_LT\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-#: ../src/plugin.py:55
-msgid "Close"
-msgstr "Užverti"
+msgid "A/V + TV wakeup"
+msgstr "pažadinti garsą/vaizdą+TV"
 
-#: ../src/plugin.py:56
-msgid "Save"
-msgstr "Įrašyti"
-
-#: ../src/plugin.py:57
-msgid "Connect"
-msgstr "Jungtis"
-
-#: ../src/plugin.py:58
-msgid "Disconnect"
-msgstr "Atjungti"
-
-#: ../src/plugin.py:74
-msgid "HDMI CEC enabled:"
-msgstr "HDMI CEC įjungta:"
-
-#: ../src/plugin.py:75
-msgid "Disable power on actions for timer:"
-msgstr "Uždrausti laikmačiui įjungimo veiksmą:"
-
-#: ../src/plugin.py:76
-msgid "Active Source Reply On:"
-msgstr "Aktyvus šaltinio atsakymas:"
-
-#: ../src/plugin.py:77
-msgid "VU+ standby => TV activity:"
-msgstr "VU+ budėjime => TV veikla:"
-
-#: ../src/plugin.py:78
-msgid "VU+ deepstandby => TV activity:"
-msgstr "VU+ išjungtas => TV veikla:"
-
-#: ../src/plugin.py:79
-msgid "VU+ on from standby => TV activity:"
-msgstr "VU+ prikeliamas iš budėjimo => TV veikla:"
-
-#: ../src/plugin.py:80
-msgid "VU+ on from deepstandby => TV activity:"
-msgstr "VU+įjungiamas => TV veikla:"
-
-#: ../src/plugin.py:81
-msgid "TV standby => VU+ activity:"
-msgstr "TV budėjime => VU+ veikla:"
-
-#: ../src/plugin.py:82
-msgid "TV on => VU+ activity:"
-msgstr "TV įjungta => VU + veikla:"
-
-#: ../src/plugin.py:83
-msgid "Choose TV HDMI input:"
-msgstr "Pasirinkite TV HDMI įvestį:"
-
-#: ../src/plugin.py:84
-msgid "Choose A/V-Receiver HDMI input:"
-msgstr "Pasirinkite garso/vaizdo imtuvo HDMI įvestį:"
-
-#: ../src/plugin.py:85
-msgid "Use A/V-Receiver for volume control:"
-msgstr "Naudoti garso/vaizdo imtuvą garso kontrolei:"
-
-#: ../src/plugin.py:86
-msgid "A/V-Receiver volume up:"
-msgstr "Pagarsinti garsą garso/vaizdo imtuve:"
-
-#: ../src/plugin.py:87
-msgid "A/V-Receiver volume down:"
-msgstr "Patildyti garsą garso/vaizdo imtuve:"
-
-#: ../src/plugin.py:88
-msgid "A/V-Receiver toggle mute:"
-msgstr "Atjungti garsą garso/vaizdo imtuve:"
-
-#: ../src/plugin.py:89
-msgid "A/V-Receiver power on:"
-msgstr "Įjungti garso/vaizdo imtuvą:"
-
-#: ../src/plugin.py:90
 msgid "A/V-Receiver power off:"
 msgstr "Išjungti garso/vaizdo imtuvą:"
 
-#: ../src/plugin.py:91
-msgid "TV power on:"
-msgstr "Įjungti TV:"
+msgid "A/V-Receiver power on:"
+msgstr "Įjungti garso/vaizdo imtuvą:"
 
-#: ../src/plugin.py:92
-msgid "TV power off:"
-msgstr "Išjungti TV:"
+msgid "A/V-Receiver toggle mute:"
+msgstr "Atjungti garsą garso/vaizdo imtuve:"
 
-#: ../src/plugin.py:93
-msgid "Use TV remotecontrol:"
-msgstr "Naudoti TV nuotolinį pultą:"
+msgid "A/V-Receiver volume down:"
+msgstr "Patildyti garsą garso/vaizdo imtuve:"
 
-#: ../src/plugin.py:94
-msgid "Set VU+ device name:"
-msgstr "Nustatyti VU+ pavadinimą:"
+msgid "A/V-Receiver volume up:"
+msgstr "Pagarsinti garsą garso/vaizdo imtuve:"
 
-#: ../src/plugin.py:95
+msgid "Active Source Reply On:"
+msgstr "Aktyvus šaltinio atsakymas:"
+
 msgid "Address (0~FF):"
 msgstr "Addresas (0~FF):"
 
-#: ../src/plugin.py:100
-msgid "Enable debug output to file :"
-msgstr "Leisti derinimo išvestį į failą :"
+msgid "Choose A/V-Receiver HDMI input:"
+msgstr "Pasirinkite garso/vaizdo imtuvo HDMI įvestį:"
 
-#: ../src/plugin.py:101
-msgid "Enable debug output to console :"
-msgstr "Leisti derinimo išvestį į konsolę:"
+msgid "Choose TV HDMI input:"
+msgstr "Pasirinkite TV HDMI įvestį:"
 
-#: ../src/plugin.py:102
+msgid "Close"
+msgstr "Užverti"
+
+msgid "Connect"
+msgstr "Jungtis"
+
 msgid "Delay between CEC messages :"
 msgstr "Delsa tarp CEC pranešimų :"
 
-#: ../src/plugin.py:326
-msgid "VTI HDMI-CEC"
-msgstr "VTI HDMI-CEC"
+msgid "Disable power on actions for timer:"
+msgstr "Uždrausti laikmačiui įjungimo veiksmą:"
 
-#: ../src/HdmiCec.py:39 ../src/HdmiCec.py:45
-msgid "TV standby"
-msgstr "TV budėjimo būsena"
+msgid "Disable power on actions for timer: "
+msgstr "Uždrausti laikmačiui įjungimo veiksmą: "
 
-#: ../src/HdmiCec.py:40 ../src/HdmiCec.py:46
+msgid "Disconnect"
+msgstr "Atjungti"
+
+msgid "Enable debug output to console :"
+msgstr "Leisti derinimo išvestį į konsolę:"
+
+msgid "Enable debug output to console:"
+msgstr "Leisti derinimo išvestį į konsolę:"
+
+msgid "Enable debug output to file :"
+msgstr "Leisti derinimo išvestį į failą :"
+
+msgid "Enable debug output to file:"
+msgstr "Leisti derinimo išvestį į failą:"
+
+msgid "HDMI CEC enabled:"
+msgstr "HDMI CEC įjungta:"
+
+msgid "Nothing"
+msgstr "nieko nedaryti"
+
+msgid "Save"
+msgstr "Įrašyti"
+
+msgid "Set VU+ device name:"
+msgstr "Nustatyti VU+ pavadinimą:"
+
+msgid "Set VU+ device name: "
+msgstr "Nustatyti VU+ pavadinimą: "
+
+msgid "Source active"
+msgstr "aktyvus šaltinis"
+
+msgid "Source inactive"
+msgstr "šaltinis neaktyvus"
+
 msgid "TV + A/V standby"
 msgstr "TV + garso ir vaizdo budėjimo būsena"
 
-#: ../src/HdmiCec.py:41 ../src/HdmiCec.py:47
-msgid "Source inactive"
-msgstr "Šaltinis neaktyvus"
-
-#: ../src/HdmiCec.py:42 ../src/HdmiCec.py:48 ../src/HdmiCec.py:55
-#: ../src/HdmiCec.py:62 ../src/HdmiCec.py:67 ../src/HdmiCec.py:71
-msgid "Nothing"
-msgstr "Nieko"
-
-#: ../src/HdmiCec.py:51 ../src/HdmiCec.py:58
-msgid "TV wakeup"
-msgstr "Pažadinti TV"
-
-#: ../src/HdmiCec.py:52 ../src/HdmiCec.py:59
 msgid "TV + A/V wakeup"
-msgstr "Pažadinti TV + garsą ir vaizdą"
+msgstr "pažadinti TV+garsą/vaizdą"
 
-#: ../src/HdmiCec.py:53 ../src/HdmiCec.py:60
-msgid "A/V + TV wakeup"
-msgstr "Prižadinti TV + garsą ir vaizdą"
+msgid "TV on => VU+ activity:"
+msgstr "TV įjungta => VU + veikla:"
 
-#: ../src/HdmiCec.py:54 ../src/HdmiCec.py:61
-msgid "Source active"
-msgstr "Aktyvus šaltinis"
+msgid "TV power off:"
+msgstr "Išjungti TV:"
 
-#: ../src/HdmiCec.py:65
-msgid "VU+ standby"
-msgstr "VU+ budėjimo būsena"
+msgid "TV power on:"
+msgstr "Įjungti TV:"
 
-#: ../src/HdmiCec.py:66
+msgid "TV standby"
+msgstr "TV budėjimo būsena"
+
+msgid "TV standby => VU+ activity:"
+msgstr "TV budėjime => VU+ veikla:"
+
+msgid "TV wakeup"
+msgstr "pažadinti TV"
+
+msgid "Use A/V-Receiver for volume control:"
+msgstr "Naudoti garso/vaizdo imtuvą garso kontrolei:"
+
+msgid "Use TV remotecontrol:"
+msgstr "Naudoti TV nuotolinį pultą:"
+
+msgid "VTI HDMI-CEC"
+msgstr "VTI HDMI-CEC įskiepis"
+
+msgid "VTI HDMI-CEC Configuration "
+msgstr "VTI HDMI-CEC konfigūravimas "
+
+msgid "VTI HDMI-CEC Configuration"
+msgstr "VTI HDMI-CEC konfigūravimas"
+
 msgid "VU+ DeepStandby"
 msgstr "VU+ išjungimas"
 
-#: ../src/HdmiCec.py:70
-msgid "VU+ wakeup"
-msgstr "Pažadinti VU+"
+msgid "VU+ deepstandby => TV activity:"
+msgstr "VU+ išjungtas => TV veikla:"
 
-#: ../src/HdmiCec.py:83
+msgid "VU+ on from deepstandby => TV activity:"
+msgstr "VU+įjungiamas => TV veikla:"
+
+msgid "VU+ on from standby => TV activity:"
+msgstr "VU+ prikeliamas iš budėjimo => TV veikla:"
+
+msgid "VU+ standby"
+msgstr "VU+ budėjimo būsena"
+
+msgid "VU+ standby => TV activity:"
+msgstr "VU+ budėjime => TV veikla:"
+
+msgid "VU+ wakeup"
+msgstr "pažadinti VU+"
+
 msgid "no A/V Receiver"
 msgstr "nėra garso/vaizdo imtuvo"
 
-#~ msgid "Disable power on actions for timer: "
-#~ msgstr "Uždrausti laikmačiui įjungimo veiksmą: "
+msgid "no A/V Receiver "
+msgstr "nėra garso/vaizdo imtuvo "
 
-#~ msgid "Enable debug output to console:"
-#~ msgstr "Leisti derinimo išvestį į konsolę:"
-
-#~ msgid "Enable debug output to file:"
-#~ msgstr "Leisti derinimo išvestį į failą:"
-
-#~ msgid "Set VU+ device name: "
-#~ msgstr "Nustatyti VU+ pavadinimą: "
-
-#~ msgid "VTI HDMI-CEC Configuration "
-#~ msgstr "VTI HDMI-CEC konfigūravimas "
-
-#~ msgid "no A/V Receiver "
-#~ msgstr "nėra garso/vaizdo imtuvo "
+msgid "VTI HDMI-CEC Plugin"
+msgstr "VTI HDMI-CEC įskiepis"
