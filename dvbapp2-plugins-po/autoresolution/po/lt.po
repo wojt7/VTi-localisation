@@ -152,11 +152,11 @@ msgstr "Autorezoliucija"
 msgid "Autoresolution Switch"
 msgstr "Autorezoliucijos perjungėjas"
 
-#~ msgid "Videocontent:"
-#~ msgstr "Vaizdo turinys:"
+msgid "Videocontent:"
+msgstr "Vaizdo turinys:"
 
-#~ msgid "Videomode:"
-#~ msgstr "Vaizdo režimas:"
+msgid "Videomode:"
+msgstr "Vaizdo režimas:"
 
-#~ msgid "SD 24HZ Progressive mode"
-#~ msgstr "SD 30/60HZ pilnaeilis režimas"
+msgid "SD 24HZ Progressive mode"
+msgstr "SD 30/60HZ pilnaeilis režimas"
