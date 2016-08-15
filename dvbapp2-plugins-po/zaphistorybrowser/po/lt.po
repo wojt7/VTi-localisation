@@ -60,3 +60,6 @@ msgstr "Perjungti ir uždaryti"
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:136
 msgid "Config"
 msgstr "Konfigūracija"
+#: /media/TREKSTOR/git/enigma2-plugins/zaphistorybrowser/src/plugin.py:114
+msgid "Enigma1-like history:"
+msgstr "Enigma1 stiliaus istorija:"
