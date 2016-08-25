@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VTI Device Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-05 09:22+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: sk\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "DeviceManager Message"
+msgstr "Správca zariadení hlási"
+
+msgid "Exit"
+msgstr "Koniec"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Information"
+msgstr "Informácia"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "DeviceManager"
+msgstr "Správca zariadení"
+
+msgid "Initialize"
+msgstr "Inicializovať"
+
+msgid "Show mounts"
+msgstr ""
+
+msgid "Size : "
+msgstr "Veľkosť:"
+
+msgid "Model : "
+msgstr "Model: "
+
+msgid "Vendor : "
+msgstr "Výrobca:"
+
+msgid "Format"
+msgstr "Formát"
+
+msgid "Loading, please wait ..."
+msgstr "Načítavam, čakajte..."
+
+msgid "not mounted"
+msgstr "nepripojené"
+
+msgid "Umount"
+msgstr "Odpojiť"
+
+msgid "Mount"
+msgstr "Pripojiť"
+
+msgid "Check"
+msgstr "Kontrola"
+
+#, python-format
+msgid ""
+"Mount path %s\n"
+"is already in use. Please umount current device first"
+msgstr ""
+"Pripojovacia cesta %s\n"
+"sa už používa. Najprv odpojte aktuálne zariadenie"
+
+msgid "Insert mount point:"
+msgstr "Vložiť pripojovací bod:"
+
+msgid "/media/custom"
+msgstr "/media/užívateľ"
+
+msgid "default mount point for hdd"
+msgstr "predvolený pripojovací bod pre HDD"
+
+msgid "recommended for USB flash memory"
+msgstr "odporúčané pre pamäte USB flash"
+
+msgid "user defined"
+msgstr "užívateľsky definované"
+
+msgid "Formatting, please wait ..."
+msgstr "Formátujem, čakajte..."
+
+#, python-format
+msgid "Device : /dev/%s"
+msgstr "Zariadenie: /dev/%s"
+
+#, python-format
+msgid "Filesystem : %s"
+msgstr "Súborový systém: %s"
+
+#, python-format
+msgid "Size : %s MB"
+msgstr "Veľkosť: %s MB"
+
+#, python-format
+msgid ""
+"Do you really want to initialize your device ?\n"
+"\n"
+"ATTENTION !!!\n"
+"\n"
+"This will delete all data on device %s (/dev/%s)"
+msgstr ""
+"Naozaj chcete inicializovať toto zariadenie?\n"
+"\n"
+"POZOR!!!\n"
+"\n"
+"Tým sa vymažú všetky dáta na zariadení %s (/dev/%s)"
+
+msgid "Partitioning, please wait ..."
+msgstr "Vytváram partície, čakajte..."
+
+msgid "One partition"
+msgstr "Jedna partícia"
+
+msgid "Two partitions (50% / 50%)"
+msgstr "Dve partície (50% / 50%)"
+
+msgid "Two partitions (75% / 25%)"
+msgstr "Dve partície (75% / 25%)"
+
+msgid "Three partitions (33% / 33% / 33%)"
+msgstr "Tri partície (33% / 33% / 33%)"
+
+msgid "Four partitions (25% / 25% / 25% / 25%)"
+msgstr "Štyri partície (25% / 25% / 25% / 25%)"
+
+msgid "Two partitions (1% / 99%)"
+msgstr "Dve partície (1% / 99%)"
+
+msgid "ext2"
+msgstr "ext2"
+
+msgid "ext4"
+msgstr "ext4"
+
+msgid "recommended for harddisks"
+msgstr "odporúčan= pre HDD"
+
+msgid "ext3"
+msgstr "ext3"
+
+msgid "fat"
+msgstr "FAT"
+
+msgid "for USB flash memory"
+msgstr "pre pamäť USB flash"
+
+msgid "Check filesystem, please wait ..."
+msgstr "Kontrolujem systém súborov, čakajte..."
+
+msgid "not formatted"
+msgstr "nenaformátované"
+
+msgid "Filesystem : "
+msgstr "Systém súborov:"
+
+msgid "Mountpoint : "
+msgstr "Pripojovací bod:"
+
+msgid "Device: "
+msgstr "Zariadenie:"
+
+msgid "There are no mounted devices"
+msgstr "Nie sú pripojené zariadenia."
+
+#, python-format
+msgid ""
+"Can not umount all partitions of /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+"Nemôžem odpojiť všetky partície /dev/%s.\n"
+"Možno sú niektoré súbory otvorené."
+
+#, python-format
+msgid "Can not change partition table of /dev/%s."
+msgstr "Nemôžem zmeniť tabuľku partícií /dev/%s."
+
+#, python-format
+msgid "Can not refresh partition table of /dev/%s."
+msgstr "Nemôžem obnoviť tabuľku partícií /dev/%s."
+
+#, python-format
+msgid ""
+"Error at formatting /dev/%s.\n"
+"Please check your device"
+msgstr ""
+"Chyba pri formátovaní /dev/%s.\n"
+"Skontrolujte zariadenie."
+
+#, python-format
+msgid ""
+"Error at remount of all partitions at /dev/%s\n"
+" Please check your mounts and remount manually"
+msgstr ""
+"Chyba pri novom pripojení všetkých partícií /dev/%s\n"
+" Skontrolujte pripojenie a znova pripojte ručne."
+
+#, python-format
+msgid ""
+"Can not mount device /dev/%s.\n"
+"Please check correct mount path and filesystem"
+msgstr ""
+"Nemôžem pripojiť zariadenie /dev/%s.\n"
+"Skontrolujte správnosť cesty a systému súborov."
+
+#, python-format
+msgid ""
+"Can not umount device /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+"Nemôžem odpojiť zariadenie /dev/%s.\n"
+"Možno sú niektoré súbory otvorené."
+
+#, python-format
+msgid ""
+"Error at umounting all partitions at device /dev/%s\n"
+"Initializing was cancelled"
+msgstr ""
+"Chyba pri odpojovaní všetkých partícií zariadenia /dev/%s\n"
+"Inicializácia bola zrušená."
+
+#, python-format
+msgid "Error at partitioning device /dev/%s"
+msgstr "Chyba pri vytváraní partícií na zariadení /dev/%s"
+
+msgid "Create filesystem, please wait ..."
+msgstr "Vytváram systém súborov, čakajte..."
+
+#, python-format
+msgid "Partition : %s"
+msgstr "Partícia: %s"
+
+#, python-format
+msgid ""
+"Error at creating filesystem at device %s\n"
+"Please create filesystem manually"
+msgstr ""
+"Chyba pri vytváraní systému súborov na zariadení %s\n"
+"Vytvorte systém súborov ručne."
+
+msgid "Filesystem check finished sucessfully"
+msgstr "Kontrola systému súborov úspešne dokončená"
+
+msgid "Error checking disk. The disk or filesystem may be damaged"
+msgstr "Chyba pri kontrole disku. Disk alebo systém súborov je porušený."
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "DeviceManager configuration"
+msgstr "Nastavenie správcu zariadení"
+
+msgid "Enable mount check for HDD"
+msgstr "Zapnúť kontrolu pripojenia pre HDD"
+
+msgid "Harddisk standby after"
+msgstr "Uspať HDD po"
+
+msgid "Mount known devices automatically"
+msgstr "Známe zariadenia pripojiť automaticky"
+
+msgid "Really close without saving settings?"
+msgstr "Naozaj zavrieť bez uloženia nastavení?"
+
+msgid ""
+"There are plugged in storage devices without a mount point !\n"
+"Please check mount points of all devices\n"
+"\n"
+"Open DeviceManager and press MENU button to deactivate this check.\n"
+"\n"
+"Do you want to open DeviceManager ?"
+msgstr ""
+"Sú zasunuté ukladacie zariadenia bez pripojovacieho bodu!\n"
+"Skontrolujte pripojovacie body všetkých zariadení.\n"
+"\n"
+"Otvorte správcu zariadení a stlačením tlačidla MENU vypnite túto kontrolu.\n"
+"\n"
+"Chcete otvoriť správcu zariadení?"
+
+msgid "manage block devices of your VU+"
+msgstr "správa bloku zariadení na VU+"
