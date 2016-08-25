@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PiconManagerMod\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
+"Language-Team: NaseDC+shadowrider <plugins@fselbig.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sk\n"
+
+#  msgid ""
+# msgstr ""
+msgid "Picon folder: "
+msgstr "Adresár piconov:"
+
+msgid "Reading Channels..."
+msgstr "Načítavam stanice..."
+
+msgid "Loaded Picons: "
+msgstr "Načítané picony:"
+
+msgid "Not found Picons: "
+msgstr "Nenájdené picony:"
+
+msgid "Download progress: "
+msgstr "Priebeh preberania:"
+
+msgid "Show group: "
+msgstr "Zobraziť skupinu:"
+
+msgid "Standard picon: "
+msgstr "Štandardný picon:"
+
+msgid "Select drive"
+msgstr "Zvoliť mechaniku"
+
+msgid "More selections"
+msgstr "Viac výberov"
+
+msgid "Download picons"
+msgstr "Prevziať picony"
+
+msgid "Select path"
+msgstr "Zvoliť cestu"
+
+msgid "Create folder"
+msgstr "Vytvoriť adresár"
+
+msgid "Show random Picon"
+msgstr "Zobraziť náhodný picon"
+
+msgid "Exit"
+msgstr "Koniec"
+
+msgid "Next Group"
+msgstr "Nasledujúca skupina"
+
+msgid "Previous Group"
+msgstr "Predchádzajúca skupina"
+
+msgid "Set / clear standard Picon"
+msgstr "Setze / entferne Standardpicon"
+
+msgid "FreeSpace: Drive Not Found !"
+msgstr "Voľné miesto: Nenájdená mechanika!"
+
+msgid "FreeSpace: "
+msgstr "Voľné miesto:"
+
+msgid "Enter Picon Dir:"
+msgstr "Zadajte adresár pre picony"
+
+msgid "Download finished !"
+msgstr "Preberanie skončené."
+
+msgid "Choose Picon folder"
+msgstr "Zvoliť adresár piconov"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "FreeSpace:"
+msgstr "Voľné miesto"
+
+msgid "Channels:"
+msgstr "Stanice"
+
+msgid "All"
+msgstr "Všetky"
+
+msgid "Server temporarily unavailable"
+msgstr "Server dočasne nedostupný"
+
+msgid "PiconManagerMod - Settings"
+msgstr "Správca piconov - Nastavenie"
+
+msgid "Select from list"
+msgstr "Zvoliť zo zoznamu"
+
+msgid "OK and exit"
+msgstr "OK a skončiť"
+
+msgid "Set Filter:"
+msgstr "Nastaviť filter:"
+
+msgid "Size"
+msgstr "Veľkosť"
+
+msgid "Creator"
+msgstr "Generátor"
+
+msgid "bit"
+msgstr "bit"
+
+msgid "Option:"
+msgstr "Voľba:"
+
+msgid "Remember permanently?"
+msgstr "Trvale zapamätať?"
+
+msgid "Activate debug logging?"
+msgstr "Aktivovať protokol ladenia?"
+
+msgid "Select Server:"
+msgstr "Zvoliť server:"
+
+msgid "Previous picon creator"
+msgstr "Predchádzajúci generátor picona"
+
+msgid "Next picon creator"
+msgstr "Nasledujúci generátor picona"
+
+msgid "Previous picon size"
+msgstr "Predchádzajúca veľkosť picona"
+
+msgid "Next picon size"
+msgstr "Nasledujúca veľkosť picona"
+
+msgid "Previous color depth"
+msgstr "Predchádzajúca farebná hĺbka"
+
+msgid "Next color depth"
+msgstr "Nasledujúca  farebná hĺbka"
+
+msgid "Size: "
+msgstr "Veľkosť:"
+
+msgid "Creator: "
+msgstr "Vytvoril:"
+
+msgid "Color depth: "
+msgstr "Farebná hĺbka:"
+
+msgid "No search results, please change filter options ..."
+msgstr "Chýbajú výsledky hľadania, zmeňte nastavenie filtra..."
+
+msgid "Loading, please wait..."
+msgstr "Načítavam, čakajte..."
