@@ -9079,7 +9079,7 @@ msgid "Include CI assignment for detection of available services"
 msgstr "Včetně CI pro detekci dostupných kanálů "
 
 msgid "Constant SmartSeek skip intervall in seconds (left/right)"
-msgstr "SmartSeek - konstantní intervat skoku v sek. (vlevo / vpravo)""
+msgstr "SmartSeek - konstantní intervat skoku v sek. (vlevo / vpravo)"
 
 msgid "Remap left/right to SmartSeek constant skip intervall"
 msgstr "SmartSeek - přemapovat konstantní interval skoku vlevo / vpravo"
@@ -9160,7 +9160,7 @@ msgid "2 minutes"
 msgstr "2 mun."
 
 msgid "continue timeshift"
-msgstr "pokračovat s timeshiftem""
+msgstr "pokračovat s timeshiftem"
 
 msgid "split & keep"
 msgstr "rozdělit a ponechat"
@@ -9280,7 +9280,7 @@ msgid "Do not save timeshift events shorter than X minutes"
 msgstr "Neukládat položky timeshiftu kratší než x min."
 
 msgid "Zap Up/Down"
-msgstr "Zapnout nahoru/dolů""
+msgstr "Zapnout nahoru/dolů"
 
 msgid "History Prev/Next"
 msgstr "Historie předchozí/další"
@@ -9329,10 +9329,11 @@ msgid ""
 "You can now also use VTi BackupSuite to restore your previously saved "
 "settings, plugins or favourite bouquets ?"
 msgstr ""
-"Můžete nyní použít VTi ZerO pro odebrání některých balíčků, které nepotřebujete.\n"
+"Můžete nyní použít VTi ZerO pro odebrání některých balíčků, které "
+"nepotřebujete.\n"
 "\n"
-"Můžete také použít VTi BackupSuite pro obnovení dříve uloženého "
-"nastavení, modulů nebo sady kanálů."
+"Můžete také použít VTi BackupSuite pro obnovení dříve uloženého nastavení, "
+"modulů nebo sady kanálů."
 
 msgid "Next step"
 msgstr "Další krok"
@@ -9592,6 +9593,9 @@ msgid "manually"
 msgstr ""
 
 msgid "Hide Infobar when SecondInfobar is shown"
+msgstr ""
+
+msgid "Can not find wireless lan devices that support AP mode."
 msgstr ""
 
 #~ msgid "Timeout for 0 key double-click (ms)"

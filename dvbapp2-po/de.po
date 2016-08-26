@@ -11697,5 +11697,8 @@ msgstr "manuell"
 msgid "Hide Infobar when SecondInfobar is shown"
 msgstr "Infobar bei SecondInfobar ausblenden"
 
+msgid "Can not find wireless lan devices that support AP mode."
+msgstr ""
+
 #~ msgid "Setup preview pictures directory for service list"
 #~ msgstr "Verzeichnis für Vorschaubilder"

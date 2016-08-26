@@ -9699,6 +9699,9 @@ msgstr ""
 msgid "Hide Infobar when SecondInfobar is shown"
 msgstr ""
 
+msgid "Can not find wireless lan devices that support AP mode."
+msgstr ""
+
 #~ msgid "Show favourite list with bouquet-up"
 #~ msgstr "Mostra la lista dei preferiti con Bouquet-Up"
 
