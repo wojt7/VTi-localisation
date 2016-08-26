@@ -235,11 +235,12 @@ msgid "never"
 msgstr "nikdy"
 
 msgid "Save epg to file after EPG refresh"
-msgstr ""
+msgstr "Uložit EPG do souboru po obnovení EPG"
 
 msgid ""
 "This setting controls whether the cached EPG should be saved to file or not."
 msgstr ""
+"Nastavení, zda uložit EPG z paměti do souboru nebo ne."
 
 #~ msgid "EPG refresh finished. PiP available now."
 #~ msgstr "Obnovení dat kanálů bylo dokončeno. PIP je nyní k dispozici."
