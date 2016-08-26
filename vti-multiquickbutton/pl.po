@@ -289,8 +289,8 @@ msgstr "Podaj argumenty wiersza polecenia"
 msgid "chmod 755"
 msgstr "chmod 755"
 
-msgid "VTI Panel"
-msgstr "VTI Panel"
+msgid "VTi Panel"
+msgstr "VTi Panel"
 
 msgid "Restart SoftCam"
 msgstr "Uruchom ponownie softcam"
@@ -391,7 +391,7 @@ msgstr "Ulubione stacje 5"
 msgid "Toggle AtmoLight"
 msgstr "AtmoLight włącz/wyłącz"
 
-msgid "Subservice Selection"
+msgid "Subservices"
 msgstr "Opcja wyboru kanałów"
 
 msgid "Subtitles"
@@ -427,47 +427,47 @@ msgstr "Przełącz PIP"
 msgid "Move PIP"
 msgstr "Przesuń PIP"
 
-msgid "VTI EPG Settings"
-msgstr "Ustawienia VTI EPG"
+msgid "VTi EPG Settings"
+msgstr "Ustawienia VTi EPG"
 
-msgid "VTI DeviceManager"
-msgstr "Menadżer urządzeń VTI"
+msgid "VTi DeviceManager"
+msgstr "Menadżer urządzeń VTi"
 
-msgid "VTI CamCenter"
-msgstr "Cam center VTI"
+msgid "VTi CamCenter"
+msgstr "Cam center VTi"
 
-msgid "VTI Backup Tools"
-msgstr "Narzędzia do tworzenia kopii zapasowych VTI"
+msgid "VTi Backup Tools"
+msgstr "Narzędzia do tworzenia kopii zapasowych VTi"
 
-msgid "VTI Image Tools"
-msgstr "Narzędzia obrazów VTI"
+msgid "VTi Image Tools"
+msgstr "Narzędzia obrazów VTi"
 
-msgid "VTI System Tools"
-msgstr "Narzędzia systemu VTI"
+msgid "VTi System Tools"
+msgstr "Narzędzia systemu VTi"
 
-msgid "VTI Info Tools"
-msgstr "Informacje o systemie VTI"
+msgid "VTi Info Tools"
+msgstr "Informacje o systemie VTi"
 
-msgid "VTI Manual Package Installation"
-msgstr "Manualna instalacja pakietów (USB lub / tmp) VTI"
+msgid "VTi Manual Package Installation"
+msgstr "Manualna instalacja pakietów (USB lub / tmp) VTi"
 
-msgid "VTI BitrateViewer"
-msgstr "Podgląd bitrate VTI"
+msgid "VTi BitrateViewer"
+msgstr "Podgląd bitrate VTi"
 
-msgid "VTI System InfoPanel"
-msgstr "Panel informacyjny systemu VTI"
+msgid "VTi System InfoPanel"
+msgstr "Panel informacyjny systemu VTi"
 
-msgid "VTI USB DVB-T/C/S2 Panel"
-msgstr "Panel VTI USB DVB-T/C/S2"
+msgid "VTi USB DVB-T/C/S2 Panel"
+msgstr "Panel VTi USB DVB-T/C/S2"
 
-msgid "VTI CronManager"
-msgstr "Menadżer Cron VTI"
+msgid "VTi CronManager"
+msgstr "Menadżer Cron VTi"
 
-msgid "VTI ExeManager"
-msgstr "Menadżer wykonywania poleceń VTI"
+msgid "VTi ExeManager"
+msgstr "Menadżer wykonywania poleceń VTi"
 
-msgid "VTI News"
-msgstr "Aktualności VTI"
+msgid "VTi News"
+msgstr "Aktualności VTi"
 
 msgid "Reboot"
 msgstr "Uruchom ponownie VU+"
@@ -532,11 +532,11 @@ msgstr "Wiadomość HDMI-CEC została wysłana"
 msgid "Power long"
 msgstr "Długie przyciśnięcie zasilania"
 
-msgid "VTI BackupSuite (Restore)"
-msgstr "Menadżer kopii zapasowych VTI (Przywróć)"
+msgid "VTi BackupSuite (Restore)"
+msgstr "Menadżer kopii zapasowych VTi (Przywróć)"
 
-msgid "VTI BackupSuite (Backup)"
-msgstr "Menadżer kopii zapasowych VTI (Utwórz)"
+msgid "VTi BackupSuite (Backup)"
+msgstr "Menadżer kopii zapasowych VTi (Utwórz)"
 
 msgid "show EPGBar"
 msgstr "Pokaż pasek EPG"

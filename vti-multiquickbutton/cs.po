@@ -291,8 +291,8 @@ msgstr "Zadejte volbu na příkazový řádek"
 msgid "chmod 755"
 msgstr "chmod 755"
 
-msgid "VTI Panel"
-msgstr "VTI - panel"
+msgid "VTi Panel"
+msgstr "VTi - panel"
 
 msgid "Restart SoftCam"
 msgstr "Restart SoftCam"
@@ -393,7 +393,7 @@ msgstr "Oblíbený kanál 5"
 msgid "Toggle AtmoLight"
 msgstr "AtmoLight zap/vyp."
 
-msgid "Subservice Selection"
+msgid "Subservices"
 msgstr "Volba kanálů"
 
 msgid "Subtitles"
@@ -429,47 +429,47 @@ msgstr "Přepnout PIP"
 msgid "Move PIP"
 msgstr "Přesunout PIP okno"
 
-msgid "VTI EPG Settings"
-msgstr "VTI - seznam kanálů"
+msgid "VTi EPG Settings"
+msgstr "VTi - seznam kanálů"
 
-msgid "VTI DeviceManager"
-msgstr "VTI - správa disků"
+msgid "VTi DeviceManager"
+msgstr "VTi - správa disků"
 
-msgid "VTI CamCenter"
-msgstr "VTI - správa CAM "
+msgid "VTi CamCenter"
+msgstr "VTi - správa CAM "
 
-msgid "VTI Backup Tools"
-msgstr "VTI - zálovací nástroje"
+msgid "VTi Backup Tools"
+msgstr "VTi - zálovací nástroje"
 
-msgid "VTI Image Tools"
-msgstr "VTI - nástroje Image "
+msgid "VTi Image Tools"
+msgstr "VTi - nástroje Image "
 
-msgid "VTI System Tools"
-msgstr "VTI - systémové nástroje"
+msgid "VTi System Tools"
+msgstr "VTi - systémové nástroje"
 
-msgid "VTI Info Tools"
-msgstr "VTI - systémové informace"
+msgid "VTi Info Tools"
+msgstr "VTi - systémové informace"
 
-msgid "VTI Manual Package Installation"
-msgstr "VTI - manuální inst.balíčků (USB/Temp)"
+msgid "VTi Manual Package Installation"
+msgstr "VTi - manuální inst.balíčků (USB/Temp)"
 
-msgid "VTI BitrateViewer"
-msgstr "VTI - zobrazení bitrate"
+msgid "VTi BitrateViewer"
+msgstr "VTi - zobrazení bitrate"
 
-msgid "VTI System InfoPanel"
-msgstr "VTI - systémový InfoPanel"
+msgid "VTi System InfoPanel"
+msgstr "VTi - systémový InfoPanel"
 
-msgid "VTI USB DVB-T/C/S2 Panel"
-msgstr "VTI - USB DVB-T/C/S2 panel"
+msgid "VTi USB DVB-T/C/S2 Panel"
+msgstr "VTi - USB DVB-T/C/S2 panel"
 
-msgid "VTI CronManager"
-msgstr "VTI - správa Cron"
+msgid "VTi CronManager"
+msgstr "VTi - správa Cron"
 
-msgid "VTI ExeManager"
-msgstr "VTI - správa EXE "
+msgid "VTi ExeManager"
+msgstr "VTi - správa EXE "
 
-msgid "VTI News"
-msgstr "VTI - novinky"
+msgid "VTi News"
+msgstr "VTi - novinky"
 
 msgid "Reboot"
 msgstr "Restart"
@@ -534,11 +534,11 @@ msgstr "HDMI-CEC hlášení odesláno"
 msgid "Power long"
 msgstr "Vypnutí - dlouhý stisk"
 
-msgid "VTI BackupSuite (Restore)"
-msgstr "VTI - BackupSuite (obnova)"
+msgid "VTi BackupSuite (Restore)"
+msgstr "VTi - BackupSuite (obnova)"
 
-msgid "VTI BackupSuite (Backup)"
-msgstr "VTI - BackupSuite (záloha)"
+msgid "VTi BackupSuite (Backup)"
+msgstr "VTi - BackupSuite (záloha)"
 
 msgid "show EPGBar"
 msgstr "EPG info-panel"

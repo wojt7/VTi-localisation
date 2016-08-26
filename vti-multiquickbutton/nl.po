@@ -295,7 +295,7 @@ msgstr ""
 msgid "chmod 755"
 msgstr ""
 
-msgid "VTI Panel"
+msgid "VTi Panel"
 msgstr ""
 
 msgid "Restart SoftCam"
@@ -404,7 +404,7 @@ msgstr ""
 msgid "Toggle AtmoLight"
 msgstr ""
 
-msgid "Subservice Selection"
+msgid "Subservices"
 msgstr ""
 
 msgid "Subtitles"
@@ -442,46 +442,46 @@ msgid "Move PIP"
 msgstr ""
 
 #, fuzzy
-msgid "VTI EPG Settings"
+msgid "VTi EPG Settings"
 msgstr "Sla de instellingen op"
 
-msgid "VTI DeviceManager"
+msgid "VTi DeviceManager"
 msgstr ""
 
-msgid "VTI CamCenter"
+msgid "VTi CamCenter"
 msgstr ""
 
-msgid "VTI Backup Tools"
+msgid "VTi Backup Tools"
 msgstr ""
 
-msgid "VTI Image Tools"
+msgid "VTi Image Tools"
 msgstr ""
 
-msgid "VTI System Tools"
+msgid "VTi System Tools"
 msgstr ""
 
-msgid "VTI Info Tools"
+msgid "VTi Info Tools"
 msgstr ""
 
-msgid "VTI Manual Package Installation"
+msgid "VTi Manual Package Installation"
 msgstr ""
 
-msgid "VTI BitrateViewer"
+msgid "VTi BitrateViewer"
 msgstr ""
 
-msgid "VTI System InfoPanel"
+msgid "VTi System InfoPanel"
 msgstr ""
 
-msgid "VTI USB DVB-T/C/S2 Panel"
+msgid "VTi USB DVB-T/C/S2 Panel"
 msgstr ""
 
-msgid "VTI CronManager"
+msgid "VTi CronManager"
 msgstr ""
 
-msgid "VTI ExeManager"
+msgid "VTi ExeManager"
 msgstr ""
 
-msgid "VTI News"
+msgid "VTi News"
 msgstr ""
 
 msgid "Reboot"
@@ -548,10 +548,10 @@ msgstr ""
 msgid "Power long"
 msgstr "lang"
 
-msgid "VTI BackupSuite (Restore)"
+msgid "VTi BackupSuite (Restore)"
 msgstr ""
 
-msgid "VTI BackupSuite (Backup)"
+msgid "VTi BackupSuite (Backup)"
 msgstr ""
 
 msgid "show EPGBar"

@@ -288,13 +288,16 @@ msgstr "Scenarijus"
 msgid "Add command line options ?"
 msgstr "Įvesti komandų eilutės parinktis?"
 
+msgid " "
+msgstr ""
+
 msgid "Please enter the command line options"
 msgstr "Įveskite komandų eilutės parinktis"
 
 msgid "chmod 755"
 msgstr "chmod 755"
 
-msgid "VTI Panel"
+msgid "VTi Panel"
 msgstr "VTi valdymo langas"
 
 msgid "Restart SoftCam"
@@ -396,7 +399,7 @@ msgstr "Mėgstamiausias kanalas 5"
 msgid "Toggle AtmoLight"
 msgstr "Perjungti AtmoLight"
 
-msgid "Subservice Selection"
+msgid "Subservices"
 msgstr "Subkanalų pasirinkimas"
 
 msgid "Subtitles"
@@ -432,47 +435,47 @@ msgstr "Sukeisti PiP"
 msgid "Move PIP"
 msgstr "Perkelti PiP"
 
-msgid "VTI EPG Settings"
+msgid "VTi EPG Settings"
 msgstr "VTi EPG nuostatos"
 
-msgid "VTI DeviceManager"
+msgid "VTi DeviceManager"
 msgstr "VTi įrenginių tvarkymas"
 
-msgid "VTI CamCenter"
+msgid "VTi CamCenter"
 msgstr "VTi emuliatoriai"
 
-msgid "VTI Backup Tools"
+msgid "VTi Backup Tools"
 msgstr "VTi atsarginio kopijavimo įrankiai"
 
-msgid "VTI Image Tools"
+msgid "VTi Image Tools"
 msgstr "VTi atvaizdo įrankiai"
 
-msgid "VTI System Tools"
+msgid "VTi System Tools"
 msgstr "VTi sistemos įrankiai"
 
-msgid "VTI Info Tools"
+msgid "VTi Info Tools"
 msgstr "VTi informaciniai įrankiai"
 
-msgid "VTI Manual Package Installation"
-msgstr "VTI rankinis paketų diegimas"
+msgid "VTi Manual Package Installation"
+msgstr "VTi rankinis paketų diegimas"
 
-msgid "VTI BitrateViewer"
+msgid "VTi BitrateViewer"
 msgstr "VTi garso kokybės peržiūra"
 
-msgid "VTI System InfoPanel"
+msgid "VTi System InfoPanel"
 msgstr "VTi informacija apie sistemą"
 
-msgid "VTI USB DVB-T/C/S2 Panel"
+msgid "VTi USB DVB-T/C/S2 Panel"
 msgstr "VTi USB DVB T/C/S2 valdymas"
 
-msgid "VTI CronManager"
+msgid "VTi CronManager"
 msgstr "VTi Cron tvarkytuvas"
 
-msgid "VTI ExeManager"
+msgid "VTi ExeManager"
 msgstr "VTi vykdomųjų failų tvarkytuvas"
 
-msgid "VTI News"
-msgstr "VTI naujienos"
+msgid "VTi News"
+msgstr "VTi naujienos"
 
 msgid "Reboot"
 msgstr "Paleisti iš naujo"
@@ -537,10 +540,10 @@ msgstr "HDMI-CEC žinutė pasiųsta"
 msgid "Power long"
 msgstr "'Įjungimas' ilgas nuspaudimas"
 
-msgid "VTI BackupSuite (Restore)"
+msgid "VTi BackupSuite (Restore)"
 msgstr "VTi atsarginio kopijavimo rinkinys (atkūrimas)"
 
-msgid "VTI BackupSuite (Backup)"
+msgid "VTi BackupSuite (Backup)"
 msgstr "VTi atsarginio kopijavimo rinkinys (kopijavimas)"
 
 msgid "show EPGBar"
@@ -553,8 +556,7 @@ msgid "(De)/Activate AudioZap"
 msgstr "(De)Aktyvuokite garso perjungimą..."
 
 msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
-msgstr ""
-"Nustatyti perjungimo būdą (PiP, perskirtame ekrane, garso perjungime)"
+msgstr "Nustatyti perjungimo būdą (PiP, perskirtame ekrane, garso perjungime)"
 
 msgid "Quickbutton: Key "
 msgstr "Greitasis mygtukas: mygtukas"
@@ -584,27 +586,33 @@ msgstr "Sekantis laiko poslinkio įvykis"
 msgid "Select timeshift event"
 msgstr "Pasirinkti laiko poslinkio įvykį"
 
-msgid "Channels"
-msgstr "Kanalai"
-
-msgid "About"
-msgstr "Apie"
-
-msgid "Please Restart MultiQuickButton"
-msgstr "Iš naujo paleiskite MultiQuickButton"
-
-msgid ""
-"Restarting Enigma2 to (de)activate:\n"
-"OK and EXIT Button"
+msgid "Select Buttons"
 msgstr ""
-"Enigma2 paleidžiama iš naujo, kad\n"
-"(de)aktyvuoti 'OK'  ir 'EXIT' mygtukus"
 
-msgid "Channel"
-msgstr "Kanalas"
+msgid "MultiQuickButton button selection"
+msgstr ""
 
-msgid "Channel Selection"
-msgstr "Kanalo parinkimas"
+#~ msgid "Channels"
+#~ msgstr "Kanalai"
 
-msgid "Quite without saving changes ?"
-msgstr "Nutraukti, neįrašant pakeitimų?"
+#~ msgid "About"
+#~ msgstr "Apie"
+
+#~ msgid "Please Restart MultiQuickButton"
+#~ msgstr "Iš naujo paleiskite MultiQuickButton"
+
+#~ msgid ""
+#~ "Restarting Enigma2 to (de)activate:\n"
+#~ "OK and EXIT Button"
+#~ msgstr ""
+#~ "Enigma2 paleidžiama iš naujo, kad\n"
+#~ "(de)aktyvuoti 'OK'  ir 'EXIT' mygtukus"
+
+#~ msgid "Channel"
+#~ msgstr "Kanalas"
+
+#~ msgid "Channel Selection"
+#~ msgstr "Kanalo parinkimas"
+
+#~ msgid "Quite without saving changes ?"
+#~ msgstr "Nutraukti, neįrašant pakeitimų?"

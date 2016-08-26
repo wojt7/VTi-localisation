@@ -289,8 +289,8 @@ msgstr "Bitte geben Sie die Befehlszeilenargumente ein"
 msgid "chmod 755"
 msgstr "chmod 755"
 
-msgid "VTI Panel"
-msgstr "VTI Panel"
+msgid "VTi Panel"
+msgstr "VTi Panel"
 
 msgid "Restart SoftCam"
 msgstr "Neustart SoftCam"
@@ -391,8 +391,8 @@ msgstr "Lieblingssender 5"
 msgid "Toggle AtmoLight"
 msgstr "AtmoLight an/aus"
 
-msgid "Subservice Selection"
-msgstr "Auswahl Optionskanäle"
+msgid "Subservices"
+msgstr "Unterkanäle"
 
 msgid "Subtitles"
 msgstr "Untertitel"
@@ -427,47 +427,47 @@ msgstr "Tausche PIP"
 msgid "Move PIP"
 msgstr "Verschiebe PIP"
 
-msgid "VTI EPG Settings"
-msgstr "VTI EPG Einstellungen"
+msgid "VTi EPG Settings"
+msgstr "VTi EPG Einstellungen"
 
-msgid "VTI DeviceManager"
-msgstr "VTI Gerätemanager"
+msgid "VTi DeviceManager"
+msgstr "VTi Gerätemanager"
 
-msgid "VTI CamCenter"
-msgstr "VTI CamCenter"
+msgid "VTi CamCenter"
+msgstr "VTi CamCenter"
 
-msgid "VTI Backup Tools"
-msgstr "VTI Sicherungswerkzeuge"
+msgid "VTi Backup Tools"
+msgstr "VTi Sicherungswerkzeuge"
 
-msgid "VTI Image Tools"
-msgstr "VTI Image Werkzeuge"
+msgid "VTi Image Tools"
+msgstr "VTi Image Werkzeuge"
 
-msgid "VTI System Tools"
-msgstr "VTI Systemwerkzeuge"
+msgid "VTi System Tools"
+msgstr "VTi Systemwerkzeuge"
 
-msgid "VTI Info Tools"
-msgstr "VTI Systeminformationen"
+msgid "VTi Info Tools"
+msgstr "VTi Systeminformationen"
 
-msgid "VTI Manual Package Installation"
-msgstr "VTI manuelle Paketinstallation (USB oder /tmp)"
+msgid "VTi Manual Package Installation"
+msgstr "VTi manuelle Paketinstallation (USB oder /tmp)"
 
-msgid "VTI BitrateViewer"
-msgstr "VTI BitrateViewer"
+msgid "VTi BitrateViewer"
+msgstr "VTi BitrateViewer"
 
-msgid "VTI System InfoPanel"
-msgstr "VTI System InfoPanel"
+msgid "VTi System InfoPanel"
+msgstr "VTi System InfoPanel"
 
-msgid "VTI USB DVB-T/C/S2 Panel"
-msgstr "VTI USB DVB-T/C/S2 Panel"
+msgid "VTi USB DVB-T/C/S2 Panel"
+msgstr "VTi USB DVB-T/C/S2 Panel"
 
-msgid "VTI CronManager"
-msgstr "VTI CronManager"
+msgid "VTi CronManager"
+msgstr "VTi CronManager"
 
-msgid "VTI ExeManager"
-msgstr "VTI Befehl ausführen"
+msgid "VTi ExeManager"
+msgstr "VTi Befehl ausführen"
 
-msgid "VTI News"
-msgstr "VTI Neuigkeiten"
+msgid "VTi News"
+msgstr "VTi Neuigkeiten"
 
 msgid "Reboot"
 msgstr "VU+ neu starten"
@@ -532,11 +532,11 @@ msgstr "HDMI-CEC Nachricht wurde übermittelt"
 msgid "Power long"
 msgstr "Power lang"
 
-msgid "VTI BackupSuite (Restore)"
-msgstr "VTI BackupSuite (Wiederherstellung)"
+msgid "VTi BackupSuite (Restore)"
+msgstr "VTi BackupSuite (Wiederherstellung)"
 
-msgid "VTI BackupSuite (Backup)"
-msgstr "VTI BackupSuite (Sicherung)"
+msgid "VTi BackupSuite (Backup)"
+msgstr "VTi BackupSuite (Sicherung)"
 
 msgid "show EPGBar"
 msgstr "EPG Infoleiste"
