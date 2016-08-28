@@ -6155,7 +6155,7 @@ msgstr "Einstellungen - TV / Radio"
 #
 #
 msgid "Setup - User Interface"
-msgstr "Einstellungen - Benutzeroberfläche"
+msgstr "Einstellungen - GUI"
 
 msgid "Setup LED brightness and blink interval"
 msgstr "LED-Einstellungen"
