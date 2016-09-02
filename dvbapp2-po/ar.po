@@ -10085,6 +10085,9 @@ msgstr ""
 msgid "Can not find wireless lan devices that support AP mode."
 msgstr ""
 
+msgid "Use alternative service list (horizontal) mode"
+msgstr ""
+
 #~ msgid ""
 #~ "Enigma2 Skinselector\n"
 #~ "\n"

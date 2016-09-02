@@ -10831,6 +10831,9 @@ msgstr ""
 msgid "Can not find wireless lan devices that support AP mode."
 msgstr ""
 
+msgid "Use alternative service list (horizontal) mode"
+msgstr ""
+
 #
 #~ msgid "E"
 #~ msgstr "E"

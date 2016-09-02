@@ -9621,6 +9621,9 @@ msgstr ""
 msgid "Can not find wireless lan devices that support AP mode."
 msgstr ""
 
+msgid "Use alternative service list (horizontal) mode"
+msgstr ""
+
 #~ msgid "Timeout for 0 key double-click (ms)"
 #~ msgstr "Delsa, dukart spaudžiant '0' (ms)"
 

@@ -11700,5 +11700,8 @@ msgstr "Infobar bei SecondInfobar ausblenden"
 msgid "Can not find wireless lan devices that support AP mode."
 msgstr ""
 
+msgid "Use alternative service list (horizontal) mode"
+msgstr "Alternative (horizontale) Kanalliste verwenden"
+
 #~ msgid "Setup preview pictures directory for service list"
 #~ msgstr "Verzeichnis für Vorschaubilder"
