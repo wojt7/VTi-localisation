@@ -9461,6 +9461,12 @@ msgstr ""
 msgid "Use alternative service list (horizontal) mode"
 msgstr ""
 
+msgid "Do you want to install OScam as SoftCam for your smartcards?"
+msgstr ""
+
+msgid "The SoftCam was installed successfully"
+msgstr ""
+
 #~ msgid "E"
 #~ msgstr "V"
 

@@ -11703,5 +11703,11 @@ msgstr ""
 msgid "Use alternative service list (horizontal) mode"
 msgstr "Alternative (horizontale) Kanalliste verwenden"
 
+msgid "Do you want to install OScam as SoftCam for your smartcards?"
+msgstr "Soll OScam als SoftCam für ihre Smartcards installiert werden?"
+
+msgid "The SoftCam was installed successfully"
+msgstr "Die SoftCam wurde erfolgreich installiert"
+
 #~ msgid "Setup preview pictures directory for service list"
 #~ msgstr "Verzeichnis für Vorschaubilder"
