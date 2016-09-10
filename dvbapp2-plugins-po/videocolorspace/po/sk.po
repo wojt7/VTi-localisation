@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VideoColorSpace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 14:19+0100\n"
+"PO-Revision-Date: 2016-09-10 20:41+0100\n"
+"Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
+"Language-Team: - <cmikula>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,120,-1,-1\n"
+"X-Generator: Poedit 1.5.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+#: ../src/plugin.py:37
+msgid "A/V-Color space settings"
+msgstr "Nastavenie farebného priestoru A/V"
+
+#: ../src/plugin.py:42 ../src/plugin.py:43 ../src/VideoColorSpace.py:86
+msgid "Color space setup"
+msgstr "Nastavenie farebného priestoru"
+
+#: ../src/plugin.py:42 ../src/plugin.py:43
+msgid "Setup color space for video"
+msgstr "Nastaviť farebný priestor výstupu obrazu"
+
+#: ../src/VideoColorSpace.py:71
+msgid "Mode:"
+msgstr "Režim:"
+
+#: ../src/VideoColorSpace.py:80
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: ../src/VideoColorSpace.py:81
+msgid "OK"
+msgstr "OK"
