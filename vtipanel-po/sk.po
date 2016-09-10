@@ -1,0 +1,1714 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VTIPanel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-08 21:39+0100\n"
+"PO-Revision-Date: 2016-09-07 11:41+0100\n"
+"Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
+"Language-Team: LANGUAGE <VTI>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: sk\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "VTI DriverManager"
+msgstr "VTI - Správca ovládačov"
+
+msgid "Exit"
+msgstr "Koniec"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "not available"
+msgstr "nedostupné"
+
+msgid "Current drivers: "
+msgstr "Aktuálne ovládače:"
+
+msgid "Install drivers from a local device"
+msgstr "Inštalovať ovládače z miestneho zariadenia"
+
+msgid "choose drivers from local filesystem to install"
+msgstr "Zvoliť ovládače na inštalovanie z miestneho systému"
+
+msgid "Download and install drivers from Vu+ website"
+msgstr "Stiahnuť a inštalovať ovládače z webovej stránky VU+"
+
+msgid "choose drivers for download/install"
+msgstr "Zvoľte ovládače na stiahnutie/inštaláciu"
+
+msgid "Sorry, detection of current kernel version failed !"
+msgstr ""
+
+msgid ""
+"Are you sure you want to install\n"
+"following drivers:\n"
+msgstr ""
+"Naozaj chcete nainštalovať\n"
+"tieto ovládače:\n"
+
+msgid ""
+"Drivers successfully installed !\n"
+"You should restart your Vu+ STB:\n"
+"Reboot now ?"
+msgstr ""
+"Ovládače úspešne nainštalované !\n"
+"Mali by ste reštartovať STB VU+:\n"
+"Reštartovať teraz?"
+
+msgid "Installation of drivers failed !!!"
+msgstr "Inštalácia ovládačov zlyhala!!!"
+
+msgid "Select a drivers to install"
+msgstr "Zvoľte ovládače na inštalovanie"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Invalid Choice"
+msgstr "Neplatný výber"
+
+msgid "no valid drivers"
+msgstr "nie sú platné ovládače"
+
+msgid "Please wait ..."
+msgstr "Čakajte..."
+
+msgid " downloading available drivers information"
+msgstr " sťahujem informácie o dostupných ovládačoch"
+
+msgid "Download"
+msgstr "Preberanie"
+
+#, python-format
+msgid "Driver : %s"
+msgstr "Ovládač: %s"
+
+msgid "choose this drivers for download"
+msgstr "Zvoľte ovládače na preberanie"
+
+msgid "Please wait, downloading drivers: "
+msgstr "Čakajte, preberám ovládače:"
+
+msgid ""
+"Download failed !\n"
+"Please check your internet connection"
+msgstr ""
+"Preberanie zlyhalo!\n"
+"Skontrolujte internetové pripojenie."
+
+msgid "Close"
+msgstr "Zatvoriť"
+
+msgid "reload package data"
+msgstr "znova načítať dáta balíčka"
+
+msgid "Download or delete Software"
+msgstr "Prevziať alebo vymazať softvér"
+
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Po stlačení OK vyčkajte!"
+
+#, python-format
+msgid ""
+"There are only %d MB free FLASH space available\n"
+"Installing or updating software can cause serious software problems !\n"
+"Continue installing/updating software (at your own risk) ?"
+msgstr ""
+
+msgid "Excecute"
+msgstr "Vykonať"
+
+msgid "Remove"
+msgstr "Odstrániť"
+
+msgid "Install"
+msgstr "Inštalovať"
+
+msgid "Upgrade"
+msgstr "Aktualizovať"
+
+msgid "Package list update"
+msgstr "Aktualizácia zoznamu balíčkov"
+
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Pokúšam sa prevziať nový zoznam balíčkov. Čakajte..."
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Chyba pri preberaní zoznamu balíčkov. Skúste znova."
+
+msgid "Extensions"
+msgstr "Rozšírenia"
+
+msgid "install/remove common plugins"
+msgstr "Inštalovať/odstrániť spoločné balíčky"
+
+msgid "Systemplugins"
+msgstr "Systémové balíčky"
+
+msgid "install/remove systemplugins"
+msgstr "Inštalovať/odstrániť systémové balíčky"
+
+msgid "Skins"
+msgstr "Vzhľady"
+
+msgid "install/remove skins to change look of OSD"
+msgstr "Inštalovať/odstrániť vzhľady pre zmenu vzhľadu OSD"
+
+msgid "SoftCams"
+msgstr "SoftCamy"
+
+msgid "install/remove softcams"
+msgstr "inštalovať/odstrániť sotfcamy"
+
+msgid "Configurations"
+msgstr "Konfigurácie"
+
+msgid "install/remove configuration files for softcams"
+msgstr "inštalovať/odstrániť konfiguračné súbory pre softcamy"
+
+msgid "Picons"
+msgstr "Picony"
+
+msgid "install/remove picons for OSD and graphical VFD"
+msgstr "Inštalovať/odstrániť picony pre OSD a grafický VFD"
+
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgid "install/remove channel lists"
+msgstr "Inštalovať/odstrániť zoznamy staníc"
+
+msgid "Kernel modules"
+msgstr "Moduly jadra"
+
+msgid "install/remove kernel modules"
+msgstr "Inštalovať/odstrániť moduly jadra"
+
+msgid "Language packages"
+msgstr "Jazykové balíčky"
+
+msgid "install/remove language packages for dvbapp2"
+msgstr "Inštalovať/odstrániť jazykové balíčky pre dvbapp2"
+
+msgid "upgrade"
+msgstr "aktualizovať"
+
+msgid "Start"
+msgstr "Spustiť"
+
+msgid "Execution finished.\n"
+msgstr "Dokončené.\n"
+
+msgid "Do you want to restart GUI ?"
+msgstr "Chcete reštartovať GUI?"
+
+msgid "VTi ZerO"
+msgstr "VTi ZerO"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Restore"
+msgstr "Obnoviť"
+
+msgid "Free Flash"
+msgstr "Voľná pamäť flash"
+
+msgid "Remove preinstalled plugins"
+msgstr "Odstrániť predinštalované moduly"
+
+msgid "remove nearly every preinstalled plugin and the dependencies"
+msgstr ""
+
+msgid "Remove WLAN support"
+msgstr "Odstrániť podporu WLAN"
+
+msgid "remove WLAN plugins and drivers"
+msgstr "odstrániť moduly a ovládače WLAN"
+
+msgid "Remove HbbTV support"
+msgstr "Odstrániť podporu HbbTV"
+
+msgid "uninstall HbbTV plugin and browser"
+msgstr "odinštalovať modul a ovládač HbbTV"
+
+msgid "Remove samba server"
+msgstr "Odstrániť server samba"
+
+msgid "remove samba server, NOT cifs filesystem support"
+msgstr "odstrániť server samba, NIE podporu súborového systému cifs"
+
+msgid "Remove USB tuner support"
+msgstr "Odstrániť podporu tunera USB"
+
+msgid "uninstall kernel modules and firmware packages for USB tuners"
+msgstr "odinštalovať moduly jadra a firmvérové balíčky pre tuner USB"
+
+msgid "Remove language files"
+msgstr "Odstrániť jazykové súbory"
+
+msgid "delete translation files expect configured language"
+msgstr "vymazať jazykové súbory okrem nastaveného jazyka"
+
+msgid ""
+"W A R N I N G !!!\n"
+"Do not delete stuff you need afterwards\n"
+"VTI-Team is not responsible for loss of data\n"
+"Do you accept ?"
+msgstr ""
+
+#, python-format
+msgid "Free space at flash memory : %d MB\n"
+msgstr "Voľné miesto v pamäti flash: %d MB\n"
+
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Naozaj chcete obnoviť\n"
+"túto zálohu:\n"
+
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Systém sa po obnove reštartuje!"
+
+msgid "VTI BackupSuite"
+msgstr "Zálohovacia súprava VTI"
+
+msgid "Backup"
+msgstr "Zálohovať"
+
+#, python-format
+msgid "Backup/restore device : %s"
+msgstr "Zálohovať/obnoviť zariadenie: %s"
+
+msgid "set device for directory vti-backupsuite"
+msgstr "nastaviť zariadenie pre adresár zálohovacej súpravy VTI"
+
+msgid "Backup installed plugins"
+msgstr "Zálohovať nainštalované moduly"
+
+msgid "creates a list of installed plugins, skins and softcams"
+msgstr "vytvorí zoznam nainštalovaných modulov, vzhľadov a softcamov"
+
+msgid "Backup channel settings"
+msgstr "Zálohovať nastavenia staníc"
+
+msgid "save channel and bouquet settings"
+msgstr "uložiť nastavenia staníc a buketov"
+
+msgid "Backup configurations"
+msgstr "Zálohovať nastavenia"
+
+msgid "save common configurations for GUI, plugins and softcams"
+msgstr "uložiť všeobecné nastavenia GUI, modulov a softcamov"
+
+msgid "Restore plugins from saved list"
+msgstr "Obnoviť moduly z uloženého zoznamu"
+
+msgid "installs all available plugins from online feed"
+msgstr "Nainštaluje všetky dostupné moduly zo zdroja online"
+
+msgid "Restore channel settings"
+msgstr "Obnoviť nastavenia staníc"
+
+msgid "reload saved channel and bouquet settings"
+msgstr ""
+
+msgid "Restore configurations"
+msgstr "Obnoviť nastavenia"
+
+msgid "restore common configurations for GUI, plugins and softcams"
+msgstr "obnoviť všeobecné nastavenia GUI, modulov a softcamov"
+
+msgid "Install local packages"
+msgstr "Nainštalovať miestne balíčky"
+
+#, python-format
+msgid "from %s/vti-backupsuite/plugins"
+msgstr ""
+
+msgid "Run personal script"
+msgstr "Spustiť osobný skript"
+
+msgid "executes your personal backup/restore scripts"
+msgstr "Vykoná váš vlastný skript na zálohovanie a obnovu"
+
+msgid "Please select medium to use as backup location"
+msgstr ""
+
+msgid "List of installed plugins was created succesfully"
+msgstr "Zoznam nainštalovaných modulov bol úspešne vytvorený."
+
+msgid "Creating list of installed plugins failed"
+msgstr "Nepodarilo sa vytvoriť zoznam nainštalovaných modulov."
+
+msgid "Settings backup finished succesfully"
+msgstr "Zálohovanie nastavení skončilo úspešne."
+
+msgid "Backup settings failed"
+msgstr ""
+
+msgid "Common configuration backup finished succesfully"
+msgstr ""
+
+msgid "Backup of common configurations failed"
+msgstr ""
+
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+
+msgid "Delete"
+msgstr "Vymazať"
+
+msgid "Restoring settings finished successfully"
+msgstr ""
+
+msgid "Restoring settings failed"
+msgstr "Obnova nastavení zlyhala"
+
+msgid ""
+"Are you sure you want to run\n"
+"following script:\n"
+msgstr ""
+
+msgid "VTI BackupSuite is running personal script ..."
+msgstr ""
+
+msgid "Restore running"
+msgstr "Beží obnova"
+
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+
+msgid "Software"
+msgstr "Softvér"
+
+msgid "News"
+msgstr "Novinky"
+
+msgid "System Tools"
+msgstr "Systémové nástroje"
+
+msgid "Cam Center"
+msgstr "Centrum CAM"
+
+msgid "VTI Panel"
+msgstr "Panel VTI"
+
+msgid "VTI Cam Center"
+msgstr "VTI - Centrum CAM"
+
+msgid "select or install your favourite cam"
+msgstr "Vyberte a nainštalujte si obľúbený cam"
+
+msgid "VTI System Info"
+msgstr "VTI - Systémové informácie"
+
+msgid "Infos about your Vu+ STB"
+msgstr "Informácie o VU+"
+
+msgid "VTI System Tools"
+msgstr "VTI - Systémové nástroje"
+
+msgid "manage your Vu+ STB"
+msgstr "Spravovať VU+"
+
+msgid "VTI Software Tools"
+msgstr "VTI - Softvérové nástroje"
+
+msgid "backup/restore or install software"
+msgstr "Zálohovať/obnioviť alebo inštalovať softvér"
+
+msgid "VTI Software Manager"
+msgstr "VTI - Správca softvéru"
+
+msgid "install/download software for your Vu+"
+msgstr "Inštalovať/prevziať softvér pre VU+"
+
+msgid "manual Installer"
+msgstr "Ručný inštalátor"
+
+msgid "install .tar.gz or ipkg manually"
+msgstr "Inštalovať .tar.gz alebo ipkg ručne"
+
+msgid "Plugins"
+msgstr "Moduly"
+
+msgid "open enigma2 Plugin Menu"
+msgstr "Otvoriť menu modulov Enigma2"
+
+msgid "VTI Sub Menu"
+msgstr ""
+
+msgid "Restore and backup installed channellist and plugins"
+msgstr ""
+
+msgid "Image Backup / Restore"
+msgstr "Záloha / obnova image"
+
+msgid "backup or flash an image"
+msgstr ""
+
+msgid "Image Flash Tool"
+msgstr ""
+
+msgid "download images from vuplus-support.org and flash it"
+msgstr ""
+
+msgid "Driver Manager"
+msgstr "Správca ovládačov"
+
+msgid "install/download driver for your Vu+"
+msgstr "Inštalovať/prevziať ovládače pre VU+"
+
+msgid "Expert Backup / Restore"
+msgstr "Expertné zálohovanie / obnova"
+
+msgid "backup or restore your settings (only for experts)"
+msgstr "Zálohovanie alebo obnova nastavení (len pre skúsených)"
+
+msgid "Install .tar.gz "
+msgstr "Inštalovať .tar.gz "
+
+msgid "Install all .tar.gz file form /tmp "
+msgstr "Inštalovať všetky súbory .tar.gz z /tmp "
+
+msgid "Install Ipkg"
+msgstr "Inštalovať ipkg"
+
+msgid "Install local ipkg"
+msgstr "Inštalovať miestne ipkg"
+
+msgid "Advanced Ipkg Install"
+msgstr "Pokročilá inštalácia ipkg"
+
+msgid "Install local ipkg with --force overwrite"
+msgstr ""
+
+msgid "VTI manual Addon Installer"
+msgstr ""
+
+msgid "Update Image"
+msgstr "Aktualizovať image"
+
+msgid "Update your STB image from Internet."
+msgstr "Aktualizujte image STB z internetu."
+
+msgid "VTI Image Tools"
+msgstr "VTI - Nástroje image"
+
+msgid "Device Manager"
+msgstr "Správca zariadení"
+
+msgid "manage your HDD's and USB devices"
+msgstr "Spravujte zariadenia HDD a USB."
+
+msgid "File Manager"
+msgstr "Správca súborov"
+
+msgid "open Filemanager"
+msgstr "Otvoriť Správcu súborov"
+
+msgid "Network Browser"
+msgstr "Prehľadávač siete"
+
+msgid "open NetworkBrowswer"
+msgstr "Otvoriť Prehľadávač siete"
+
+msgid "Remove preinstalled packages from image"
+msgstr "Odstrániť predinštalované moduly z image"
+
+msgid "EPG Settings"
+msgstr "Nastavenia EPG"
+
+msgid "set EPG path, restore or backup EPG data"
+msgstr "Nastaviť cestu EPG, obnoviť alebo zálohovať dáta EPG"
+
+msgid "Custom Main Menu"
+msgstr "Upraviť hlavné menu"
+
+msgid "delete entries from main menu of your VU+"
+msgstr "Vymazať položky z hlavného menu VU+"
+
+msgid "Cronjob Manager"
+msgstr ""
+
+msgid "manage cronjobs of your VU+"
+msgstr ""
+
+msgid "Run Command"
+msgstr "Spustiť príkaz"
+
+msgid "run executable files of your VU+"
+msgstr ""
+
+msgid "Set VTI Panel Password"
+msgstr "Nastaviť heslo do Panela VTI"
+
+msgid "activate/change password for VTI Panel"
+msgstr "Aktivovať/zmeniť heslo do Panela VTI"
+
+msgid "Set Root Password"
+msgstr ""
+
+msgid "set root password of your stb"
+msgstr ""
+
+msgid "Services"
+msgstr "Služby"
+
+msgid "enable/disable Systemservices"
+msgstr "Zapnúť/vypnúť systémové služby"
+
+msgid "USB DVB-T/C/S2 Panel"
+msgstr "Panel USB DVB-T/C/S2"
+
+msgid "manage Sundtek USB DVB Stick"
+msgstr ""
+
+msgid "Remove WebBrowser"
+msgstr "Odstrániť webový prehľadávač"
+
+msgid "removes WebBrowser and dependencies"
+msgstr ""
+
+msgid "Remove Opera HbbTV"
+msgstr ""
+
+msgid "removes Opera HbbTV and dependencies"
+msgstr ""
+
+msgid "IPK Uninstaller"
+msgstr "Odinštalátor IPK"
+
+msgid "remove seletected package from stb"
+msgstr "Odstráni zvolené balíčky z VU+"
+
+msgid "Purge Enigma2 Crashlogs"
+msgstr ""
+
+msgid "selective wipe of enigma2 crashlogs"
+msgstr ""
+
+msgid "Swapfile"
+msgstr ""
+
+msgid "create and manage your Swapfile"
+msgstr ""
+
+msgid "Set NTP Time"
+msgstr ""
+
+msgid "refresh time for enigma2 from ntp server"
+msgstr ""
+
+msgid "Harddisk Standby"
+msgstr "Pohotovostný režim HDD"
+
+msgid "turns hdd immediately into standby mode"
+msgstr "Okamžite vypne HDD do pohotovostného režimu"
+
+msgid "Bitrate Viewer"
+msgstr "Zobrazovač dátových tokov"
+
+msgid "Show Advanced Bitrate infos"
+msgstr "Zobrazí pokročilé infomrácie o dátových tokoch"
+
+msgid "ECM Info"
+msgstr ""
+
+msgid "show ecm infos from temp dir"
+msgstr ""
+
+msgid "News about VTI"
+msgstr ""
+
+msgid "show Feed updates"
+msgstr ""
+
+msgid "Info about current system"
+msgstr ""
+
+msgid "show information about processes, load, mounts ..."
+msgstr ""
+
+msgid "Show processes"
+msgstr "Zobraziť procesy"
+
+msgid "show running processes"
+msgstr "Zobrazí bežiace procesy"
+
+msgid "Show filesystem mounts"
+msgstr ""
+
+msgid "show active mounts"
+msgstr ""
+
+msgid "Harddisk Temperature"
+msgstr "Teplota HDD"
+
+msgid "show HDD Temperature"
+msgstr "Zobrazí teplotu pevného disku"
+
+msgid "Show Consolesessions"
+msgstr ""
+
+msgid "show all active user sessions"
+msgstr ""
+
+msgid "Show Uptime"
+msgstr ""
+
+msgid "show operating system uptime of stb"
+msgstr ""
+
+msgid "Show Networkconnections"
+msgstr ""
+
+msgid "show all connected sockets from ip-stack"
+msgstr ""
+
+msgid "Show Systemmemory Info"
+msgstr ""
+
+msgid "show whole system memory usage"
+msgstr ""
+
+msgid "Show Networkdetails"
+msgstr ""
+
+msgid "shows assigned ip-adresses, routingtable and nameserver"
+msgstr ""
+
+msgid "Show diskspace"
+msgstr ""
+
+msgid "show diskpace"
+msgstr ""
+
+msgid "Image Info"
+msgstr "Informácie o image"
+
+msgid "show simple Image infos"
+msgstr "Zobrazí jednoduché informácie o image"
+
+msgid "VTI System Infos"
+msgstr "Systémové informácie VTI"
+
+msgid "VTI Backupsuite"
+msgstr ""
+
+msgid "Backup installed channellist and plugins"
+msgstr "Zálohovať nainštalované zoznamy staníc a moduly"
+
+msgid "Restore installed channellist and plugins"
+msgstr "Obnoviť nainštalované zoznamy staníc a moduly"
+
+msgid "Backup Image"
+msgstr "Zálohovať image"
+
+msgid "Backup your running STB image."
+msgstr "Zálohovať image bežiaci na VU+"
+
+msgid "Restore Image"
+msgstr "Obnoviť image"
+
+msgid "Restore your backuped STB image."
+msgstr "Obnoviť zálohovaný image VU+"
+
+msgid "Choose backup location"
+msgstr "Zvoliť umiestnenie zálohy"
+
+msgid "Select your backup device. "
+msgstr "Zvoliť zálohovacie zaruadenie."
+
+msgid "VTI Image Backup/Restore"
+msgstr "Záloha a obnova image VTI"
+
+msgid "Backup system settings"
+msgstr "Zálohovať nastavenia systému"
+
+msgid "Backup your STB settings."
+msgstr "Zálohuje nastavenua VU+"
+
+msgid "Restore system settings"
+msgstr "Obnoviť nastavenia systému"
+
+msgid "Restore your STB settings."
+msgstr "Obnoví nastavenia VU+"
+
+msgid "Advanced restore"
+msgstr "Pokročilá obnova"
+
+msgid "Restore your backups by date."
+msgstr "Obnoviť zálohy podľa dátumu."
+
+msgid "Choose backup files"
+msgstr "Zvoliť súbory zálohy"
+
+msgid "Select files for backup. "
+msgstr "Zvoliť súbory na zálohovanie."
+
+msgid "VTI Expert Backup/Restore"
+msgstr "Expertná záloha a obnova"
+
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Stlačením OK na DO pokračujte."
+
+msgid "VTI .tar.gz installer"
+msgstr "Inštalátor .tar.gz"
+
+msgid "VTI IPK Installer"
+msgstr "Inštalátor IPK"
+
+msgid ""
+"The Device Manager is not installed!\n"
+"Please install it."
+msgstr ""
+"Správca zariadení nie je nainštalovaný!\n"
+"Nainštalujte ho."
+
+msgid ""
+"The FileManager is not installed!\n"
+"Please install it."
+msgstr ""
+"Správca súborov nie je nainštalovaný!\n"
+"Nainštalujte ho."
+
+msgid ""
+"The NetworkBrowser is not installed!\n"
+"Please install it."
+msgstr ""
+"Prehľadávač siete nie je nainštalovaný!\n"
+"Nainštalujte ho."
+
+msgid "VTI Harddisk Standbymode"
+msgstr ""
+
+msgid "VTI show ecm.info"
+msgstr ""
+
+msgid "VTI show running processes"
+msgstr ""
+
+msgid "VTI show mounted filesystems"
+msgstr ""
+
+msgid "VTI show networkconfiguration and routingtable"
+msgstr ""
+
+msgid "Harddiskmanufacturer, Type and it's Temperature :"
+msgstr "Výrobca HDD. Typ a jeho teplota:"
+
+msgid "Are you sure to set hdd in standby mode?"
+msgstr "Naozaj chcete uspať HDD?"
+
+msgid "HDD Temperature"
+msgstr "Teplota HDD"
+
+msgid ""
+"No internal Harddisk detected!!!! \n"
+"\n"
+"Please install an internal Harddisk first to be in a position to check "
+"harddisk temperature."
+msgstr ""
+
+msgid "Active Usersessions :"
+msgstr ""
+
+msgid "Current Time, Operating Time and Load Average :"
+msgstr ""
+
+msgid "Uptime"
+msgstr ""
+
+msgid "VTI show network stats"
+msgstr ""
+
+msgid "Current Memory Usage :"
+msgstr "Aktuálne využitie pamäte:"
+
+msgid "Memory Usage"
+msgstr "Využitie pamäte"
+
+msgid "VTI show free diskspace"
+msgstr ""
+
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+
+msgid "Sorry no backups found!"
+msgstr "Nenájdená žiadna záloha!"
+
+msgid ""
+"Menu not implemented yet!!!! \n"
+"\n"
+"feel free to code this menu now ;)"
+msgstr ""
+
+msgid "Install/update finished."
+msgstr "Inštalácia/aktualizácia skončila."
+
+msgid "Do you want to reboot your STB?"
+msgstr "Chcete reštartovať VU+?"
+
+msgid "VTI Restore Image"
+msgstr "Obnova image"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
+msgstr ""
+
+msgid "VTI-Backup done."
+msgstr "Záloha hotová."
+
+msgid "VTI-Backup failed."
+msgstr "Záloha sa nepodarila."
+
+msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
+msgstr ""
+
+msgid "At"
+msgstr ""
+
+msgid "Could not grep Uptime Information from busybox"
+msgstr ""
+
+msgid "Could not grep socket information from busybox"
+msgstr ""
+
+msgid "Could not grep Memory Usage information from busybox"
+msgstr ""
+
+msgid "VTI Status List Menu"
+msgstr ""
+
+msgid "Stop Swap"
+msgstr ""
+
+msgid "Start Swap"
+msgstr ""
+
+msgid "VTI SwapFile Menu"
+msgstr ""
+
+msgid "Stop"
+msgstr "Zastaviť"
+
+msgid "Restart"
+msgstr "Reštartovať"
+
+msgid "VTI Services Menu"
+msgstr "Menu staníc"
+
+msgid "Uninstall"
+msgstr "Odinštalovať"
+
+msgid "Force uninst."
+msgstr ""
+
+msgid "VTI IPK Uninstaller Menu"
+msgstr "Menu odinštalátora IPK"
+
+msgid "Remove Skin"
+msgstr "Odstrániť vzhľad"
+
+msgid "VTI Skinremove Menu"
+msgstr "Menu odstránenia vzhľadu"
+
+msgid "Remove selected"
+msgstr "Odstrániť zvolený"
+
+msgid "Remove all"
+msgstr "Odstrániť všetky"
+
+msgid "Remove older 7 Days"
+msgstr "Odstrániť staršie ako 7 dní"
+
+msgid "VTI Crashlogremove Menu"
+msgstr ""
+
+msgid "VTI USB DVB-Panel"
+msgstr ""
+
+msgid "not in use"
+msgstr "nepoužíva sa"
+
+msgid "MB swapfile on "
+msgstr ""
+
+msgid "Are you sure to delete swapfile ?"
+msgstr ""
+
+#, python-format
+msgid "Are you sure to %s ?"
+msgstr ""
+
+msgid "VTI Start Service"
+msgstr ""
+
+msgid "VTI Stop Service"
+msgstr ""
+
+msgid "VTI Restart Service"
+msgstr ""
+
+msgid "VTI Skinremoval"
+msgstr ""
+
+msgid "VTI Remove Enigma2 Crashlog"
+msgstr ""
+
+msgid "Deleted Crashlogs older 7 Days..."
+msgstr ""
+
+msgid "stopping swap for "
+msgstr ""
+
+msgid "swapfile was deleted successfully"
+msgstr ""
+
+msgid "VTI create SwapFile"
+msgstr ""
+
+msgid "no swapfile active..."
+msgstr ""
+
+msgid "swapfile was created successfully"
+msgstr ""
+
+msgid "VTI IPK Uninstall"
+msgstr ""
+
+msgid "VTI IPK Uninstall ignore depencies"
+msgstr ""
+
+msgid "Stop Cam"
+msgstr "Zastaviť CAM"
+
+msgid "Start Cam"
+msgstr "Spustiť CAM"
+
+msgid "Restart Cam"
+msgstr "Reštartovať CAM"
+
+msgid "Manage Cams"
+msgstr "Spráca CAMov"
+
+msgid "Select Cam and press OK to activate"
+msgstr ""
+
+msgid "NO CAM ACTIVE !!! Cant restart current cam "
+msgstr ""
+
+msgid "cam info : "
+msgstr "cam info: "
+
+msgid " -- "
+msgstr " -- "
+
+msgid "Starting cam : "
+msgstr "Spúšťam CAM:"
+
+msgid "Stopping cam : "
+msgstr "Zastavujem CAM:"
+
+msgid "Restarting cam : "
+msgstr "Reštartujem CAM:"
+
+msgid "Video"
+msgstr "Obraz"
+
+msgid "Audio"
+msgstr "Zvuk"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Max"
+msgstr "Max."
+
+msgid "Current"
+msgstr "Aktuálny"
+
+msgid "Average"
+msgstr "Priemerný"
+
+msgid "Reload"
+msgstr ""
+
+msgid "Download or delete Cam"
+msgstr "Prevziať alebo vymazať Cam"
+
+msgid "Do you want to remove the package:\n"
+msgstr "Chcete odstrániť balíček:\n"
+
+msgid "Do you want to upgrade the package:\n"
+msgstr "Chcete aktualizovať balíček:\n"
+
+msgid "Do you want to install the package:\n"
+msgstr "Chcete nainštalovať balíček:\n"
+
+msgid "Change Root Password"
+msgstr "Zmeniť koreňové heslo"
+
+msgid "Set Password"
+msgstr "Nastaviť heslo"
+
+msgid "new Random"
+msgstr ""
+
+msgid "virt. Keyboard"
+msgstr "virtuálna klávesnica"
+
+msgid "Enter new Password"
+msgstr "Zadajte nové heslo"
+
+#, python-format
+msgid ""
+"Sucessfully changed password for root user to:\n"
+"%s "
+msgstr ""
+
+msgid "Unable to change/reset password for root user"
+msgstr ""
+
+msgid "Enter your password here:"
+msgstr "Sem zadajte heslo:"
+
+msgid "Software Update"
+msgstr "Aktualizácia softvéru"
+
+msgid "Manage your VU+ Team Image"
+msgstr ""
+
+msgid "VTI CronManager"
+msgstr ""
+
+msgid "Add"
+msgstr "Pridať"
+
+msgid "Modify"
+msgstr "Upraviť"
+
+msgid "Execute"
+msgstr ""
+
+#, python-format
+msgid "Command: %s was executed"
+msgstr "Príkaz: %s bol vykonaný"
+
+msgid "your cronjob"
+msgstr ""
+
+msgid "Add a job to CronManager"
+msgstr ""
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "Command to execute : "
+msgstr ""
+
+msgid "Additional command options : "
+msgstr ""
+
+msgid "Input minute : "
+msgstr "Zadajte minútu:"
+
+msgid "Input hour : "
+msgstr "Zadajte hodinu:"
+
+msgid "Input day : "
+msgstr "Zadajte deň:"
+
+msgid "Input month : "
+msgstr "Zadajte mesiac:"
+
+msgid "Input weekday : "
+msgstr "Zadajte deň v týždni:"
+
+msgid "Modify a CronManager job"
+msgstr ""
+
+msgid "Select a executable file for a cronjob"
+msgstr ""
+
+msgid "File is not executable"
+msgstr ""
+
+msgid " "
+msgstr ""
+
+msgid "chmod 755"
+msgstr "chmod 755"
+
+msgid "NTP server "
+msgstr "Server NTP"
+
+msgid " is activated."
+msgstr " je zapnutý."
+
+msgid "NTP-Server Country Selection"
+msgstr ""
+
+msgid "NTP-Server Contenant Selection"
+msgstr ""
+
+msgid "Update"
+msgstr "Aktualizovať"
+
+msgid "show Updates"
+msgstr "Zobraziť aktualizácie"
+
+msgid "It seems that your Internet connection is not ok, please check it"
+msgstr ""
+
+msgid ""
+"The news file can not be analyzed, please be patient and try again later"
+msgstr ""
+
+msgid "Upgradable Packages"
+msgstr "Aktualizovateľné balíčky"
+
+msgid "show News"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Package : %s \n"
+"old version : %s \n"
+"new version : %s\n"
+msgstr ""
+"\n"
+"Balíček: %s \n"
+"stará verzia: %s \n"
+"nová verzia: %s\n"
+
+msgid ""
+"\n"
+"Your System is up to date"
+msgstr ""
+"\n"
+"Systém je aktuálny"
+
+msgid ""
+"There are updates available.\n"
+"Do you want to open Software Update menu ?"
+msgstr ""
+"K dispozícii sú aktualizácie.\n"
+"Chcete otvoriť menu aktualizácie softvéru?"
+
+msgid "VTI custom main menu"
+msgstr "Vlastné hlavné menu VTI"
+
+msgid "Default"
+msgstr "Predvolené"
+
+msgid "Execute: "
+msgstr ""
+
+msgid "VTI ExeManager"
+msgstr ""
+
+#, python-format
+msgid "File %s was not found"
+msgstr "Súbor %s nenájdený"
+
+#, python-format
+msgid "File %s is not executable"
+msgstr ""
+
+msgid "your executable"
+msgstr ""
+
+msgid "no"
+msgstr "Nie"
+
+msgid "yes"
+msgstr "Áno"
+
+msgid "Add a executable to ExeManager"
+msgstr ""
+
+msgid "Show command output : "
+msgstr ""
+
+msgid "Modify execute command"
+msgstr ""
+
+msgid "Select a file to execute"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "PROCESS"
+msgstr "Proces"
+
+msgid "CPU %"
+msgstr "CPU %"
+
+msgid "MEM %"
+msgstr "MEM %"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "DEVICE"
+msgstr "ZARIADENIE"
+
+msgid "MOUNTPOINT"
+msgstr "PRIPOJ. BOD"
+
+msgid "FS"
+msgstr ""
+
+msgid "SIZE"
+msgstr "VEĽKOSŤ"
+
+msgid "FREE"
+msgstr "VOĽNÝCH"
+
+msgid "KERNEL : "
+msgstr "JADRO:"
+
+msgid "IMAGE : "
+msgstr "IMAGE:"
+
+msgid "RAM"
+msgstr "RAM"
+
+msgid "SWAP"
+msgstr "SWAP"
+
+msgid "USED :"
+msgstr "POUŽITÉ:"
+
+msgid "FREE :"
+msgstr "VOĽNÉ:"
+
+msgid "TOTAL :"
+msgstr "SPOLU:"
+
+msgid "UPTIME : "
+msgstr ""
+
+msgid "LOAD : "
+msgstr ""
+
+msgid "TEMP : "
+msgstr "TEPL: "
+
+msgid "FAN : "
+msgstr "VENTILÁTOR:"
+
+msgid "RECEIVED"
+msgstr "PRIJATÉ"
+
+msgid "SENT"
+msgstr "ODOSLANÉ"
+
+msgid "VTI EPG Panel"
+msgstr "VTI - Panel EPG"
+
+msgid "EPG Path :"
+msgstr "Cesta EPG:"
+
+msgid "Save EPG cache to epg.dat"
+msgstr ""
+
+msgid "Load EPG data from epg.dat"
+msgstr ""
+
+msgid "Delete broken epg.dat"
+msgstr ""
+
+#, python-format
+msgid "Saving of EPG cache to %s finished"
+msgstr ""
+
+#, python-format
+msgid "Loading EPG data from %s finished"
+msgstr ""
+
+msgid "Clearing EPG DB finished"
+msgstr ""
+
+msgid "Please wait..."
+msgstr "Čakajte..."
+
+msgid "Verifying your internet connection..."
+msgstr ""
+
+msgid "Press OK on your remote control to continue."
+msgstr "Pokračujte stlačením OK na DO."
+
+msgid ""
+"There was a problem at creating an automatic backup for VTi BackupSuite. Do "
+"you really want to continue ?"
+msgstr ""
+
+msgid "Upgrading STB... Please wait"
+msgstr "Aktualizujem STB... Čakajte..."
+
+msgid "Your network is not working. Please try again."
+msgstr "Sieť nefunguje, Skúste znova."
+
+msgid "Downloading"
+msgstr "Preberám"
+
+msgid "Upgrading"
+msgstr "Aktualizujem"
+
+msgid "Installing"
+msgstr "Inštalujem"
+
+msgid "Removing"
+msgstr "Odstraňujem"
+
+msgid "Configuring"
+msgstr "Nastavujem"
+
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr "Hotovo - Nainštalovaných alebo aktualizovaných %d baíčkov"
+
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr "VU+ nie je správne pripojený k sieti. Skontrolujte a skúste znova."
+
+msgid "Upgrade finished."
+msgstr "Aktualizácia skončila."
+
+msgid "VTi Image Download"
+msgstr ""
+
+msgid "Do your really want to cancel the image download ?"
+msgstr ""
+
+msgid "Select image for flash process"
+msgstr ""
+
+msgid "Install this image"
+msgstr ""
+
+msgid "VTI Image Flash Tool"
+msgstr ""
+
+msgid " downloading available image information"
+msgstr ""
+
+msgid "Flash extracted image from storage device"
+msgstr ""
+
+#, python-format
+msgid "Image: %s"
+msgstr "Image: %s"
+
+msgid "Download image from vuplus-support.org and flash it"
+msgstr "Prevziať image z vuplus-support.org a flešnúť ho"
+
+msgid "Sorry ..."
+msgstr "Ľutujem..."
+
+msgid "The image list can not be loaded, please be patient and try again later"
+msgstr ""
+
+msgid ""
+"This will flash the selected image without further questions.\n"
+"Your current software installation will be deleted and overwritten\n"
+"Really continue ?"
+msgstr ""
+
+msgid "Please select medium to use as image location"
+msgstr ""
+
+msgid ""
+"Error at creating download destination !\n"
+"Please select another device."
+msgstr ""
+
+msgid ""
+"There is to low free memory at choosen device\n"
+"Please select another device."
+msgstr ""
+
+#, python-format
+msgid "Download %s"
+msgstr "Preberanie %s"
+
+msgid "Extracting image ..."
+msgstr "Extrahujem image ..."
+
+msgid ""
+"Sorry, download verification failed\n"
+"Please try again."
+msgstr ""
+
+msgid "Verifying download ..."
+msgstr ""
+
+msgid ""
+"This will flash the downloaded image.\n"
+"Your current software installation will be deleted and overwritten\n"
+"If you cancel here the downloaded image will be stored and you flash it "
+"later\n"
+"Really continue ?"
+msgstr ""
+
+msgid ""
+"Sorry, necessary files are missing\n"
+"Please try again."
+msgstr ""
+
+msgid ""
+"Sorry, extracting of image failed\n"
+"Please try again."
+msgstr ""
+
+msgid "VTi Image Flash Process"
+msgstr ""
+
+msgid "Change password for VTI Panel"
+msgstr "Zmena hesla do Panela VTI"
+
+msgid "Deactivate"
+msgstr "Vypnúť"
+
+msgid "Input your new VTI Panel password : "
+msgstr "Zadajte nové heslo do Panela VTI:"
+
+msgid "Input password for VTI Panel"
+msgstr "Zadanie hesla do Panela VTI"
+
+msgid "Input your VTI Panel password : "
+msgstr "Zadajte heslo do Panela VTI:"
+
+msgid "VTI-Backup is running..."
+msgstr "VTI - Zálohovanie beží..."
+
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+
+msgid "VTI-Backup - Select files/folders to backup"
+msgstr ""
+
+msgid "Deselect"
+msgstr "Nezvoliť"
+
+msgid "Select"
+msgstr "Zvoliť"
+
+msgid "VTI-Restore backups"
+msgstr ""
+
+msgid "VTI-Restore is running..."
+msgstr "VTI - Prebieha obnova..."
+
+msgid "Restore is running..."
+msgstr "Prebieha obnova..."
+
+msgid "VTi Restore Image"
+msgstr "VTI - Obnova image"
+
+msgid ""
+"No image found!!!! \n"
+"\n"
+"Please copy usb image or restore image to /media/hdd/vuplus/duo/solo/uno or "
+"ultimo ."
+msgstr ""
+
+msgid "[ ok ]"
+msgstr "[ OK]"
+
+#, python-format
+msgid ""
+"\n"
+"\n"
+"Please take a look at\n"
+"%s\n"
+"for more details"
+msgstr ""
+"\n"
+"\n"
+"Pozrite sa na\n"
+"%s,\n"
+"kde je viac detailov."
+
+msgid ""
+"Restore of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
+
+msgid ""
+"Flash process of selected image is in progress.\n"
+"Your Vu+ STB will be rebooted after write process\n"
+"Do not power off !!!\n"
+"\n"
+"Please wait ..."
+msgstr ""
+
+msgid ""
+"Backup of your running image is in progress.\n"
+"The backup can take a few minutes\n"
+"Please wait ..."
+msgstr ""
+"Prebieha zálohovanie bežiaceho image.\n"
+"Môže to trvať niekoľko minút.\n"
+"Čakajte..."
+
+msgid "preparing backup of image"
+msgstr "pripravujem zálohovanie image"
+
+msgid ""
+"Error at creating backup directories\n"
+"Please try another backup location"
+msgstr ""
+
+msgid "The system is missing some necessary files !"
+msgstr ""
+
+msgid "Backup of root filesystem failed"
+msgstr ""
+
+msgid "backup root filesystem"
+msgstr ""
+
+msgid "Error at preparing system for backup"
+msgstr "Chyba pri príprave systému na zálohovanie."
+
+msgid "create flashable file of root filesystem"
+msgstr ""
+
+msgid "backup of running kernel"
+msgstr ""
+
+msgid "Backup of kernel failed"
+msgstr "Zálohovanie jadra zlyhalo."
+
+msgid "Image backup finished successfully"
+msgstr "Záloha image úspešne skončená."
+
+msgid "A new skin was installed\n"
+msgstr "Nový zhľad bol nainštalovaný.\n"
+
+msgid "Do you want to open the skin choice list?"
+msgstr "Chcete otvoriť zoznam výberu vzhľadov?"
+
+msgid "Remove xbmc"
+msgstr "Odstrániť xbmc"
+
+msgid "uninstall xbmc and dependend packages"
+msgstr ""
+
+msgid "Load EPG data from file every X minutes (0 = off)"
+msgstr ""
+
+msgid "Save EPG data every X minutes to file (0 = off)"
+msgstr ""
+
+msgid "Enable EPG client mode (don't save EPG file)"
+msgstr ""
+
+msgid "Setup - EPG"
+msgstr "Nastavenie - EPG"
+
+msgid "Download services lists"
+msgstr "Prevziať zoznamy staníc"
+
+msgid "Download of services list failes, please be patient and try again later"
+msgstr ""
+
+msgid "Sorry, creating download folder failed"
+msgstr "Vytvorenie adresára na preberanie zlyhalo."
+
+msgid ""
+"Sorry, there are some mandatory files missing\n"
+"Please try antoher services list."
+msgstr ""
+"Niektoré povinné súbory chýbajú.\n"
+"Skúste iný zoznam staníc."
+
+msgid ""
+"Sorry, extracting of services list failed\n"
+"Please try again."
+msgstr ""
+"Extrahovanie zoznamu staníc zlyhalo\n"
+"Skúste znova."
+
+msgid "Loading new services list finished succesfully."
+msgstr "Načítanie zoznamu nových staníc bolo úspešné."
+
+msgid ""
+"Loading the new services list failed.\n"
+"Please try again"
+msgstr ""
+"Načítanie zoznamu nových staníc zlyhalo.\n"
+"Skúste znova"
+
+msgid "Forbid DVB EPG update for black listed services"
+msgstr ""
+
+msgid "Add Service"
+msgstr "Pridať stanicu"
+
+msgid "Edit blacklist for DVB EPG"
+msgstr ""
+
+msgid "Please select location of software packages"
+msgstr "Zvoľte umiestnenie softvérových balíčkov"
+
+msgid "Temporary folder (/tmp)"
+msgstr "Dočasný adresár (/tmp)"
