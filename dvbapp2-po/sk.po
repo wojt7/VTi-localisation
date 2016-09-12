@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-09-08 13:12+0100\n"
+"PO-Revision-Date: 2016-09-12 11:29+0100\n"
 "Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -668,10 +668,10 @@ msgid "Action after summit"
 msgstr ""
 
 msgid "Action on long powerbutton press"
-msgstr "Činnosť pri dlhom stlačení vypínača"
+msgstr "Pri dlhom stlačení vypínača"
 
 msgid "Action on short powerbutton press"
-msgstr "Činnosť po krátkom stlačení sieťového vypínača"
+msgstr "Pri krátkom stlačení vypínača"
 
 msgid "Action:"
 msgstr "Činnosť:"
@@ -2051,7 +2051,7 @@ msgid "Enable mount automatically while start"
 msgstr ""
 
 msgid "Enable mount check for HDD : "
-msgstr ""
+msgstr "Zapnúť kontrolu pripojenia pre HDD"
 
 msgid "Enable multiple bouquets"
 msgstr "Zapnúť viacnásobné bukety"
@@ -2475,7 +2475,7 @@ msgstr ""
 "Chcete teraz reštartovať GUI?"
 
 msgid "GUI restart now, press 'OK' button."
-msgstr ""
+msgstr "Reštartujte GUI stlačením OK."
 
 msgid "Gateway"
 msgstr "Brána"
@@ -4086,7 +4086,7 @@ msgid "Portuguese"
 msgstr "Portugalčina"
 
 msgid "Position of finished Timers in Timerlist"
-msgstr "Umiestnenie skončených časovačov v zozname časovačov"
+msgstr "Skončené časovače dať v zozname"
 
 msgid "Positioner"
 msgstr "motor"
@@ -5341,7 +5341,7 @@ msgid "Stop current event but not coming events"
 msgstr "Zastaviť aktuálnu udalosť, ale nezrušiť nasledujúce udalosti"
 
 msgid "Stop current records..."
-msgstr "Bežiace nahrávky sa zastavia..."
+msgstr "Zastaviť bežiace nahrávky..."
 
 msgid "Stop fast forwarding at end of movie"
 msgstr ""
@@ -5851,7 +5851,7 @@ msgid "Timer entry"
 msgstr "Položka časovača"
 
 msgid "Timer log"
-msgstr "Záznam časovača"
+msgstr "Protokol časovača"
 
 msgid ""
 "Timer overlap in timers.xml detected!\n"
@@ -6939,10 +6939,10 @@ msgid "assigned Services/Provider:"
 msgstr "Priradené služby a poskytovatelia:"
 
 msgid "at beginning"
-msgstr "Na začiatku"
+msgstr "na začiatok"
 
 msgid "at end"
-msgstr "Na konci"
+msgstr "na koniec"
 
 #, python-format
 msgid "audio track (%s) format"
@@ -7088,7 +7088,7 @@ msgstr "Zmazať"
 
 #, python-format
 msgid "delete : %s"
-msgstr "vymazať: %s"
+msgstr "Vymazať: %s"
 
 msgid "delete cut"
 msgstr "zmazať strih"
@@ -7684,7 +7684,7 @@ msgid "show DVD main menu"
 msgstr "zobraziť hlavné menu DVD"
 
 msgid "show EPG..."
-msgstr "zobraziť EPG..."
+msgstr "Zobraziť EPG..."
 
 msgid "show Favourites"
 msgstr "Zobraziť obľúbené"
@@ -7711,7 +7711,7 @@ msgid "show first selected tag"
 msgstr "zobraziť prvý zvolený štítok"
 
 msgid "show record menu"
-msgstr "zobraziť menu nahrávania"
+msgstr "Zobraziť menu nahrávania"
 
 msgid "show running records"
 msgstr ""
@@ -8839,7 +8839,7 @@ msgid "search EPG"
 msgstr "hľadať EPG"
 
 msgid "Hide service name in service list (compact style)"
-msgstr ""
+msgstr "Skryť názov stanice v zozname staníc (kompaktný štýl)"
 
 msgid "Use double-spaced list style"
 msgstr "Zoznam staníc zobraziť dvojriadkovo"
@@ -9227,10 +9227,10 @@ msgid "Please select entry to unhide..."
 msgstr ""
 
 msgid "hide entry: %s"
-msgstr ""
+msgstr "Skryť položku: %s"
 
 msgid "unhide hidden entry"
-msgstr ""
+msgstr "Odkryť skrytú položku"
 
 msgid "Picon folder for graphical multi EPG"
 msgstr "Adresár piconov pre grafický Multi EPG"
@@ -9263,7 +9263,7 @@ msgid "Transform old timeshift event into recording"
 msgstr ""
 
 msgid "Hide timeshift files in movie list"
-msgstr ""
+msgstr "V zozname filmov skryť súbory časového posunu"
 
 msgid "Current timeshift"
 msgstr "Aktuálny časový posun"
@@ -9272,13 +9272,13 @@ msgid "Show old timeshift events"
 msgstr "Zobraziť staré záznamy časového posunu"
 
 msgid "Do not save timeshift events shorter than X minutes"
-msgstr ""
+msgstr "Neukladať časové posuny kratšie než X minút"
 
 msgid "Zap Up/Down"
-msgstr ""
+msgstr "Prepnúť nahor/nadol"
 
 msgid "History Prev/Next"
-msgstr ""
+msgstr "História predch./nasl."
 
 msgid "Box or driver is not support FCC."
 msgstr "Prijímač alebo ovládač nepodporujú FCC."
@@ -9315,7 +9315,7 @@ msgstr "Zvoliť balíčky na inštaláciu"
 
 msgid ""
 "Do you want timeshift to be actviated automatically (permanent timeshift) ?"
-msgstr ""
+msgstr "Chcete, aby sa časový posun zapínal automaticky (trvalý časový posun)?"
 
 msgid ""
 "You can now use VTi ZerO to remove some packages which you do not need.\n"
@@ -9323,15 +9323,19 @@ msgid ""
 "You can now also use VTi BackupSuite to restore your previously saved "
 "settings, plugins or favourite bouquets ?"
 msgstr ""
+"Teraz môžete použiť VTi ZerO na odstránenie balíčkov, ktoré nepotrebujete.\n"
+"\n"
+"Môžete použiť aj VTi BackupSuite na obnovenie predtým uložených nastavení, "
+"modulov alebo obľúbených buketov."
 
 msgid "Next step"
 msgstr "Ďalší krok"
 
 msgid "Remove not needed packages (VTi ZerO)"
-msgstr ""
+msgstr "Odstrániť nepotrebné balíčky (VTi ZerO)"
 
 msgid "Restore configuration (VTi BackupSuite)"
-msgstr ""
+msgstr "Obnoviť nastavenia (VTi BackupSuite)"
 
 msgid ""
 "Use the left and right buttons to change an option.\n"
