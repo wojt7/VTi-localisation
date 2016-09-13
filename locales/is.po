@@ -21731,30 +21731,3 @@ msgstr ""
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
 msgstr ""
-
-#
-#
-#~ msgid "E"
-#~ msgstr "E"
-
-#
-#
-#~ msgid "W"
-#~ msgstr "W"
-
-#
-#
-#~ msgid ""
-#~ "Enigma2 Skinselector\n"
-#~ "\n"
-#~ "If you experience any problems please contact\n"
-#~ "stephan@reichholf.net\n"
-#~ "\n"
-#~ "© 2006 - Stephan Reichholf"
-#~ msgstr ""
-#~ "Enigma2 Skinnval\n"
-#~ "\n"
-#~ "Ef þú verður var við vandamál hafðu þá samband\n"
-#~ "stephan@reichholf.net\n"
-#~ "\n"
-#~ "© 2006 - Stephan Reichholf"

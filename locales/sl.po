@@ -21295,13 +21295,3 @@ msgstr ""
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
 msgstr ""
-
-#
-#
-#~ msgid "E"
-#~ msgstr "E"
-
-#
-#
-#~ msgid "W"
-#~ msgstr "W"
