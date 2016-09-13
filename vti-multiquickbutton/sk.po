@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MultiQuickButton\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-21 17:46+0100\n"
-"PO-Revision-Date: 2016-08-24 21:43+0100\n"
+"PO-Revision-Date: 2016-09-07 11:34+0100\n"
 "Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
 "Language-Team: plnick <plnick@vuplus-support.org>\n"
 "Language: sk\n"
@@ -21,13 +21,13 @@ msgstr ""
 "X-Poedit-SearchPath-0: ../src\n"
 
 msgid "Autostart"
-msgstr ""
+msgstr "Autoštart"
 
 msgid "Main menu"
 msgstr "Hlavné menu"
 
 msgid "Info"
-msgstr ""
+msgstr "Informácie"
 
 msgid "OK/EXIT"
 msgstr "OK a skončiť"
@@ -69,16 +69,16 @@ msgid "END"
 msgstr ""
 
 msgid "Subtitle"
-msgstr ""
+msgstr "Titulky"
 
 msgid "VU+ R-Button"
-msgstr ""
+msgstr "Červ. tlačidlo VU+"
 
 msgid "RADIO"
-msgstr ""
+msgstr "Rádio"
 
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 msgid "Cross Up"
 msgstr ""
@@ -99,79 +99,79 @@ msgid "Channel -"
 msgstr "Stanica -"
 
 msgid "Forward >"
-msgstr ""
+msgstr "Vpred >"
 
 msgid "Backward <"
-msgstr ""
+msgstr "Vzad <"
 
 msgid "Volume +"
-msgstr ""
+msgstr "Hlasitosť +"
 
 msgid "Volume -"
-msgstr ""
+msgstr "Hlasitosť +"
 
 msgid "Mute"
-msgstr ""
+msgstr "Umlčať"
 
 msgid "Power"
 msgstr ""
 
 msgid "Audio"
-msgstr ""
+msgstr "Zvuk"
 
 msgid "EXIT"
-msgstr ""
+msgstr "KONIEC"
 
 msgid "Play"
-msgstr ""
+msgstr "Prehrávanie"
 
 msgid "Pause"
-msgstr ""
+msgstr "Pauza"
 
 msgid "Stop"
-msgstr ""
+msgstr "Zastaviť"
 
 msgid "Rewind <<"
-msgstr ""
+msgstr "Prevíjanie <<"
 
 msgid "FastForward >>"
-msgstr ""
+msgstr "Prevíjanie >>"
 
 msgid "on"
-msgstr ""
+msgstr "zap."
 
 msgid "off"
-msgstr ""
+msgstr "vyp."
 
 #, python-format
 msgid "Quickbutton Key : %s"
 msgstr ""
 
 msgid "Please select the backup path..."
-msgstr ""
+msgstr "Zvoľte cestu k zálohe..."
 
 msgid "Overwrite existing Backup?."
-msgstr ""
+msgstr "Prepísať existujúcu zálohu?"
 
 msgid "Backup Settings..."
-msgstr ""
+msgstr "Nastavenia zálohovania"
 
 #, python-format
 msgid "Directory %s nonexistent."
-msgstr ""
+msgstr "Adresár %s neexistuje."
 
 msgid "Please select the restore path..."
 msgstr ""
 
 msgid "Overwrite existing Settings?."
-msgstr ""
+msgstr "Prepísať existujúce nastavenia?"
 
 #, python-format
 msgid "File %s nonexistent."
-msgstr ""
+msgstr "Súbor %s neexistuje."
 
 msgid "Restore Settings..."
-msgstr ""
+msgstr "Obnoviť nastavenia..."
 
 msgid ""
 "Restarting Enigma2 to set\n"
@@ -185,19 +185,19 @@ msgid "Multi QuickButton settings"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 msgid "delete"
-msgstr ""
+msgstr "Zmazať"
 
 msgid "Add"
-msgstr ""
+msgstr "Pridať"
 
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 msgid "MQB Functions and Plugins"
 msgstr ""
@@ -218,50 +218,50 @@ msgid "Add Script/Binary to MQB Key"
 msgstr ""
 
 msgid "Functions"
-msgstr ""
+msgstr "Funkcie"
 
 msgid "No valid function file found"
 msgstr ""
 
 msgid "Plugins"
-msgstr ""
+msgstr "Moduly"
 
 #, python-format
 msgid "Entry %s already exists."
-msgstr ""
+msgstr "Položka %s už existuje."
 
 msgid "Save Settings"
-msgstr ""
+msgstr "Uložiť nastavenia"
 
 msgid "MultiQuickButton macro configuration"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Názov"
 
 msgid "Modify"
-msgstr ""
+msgstr "Upraviť"
 
 msgid "Delete"
-msgstr ""
+msgstr "Vymazať"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgid "VU+ EPG / Info"
 msgstr ""
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Record"
-msgstr ""
+msgstr "Nahrať"
 
 msgid "Ok"
-msgstr ""
+msgstr "OK"
 
 msgid "Button : "
-msgstr ""
+msgstr "Tlačidlo:"
 
 msgid "Input name for MQB macro"
 msgstr ""
@@ -279,7 +279,7 @@ msgid "File is not executable"
 msgstr ""
 
 msgid "Script"
-msgstr ""
+msgstr "Skript"
 
 msgid "Add command line options ?"
 msgstr ""
@@ -291,25 +291,25 @@ msgid "Please enter the command line options"
 msgstr ""
 
 msgid "chmod 755"
-msgstr ""
+msgstr "chmod 755"
 
 msgid "VTi Panel"
-msgstr ""
+msgstr "Panel VTI"
 
 msgid "Restart SoftCam"
-msgstr ""
+msgstr "Reštartovať SoftCam"
 
 msgid "Plugin Browser"
-msgstr ""
+msgstr "Prehľadávač modulov"
 
 msgid "Extension Selection"
 msgstr ""
 
 msgid "Sleeptimer"
-msgstr ""
+msgstr "Zaspávací časovač"
 
 msgid "Timer"
-msgstr ""
+msgstr "Časovač"
 
 msgid "Channel zap +"
 msgstr ""
@@ -327,10 +327,10 @@ msgid "Dolby Digital downmix on/off"
 msgstr ""
 
 msgid "List of Bouquets"
-msgstr ""
+msgstr "Zoznam buketov"
 
 msgid "Channel list"
-msgstr ""
+msgstr "Zoznam staníc"
 
 msgid "Zap history back"
 msgstr ""
@@ -339,7 +339,7 @@ msgid "Zap history next"
 msgstr ""
 
 msgid "InfoBar"
-msgstr ""
+msgstr "Informačná lišta"
 
 msgid "InfoBar EventInfoPlugins"
 msgstr ""
@@ -363,7 +363,7 @@ msgid "InfoBar Show Tv"
 msgstr ""
 
 msgid "Movie Archive"
-msgstr ""
+msgstr "Archív filmov"
 
 msgid "InfoBar Record"
 msgstr ""
@@ -372,25 +372,25 @@ msgid "InfoBar Instant Record"
 msgstr ""
 
 msgid "Start Timeshift"
-msgstr ""
+msgstr "Začať časový posun"
 
 msgid "Start Teletext"
-msgstr ""
+msgstr "Spustiť teletext"
 
 msgid "Favourite channel 1"
-msgstr ""
+msgstr "Obľúbená stanica 1"
 
 msgid "Favourite channel 2"
-msgstr ""
+msgstr "Obľúbená stanica 2"
 
 msgid "Favourite channel 3"
-msgstr ""
+msgstr "Obľúbená stanica 3"
 
 msgid "Favourite channel 4"
-msgstr ""
+msgstr "Obľúbená stanica 4"
 
 msgid "Favourite channel 5"
-msgstr ""
+msgstr "Obľúbená stanica 5"
 
 msgid "Toggle AtmoLight"
 msgstr ""
@@ -399,13 +399,13 @@ msgid "Subservices"
 msgstr ""
 
 msgid "Subtitles"
-msgstr ""
+msgstr "Titulky"
 
 msgid "MediaPlayer"
-msgstr ""
+msgstr "Prehrávač médií"
 
 msgid "DVDPlayer"
-msgstr ""
+msgstr "Prehrávač DVD"
 
 msgid "Picture Player"
 msgstr ""
@@ -414,7 +414,7 @@ msgid "Cool TV Guide"
 msgstr ""
 
 msgid "A/V Settings"
-msgstr ""
+msgstr "Nastavenia A/V"
 
 msgid "Switch 4:3 (Pillarbox) (Pan&Scan)"
 msgstr ""
@@ -474,13 +474,13 @@ msgid "VTi News"
 msgstr ""
 
 msgid "Reboot"
-msgstr ""
+msgstr "Reštartovať"
 
 msgid "GUI Restart"
-msgstr ""
+msgstr "Reštartovať GUI"
 
 msgid "DeepStandby"
-msgstr ""
+msgstr "Hlboký spánok"
 
 msgid "Remount Network Shares"
 msgstr ""
@@ -565,7 +565,7 @@ msgid "Multi Quickbutton"
 msgstr ""
 
 msgid "Stop Timeshift"
-msgstr ""
+msgstr "Zastaviť časový posun"
 
 msgid "Timeshift switch to Live TV"
 msgstr ""
