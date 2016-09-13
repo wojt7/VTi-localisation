@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: AutoShutDown\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-12-15 13:58+0100\n"
-"PO-Revision-Date: 2016-08-24 21:34+0100\n"
+"PO-Revision-Date: 2016-09-07 11:13+0100\n"
 "Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
 "Language-Team: LANGUAGE <plnick@vuplus-support.org>\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgid "Go to standby"
 msgstr "Prejsť do pohotovostného režimu"
 
 msgid "Power off STB"
-msgstr ""
+msgstr "Vypnúť VU+"
 
 #, python-format
 msgid "AutoShutDown: %s ?"
@@ -43,7 +43,7 @@ msgid "AutoShutDown Setup"
 msgstr "Nastavenia automatického vypnutia"
 
 msgid "configure automated power off / standby"
-msgstr ""
+msgstr "Nastaviť automatické vypnutie/pohot. režim"
 
 msgid "Exit"
 msgstr "Koniec"
@@ -58,43 +58,43 @@ msgid "Choose media file"
 msgstr ""
 
 msgid "Configuration for automatic power off in standby"
-msgstr ""
+msgstr "Nastavenie automatického vypnutia v pohotovostnom režime"
 
 msgid "Enable automatic power off in standby:"
-msgstr ""
+msgstr "Zapnúť automatické vypnutie v pohotovostnom režime"
 
 msgid "Time in standby for power off (min):"
-msgstr ""
+msgstr "Doba pohotovostného režimu do vypnutia (min): "
 
 msgid "Disable power off for given interval:"
-msgstr ""
+msgstr "Zrušiť vypnutie v danom intervale:"
 
 msgid "Begin of excluded interval (hh:mm):"
-msgstr ""
+msgstr "Začiatok vylúčeného intervalu (hh:mm):"
 
 msgid "End of excluded interval (hh:mm):"
-msgstr ""
+msgstr "Koniec vylúčeného intervalu (hh:mm):"
 
 msgid "Configuration for inactivity actions"
-msgstr ""
+msgstr "Nastavenie akcií pri nečinnosti"
 
 msgid "Enable action after inactivity:"
-msgstr ""
+msgstr "Zapnúť akciu po nečinnosti:"
 
 msgid "Time for inactivity (min):"
-msgstr ""
+msgstr "Doba nečinnosti (min):"
 
 msgid "Action for inactivity:"
-msgstr ""
+msgstr "Akcia pri nečinnosti:"
 
 msgid "Disable inactivity action at timeshift:"
 msgstr ""
 
 msgid "Show message before inactivity action:"
-msgstr ""
+msgstr "Pred akciou pri nečinnosti zobraziť hlásenie:"
 
 msgid "Message timeout (sec):"
-msgstr ""
+msgstr "Doba do hlásenia (s):"
 
 msgid "Play media file before inactivity action:"
 msgstr ""
@@ -103,28 +103,28 @@ msgid "Disable inactivity action for given interval:"
 msgstr ""
 
 msgid "Common configuration"
-msgstr ""
+msgstr "Všeobecné nastavenie"
 
 msgid "Disable power off in EPGRefresh interval:"
-msgstr ""
+msgstr "Zrušiť vypnutie v dobe obnovovania EPG:"
 
 msgid "Disable power off until a hard disk is active:"
-msgstr ""
+msgstr "Zrušiť vypnutie, kým je HDD aktívny."
 
 msgid "Disable power off until a given device is pingable:"
 msgstr ""
 
 msgid "IP address of network device:"
-msgstr ""
+msgstr "IP adresa sieťového zariadenia:"
 
 msgid "Show in Extensions/Plugins:"
-msgstr ""
+msgstr "Zobraziť v rozšíreniach/moduloch:"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Naozaj zatvoriť bez uloženia nastavení?"
 
 msgid "Reset AutoShutDown settings to defaults?"
-msgstr ""
+msgstr "Resetovať nastavenia automatického vypnutria na predvolené?"
 
 msgid "Select a media file for AutoShutDown"
 msgstr ""
