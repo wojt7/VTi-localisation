@@ -1,0 +1,10073 @@
+# Icelandic translations for Enigma2.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-25 14:48+0100\n"
+"Last-Translator: plnick\n"
+"Language-Team: Polar Team/LT Team <baddi@oreind.is>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+#
+msgid ""
+"\n"
+"Advanced options and settings."
+msgstr ""
+"\n"
+"Auka sérfræði stillingar."
+#
+msgid ""
+"\n"
+"After pressing OK, please wait!"
+msgstr ""
+"\n"
+"Bíðið eftir að hafa ýtt á OK!"
+#
+msgid ""
+"\n"
+"Backup your STB settings."
+msgstr ""
+#
+#, python-format
+msgid ""
+"\n"
+"Device : %s"
+msgstr ""
+#
+#, python-format
+msgid ""
+"\n"
+"Device : /dev/%s"
+msgstr ""
+#
+msgid ""
+"\n"
+"Do you want to exit?"
+msgstr ""
+#
+msgid ""
+"\n"
+"Edit the upgrade source address."
+msgstr ""
+"\n"
+"Breyta veffangi uppfærslu uppruna."
+#
+#, python-format
+msgid ""
+"\n"
+"Filesystem : %s"
+msgstr ""
+#
+msgid ""
+"\n"
+"Manage extensions or plugins for your STB"
+msgstr ""
+#
+msgid ""
+"\n"
+"Online update of your STB software."
+msgstr ""
+#
+#, python-format
+msgid ""
+"\n"
+"Partition : %s"
+msgstr ""
+#
+msgid ""
+"\n"
+"Press OK on your remote control to continue."
+msgstr ""
+"\n"
+"Ýtið á OK á fjarstýringunni til að halda áfram."
+#
+msgid ""
+"\n"
+"Restore your STB settings."
+msgstr ""
+#
+msgid ""
+"\n"
+"Restore your STB with a new firmware."
+msgstr ""
+#
+msgid ""
+"\n"
+"Restore your backups by date."
+msgstr ""
+"\n"
+"Setja inn stilligar eftir dagsetningu."
+#
+msgid ""
+"\n"
+"Scan for local extensions and install them."
+msgstr ""
+"\n"
+"Leita að viðbótum á móttakara og setja þær upp."
+#
+msgid ""
+"\n"
+"Select your backup device.\n"
+"Current device: "
+msgstr ""
+"\n"
+"Veldu afritunar tæki.\n"
+"Núverandi tæki:"
+#
+#, python-format
+msgid ""
+"\n"
+"Size : %d MB\n"
+msgstr ""
+#
+#, python-format
+msgid ""
+"\n"
+"Size : %s"
+msgstr ""
+#
+#, python-format
+msgid ""
+"\n"
+"Size : %s MB\n"
+msgstr ""
+#
+msgid ""
+"\n"
+"System will restart after the restore!"
+msgstr ""
+"\n"
+"Kerfi verður endurræst eftir innsetningu!"
+#
+msgid ""
+"\n"
+"View, install and remove available or installed packages."
+msgstr ""
+"\n"
+"Skoða, setja inn og taka út hugbúnaðar pakka."
+#
+msgid ""
+"\n"
+"When transcoding, PIP is disabled."
+msgstr ""
+#
+msgid ""
+"\n"
+"When transcoding, both PIP and analog video outputs are disabled."
+msgstr ""
+#
+#, python-format
+msgid ""
+"\n"
+"partition %d : %s MB"
+msgstr ""
+#
+msgid " "
+msgstr " "
+#
+msgid "    - Log Directory"
+msgstr ""
+#
+msgid "    - Log Level"
+msgstr ""
+#
+msgid "    - Type"
+msgstr ""
+#
+msgid " 1"
+msgstr ""
+#
+msgid " 2"
+msgstr ""
+#
+msgid " 3"
+msgstr ""
+#
+#, python-format
+msgid " at /dev/%s"
+msgstr ""
+#
+msgid " extensions."
+msgstr " viðbætur."
+#
+msgid " ms"
+msgstr " ms"
+#
+msgid " packages selected."
+msgstr " pakkar valdir."
+#
+msgid " updates available."
+msgstr " uppfærslur tiltækar."
+#
+msgid " wireless networks found!"
+msgstr "fann þráðlaust net!"
+#
+msgid ""
+"!!(Empty)\n"
+"Please, Input to the "
+msgstr ""
+#
+msgid "#000000"
+msgstr "#000000"
+#
+msgid "#0064c7"
+msgstr "#0064c7"
+#
+msgid "#25062748"
+msgstr "#25062748"
+#
+msgid "#389416"
+msgstr "#389416"
+#
+msgid "#80000000"
+msgstr "#80000000"
+#
+msgid "#80ffffff"
+msgstr "#80ffffff"
+#
+msgid "#bab329"
+msgstr "#bab329"
+#
+msgid "#f23d21"
+msgstr "#f23d21"
+#
+msgid "#ffffff"
+msgstr "#ffffff"
+#
+msgid "#ffffffff"
+msgstr "#ffffffff"
+#
+msgid "%H:%M"
+msgstr "%H:%M"
+#
+msgid "%d %B %Y"
+msgstr ""
+#
+#, python-format
+msgid "%d / 100"
+msgstr ""
+#
+#, python-format
+msgid "%d jobs are running in the background!"
+msgstr "%d verk eru í vinnslu í bakgrunni!"
+#
+#, python-format
+msgid "%d min"
+msgstr "%d min"
+#
+#, python-format
+msgid "%d services found!"
+msgstr "%d rásir fundnar!"
+#
+#, python-format
+msgid "%s"
+msgstr ""
+#
+#, python-format
+msgid ""
+"%s\n"
+"(%s, %d MB free)"
+msgstr ""
+"%s\n"
+"(%s, %d MB laus)"
+#
+#, python-format
+msgid ""
+"%s\n"
+"Start Device Inititlization?"
+msgstr ""
+#
+#, python-format
+msgid "%s (%s)\n"
+msgstr "%s (%s)\n"
+#
+#, python-format
+msgid "%s ok?"
+msgstr ""
+#
+msgid "(ZAP)"
+msgstr "(STÖKK)"
+#
+msgid "(de)activate Picture in Picture..."
+msgstr ""
+#
+msgid "(empty)"
+msgstr "(tómt)"
+#
+msgid "(show optional DVD audio menu)"
+msgstr "(sýna viðbótar DVD hljóð valmynd)"
+#
+msgid "* Only available if more than one interface is active."
+msgstr "* Bara virkt ef að fleira en eitt tæki er virkt."
+#
+msgid "/"
+msgstr ""
+#
+msgid "0"
+msgstr "0"
+#
+msgid "1"
+msgstr "1"
+#
+msgid "1 wireless network found!"
+msgstr "fann 1 þráðlaust net!"
+#
+msgid "1-1. Serial Number (The first two or three letters of SN)"
+msgstr ""
+#
+msgid "1-2. Serial Number (The remaining numbers of SN)"
+msgstr ""
+#
+msgid "1. Drop WvDial"
+msgstr ""
+#
+msgid "1. Load a Mobile Broadband Device"
+msgstr ""
+#
+msgid "1.0"
+msgstr "1.0"
+#
+msgid "1.1"
+msgstr "1.1"
+#
+msgid "1.2"
+msgstr "1.2"
+#
+msgid "10"
+msgstr ""
+#
+msgid "12V output"
+msgstr "12V út"
+#
+msgid "13 V"
+msgstr "13 V"
+#
+msgid "15"
+msgstr ""
+#
+msgid "16:10"
+msgstr "16:10"
+#
+msgid "16:10 Letterbox"
+msgstr "16:10 Letterbox"
+#
+msgid "16:10 PanScan"
+msgstr "16:10 PanScan"
+#
+msgid "16:9"
+msgstr "16:9"
+#
+msgid "16:9 Letterbox"
+msgstr "16:9 Letterbox"
+#
+msgid "16:9 always"
+msgstr "16:9 alltaf"
+#
+msgid "18 V"
+msgstr "18 V"
+#
+msgid "2"
+msgstr "2"
+#
+msgid "2. Contact"
+msgstr ""
+#
+msgid "2. Set up a Mobile Broadband Device"
+msgstr ""
+#
+msgid "2. Unload a Mobile Broadband Device"
+msgstr ""
+#
+msgid "20"
+msgstr ""
+#
+msgid "23976"
+msgstr ""
+#
+msgid "24000"
+msgstr ""
+#
+msgid "25000"
+msgstr ""
+#
+msgid "29970"
+msgstr ""
+#
+msgid "3"
+msgstr "3"
+#
+msgid "3. Done"
+msgstr ""
+#
+msgid "3. Generate a WvDial profile"
+msgstr ""
+#
+msgid "30 minutes"
+msgstr "30 mínútur"
+#
+msgid "30000"
+msgstr ""
+#
+msgid "3D Surround"
+msgstr ""
+#
+msgid "3d mode"
+msgstr ""
+#
+msgid "4"
+msgstr "4"
+#
+msgid "4. Attempt to connect"
+msgstr ""
+#
+msgid "4:3"
+msgstr "4:3"
+#
+msgid "4:3 Letterbox"
+msgstr "4:3 Letterbox"
+#
+msgid "4:3 PanScan"
+msgstr "4:3 PanScan"
+#
+msgid "5"
+msgstr "5"
+#
+msgid "5 minutes"
+msgstr "5 mínútur"
+#
+msgid "5. Done"
+msgstr ""
+#
+msgid "50000"
+msgstr ""
+#
+msgid "59940"
+msgstr ""
+#
+msgid "6"
+msgstr "6"
+#
+msgid "60 minutes"
+msgstr "60 mínútur"
+#
+msgid "60000"
+msgstr ""
+#
+msgid "7"
+msgstr "7"
+#
+msgid "8"
+msgstr "8"
+#
+msgid "9"
+msgstr "9"
+#
+msgid ": "
+msgstr ""
+#
+msgid "<Current movielist location>"
+msgstr "<Núverandi staður bíómyndalista>"
+#
+msgid "<Default movie location>"
+msgstr "<Sjálfgefinn staður bíómynda>"
+#
+msgid "<Last timer location>"
+msgstr "<Síðasti staður tímastillinga>"
+#
+msgid "<unknown>"
+msgstr "<óþekkt>"
+#
+msgid "??"
+msgstr "??"
+#
+msgid "A"
+msgstr "A"
+#
+#, python-format
+msgid ""
+"A configuration file (%s) was modified since Installation.\n"
+"Do you want to keep your version?"
+msgstr ""
+"Stillingaskrá (%s) er breytt síðan uppsetning var gerð.\n"
+"Viltu halda þinni útgáfu?"
+#
+msgid ""
+"A finished record timer wants to set your\n"
+"STB to standby. Do that now?"
+msgstr ""
+#
+msgid ""
+"A finished record timer wants to shut down\n"
+"your STB. Shutdown now?"
+msgstr ""
+#
+msgid "A graphical EPG for all services of an specific bouquet"
+msgstr "Myndrænt EPG fyrir allar rásir á ákveðnum rásavendi"
+#
+#, python-format
+msgid ""
+"A record has been started:\n"
+"%s"
+msgstr ""
+"Upptaka hefur hafist:\n"
+"%s"
+#
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"configure the positioner."
+msgstr ""
+"Upptaka er nú í gangi. Stoppið vinsamlega upptökuna áður en að þú reynir að "
+"stilla staðsetjara."
+#
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"start the satfinder."
+msgstr ""
+"Upptaka er í gangi núna. Stoppaðu upptökuna áður en að þú byrjar "
+"gervihnattaleit."
+#
+#, python-format
+msgid "A required tool (%s) was not found."
+msgstr "Nauðsynlegt tól (%s) fannst ekki."
+#
+msgid "A search for available updates is currently in progress."
+msgstr "Leit að tiltækum uppfærslum í gangi."
+#
+msgid ""
+"A second configured interface has been found.\n"
+"\n"
+"Do you want to disable the second network interface?"
+msgstr ""
+"Annað uppsett netkort fannst.\n"
+"\n"
+"Viltu hætta að nota það?"
+#
+msgid ""
+"A sleep timer wants to set your\n"
+"STB to standby. Do that now?"
+msgstr ""
+#
+msgid ""
+"A sleep timer wants to shut down\n"
+"your STB. Shutdown now?"
+msgstr ""
+#
+msgid "A small overview of the available icon states and actions."
+msgstr "Einfalt yfirlit yfir stöðu smámynda og aðgerða."
+#
+msgid ""
+"A timer failed to record!\n"
+"Disable TV and try again?\n"
+msgstr ""
+"Tímastillt upptaka mistókst!\n"
+"Hætta og reyna aftur?\n"
+#
+msgid "A/V Settings"
+msgstr "Stilla hljóð/mynd"
+#
+msgid "A/V-Receiver power off:"
+msgstr ""
+#
+msgid "A/V-Receiver power on:"
+msgstr ""
+#
+msgid "A/V-Receiver toggle mute:"
+msgstr ""
+#
+msgid "A/V-Receiver volume down:"
+msgstr ""
+#
+msgid "A/V-Receiver volume up:"
+msgstr ""
+#
+msgid "AA"
+msgstr "AA"
+#
+msgid "AB"
+msgstr "AB"
+#
+msgid "AP Device"
+msgstr ""
+#
+msgid "AP Mode"
+msgstr ""
+#
+msgid "APN :"
+msgstr ""
+#
+msgid "ASCII"
+msgstr ""
+#
+msgid "Abort"
+msgstr "Hætta við"
+#
+msgid "About"
+msgstr "Um"
+#
+msgid "About..."
+msgstr "Um..."
+#
+msgid "Accesspoint:"
+msgstr "Aðgangspunktur:"
+#
+msgid "Action after summit"
+msgstr ""
+#
+msgid "Action on long powerbutton press"
+msgstr "Hvað skal gera ef ýtt er lengi á power takka"
+#
+msgid "Action on short powerbutton press"
+msgstr "Hvað skal gera ef ýtt er stutt á straumrofa"
+#
+msgid "Action:"
+msgstr "Aðgerð:"
+#
+msgid "Activate Picture in Picture"
+msgstr "Virkja Mynd í Mynd"
+#
+msgid "Activate network settings"
+msgstr "Virkja netkerfis stillingar"
+#
+msgid "Activation mode"
+msgstr ""
+#
+msgid "Active Source Reply On:"
+msgstr ""
+#
+msgid "Adapter settings"
+msgstr "Stilling tækis"
+#
+msgid "Add"
+msgstr "Viðbót"
+#
+msgid "Add Bookmark"
+msgstr "Bæta við bókamerki"
+#
+msgid "Add a mark"
+msgstr "Bæta við merki"
+#
+msgid "Add a new title"
+msgstr "Bæta við nýjum titli"
+#
+msgid "Add timer"
+msgstr "Taka upp"
+#
+msgid "Add title"
+msgstr "Bæta við titli"
+#
+msgid "Add to bouquet"
+msgstr "Bæta við rásavönd"
+#
+msgid "Add to favourites"
+msgstr "Bæta við eftirlætisrásir"
+#
+msgid "Additional backup -> "
+msgstr ""
+#
+msgid "Address (0~FF):"
+msgstr ""
+#
+msgid "Adjust 3D settings"
+msgstr ""
+#
+msgid "Adjust screen position"
+msgstr ""
+#
+msgid ""
+"Adjust the color settings so that all the color shades are distinguishable, "
+"but appear as saturated as possible. If you are happy with the result, press "
+"OK to close the video fine-tuning, or use the number keys to select other "
+"test screens."
+msgstr ""
+"Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinanleg og eru "
+"eins björt og hægt er. Ef þú ert ánægður með árangurinn, ýttu þá á OK til að "
+"loka stillinga skjánum eða ýttu á númeralykil til að velja aðra prufumynd."
+#
+msgid "Advanced Options"
+msgstr "Sérfræði stillingar"
+#
+msgid "Advanced Software"
+msgstr "Hugbúnaður sérfræðinga"
+#
+msgid "Advanced Software Plugin"
+msgstr "Sérfræði íforrit"
+#
+msgid "Advanced Video Enhancement Setup"
+msgstr "Myndstillingar fyrir lengra komna"
+#
+msgid "Advanced restore"
+msgstr "Sérfræði innsetning afrita"
+#
+msgid "After event"
+msgstr "Eftir atriði"
+#
+msgid ""
+"After the start wizard is completed, you need to protect single services. "
+"Refer to your STB's manual on how to do that."
+msgstr ""
+#
+msgid "Agree"
+msgstr ""
+#
+msgid "Album"
+msgstr "Album"
+#
+msgid "All"
+msgstr "Allt"
+#
+msgid "All Satellites"
+msgstr "Allir gervihnettir"
+#
+msgid "Allow removing of entries in service list"
+msgstr ""
+#
+msgid "Allow removing of system software"
+msgstr ""
+#
+msgid "Almost there... Now building the USB-Image!"
+msgstr ""
+#
+msgid "Alpha"
+msgstr "Gegnsæi"
+#
+msgid "Alpha Value"
+msgstr ""
+#
+msgid "Alternative radio mode"
+msgstr "Möguleika útvarps stilling"
+#
+msgid "Alternative services tuner priority"
+msgstr "Móttakara forgangur við rásaval"
+#
+msgid "Always ask"
+msgstr "Spyrja alltaf"
+#
+msgid "Always zap before record"
+msgstr ""
+#
+msgid "An empty filename is illegal."
+msgstr "Það þarf að vera skráarnafn."
+#
+msgid "An unknown error occured!"
+msgstr "Óþekkt villa varð!"
+#
+msgid ""
+"Another adapter connected has been found.\n"
+"\n"
+"A connection is attempted after disconnect all of other device. Do you want "
+"to?"
+msgstr ""
+#
+msgid "Arabic"
+msgstr "Arabíska"
+#
+msgid ""
+"Are you sure you want to activate this network configuration?\n"
+"\n"
+msgstr ""
+"Ertu viss um að þú viljir virkja þessa net stillingu?\n"
+"\n"
+#
+msgid ""
+"Are you sure you want to delete\n"
+"following backup:\n"
+msgstr ""
+"Ertu viss um að þú viljir eyða\n"
+"eftirfarandi afriti:\n"
+#
+msgid "Are you sure you want to exit this wizard?"
+msgstr "Ertu viss um að þú viljir hætta í ráðgjafanum?"
+#
+msgid "Are you sure you want to restart your network interfaces?\n"
+msgstr ""
+#
+msgid ""
+"Are you sure you want to restart your network interfaces?\n"
+"\n"
+msgstr ""
+"Ertu viss um að þú viljir endurræsa netkortið?\n"
+"\n"
+#
+msgid ""
+"Are you sure you want to restore\n"
+"following backup:\n"
+msgstr ""
+"Ertu viss um að þú viljir setja inn\n"
+"eftirfarandi afrit:\n"
+#
+msgid ""
+"Are you sure you want to restore your Enigma2 backup?\n"
+"Enigma2 will restart after the restore"
+msgstr ""
+"Ertu viss um að þú viljir setja inn þetta Enigma2 afrit?\n"
+"Enigma2 mun endurræsa eftir innsetningu"
+#
+msgid ""
+"Are you sure you want to setup your AP?\n"
+"\n"
+msgstr ""
+#
+msgid "Artist"
+msgstr "Listamaður"
+#
+msgid "Ask before shutdown:"
+msgstr "Spyrja áður en slökkt er:"
+#
+msgid "Ask for deleting files after canceling timers"
+msgstr ""
+#
+msgid "Ask user"
+msgstr "Spyrja notanda"
+#
+msgid "Aspect Ratio"
+msgstr "Stærðarhlutfall"
+#
+msgid "Aspect ratio"
+msgstr "Stærðar hlutfall"
+#
+msgid "Atheros"
+msgstr "Atheros"
+#
+msgid "Audio"
+msgstr "Hljóð"
+#
+msgid "Audio Options..."
+msgstr "Hljóð stillingar..."
+#
+msgid "Audio PID"
+msgstr "Hljóð PID"
+#
+msgid "Author: "
+msgstr "Höfundur:"
+#
+msgid "Authoring mode"
+msgstr "Höfunda hamur"
+#
+msgid "Auto"
+msgstr "Sjálfvirkt"
+#
+msgid "Auto chapter split every ? minutes (0=never)"
+msgstr "Skipta í kafla hverja ? mínútu (0=aldrei)"
+#
+msgid "Auto flesh"
+msgstr "Sjálfvirkt skinn"
+#
+msgid "Auto scart switching"
+msgstr "Sjálfvirk skipting á scarti"
+#
+msgid "Automatic"
+msgstr "Sjálfvirkt"
+#
+msgid "Automatic Scan"
+msgstr "Sjálfvirk leit"
+#
+msgid "Automatically set up a Mount Point"
+msgstr ""
+#
+msgid "Autoremove depended packages at package remove"
+msgstr ""
+#
+msgid "Available format variables"
+msgstr "Útfærslur tiltækra forma"
+#
+msgid "B"
+msgstr "B"
+#
+msgid "BA"
+msgstr "BA"
+#
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr ""
+#
+msgid "BB"
+msgstr "BB"
+#
+msgid "BER"
+msgstr "BER"
+#
+msgid "BER:"
+msgstr "BER:"
+#
+msgid "Back"
+msgstr "Til baka"
+#
+msgid "Back, lower USB Slot"
+msgstr "Neðra USB tengi, aftaná"
+#
+msgid "Back, upper USB Slot"
+msgstr "Efra USB tengi, aftaná"
+#
+msgid "Background"
+msgstr "Bakgrunnur"
+#
+msgid "Backspace Key"
+msgstr ""
+#
+msgid "Backup done."
+msgstr "Afritun lokið."
+#
+msgid "Backup failed."
+msgstr "Afritun tókst ekki."
+#
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr ""
+#
+msgid "Backup is running..."
+msgstr "Afritun í vinnslu..."
+#
+msgid "Backup system settings"
+msgstr "Afrita kerfis stillingar"
+#
+msgid "Band"
+msgstr "Tíðnisvið"
+#
+msgid "Bandwidth"
+msgstr "Bandbreidd"
+#
+msgid "Beacon (15~65535)"
+msgstr ""
+#
+msgid "Begin time"
+msgstr "Byrjunar tími"
+#
+msgid "Behavior of 'pause' when paused"
+msgstr "Aðgerð þegar ýtt er á pásu"
+#
+msgid "Behavior of 0 key in PiP-mode"
+msgstr "Virkun 0 hnapps í PiP-ham"
+#
+msgid "Behavior when a movie is started"
+msgstr "Aðgerð þegar mynd byrjar"
+#
+msgid "Behavior when a movie is stopped"
+msgstr "Aðgerð þegar mynd er stoppuð"
+#
+msgid "Behavior when a movie reaches the end"
+msgstr "Aðgerð þegar mynd er búin"
+#
+msgid "Bitrate"
+msgstr ""
+#
+msgid "Bitrate:"
+msgstr "Bitahraði:"
+#
+msgid "Blindscan"
+msgstr ""
+#
+msgid "Blinking time"
+msgstr ""
+#
+msgid "Block noise reduction"
+msgstr "Suð deyfing"
+#
+msgid "Blue boost"
+msgstr "Auka bláan"
+#
+msgid "Bookmark"
+msgstr ""
+#
+msgid "Bookmark Title"
+msgstr ""
+#
+msgid "Bookmark URL"
+msgstr ""
+#
+#, python-format
+msgid "Bookmark for button %s:"
+msgstr ""
+#
+msgid "Bookmark for button %s (long):"
+msgstr ""
+#
+msgid "Bookmarks"
+msgstr "Bókamerki"
+#
+msgid "Brightness"
+msgstr "Birta"
+#
+msgid "Browser Help"
+msgstr ""
+#
+msgid "Browser Start/Stop"
+msgstr ""
+#
+msgid "BrowserMain"
+msgstr ""
+#
+msgid "Burn DVD"
+msgstr "Brenna DVD"
+#
+msgid "Burn existing image to DVD"
+msgstr "Brenna tilbúna mynd á DVD"
+#
+msgid "Burn to DVD"
+msgstr "Brenna á DVD"
+#
+msgid "Bus: "
+msgstr "Rás:"
+#
+msgid ""
+"By pressing the OK Button on your remote control, the info bar is being "
+"displayed."
+msgstr ""
+"Með því að ýta á OK takkann á fjárstýringunni þá sést upplýsingaborðinn á "
+"skjánum."
+#
+msgid "Bypass HDMI EDID Check"
+msgstr ""
+#
+msgid "C"
+msgstr "C"
+#
+msgid "C-Band"
+msgstr "C-Band"
+#
+msgid ""
+"CAM1_NOT_INSERTED\n"
+"Press exit!"
+msgstr ""
+#
+msgid ""
+"CAM2_NOT_INSERTED\n"
+"Press exit!"
+msgstr ""
+#
+msgid "CI assignment"
+msgstr "CI stillingar"
+#
+msgid "CVBS"
+msgstr "CVBS"
+#
+msgid "Cable"
+msgstr "Kapalkerfi"
+#
+msgid "Cache Thumbnails"
+msgstr "Taka nyndir í skyndiminni"
+#
+msgid "Can NOT generate passphrase"
+msgstr ""
+#
+#, python-format
+msgid "Can not change the partition ID for %s"
+msgstr ""
+#
+msgid "Can not find any WirelessLan Module\n"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Can not format device /dev/%s.\n"
+"refresh partition information failed!"
+msgstr ""
+#
+msgid "Can not open 'fan_pwm'"
+msgstr ""
+#
+msgid "Can not setup WirelessLan Module in 'AP Mode'\n"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Can not umount device /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Can not use this mount point.(%s) \n"
+"Please select another mount point."
+msgstr ""
+#
+msgid "Can't cancel during upgrade!!"
+msgstr ""
+#
+msgid ""
+"Can't disconnect doring connecting..\n"
+"Do you want to forcibly exit?"
+msgstr ""
+#
+msgid "Can't download the checksum file."
+msgstr ""
+#
+msgid "Can't download the firmware file."
+msgstr ""
+#
+msgid "Can't find /usr/bin/md5sum"
+msgstr ""
+#
+msgid "Can't found MD5 file."
+msgstr ""
+#
+msgid "Can't found binary file."
+msgstr ""
+#
+msgid "Can't found device file!!"
+msgstr ""
+#
+msgid "Can't found model name."
+msgstr ""
+#
+msgid ""
+"Can't open selected bookmark.\n"
+"   - URL data is empty!!"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Can't umount %s. \n"
+"Maybe device or resource busy."
+msgstr ""
+#
+msgid "Cancel"
+msgstr "Hætta við"
+#
+msgid "Capacity: "
+msgstr "Stærð:"
+#
+msgid "Card"
+msgstr "Kort"
+#
+msgid "Catalan"
+msgstr "Katalónska"
+#
+msgid "Category Name"
+msgstr ""
+#
+msgid "Change bouquets in quickzap"
+msgstr "Skipta á milli rása flétta í rásastökki"
+#
+msgid "Change pin code"
+msgstr "Breyta aðgangskóða"
+#
+msgid "Change service PIN"
+msgstr "Breyta aðgangsorði fyrir rásir"
+#
+msgid "Change service PINs"
+msgstr "Breyta aðgangsorðum fyrir rásir"
+#
+msgid "Change setup PIN"
+msgstr "Breyta aðgangsorði fyrir uppsetningu"
+#
+msgid "Change step size"
+msgstr "Breyta skrefa stærð"
+#
+msgid "Channel"
+msgstr "Rás"
+#
+msgid "Channel (1~13)"
+msgstr ""
+#
+msgid "Channel Selection"
+msgstr "Rása val"
+#
+msgid "Channel not in services list"
+msgstr "Rás ekki á rásalista"
+#
+msgid "Channel:"
+msgstr "Rás:"
+#
+msgid "Channellist menu"
+msgstr "Valmynd rásalista"
+#
+msgid "Chap."
+msgstr "Kafli."
+#
+msgid "Chapter"
+msgstr "Kafli"
+#
+msgid "Chapter:"
+msgstr "Kafli:"
+#
+msgid "Check"
+msgstr "Athuga"
+#
+msgid "Check filesystem, please wait ..."
+msgstr ""
+#
+msgid "Checking Filesystem..."
+msgstr "Athuga skráarkerfi..."
+#
+msgid "Choice filesystem."
+msgstr ""
+#
+msgid "Choose A/V-Receiver HDMI input:"
+msgstr ""
+#
+msgid "Choose TV HDMI input:"
+msgstr ""
+#
+msgid "Choose Tuner"
+msgstr "Veldu móttakara"
+#
+msgid "Choose a timer list style"
+msgstr ""
+#
+msgid "Choose a wireless network"
+msgstr "Velja þráðlaust net"
+#
+msgid "Choose backup files"
+msgstr "Veldu afrits skrár"
+#
+msgid "Choose backup location"
+msgstr "Veldu stað fyrir afrit"
+#
+msgid "Choose bouquet"
+msgstr "Veldu fléttu"
+#
+msgid "Choose folder"
+msgstr ""
+#
+msgid "Choose remote control picture for help screen"
+msgstr ""
+#
+msgid "Choose target folder"
+msgstr "Velja úttaks möppu"
+#
+msgid "Choose upgrade source"
+msgstr "Veldu uppfærslu uppruna"
+#
+msgid "Choose your Skin"
+msgstr "Veldu skinn"
+#
+msgid "Circular left"
+msgstr "Hringpólun vinstri"
+#
+msgid "Circular right"
+msgstr "Hringpólun hægri"
+#
+msgid "Cleanup"
+msgstr "Hreinsa"
+#
+msgid "Clear before scan"
+msgstr "Eyða fyrir leit"
+#
+msgid "Clear log"
+msgstr "Tæma lista"
+#
+msgid "Close"
+msgstr "Loka"
+#
+msgid "Close title selection"
+msgstr "Loka titils vali"
+#
+msgid "Code rate HP"
+msgstr "Bitahraði HP"
+#
+msgid "Code rate LP"
+msgstr "Bitahraði LP"
+#
+msgid "Collection name"
+msgstr "Nafn safns"
+#
+msgid "Collection settings"
+msgstr "Stillingar safns"
+#
+msgid "Color Format"
+msgstr "Lita kerfi"
+#
+msgid "Colorize movie list"
+msgstr ""
+#
+msgid "Command execution..."
+msgstr "Keyrsla skipunar..."
+#
+msgid "Command order"
+msgstr "Röðun skipana"
+#
+msgid "Committed DiSEqC command"
+msgstr "Fyrsta DiSEqC rofa stýring"
+#
+msgid "Common Interface"
+msgstr "Afruglara tengi"
+#
+msgid "Common Interface Assignment"
+msgstr "Stillingar afruglara tengis"
+#
+msgid "CommonInterface"
+msgstr "Afruglaratengi"
+#
+msgid "Communication"
+msgstr "Samskipti"
+#
+msgid "Compact Flash"
+msgstr "Compact Flash"
+#
+msgid "Complete"
+msgstr "Allt"
+#
+msgid "Complex (allows mixing audio tracks and aspects)"
+msgstr "Flókið (mögulegt að blanda hljóð rásir og stærðar hlutföll)"
+#
+msgid "Composition of the recording filenames"
+msgstr "Samsetning nafna á upptökum"
+#
+msgid "Configuration Mode"
+msgstr "Stillinga hamur"
+#
+msgid "Configuration your AP is finished"
+msgstr ""
+#
+msgid "Configure interface"
+msgstr "Stilla netkort"
+#
+msgid "Configure your internal LAN"
+msgstr "Stilla innbyggt netkort"
+#
+msgid "Configure your network again"
+msgstr "Stilla netkortið þitt aftur"
+#
+msgid "Configure your wireless LAN again"
+msgstr "Stilla þráðlausa netkortið þitt aftur"
+#
+msgid "Configuring"
+msgstr "Stilli"
+#
+msgid "Conflicting timer"
+msgstr "Tímastilling skarast"
+#
+msgid "Connect"
+msgstr "Tengi"
+#
+msgid "Connect to a Wireless Network"
+msgstr "Tengist við þráðlaust net"
+#
+msgid "Connected to"
+msgstr "Tengd við"
+#
+msgid "Connected!"
+msgstr "Tengdur!"
+#
+msgid "Constellation"
+msgstr "Constellation"
+#
+msgid "Content does not fit on DVD!"
+msgstr "Innihald passar ekki á DVD!"
+#
+msgid "Continue"
+msgstr "Áfram"
+#
+msgid "Continue Timeshift"
+msgstr ""
+#
+msgid "Continue in background"
+msgstr "Halda áfram í bakgrunni"
+#
+msgid "Continue playing"
+msgstr "Halda áfram að spila"
+#
+msgid "Contrast"
+msgstr "Skerpa"
+#
+msgid "Copy"
+msgstr ""
+#
+msgid "Could not load Medium! No disc inserted?"
+msgstr "Gat ekki lesið disk! Er enginn diskur í drifi?"
+#
+msgid "Could not open Picture in Picture"
+msgstr "Gat ekki opnað mynd í mynd"
+#
+#, python-format
+msgid "Couldn't record due to conflicting timer %s"
+msgstr "Gat ekki tekið upp vegna skörunar á tímastillingum %s"
+#
+#, python-format
+msgid "Couldn't record due to invalid service %s"
+msgstr "Gat ekki tekið upp vegna þess að rásin %s er ekki í lagi"
+#
+msgid "Crashlog Reporting"
+msgstr ""
+#
+msgid "CrashlogReport setting"
+msgstr ""
+#
+msgid "CrashlogReportSetting"
+msgstr ""
+#
+msgid "Create DVD-ISO"
+msgstr "Búa til DVD-ISO"
+#
+msgid "Create directory"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Create directory failed!\n"
+"%s"
+msgstr ""
+#
+msgid "Create filesystem, please wait ..."
+msgstr ""
+#
+msgid "Create movie folder failed"
+msgstr "Tókst ekki að búa til bíómyndamöppu"
+#
+msgid "Create: kerneldump"
+msgstr ""
+#
+msgid "Create: root.ubifs"
+msgstr ""
+#
+#, python-format
+msgid "Creating directory %s failed."
+msgstr "Tókst ekki að búa möppuna %s."
+#
+msgid "Creating filesystem Error"
+msgstr ""
+#
+msgid "Creating partition failed"
+msgstr "Tókst ekki að búa til diskhluta"
+#
+msgid "Croatian"
+msgstr "Króatíska"
+#
+msgid "Current Page"
+msgstr ""
+#
+msgid "Current Transponder"
+msgstr "Núverandi sendir"
+#
+msgid "Current device: "
+msgstr "Núverandi tæki: "
+#
+msgid "Current page is already exist."
+msgstr ""
+#
+msgid "Current settings (interface : br0)"
+msgstr ""
+#
+msgid "Current settings:"
+msgstr "Núverandi stilling:"
+#
+msgid "Current value: "
+msgstr "Núverandi val:"
+#
+msgid "Currentpage(Bookmark)"
+msgstr ""
+#
+msgid "Custom skip time for '1'/'3'-keys"
+msgstr "Stilltur stökktími fyrir 1 og 3 takka"
+#
+msgid "Custom skip time for '4'/'6'-keys"
+msgstr "Stilltur stökk fyrir 4 og 6 takka"
+#
+msgid "Custom skip time for '7'/'9'-keys"
+msgstr "Stilltur stökk fyrir 7 og 9 takka"
+#
+msgid "Customize"
+msgstr "Aðrar stillingar"
+#
+msgid "Cut"
+msgstr "Klippa"
+#
+msgid "Cutlist editor..."
+msgstr "Klippingastjóri..."
+#
+msgid "Czech"
+msgstr "Tékkneska"
+#
+msgid "D"
+msgstr "D"
+#
+msgid "DAC"
+msgstr ""
+#
+msgid "DHCP"
+msgstr "DHCP"
+#
+msgid "DLNA/uPnP Browser"
+msgstr ""
+#
+msgid "DUAL LAYER DVD"
+msgstr "Tveggja laga DVD"
+#
+msgid "DVB subtitle transparency"
+msgstr ""
+#
+msgid "DVB-S"
+msgstr "DVB-S"
+#
+msgid "DVB-S2"
+msgstr "DVB-S2"
+#
+msgid "DVD Drive"
+msgstr "DVD drif"
+#
+msgid "DVD File Browser"
+msgstr "DVD skráar stjóri"
+#
+msgid "DVD Player"
+msgstr "DVD spilari"
+#
+msgid "DVD Titlelist"
+msgstr "DVD titlaskrá"
+#
+msgid "DVD media toolbox"
+msgstr "DVD miðla tól"
+#
+msgid "Danish"
+msgstr "Danska"
+#
+msgid "Date"
+msgstr "Dags"
+#
+msgid "Deep Standby"
+msgstr "Djúp biðstaða"
+#
+msgid "Deep Standby with WOL"
+msgstr ""
+#
+msgid "DeepStandby"
+msgstr ""
+#
+msgid "Default"
+msgstr "Venjulegt"
+#
+msgid "Default EPG view (EPG button)"
+msgstr ""
+#
+msgid "Default Settings"
+msgstr "Upphafs stillingar"
+#
+msgid "Default movie location"
+msgstr "Sjálfgefin staðsetning bíómynda"
+#
+msgid "Default services lists"
+msgstr "Sjálfgefinn rásalisti"
+#
+msgid "Delay"
+msgstr "Seinkun"
+#
+msgid "Delete"
+msgstr "Eyða"
+#
+#, python-format
+msgid ""
+"Delete directory failed!\n"
+"%s"
+msgstr ""
+#
+msgid ""
+"Delete directory failed!\n"
+"Maybe directory is not empty."
+msgstr ""
+#
+msgid "Delete entry"
+msgstr "Eyða innslætti"
+#
+msgid "Delete failed!"
+msgstr "Tókst ekki að eyða!"
+#
+#, python-format
+msgid ""
+"Delete no more configured satellite\n"
+"%s?"
+msgstr ""
+"Ekki eyða fleiri innstilltum gervihnöttum\n"
+"%s?"
+#
+msgid "Depth"
+msgstr ""
+#
+msgid "Description"
+msgstr "Lýsing"
+#
+msgid "Deselect"
+msgstr "Ekki velja"
+#
+msgid "Details for plugin: "
+msgstr "Upplýsingar um íforrit:"
+#
+msgid "Detected HDD:"
+msgstr "Fann harðan disk:"
+#
+msgid "Detected NIMs:"
+msgstr "Fann NIM:"
+#
+msgid "Device Initialization finished sucessfully!"
+msgstr ""
+#
+msgid "Device not found."
+msgstr ""
+#
+msgid "DeviceList Refresh Interval"
+msgstr ""
+#
+msgid "DeviceManager"
+msgstr ""
+#
+msgid "DeviceManager configuration"
+msgstr ""
+#
+msgid "Devices"
+msgstr ""
+#
+msgid "DiSEqC"
+msgstr "DiSEqC"
+#
+msgid "DiSEqC A/B"
+msgstr "DiSEqC A/B"
+#
+msgid "DiSEqC A/B/C/D"
+msgstr "DiSEqC A/B/C/D"
+#
+msgid "DiSEqC mode"
+msgstr "DiSEqC gerð"
+#
+msgid "DiSEqC repeats"
+msgstr "DiSEqC endurtekning"
+#
+msgid "DiSEqC-Tester settings"
+msgstr "DiSEqC prufu stillingar"
+#
+msgid "Dialing:"
+msgstr "Hringi:"
+#
+msgid "Digital contour removal"
+msgstr "Fjarlægja stafrænt contour"
+#
+msgid "Direct Input"
+msgstr ""
+#
+msgid "Direct Input(Bookmark)"
+msgstr ""
+#
+msgid "Direct Input(Category)"
+msgstr ""
+#
+msgid "Direct playback of linked titles without menu"
+msgstr "Spila beint tengda titla án valmyndar"
+#
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr "Mappa %s ekki til."
+#
+msgid "Directory browser"
+msgstr "Möppu vafri"
+#
+msgid "Disable"
+msgstr "Gera óvirkt"
+#
+msgid "Disable Picture in Picture"
+msgstr "Gera Mynd í Mynd óvirka"
+#
+msgid "Disable Subtitles"
+msgstr "Ekki undirtexta"
+#
+msgid "Disable auto update of channel list"
+msgstr ""
+#
+msgid "Disable infobar timeout for ok button"
+msgstr ""
+#
+msgid "Disable timer"
+msgstr "Slökkva á tímastillingu"
+#
+msgid "Disable tuner failure popup"
+msgstr ""
+#
+msgid "Disabled"
+msgstr "Óvirkt"
+#
+msgid "Disconnect"
+msgstr "Aftengja"
+#
+msgid "Dish"
+msgstr "Diskur"
+#
+msgid "Display Setup"
+msgstr "Uppsetning skjás"
+#
+msgid "Display and Userinterface"
+msgstr "Skjár og notenda viðmót"
+#
+msgid "Do not zap to not available services"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Do you really want to REMOVE\n"
+"the plugin \"%s\"?"
+msgstr ""
+"Viltu örugglega eyða EYÐA\n"
+"íforriti \"%s\"?"
+#
+msgid ""
+"Do you really want to check the filesystem?\n"
+"This could take lots of time!"
+msgstr ""
+"Viltu örugglega athuga skráarkerfi?\n"
+"Það tekur langan tíma!"
+#
+#, python-format
+msgid "Do you really want to delete %s?"
+msgstr "Viltu virkilega eyða %s?"
+#
+#, python-format
+msgid ""
+"Do you really want to download\n"
+"the plugin \"%s\"?"
+msgstr ""
+"Viltu örugglega hala niður\n"
+"íforritinu \"%s\"?"
+#
+msgid "Do you really want to exit?"
+msgstr "Viltu virkilega hætta?"
+#
+msgid ""
+"Do you really want to initialize the device?\n"
+"All data on the device will be lost!"
+msgstr ""
+#
+msgid ""
+"Do you really want to initialize the harddisk?\n"
+"All data on the disk will be lost!"
+msgstr ""
+"Viltu örugglega frumstilla harða diskinn?\n"
+"Öll gögn eyðast af diskinum!"
+#
+#, python-format
+msgid "Do you really want to remove directory %s from the disk?"
+msgstr "Viltu örugglega eyða möppunni %s af diskinum?"
+#
+#, python-format
+msgid "Do you really want to remove your bookmark of %s?"
+msgstr "Viltu örugglega eyða bókamerkinu %s?"
+#
+msgid "Do you want to burn this collection to DVD medium?"
+msgstr "Viltu brenna þessa skráar safn á DVD disk?"
+#
+msgid "Do you want to delete recording files of stopped timer ?"
+msgstr ""
+#
+msgid "Do you want to delete the bookmark?"
+msgstr ""
+#
+msgid "Do you want to delete the category and the bookmarks?"
+msgstr ""
+#
+msgid "Do you want to disconnect?"
+msgstr ""
+#
+msgid "Do you want to do a service scan?"
+msgstr "Viltu leita að rásum?"
+#
+msgid "Do you want to do another manual service scan?"
+msgstr "Viltu leita aftur handvirkt?"
+#
+msgid "Do you want to enable the parental control feature on your STB?"
+msgstr ""
+#
+msgid "Do you want to install default sat lists?"
+msgstr "Viltu setja inn sjálfgefinn gervihnatta lista?"
+#
+msgid "Do you want to install the package:\n"
+msgstr "Viltu setja inn pakkann:\n"
+#
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully "
+"automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+#
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+#
+msgid "Do you want to play DVD in drive?"
+msgstr "Viltu spila DVD diskinn sem er í spilaranum?"
+#
+msgid "Do you want to preview this DVD before burning?"
+msgstr "Viltu forskoða þennan DVD disk fyrir brennslu?"
+#
+msgid "Do you want to reboot your STB?"
+msgstr ""
+#
+msgid "Do you want to remove binary data?"
+msgstr ""
+#
+msgid "Do you want to remove the package:\n"
+msgstr "Viltu taka út pakkann:\n"
+#
+msgid "Do you want to restore your settings?"
+msgstr "Viltu setja inn stillingarnar þínar aftur?"
+#
+msgid "Do you want to resume this playback?"
+msgstr "Viltu halda áfram að spila þetta?"
+#
+msgid "Do you want to set selected url to the Startpage?"
+msgstr ""
+#
+msgid "Do you want to shut down?"
+msgstr ""
+#
+msgid "Do you want to update your STB?"
+msgstr ""
+#
+msgid ""
+"Do you want to update your STB?\n"
+"After pressing OK, please wait!"
+msgstr ""
+#
+msgid "Do you want to upgrade the package:\n"
+msgstr "Viltu uppfæra pakkann:\n"
+#
+msgid ""
+"Do you want to use VTi BackupSuite to restore your settings, plugins or "
+"favourite bouquets ?"
+msgstr ""
+#
+msgid ""
+"Do you want to use VTi ZerO to remove some packages which you do not need ?"
+msgstr ""
+#
+msgid "Do you want to view a tutorial?"
+msgstr "Viltu horfa á kennslu?"
+#
+msgid "Dolby Digital / DTS downmix"
+msgstr ""
+#
+msgid "Dolby Digital default"
+msgstr ""
+#
+msgid "Dolby Digital downmix"
+msgstr ""
+#
+msgid "Don't stop current event but disable coming events"
+msgstr "Ekki stoppa núverandi atriði en hætta við næsta"
+#
+#, python-format
+msgid "Done - Installed or upgraded %d packages"
+msgstr "Búinn - %d pakkar settir inn eða uppfærðir"
+#
+#, python-format
+msgid "Done - Installed, upgraded or removed %d packages with %d errors"
+msgstr "Búin, setti inn, uppfærði eða tót út %d pakka með %d villum"
+#
+msgid "Down Key"
+msgstr ""
+#
+msgid "Download"
+msgstr "Hlaða niður"
+#
+msgid "Download Plugins"
+msgstr "Hala niður íforritum"
+#
+msgid "Downloadable new plugins"
+msgstr "Niðurhalanleg ný íforrit"
+#
+msgid "Downloadable plugins"
+msgstr "Niðurhalanleg íforrit"
+#
+msgid "Downloaded "
+msgstr ""
+#
+#, python-format
+msgid ""
+"Downloaded : %s\n"
+"Press OK to select, Press Cancel to exit."
+msgstr ""
+#
+msgid "Downloading"
+msgstr "Hleð niður"
+#
+msgid "Downloading plugin information. Please wait..."
+msgstr "Hala niður íforrits upplýsingum. Vinsamlega bíðið..."
+#
+msgid "Downloading..."
+msgstr ""
+#
+msgid "Duo/Solo was not support."
+msgstr ""
+#
+msgid "Dutch"
+msgstr "Hollenska"
+#
+msgid "Dynamic contrast"
+msgstr "Dýnamísk skerpa"
+#
+msgid "EPG Selection"
+msgstr "EPG val"
+#
+#, python-format
+msgid "ERROR - failed to scan (%s)!"
+msgstr "VILLA - gat ekki leitað (%s)!"
+#
+msgid "ESSID"
+msgstr ""
+#
+msgid "East"
+msgstr "Austur"
+#
+msgid "Edit"
+msgstr "Breyta"
+#
+msgid "Edit Title"
+msgstr "Breyta titli"
+#
+msgid "Edit bouquets list"
+msgstr "Breyta rásavanda lista"
+#
+msgid "Edit chapters of current title"
+msgstr "Breyta köflum núverandi titils"
+#
+msgid "Edit services list"
+msgstr "Breyta rása lista"
+#
+msgid "Edit settings"
+msgstr "Breyta stillingum"
+#
+msgid "Edit the Nameserver configuration of your STB.\n"
+msgstr ""
+#
+msgid "Edit the network configuration of your STB.\n"
+msgstr ""
+#
+msgid "Edit title"
+msgstr "Breyta titili"
+#
+msgid "Edit upgrade source url."
+msgstr "Breyta uppfærslu uppruna slóð."
+#
+msgid "EditSetting"
+msgstr ""
+#
+msgid "Electronic Program Guide"
+msgstr "Rafrænn dagskrárstjóri (EPG)"
+#
+msgid "Enable"
+msgstr "Virkja"
+#
+msgid "Enable 128 bit (Input 26 hex keys)"
+msgstr ""
+#
+msgid "Enable 5V for active antenna"
+msgstr "Kveikja á 5V fyrir loftnet með magnara"
+#
+msgid "Enable 64 bit (Input 10 hex keys)"
+msgstr ""
+#
+msgid "Enable Autostart for DLNA Server"
+msgstr ""
+#
+msgid "Enable Logging"
+msgstr ""
+#
+msgid "Enable Standby Settings"
+msgstr ""
+#
+msgid "Enable TeleText caching"
+msgstr ""
+#
+msgid "Enable autostart for HbbTV browser"
+msgstr ""
+#
+msgid "Enable mount automatically while start"
+msgstr ""
+#
+msgid "Enable mount check for HDD : "
+msgstr ""
+#
+msgid "Enable multiple bouquets"
+msgstr "Virkja marga rásavendi"
+#
+msgid "Enable parental control"
+msgstr "Virkja foreldra stýringu"
+#
+msgid "Enable timer"
+msgstr "Virkja tímastillingu"
+#
+msgid "Enabled"
+msgstr "Virkt"
+#
+msgid "Encrypt"
+msgstr ""
+#
+msgid "Encrypted: "
+msgstr "Kóðun:"
+#
+msgid "Encryption"
+msgstr "Kóðun"
+#
+msgid "Encryption Key"
+msgstr "Kóðunar lykill"
+#
+msgid "Encryption Keytype"
+msgstr "Kóðunar lykilgerð"
+#
+msgid "Encryption:"
+msgstr "Kóðun:"
+#
+msgid "End time"
+msgstr "Loka tími"
+#
+msgid "EndTime"
+msgstr "EndaTími"
+#
+msgid "English"
+msgstr "Enska"
+#
+msgid ""
+"Enigma2 Skinselector\n"
+"\n"
+"If you experience any problems please contact\n"
+"stephan@reichholf.net\n"
+"\n"
+" 2006 - Stephan Reichholf"
+msgstr ""
+#
+msgid "Enter Key"
+msgstr ""
+#
+msgid "Enter main menu..."
+msgstr "Fara í aðal valmynd..."
+#
+msgid "Enter pin code"
+msgstr "Slá inn kóða"
+#
+msgid "Enter the service pin"
+msgstr "Sláðu inn rása kóða"
+#
+msgid "Enter your input data"
+msgstr ""
+#
+msgid "Error"
+msgstr "Villa"
+#
+msgid "Error checking disk. The disk or filesystem may be damaged"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Error: %s\n"
+"Retry?"
+msgstr ""
+"Villa: %s\n"
+"Reyna aftur?"
+#
+#, python-format
+msgid ""
+"Error[%d] : %s.\n"
+"Press OK to exit."
+msgstr ""
+#
+msgid "Estonian"
+msgstr "Eistneska"
+#
+msgid "Ethernet network interface"
+msgstr "Ethernet netkort"
+#
+msgid "Event Description"
+msgstr ""
+#
+msgid "Eventview"
+msgstr "Skoða atriði"
+#
+msgid "Everything is fine"
+msgstr "Allt er í þessu fína"
+#
+msgid "Exceeds dual layer medium!"
+msgstr "Þarf meira en tveggja laga disk!"
+#
+msgid "Execution Progress:"
+msgstr "Framganga keyrslu:"
+#
+msgid "Execution finished!!"
+msgstr "Keyrslu lokið!!"
+#
+msgid "Exif"
+msgstr "Exif"
+#
+msgid "Exit"
+msgstr "Hætta"
+#
+msgid "Exit editor"
+msgstr "Hætta í breytingum"
+#
+msgid "Exit input device selection."
+msgstr "Hætta í inntaks tækja vali."
+#
+msgid "Exit network wizard"
+msgstr "Hætta í netkerfis ráðgjafa"
+#
+msgid "Exit the Opera browser."
+msgstr ""
+#
+msgid "Exit the wizard"
+msgstr "Hætta í ráðgjafa"
+#
+msgid "Exit wizard"
+msgstr "Hætta í ráðgjafa"
+#
+msgid "Expert"
+msgstr "Sérfræði"
+#
+msgid "Extended Networksetup Plugin..."
+msgstr "Íforrit fyrir nánari stillingar netkerfis..."
+#
+msgid "Extended Setup..."
+msgstr "Viðbótar stillingar..."
+#
+msgid "Extended Software"
+msgstr "Viðbótar forrit"
+#
+msgid "Extended Software Plugin"
+msgstr "Viðbótar hugbúnaðar íforrit"
+#
+msgid "Extensions"
+msgstr "Viðbætur"
+#
+msgid "Extensions management"
+msgstr "Viðbóta umsýsla"
+#
+msgid "F"
+msgstr ""
+#
+msgid "FEC"
+msgstr "FEC"
+#
+msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
+msgstr ""
+#
+msgid "FLASH IS BROKEN"
+msgstr ""
+#
+msgid "FPGA"
+msgstr ""
+#
+msgid "FPGA Upgrade"
+msgstr ""
+#
+msgid "FRAGM Threshold (256~2346)"
+msgstr ""
+#
+msgid "FTP"
+msgstr ""
+#
+msgid "Factory reset"
+msgstr "Verksmiðju stilling"
+#
+msgid "Factory reset fail"
+msgstr ""
+#
+msgid "Fail to download."
+msgstr ""
+#
+msgid "Fail to update!!"
+msgstr ""
+#
+msgid "Fail to upgrade!! Retry!!"
+msgstr ""
+#
+msgid ""
+"Fail to upgrade.\n"
+"Cause : "
+msgstr ""
+#
+msgid ""
+"Fail to upgrade.\n"
+"Cause : Can't found device.\n"
+"Do you want to exit?"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Fail to verify data file. \n"
+"file[%s]\n"
+"md5[%s]"
+msgstr ""
+#
+msgid "Failed"
+msgstr "Tókst ekki"
+#
+msgid "Fallback to default skin at skin errors"
+msgstr ""
+#
+#, python-format
+msgid "Fan %d"
+msgstr "Vifta %d"
+#
+msgid "Fan Control"
+msgstr ""
+#
+msgid "Fan basic action"
+msgstr ""
+#
+msgid "Fan control"
+msgstr ""
+#
+msgid "Fan off duration time"
+msgstr ""
+#
+msgid "Fan on duration time"
+msgstr ""
+#
+msgid "FanOFF InStanby"
+msgstr ""
+#
+msgid "Fast"
+msgstr "Hratt"
+#
+msgid "Fast DiSEqC"
+msgstr "Hratt DiSEqC"
+#
+msgid "Fast Forward speeds"
+msgstr "Hraðspólunar hraði áfram"
+#
+msgid "Fast epoch"
+msgstr "Hratt tímabil"
+#
+msgid "Favourites"
+msgstr "Eftirlætis listar"
+#
+msgid "File"
+msgstr ""
+#
+msgid ""
+"File not Found!\n"
+"/proc/bus/nim_sockets"
+msgstr ""
+#
+msgid "File not found"
+msgstr ""
+#
+msgid "File transfer was cancelled by user"
+msgstr ""
+#
+msgid "Filesystem Check"
+msgstr "Skráarkerfis athugun"
+#
+msgid "Filesystem check finished sucessfully"
+msgstr ""
+#
+msgid "Filesystem contains uncorrectable errors"
+msgstr "Skráarkerfi inniheldur alvarlegar villur sem ekki er hægt að laga"
+#
+msgid "Finetune"
+msgstr "Fínstilla"
+#
+msgid "Finished"
+msgstr "Búið"
+#
+msgid "Finished configuring your network"
+msgstr "Búið að stilla netkerfið"
+#
+msgid "Finished restarting your network"
+msgstr "Búið að endurræsa netkerfið"
+#
+msgid "Finnish"
+msgstr "Finnska"
+#
+msgid "Firmware"
+msgstr ""
+#
+msgid "Firmware Upgrade"
+msgstr ""
+#
+msgid "Firmware does not exist."
+msgstr ""
+#
+msgid "Follow the instructions on the front-display."
+msgstr ""
+#
+msgid "Following tasks will be done after you press OK!"
+msgstr "Eftirfarandi aðgerðir verða framkvæmdar eftir að þú ýtir á OK!"
+#
+msgid "For use this plugin, you must update the kernel version to 3.1 or later"
+msgstr ""
+#
+msgid "Format"
+msgstr "Forma"
+#
+msgid "Format filesystem, please wait ..."
+msgstr ""
+#
+msgid "Format finished sucessfully."
+msgstr ""
+#
+msgid "Frame size in full view"
+msgstr "Stærð ramma í fullri stærð"
+#
+msgid "Framerate"
+msgstr ""
+#
+#, python-format
+msgid "Free : %s"
+msgstr ""
+#
+msgid "French"
+msgstr "Franska"
+#
+msgid "Frequency"
+msgstr "Tíðni"
+#
+msgid "Frequency bands"
+msgstr "Tíðni bönd"
+#
+msgid "Frequency scan step size(khz)"
+msgstr "Skref við tíðnileit (khz)"
+#
+msgid "Frequency steps"
+msgstr "Tíðniskref"
+#
+msgid "Fri"
+msgstr "Fös"
+#
+msgid "Friday"
+msgstr "Föstudagur"
+#
+msgid "Frisian"
+msgstr "Frísneska"
+#
+msgid "Front LED OK?"
+msgstr ""
+#
+msgid ""
+"Front LED OK?\n"
+"\n"
+"yes-ok\n"
+"no-exit"
+msgstr ""
+#
+msgid "Front Processor"
+msgstr ""
+#
+msgid "Front USB Slot"
+msgstr "USB tengi að framan"
+#
+#, python-format
+msgid "Frontprocessor version: %d"
+msgstr "Útgáfa framheila: %d"
+#
+msgid "Fsck failed"
+msgstr "Fsck villa"
+#
+msgid "Full 1:1 back-up direct on USB"
+msgstr ""
+#
+msgid "Full 1:1 back-up in USB format"
+msgstr ""
+#
+msgid "Full back-up direct to USB"
+msgstr ""
+#
+msgid "Full back-up on HDD"
+msgstr ""
+#
+msgid "Full back-up on HDD/USB"
+msgstr ""
+#
+msgid "Full back-up to USB"
+msgstr ""
+#
+msgid "Full back-up to the harddisk"
+msgstr ""
+#
+msgid "G"
+msgstr ""
+#
+msgid ""
+"GUI needs a restart to apply a new skin\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Gluggakerfi þarf að endurræsa til að virkja nýtt skinn\n"
+"Viltu endurræsa gluggakerfi núna?"
+#
+msgid "GUI restart now, press 'OK' button."
+msgstr ""
+#
+msgid "Gateway"
+msgstr "Beinir"
+#
+msgid "General Dolby Digital delay (ms)"
+msgstr ""
+#
+msgid "General PCM delay (ms)"
+msgstr "Heildar PCM seinkun (ms)"
+#
+msgid "Genre"
+msgstr "Gerð"
+#
+msgid "German"
+msgstr "Þýska"
+#
+msgid "Getting plugin information. Please wait..."
+msgstr "Næ í upplýsingar um íforrit. Vinsamlega bíðið..."
+#
+msgid "Global"
+msgstr ""
+#
+msgid "Go to next page."
+msgstr ""
+#
+msgid "Go to previous page."
+msgstr ""
+#
+msgid "Goto 0"
+msgstr "Fara á 0"
+#
+msgid "Goto position"
+msgstr "Fara á staðsetningu"
+#
+msgid "Graphical Multi EPG"
+msgstr "Myndrænn dagskrárstjóri (EPG)"
+#
+msgid "Greek"
+msgstr "Gríska"
+#
+msgid "Green boost"
+msgstr "Auka grænan"
+#
+msgid "Group Rekey Interval"
+msgstr ""
+#
+msgid "Guard interval"
+msgstr "Guard interval"
+#
+msgid "HDMI"
+msgstr ""
+#
+msgid "HDMI CEC enabled:"
+msgstr ""
+#
+msgid "HDMI-CEC"
+msgstr ""
+#
+msgid "HEX"
+msgstr ""
+#
+msgid "Harddisk"
+msgstr "Harður diskur"
+#
+msgid "Harddisk setup"
+msgstr "Uppsetning harða disks"
+#
+msgid "Harddisk standby after"
+msgstr "Harði diskur í biðstöðu eftir"
+#
+msgid "Harddisk standby after : "
+msgstr ""
+#
+msgid "HbbTV Applications"
+msgstr ""
+#
+msgid ""
+"HbbTV Browser was not running.\n"
+"Please running browser before start HbbTV Application."
+msgstr ""
+#
+msgid "HbbTV Plugin"
+msgstr ""
+#
+msgid "Help"
+msgstr "Hjálp"
+#
+msgid "Hidden network"
+msgstr "Falið netkerfi"
+#
+msgid "Hierarchy info"
+msgstr "Hierarchy upplýsingar"
+#
+msgid "High bitrate support"
+msgstr "Háhraða stuðningur"
+#
+msgid "Horizontal"
+msgstr "Lárétt"
+#
+msgid "How many minutes do you want to record?"
+msgstr "Í hvað margar mínútur viltu taka upp?"
+#
+msgid "How many partitions do you want?(1-4)"
+msgstr ""
+#
+msgid "Hue"
+msgstr "Litatónn"
+#
+msgid "Hungarian"
+msgstr "Ungverska"
+#
+msgid "IP"
+msgstr ""
+#
+msgid "IP Address"
+msgstr "IP Netfang"
+#
+msgid "ISO file is too large for this filesystem!"
+msgstr "Iso skrá er of stór fyrir þetta skráarkerfi!"
+#
+msgid "ISO path"
+msgstr "Slóð ISO skráar"
+#
+msgid "Icelandic"
+msgstr "Íslenska"
+#
+msgid ""
+"If WOL is enabled, power consumption will be around 2W.\n"
+"ErP Standby Power Regulation (<0.5W at standby) cannot be met.\n"
+"Proceed?"
+msgstr ""
+#
+msgid ""
+"If you place an USB-stick containing this file then the back-up will be "
+"automatically made onto the USB-stick and can be used to restore the current "
+"image if necessary."
+msgstr ""
+#
+msgid ""
+"If you see this, something is wrong with\n"
+"your scart connection. Press OK to return."
+msgstr ""
+"Ef þú sérð þetta þá er eitthvað að scart\n"
+"tengingunni.Ýttu á OK til að fara til baka."
+#
+msgid ""
+"If you want to quit the Browser,\n"
+"Press RED -> EXIT."
+msgstr ""
+#
+msgid ""
+"If your TV has a brightness or contrast enhancement, disable it. If there is "
+"something called \"dynamic\", set it to standard. Adjust the backlight level "
+"to a value suiting your taste. Turn down contrast on your TV as much as "
+"possible.\n"
+"Then turn the brightness setting as low as possible, but make sure that the "
+"two lowermost shades of gray stay distinguishable.\n"
+"Do not care about the bright shades now. They will be set up in the next "
+"step.\n"
+"If you are happy with the result, press OK."
+msgstr ""
+"Ef sjónvarpið þitt hefur skerpu aukningu (contrast enhancement), slökktu þá "
+"á því. Ef það er með eitthvað kallað \"dynamic\", settu það þá á Standard "
+"eða Normal. Stilltu birtu baklýsingar eins og þér finnst best. Minnkaðu "
+"skerpu (contrast) stillingu sjónvarpsins eins mikið og hægt er en vertu samt "
+"viss um að rétt sjá dekkstu tvo grátónana.\n"
+"Ekki hafa áhyggjur af björtum svæðum núna. Þeir verða stilltir næst.\n"
+"Ef stillingin er orðin eins og þér finnst best ýttu þá á OK."
+#
+msgid "Ignore Broadcast SSID"
+msgstr ""
+#
+msgid "Image"
+msgstr ""
+#
+msgid "Image creation FAILED!"
+msgstr ""
+#
+msgid "In Progress"
+msgstr "Í vinnslu"
+#
+msgid ""
+"In order to record a timer, the TV was switched to the recording service!\n"
+msgstr ""
+"Til að taka upp á tíma stillingu þá var sjónvarpið stillt á upptökurás!\n"
+#
+msgid "Include optional infomation"
+msgstr ""
+#
+msgid "Include settop information"
+msgstr ""
+#
+msgid "Increased voltage"
+msgstr "Aukin spenna"
+#
+msgid "Index"
+msgstr "Yfirlit"
+#
+msgid "Info"
+msgstr "Upplýsingar"
+#
+msgid "InfoBar"
+msgstr "Upplýsingar"
+#
+msgid "Infobar timeout"
+msgstr "Tími upplýsingaborða"
+#
+msgid "Information"
+msgstr "Upplýsingar"
+#
+msgid "Init"
+msgstr "Stilli"
+#
+msgid "InitInitializing, please wait ..."
+msgstr ""
+#
+msgid "Initial Fast Forward speed"
+msgstr "Byrjunar hraði hraðspólunar áfram"
+#
+msgid "Initial Rewind speed"
+msgstr "Byrjunar hraði hraðspólunar afturábak"
+#
+msgid "Initial location in new timers"
+msgstr "Sjálfgefin staður í nýjum tímastillingum"
+#
+msgid "Initialization"
+msgstr "Frumstilling"
+#
+msgid "Initialize"
+msgstr "Frumstiling"
+#
+msgid "Initializing Harddisk..."
+msgstr "Frumstilli harða disk..."
+#
+msgid "Input"
+msgstr "Inntak"
+#
+msgid "Input Hidden ESSID"
+msgstr ""
+#
+msgid "Input device setup"
+msgstr "Inntaks tækja uppsetning"
+#
+msgid "Input mount point path."
+msgstr ""
+#
+#, python-format
+msgid "Input size of partition %s.(Max = %d MB)"
+msgstr ""
+#
+msgid "Install"
+msgstr "Setja inn"
+#
+msgid "Install a new image with a USB stick"
+msgstr "Setja inn nýtt stýrikerfi með USB staut"
+#
+msgid "Install a new image with your web browser"
+msgstr "Setja inn nýtt stýrikerfi með vafra"
+#
+msgid "Install extensions."
+msgstr "Setja inn viðbót."
+#
+msgid "Install local extension"
+msgstr "Setja inn viðbót af boxi"
+#
+msgid "Install or remove finished."
+msgstr "Innsetning eða fjarlæging tókst."
+#
+msgid "Install settings, skins, software..."
+msgstr "Setja inn stillingar, skinn, hugbúnað..."
+#
+msgid "Installation finished."
+msgstr "Uppsetning búin."
+#
+msgid "Installing"
+msgstr "Set inn"
+#
+msgid "Installing Software..."
+msgstr "Set inn hugbúnað..."
+#
+msgid "Installing default sat lists... Please wait..."
+msgstr "Set inn sjálfgefna gervihnatta lista... vinsamlega bíðið..."
+#
+msgid "Installing defaults... Please wait..."
+msgstr "Set inn sjálfgefnar stillingar... vinsamlega bíðið..."
+#
+msgid "Installing package content... Please wait..."
+msgstr "Set inn innihald pakkans... vinsamlega bíðið..."
+#
+msgid "Instant record location"
+msgstr "Skyndi upptöku staðsetning"
+#
+msgid "Interface: "
+msgstr "Netkort:"
+#
+msgid "Intermediate"
+msgstr "millistig"
+#
+msgid "Internal Flash"
+msgstr "Innra Flash minni"
+#
+msgid "Internal USB Slot"
+msgstr "Innra USB tengi"
+#
+msgid "Invalid "
+msgstr ""
+#
+msgid "Invalid Choice"
+msgstr ""
+#
+msgid "Invalid Fragm Threshold\n"
+msgstr ""
+#
+msgid "Invalid Location"
+msgstr "Ógildur staður"
+#
+msgid "Invalid RTS Threshold\n"
+msgstr ""
+#
+msgid "Invalid SSID\n"
+msgstr ""
+#
+msgid ""
+"Invalid URL!!(Empty)\n"
+"Please, Input to the URL."
+msgstr ""
+#
+msgid "Invalid URL. Please check again!!"
+msgstr ""
+#
+msgid ""
+"Invalid WEP key\n"
+"\n"
+msgstr ""
+#
+msgid ""
+"Invalid WPA key\n"
+"\n"
+msgstr ""
+#
+msgid "Invalid WirelessLan Module.\n"
+msgstr ""
+#
+msgid "Invalid beacon\n"
+msgstr ""
+#
+msgid "Invalid channel\n"
+msgstr ""
+#
+#, python-format
+msgid "Invalid directory selected: %s"
+msgstr "Ógild mappa valin: %s"
+#
+msgid "Invalid model or Image."
+msgstr ""
+#
+msgid "Invalid wpagrouprekey\n"
+msgstr ""
+#
+msgid "Inversion"
+msgstr "Umbreyting"
+#
+msgid "Ipkg"
+msgstr "Ipkg"
+#
+msgid "It will move the mouse pointer down."
+msgstr ""
+#
+msgid "It will move the mouse pointer left."
+msgstr ""
+#
+msgid "It will move the mouse pointer right."
+msgstr ""
+#
+msgid "It will move the mouse pointer up."
+msgstr ""
+#
+msgid "Italian"
+msgstr "Ítalska"
+#
+msgid "Job View"
+msgstr "Skoða vinnslu"
+#
+#. TRANSLATORS: (aspect ratio policy: display as fullscreen, even if this breaks the aspect)
+msgid "Just Scale"
+msgstr "Bara full mynd"
+#
+msgid "KEY"
+msgstr ""
+#
+msgid "KEY (8~63 Characters)"
+msgstr ""
+#
+msgid "Keep"
+msgstr ""
+#
+msgid "Key Type"
+msgstr ""
+#
+msgid "KeyType"
+msgstr ""
+#
+msgid "Keyboard"
+msgstr "Lyklaborð"
+#
+msgid "Keyboard Layout"
+msgstr ""
+#
+msgid "Keyboard Map"
+msgstr "Lyklaborðs stilling"
+#
+msgid "Keyboard Setup"
+msgstr "Uppsetning lyklaborðs"
+#
+msgid "Keymap"
+msgstr "Lyklaborðsstilling"
+#
+msgid "LAN Adapter"
+msgstr "Netkort"
+#
+msgid "LAN connection"
+msgstr "LAN tenging"
+#
+msgid "LED Brightness Setup"
+msgstr ""
+#
+msgid "LNB"
+msgstr "LNB"
+#
+msgid "LOF"
+msgstr "LOF"
+#
+msgid "LOF/H"
+msgstr "LOF/H"
+#
+msgid "LOF/L"
+msgstr "LOF/L"
+#
+msgid "Language"
+msgstr "Tungumál"
+#
+msgid "Language selection"
+msgstr "Val tungumáls"
+#
+msgid "Last config"
+msgstr "Síðasta stilling"
+#
+msgid "Last speed"
+msgstr "Síðasti hraði"
+#
+msgid "Latitude"
+msgstr "Breiddargráða"
+#
+msgid "Latvian"
+msgstr "Lettneska"
+#
+msgid "Leave DVD Player?"
+msgstr "Hætta í DVD spilara?"
+#
+msgid "Left"
+msgstr "Vinstri"
+#
+msgid "Left Key"
+msgstr ""
+#
+msgid "Left Mouse Button"
+msgstr ""
+#
+#. TRANSLATORS: (aspect ratio policy: black bars on top/bottom) in doubt, keep english term.
+msgid "Letterbox"
+msgstr "Letterbox"
+#
+msgid "Limit east"
+msgstr "Mörk í austur"
+#
+msgid "Limit west"
+msgstr "Mörk í vestur"
+#
+msgid "Limited character set for recording filenames"
+msgstr "Takmarkað stafa úrval fyrir skráar nöfn á upptökum"
+#
+msgid "Limits off"
+msgstr "Mörk ekki stillt"
+#
+msgid "Limits on"
+msgstr "Mörk á"
+#
+msgid "Link Quality:"
+msgstr "Gæði tengingar:"
+#
+msgid "Link:"
+msgstr "Tenging:"
+#
+msgid "Linked titles with a DVD menu"
+msgstr "Tengdir titlar við DVD valmynd"
+#
+msgid "List available networks"
+msgstr "Sýna netkerfi í boði"
+#
+msgid "List of Storage Devices"
+msgstr "Listi geymslu tækja"
+#
+msgid "Lithuanian"
+msgstr "Litháíska"
+#
+msgid "Load"
+msgstr "Hleð"
+#
+msgid "Load Length of Movies in Movielist"
+msgstr "Hlaða inn lengd myndar í myndalista"
+#
+msgid "Local Network"
+msgstr "Nærnet"
+#
+msgid "Location"
+msgstr "Staðsetning"
+#
+msgid "Location for instant recordings"
+msgstr "Staðsetning fyrir skyndi upptökur"
+#
+msgid "Lock:"
+msgstr "Lás:"
+#
+msgid "Locking Fail Error"
+msgstr ""
+#
+msgid "Log results to harddisk"
+msgstr "Skýrslur á harðadisk"
+#
+msgid "Long Keypress"
+msgstr "Ýtt lengi á hnapp"
+#
+msgid "Long filenames"
+msgstr "Löng skráarnöfn"
+#
+msgid "Longitude"
+msgstr "Lengdargráða"
+#
+msgid "MA"
+msgstr ""
+#
+msgid "MB"
+msgstr ""
+#
+msgid "MC"
+msgstr ""
+#
+msgid "MMC Card"
+msgstr "MMC kort"
+#
+msgid "MORE"
+msgstr "MEIRA"
+#
+msgid "MSA"
+msgstr ""
+#
+msgid "Mac address fail"
+msgstr ""
+#
+msgid "Main menu"
+msgstr "Aðalvalmynd"
+#
+msgid "Mainmenu"
+msgstr "Aðalvalmynd"
+#
+#, python-format
+msgid ""
+"Make filesystem Error /dev/%s.\n"
+"Please check your device."
+msgstr ""
+#
+msgid "Make this mark an 'in' point"
+msgstr "Gera þetta merki að 'inn' merki"
+#
+msgid "Make this mark an 'out' point"
+msgstr "Gera þetta merki að 'út' merki"
+#
+msgid "Make this mark just a mark"
+msgstr "Gera þetta merki bara að merki"
+#
+msgid "Manage extensions"
+msgstr "Sýsla með íforrit"
+#
+msgid "Manage your receiver's software"
+msgstr "Stjórna hugbúnaði móttakarans"
+#
+msgid "Manual"
+msgstr ""
+#
+msgid "Manual Fan control"
+msgstr ""
+#
+msgid "Manual Scan"
+msgstr "Handvirk leitun"
+#
+msgid "Manual configuration"
+msgstr "Handvirk stilling"
+#
+msgid "Manual transponder"
+msgstr "Handvirk leit á sendi"
+#
+msgid "Manufacturer"
+msgstr "Framleiðandi"
+#
+msgid "Margin after record"
+msgstr "Mörk eftir upptöku"
+#
+msgid "Margin before record (minutes)"
+msgstr "Mörk fyrir upptöku (mínútur)"
+#
+msgid "Mark movie as seen after X %"
+msgstr ""
+#
+msgid "Mark recording services in service list"
+msgstr ""
+#
+msgid "Max. Bitrate: "
+msgstr "Mesti bitahraði:"
+#
+msgid "Media player"
+msgstr "Spilari"
+#
+msgid "MediaPlayer"
+msgstr "Spilari"
+#
+msgid "Medium is not a writeable DVD!"
+msgstr "Diskur er ekki skrifanlegur DVD diskur!"
+#
+msgid "Medium is not empty!"
+msgstr "Diskur er ekki tómur!"
+#
+msgid "Menu"
+msgstr "Valmynd"
+#
+msgid "Message"
+msgstr "Skilaboð"
+#
+msgid "Message..."
+msgstr "Skilaboð..."
+#
+msgid "Method"
+msgstr ""
+#
+msgid "Mkfs failed"
+msgstr "Mkfs tókst ekki"
+#
+msgid "Mode"
+msgstr "Hamur"
+#
+msgid "Mode 1"
+msgstr ""
+#
+msgid "Mode 2"
+msgstr ""
+#
+msgid "Model: "
+msgstr "Gerð:"
+#
+msgid "Modem Manager"
+msgstr ""
+#
+msgid "Modulation"
+msgstr "Mótun"
+#
+msgid "Modulator"
+msgstr "Mótari"
+#
+msgid "Mon"
+msgstr "Mán"
+#
+msgid "Mon-Fri"
+msgstr "Mán-Fös"
+#
+msgid "Monday"
+msgstr "Mánudagur"
+#
+msgid "Mosquito noise reduction"
+msgstr "Mosquito suð deyfing"
+#
+msgid "Mount"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Mount Failed!\n"
+"(%s -> %s)"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Mount Failed!\n"
+"Current path is already mounted by \"%s\""
+msgstr ""
+#
+msgid "Mount Point"
+msgstr ""
+#
+#, python-format
+msgid "Mount Point : %s -> %s"
+msgstr ""
+#
+#, python-format
+msgid "Mount Point : %s ->%s"
+msgstr ""
+#
+msgid "Mount Point : click ok button on here."
+msgstr ""
+#
+#, python-format
+msgid ""
+"Mount Point is not writeable.\n"
+"Path : %s"
+msgstr ""
+#
+msgid "Mount failed"
+msgstr "Tenging tókst ekki"
+#
+msgid "Mount known devices automatically : "
+msgstr ""
+#
+#, python-format
+msgid "Mounted on : %s"
+msgstr ""
+#
+msgid "Mouse"
+msgstr ""
+#
+msgid "Move"
+msgstr ""
+#
+msgid "Move Picture in Picture"
+msgstr "Færa Mynd í Mynd"
+#
+msgid "Move east"
+msgstr "Færa austur"
+#
+msgid "Move west"
+msgstr "Færa vestur"
+#
+msgid "Movie location"
+msgstr "Staðsetning bíómynda"
+#
+msgid "Movielist menu"
+msgstr "Bíómynda valmynd"
+#
+msgid "Movies / Timers"
+msgstr ""
+#
+msgid "Movies"
+msgstr ""
+#
+msgid "Timer"
+msgstr "Tímastilling"
+#
+msgid "Multi EPG"
+msgstr "Mörg EPG"
+#
+msgid "Multi-EPG bouquet selection"
+msgstr "Mörg-EPG rásavanda val"
+#
+msgid "Multimedia"
+msgstr "Margmiðlun"
+#
+msgid "Multiple service support"
+msgstr "Styður margar rásir"
+#
+msgid "Multiplex"
+msgstr "Margar rásir"
+#
+msgid "Multisat"
+msgstr "Margir gervihnettir"
+#
+msgid "Music Directory"
+msgstr ""
+#
+msgid "Mute"
+msgstr "Hljóð Af"
+#
+msgid "N/A"
+msgstr "Ekki til"
+#
+msgid "NEXT"
+msgstr "NÆST"
+#
+msgid "NIM"
+msgstr "NIM"
+#
+msgid "NOW"
+msgstr "NÚNA"
+#
+msgid ""
+"NO_GET_APPNAME\n"
+"Press exit!"
+msgstr ""
+#
+msgid "NTSC"
+msgstr "NTSC"
+#
+msgid "Name"
+msgstr "Nafn"
+#
+msgid "Name :"
+msgstr ""
+#
+msgid "Nameserver"
+msgstr "Nafnaþjónn"
+#
+#, python-format
+msgid "Nameserver %d"
+msgstr "Nafnaþjónn %d"
+#
+msgid "Nameserver Setup"
+msgstr "Uppsetning nafnaþjóns"
+#
+msgid "Namespace"
+msgstr "Nafnabox"
+#
+msgid "NetDrive Setup"
+msgstr ""
+#
+msgid "NetMask"
+msgstr ""
+#
+msgid "Netmask"
+msgstr "Netmaski"
+#
+msgid "Network"
+msgstr "Netkerfi"
+#
+msgid "Network Configuration..."
+msgstr "Stilling nettengingar..."
+#
+msgid "Network Mount"
+msgstr "Tengingar við netkerfi"
+#
+msgid "Network Setup"
+msgstr "Stilla netkerfi"
+#
+msgid "Network Wizard"
+msgstr "Netkerfis ráðgjafi"
+#
+msgid ""
+"Network configuration is not changed....\n"
+"\n"
+"Are you sure you want to restart your network interfaces?\n"
+msgstr ""
+#
+msgid "Network scan"
+msgstr "Leita netkerfið allt"
+#
+msgid "Network setup"
+msgstr "Stillingar netkerfis"
+#
+msgid "Network test"
+msgstr "Prufa nettengingu"
+#
+msgid "Network test..."
+msgstr "Prufa nettengingu..."
+#
+msgid "Network test: "
+msgstr "Prufa nettengingu:"
+#
+msgid "Network:"
+msgstr "Nettenging:"
+#
+msgid "NetworkWizard"
+msgstr "Nettengi ráðgjafi"
+#
+msgid "Networkname (SSID)"
+msgstr "Netkerfis nafn (SSID)"
+#
+msgid "New"
+msgstr "Nýtt"
+#
+msgid "New PIN"
+msgstr "Nýtt PIN númer"
+#
+msgid "Next"
+msgstr "Næsta"
+#
+msgid "No"
+msgstr "Nei"
+#
+msgid "No (supported) DVDROM found!"
+msgstr "Enginn (studdur) DVDROM fannst!"
+#
+msgid "No AP detected."
+msgstr ""
+#
+msgid "No Connection"
+msgstr "Engin tenging"
+#
+msgid "No HDD found or HDD not initialized!"
+msgstr "Fann ekki harðan disk eða hann ekki formaður!"
+#
+msgid "No backup needed"
+msgstr "Afritun óþörf"
+#
+msgid ""
+"No data on transponder!\n"
+"(Timeout reading PAT)"
+msgstr ""
+"Engin gögn á sendi!\n"
+"(Rann út á tíma við lestur PAT)"
+#
+msgid "No description available."
+msgstr "Engin lýsing tiltæk."
+#
+msgid "No detected HbbTV applications."
+msgstr ""
+#
+msgid "No displayable files on this medium found!"
+msgstr "Engar skrár fundust á þessu tæki!"
+#
+msgid "No event info found, recording indefinitely."
+msgstr "Engar upplýsingar um atriði fundust, tek upp endalaust."
+#
+msgid "No free tuner!"
+msgstr "Enginn laus móttakari!"
+#
+msgid "No information..."
+msgstr ""
+#
+#, python-format
+msgid ""
+"No mountable devices found.! (%s)\n"
+"Do you want to open DeviceManager and do initialize or format this device?\n"
+"\n"
+"(Open 'Menu->Setup->System -> Harddisk -> DeviceManager'\n"
+" and press MENU button to deactivate this check.)"
+msgstr ""
+#
+msgid "No network connection available."
+msgstr "Engin nettenging virk."
+#
+msgid "No networks found"
+msgstr "Ekkert netkerfi fannst"
+#
+msgid ""
+"No packages were upgraded yet. So you can check your network and try again."
+msgstr ""
+"Enginn hugbúnaðar pakki uppfærður enn. Athugðu netkerfi og reyndu aftur."
+#
+msgid ""
+"No partition list found on device.\n"
+"Please click BLUE key and do Initialize to use this device."
+msgstr ""
+#
+msgid "No positioner capable frontend found."
+msgstr "Það fannst ekki móttakari sem styður staðsetjara."
+#
+msgid ""
+"No rewinding possible yet.. but you can use the number buttons to skip "
+"forward/backward!"
+msgstr ""
+#
+msgid "No satellite frontend found!!"
+msgstr "Það fannst ekki gervihnattamóttakari!!"
+#
+msgid "No selected binary data!!"
+msgstr ""
+#
+msgid "No supported receiver found!"
+msgstr ""
+#
+msgid "No tags are set on these movies."
+msgstr "Engin merki sett á þessa mynd."
+#
+msgid "No to all"
+msgstr "Nei við öllu"
+#
+msgid "No tuner is configured for use with a diseqc positioner!"
+msgstr "Enginn móttakari er stilltur til að nota með staðsetjara!"
+#
+msgid ""
+"No tuner is enabled!\n"
+"Please setup your tuner settings before you start a service scan."
+msgstr ""
+"Enginn móttakari er valinn!\n"
+"Stilltu móttakara áður er að þú ferð að leita að rásum."
+#
+msgid ""
+"No valid service PIN found!\n"
+"Do you like to change the service PIN now?\n"
+"When you say 'No' here the service protection stay disabled!"
+msgstr ""
+"Enginn virkur kóði fyrir rásalæsingu fannst!\n"
+"Viltu búa til nýjan kóða núna?\n"
+"Ef þú svarar \"Nei\" þá er engin læsing virk!"
+#
+msgid ""
+"No valid setup PIN found!\n"
+"Do you like to change the setup PIN now?\n"
+"When you say 'No' here the setup protection stay disabled!"
+msgstr ""
+"Enginn virkur kóði fyrir uppsetningu fannst!\n"
+"Viltu búa til nýjan kóða núna?\n"
+"Ef þú svarar \"Nei\" þá er engin læsing virk!"
+#
+msgid "No wireless networks found! Searching..."
+msgstr "Ekkert þráðlaust net fannst! Leita..."
+#
+msgid ""
+"No working local network adapter found.\n"
+"Please verify that you have attached a network cable and your network is "
+"configured correctly."
+msgstr ""
+"Ekkert virkt netkort fannst.\n"
+"Athugaðu hvort að það sé tengdur netkapallinn og netið sé rétt stillt."
+#
+msgid ""
+"No working wireless network adapter found.\n"
+"Please verify that you have attached a compatible WLAN device and your "
+"network is configured correctly."
+msgstr ""
+"Ekkert virkt þráðlaust netkort fannst.\n"
+"Athugaðu hvort að það sé tengt samhæft þráðlaust netkort og að það sé rétt "
+"stillt."
+#
+msgid ""
+"No working wireless network interface found.\n"
+" Please verify that you have attached a compatible WLAN device or enable "
+"your local network interface."
+msgstr ""
+"Ekkert virkt þráðlaust netkort fannst.\n"
+" Athugaðu hvort að það sé tengt samhæft þráðlaust netkort eða athugaðu með "
+"stillingar á því."
+#
+msgid "No, but play video again"
+msgstr "Nei, en spilaðu myndina aftur"
+#
+msgid "No, but restart from begin"
+msgstr "Nei, en byrja frá byrjun"
+#
+msgid "No, do nothing."
+msgstr "Nei, ekki gera neitt."
+#
+msgid "No, just start my STB"
+msgstr ""
+#
+msgid "No, never"
+msgstr "Nei, aldrei"
+#
+msgid "No, scan later manually"
+msgstr "Nei, leita seinna handvirkt"
+#
+msgid "None"
+msgstr "Enginn"
+#
+#. TRANSLATORS: (aspect ratio policy: display as fullscreen, with stretching the left/right)
+msgid "Nonlinear"
+msgstr "Teygð mynd"
+#
+msgid "Normal state"
+msgstr ""
+#
+msgid "North"
+msgstr "Norður"
+#
+msgid "Norwegian"
+msgstr "Norska"
+#
+#, python-format
+msgid ""
+"Not enough diskspace. Please free up some diskspace and try again. (%d MB "
+"required, %d MB available)"
+msgstr ""
+"Ekki nóg diskpláss. Taktu til á diskinum og reyndu aftur. (%d MB þarf, %d MB "
+"tiltæk)"
+#
+msgid "Not-Associated"
+msgstr "Ekki tengt"
+#
+msgid ""
+"Nothing to scan!\n"
+"Please setup your tuner settings before you start a service scan."
+msgstr ""
+"Ekkert til að leita!\n"
+"Stilltu inn móttakarann áður en að þú byrjar rása leit."
+#
+msgid "Now Playing"
+msgstr "Spila núna"
+#
+msgid ""
+"Now, use the contrast setting to turn up the brightness of the background as "
+"much as possible, but make sure that you can still see the difference "
+"between the two brightest levels of shades.If you have done that, press OK."
+msgstr ""
+"Notaðu núna skerpu (contrast) stillingar til að auka birtu bakgrunns eins "
+"mikið og hægt er en vertu samt viss um að sjá mun á björtustu tveim hlutum "
+"myndarinnar. Þegar þú hefur gert það ýttu þá á OK."
+#
+msgid "OK"
+msgstr "OK"
+#
+msgid "OK, guide me through the upgrade process"
+msgstr "Leiðbeindu mér með uppfærsluna"
+#
+msgid "ONID"
+msgstr "ONID"
+#
+msgid "OSD Settings"
+msgstr "Stilling valmynda"
+#
+msgid "Off"
+msgstr "Af"
+#
+msgid "Ok"
+msgstr ""
+#
+msgid "On"
+msgstr "Á"
+#
+msgid "One"
+msgstr "Einn"
+#
+msgid ""
+"One hdd test error\n"
+"Press 'EXIT' button!"
+msgstr ""
+#
+msgid "Only Free scan"
+msgstr "Bara fríar rásir"
+#
+msgid "Only extensions."
+msgstr "Bara viðbætur."
+#
+msgid "Open Startpage"
+msgstr ""
+#
+msgid "Open URL"
+msgstr ""
+#
+msgid "Opera Browser"
+msgstr ""
+#
+msgid ""
+"Opera Browser was not running.\n"
+"Please running browser using [File]>[Start/Stop] menu."
+msgstr ""
+#
+msgid "Opera Web Browser"
+msgstr ""
+#
+msgid "Opera Web Browser Plugin v1.0"
+msgstr ""
+#
+msgid "Orbital position"
+msgstr "Staðsetning hnattar"
+#
+msgid "Overwrite configuration files ?"
+msgstr "Skrifa yfir stillinga skrár ?"
+#
+msgid "Overwrite configuration files during software upgrade?"
+msgstr "Skrifa yfir stillinga skrár við hugbúnaðar uppfærslu?"
+#
+msgid "PAL"
+msgstr "PAL"
+#
+msgid "PCR PID"
+msgstr "PCR PID"
+#
+msgid "PIDs"
+msgstr "PIDs"
+#
+msgid "PIN :"
+msgstr ""
+#
+msgid "PLEASE READ THIS:"
+msgstr ""
+#
+msgid "PMT PID"
+msgstr "PMT PID"
+#
+msgid "PWM value"
+msgstr ""
+#
+msgid "Package list update"
+msgstr "Listi uppfærðra pakka"
+#
+msgid "Packet management"
+msgstr "Pakka meðhöndlun"
+#
+msgid "Packet manager"
+msgstr "Hugbúnaðarpakka stjóri"
+#
+msgid "Page"
+msgstr "Blaðsíða"
+#
+msgid "PageDown Key"
+msgstr ""
+#
+msgid "PageUp Key"
+msgstr ""
+#
+#. TRANSLATORS: (aspect ratio policy: cropped content on left/right) in doubt, keep english term
+msgid "Pan&Scan"
+msgstr "Pan&Scan"
+#
+msgid "Parent Directory"
+msgstr "Hýsingar mappa"
+#
+msgid "Parental control"
+msgstr "Foreldrastýring"
+#
+msgid "Parental control services Editor"
+msgstr "Forritun foreldrakóða á rásir"
+#
+msgid "Parental control setup"
+msgstr "Uppsetning á foreldrastýringu"
+#
+msgid "Parental control type"
+msgstr "Gerð foreldrastýringar"
+#
+#, python-format
+msgid "Partition : /dev/%s"
+msgstr ""
+#
+msgid "Partition info is not found."
+msgstr ""
+#
+msgid "Partitions"
+msgstr ""
+#
+#, python-format
+msgid "Partitions : %s"
+msgstr ""
+#
+msgid "Password"
+msgstr "Aðgangsorð"
+#
+msgid "Password :"
+msgstr ""
+#
+msgid "Pause movie at end"
+msgstr "Setja á pásu við enda myndar"
+#
+msgid "Phone :"
+msgstr ""
+#
+msgid "Phone number"
+msgstr "Síma númer"
+#
+msgid "PiPSetup"
+msgstr "Uppsetning Mynd í Mynd"
+#
+msgid "Picture Directory"
+msgstr ""
+#
+msgid "PicturePlayer"
+msgstr "Mynd spilari"
+#
+#. TRANSLATORS: (aspect ratio policy: black bars on left/right) in doubt, keep english term.
+msgid "Pillarbox"
+msgstr "Pillarbox"
+#
+msgid "Pilot"
+msgstr "Stjóri"
+#
+msgid "Pin code needed"
+msgstr "Kóða vantar"
+#
+msgid ""
+"Ping test fail\n"
+"Press exit"
+msgstr ""
+#
+msgid "Ping test pass"
+msgstr ""
+#
+msgid ""
+"Place the USB-flash drive in the (front) USB-port and switch the receiver "
+"off and on with the powerswitch on the back of the receiver."
+msgstr ""
+#
+msgid "Play"
+msgstr "Spila"
+#
+msgid "Play Audio-CD..."
+msgstr "Spila hljóð disk..."
+#
+msgid "Play DVD"
+msgstr "Spila DVD"
+#
+msgid "Play Music..."
+msgstr "Spila tónlist..."
+#
+msgid "Play recorded movies..."
+msgstr "Spila uppteknar bíómyndir..."
+#
+msgid "Please Reboot"
+msgstr "Vinsamlega endurræsið"
+#
+msgid "Please Select Medium to be Scanned"
+msgstr "Vinsamlega veljið tæki sem á að leita"
+#
+msgid "Please add titles to the compilation."
+msgstr "Vinsamlega bætið við titlum við efnið."
+#
+msgid ""
+"Please be aware, that anyone can disable the parental control, if you have "
+"not set a PIN."
+msgstr ""
+"Hafðu í huga að ef ekkert PIN númer er sett þá er hægt að slökkva á "
+"foreldralæsingunni."
+#
+msgid ""
+"Please be patient, a backup will now be made, because of the used filesystem "
+"the back-up will take about 5-7 minutes for this system."
+msgstr ""
+#
+msgid "Please change recording endtime"
+msgstr "Vinsamlega breytið lokatíma upptöku"
+#
+msgid ""
+"Please check again.\n"
+"Frequency : start value is larger than stop value."
+msgstr ""
+#
+msgid ""
+"Please check again.\n"
+"Start frequency must be between 950 and 2150."
+msgstr ""
+#
+msgid ""
+"Please check again.\n"
+"Start symbolrate must be between 2MHz and 45MHz."
+msgstr ""
+#
+msgid ""
+"Please check again.\n"
+"Stop frequency must be between 950 and 2150."
+msgstr ""
+#
+msgid ""
+"Please check again.\n"
+"Stop symbolrate must be between 2MHz and 45MHz."
+msgstr ""
+#
+msgid ""
+"Please check again.\n"
+"Symbolrate : start value is larger than stop value."
+msgstr ""
+#
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr ""
+#
+msgid "Please choose an HbbTV application."
+msgstr ""
+#
+msgid "Please choose an extension..."
+msgstr "Vinsamlega veldu viðbót..."
+#
+msgid "Please choose he package..."
+msgstr "Vinsamlega veldur pakka..."
+#
+msgid "Please choose one."
+msgstr ""
+#
+msgid "Please choose the default services lists you want to install."
+msgstr "Vinsamlega veldu sjálfgefinn rásalista sem að þú vilt nota."
+#
+msgid "Please choose."
+msgstr ""
+#
+msgid ""
+"Please configure your internet connection by filling out the required "
+"values.\n"
+"When you are ready press OK to continue."
+msgstr ""
+"Til að stilla nettengingu filltu þá út viðeigandi gildi.\n"
+"Ýttu þá á OK til að halda áfram."
+#
+msgid "Please do not change any values unless you know what you are doing!"
+msgstr "Ekki breyta gildum ef þú veist ekki hvað þú ert að gera!"
+#
+msgid "Please enter URL here"
+msgstr ""
+#
+msgid "Please enter a name for the new bouquet"
+msgstr "Settu inn nafn á nýjum rása vendi"
+#
+msgid "Please enter a name for the new marker"
+msgstr "Sláðu inn nafn fyrir nýja merkingu"
+#
+msgid "Please enter a new filename"
+msgstr "Sláðu inn nýtt skráarnafn"
+#
+msgid "Please enter filename (empty = use current date)"
+msgstr "Sláðu inn skráarnafn (tómt = nota núverandi dag)"
+#
+msgid "Please enter name of the new directory"
+msgstr "Sláðu inn nafn á nýju möppunni"
+#
+msgid "Please enter the correct pin code"
+msgstr "Sláðu inn réttan kóða"
+#
+msgid "Please enter the old PIN code"
+msgstr "Sláðu inn gamla PIN kóðann þinn"
+#
+msgid "Please follow the instructions on the TV"
+msgstr "Fylgdu leiðbeiningum á skjá"
+#
+msgid ""
+"Please note that the previously selected media could not be accessed and "
+"therefore the default directory is being used instead."
+msgstr ""
+"Vinsamlega athugið að áður valinn diskur er ekki tiltækur núna og þá verður "
+"notuð sjálfgefin mappa í staðinn."
+#
+msgid "Please press OK to continue."
+msgstr "Ýttu á OK til að halda áfram."
+#
+msgid "Please press OK!"
+msgstr "Ýtið á OK!"
+#
+msgid "Please select a playlist to delete..."
+msgstr "Veldu spilunarlista til að eyða..."
+#
+msgid "Please select a playlist..."
+msgstr "Vinsamlega veldu spilunarlista..."
+#
+msgid "Please select a subservice to record..."
+msgstr "Velja undirrás til að taka upp..."
+#
+msgid "Please select a subservice..."
+msgstr "Vinsamlega veldu undirrás..."
+#
+msgid "Please select medium to use as backup location"
+msgstr "Vinsamlega veljið tæki til að nota sem afritunar stað"
+#
+msgid "Please select tag to filter..."
+msgstr "Vinsamlega veldu merki til að sía út..."
+#
+msgid "Please select the destination path..."
+msgstr ""
+#
+msgid "Please select the source path..."
+msgstr ""
+#
+msgid "Please select the movie path..."
+msgstr "Veldu slóð að mynd..."
+#
+msgid ""
+"Please select the network interface that you want to use for your internet "
+"connection.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+"Veldu það netkort sem að þú vilt nota fyrir veraldarvefs tengingu.\n"
+"\n"
+"Ýttu á OK til að halda áfram."
+#
+msgid ""
+"Please select the wireless network that you want to connect to.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+"Vinsamlegast veldu það þráðlausa net sem að þú vilt tengjast.\n"
+"\n"
+"Ýttu á OK til að halda áfram."
+#
+msgid "Please set up tuner B"
+msgstr "Vinsamlega settu upp móttakara B"
+#
+msgid "Please set up tuner C"
+msgstr "Vinsamlega settu upp móttakara C"
+#
+msgid "Please set up tuner D"
+msgstr "Vinsamlega settu upp móttakara D"
+#
+msgid "Please set up tuner E"
+msgstr ""
+#
+msgid "Please set up tuner F"
+msgstr ""
+#
+msgid "Please set up tuner G"
+msgstr ""
+#
+msgid "Please set up tuner H"
+msgstr ""
+#
+msgid "Please set up tuner I"
+msgstr ""
+#
+msgid "Please set up tuner J"
+msgstr ""
+#
+msgid "Please setup your tuner configuration."
+msgstr ""
+#
+msgid ""
+"Please use direction keys to move the PiP window.\n"
+"Press Bouquet +/- to resize the window.\n"
+"Press OK to go back to the TV mode or EXIT to cancel the moving."
+msgstr ""
+"Vinsamlega notið örvatakka til að færa Mynd í Mynd glugga.\n"
+"Ýttu á Bouquet +/- til að breyta stærð á glugga.\n"
+"Ýttu á OK til að fara aftur í venjulega stillingu eða EXIT til að hætta við."
+#
+msgid ""
+"Please use the UP and DOWN keys to select your language. Afterwards press "
+"the OK button."
+msgstr ""
+"Vinsamlega notið UP og NIÐUR takka til að velja tungumál. Ýttu svo á OK til "
+"að nota."
+#
+msgid "Please wait during download."
+msgstr ""
+#
+msgid "Please wait for AP Configuration....\n"
+msgstr ""
+#
+msgid "Please wait for activation of your network configuration..."
+msgstr "Vinsamlega bíðið eftir virkjun á netkerfis stillingum..."
+#
+msgid "Please wait for scanning AP..."
+msgstr ""
+#
+msgid "Please wait while scanning is in progress..."
+msgstr "Vinsamlega bíðið á meðan leit fer fram..."
+#
+msgid "Please wait while we configure your network..."
+msgstr "Vinsamlega bíðið á meðan stilling fer fram á netkerfinu..."
+#
+msgid "Please wait while we prepare your network interfaces..."
+msgstr "Vinsamlegast bíðið á meðan við stillum netkort..."
+#
+msgid "Please wait while we test your network..."
+msgstr "Vinsamlega bíðið á meðan við prufum net tengingu..."
+#
+msgid "Please wait while your network is restarting..."
+msgstr "Vinsamlega bíðið á meðan netkerfið er endurræst..."
+#
+msgid "Please wait, Loading image."
+msgstr ""
+#
+msgid "Please wait..."
+msgstr "Vinsamlega bíðið..."
+#
+msgid "Please wait... Loading list..."
+msgstr "Vinsamlega bíðið.. les inn lista..."
+#
+msgid "Please wait.... almost ready!"
+msgstr ""
+#
+msgid "Plugin Browser"
+msgstr ""
+#
+msgid "Plugin browser"
+msgstr "Íforrita leit"
+#
+msgid "Plugin manager activity information"
+msgstr "Íforritstjóra aðgerða upplýsingar"
+#
+msgid "Plugin manager help"
+msgstr "Íforritsstjóra hjálp"
+#
+msgid "Plugins"
+msgstr "Íforrit"
+#
+msgid "Polarity"
+msgstr "Pólun"
+#
+msgid "Polarization"
+msgstr "Pólun"
+#
+msgid "Polish"
+msgstr "Pólska"
+#
+msgid "Port"
+msgstr ""
+#
+msgid "Port A"
+msgstr "Tengi A"
+#
+msgid "Port B"
+msgstr "Tengi B"
+#
+msgid "Port C"
+msgstr "Tengi C"
+#
+msgid "Port D"
+msgstr "Tengi D"
+#
+msgid "Portuguese"
+msgstr "Portúgalska"
+#
+msgid "Position of finished Timers in Timerlist"
+msgstr "Staður lokinna tímastilltra upptaka í listanum"
+#
+msgid "Positioner"
+msgstr "Mótorstýring"
+#
+msgid "Positioner fine movement"
+msgstr "Fín færsla mótors"
+#
+msgid "Positioner movement"
+msgstr "Færsla mótors"
+#
+msgid "Positioner setup"
+msgstr "Uppsetning mótors"
+#
+msgid "Positioner storage"
+msgstr "Vistun í staðsetjjara"
+#
+msgid "Power threshold in mA"
+msgstr "Aflmörk í mA"
+#
+msgid "Preamble"
+msgstr ""
+#
+msgid "Predefined transponder"
+msgstr "Fyrirfram forritaður sendir"
+#
+msgid "Prefer specific tuner"
+msgstr ""
+#
+msgid "Preference"
+msgstr ""
+#
+msgid "Preparing... Please wait"
+msgstr "Undirbý...vinsamlega bíðið"
+#
+msgid "Press 'EXIT' key to finish tune test."
+msgstr ""
+#
+msgid "Press Front CH +"
+msgstr ""
+#
+msgid "Press Front CH -"
+msgstr ""
+#
+msgid "Press Front STANDBY"
+msgstr ""
+#
+msgid "Press Front VOL +"
+msgstr ""
+#
+msgid "Press Front VOL -"
+msgstr ""
+#
+msgid "Press Front Wheel"
+msgstr ""
+#
+msgid "Press Green/OK to start the scan"
+msgstr ""
+#
+msgid "Press INFO on your remote control for additional information."
+msgstr "Ýttu á INFO á fjarstýringunni fyrir nánari upplýsingar."
+#
+msgid "Press MENU on your remote control for additional options."
+msgstr "Ýttu á MENU á fjarstýringunni til að sjá meiri möguleika."
+#
+msgid "Press OK on your remote control to continue."
+msgstr "Ýttu á OK á fjarstýringunni til að halda áfram."
+#
+msgid "Press OK to activate the selected skin."
+msgstr "Ýttu á OK til að velja valið skinn."
+#
+msgid "Press OK to activate the settings."
+msgstr "Ýtið á OK til að virkja stillingar."
+#
+msgid "Press OK to edit the settings."
+msgstr "Ýttu á OK til að breyta stillingum."
+#
+#, python-format
+msgid "Press OK to get further details for %s"
+msgstr "Ýttu á OK til að fá nánari upplýsingar um %s"
+#
+msgid "Press OK to scan"
+msgstr "Ýtið á OK til að leita"
+#
+msgid "Press OK to select a Provider."
+msgstr "Ýttu á OK til að velja sendanda."
+#
+msgid "Press OK to select/deselect a CAId."
+msgstr "Ýttu á OK til að velja eða ekki velja CAId."
+#
+msgid "Press OK to start the scan"
+msgstr "Ýtið á OK til að byrja að leita"
+#
+msgid "Press OK to toggle the selection."
+msgstr "Ýttu á OK til að velja á milli."
+#
+msgid "Press arrow up from frontpanel to start loading."
+msgstr ""
+#
+msgid "Press yellow to set this interface as default interface."
+msgstr "Ýttu á gula til að hafa þetta netkort sem sjálfvalið."
+#
+msgid "Prev"
+msgstr "Fyrri"
+#
+msgid "Preview menu"
+msgstr "Forskoða valmynd"
+#
+msgid "Primary DNS"
+msgstr "Aðal DNS"
+#
+msgid "Prioritize updates of packages (--force-overwrite)"
+msgstr ""
+#
+msgid "Priority"
+msgstr "Forgangur"
+#
+msgid "Process"
+msgstr "Verk"
+#
+msgid "Properties of current title"
+msgstr "Nánari upplýsingar um titil"
+#
+msgid "Protect services"
+msgstr "Læsa rásum"
+#
+msgid "Protect setup"
+msgstr "Læsa valmynd"
+#
+msgid "Provider"
+msgstr "Sendandi"
+#
+msgid "Provider to scan"
+msgstr "Sendandi sem leita á"
+#
+msgid "Providers"
+msgstr "Sendendur"
+#
+msgid "Python frontend for /tmp/mmi.socket"
+msgstr "Python framendi fyrir /tmp/mmi.socket"
+#
+msgid "Quick"
+msgstr "Hratt"
+#
+msgid "Quickzap"
+msgstr "Hraðstökk"
+#
+msgid "RC Menu"
+msgstr "Valmynd fjarstýringar"
+#
+msgid "REC button long press"
+msgstr ""
+#
+msgid "REC button press"
+msgstr ""
+#
+msgid "RF output"
+msgstr "Loftnetsrás"
+#
+msgid "RGB"
+msgstr "RGB"
+#
+msgid ""
+"RS232 Test Failed!\n"
+"Press 'EXIT' button!"
+msgstr ""
+#
+msgid "RTS Threshold (0~2347)"
+msgstr ""
+#
+msgid "Radio"
+msgstr "Útvarp"
+#
+msgid "Ralink"
+msgstr "Ralink"
+#
+msgid "Ram Disk"
+msgstr "Ram Diskur"
+#
+msgid "Random"
+msgstr "Handahóf"
+#
+msgid "Really close without saving settings?"
+msgstr "Viltu loka án þess að vista stillingar?"
+#
+msgid "Really delete done timers?"
+msgstr "Viltu eyða liðnum tímastillingum?"
+#
+msgid "Really exit the subservices quickzap?"
+msgstr "Viltu hætta í undirrása hraðstökki?"
+#
+msgid "Really reboot now?"
+msgstr "Viltu örugglega endurræsa núna?"
+#
+msgid "Really restart now?"
+msgstr "Viltu örugglega endurræsa núna?"
+#
+msgid "Really shutdown now?"
+msgstr "Viltu örugglega slökkva núna?"
+#
+msgid "Realtek"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Reboot after %d seconds.\n"
+"Press the OK to reboot now."
+msgstr ""
+#
+#, python-format
+msgid "Reboot in %d seconds. Press OK to reboot now."
+msgstr ""
+#
+msgid "Reception Settings"
+msgstr "Stilling móttöku"
+#
+msgid "Record"
+msgstr "Upptaka"
+#
+#, python-format
+msgid "Record time limited due to conflicting timer %s"
+msgstr "Upptöku tími takmarkaður vegna annarar tímastillingar, %s"
+#
+msgid "Recorded files..."
+msgstr "Uppteknar skrár..."
+#
+msgid "Recording"
+msgstr "Upptaka"
+#
+msgid "Recording Menu"
+msgstr ""
+#
+msgid "Recording paths"
+msgstr "Upptöku slóð"
+#
+msgid "Recording(s) are in progress or coming up in few seconds!"
+msgstr "Upptaka (tökur) eru í gangi núna eða eru væntanlegar fljótlega!"
+#
+msgid "Recordings"
+msgstr "Upptökur"
+#
+msgid "Recordings always have priority"
+msgstr "Upptaka hefur alltaf forgang"
+#
+msgid "Red button..."
+msgstr ""
+#
+msgid "Reenter new PIN"
+msgstr "Sláðu aftur inn nýtt PIN"
+#
+msgid "Refresh rate selection"
+msgstr ""
+#
+msgid "Reload"
+msgstr "Endurlesa"
+#
+msgid "Reload Black-/Whitelists"
+msgstr "Endurhlaða svart-/hvítlista"
+#
+msgid "Reload Device"
+msgstr ""
+#
+msgid "Remember service PIN"
+msgstr "Muna eftir PIN númeri rásar"
+#
+msgid "Remember service PIN cancel"
+msgstr "Hætta að muna eftir PIN númeri rásar"
+#
+msgid "Remote Control System Code"
+msgstr ""
+#
+msgid "RemoteControlCode"
+msgstr ""
+#
+#, python-format
+msgid "Removable : %s"
+msgstr ""
+#
+msgid "Remove"
+msgstr "Eyða"
+#
+msgid "Remove Bookmark"
+msgstr "Taka út bókamerki"
+#
+msgid "Remove Plugins"
+msgstr "Taka út íforrit"
+#
+msgid "Remove a mark"
+msgstr "Eyða merkingu"
+#
+msgid "Remove currently selected title"
+msgstr "Taka út þegar valinn titil"
+#
+msgid "Remove finished timers from timer list"
+msgstr ""
+#
+msgid "Remove finished."
+msgstr "Eyðingu lokið."
+#
+msgid "Remove plugins"
+msgstr "Taka út íforrit"
+#
+msgid "Remove timer"
+msgstr "Eyða tímastillingu"
+#
+msgid "Remove title"
+msgstr "Taka út titil"
+#
+msgid "Removing"
+msgstr "Eyði"
+#
+#, python-format
+msgid "Removing directory %s failed. (Maybe not empty.)"
+msgstr "Tókst ekki að taka út möppuna %s. (kannski ekki tóm.)"
+#
+msgid "Rename"
+msgstr "Endurnefna"
+#
+msgid "Repeat"
+msgstr "Endurtaka"
+#
+msgid "Repeat Type"
+msgstr "Gerð endurtekningar"
+#
+msgid "Repeating event currently recording... What do you want to do?"
+msgstr "Endurtaka atriði sem er í upptöku.. hvað viltu gera núna?"
+#
+msgid "Repeats"
+msgstr "Endurtekningar"
+#
+msgid "Replace service name with next event info (big picons mode)"
+msgstr ""
+#
+msgid "Reply timeout"
+msgstr ""
+#
+msgid "Required medium type:"
+msgstr "Þarf gerð disks:"
+#
+msgid "Reset"
+msgstr "Endursetja"
+#
+msgid "Reset and renumerate title names"
+msgstr "Endursetja og endurnúmera nöfn titla"
+#
+msgid "Reset video enhancement settings to system defaults?"
+msgstr "Endursetja mynd stillingar á sjálfvaldar kerfis stillingar?"
+#
+msgid "Reset video enhancement settings to your last configuration?"
+msgstr "Endursetja mynd bóta stillingar á síðast valdar stillingar?"
+#
+msgid "Resolution"
+msgstr "Upplausn"
+#
+msgid "Restart"
+msgstr "Endurræsa"
+#
+msgid "Restart GUI"
+msgstr "Endurræsa GUI"
+#
+msgid "Restart GUI now?"
+msgstr "Endurræsa gluggakerfi núna?"
+#
+msgid "Restart network"
+msgstr "Endurræsi netkort"
+#
+msgid "Restart test"
+msgstr "Prufa aftur"
+#
+msgid "Restart your network connection and interfaces.\n"
+msgstr "Endurræsa nettengingu og netkort.\n"
+#
+msgid "Restore"
+msgstr "Setja inn"
+#
+msgid "Restore backups"
+msgstr "Setja inn afrit"
+#
+msgid "Restore is running..."
+msgstr "Set inn afrit..."
+#
+msgid "Restore running"
+msgstr "Innsetning afrita í gangi"
+#
+msgid "Restore system settings"
+msgstr "Setja inn kerfis stillingar"
+#
+msgid "Resume from last position"
+msgstr "Halda áfram frá sama stað og síðast"
+#
+#, python-format
+msgid "Resume position at %s"
+msgstr "Byrja aftur eftir %s"
+#
+#. TRANSLATORS: The string "Resuming playback" flashes for a moment
+#. TRANSLATORS: at the start of a movie, when the user has selected
+#. TRANSLATORS: "Resume from last position" as start behavior.
+#. TRANSLATORS: The purpose is to notify the user that the movie starts
+#. TRANSLATORS: in the middle somewhere and not from the beginning.
+#. TRANSLATORS: (Some translators seem to have interpreted it as a
+#. TRANSLATORS: question or a choice, but it is a statement.)
+msgid "Resuming playback"
+msgstr "Held áfram spilun"
+#
+msgid "Return"
+msgstr ""
+#
+msgid "Return the Love Event"
+msgstr ""
+#
+msgid "Return to file browser"
+msgstr "Fara til baka í skráarvafra"
+#
+msgid "Return to movie list"
+msgstr "Til baka til mynda lista"
+#
+msgid "Return to previous service"
+msgstr "Til  baka á síðustu rás"
+#
+msgid "Rewind speeds"
+msgstr "Hraði hraðspólunar til baka"
+#
+msgid "Right"
+msgstr "Hægri"
+#
+msgid "Right Key"
+msgstr ""
+#
+msgid "Right Mouse Button"
+msgstr ""
+#
+msgid "Roll-off"
+msgstr ""
+#
+msgid "Rotor turning speed"
+msgstr "Hraði mótors"
+#
+msgid "Run at the Deep Standby"
+msgstr ""
+#
+msgid "Running"
+msgstr "Keyri"
+#
+msgid "Russian"
+msgstr "Rússneska"
+#
+msgid "S-Video"
+msgstr "S-Video"
+#
+msgid ""
+"SET FAILED!\n"
+"Please update to the latest driver"
+msgstr ""
+#
+msgid "SID"
+msgstr "SID"
+#
+msgid "SINGLE LAYER DVD"
+msgstr "SINGLE LAYER DVD"
+#
+msgid "SNR"
+msgstr "SNR"
+#
+msgid "SNR:"
+msgstr "SNR:"
+#
+msgid "SPDIF"
+msgstr ""
+#
+msgid "SSID (1~32 Characters)"
+msgstr ""
+#
+msgid "SSID:"
+msgstr "SSID:"
+#
+msgid "STB format data DVD (HDTV compatible)"
+msgstr ""
+#
+msgid "STB software because updates are available."
+msgstr ""
+#
+msgid "Sat"
+msgstr "Lau"
+#
+msgid "Sat / Dish Setup"
+msgstr "Gervihn./Disk uppsetning"
+#
+msgid ""
+"Sata & extend hdd test error\n"
+"Press 'EXIT' button!"
+msgstr ""
+#
+msgid ""
+"Sata & extend hdd test pass\n"
+"Press 'OK' button!"
+msgstr ""
+#
+msgid "Satellite"
+msgstr "Gervihnöttur"
+#
+msgid "Satellite Equipment Setup"
+msgstr "Uppsetning Gervihnattabúnaðar"
+#
+msgid "Satellite equipment"
+msgstr "Gervihnatta búnaður"
+#
+msgid "Satellites"
+msgstr "Gervihnettir"
+#
+msgid "Satfinder"
+msgstr "Gervihnattaleit"
+#
+msgid "Sats"
+msgstr "Gervihn."
+#
+msgid "Saturation"
+msgstr "Lita mettun"
+#
+msgid "Saturday"
+msgstr "Laugardagur"
+#
+msgid "Save"
+msgstr "Vista"
+#
+msgid "Save EPG for X days in future"
+msgstr ""
+#
+msgid "Save Playlist"
+msgstr "Vista spilunarlista"
+#
+msgid "Scaler sharpness"
+msgstr "Skölunar skerpa"
+#
+msgid "Scaling Mode"
+msgstr "Kvörðunar aðferð"
+#
+msgid "Scan "
+msgstr "Leita"
+#
+msgid "Scan Files..."
+msgstr "Leita að skrám..."
+#
+msgid "Scan QAM128"
+msgstr "Leita QAM128"
+#
+msgid "Scan QAM16"
+msgstr "Leita QAM16"
+#
+msgid "Scan QAM256"
+msgstr "Leita QAM256"
+#
+msgid "Scan QAM32"
+msgstr "Leita QAM32"
+#
+msgid "Scan QAM64"
+msgstr "Leita QAM64"
+#
+msgid "Scan SR6875"
+msgstr "Leita SR6875"
+#
+msgid "Scan SR6900"
+msgstr "Leita SR6900"
+#
+msgid "Scan Wireless AP"
+msgstr ""
+#
+msgid "Scan Wireless Networks"
+msgstr "Leita að þráðlausu neti"
+#
+msgid "Scan additional SR"
+msgstr "Leita á fleiri SR"
+#
+msgid "Scan band"
+msgstr ""
+#
+msgid "Scan band EU HYPER"
+msgstr "Leita á bandi EU HYPER"
+#
+msgid "Scan band EU MID"
+msgstr "Leita á bandi EU MID"
+#
+msgid "Scan band EU SUPER"
+msgstr "Leita á bandi EU SUPER"
+#
+msgid "Scan band EU UHF IV"
+msgstr "Leita á bandi EU UHF IV"
+#
+msgid "Scan band EU UHF V"
+msgstr "Leita á bandi EU UHF V"
+#
+msgid "Scan band EU VHF I"
+msgstr "Leita á bandi EU VHF I"
+#
+msgid "Scan band EU VHF III"
+msgstr "Leita á bandi EU VHF III"
+#
+msgid "Scan band US HIGH"
+msgstr "Leita á bandi US HIGH"
+#
+msgid "Scan band US HYPER"
+msgstr "Leita á bandi US HYPER"
+#
+msgid "Scan band US LOW"
+msgstr "Leita á bandi US LOW"
+#
+msgid "Scan band US MID"
+msgstr "Leita á bandi US MID"
+#
+msgid "Scan band US SUPER"
+msgstr "Leita á bandi US SUPER"
+#
+msgid "Scan start frequency"
+msgstr ""
+#
+msgid "Scan start symbolrate"
+msgstr ""
+#
+msgid "Scan stop frequency"
+msgstr ""
+#
+msgid "Scan stop symbolrate"
+msgstr ""
+#
+msgid ""
+"Scan your network for wireless access points and connect to them using your "
+"selected wireless device.\n"
+msgstr "Leita að þráðlausu neti og tengjast þeim með völdu netkorti.\n"
+#
+msgid "Scanning AP List.."
+msgstr ""
+#
+msgid ""
+"Scans default lamedbs sorted by satellite with a connected dish positioner"
+msgstr "Leita sjálfgefna gervihnetti, raðað eftir hnöttum með tengdum mótor"
+#
+msgid "Scart loop ok?"
+msgstr ""
+#
+msgid "Search east"
+msgstr "Leita austur"
+#
+msgid "Search west"
+msgstr "Leita vestur"
+#
+msgid "Searching for available updates. Please wait..."
+msgstr "Leita að tiltækum uppfærslum. Vinsamlega bíðið..."
+#
+msgid "Searching for new installed or removed packages. Please wait..."
+msgstr "Leita að nýinnsettum eða fjarlægðum pökkum. Vinsamlega bíðið..."
+#
+msgid "Secondary DNS"
+msgstr "Vara DNS"
+#
+msgid "Seek"
+msgstr "Leita"
+#
+msgid "Select"
+msgstr "Veldu"
+#
+#, python-format
+msgid "Select %s button function:"
+msgstr ""
+#
+msgid "Select %s (long) button function:"
+msgstr ""
+#
+msgid "Select HDD"
+msgstr "Veldu harðadisk"
+#
+msgid "Select Location"
+msgstr "Velja staðsetningu"
+#
+msgid "Select Network Adapter"
+msgstr "Veldu Netkort"
+#
+msgid "Select Wireless Lan module. \n"
+msgstr ""
+#
+msgid "Select a movie"
+msgstr "Veldu mynd"
+#
+msgid "Select audio track"
+msgstr "Veldu hljóð rás"
+#
+msgid "Select channel to record from"
+msgstr "Veldu rás til að taka upp frá"
+#
+msgid "Select files for backup."
+msgstr "Veldu skrár fyrir afrit."
+#
+msgid "Select files/folders to backup"
+msgstr "Veldu skrár/möppur til afritunar"
+#
+msgid "Select input device"
+msgstr "Veldu inntaks tæki"
+#
+msgid "Select input device."
+msgstr "Veldu inntaks tæki."
+#
+msgid "Select interface"
+msgstr "Veldu netkort"
+#
+msgid "Select provider to add..."
+msgstr "Veldu sendanda til að bæta við..."
+#
+msgid "Select refresh rate"
+msgstr "Veldu hressingar tíðni"
+#
+msgid "Select service to add..."
+msgstr "Veldur rás til að bæta við..."
+#
+msgid "Select upgrade source to edit."
+msgstr "Veldu upphafs slóð til að breyta."
+#
+msgid "Select video mode"
+msgstr "Veldu mynd stillingu"
+#
+msgid "Select video port"
+msgstr ""
+#
+msgid "Select wireless network"
+msgstr "Veldu þráðlaust net"
+#
+msgid "Send DiSEqC"
+msgstr "Senda DiSEqC"
+#
+msgid "Send DiSEqC only on satellite change"
+msgstr "Senda DiSEqC bara við að skipta á annan gevihnött"
+#
+msgid "Seperate titles with a main menu"
+msgstr "Taka út titla af aðalvalmynd"
+#
+msgid "Sequence repeat"
+msgstr "Endurtaka runu"
+#
+msgid "Serbian"
+msgstr "Serneska"
+#
+msgid "Server"
+msgstr ""
+#
+msgid "Server Name"
+msgstr ""
+#
+msgid "Service"
+msgstr "Rás"
+#
+msgid "Service EPGBar"
+msgstr ""
+#
+msgid "Service List"
+msgstr ""
+#
+msgid "Service Scan"
+msgstr "Leita að rásum"
+#
+msgid "Service Searching"
+msgstr "Leita að rásum"
+#
+msgid "Service has been added to the favourites."
+msgstr "Rás hefur verið bætt við eftirlætis lista."
+#
+msgid "Service has been added to the selected bouquet."
+msgstr "Rás hefur verið bætt við valinn rásavöndul."
+#
+msgid ""
+"Service invalid!\n"
+"(Timeout reading PMT)"
+msgstr ""
+"Rás ógild!\n"
+"(Rann út á tíma við lestur PMT)"
+#
+msgid ""
+"Service not found!\n"
+"(SID not found in PAT)"
+msgstr ""
+"Rás fannst ekki!\n"
+"(SID fannst ekki í PAT)"
+#
+msgid "Service reference"
+msgstr "Rása upplýsingar"
+#
+msgid "Service scan"
+msgstr "Rása leit"
+#
+msgid ""
+"Service unavailable!\n"
+"Check tuner configuration!"
+msgstr ""
+"Rás finnst ekki!\n"
+"Athugaðu stillingar móttakara!"
+#
+msgid "Serviceinfo"
+msgstr "Upplýsingar"
+#
+msgid "Services"
+msgstr "Rásir"
+#
+msgid "Set End Time"
+msgstr "Stilla loka tíma"
+#
+msgid "Set VU device name:"
+msgstr ""
+#
+msgid "Set Voltage and 22KHz"
+msgstr "Setja spennu og 22KHz"
+#
+msgid "Set as Startpage"
+msgstr ""
+#
+msgid "Set interface as default Interface"
+msgstr "Gera að sjálfgefnu korti"
+#
+msgid "Set limits"
+msgstr "Setja mörk"
+#
+msgid "Set up Default Mount Point"
+msgstr ""
+#
+msgid "Setting"
+msgstr ""
+#
+msgid "Settings"
+msgstr "Stillingar"
+#
+msgid "Setup"
+msgstr "Uppsetning"
+#
+msgid "Setup - Movies / Timers"
+msgstr ""
+#
+msgid "Setup - Movies"
+msgstr ""
+#
+msgid "Setup - Timer"
+msgstr ""
+#
+msgid "Setup - Timeshift"
+msgstr ""
+#
+msgid "Setup - Service List"
+msgstr ""
+#
+msgid "Setup - Subtitles"
+msgstr ""
+#
+msgid "Setup - System"
+msgstr ""
+#
+msgid "Setup - TV / Radio"
+msgstr ""
+#
+msgid "Setup - User Interface"
+msgstr ""
+#
+msgid "Setup LED brightness and blink interval"
+msgstr ""
+#
+msgid "Setup Mode"
+msgstr "Uppsetninga hamur"
+#
+msgid "Setup mode"
+msgstr ""
+#
+msgid "Setup picon directory for service list"
+msgstr ""
+#
+msgid "Setup primary picon directory"
+msgstr ""
+#
+msgid "Sharpness"
+msgstr "Skerpa"
+#
+msgid "Short filenames"
+msgstr "Stutt skráarnöfn"
+#
+#, python-format
+msgid "Short name for bookmark %s:"
+msgstr ""
+#
+msgid "Short name for bookmark %s (long):"
+msgstr ""
+#
+msgid "Show DVB subtitles centered"
+msgstr ""
+#
+msgid "Show Device"
+msgstr ""
+#
+msgid "Show ECM info"
+msgstr ""
+#
+msgid "Show EPG data in single EPG list older than"
+msgstr ""
+#
+msgid "Show Info"
+msgstr "Sýna upplýsingar"
+#
+msgid "Show Message when Recording starts"
+msgstr "Sýna skilaboð við byrjun upptöku"
+#
+msgid "Show Now/Next EIT EPG at InfoBar"
+msgstr ""
+#
+msgid "Show WLAN Status"
+msgstr "Sýna WLAN stöðu"
+#
+msgid "Show blinking clock in display during recording"
+msgstr "Láta klukkuna blikka á skjá við upptöku"
+#
+msgid "Show blinking rec symbol in VFD during recording"
+msgstr ""
+#
+msgid "Show directories in movie list"
+msgstr ""
+#
+msgid "Show event progress in % in service list"
+msgstr ""
+#
+msgid "Show event time in service list"
+msgstr ""
+#
+msgid "Show event-progress in channel selection"
+msgstr "Sýna framvindu atriðis við rásaval"
+#
+msgid "Show icons in movie list"
+msgstr ""
+#
+msgid "Show icons in timer list"
+msgstr ""
+#
+msgid "Show infobar on channel change"
+msgstr "Sýna upplýsingaborða við að skipta um stöð"
+#
+msgid "Show infobar on event change"
+msgstr "Sýna upplýsinga borða við breytingu á atriði"
+#
+msgid "Show infobar on skip forward/backward"
+msgstr "Sýna upplýsingaborða við stökk fram eða aftur"
+#
+msgid "Show menu entries arranged in alphabetical order"
+msgstr ""
+#
+msgid "Show on the Standby Menu"
+msgstr ""
+#
+msgid "Show picon at number zap"
+msgstr ""
+#
+msgid "Show picons in service list"
+msgstr ""
+#
+msgid "Show plugin entries arranged in alphabetical order"
+msgstr ""
+#
+msgid "Show positioner movement"
+msgstr "Sýna færslu mótors"
+#
+msgid "Show progress in movie list"
+msgstr ""
+#
+msgid "Show service list at TV / Radio mode switch"
+msgstr ""
+#
+msgid "Show service name at number zap"
+msgstr ""
+#
+msgid "Show service number in service list"
+msgstr ""
+#
+msgid "Show service type icons in service list"
+msgstr ""
+#
+msgid "Show services beginning with"
+msgstr "Sýna rásir sem byrja á"
+#
+msgid "Show the Menu window."
+msgstr ""
+#
+msgid "Show the Subtitle..."
+msgstr ""
+#
+msgid "Show the Virtual keyboard window."
+msgstr ""
+#
+msgid "Show the radio player..."
+msgstr "Sýna útvarpsspilara..."
+#
+msgid "Show the tv player..."
+msgstr "Sýna sjónvarpsspilara..."
+#
+msgid "Show timer icon for recording services"
+msgstr ""
+#
+msgid "Show zap notification for recordings"
+msgstr ""
+#
+msgid "Shows the state of your wireless LAN connection.\n"
+msgstr "Sýnir stöðu þráðlausrar nettenginar.\n"
+#
+msgid "Shutdown"
+msgstr "Slökkva"
+#
+msgid "Shutdown STB after"
+msgstr ""
+#
+msgid "Side by Side"
+msgstr ""
+#
+msgid "Signal Strength:"
+msgstr "Styrkur merkis:"
+#
+msgid "Signal: "
+msgstr "Merki:"
+#
+msgid "Similar"
+msgstr "Svipað"
+#
+msgid "Similar broadcasts:"
+msgstr "Svipuð útsending:"
+#
+msgid "Simple"
+msgstr "Einfalt"
+#
+msgid "Simple titleset (compatibility for legacy players)"
+msgstr "Einföld valmynd (virkar fyrir flesta spilara)"
+#
+msgid "Single"
+msgstr "Einn"
+#
+msgid "Single EPG"
+msgstr "Eitt EPG"
+#
+msgid "Single Service EPG"
+msgstr ""
+#
+msgid "Single satellite"
+msgstr "Einn gervihnöttur"
+#
+msgid "Single transponder"
+msgstr "Einn sendir"
+#
+msgid "Singlestep (GOP)"
+msgstr "Eitt skref (GOP)"
+#
+#, python-format
+msgid "Size : %s"
+msgstr ""
+#
+msgid "Skin"
+msgstr "Skinn"
+#
+msgid "Skins"
+msgstr "Skinn"
+#
+msgid "Sleep Timer"
+msgstr "Tímastilling"
+#
+msgid "Sleep timer action:"
+msgstr "Tíma aðgerð:"
+#
+msgid "Slideshow Interval"
+msgstr ""
+#
+msgid "Slideshow Interval (sec.)"
+msgstr "Tími milli mynda (sek.)"
+#
+#, python-format
+msgid "Slot %d"
+msgstr "Sleði %d"
+#
+msgid "Slovakian"
+msgstr "Slovakian"
+#
+msgid "Slovenian"
+msgstr "Slovenian"
+#
+msgid "Slow"
+msgstr "Hægt"
+#
+msgid "Slow Motion speeds"
+msgstr "Hraði hægspilunar"
+#
+#, python-format
+msgid ""
+"Smart Card 1 Error!\n"
+"errorcode=%d"
+msgstr ""
+#
+#, python-format
+msgid ""
+"Smart Card 2 Error!\n"
+"errorcode=%d"
+msgstr ""
+#
+msgid "Smart Card OK!!"
+msgstr ""
+#
+msgid "Smart Card model type error"
+msgstr ""
+#
+msgid "Software"
+msgstr "Hugbúnaður"
+#
+msgid "Software management"
+msgstr "Hugbúnaðar umsýsla"
+#
+msgid "Software manager setup"
+msgstr "Uppsetning hugbúnaðar umsýslu"
+#
+msgid "Software restore"
+msgstr "Hugbúnaðar endurinnsetning"
+#
+msgid "Software update"
+msgstr "Hugbúnaðar uppfærsla"
+#
+msgid "Softwaremanager information"
+msgstr "Upplýsingar hugbúnaðar umsýslu"
+#
+msgid "Some plugins are not available:\n"
+msgstr "Sum íforrit eru ekki til:\n"
+#
+msgid "Sorry MediaScanner is not installed!"
+msgstr "Þvímiður er Margmiðlunarleitari ekki innsettur!"
+#
+msgid "Sorry no backups found!"
+msgstr "Þvímiður fannst ekkert afrit!"
+#
+msgid ""
+"Sorry your backup destination is not writeable.\n"
+"Please choose an other one."
+msgstr ""
+"Því miður er ekki hægt að skrifa á valinn afritunar stað.\n"
+"Vinsamlega veldu annan stað fyrir afritið."
+#
+msgid "Sorry, no Details available!"
+msgstr "Því miður, engar nánari upplýsingar til!"
+#
+msgid "Sorry, video is not available!"
+msgstr "Því miður, mynd ekki tiltæk!"
+#
+msgid ""
+"Sorry, your backup destination is not writeable.\n"
+"\n"
+"Please choose another one."
+msgstr ""
+"Því miður er ekki hægt að skrifa á valinn afritunar stað.\n"
+"\n"
+"Vinsamlega veldu annan stað fyrir afritið."
+#
+msgid "Sort"
+msgstr ""
+#
+#. TRANSLATORS: This must fit into the header button in the EPG-List
+msgid "Sort A-Z"
+msgstr "Raða A-Ö"
+#
+#. TRANSLATORS: This must fit into the header button in the EPG-List
+msgid "Sort Time"
+msgstr "Raða Tíma"
+#
+msgid "Sound"
+msgstr "Hljóð"
+#
+msgid "Soundcarrier"
+msgstr "Hljóðburðarbylgja"
+#
+msgid "South"
+msgstr "Suður"
+#
+msgid "Spanish"
+msgstr "Spænska"
+#
+msgid "Split preview mode"
+msgstr "Skipta forsýn"
+#
+msgid "Standby"
+msgstr "Biðstaða"
+#
+msgid "Standby / Restart"
+msgstr "Biðstaða / Endurræsing"
+#
+msgid "Start"
+msgstr "Byrja"
+#
+msgid "Start Page"
+msgstr ""
+#
+msgid "Start folder for movie list"
+msgstr ""
+#
+msgid "Start from the beginning"
+msgstr "Byrja frá byrjun"
+#
+msgid "Start test"
+msgstr "Byrja prófun"
+#
+msgid "Start/Stop"
+msgstr ""
+#
+msgid "StartTime"
+msgstr "Byrjunartími"
+#
+msgid "Starting Webbrowser. Please wait..."
+msgstr ""
+#
+msgid "Starting on"
+msgstr "Byrja á"
+#
+msgid "Startpage"
+msgstr ""
+#
+msgid "Status : 0%"
+msgstr ""
+#
+msgid "Status Check Period"
+msgstr ""
+#
+msgid "Step east"
+msgstr "Skref austur"
+#
+msgid "Step west"
+msgstr "Skref vestur"
+#
+msgid "Stop"
+msgstr "Stopp"
+#
+msgid "Stop Timeshift (deleting TS file)"
+msgstr ""
+#
+msgid "Stop Timeshift (keeping TS file)"
+msgstr ""
+#
+msgid "Stop Timeshift ?"
+msgstr ""
+#
+msgid "Stop current event and disable coming events"
+msgstr "Stoppa núverandi atriði og hætta við komandi atriði"
+#
+msgid "Stop current event but not coming events"
+msgstr "Stoppa núverandi atriði en halda komandi atriðum"
+#
+msgid "Stop current records..."
+msgstr ""
+#
+msgid "Stop fast forwarding at end of movie"
+msgstr ""
+#
+msgid "Stop playing this movie?"
+msgstr "Stoppa spilun?"
+#
+msgid "Stop playing this stream?"
+msgstr ""
+#
+msgid "Stop test"
+msgstr "Stoppa prófun"
+#
+msgid "Stop testing plane after # failed transponders"
+msgstr "Hætta að prufa eftir # senda sem fundust ekki"
+#
+msgid "Stop testing plane after # successful transponders"
+msgstr "Hætta að prufa eftir að # sendar fundust"
+#
+msgid "Store position"
+msgstr "Vista staðsetningu"
+#
+msgid "Stored position"
+msgstr "Vistuð staða"
+#
+msgid "StreamTVPlayer"
+msgstr ""
+#
+msgid "Style"
+msgstr ""
+#
+msgid "Subservice list..."
+msgstr "Listi undirrása..."
+#
+msgid "Subservices"
+msgstr "Undirþjónusta"
+#
+msgid "Subtitle selection"
+msgstr "Velja undirtexta"
+#
+msgid "Subtitles"
+msgstr "Undirtextar"
+#
+msgid "Succeed"
+msgstr ""
+#
+msgid "Success. Press OK to exit."
+msgstr ""
+#
+msgid "Sun"
+msgstr "Sun"
+#
+msgid "Sunday"
+msgstr "Sunnudagur"
+#
+msgid "Swap Services"
+msgstr "Skipta á rásum"
+#
+msgid "Swedish"
+msgstr "Sænskt"
+#
+msgid "Switch to keyboard/mouse mode."
+msgstr ""
+#
+msgid "Switch to next subservice"
+msgstr "Skipta á næstu undirrás"
+#
+msgid "Switch to previous subservice"
+msgstr "Skipta á fyrri undirrás"
+#
+msgid "Switchable tuner types:"
+msgstr "Gerðir umskiptanlegra móttakara:"
+#
+msgid "Symbol rate"
+msgstr "Bitahraði"
+#
+msgid "System"
+msgstr "Kerfi"
+#
+msgid "TS file is too large for ISO9660 level 1!"
+msgstr "TS skrá er of stór fyrir ISO9660 level 1!"
+#
+msgid "TSID"
+msgstr "TSID"
+#
+msgid "TV / Radio"
+msgstr ""
+#
+msgid "TV System"
+msgstr "Sjónvarps kerfi"
+#
+msgid "TV on => VU+ activity:"
+msgstr ""
+#
+msgid "TV power off:"
+msgstr ""
+#
+msgid "TV power on:"
+msgstr ""
+#
+msgid "TV standby => VU+ activity:"
+msgstr ""
+#
+msgid "TXT PID"
+msgstr "TXT PID"
+#
+msgid "Table of content for collection"
+msgstr "Efnisyfirlit yfir safn"
+#
+msgid "Tag 1"
+msgstr "Merki 1"
+#
+msgid "Tag 2"
+msgstr "Merki 2"
+#
+msgid "Tags"
+msgstr "Merki"
+#
+msgid "Task list"
+msgstr ""
+#
+msgid "Teletext subtitle color"
+msgstr ""
+#
+msgid "Teletext subtitle font size"
+msgstr ""
+#
+msgid "Teletext subtitle horizontal alignment"
+msgstr ""
+#
+msgid "Terrestrial"
+msgstr "Stafrænt í lofti"
+#
+msgid "Terrestrial provider"
+msgstr "Sendandi á landi"
+#
+msgid "Test DiSEqC settings"
+msgstr "Prufa DiSEqC stillingar"
+#
+msgid "Test Type"
+msgstr "Prufa gerð"
+#
+msgid "Test mode"
+msgstr "Prufu hamur"
+#
+msgid "Test the network configuration of your STB.\n"
+msgstr ""
+#
+msgid "Testing Smartcard 2..."
+msgstr ""
+#
+msgid ""
+"Thank you for using the wizard.\n"
+"Please press OK to continue."
+msgstr ""
+"Takk fyrir að nota álfinn.\n"
+"Ýttu á OK til að halda áfram."
+#
+msgid ""
+"Thank you for using the wizard. Your box is now ready to use.\n"
+"Please press OK to start using your STB."
+msgstr ""
+#
+msgid ""
+"The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to "
+"create a STB format data DVD (which will not play in stand-alone DVD "
+"players) instead?"
+msgstr ""
+#
+msgid ""
+"The NetworkWizard extension is not installed!\n"
+"Please install it."
+msgstr ""
+"Netkerfis ráðgjafinn er ekki innsettur!\n"
+"Vinsamlega settu hann inn."
+#
+msgid "The PIN code has been changed successfully."
+msgstr "Það tókst að breyta PIN kóðanum."
+#
+msgid "The PIN codes you entered are different."
+msgstr "PIN númerin sem að þú slóst inn eru ekki eins."
+#
+msgid ""
+"The Softwaremanagement extension is not installed!\n"
+"Please install it."
+msgstr ""
+"Hugbúnaðar umsýslu viðbót er ekki innsett!\n"
+"Vinsamlega settu það inn."
+#
+msgid ""
+"The VTI Info Panel is not installed!\n"
+"Please install it."
+msgstr ""
+#
+msgid ""
+"The VTi InfoPanel is not installed!\n"
+"Please install it."
+msgstr ""
+#
+msgid ""
+"The VTi Panel is not installed!\n"
+"Please install it."
+msgstr ""
+#
+msgid "The backup failed. Please choose a different backup location."
+msgstr "Afritun mistókst. Veldu annan stað fyrir afritið."
+#
+msgid "The content of the folder is:"
+msgstr ""
+#
+#, python-format
+msgid ""
+"The directory %s is not writable.\n"
+"Make sure you select a writable directory instead."
+msgstr ""
+"Mappan %s er ekki skrifanleg.\n"
+"Vertu viss um að velja möppu sem má skrifa í."
+#
+msgid "The following files were found..."
+msgstr "Eftirfarandi skrár fundust..."
+#
+msgid ""
+"The input port should be configured now.\n"
+"You can now configure the screen by displaying some test picture. Do you "
+"want to do that now?"
+msgstr ""
+#
+msgid "The installation of the default services lists is finished."
+msgstr "Innsetning sjálfgefins rásalista er lokið."
+#
+msgid ""
+"The installation of the default settings is finished. You can now continue "
+"configuring your STB by pressing the OK button on the remote control."
+msgstr ""
+#
+msgid "The loopthrough setting is wrong."
+msgstr ""
+#
+msgid "The number you entered is wrong!"
+msgstr ""
+#
+msgid "The package doesn't contain anything."
+msgstr "Þessi pakki inniheldur ekkert."
+#
+#, python-format
+msgid "The path %s already exists."
+msgstr "Slóðin %s er þegar til."
+#
+msgid "The pin code you entered is wrong."
+msgstr "Kóðinn sem þú slóst inn er rangur."
+#
+msgid "The program will exit now."
+msgstr ""
+#
+#, python-format
+msgid "The results have been written to %s."
+msgstr "Útkoman hefur verið skrifuð á %s."
+#
+msgid "The sleep timer has been activated."
+msgstr "Tíma stilling fyrir svefn er virk."
+#
+msgid "The sleep timer has been disabled."
+msgstr "Tímastilling til að slökkva er óvirkur."
+#
+msgid "The sleep timer is invalid."
+msgstr ""
+#
+msgid "The timer file (timers.xml) is corrupt and could not be loaded."
+msgstr "Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana."
+#
+msgid ""
+"The wireless LAN plugin is not installed!\n"
+"Please install it and choose what you want to do next."
+msgstr ""
+"Forrit fyrir þráðlausa net ekki uppsett!\n"
+"Settu það inn og veldu hvað þú vilt gera næst."
+#
+msgid ""
+"The wireless LAN plugin is not installed!\n"
+"Please install it."
+msgstr ""
+"Þráðlausa netkortið er ekki tengt!\n"
+"Vinsamlega tengið það."
+#
+msgid ""
+"The wizard can backup your current settings. Do you want to do a backup now?"
+msgstr ""
+"Ráðgjafinn getur tekið afrit af stillingum þínum. Viltu taka afrit núna?"
+#
+msgid "The wizard is finished now."
+msgstr "Ráðgjafinn er búinn núna."
+#
+msgid "There are at least "
+msgstr "Það eru allavega "
+#
+msgid "There are currently no outstanding actions."
+msgstr "Það er ekkert atriði sem að liggur fyrir."
+#
+msgid "There are no default services lists in your image."
+msgstr "Það er enginn sjálfgefinn rásalisti í þessu stýrikerfi."
+#
+msgid "There are no default settings in your image."
+msgstr "Það er engar sjálfgefnar stillingar í þessu stýrikerfi."
+#
+msgid "There are no updates available."
+msgstr "Það er engin uppfærsla tiltæk."
+#
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr ""
+#
+msgid ""
+"There is a valid USB-flashdrive detected in one of the USB-ports, therefore "
+"an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr ""
+#
+msgid ""
+"There might not be enough Space on the selected Partition.\n"
+"Do you really want to continue?"
+msgstr ""
+"Það gæti verið of lítið pláss á valinni disksneið,\n"
+"Viltu örugglega halda áfram?"
+#
+msgid "There was an error downloading the packetlist. Please try again."
+msgstr "Það varð villa við niðurhal pakka listans. Vinsamlega prófaðu aftur."
+#
+msgid ""
+"This DVD RW medium is already formatted - reformatting will erase all "
+"content on the disc."
+msgstr ""
+"Þessi DVD RW diskur er þegar formaður - endurformun mun eyða öllum gögnum af "
+"honum."
+#
+msgid "This Plugin doesn't support on SOLO/DUO"
+msgstr ""
+#
+msgid "This Plugin only support for ULTIMO"
+msgstr ""
+#
+#, python-format
+msgid "This STB can't decode %s streams!"
+msgstr ""
+#
+msgid "This is dlna server using minidlna."
+msgstr ""
+#
+msgid "This is dlna/upnp client using djmount."
+msgstr ""
+#
+msgid "This is step number 2."
+msgstr "Þetta er hluti númer 2"
+#
+msgid "This model is not support transcoding."
+msgstr ""
+#
+msgid "This only takes about 20 seconds....."
+msgstr ""
+#
+msgid ""
+"This partition is not mountable.\n"
+"You need to check or format this partition."
+msgstr ""
+#
+msgid "This plugin is installed."
+msgstr "Þetta íforrit er uppsett."
+#
+msgid "This plugin is not installed."
+msgstr "Þetta íforrit er ekki sett upp."
+#
+msgid "This plugin will be installed."
+msgstr "Þetta íforrit verður sett inn."
+#
+msgid "This plugin will be removed."
+msgstr "Þetta íforrit verður tekið út."
+#
+msgid ""
+"This test checks for configured Nameservers.\n"
+"If you get a \"unconfirmed\" message:\n"
+"- please check your DHCP, cabling and Adapter setup\n"
+"- if you configured your Nameservers manually please verify your entries in "
+"the \"Nameserver\" Configuration"
+msgstr ""
+"Þessi prufun athugar stillingar nafnaþjóns.\n"
+"Ef þú færð \"óstaðfest\" skilaboð:\n"
+"- athugaðu DHCP þjónustu, tengingar og uppsetningu\n"
+"- ef að þú hefur sett upp nafnaþjón handvirkt athugaðu þá þínar nafnaþjóns "
+"stillingar."
+#
+msgid ""
+"This test checks whether a network cable is connected to your LAN-Adapter.\n"
+"If you get a \"disconnected\" message:\n"
+"- verify that a network cable is attached\n"
+"- verify that the cable is not broken"
+msgstr ""
+"Þessi prufun athugar hvort að netkapallinn sé tengdur við netkortið þitt.\n"
+"Ef þú færð skilaboðin \"ótengt\":\n"
+"- athugaðu hvort að kapallinn sé tengur\n"
+"- athugaðu hvort að kapallinn sé skemmdur"
+#
+msgid ""
+"This test checks whether a network cable is connected to your Wireless LAN-"
+"Adapter."
+msgstr ""
+#
+msgid ""
+"This test checks whether a valid IP Address is found for your LAN Adapter.\n"
+"If you get a \"unconfirmed\" message:\n"
+"- no valid IP Address was found\n"
+"- please check your DHCP, cabling and adapter setup"
+msgstr ""
+"Þessi prufun athugar hvort að gild IP tala fannst fyrir þitt netkort.\n"
+"Ef þú færð skilaboðin \"óstaðfest\":\n"
+"- það fannst ekki gild IP tala\n"
+"- athugaðu DHCP uppsetningu, tengingar eða uppsetningu nets"
+#
+msgid ""
+"This test checks whether your LAN Adapter is set up for automatic IP Address "
+"configuration with DHCP.\n"
+"If you get a \"disabled\" message:\n"
+" - then your LAN Adapter is configured for manual IP Setup\n"
+"- verify thay you have entered correct IP informations in the AdapterSetup "
+"dialog.\n"
+"If you get an \"enabeld\" message:\n"
+"-verify that you have a configured and working DHCP Server in your network."
+msgstr ""
+"Þessi prufun athugar hvort að netkortið þitt sé sett upp fyrir sjálfvirka "
+"úthlutun á IP tölu með DHCP þjón.\n"
+"Ef þú færð skilaboðiin \"óvirkt\":\n"
+"- þá er netkortið stillt fyrir handvirka IP uppsetningu\n"
+"- athugaðu hvort að þú hafir sett inn réttar IP uppsetngingar í stillingum "
+"netkorts\n"
+"Ef þú færð skilaboðin \"virkt\":\n"
+"- athugaðu hvort að það sé DHCP þjónn sem úthlutar IP tölum á innra neti þínu"
+#
+msgid ""
+"This test checks whether your Wireless LAN Adapter is set up for automatic "
+"IP Address configuration with DHCP.\n"
+"If you get a \"disabled\" message:\n"
+" - then your Wireless LAN Adapter is configured for manual IP Setup\n"
+"- verify thay you have entered correct IP informations in the AdapterSetup "
+"dialog.\n"
+"If you get an \"enabeld\" message:\n"
+"-verify that you have a configured and working DHCP Server in your network."
+msgstr ""
+#
+msgid "This test detects your configured LAN-Adapter."
+msgstr "Þessi prufun skynjar innstillt netkort."
+#
+msgid "This test detects your configured Wireless LAN-Adapter."
+msgstr ""
+#
+msgid "Three"
+msgstr "Þrír"
+#
+msgid "Threshold"
+msgstr "Mörk"
+#
+msgid "Thu"
+msgstr "Fim"
+#
+msgid "Thumbnails"
+msgstr "Smámyndir"
+#
+msgid "Thursday"
+msgstr "Fimmtudagur"
+#
+msgid "Time"
+msgstr "Tími"
+#
+msgid "Time for next VFD scrolling"
+msgstr ""
+#
+msgid "Time required for this process: "
+msgstr ""
+#
+msgid "Time/Date Input"
+msgstr "Tíma/Dags Innsláttur"
+#
+msgid "Timeout for number zap in milliseconds"
+msgstr ""
+#
+msgid "Timer Edit"
+msgstr "Breyta Tímastillingu"
+#
+msgid "Timer Editor"
+msgstr "Breyta Tímastillingum"
+#
+msgid "Timer Type"
+msgstr "Gerð Tímastillngar"
+#
+msgid "Timer entry"
+msgstr "Innsláttur tímastilltra atriða"
+#
+msgid "Timer log"
+msgstr "Tíma skrá"
+#
+msgid ""
+"Timer overlap in timers.xml detected!\n"
+"Please recheck it!"
+msgstr ""
+"Tímastillingar ná yfir hvorn annan!\n"
+"Vinsamlega athugið það!"
+#
+msgid "Timer record location"
+msgstr "Staður fyrir tímastilltar upptökur"
+#
+msgid "Timer sanity error"
+msgstr "Villa í tímastillingu"
+#
+msgid "Timer selection"
+msgstr "Tímastillinga val"
+#
+msgid "Timer status:"
+msgstr "Tíma staða:"
+#
+msgid "Timeshift"
+msgstr "Lifandi pása"
+#
+msgid "Timeshift location"
+msgstr "Staður fyrir lifandi pásu"
+#
+msgid "Timeshift not possible!"
+msgstr "Tímabreyting ekki möguleg!"
+#
+msgid "Timezone"
+msgstr "Tímabelti"
+#
+msgid "Title"
+msgstr "Titill"
+#
+msgid "Title properties"
+msgstr "Upplýsingar titils"
+#
+msgid "Titleset mode"
+msgstr "Titla stillingar"
+#
+msgid ""
+"To back-up directly to the USB-stick, the USB-stick MUST contain a file with "
+"the name:"
+msgstr ""
+#
+msgid "To restore the image:"
+msgstr ""
+#
+msgid "Today"
+msgstr "Í dag"
+#
+msgid "Tone Amplitude"
+msgstr "Styrkur tóns"
+#
+msgid "Tone mode"
+msgstr "Tón stilling"
+#
+msgid "Toneburst"
+msgstr "Tónstýring"
+#
+msgid "Toneburst A/B"
+msgstr "Tón stýring A/B"
+#
+msgid "Tools"
+msgstr ""
+#
+msgid "Top"
+msgstr ""
+#
+msgid "Top and Bottom"
+msgstr ""
+#
+msgid "Touch LED Blinking time"
+msgstr ""
+#
+msgid "Touch LED Brightness at Deep Standby"
+msgstr ""
+#
+msgid "Touch LED Brightness at Normal state"
+msgstr ""
+#
+msgid "Touch LED Brightness at Standby"
+msgstr ""
+#
+msgid "Track"
+msgstr "Spor"
+#
+msgid "Transcoding"
+msgstr ""
+#
+msgid "Transcoding Setup"
+msgstr ""
+#
+msgid ""
+"Transcoding can be started when there is no corresponding channel recordings."
+msgstr ""
+#
+msgid "TranscodingSetup"
+msgstr ""
+#
+msgid "Translation"
+msgstr "Þýðing"
+#
+msgid "Translation:"
+msgstr "Þýðing:"
+#
+msgid "Transmission mode"
+msgstr "Sendi stilling"
+#
+msgid "Transponder"
+msgstr "Sendir"
+#
+msgid "Tries left:"
+msgstr "Tilraunir eftir:"
+#
+msgid "Try to find used Transponders in cable network.. please wait..."
+msgstr "Reyni að finna sendi á kapalkerfi.. vinsamlega bíðið..."
+#
+msgid "Try to find used transponders in cable network.. please wait..."
+msgstr "Reyni að finna sendi í kapalkerfi.. vinsamlega bíðið..."
+#
+msgid "Trying to download a new packetlist. Please wait..."
+msgstr "Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið..."
+#
+msgid "Tue"
+msgstr "Þri"
+#
+msgid "Tuesday"
+msgstr "Þriðjudagur"
+#
+msgid "Tune"
+msgstr "Stilla"
+#
+msgid "Tune failed!"
+msgstr "Tókst ekki að stilla inn!"
+#
+#, python-format
+msgid "Tune%d %s Locking Fail..."
+msgstr ""
+#
+msgid "Tuner"
+msgstr "Móttakari"
+#
+msgid "Tuner "
+msgstr "Móttakari"
+#
+msgid "Tuner Slot"
+msgstr "Móttakara tengi"
+#
+msgid "Tuner configuration"
+msgstr "Stilling móttakara"
+#
+msgid "Tuner status"
+msgstr "Móttakari"
+#
+msgid "Tuner type"
+msgstr "Gerð móttakara"
+#
+msgid "Turkish"
+msgstr "Tyrkneska"
+#
+msgid "Two"
+msgstr "Tveir"
+#
+msgid "Type"
+msgstr "Gerð"
+#
+#, python-format
+msgid "Type : %s"
+msgstr ""
+#
+msgid "Type of scan"
+msgstr "Gerð leitunar"
+#
+msgid "UI 3D setup"
+msgstr ""
+#
+msgid "UI position setup"
+msgstr ""
+#
+msgid "UPNP"
+msgstr ""
+#
+msgid "USALS"
+msgstr "USALS"
+#
+msgid "USB Image created in: "
+msgstr ""
+#
+msgid "USB Stick"
+msgstr "USB stautur"
+#
+#, python-format
+msgid "USB test error : Success-%d"
+msgstr ""
+#
+#, python-format
+msgid ""
+"USB test pass %d devices\n"
+"Press 'OK' button!"
+msgstr ""
+#
+#, python-format
+msgid "UUID : %s"
+msgstr ""
+#
+msgid "Ukrainian"
+msgstr "Ukrainian"
+#
+msgid "Umount"
+msgstr ""
+#
+msgid ""
+"Unable to complete filesystem check.\n"
+"Error: "
+msgstr ""
+"Gat ekki lokið prufun á skráarkerfi.\n"
+"Villa:"
+#
+msgid ""
+"Unable to initialize harddisk.\n"
+"Error: "
+msgstr ""
+"Gat ekki formað harðadisk.\n"
+"Villa:"
+#
+msgid "Uncommitted DiSEqC command"
+msgstr "Uncommitted DiSEqC stýring"
+#
+msgid "Undo install"
+msgstr "Hætta við innsetningu"
+#
+msgid "Undo uninstall"
+msgstr "Hætta við að hætta við"
+#
+msgid "Unencrypted"
+msgstr "Opin rás"
+#
+msgid "UnhandledKey"
+msgstr "Ónotaður"
+#
+msgid "Unicable"
+msgstr "Unicable"
+#
+msgid "Unicable LNB"
+msgstr "Unicable LNB"
+#
+msgid "Unicable Martix"
+msgstr "Unicable Martix"
+#
+msgid "Uninstall"
+msgstr "Taka út"
+#
+msgid "Universal LNB"
+msgstr "Venjulegt LNB"
+#
+msgid "Unknown"
+msgstr "Óþekkt"
+#
+msgid "Unknown network adapter"
+msgstr ""
+#
+msgid "Unmount failed"
+msgstr "Aftenging tókst ekki"
+#
+msgid "Unsupported"
+msgstr "Ekki stutt"
+#
+msgid "Up"
+msgstr ""
+#
+msgid "Up Key"
+msgstr ""
+#
+msgid "Update"
+msgstr "Uppfæra"
+#
+msgid "Updatefeed not available."
+msgstr "Uppfærslur á fæðirásum ekki tiltækar."
+#
+msgid "Updating finished. Here is the result:"
+msgstr "Uppfærslu er lokið. Hér er útkoman:"
+#
+msgid "Updating software catalog"
+msgstr "Uppfæri efnisyfirlit hugbúnaðar"
+#
+msgid "Updating... Please wait... This can take some minutes..."
+msgstr "Uppfæri... Vinsamlega bíðið... Þetta getur tekið nokkurn tíma.."
+#
+msgid "Upgrade"
+msgstr "Uppfærsla"
+#
+msgid "Upgrade FPGA.."
+msgstr ""
+#
+msgid "Upgrade Firmware.."
+msgstr ""
+#
+msgid "Upgrade finished."
+msgstr "Uppfærslu lokið."
+#
+msgid ""
+"Upgrade will take about 5 minutes to finish.\n"
+"Do you want to upgrade?"
+msgstr ""
+#
+msgid "Upgrading"
+msgstr "Uppfæri"
+#
+msgid "Upgrading STB... Please wait"
+msgstr ""
+#
+msgid "Url"
+msgstr ""
+#
+msgid "Use"
+msgstr "Nota"
+#
+msgid "Use AP Mode"
+msgstr ""
+#
+msgid "Use DHCP"
+msgstr "Nota DHCP"
+#
+msgid "Use Device"
+msgstr ""
+#
+msgid "Use EIT EPG"
+msgstr ""
+#
+msgid "Use EXIT-Button to leave movie player"
+msgstr ""
+#
+msgid "Use Fan timer"
+msgstr ""
+#
+msgid "Use Gateway"
+msgstr ""
+#
+msgid "Use Interface"
+msgstr "Nota netkort"
+#
+msgid "Use Manual dns-nameserver"
+msgstr ""
+#
+msgid "Use PiP at EPGBar"
+msgstr ""
+#
+msgid "Use PictureInGraphic (PiG)"
+msgstr ""
+#
+msgid "Use Power Measurement"
+msgstr "Nota afl mælingu"
+#
+msgid "Use TV remotecontrol:"
+msgstr ""
+#
+msgid "Use a gateway"
+msgstr "Nota beini"
+#
+msgid "Use custom main menu"
+msgstr ""
+#
+msgid "Use matrix mode for service list"
+msgstr ""
+#
+msgid "Use package maintainer config files"
+msgstr ""
+#
+msgid "Use power measurement"
+msgstr "Nota aflmælingu"
+#
+msgid "Use silent recording mode"
+msgstr ""
+#
+msgid "Use startup service for leaving standby"
+msgstr ""
+#
+msgid "Use the Networkwizard to configure selected network adapter"
+msgstr "Nota ráðgjafa til að stilla valið netkort"
+#
+msgid "Use the Networkwizard to configure your Network\n"
+msgstr "Nota netkerfis álf til að stilla inn netkerfið\n"
+#
+msgid ""
+"Use the left and right buttons to change an option.\n"
+"\n"
+"Please set up tuner A"
+msgstr ""
+"Notaðu vinstri og hægri takka til að breyta.\n"
+"\n"
+"Vinsamlega settu upp móttakara A"
+#
+msgid ""
+"Use the up/down keys on your remote control to select an option. After that, "
+"press OK."
+msgstr "Ýttu á up/niður takka á fjarstýringu til að velja. Ýttu svo á OK."
+#
+msgid "Use this input device settings?"
+msgstr "Nota þessar stillingar fyrir inntaks tæki?"
+#
+msgid "Use this settings?"
+msgstr "Nota þessar stillingar?"
+#
+msgid "Use this video enhancement settings?"
+msgstr "Nota mynd endurbóta stillingar?"
+#
+msgid "Use time of currently running service"
+msgstr "Nota tíma nú keyrandi þjónustu"
+#
+msgid "Use usals for this sat"
+msgstr "Nota usals fyrir þennan hnött"
+#
+msgid "Use wizard to set up basic features"
+msgstr "Nota álfinn til að setja upp grunnstillingar"
+#
+msgid "Used service scan type"
+msgstr "Notuð leitunaraðferð"
+#
+msgid "User :"
+msgstr ""
+#
+msgid "User Email"
+msgstr ""
+#
+msgid "User ID"
+msgstr ""
+#
+msgid "User Interface"
+msgstr ""
+#
+msgid "User defined"
+msgstr "Stillt af notanda"
+#
+msgid "User manually Set up a Mount Point"
+msgstr ""
+#
+msgid "User name"
+msgstr ""
+#
+msgid "Username"
+msgstr "Notandanafn"
+#
+msgid "Using a Wireless module as access point."
+msgstr ""
+#
+msgid "VCR scart"
+msgstr "Vídeó scart"
+#
+msgid "VFD Controller"
+msgstr ""
+#
+msgid "VFD scroll speed"
+msgstr ""
+#
+msgid "VMGM (intro trailer)"
+msgstr "VMGM (mynd sýnishorn)"
+#
+msgid "VTI"
+msgstr ""
+#
+msgid "VU deepstandby => TV activity:"
+msgstr ""
+#
+msgid "VU on => TV activity:"
+msgstr ""
+#
+msgid "VU standby => TV activity:"
+msgstr ""
+#
+msgid "Verifying your internet connection..."
+msgstr "Athuga með internet tenginguna..."
+#
+msgid "Version"
+msgstr ""
+#
+msgid "Vertical"
+msgstr "Lóðrétt"
+#
+msgid "Video Directory"
+msgstr ""
+#
+msgid "Video Fine-Tuning"
+msgstr "Mynd fínstillingar"
+#
+msgid "Video Fine-Tuning Wizard"
+msgstr "Mynd fínstillinga ráðgjafi"
+#
+msgid "Video PID"
+msgstr "Video PID"
+#
+msgid "Video enhancement preview"
+msgstr "Mynd endurbóta forsýn"
+#
+msgid "Video enhancement settings"
+msgstr "Mynd endurbóta stillingar"
+#
+msgid "Video enhancement setup"
+msgstr "Mynd endurbóta uppsetnging"
+#
+msgid ""
+"Video input selection\n"
+"\n"
+"Please press OK if you can see this page on your TV or select a different "
+"input port.\n"
+"\n"
+"The next input port will be automatically probed in 20 seconds"
+msgstr ""
+#
+msgid "Video mode selection"
+msgstr ""
+#
+msgid "Videoenhancement Setup"
+msgstr "Mynd endurbóta uppsetning"
+#
+msgid "View Movies..."
+msgstr "Skoða bíómyndir..."
+#
+msgid "View Photos..."
+msgstr "Skoða ljósmyndir..."
+#
+msgid "View Rass interactive..."
+msgstr "Skoða gagnvirkt Útvarp"
+#
+msgid "View Video CD..."
+msgstr "Skoða Video CD..."
+#
+msgid "View details"
+msgstr "Skoða nánar"
+#
+msgid "View list of available "
+msgstr "Skoða lista af tiltækum"
+#
+msgid "View list of available CommonInterface extensions"
+msgstr "Skoða lista af tiltækum CommonInterface viðbótum."
+#
+msgid "View list of available Display and Userinterface extensions."
+msgstr "Skoða lista af tiltækum Skjá og viðmóts viðbótum."
+#
+msgid "View list of available EPG extensions."
+msgstr "Skoða lista af tiltækum EPG viðbótum."
+#
+msgid "View list of available Satellite equipment extensions."
+msgstr "Skoða lista af tiltækum gervihnatta viðbótum."
+#
+msgid "View list of available communication extensions."
+msgstr "Skoða lista af tiltækum samskipta viðbótum."
+#
+msgid "View list of available default settings"
+msgstr "Skoða lista af tiltækum sjálfgefnum stillingum"
+#
+msgid "View list of available multimedia extensions."
+msgstr "Skoða lista af tiltækum magmiðlunar viðbótum."
+#
+msgid "View list of available networking extensions"
+msgstr "Skoða lista af tiltækum netkerfis viðbótum"
+#
+msgid "View list of available recording extensions"
+msgstr "Skoða lista af tiltækum upptöku viðbótum"
+#
+msgid "View list of available skins"
+msgstr "Skoða lista af tiltækum skinnum"
+#
+msgid "View list of available software extensions"
+msgstr "Skoða lista af tiltækum hugbúnaðar viðbótum"
+#
+msgid "View list of available system extensions"
+msgstr "Skoða lista af tiltækum kerfis viðbótum"
+#
+msgid "View teletext..."
+msgstr "Skoða textavarp..."
+#
+msgid "Virtual KeyBoard"
+msgstr "Sýndar lyklaborð"
+#
+msgid "Voltage mode"
+msgstr "Spennu stýring"
+#
+msgid "Volume"
+msgstr "Styrkur"
+#
+msgid "WEP"
+msgstr "WEP"
+#
+msgid "WEP Key (HEX)"
+msgstr ""
+#
+msgid "WLAN adapter"
+msgstr ""
+#
+msgid "WLAN adapter."
+msgstr "WLAN netkort."
+#
+msgid "WLAN connection"
+msgstr "WLAN nettenging"
+#
+msgid "WPA"
+msgstr "WPA"
+#
+msgid "WPA or WPA2"
+msgstr "WPA eða WPA2"
+#
+msgid "WPA/WPA2"
+msgstr ""
+#
+msgid "WPA2"
+msgstr "WPA2"
+#
+msgid "WSS on 4:3"
+msgstr "WSS á 4:3"
+#
+msgid "Wait a moment"
+msgstr ""
+#
+msgid "Wait a moment..."
+msgstr ""
+#
+msgid "Waiting"
+msgstr "Bíð"
+#
+msgid "WakeOnLan Enable"
+msgstr ""
+#
+msgid "WakeOnLan Setup"
+msgstr ""
+#
+msgid "Web Browser"
+msgstr ""
+#
+msgid "Wed"
+msgstr "Mið"
+#
+msgid "Wednesday"
+msgstr "Miðvikudagur"
+#
+msgid "Weekday"
+msgstr "Vikudagur"
+#
+msgid ""
+"Welcome to the Cutlist editor.\n"
+"\n"
+"Seek to the start of the stuff you want to cut away. Press OK, select 'start "
+"cut'.\n"
+"\n"
+"Then seek to the end, press OK, select 'end cut'. That's it."
+msgstr ""
+"Velkominn í klippinga stjórann.\n"
+"\n"
+"Farðu að byrjun á því sem að þú ætlar að klippa. Ýttu á OK og veldu 'byrja "
+"klippingu'.\n"
+"\n"
+"Farðu þá að enda þess og ýttu á OK, veldu 'enda klippingu'. Það er allt og "
+"sumt."
+#
+msgid ""
+"Welcome to the Image upgrade wizard. The wizard will assist you in upgrading "
+"the firmware of your STB by providing a backup facility for your current "
+"settings and a short explanation of how to upgrade your firmware."
+msgstr ""
+#
+msgid ""
+"Welcome.\n"
+"\n"
+"If you want to connect your STB to the Internet, this wizard will guide you "
+"through the basic network setup of your STB.\n"
+"\n"
+"Press OK to start configuring your network"
+msgstr ""
+#
+msgid "Welcome..."
+msgstr "Velkomin(n)..."
+#
+msgid "West"
+msgstr "Vestur"
+#
+msgid "What do you want to scan?"
+msgstr "Að hverju viltu leita?"
+#
+msgid "Wheel RIGHT"
+msgstr ""
+#
+msgid ""
+"When you do a factory reset, you will lose ALL your configuration data\n"
+"(including bouquets, services, satellite data ...)\n"
+"After completion of factory reset, your receiver will restart "
+"automatically!\n"
+"\n"
+"Really do a factory reset?"
+msgstr ""
+"Þegar þú velur verksmiðju stillingu þá missir þú út ALLAR stillingar\n"
+"(þar með talið rásavendi, rásir, gervihnattaupplýsingar...)\n"
+"Eftir að búið er að setja inn verksmiðju stillingar þá mun móttakarinn "
+"endurræsa sig.\n"
+"Ertu viss um að þú viljir setja inn verksmiðju stillingar?"
+#
+msgid "Where do you want to backup your settings?"
+msgstr "Hvar viltu vista afritið?"
+#
+msgid "Where to save temporary timeshift recordings?"
+msgstr "Hvar á að vista tímabundnar tímafærslu upptökur?"
+#
+msgid "Width of channel name (matrix mode)"
+msgstr ""
+#
+msgid "Wireless Access Point"
+msgstr ""
+#
+msgid "Wireless LAN"
+msgstr "­Þráðlaust net"
+#
+msgid "Wireless LAN Setup"
+msgstr ""
+#
+msgid "Wireless Lan Device is not detected."
+msgstr ""
+#
+msgid "Wireless Network"
+msgstr "Þráðlaust netkerfi"
+#
+msgid "Wireless network connection setup"
+msgstr "Uppsetning á þráðlausu neti"
+#
+msgid "Wireless network connection setup."
+msgstr "Uppsetning á þráðlausu neti."
+#
+msgid "Wireless network state"
+msgstr "Staða þráðlausa nets"
+#
+msgid "Write error while recording. Disk full?\n"
+msgstr "Villla við upptöku. Diskur fullur?\n"
+#
+msgid "Write failed!"
+msgstr "Tókst ekki að skrifa!"
+#
+msgid "YPbPr"
+msgstr "YPbPr"
+#
+msgid "Year"
+msgstr "Ár"
+#
+msgid "Yellow font for DVB subtitles"
+msgstr ""
+#
+msgid "Yes"
+msgstr "Já"
+#
+msgid "Yes to all"
+msgstr "Já við allt"
+#
+msgid "Yes, always"
+msgstr "Já, alltaf"
+#
+msgid "Yes, and delete this movie"
+msgstr "Já, og eyða þessari bíómynd"
+#
+msgid "Yes, delete this movie and go back to movie list"
+msgstr ""
+#
+msgid "Yes, backup my settings!"
+msgstr "Já, taka afrit að stilinunum!"
+#
+msgid "Yes, do a manual scan now"
+msgstr "Já, leita handvirkt núna"
+#
+msgid "Yes, do an automatic scan now"
+msgstr "Já, leita sjálfvirkt núna"
+#
+msgid "Yes, do another manual scan now"
+msgstr "Já, leitaðu aftur handvirkt núna"
+#
+msgid "Yes, perform a shutdown now."
+msgstr "Já, slökkva núna"
+#
+msgid "Yes, restore the settings now"
+msgstr "Já, settu inn afritið núna"
+#
+msgid "Yes, returning to movie list"
+msgstr "Já, fara til baka á mynda lista"
+#
+msgid "Yes, view the tutorial"
+msgstr "Já, skoða kennslu"
+#
+msgid "You can cancel the installation."
+msgstr "Þú getur hætt við uppsetninguna."
+#
+msgid "You can cancel the removal."
+msgstr "Þú getur hætt við að fjarlægja."
+#
+msgid ""
+"You can choose some default settings now. Please select the settings you "
+"want to be installed."
+msgstr ""
+"Þú getur valið sjálfgefnar stillingar núna. Vinsamlega veldu stillignar sem "
+"að þú vilt setja inn."
+#
+msgid "You can choose, what you want to install..."
+msgstr "Þú getur valið það sem að þú vilt setja inn..."
+#
+msgid "You can install this plugin."
+msgstr "Þú getur sett inn þetta íforrit."
+#
+msgid "You can only burn STB recordings!"
+msgstr ""
+#
+msgid "You can remove this plugin."
+msgstr "Þú getur tekið út þetta íforrit."
+#
+msgid ""
+"You can't cancel during upgrade.\n"
+"Do you want to continue ?"
+msgstr ""
+#
+msgid "You cannot delete this!"
+msgstr "Þú getur ekki eytt þessu!"
+#
+msgid "You choose the incorrect file. "
+msgstr ""
+#
+msgid "You chose not to install any default services lists."
+msgstr "Þú valdir að setja ekki inn neinar sjálfgefnar stillingar."
+#
+msgid ""
+"You chose not to install any default settings. You can however install the "
+"default settings later in the settings menu."
+msgstr ""
+"Þú valdir ekki að setja inn neinar sjálfgefnar stillingar. Þú getur "
+"hinsvegar valið að setja inn seinna þessar stillingar."
+#
+msgid ""
+"You chose not to install anything. Please press OK finish the install wizard."
+msgstr ""
+"Þú valdir ekki að setja in neitt. Vinsamlega ýttu á OK til að ljúka álfi."
+#
+msgid "You didn't select a channel to record from."
+msgstr "Þú valdir ekki rás til að taka upp af."
+#
+msgid ""
+"You have chosen to backup your settings. Please press OK to start the backup "
+"now."
+msgstr ""
+"Þú hefur valið að taka afrit af stillingum þínum. Ýttu á OK til að byrja að "
+"taka afrit núna."
+#
+msgid ""
+"You have chosen to restore your settings. Enigma2 will restart after "
+"restore. Please press OK to start the restore now."
+msgstr ""
+"Þú hefur valið að setja inn eldra afrit. Enigma2 mun endurræsa eftir "
+"innsetningu. Ýttu á OK til að byrja að setja inn afritið núna."
+#
+#, python-format
+msgid "You have to wait %s!"
+msgstr "Þú þarf að bíða %s!"
+#
+msgid ""
+"You need a PC connected to your STB. If you need further instructions, "
+"please visit the website http://www.dm7025.de.\n"
+"Your STB will now be halted. After you have performed the update "
+"instructions from the website, your new firmware will ask you to restore "
+"your settings."
+msgstr ""
+#
+msgid ""
+"You need to set a PIN code and hide it from your children.\n"
+"\n"
+"Do you want to set the pin now?"
+msgstr ""
+"Þú þarft að búa til PIN kóða og fela hann fyrir börnunum.\n"
+"\n"
+"Viltu búa til kóða núna?"
+#
+msgid ""
+"Your STB is now ready to use.\n"
+"\n"
+"Your internet connection is working now.\n"
+"\n"
+msgstr ""
+#
+msgid ""
+"Your STB is now ready to use.\n"
+"\n"
+"Your internet connection is working now.\n"
+"\n"
+"Please press OK to continue."
+msgstr ""
+#
+msgid "Your STB is shutting down. Please stand by..."
+msgstr ""
+#
+msgid ""
+"Your STB isn't connected to the internet properly. Please check it and try "
+"again."
+msgstr ""
+#
+msgid "Your STB will restart after pressing OK on your remote control."
+msgstr ""
+#
+msgid ""
+"Your backup succeeded. We will now continue to explain the further upgrade "
+"process."
+msgstr "Það tókst að taka afrit. Nú höldum við áfram með uppfærsluna."
+#
+msgid ""
+"Your collection exceeds the size of a single layer medium, you will need a "
+"blank dual layer DVD!"
+msgstr ""
+"Safn þitt er of stórt fyrir disk með einfalt lag. Þú þarft tóman disk með "
+"tveim lögum."
+#
+msgid "Your current collection will get lost!"
+msgstr "Núverandi safn þitt mun glatast!"
+#
+msgid ""
+"Your internet connection is not working!\n"
+"Please choose what you want to do next."
+msgstr ""
+"Veraldarvefs tenging virkar ekki!\n"
+"Vinsamlega veldu hvað þú vilt gera næst."
+#
+msgid "Your network configuration has been activated."
+msgstr "Stillingar netkerfis hafa verið gerðar virkar."
+#
+msgid "Your network is not working. Please try again."
+msgstr "Netið virkar ekki. Reyndu aftur."
+#
+msgid ""
+"Your wireless LAN internet connection could not be started!\n"
+"Have you attached your USB WLAN Stick?\n"
+"\n"
+"Please choose what you want to do next."
+msgstr ""
+"Það tókst ekki að ræsa þráðlausu net tenginguna þína!\n"
+"Ertu búinn að tengja þráðlausa USB stautinn?\n"
+"\n"
+"Vinsamlega veldu hvað þú vilt gera næst."
+#
+msgid "Zap"
+msgstr ""
+#
+msgid "Zap PiP and not main screen"
+msgstr ""
+#
+msgid "Zap back to previously tuned service?"
+msgstr "Fara aftur á rás sem áður var stillt á?"
+#
+msgid "Zap back to service before positioner setup?"
+msgstr "Fara aftur á rás fyrir stillingu á mótorstýringu?"
+#
+msgid "Zap back to service before satfinder?"
+msgstr "Fara aftur á rás fyrir rásaleitun?"
+#
+msgid "Zap back to service before tuner setup?"
+msgstr "Fara aftur á rás fyrir stillingu móttakara?"
+#
+msgid "Zapping Mode"
+msgstr ""
+#
+msgid "Zapping Mode Selection"
+msgstr ""
+#
+msgid "ZappingModeSelection"
+msgstr ""
+#
+msgid "Zydas"
+msgstr "Zydas"
+#
+msgid "[ N/A ]"
+msgstr ""
+#
+msgid "[alternative edit]"
+msgstr "[breyta valkostum]"
+#
+msgid "[bouquet edit]"
+msgstr "[breyta fléttu]"
+#
+msgid "[favourite edit]"
+msgstr "[breyta eftirlætis lista]"
+#
+msgid "[move mode]"
+msgstr "[færslu staða]"
+#
+msgid "a gui to assign services/providers to common interface modules"
+msgstr ""
+"viðmót til að tengja rásir/sendendur við afruglara í tengi fyrir afruglara"
+#
+msgid "a gui to assign services/providers/caids to common interface modules"
+msgstr ""
+"viðmót til að tengja rásir/sendendur/caid við afruglara í tengi fyrir "
+"afruglara"
+#
+msgid "abort alternatives edit"
+msgstr "hætta við að breyta valkostum"
+#
+msgid "abort bouquet edit"
+msgstr "hætta við að breyta fléttu"
+#
+msgid "abort favourites edit"
+msgstr "hætta við að breyta eftirlætis lista"
+#
+msgid "about to start"
+msgstr "er að byrja"
+#
+msgid "activate current configuration"
+msgstr "virkja núverandi stillingar"
+#
+msgid "activate network adapter configuration"
+msgstr "virkja stillingar netkorts"
+#
+msgid "add Provider"
+msgstr "bæta við sendanda"
+#
+msgid "add Service"
+msgstr "bæta við rás"
+#
+msgid "add a nameserver entry"
+msgstr "bæta við nafnaþjón"
+#
+msgid "add alternatives"
+msgstr "bæta við valkosti"
+#
+msgid "add bookmark"
+msgstr "bæta við bókamerki"
+#
+msgid "add bouquet"
+msgstr "bæta rásavendi við"
+#
+msgid "add directory to playlist"
+msgstr "bæta möppu við spilunarlista"
+#
+msgid "add file to playlist"
+msgstr "bæta skrá við spilunarlista"
+#
+msgid "add files to playlist"
+msgstr "bæta rásum við spilunarlista"
+#
+msgid "add marker"
+msgstr "bæta við merki"
+#
+msgid "add recording (enter recording duration)"
+msgstr "bæta við upptöku (stilla tíma á upptöku)"
+#
+msgid "add recording (enter recording endtime)"
+msgstr "bæta við upptöku (velja tímalok upptöku)"
+#
+msgid "add recording (indefinitely)"
+msgstr "bæta við upptöku (endalaus)"
+#
+msgid "add recording (stop after current event)"
+msgstr "bæta við upptöku (stoppa eftir núverandi atriði)"
+#
+msgid "add service to bouquet"
+msgstr "bæta rás við fléttu"
+#
+msgid "add service to favourites"
+msgstr "bæta rás við eftirlætis lista"
+#
+msgid "add to parental protection"
+msgstr "bæta við foreldra lás"
+#
+msgid "advanced"
+msgstr "meiri stillingar"
+#
+msgid "alphabetic sort"
+msgstr "raða í stafrófsröð"
+#
+msgid "and there is made an extra copy in: "
+msgstr ""
+#
+msgid "assigned CAIds:"
+msgstr "úthlutað CAIds:"
+#
+msgid "assigned Services/Provider:"
+msgstr "úthlutaðar rásir/sendendur:"
+#
+msgid "at beginning"
+msgstr "að byrjun"
+#
+msgid "at end"
+msgstr "að enda"
+#
+#, python-format
+msgid "audio track (%s) format"
+msgstr "hljóð rás (%s) form"
+#
+#, python-format
+msgid "audio track (%s) language"
+msgstr "hljóð rás (%s) tungumál"
+#
+msgid "audio tracks"
+msgstr "hljóð rás"
+#
+msgid "auto"
+msgstr "sjálfvirkt"
+#
+msgid "auto (off)"
+msgstr ""
+#
+msgid "available "
+msgstr ""
+#
+msgid "back"
+msgstr "til baka"
+#
+msgid "background image"
+msgstr "bakgrunns mynd"
+#
+msgid "backgroundcolor"
+msgstr "bakgrunnslitur"
+#
+msgid "backupstick or"
+msgstr ""
+#
+msgid "backupstick.txt"
+msgstr ""
+#
+msgid "better"
+msgstr "betra"
+#
+msgid "black"
+msgstr "svartur"
+#
+msgid "black screen"
+msgstr ""
+#
+msgid "blacklist"
+msgstr "svarti listi"
+#
+msgid "blue"
+msgstr "blár"
+#
+msgid "bookmark"
+msgstr ""
+#
+#, python-format
+msgid "burn audio track (%s)"
+msgstr "brenna hljóð rás (%s)"
+#
+msgid "cat /proc/bus/input/devices"
+msgstr ""
+#
+msgid "change channel on timeout"
+msgstr ""
+#
+msgid "change recording (duration)"
+msgstr "breyta upptöku (tíma)"
+#
+msgid "change recording (endtime)"
+msgstr "breyta upptöku (lokatíma)"
+#
+msgid "change recording (timer editor)"
+msgstr ""
+#
+msgid "change tuner on timeout"
+msgstr ""
+#
+msgid "chapters"
+msgstr "kaflar"
+#
+msgid "circular left"
+msgstr "hringpólun vinstri"
+#
+msgid "circular right"
+msgstr "hringpólun hægri"
+#
+msgid "clear playlist"
+msgstr "hreinsa spilunarlista"
+#
+msgid "complex"
+msgstr "flókinn"
+#
+msgid "config menu"
+msgstr "stillinga valmynd"
+#
+msgid "confirmed"
+msgstr "staðfest"
+#
+msgid "connected"
+msgstr "tengt"
+#
+msgid "continue/pause"
+msgstr ""
+#
+msgid "copy"
+msgstr ""
+#
+#, python-format
+msgid "copy : %s"
+msgstr ""
+#
+msgid "copy to bouquets"
+msgstr "afrita til rásavanda"
+#
+msgid "create directory"
+msgstr "búa til möppu"
+#
+msgid "customize color buttons"
+msgstr ""
+#
+msgid "cyan"
+msgstr ""
+#
+msgid "daily"
+msgstr "daglega"
+#
+msgid "dark yellow"
+msgstr ""
+#
+msgid "day"
+msgstr "dagur"
+#
+msgid "deactivate startup service"
+msgstr ""
+#
+msgid "debug"
+msgstr ""
+#
+msgid "default"
+msgstr "sjálfgefið"
+#
+msgid "delete"
+msgstr "eyða"
+#
+#, python-format
+msgid "delete : %s"
+msgstr ""
+#
+msgid "delete cut"
+msgstr "eyða klippingu"
+#
+msgid "delete file"
+msgstr "eyða skrá"
+#
+msgid "delete playlist entry"
+msgstr "eyða atriði úr spilunarlista"
+#
+msgid "delete saved playlist"
+msgstr "eyða vistuðum spilunarlista"
+#
+#, python-format
+msgid "device : %s"
+msgstr ""
+#
+msgid "disable"
+msgstr "óvirkt"
+#
+msgid "disable move mode"
+msgstr "hætta í færslu stöðu"
+#
+msgid "disabled"
+msgstr "óvirkt"
+#
+msgid "disconnected"
+msgstr "ótengt"
+#
+msgid "do not change"
+msgstr "ekki breyta"
+#
+msgid "do nothing"
+msgstr "ekki gera neitt"
+#
+msgid "done!"
+msgstr "búinn!"
+#
+msgid "edit alternatives"
+msgstr "breyta valkosti"
+#
+msgid "empty"
+msgstr "tómt"
+#
+msgid "enable"
+msgstr "virkt"
+#
+msgid "enable bouquet edit"
+msgstr "byrja féttu breytingu"
+#
+msgid "enable favourite edit"
+msgstr "virkja breytingu eftirlætis lista"
+#
+msgid "enable move mode"
+msgstr "virkja færlsu stöðu"
+#
+msgid "enabled"
+msgstr "virkt"
+#
+msgid "end alternatives edit"
+msgstr "hætta breytingum valkosta"
+#
+msgid "end bouquet edit"
+msgstr "hætta að breyta fléttu"
+#
+msgid "end cut here"
+msgstr "enda klippingu hér"
+#
+msgid "end favourites edit"
+msgstr "hætta breytingum eftirlætis lista"
+#
+msgid "equal to"
+msgstr "jafnt og"
+#
+msgid "error"
+msgstr ""
+#
+msgid "exit"
+msgstr ""
+#
+msgid "exit DVD player or return to file browser"
+msgstr "hætta í DVD spilara og fara til baka í skráarvafra"
+#
+msgid "exit mediaplayer"
+msgstr "hætta í spilara"
+#
+msgid "exit movielist"
+msgstr "loka myndalista"
+#
+msgid "exit nameserver configuration"
+msgstr "fara úr nafnaþjóns stillingum"
+#
+msgid "exit network adapter configuration"
+msgstr "fara úr netkorts stillingum"
+#
+msgid "exit network interface list"
+msgstr "fara út úr netkorta lista"
+#
+msgid "exit networkadapter setup menu"
+msgstr "hætta í netkorts stillingum"
+#
+msgid "ext2 - recommended for USB flash memory"
+msgstr ""
+#
+msgid "ext3 - recommended for harddisks"
+msgstr ""
+#
+msgid "ext4 - experimental"
+msgstr ""
+#
+msgid "fast"
+msgstr ""
+#
+msgid "fileformats (BMP, PNG, JPG, GIF)"
+msgstr "skráarform (BMP, PNG, JPG, GIF)"
+#
+msgid "filename"
+msgstr "skráarnafn"
+#
+msgid "fine-tune your display"
+msgstr "fínstilla sjónvarpið"
+#
+msgid "forward to the next chapter"
+msgstr "stökkva í næsta kafla"
+#
+msgid "free"
+msgstr "laust"
+#
+msgid "free diskspace"
+msgstr "laust diskpláss"
+#
+msgid "full transparency"
+msgstr ""
+#
+msgid "go to deep standby"
+msgstr "fara í djúpsvefn"
+#
+msgid "go to standby"
+msgstr "fara í biðstöðu"
+#
+msgid "grab this frame as bitmap"
+msgstr "grípa þennan ramma sem bitmap"
+#
+msgid "green"
+msgstr "grænn"
+#
+msgid "grey"
+msgstr ""
+#
+msgid "hear radio..."
+msgstr "hlusta á útvarp...."
+#
+msgid "height"
+msgstr ""
+#
+msgid "help..."
+msgstr "hjálp..."
+#
+msgid "hi_low"
+msgstr ""
+#
+msgid "hide extended description"
+msgstr "fela auka upplýsingar"
+#
+msgid "hide player"
+msgstr "fela spilara"
+#
+msgid "high"
+msgstr ""
+#
+msgid "horizontal"
+msgstr "lárétt"
+#
+msgid "horizontal_vertical"
+msgstr ""
+#
+msgid "hour"
+msgstr "klst"
+#
+msgid "hours"
+msgstr "klst"
+#
+msgid "immediate shutdown"
+msgstr "slökkva strax"
+#
+msgid "init module"
+msgstr "stilli einingu"
+#
+msgid "init modules"
+msgstr "stilla einingar"
+#
+msgid "insert mark here"
+msgstr "setja merki hér"
+#
+msgid "invalid model"
+msgstr ""
+#
+msgid "jump back to the previous title"
+msgstr "stökkva til baka í fyrri titil"
+#
+msgid "jump forward to the next title"
+msgstr "stökkva áfram í næsta titil"
+#
+msgid "jump to listbegin"
+msgstr "fara í byrjun listans"
+#
+msgid "jump to listend"
+msgstr "fara í enda listans"
+#
+msgid "jump to next marked position"
+msgstr "fara til næstu merkingar"
+#
+msgid "jump to previous marked position"
+msgstr "fara til fyrri merkingar"
+#
+msgid "leave movie player..."
+msgstr "hætta í spilara"
+#
+msgid "left"
+msgstr "vinstri"
+#
+msgid "length"
+msgstr "lengd"
+#
+msgid "list of EPG views..."
+msgstr "listi EPG skoðunar..."
+#
+msgid "list style compact"
+msgstr "stíll lista lítill"
+#
+msgid "list style compact with description"
+msgstr "stíll lista lítill með lýsingu"
+#
+msgid "list style default"
+msgstr "stíll lista venjulegur"
+#
+msgid "list style single line"
+msgstr "stíll lista, ein lína"
+#
+msgid "load playlist"
+msgstr "hlaða inn spilunarlista"
+#
+msgid "locked"
+msgstr "læst"
+#
+msgid "loopthrough to"
+msgstr "tengt saman við"
+#
+msgid "low"
+msgstr ""
+#
+msgid "manage block devices of your VU+"
+msgstr ""
+#
+msgid "management 3g modem"
+msgstr ""
+#
+msgid "manual"
+msgstr "handvirkt"
+#
+msgid "menu"
+msgstr "valmynd"
+#
+msgid "min"
+msgstr ""
+#
+msgid "mins"
+msgstr "mín"
+#
+msgid "minute"
+msgstr "mínúta"
+#
+msgid "minutes"
+msgstr "mínútur"
+#
+msgid "month"
+msgstr "mánuður"
+#
+msgid "move"
+msgstr ""
+#
+#, python-format
+msgid "move : %s"
+msgstr ""
+#
+msgid "move PiP to main picture"
+msgstr "nota mynd glugga sem aðal mynd"
+#
+msgid "move down to last entry"
+msgstr "fara niður í síðasta atriði"
+#
+msgid "move down to next entry"
+msgstr "fara niður í næsta atriði"
+#
+msgid "move up to first entry"
+msgstr "fara upp í fyrsta atriði"
+#
+msgid "move up to previous entry"
+msgstr "fara upp í næsta atriði"
+#
+msgid "movie list"
+msgstr "myndalisti"
+#
+msgid "multinorm"
+msgstr "fjölkerfa"
+#
+msgid "never"
+msgstr "aldrei"
+#
+msgid "next channel"
+msgstr "næsta rás"
+#
+msgid "next channel in history"
+msgstr "næsta rás í sögu"
+#
+msgid "no"
+msgstr "nei"
+#
+msgid "no CAId selected"
+msgstr "ekkert CAId valið"
+#
+msgid "no CI slots found"
+msgstr "fann engin CI tengi"
+#
+msgid "no HDD found"
+msgstr "fann ekki harða disk"
+#
+msgid "no Services/Providers selected"
+msgstr "engar rásir/sendar valdir"
+#
+msgid "no module found"
+msgstr "fann ekki einingu"
+#
+msgid "no standby"
+msgstr "ekki biðstaða"
+#
+msgid "no timeout"
+msgstr "ekki tímalok"
+#
+msgid "no transparency"
+msgstr ""
+#
+msgid "none"
+msgstr "engin"
+#
+msgid "normal"
+msgstr ""
+#
+msgid "not available"
+msgstr ""
+#
+msgid "not configured"
+msgstr "ekki stillt"
+#
+msgid "not found, the backup process will be aborted!"
+msgstr ""
+#
+msgid "not locked"
+msgstr "ekki læst"
+#
+msgid "not mounted"
+msgstr ""
+#
+msgid "not set"
+msgstr ""
+#
+msgid "not supported"
+msgstr "ekki stutt"
+#
+msgid "not used"
+msgstr "ekki notað"
+#
+msgid "nothing connected"
+msgstr "ekkert tengt"
+#
+msgid "of a DUAL layer medium used."
+msgstr "af tveggja laga DVD."
+#
+msgid "of a SINGLE layer medium used."
+msgstr "af eins lags DVD disk."
+#
+msgid "off"
+msgstr "af"
+#
+msgid "on"
+msgstr "á"
+#
+msgid "on READ ONLY medium."
+msgstr "á READ ONLY disk."
+#
+msgid "once"
+msgstr "einu sinni"
+#
+msgid "only calculate"
+msgstr ""
+#
+msgid "open VTi Panel"
+msgstr ""
+#
+msgid "open servicelist"
+msgstr "opna rása lista"
+#
+msgid "open servicelist(down)"
+msgstr "opna rásalista (niður)"
+#
+msgid "open servicelist(up)"
+msgstr "opna rásalista (upp)"
+#
+msgid "original"
+msgstr ""
+#
+msgid "pass"
+msgstr "í lagi"
+#
+msgid "pause"
+msgstr "pása"
+#
+msgid "percent"
+msgstr ""
+#
+msgid "play entry"
+msgstr "innsláttur"
+#
+msgid "play from next mark or playlist entry"
+msgstr "spila frá næsta merki eða atriði úr spilunarlista"
+#
+msgid "play from previous mark or playlist entry"
+msgstr "spila frá fyrra merki eða atriði úr spilunarlista"
+#
+msgid "please press OK when ready"
+msgstr "vinsamlega ýtið á OK þegar tilbúið"
+#
+msgid "please wait, loading picture..."
+msgstr "hleð inn mynd, vinsamlegast bíðið.."
+#
+msgid "previous channel"
+msgstr "fyrri rás"
+#
+msgid "previous channel in history"
+msgstr "fyrri rás í sögu"
+#
+msgid "progress bar"
+msgstr ""
+#
+#, python-format
+msgid "python %s %s %s %s"
+msgstr ""
+#
+msgid "record"
+msgstr "taka upp"
+#
+msgid "recording..."
+msgstr "tek upp...."
+#
+msgid "red"
+msgstr "rauður"
+#
+msgid "remove"
+msgstr ""
+#
+msgid "remove a nameserver entry"
+msgstr "taka út nafnaþjón"
+#
+msgid "remove after this position"
+msgstr "eyða fyrir aftan þetta"
+#
+msgid "remove all alternatives"
+msgstr "taka út alla valkosti"
+#
+msgid "remove all new found flags"
+msgstr "eyða öllum merkingum um nýfundna rás"
+#
+msgid "remove all services without bouquet entry"
+msgstr ""
+#
+msgid "remove before this position"
+msgstr "eyða fyrir framan þetta"
+#
+msgid "remove bookmark"
+msgstr "eyða bókamerki"
+#
+msgid "remove directory"
+msgstr "eyða möppu"
+#
+msgid "remove entry"
+msgstr "taka út"
+#
+msgid "remove from parental protection"
+msgstr "taka foreldralæsingu af"
+#
+msgid "remove new found flag"
+msgstr "eyða merkingu um nýfundna rás"
+#
+msgid "remove selected satellite"
+msgstr "eyða völdum gervihnetti"
+#
+msgid "remove this mark"
+msgstr "taka út þetta merki"
+#
+msgid "repeat playlist"
+msgstr "endurtaka spilunarlista"
+#
+msgid "repeated"
+msgstr "endurtekinn"
+#
+msgid "reset play progress"
+msgstr ""
+#
+msgid "reverse"
+msgstr ""
+#
+msgid "rewind to the previous chapter"
+msgstr "fara til baka á fyrri kafla"
+#
+msgid "right"
+msgstr "hægri"
+#
+msgid "save last directory on exit"
+msgstr "vista síðustu möppu þegar hætt er"
+#
+msgid "save playlist"
+msgstr "vista spilunarlista"
+#
+msgid "save playlist on exit"
+msgstr "vista spilunarlista þegar hætt er"
+#
+msgid "scan done!"
+msgstr "leit lokið!"
+#
+#, python-format
+msgid "scan in progress - %d%% done!"
+msgstr "leit í gangi - %d%% búið!"
+#
+msgid "scan state"
+msgstr "leitar staða"
+#
+msgid "scan type(DVB-S)"
+msgstr ""
+#
+msgid "second"
+msgstr "sekúnda"
+#
+msgid "second cable of motorized LNB"
+msgstr "annar kapall frá mótorstýrðu LNB"
+#
+msgid "seconds"
+msgstr "sekúndur"
+#
+msgid "select"
+msgstr "veldu"
+#
+msgid "select CAId"
+msgstr "veldu CAId"
+#
+msgid "select CAId's"
+msgstr "veldu CAId"
+#
+msgid "select interface"
+msgstr "veldu netkort"
+#
+msgid "select menu entry"
+msgstr "veldu valmynda atriði"
+#
+msgid "select movie"
+msgstr "veldu mynd"
+#
+msgid "select the movie path"
+msgstr "velja slóð að mynd"
+#
+msgid "service PIN"
+msgstr "rása PIN"
+#
+msgid "setup Fancontrol inStandby mode"
+msgstr ""
+#
+msgid "setup PIN"
+msgstr "valmynda PIN"
+#
+msgid "setup Remote Control System Code Type"
+msgstr ""
+#
+msgid ""
+"sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' "
+"en_EN"
+msgstr ""
+#
+msgid ""
+"sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' "
+"en_EN"
+msgstr ""
+#
+msgid "show DVD main menu"
+msgstr "sýna aðalvalmynd DVD "
+#
+msgid "show EPG..."
+msgstr "sýna EPG"
+#
+msgid "show Favourites"
+msgstr ""
+#
+msgid "show Infoline"
+msgstr "sýna upplýsingalínu"
+#
+msgid "show VTi system informations"
+msgstr ""
+#
+msgid "show all"
+msgstr "sýna allt"
+#
+msgid "show alternatives"
+msgstr "súna valkosti"
+#
+msgid "show event details"
+msgstr "sýna atriði nánar"
+#
+msgid "show extended description"
+msgstr "sýna auka upplýsingar"
+#
+msgid "show first selected tag"
+msgstr "sýna fyrsta valda merki"
+#
+msgid "show record menu"
+msgstr ""
+#
+msgid "show running records"
+msgstr ""
+#
+msgid "show second selected tag"
+msgstr "sýna annað valda merki"
+#
+msgid "show service EPGBar..."
+msgstr ""
+#
+msgid "show shutdown menu"
+msgstr "sýna slökkva valmynd"
+#
+msgid "show single service EPG..."
+msgstr "sýna dagskrá (EPG) einnar rásar.."
+#
+msgid "show tag menu"
+msgstr "sýna merkja valmynd"
+#
+msgid "show timer list"
+msgstr ""
+#
+msgid "show transponder info"
+msgstr "sýna upplýsingar um sendi"
+#
+msgid "shuffle playlist"
+msgstr "spila af handahófi úr lista"
+#
+msgid "shut down"
+msgstr "slökkva"
+#
+msgid "shutdown"
+msgstr "slökkva"
+#
+msgid "simple"
+msgstr "einfalt"
+#
+msgid "skip backward"
+msgstr "fara til baka"
+#
+msgid "skip backward (enter time)"
+msgstr "stökkva til baka (slá inn tíma)"
+#
+msgid "skip forward"
+msgstr "fara áfram"
+#
+msgid "skip forward (enter time)"
+msgstr "stökkva áfram (slá inn tíma)"
+#
+msgid "slide picture in loop"
+msgstr "sýna myndir í aftur og aftur"
+#
+msgid "slow"
+msgstr ""
+#
+msgid "sort"
+msgstr ""
+#
+msgid "sort by date"
+msgstr "raða eftir dagsetningu"
+#
+msgid "special characters"
+msgstr "sérstafir"
+#
+msgid "standard"
+msgstr "venjulegt"
+#
+msgid "standby"
+msgstr "biðstaða"
+#
+msgid "start cut here"
+msgstr "byrja klippingu hér"
+#
+msgid "start directory"
+msgstr "byrjunar mappa"
+#
+msgid "start opera web browser"
+msgstr ""
+#
+msgid "start timeshift"
+msgstr "byrja lifandi pásu"
+#
+msgid "start web browser"
+msgstr ""
+#
+msgid "stereo"
+msgstr "víðóma"
+#
+msgid "still picture"
+msgstr ""
+#
+msgid "stop PiP"
+msgstr "hætta með PiP"
+#
+msgid "stop entry"
+msgstr "hætta innslætti"
+#
+msgid "stop recording"
+msgstr "stoppa upptöku"
+#
+msgid "stop timeshift"
+msgstr "stoppa lifandi pásu"
+#
+msgid "swap PiP and main picture"
+msgstr "skipta á PiP og aðal mynd"
+#
+msgid "switch to bookmarks"
+msgstr "fara á bókamerki"
+#
+msgid "switch to filelist"
+msgstr "skipta í skráarlista"
+#
+msgid "switch to playlist"
+msgstr "skipta í spilunar lista"
+#
+msgid "switch to the next angle"
+msgstr "skipta í næstu sýn"
+#
+msgid "switch to the next audio track"
+msgstr "skipta á næstu hljóð rás"
+#
+msgid "switch to the next subtitle language"
+msgstr "skipta á næsta undirtexta"
+#
+msgid "template file"
+msgstr "sniðmáts skrá"
+#
+msgid "textcolor"
+msgstr "textalitur"
+#
+msgid "this recording"
+msgstr "þessi upptaka"
+#
+msgid "this service is protected by a parental control pin"
+msgstr "þessi rás er læst með kóða"
+#
+msgid "toggle a cut mark at the current position"
+msgstr "setja merki á núverandi stað"
+#
+msgid "toggle time, chapter, audio, subtitle info"
+msgstr "skipta á milli tíma, kafla, undirtexta upplýsingar"
+#
+msgid "top"
+msgstr ""
+#
+msgid "tuner is not supported"
+msgstr "móttakari er ekki studdur"
+#
+msgid "umounting failed!Maybe some files in mount point are open"
+msgstr ""
+#
+msgid "unconfirmed"
+msgstr "óstaðfest"
+#
+msgid "unknown"
+msgstr "óþekktur"
+#
+msgid "unknown service"
+msgstr "óþekkt rás"
+#
+msgid "until standby/restart"
+msgstr "bíða til biðstöðu/endurræsingu"
+#
+msgid "use as startup service"
+msgstr ""
+#
+msgid "user defined"
+msgstr "stillt af notanda"
+#
+msgid "vertical"
+msgstr "lóðrétt"
+#
+msgid "vfat - for USB flash memory"
+msgstr ""
+#
+msgid "video tune"
+msgstr ""
+#
+msgid "view extensions..."
+msgstr "skoða íforrit..."
+#
+msgid "view recordings..."
+msgstr "skoða upptökur..."
+#
+msgid "wait for ci..."
+msgstr "bíð eftir afruglara.."
+#
+msgid "wait for mmi..."
+msgstr "bíð eftir mmi..."
+#
+msgid "waiting"
+msgstr "bíð"
+#
+msgid "warn"
+msgstr ""
+#
+msgid "weekly"
+msgstr "vikulega"
+#
+msgid "white"
+msgstr ""
+#
+msgid "whitelist"
+msgstr "hvíti listi"
+#
+msgid "width"
+msgstr ""
+#
+msgid "wireless network interface"
+msgstr "þráðlaust netkort"
+#
+msgid "working"
+msgstr "er að vinna"
+#
+msgid "wpa_supplicant.conf open error."
+msgstr ""
+#
+msgid "yellow"
+msgstr "gulur"
+#
+msgid "yes"
+msgstr "já"
+#
+msgid "yes (keep feeds)"
+msgstr "já (halda fæðirásum)"
+#
+msgid ""
+"your STB might be unusable now. Please consult the manual for further "
+"assistance before rebooting your STB."
+msgstr ""
+#
+msgid "zap"
+msgstr "stökk"
+#
+msgid "zapped"
+msgstr "stokkið"
+#
+msgid "zapping interval (sec) "
+msgstr ""
+#
+msgid "zap and record"
+msgstr ""
+#
+msgid "reminder"
+msgstr ""
+#
+msgid "Reminder"
+msgstr ""
+#
+msgid ""
+"Reminder !\n"
+"Following preferred service starts now :\n"
+"\n"
+"%s\n"
+"%s\n"
+"\n"
+"Do you want to zap ?"
+msgstr ""
+#
+msgid "You have to stop your playing Movie before"
+msgstr ""
+#
+msgid "Use preview mode in service list (2x OK mode)"
+msgstr ""
+#
+msgid "Show EPG data in timer list"
+msgstr ""
+#
+msgid "create folder"
+msgstr ""
+#
+msgid "January"
+msgstr ""
+#
+msgid "February"
+msgstr ""
+#
+msgid "March"
+msgstr ""
+#
+msgid "April"
+msgstr ""
+#
+msgid "May"
+msgstr ""
+#
+msgid "June"
+msgstr ""
+#
+msgid "July"
+msgstr ""
+#
+msgid "August"
+msgstr ""
+#
+msgid "September"
+msgstr ""
+#
+msgid "October"
+msgstr ""
+#
+msgid "November"
+msgstr ""
+#
+msgid "December"
+msgstr ""
+#
+msgid "Jan"
+msgstr ""
+#
+msgid "Feb"
+msgstr ""
+#
+msgid "Mar"
+msgstr ""
+#
+msgid "Apr"
+msgstr ""
+#
+msgid "Jun"
+msgstr ""
+#
+msgid "Jul"
+msgstr ""
+#
+msgid "Aug"
+msgstr ""
+#
+msgid "Sep"
+msgstr ""
+#
+msgid "Oct"
+msgstr ""
+#
+msgid "Nov"
+msgstr ""
+#
+msgid "Dec"
+msgstr ""
+#
+msgid "Display > 16:9 content as"
+msgstr ""
+#
+msgid "Display 4:3 content as"
+msgstr ""
+#
+msgid "Video Output"
+msgstr ""
+#
+msgid "Video Setup"
+msgstr ""
+#
+msgid "Video Wizard"
+msgstr ""
+#
+msgid "Refresh Rate"
+msgstr ""
+#
+msgid "General Dolby Digital delay(ms)"
+msgstr ""
+#
+msgid "General PCM delay(ms)"
+msgstr ""
+#
+msgid "OSD visibility"
+msgstr ""
+#
+msgid "Automatic Volume Leveling (AVL)"
+msgstr ""
+#
+msgid "Speaker position"
+msgstr ""
+#
+msgid "AAC downmix"
+msgstr ""
+#
+msgid "Scale picons to given skin size"
+msgstr ""
+#
+msgid "Show duration in minutes in movie list"
+msgstr ""
+#
+msgid "Show picons in movie list (VTi list style)"
+msgstr ""
+#
+msgid "Show duration in movie list (VTi list style)"
+msgstr ""
+#
+msgid "Use only date for record time in movie list (VTi list style)"
+msgstr ""
+#
+msgid "Show channel info in movie list (VTi list style)"
+msgstr ""
+#
+msgid "Show recording date in movie list (VTi list style)"
+msgstr ""
+#
+msgid "Search for updates every X hours ( 0 = off )"
+msgstr ""
+#
+msgid "Append begin date at end of recording file name"
+msgstr ""
+#
+msgid "Protect main menu"
+msgstr ""
+#
+msgid "Protect configuration"
+msgstr ""
+#
+msgid "Protect movie list"
+msgstr ""
+#
+msgid "Protect timer list"
+msgstr ""
+#
+msgid "Protect plugin browser"
+msgstr ""
+#
+msgid "Protect standby menu"
+msgstr ""
+#
+msgid "Protect VTi menu"
+msgstr ""
+#
+msgid "Protect VTi Panel"
+msgstr ""
+#
+msgid "Movie archive"
+msgstr ""
+#
+msgid "Play back media files"
+msgstr ""
+#
+msgid "show in main menu"
+msgstr ""
+#
+msgid "show in plugin browser"
+msgstr ""
+#
+msgid "Play DVDs"
+msgstr ""
+#
+msgid "Delete movies without confirmation"
+msgstr ""
+#
+msgid "show more movie list options"
+msgstr ""
+#
+msgid ""
+"You should now reboot your STB in order to ralink device operate in AP "
+"mode.\n"
+"\n"
+"Reboot now ?\n"
+"\n"
+msgstr ""
+#
+msgid ""
+"You should now reboot your STB to better performance of ralink device in STA "
+"mode.\n"
+"\n"
+"Reboot now ?\n"
+"\n"
+msgstr ""
+#
+msgid "Multichannel PCM"
+msgstr ""
+#
+msgid "show folder"
+msgstr ""
+#
+msgid "Show file size in movie list (VTi list style)"
+msgstr ""
+#
+msgid "Show notification when update is available"
+msgstr ""
+#
+msgid "Short without date"
+msgstr ""
+#
+msgid "without function"
+msgstr ""
+#
+msgid "change list view"
+msgstr ""
+#
+msgid "Color Buttons"
+msgstr ""
+#
+msgid "Context Menu"
+msgstr ""
+#
+msgid "Toggle short/long key press for color keys"
+msgstr ""
+#
+msgid "assign bookmark"
+msgstr ""
+#
+msgid "select bookmark"
+msgstr ""
+#
+msgid "use virtual keyboard for text input"
+msgstr ""
+#
+msgid "create symlink"
+msgstr ""
+#
+msgid "Creating symlink failed."
+msgstr ""
+#
+msgid "create bookmark : %s"
+msgstr ""
+#
+msgid "Start next media file"
+msgstr ""
+#
+msgid "Yes, and play next media file"
+msgstr ""
+#
+msgid "Play next media file in directory"
+msgstr ""
+#
+msgid "Play previous media file in directory"
+msgstr ""
+#
+msgid "Default play mode"
+msgstr ""
+#
+msgid "Shuffle play"
+msgstr ""
+#
+msgid "Play all"
+msgstr ""
+#
+msgid "Please select play mode :"
+msgstr ""
+#
+msgid "Show movie cover"
+msgstr ""
+#
+msgid "Down"
+msgstr ""
+#
+msgid "Select key"
+msgstr ""
+#
+msgid "Move cursor left"
+msgstr ""
+#
+msgid "Move cursor right"
+msgstr ""
+#
+msgid "Delete (right of the cursor)"
+msgstr ""
+#
+msgid "Delete (left of the cursor)"
+msgstr ""
+#
+msgid "Switch keyboard layout"
+msgstr ""
+#
+msgid "Toggle SHIFT mode"
+msgstr ""
+#
+msgid "Move to begin"
+msgstr ""
+#
+msgid "Move to end"
+msgstr ""
+#
+msgid "Show last stop time in movie list"
+msgstr ""
+#
+msgid "start last played movie"
+msgstr ""
+#
+msgid "last video"
+msgstr ""
+#
+msgid "Resume movies which are marked as seen"
+msgstr ""
+#
+msgid "Activate Split Screen"
+msgstr ""
+#
+msgid "Deactivate Split Screen"
+msgstr ""
+#
+msgid "(de)activate Split Screen..."
+msgstr ""
+#
+msgid "Show infobar on channel change at split screen"
+msgstr ""
+#
+msgid "Default function for button EXIT long"
+msgstr ""
+#
+msgid "Split Screen"
+msgstr ""
+#
+msgid "Picture in Picture"
+msgstr ""
+#
+msgid "Audio Zap"
+msgstr ""
+#
+msgid "Activate Audio Zap"
+msgstr ""
+#
+msgid "Deactivate Audio Zap"
+msgstr ""
+#
+msgid "(de)activate Audio Zap..."
+msgstr ""
+#
+msgid "Start last service when returning to movie list (PiG)"
+msgstr ""
+#
+msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
+msgstr ""
+#
+msgid "Video"
+msgstr ""
+#
+msgid "Zap focus: "
+msgstr ""
+#
+msgid "Main window"
+msgstr ""
+#
+msgid "Second window"
+msgstr ""
+#
+msgid "Mini TV"
+msgstr ""
+#
+msgid "Live TV"
+msgstr ""
+#
+msgid "Use extended PictureInGraphic (PiG + transparent skin)"
+msgstr ""
+#
+msgid "Use extended PiG also in service list"
+msgstr ""
+#
+msgid "toggle zap focus"
+msgstr ""
+#
+msgid "Behavior of 0 key (double-click) in PiP-mode"
+msgstr ""
+#
+msgid "Default function for 0 key (double-click)"
+msgstr ""
+#
+msgid ""
+"GUI needs a restart to apply new configuration.\n"
+"Do you want to restart the GUI now ?"
+msgstr ""
+#
+msgid "toggle select mode"
+msgstr ""
+#
+msgid "delete selected items"
+msgstr ""
+#
+msgid "copy selected items"
+msgstr ""
+#
+msgid "move selected items"
+msgstr ""
+#
+msgid "play selected items"
+msgstr ""
+#
+msgid "show selected items"
+msgstr ""
+#
+msgid "no selected item"
+msgstr ""
+#
+msgid "reset play progress of selected items"
+msgstr ""
+#
+msgid "disable select mode"
+msgstr ""
+#
+msgid "enable select mode"
+msgstr ""
+#
+msgid "Do you really want to delete all selected items ?"
+msgstr ""
+#
+msgid "Not all items could be deleted !"
+msgstr ""
+#
+msgid "Recorded files"
+msgstr ""
+#
+msgid "Select mode"
+msgstr ""
+#
+msgid "movie trash"
+msgstr ""
+#
+msgid "clear movie trash"
+msgstr ""
+#
+msgid "Show movie trash folder in movie list"
+msgstr ""
+#
+msgid "Use movie trash for deleting files"
+msgstr ""
+#
+msgid ""
+"Delete failed, because there is no movie trash !\n"
+"Disable movie trash in configuration to delete this item"
+msgstr ""
+#
+msgid "Do you really want to delete the movie trash of this device ?"
+msgstr ""
+#
+msgid "Movie trash function is not available at this memory device !"
+msgstr ""
+#
+msgid "change play mode..."
+msgstr ""
+#
+msgid "Page down"
+msgstr ""
+#
+msgid "Page up (Timer list)"
+msgstr ""
+#
+msgid "Exit plugin"
+msgstr ""
+#
+msgid "Show detailed programm info"
+msgstr ""
+#
+msgid "Previous entry"
+msgstr ""
+#
+msgid "Next entry"
+msgstr ""
+#
+msgid "Next Channel"
+msgstr ""
+#
+msgid "Previous Channel"
+msgstr ""
+#
+msgid "Page up"
+msgstr ""
+#
+msgid "Zap and Exit"
+msgstr ""
+#
+msgid "Open Timerlist"
+msgstr ""
+#
+msgid "Add instant Timer"
+msgstr ""
+#
+msgid "Switch between views"
+msgstr ""
+#
+msgid "Enter Prime Time"
+msgstr ""
+#
+msgid "Next Bouquet"
+msgstr ""
+#
+msgid "Previous Bouquet"
+msgstr ""
+#
+msgid "Jump Day forward"
+msgstr ""
+#
+msgid "Jump Day backward"
+msgstr ""
+#
+msgid "Show less entries"
+msgstr ""
+#
+msgid "Show normal entries"
+msgstr ""
+#
+msgid "Show more entries"
+msgstr ""
+#
+msgid "Jump prefered hours backward"
+msgstr ""
+#
+msgid "Set prefered hours to jump"
+msgstr ""
+#
+msgid "Jump prefered hours forward"
+msgstr ""
+#
+msgid "Jump page backward"
+msgstr ""
+#
+msgid "Jump to Prime Time"
+msgstr ""
+#
+msgid "Jump page forward"
+msgstr ""
+#
+msgid "Jump to now"
+msgstr ""
+#
+msgid "jump: "
+msgstr ""
+#
+msgid "h"
+msgstr ""
+#
+msgid "Zap+Exit"
+msgstr ""
+#
+msgid ""
+"Sorry, but the plugin %s is not installed at your Vu+ STB!\n"
+"Please install it to use this function"
+msgstr ""
+#
+msgid "Toggle timer state"
+msgstr ""
+#
+msgid "EPG search"
+msgstr ""
+#
+msgid "Toggle clock / bars view for timer"
+msgstr ""
+#
+msgid "Disable Animations"
+msgstr ""
+#
+msgid "Simple fade"
+msgstr ""
+#
+msgid "Grow drop"
+msgstr ""
+#
+msgid "Grow from left"
+msgstr ""
+#
+msgid "Popup"
+msgstr ""
+#
+msgid "Slide drop"
+msgstr ""
+#
+msgid "Slide left to right"
+msgstr ""
+#
+msgid "Slide top to bottom"
+msgstr ""
+#
+msgid "Stripes"
+msgstr ""
+#
+msgid "* current animation"
+msgstr ""
+#
+msgid "Preview"
+msgstr ""
+#
+msgid "Animations"
+msgstr ""
+#
+msgid "Animation type:"
+msgstr ""
+#
+msgid "Animation speed:"
+msgstr ""
+#
+msgid "Setup UI animations"
+msgstr ""
+#
+msgid "start xbmc mediacenter"
+msgstr ""
+#
+msgid "XBMC Launcher"
+msgstr ""
+#
+msgid "Do you really want to disable timer:"
+msgstr ""
+#
+msgid "Do you really want to enable timer:"
+msgstr ""
+#
+msgid "Would you save the entered PIN %s persistent?"
+msgstr ""
+#
+msgid "Set pin code persistent"
+msgstr ""
+#
+msgid "Enter persistent PIN code"
+msgstr ""
+#
+msgid "Reset persistent PIN code"
+msgstr ""
+#
+msgid "The saved PIN was cleared."
+msgstr ""
+#
+msgid "Enter PIN"
+msgstr ""
+#
+msgid "Reenter PIN"
+msgstr ""
+#
+msgid "The PIN code has been saved successfully."
+msgstr ""
+#
+msgid "Enable ZAP history menu"
+msgstr ""
+#
+msgid "Zap History"
+msgstr ""
+#
+msgid "Use folder based configuration (list / sort type)"
+msgstr ""
+#
+msgid "Protect movies and directories"
+msgstr ""
+#
+msgid "Change movie / directory PIN"
+msgstr ""
+#
+msgid "Remember movie / directory PIN"
+msgstr ""
+#
+msgid "movie / directory PIN"
+msgstr ""
+#
+msgid ""
+"No valid movie / directory PIN found!\n"
+"Do you like to change the movie / directory PIN now?\n"
+"When you say 'No' here the movie / directory protection stay disabled!"
+msgstr ""
+#
+msgid "Reset movie / directory PIN cache"
+msgstr ""
+#
+msgid "Protect deleting of movies"
+msgstr ""
+#
+msgid "Change movie-delete PIN"
+msgstr ""
+#
+msgid "Remember movie-delete PIN"
+msgstr ""
+#
+msgid "movie-delete PIN"
+msgstr ""
+#
+msgid ""
+"No valid movie-delete PIN found!\n"
+"Do you like to change the movie-delete PIN now?\n"
+"When you say 'No' here the movie / directory protection stay disabled!"
+msgstr ""
+#
+msgid "Reset movie-delete PIN cache"
+msgstr ""
+#
+msgid "toggle parental control"
+msgstr ""
+#
+msgid "search EPG"
+msgstr ""
+#
+msgid "Hide service name in service list (compact style)"
+msgstr ""
+#
+msgid "Use double-spaced list style"
+msgstr ""
+#
+msgid "Add Autotimer"
+msgstr ""
+#
+msgid "TMDb Infos"
+msgstr ""
+#
+msgid "Could not connect to server"
+msgstr ""
+#
+msgid "No matching place names found"
+msgstr ""
+#
+msgid "Animation start delay:"
+msgstr ""
+#
+msgid "Do you want to setup animations?"
+msgstr ""
+#
+msgid "show"
+msgstr ""
+#
+msgid "hide"
+msgstr ""
+#
+msgid "Sort order for plugins"
+msgstr ""
+#
+msgid "Edit mode off"
+msgstr ""
+#
+msgid "Edit mode on"
+msgstr ""
+#
+msgid "alphabetical"
+msgstr ""
+#
+msgid "Sort order for menu entries"
+msgstr ""
+#
+msgid "Move mode on"
+msgstr ""
+#
+msgid "Move mode off"
+msgstr ""
+#
+msgid "copy to: "
+msgstr ""
+#
+msgid "Animation Setup"
+msgstr ""
+#
+msgid "SAT>IP Client Tuner Setup"
+msgstr ""
+#
+msgid "Discover"
+msgstr ""
+#
+msgid "Starting..."
+msgstr ""
+#
+msgid "SAT>IP server discovering for %d seconds..."
+msgstr ""
+#
+msgid "SAT>IP server is not detected."
+msgstr ""
+#
+msgid "SAT>IP Server : "
+msgstr ""
+#
+msgid "SAT>IP Tuner Type : "
+msgstr ""
+#
+msgid "Server capacity is fulled."
+msgstr ""
+#
+msgid "SAT>IP Client Setup"
+msgstr ""
+#
+msgid "Select tuner and press setup key (Yellow)"
+msgstr ""
+#
+msgid ""
+"You should now reboot your STB to change SAT>IP Configuration.\n"
+"\n"
+"Reboot now ?\n"
+"\n"
+msgstr ""
+#
+msgid "SAT>IP Client"
+msgstr ""
+#
+msgid "SAT>IP Client attached to vtuner."
+msgstr ""
+#
+msgid "VIRTUAL TUNER %s"
+msgstr ""
+#
+msgid "TYPE : %s"
+msgstr ""
+#
+msgid "IP : %s"
+msgstr ""
+#
+msgid "TUNER TYPE : %s"
+msgstr ""
+#
+msgid "SAT>IP SERVER : %s"
+msgstr ""
+#
+msgid "Choices"
+msgstr ""
+#
+msgid "Animate Infobar show/hide"
+msgstr ""
+#
+msgid "Infobar show/hide animation speed"
+msgstr ""
+#
+msgid "fade in"
+msgstr ""
+#
+msgid "fade out"
+msgstr ""
+#
+msgid "fade in/out"
+msgstr ""
+#
+msgid ""
+"\n"
+"<This tuner is configured automatically>"
+msgstr ""
+#
+msgid "Disable FastZapping"
+msgstr ""
+#
+msgid "Enable FastZapping"
+msgstr ""
+#
+msgid "Disable MiniTV"
+msgstr ""
+#
+msgid "Enable MiniTV"
+msgstr ""
+#
+msgid ""
+"You can now choose your preferred skin.\n"
+"Do you want to change default skin?"
+msgstr ""
+#
+msgid "Chipset"
+msgstr ""
+#
+msgid "CPU"
+msgstr ""
+#
+msgid "Enable SmartSeek (button UP and DOWN)"
+msgstr ""
+#
+msgid "Set marker at SmartSeek start and end position"
+msgstr ""
+#
+msgid "Initial SmartSeek time intervall (seconds)"
+msgstr ""
+#
+msgid "Timeout for SmartSeek in seconds"
+msgstr ""
+#
+msgid "SmartSeek: skip forward..."
+msgstr ""
+#
+msgid "SmartSeek: skip backward..."
+msgstr ""
+#
+msgid "update latest movies information"
+msgstr ""
+#
+msgid "latest movies"
+msgstr ""
+#
+msgid "Mark recordings as new for X days (0=off)"
+msgstr ""
+#
+msgid "Location for info file"
+msgstr ""
+#
+msgid "Recordings of last %d days"
+msgstr ""
+#
+msgid "Mark only unseen recordings as new"
+msgstr ""
+#
+msgid "Unseen recordings of last %d days"
+msgstr ""
+#
+msgid "latest unseen movies"
+msgstr ""
+#
+msgid "Setup - Display"
+msgstr ""
+#
+msgid "Display mode in operation"
+msgstr ""
+#
+msgid "Display mode in standby"
+msgstr ""
+#
+msgid "Turn off display"
+msgstr ""
+#
+msgid "Display mode (LCD)"
+msgstr ""
+#
+msgid "Please select display (LCD) mode..."
+msgstr ""
+#
+msgid "HDMI Colorspace"
+msgstr ""
+#
+msgid "Minimum SmartSeek time intervall (seconds)"
+msgstr ""
+#
+msgid "Add bouquet services"
+msgstr ""
+#
+msgid "Include CI assignment for detection of available services"
+msgstr ""
+#
+msgid "Constant SmartSeek skip intervall in seconds (left/right)"
+msgstr ""
+#
+msgid "Remap left/right to SmartSeek constant skip intervall"
+msgstr ""
+#
+msgid "Show info for folder"
+msgstr ""
+#
+msgid "Show new movies in folder info"
+msgstr ""
+#
+msgid "Show sub directories in folder info"
+msgstr ""
+#
+msgid "Show folder info at the beginning"
+msgstr ""
+#
+msgid "All movies"
+msgstr ""
+#
+msgid "Show CI messages"
+msgstr ""
+#
+msgid "Show only new movies in folder info"
+msgstr ""
+#
+msgid "Sort folders by new items"
+msgstr ""
+#
+msgid "Behavior when Live TV event changes during timeshift"
+msgstr ""
+#
+msgid "Ask before stopping timeshift"
+msgstr ""
+#
+msgid "Start timeshift automatically after given time"
+msgstr ""
+#
+msgid "1 second"
+msgstr ""
+#
+msgid "2 seconds"
+msgstr ""
+#
+msgid "3 seconds"
+msgstr ""
+#
+msgid "4 seconds"
+msgstr ""
+#
+msgid "5 seconds"
+msgstr ""
+#
+msgid "6 seconds"
+msgstr ""
+#
+msgid "7 seconds"
+msgstr ""
+#
+msgid "8 seconds"
+msgstr ""
+#
+msgid "9 seconds"
+msgstr ""
+#
+msgid "10 seconds"
+msgstr ""
+#
+msgid "20 seconds"
+msgstr ""
+#
+msgid "30 seconds"
+msgstr ""
+#
+msgid "1 minute"
+msgstr ""
+#
+msgid "2 minutes"
+msgstr ""
+#
+msgid "continue timeshift"
+msgstr ""
+#
+msgid "split & keep"
+msgstr ""
+#
+msgid "split & delete"
+msgstr ""
+#
+msgid "stop & keep"
+msgstr ""
+#
+msgid "stop & delete"
+msgstr ""
+#
+msgid "Live TV event changed"
+msgstr ""
+#
+msgid "Save old event and continue timeshift"
+msgstr ""
+#
+msgid "Delete old event and continue timeshift"
+msgstr ""
+#
+msgid "Save old event and stop timeshift"
+msgstr ""
+#
+msgid "Delete old event and stop timeshift"
+msgstr ""
+#
+msgid "seek to timeshift end (Live TV)"
+msgstr ""
+#
+msgid "delete timeshift file"
+msgstr ""
+#
+msgid "keep timeshift file"
+msgstr ""
+#
+msgid "Behavior when a service changes during timeshift"
+msgstr ""
+#
+msgid "Delete timeshift files older than X days"
+msgstr ""
+#
+msgid "Search for old timeshift files every X hours (0 = off)"
+msgstr ""
+#
+msgid "Bars view for timer"
+msgstr ""
+#
+msgid "Time frame of entries in minutes"
+msgstr ""
+#
+msgid "Set jump time in hours"
+msgstr ""
+#
+msgid "Ok button action"
+msgstr ""
+#
+msgid "EPG button action"
+msgstr ""
+#
+msgid "Transform Timeshift into recording"
+msgstr ""
+#
+msgid "Unhide all entries"
+msgstr ""
+#
+msgid "Please select entry to unhide..."
+msgstr ""
+#
+msgid "hide entry: %s"
+msgstr ""
+#
+msgid "unhide hidden entry"
+msgstr ""
+#
+msgid "Picon folder for graphical multi EPG"
+msgstr ""
+#
+msgid "Console"
+msgstr ""
+#
+msgid "Console & File"
+msgstr ""
+#
+msgid "Enable debug log"
+msgstr ""
+#
+msgid "File (loop)"
+msgstr ""
+#
+msgid "Console & File (loop)"
+msgstr ""
+#
+msgid "Use prev/next buttons for switching timeshift events"
+msgstr ""
+#
+msgid "Avoid simultaneous timer starts"
+msgstr ""
+#
+msgid "Please select timeshift file"
+msgstr ""
+#
+msgid "Transform old timeshift event into recording"
+msgstr ""
+#
+msgid "Hide timeshift files in movie list"
+msgstr ""
+#
+msgid "Current timeshift"
+msgstr ""
+#
+msgid "Show old timeshift events"
+msgstr ""
+#
+msgid "Do not save timeshift events shorter than X minutes"
+msgstr ""
+#
+msgid "Zap Up/Down"
+msgstr ""
+#
+msgid "History Prev/Next"
+msgstr ""
+#
+msgid "Box or driver is not support FCC."
+msgstr ""
+#
+msgid "FCC enabled"
+msgstr ""
+#
+msgid "Max Channels"
+msgstr ""
+#
+msgid "priority"
+msgstr ""
+#
+msgid "Disable FastChannelChange"
+msgstr ""
+#
+msgid "Enable FastChannelChange"
+msgstr ""
+#
+msgid "Fast Channel Change Setup"
+msgstr ""
+#
+msgid "Disable FCC during recordings"
+msgstr ""
+#
+msgid "FCCSetup"
+msgstr ""
+#
+msgid "Display crash information on TV"
+msgstr ""
+#
+msgid "Select packages to install"
+msgstr ""
+#
+msgid ""
+"Do you want timeshift to be actviated automatically (permanent timeshift) ?"
+msgstr ""
+#
+msgid ""
+"You can now use VTi ZerO to remove some packages which you do not need.\n"
+"\n"
+"You can now also use VTi BackupSuite to restore your previously saved "
+"settings, plugins or favourite bouquets ?"
+msgstr ""
+#
+msgid "Next step"
+msgstr ""
+#
+msgid "Remove not needed packages (VTi ZerO)"
+msgstr ""
+#
+msgid "Restore configuration (VTi BackupSuite)"
+msgstr ""
+#
+msgid ""
+"Use the left and right buttons to change an option.\n"
+"\n"
+"Please configure timeshift options:"
+msgstr ""
+#
+msgid "Channel -"
+msgstr ""
+#
+msgid "Channel +"
+msgstr ""
+#
+msgid "Show favourite list with bouquet button"
+msgstr ""
+#
+msgid "Use channel +/- buttons for channel zap"
+msgstr ""
+#
+msgid "Please configure function for short keypress of Power button"
+msgstr ""
+#
+msgid "Please configure function for long keypress of Exit button"
+msgstr ""
+#
+msgid "Please configure function for short keypress of REC button"
+msgstr ""
+#
+msgid "Please select your preferred EPG view"
+msgstr ""
+#
+msgid "Do you want to change channels with Channel +/- buttons?"
+msgstr ""
+#
+msgid "Software Setup"
+msgstr ""
+#
+msgid "Please press EPG/Info key for detailed error description"
+msgstr ""
+#
+msgid "Subtitle settings"
+msgstr ""
+#
+msgid "Subtitle font color"
+msgstr ""
+#
+msgid "Subtitle font size"
+msgstr ""
+#
+msgid "Subtitle padding Y"
+msgstr ""
+#
+msgid "Background color"
+msgstr ""
+#
+msgid "Background transparency"
+msgstr ""
+#
+msgid "Character edge style"
+msgstr ""
+#
+msgid "Character style level"
+msgstr ""
+#
+msgid "Subtitle text transparency"
+msgstr ""
+#
+msgid "Use original position"
+msgstr ""
+#
+msgid "Subtitle alignment"
+msgstr ""
+#
+msgid "Subtitle position"
+msgstr ""
+#
+msgid "Center DVB subtitles"
+msgstr ""
+#
+msgid "Rewrap subtitles"
+msgstr ""
+#
+msgid "Subtitle delay when timing lacks"
+msgstr ""
+#
+msgid "Subtitle delay when timing is bad"
+msgstr ""
+#
+msgid "External subtitle switch fonts"
+msgstr ""
+#
+msgid "External subtitle dialog colorisation"
+msgstr ""
+#
+msgid "Delay for external subtitles"
+msgstr ""
+#
+msgid "Set fps for external subtitles"
+msgstr ""
+#
+msgid "Automatically turn on external subtitles"
+msgstr ""
+#
+msgid "Subtitle Quickmenu"
+msgstr ""
+#
+msgid "Force LNB Power"
+msgstr ""
+#
+msgid "Force ToneBurst"
+msgstr ""
+#
+msgid "DVB CI Delay"
+msgstr ""
+#
+msgid "Original"
+msgstr ""
+#
+msgid "No delay"
+msgstr ""
+#
+msgid "center"
+msgstr ""
+#
+msgid "No transparency"
+msgstr ""
+#
+msgid "Depressed"
+msgstr ""
+#
+msgid "Raised"
+msgstr ""
+#
+msgid "Uniform"
+msgstr ""
+#
+msgid "Full transparency"
+msgstr ""
+#
+msgid "magneta"
+msgstr ""
+#
+msgid "Limit FCC to current bouquet"
+msgstr ""
+#
+msgid "FCC restart"
+msgstr ""
+#
+msgid "Show build in SecondInfobar"
+msgstr ""
+#
+msgid "SecondInfobar timeout"
+msgstr ""
+#
+msgid "same as Infobar"
+msgstr ""
+#
+msgid "Use cross left/right buttons for bouquet change in service list"
+msgstr ""
+#
+msgid "Use OK button for opening favourite list"
+msgstr ""
+#
+msgid "Timeout for double-click (ms)"
+msgstr ""
+#
+msgid "Use double click for OK button"
+msgstr ""
+#
+msgid "Enable advertisment detection (I-net is mandatory)"
+msgstr ""
+#
+msgid "Show icons in service list at services with advertisment"
+msgstr ""
+#
+msgid "Exclude services with advertisment at left/right zapping"
+msgstr ""
+#
+msgid "Set marker for advertisment during recording"
+msgstr ""
+#
+msgid "Scan in background"
+msgstr ""
+#
+msgid "Show preview pictures in service list"
+msgstr ""
+#
+msgid "Time in minutes before preview pictures will be updated"
+msgstr ""
+#
+msgid "Include configuration file in crash log"
+msgstr ""
+#
+msgid "Fast Scan"
+msgstr ""
+#
+msgid "Scanning %s..."
+msgstr ""
+#
+msgid "Scanning failed!"
+msgstr ""
+#
+msgid "List version %d, found %d channels"
+msgstr ""
+#
+msgid "HD list"
+msgstr ""
+#
+msgid "Select your provider, and press OK to start the scan"
+msgstr ""
+#
+msgid "Use fastscan channel names"
+msgstr ""
+#
+msgid "Enable auto fast scan"
+msgstr ""
+#
+msgid "Enable auto fast scan for %s"
+msgstr ""
+#
+msgid ""
+"A recording is currently running. Please stop the recording before trying to "
+"scan."
+msgstr ""
+#
+msgid "No suitable sat tuner found!"
+msgstr ""
+#
+msgid "Automatic framerate detection"
+msgstr ""
+#
+msgid "Mode for framerate change"
+msgstr ""
+#
+msgid ""
+"Changing framerate for current service?\n"
+"Current framerate: %s\n"
+"New framerate: %s\n"
+msgstr ""
+#
+msgid "automatically"
+msgstr ""
+#
+msgid "manually"
+msgstr ""
+#
+msgid "Hide Infobar when SecondInfobar is shown"
+msgstr ""
+#
+msgid "Can not find wireless lan devices that support AP mode."
+msgstr ""
+#
+msgid "Use alternative service list (horizontal) mode"
+msgstr ""
+#
+msgid "Do you want to install OScam as SoftCam for your smartcards?"
+msgstr ""
+#
+msgid "The SoftCam was installed successfully"
+msgstr ""
+#
+msgid ""
+"A mount entry with this name already exists!\n"
+"Update existing entry and continue?\n"
+msgstr ""
+#
+msgid "Active"
+msgstr ""
+#
+msgid ""
+"Active/\n"
+"Inactive"
+msgstr ""
+#
+msgid "Add a new NFS or CIFS mount point to your Dreambox."
+msgstr ""
+#
+msgid "Add new network mount point"
+msgstr ""
+#
+msgid ""
+"Are you sure you want to save this network mount?\n"
+"\n"
+msgstr ""
+#
+msgid "Browse network neighbourhood"
+msgstr ""
+#
+msgid "CIFS share"
+msgstr ""
+#
+msgid "Change hostname"
+msgstr ""
+#
+msgid "Change the hostname of your Dreambox."
+msgstr ""
+#
+msgid "Delete selected mount"
+msgstr ""
+#
+msgid "Dir:"
+msgstr ""
+#
+msgid "Do you want to enter a username and password for this host?\n"
+msgstr ""
+#
+msgid "Enter new hostname for your Dreambox"
+msgstr ""
+#
+msgid "Enter options:"
+msgstr ""
+#
+msgid "Enter password:"
+msgstr ""
+#
+msgid "Enter share directory:"
+msgstr ""
+#
+msgid "Enter share name:"
+msgstr ""
+#
+msgid "Enter user and password for host: "
+msgstr ""
+#
+msgid "Enter username:"
+msgstr ""
+#
+msgid "IP:"
+msgstr ""
+#
+msgid "Local share name"
+msgstr ""
+#
+msgid "Manage network shares"
+msgstr ""
+#
+msgid "Manage your network shares..."
+msgstr ""
+#
+msgid "Mount informations"
+msgstr ""
+#
+msgid "Mount options"
+msgstr ""
+#
+msgid "Mount type"
+msgstr ""
+#
+msgid "MountManager"
+msgstr ""
+#
+msgid ""
+"Mounted/\n"
+"Unmounted"
+msgstr ""
+#
+msgid "Mountpoints management"
+msgstr ""
+#
+msgid "Mounts editor"
+msgstr ""
+#
+msgid "Mounts management"
+msgstr ""
+#
+msgid "NFS share"
+msgstr ""
+#
+msgid "NetworkBrowser"
+msgstr ""
+#
+msgid "No network devices found!"
+msgstr ""
+#
+msgid "Please wait for activation of your network mount..."
+msgstr ""
+#
+msgid "Please wait while removing your network mount..."
+msgstr ""
+#
+msgid "Please wait while updating your network mount..."
+msgstr ""
+#
+msgid "Press OK to edit selected settings."
+msgstr ""
+#
+msgid "Press OK to mount!"
+msgstr ""
+#
+msgid "Press OK to save settings."
+msgstr ""
+#
+msgid "Press OK to select."
+msgstr ""
+#
+msgid "Rescan network"
+msgstr ""
+#
+msgid "Search for network shares"
+msgstr ""
+#
+msgid "Search for network shares..."
+msgstr ""
+#
+msgid "Searching your network. Please wait..."
+msgstr ""
+#
+msgid "Server IP"
+msgstr ""
+#
+msgid "Server share"
+msgstr ""
+#
+msgid "User management"
+msgstr ""
+#
+msgid "Usermanager"
+msgstr ""
+#
+msgid "View, edit or delete mountpoints on your Dreambox."
+msgstr ""
+#
+msgid "View, edit or delete usernames and passwords for your network."
+msgstr ""
+#
+msgid "Your network mount has been activated."
+msgstr ""
+#
+msgid "Your network mount has been removed."
+msgstr ""
+#
+msgid "Your network mount has been updated."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 309
+msgid " Results"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1104
+# File: ../src/plugin.py, line: 1270
+msgid "Added: "
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 168
+# File: ../src/plugin.py, line: 56
+msgid "All Time"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 423
+msgid "An error occured."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 228
+# File: ../src/plugin.py, line: 116
+msgid "Ascending"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 201
+# File: ../src/MyTubeSearch.py, line: 208
+# File: ../src/plugin.py, line: 89
+# File: ../src/plugin.py, line: 96
+msgid "Australia"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 182
+# File: ../src/plugin.py, line: 70
+msgid "Autos & Vehicles"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 202
+# File: ../src/plugin.py, line: 90
+msgid "Brazil"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 203
+# File: ../src/plugin.py, line: 91
+msgid "Canada"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 433
+msgid "Clear history on Exit:"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 189
+# File: ../src/plugin.py, line: 77
+msgid "Comedy"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 204
+# File: ../src/plugin.py, line: 92
+msgid "Czech Republic"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 229
+# File: ../src/plugin.py, line: 117
+msgid "Descending"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 414
+msgid "Display search results by:"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 719
+msgid "Do you want to see more entries?"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 485
+msgid "Download Video"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 430
+msgid "Download location"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1238
+msgid "Downloading screenshots. Please wait..."
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1104
+# File: ../src/plugin.py, line: 1264
+msgid "Duration: "
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 193
+# File: ../src/plugin.py, line: 81
+msgid "Education"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 526
+msgid "Enter your search term(s)"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 192
+# File: ../src/plugin.py, line: 80
+msgid "Entertainment"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 371
+# File: ../src/plugin.py, line: 413
+msgid "Fetching feed entries"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 418
+msgid "Fetching search entries"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 181
+# File: ../src/plugin.py, line: 69
+msgid "Film & Animation"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 205
+# File: ../src/plugin.py, line: 93
+msgid "France"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 188
+# File: ../src/plugin.py, line: 76
+msgid "Gaming"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 206
+# File: ../src/plugin.py, line: 94
+msgid "Germany"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 207
+# File: ../src/plugin.py, line: 95
+msgid "Great Britain"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 237
+# File: ../src/plugin.py, line: 125
+# File: ../src/plugin.py, line: 752
+msgid "HD videos"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 271
+msgid "History"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 209
+# File: ../src/plugin.py, line: 97
+msgid "Holland"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 210
+# File: ../src/plugin.py, line: 98
+msgid "Hong Kong"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 194
+# File: ../src/plugin.py, line: 82
+msgid "Howto & Style"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 211
+# File: ../src/plugin.py, line: 99
+msgid "India"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 212
+# File: ../src/plugin.py, line: 100
+msgid "Ireland"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 213
+# File: ../src/plugin.py, line: 101
+msgid "Israel"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 214
+# File: ../src/plugin.py, line: 102
+msgid "Italy"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 215
+# File: ../src/plugin.py, line: 103
+msgid "Japan"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 418
+msgid "Load feed on startup:"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 216
+# File: ../src/plugin.py, line: 104
+msgid "Mexico"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 929
+msgid "More video entries."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 241
+# File: ../src/plugin.py, line: 129
+# File: ../src/plugin.py, line: 759
+msgid "Most discussed"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 243
+# File: ../src/plugin.py, line: 131
+# File: ../src/plugin.py, line: 760
+msgid "Most linked"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 757
+msgid "Most popular"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 245
+# File: ../src/plugin.py, line: 133
+# File: ../src/plugin.py, line: 758
+msgid "Most recent"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 244
+# File: ../src/plugin.py, line: 132
+# File: ../src/plugin.py, line: 762
+msgid "Most responded"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 238
+# File: ../src/plugin.py, line: 126
+# File: ../src/plugin.py, line: 756
+msgid "Most viewed"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 183
+# File: ../src/plugin.py, line: 71
+msgid "Music"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1738
+msgid "My TubePlayer"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 472
+# File: ../src/plugin.py, line: 478
+msgid "MyTube Settings"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 384
+msgid "MyTubePlayer"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 450
+# File: ../src/plugin.py, line: 452
+# File: ../src/plugin.py, line: 459
+msgid "MyTubePlayer Help"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 571
+# File: ../src/MyTubeSearch.py, line: 588
+msgid "MyTubePlayer active video downloads"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 407
+# File: ../src/MyTubeSearch.py, line: 410
+msgid "MyTubePlayer settings"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1279
+msgid "MyTubeVideoInfoScreen"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1425
+msgid "MyTubeVideohelpScreen"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 217
+# File: ../src/plugin.py, line: 105
+msgid "New Zealand"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 191
+# File: ../src/plugin.py, line: 79
+msgid "News & Politics"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1702
+msgid "No playable video found! Stop playing this movie?"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 429
+msgid "No videos to display"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 572
+msgid "No, but switch to video entries."
+msgstr ""
+#
+# File: ../src/plugin.py, line: 578
+msgid "No, but switch to video search."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 195
+# File: ../src/plugin.py, line: 83
+msgid "Nonprofits & Activism"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 433
+msgid "Not fetching feed entries"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 190
+# File: ../src/plugin.py, line: 78
+msgid "People & Blogs"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 184
+# File: ../src/plugin.py, line: 72
+msgid "Pets & Animals"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1739
+msgid "Play YouTube movies"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 249
+# File: ../src/plugin.py, line: 136
+msgid "Play next video"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 249
+# File: ../src/plugin.py, line: 136
+msgid "Play video again"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 433
+msgid "Please enter your search term."
+msgstr ""
+#
+# File: ../src/plugin.py, line: 429
+msgid "Please select a standard feed or try searching for videos."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 218
+# File: ../src/plugin.py, line: 106
+msgid "Poland"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 163
+# File: ../src/plugin.py, line: 51
+msgid "Published"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 164
+# File: ../src/plugin.py, line: 52
+msgid "Rating"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1104
+msgid "Ratings: "
+msgstr ""
+#
+# File: ../src/plugin.py, line: 580
+msgid "Really quit MyTube Player?"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 240
+# File: ../src/plugin.py, line: 128
+# File: ../src/plugin.py, line: 761
+msgid "Recently featured"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 936
+msgid "Related video entries."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 161
+# File: ../src/plugin.py, line: 49
+msgid "Relevance"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 943
+msgid "Response video entries."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 219
+# File: ../src/plugin.py, line: 107
+msgid "Russia"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 196
+# File: ../src/plugin.py, line: 84
+msgid "Science & Technology"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 388
+msgid "Search Term(s)"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 416
+msgid "Search category:"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 417
+msgid "Search region:"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 415
+msgid "Search restricted content:"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 764
+msgid "Select new feed to view."
+msgstr ""
+#
+# File: ../src/plugin.py, line: 475
+# File: ../src/plugin.py, line: 490
+msgid "Select your choice."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 187
+# File: ../src/plugin.py, line: 75
+msgid "Short Movies"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 220
+# File: ../src/plugin.py, line: 108
+msgid "South Korea"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 221
+# File: ../src/plugin.py, line: 109
+msgid "Spain"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 185
+# File: ../src/plugin.py, line: 73
+msgid "Sports"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 421
+msgid "Start with following feed:"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 270
+msgid "Std. Feeds"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 222
+# File: ../src/plugin.py, line: 110
+msgid "Sweden"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1276
+msgid "Tags: "
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 223
+# File: ../src/plugin.py, line: 111
+msgid "Taiwan"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 423
+msgid "There was an error getting the feed entries. Please try again."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 169
+# File: ../src/plugin.py, line: 57
+msgid "This Month"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 170
+# File: ../src/plugin.py, line: 58
+msgid "This Week"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1420
+msgid "This is the help screen. Feed me with something to display."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 242
+# File: ../src/plugin.py, line: 130
+# File: ../src/plugin.py, line: 755
+msgid "Top favorites"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 239
+# File: ../src/plugin.py, line: 127
+# File: ../src/plugin.py, line: 754
+msgid "Top rated"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 186
+# File: ../src/plugin.py, line: 74
+msgid "Travel & Events"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 371
+# File: ../src/plugin.py, line: 413
+msgid "Trying to download the Youtube feed entries. Please wait..."
+msgstr ""
+#
+# File: ../src/plugin.py, line: 418
+msgid "Trying to download the Youtube search results. Please wait..."
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 224
+# File: ../src/plugin.py, line: 112
+msgid "United States"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 423
+msgid "Videobrowser exit behavior:"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 422
+msgid "Videoplayer stop/exit behavior:"
+msgstr ""
+#
+# File: ../src/MyTubeSearch.py, line: 162
+# File: ../src/plugin.py, line: 50
+msgid "View Count"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 486
+msgid "View active downloads"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 480
+msgid "View related videos"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 481
+msgid "View response videos"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1104
+# File: ../src/plugin.py, line: 1273
+msgid "Views: "
+msgstr ""
+#
+# File: ../src/plugin.py, line: 260
+msgid ""
+"Welcome to the MyTube Youtube Player.\n"
+"\n"
+"Use the Bouqet+ button to navigate to the search field and the Bouqet- to "
+"navigate to the video entries.\n"
+"\n"
+"To play a movie just press OK on your remote control.\n"
+"\n"
+"Press info to see the movie description.\n"
+"\n"
+"Press the Menu button for additional options.\n"
+"\n"
+"The Help button shows this help again."
+msgstr ""
+#
+# File: ../src/plugin.py, line: 259
+msgid ""
+"Welcome to the MyTube Youtube Player.\n"
+"\n"
+"While entering your search term(s) you will get suggestions displayed "
+"matching your search term.\n"
+"\n"
+"To select a suggestion press DOWN on your remote, select the desired result "
+"and press OK on your remote to start the search.\n"
+"\n"
+"Press exit to get back to the input field."
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1696
+msgid "Yes, but play next video"
+msgstr ""
+#
+# File: ../src/plugin.py, line: 1697
+msgid "Yes, but play previous video"
+msgstr ""
+#
+msgid "Auto paginate on last entry:"
+msgstr ""
+#
+msgid "Reset tv-screen after playback:"
+msgstr ""
+#
+msgid "Max search results:"
+msgstr ""
+#
+#
+#~ msgid "E"
+#~ msgstr "E"
+#
+#
+#~ msgid "W"
+#~ msgstr "W"
+#
+#
+#~ msgid ""
+#~ "Enigma2 Skinselector\n"
+#~ "\n"
+#~ "If you experience any problems please contact\n"
+#~ "stephan@reichholf.net\n"
+#~ "\n"
+#~ "© 2006 - Stephan Reichholf"
+#~ msgstr ""
+#~ "Enigma2 Skinnval\n"
+#~ "\n"
+#~ "Ef þú verður var við vandamál hafðu þá samband\n"
+#~ "stephan@reichholf.net\n"
+#~ "\n"
+#~ "© 2006 - Stephan Reichholf"
