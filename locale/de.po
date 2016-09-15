@@ -25806,3 +25806,15 @@ msgstr "Beschreibung:"
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
 msgstr "Fehler bei Ermittlung der Video URL!"
+
+#
+msgid "How to install new service lists..."
+msgstr "Wie sollen die neuen Kanallisten installiert werden..."
+
+#
+msgid "append to exisiting service lists"
+msgstr "bestehende Kanallisten ergänzen"
+
+#
+msgid "overwrite exisiting service lists"
+msgstr "bestehende Kanallisten ersetzen"

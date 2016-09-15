@@ -21359,3 +21359,15 @@ msgstr ""
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
 msgstr ""
+
+#
+msgid "How to install new service lists..."
+msgstr ""
+
+#
+msgid "append to exisiting service lists"
+msgstr ""
+
+#
+msgid "overwrite exisiting service lists"
+msgstr ""
