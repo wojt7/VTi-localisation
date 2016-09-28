@@ -22123,3 +22123,23 @@ msgstr ""
 #
 msgid "overwrite exisiting service lists"
 msgstr ""
+
+#
+msgid "WakeOnWLan Enable"
+msgstr ""
+
+#
+msgid "Wake on WLan disabled"
+msgstr ""
+
+#
+msgid "Wake on Lan disabled"
+msgstr ""
+
+#
+msgid "HWaddr of %s is %s"
+msgstr ""
+
+#
+msgid "Use only for Wake on WLan (WoW)"
+msgstr ""

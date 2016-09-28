@@ -25818,3 +25818,23 @@ msgstr "bestehende Kanallisten ergänzen"
 #
 msgid "overwrite exisiting service lists"
 msgstr "bestehende Kanallisten ersetzen"
+
+#
+msgid "WakeOnWLan Enable"
+msgstr "Wake on WLan (WoW) aktivieren"
+
+#
+msgid "Wake on WLan disabled"
+msgstr "Wake on WLan (WoW) ist deaktivert"
+
+#
+msgid "Wake on Lan disabled"
+msgstr "Wake on Lan (WoL) ist deaktivert"
+
+#
+msgid "HWaddr of %s is %s"
+msgstr "MAC-Adresse ( %s ): %s"
+
+#
+msgid "Use only for Wake on WLan (WoW)"
+msgstr "Nur für Wake on WLan (WoW) aktivieren"
