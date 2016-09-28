@@ -21391,3 +21391,11 @@ msgstr ""
 #
 msgid "Use only for Wake on WLan (WoW)"
 msgstr ""
+
+#
+msgid "Deep Standby with WoW"
+msgstr ""
+
+#
+msgid "Wake on WLan Setup"
+msgstr ""

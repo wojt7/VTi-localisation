@@ -2029,7 +2029,7 @@ msgstr "Ausschalten"
 
 #
 msgid "Deep Standby with WOL"
-msgstr "Ausschalten mit aktiviertem WOL"
+msgstr "Ausschalten - WoL aktiviert"
 
 #
 msgid "DeepStandby"
@@ -25838,3 +25838,11 @@ msgstr "MAC-Adresse ( %s ): %s"
 #
 msgid "Use only for Wake on WLan (WoW)"
 msgstr "Nur für Wake on WLan (WoW) aktivieren"
+
+#
+msgid "Deep Standby with WoW"
+msgstr "Ausschalten - WoW aktiviert"
+
+#
+msgid "Wake on WLan Setup"
+msgstr "Wake on WLan-Einrichtung""
