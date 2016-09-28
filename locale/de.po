@@ -25845,4 +25845,5 @@ msgstr "Ausschalten - WoW aktiviert"
 
 #
 msgid "Wake on WLan Setup"
-msgstr "Wake on WLan-Einrichtung""
+msgstr "Wake on WLan-Einrichtung"
+
