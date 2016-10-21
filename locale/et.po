@@ -21391,3 +21391,11 @@ msgstr ""
 #
 msgid "Wake on WLan Setup"
 msgstr ""
+
+#
+msgid "Energy schedule"
+msgstr ""
+
+#
+msgid "Power on"
+msgstr ""
