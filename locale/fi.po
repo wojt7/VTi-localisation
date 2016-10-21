@@ -21854,3 +21854,29 @@ msgstr ""
 #
 msgid "Power on"
 msgstr ""
+
+#
+msgid "Event"
+msgstr ""
+
+#
+msgid "Execution time"
+msgstr ""
+
+#
+msgid ""
+"An energy schedule task wants to set your Vu+ STB to standby\n"
+"\n"
+"Continue?"
+msgstr ""
+
+#
+msgid ""
+"An energy schedule task wants to power off your Vu+ STB\n"
+"\n"
+"Continue?"
+msgstr ""
+
+#
+msgid "Ask before execution"
+msgstr ""

@@ -25854,3 +25854,33 @@ msgstr "Energie-Zeitplan"
 #
 msgid "Power on"
 msgstr "Einschalten"
+
+#
+msgid "Event"
+msgstr "Ereignis"
+
+#
+msgid "Execution time"
+msgstr "Ausführungszeit"
+
+#
+msgid ""
+"An energy schedule task wants to set your Vu+ STB to standby\n"
+"\n"
+"Continue?"
+msgstr "Ein Aufgabe des Energie-Zeitplans will Ihre Vu+ STB in den Standby versetzen.\n"
+"\n"
+"Fortfahren ?"
+
+#
+msgid ""
+"An energy schedule task wants to power off your Vu+ STB\n"
+"\n"
+"Continue?"
+msgstr "Ein Aufgabe des Energie-Zeitplans will Ihre Vu+ STB ausschalten.\n"
+"\n"
+"Fortfahren ?"
+
+#
+msgid "Ask before execution"
+msgstr "Vor der Ausführung fragen"
