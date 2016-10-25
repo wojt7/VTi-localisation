@@ -24803,3 +24803,63 @@ msgstr ""
 #
 msgid "Ask before execution"
 msgstr ""
+
+#
+msgid "Vertical EPG View"
+msgstr ""
+
+#
+msgid "Vertical EPG view based on Vali Programm Guide"
+msgstr ""
+
+#
+msgid "Primetime (HH:MM):"
+msgstr ""
+
+#
+msgid "Primetime at start:"
+msgstr ""
+
+#
+msgid "Zap with OK button (false=EventInfo):"
+msgstr ""
+
+#
+msgid "No EPG data available"
+msgstr ""
+
+#
+msgid "Prime Time"
+msgstr ""
+
+#
+msgid "Now"
+msgstr ""
+
+#
+msgid "Full EPG"
+msgstr ""
+
+#
+msgid "Select Info type..."
+msgstr ""
+
+#
+msgid "Standard EPG info"
+msgstr ""
+
+#
+msgid "IMDb info"
+msgstr ""
+
+#
+msgid "Select timer type..."
+msgstr ""
+
+#
+msgid "View AutoTimers"
+msgstr ""
+
+#
+msgid "Vertical Multi EPG"
+msgstr ""

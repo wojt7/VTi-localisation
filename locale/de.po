@@ -25868,7 +25868,9 @@ msgid ""
 "An energy schedule task wants to set your Vu+ STB to standby\n"
 "\n"
 "Continue?"
-msgstr "Ein Aufgabe des Energie-Zeitplans will Ihre Vu+ STB in den Standby versetzen.\n"
+msgstr ""
+"Ein Aufgabe des Energie-Zeitplans will Ihre Vu+ STB in den Standby "
+"versetzen.\n"
 "\n"
 "Fortfahren ?"
 
@@ -25877,10 +25879,71 @@ msgid ""
 "An energy schedule task wants to power off your Vu+ STB\n"
 "\n"
 "Continue?"
-msgstr "Ein Aufgabe des Energie-Zeitplans will Ihre Vu+ STB ausschalten.\n"
+msgstr ""
+"Ein Aufgabe des Energie-Zeitplans will Ihre Vu+ STB ausschalten.\n"
 "\n"
 "Fortfahren ?"
 
 #
 msgid "Ask before execution"
 msgstr "Vor der Ausführung fragen"
+
+#
+msgid "Vertical EPG View"
+msgstr "EPG - Spaltenansicht"
+
+#
+msgid "Vertical EPG view based on Vali Programm Guide"
+msgstr "Vertikale EPG Ansicht basieren auf Valis Programm Guide"
+
+#
+msgid "Primetime (HH:MM):"
+msgstr "Primetime (HH:MM)"
+
+#
+msgid "Primetime at start:"
+msgstr "Primetime beim Start auswählen:"
+
+#
+msgid "Zap with OK button (false=EventInfo):"
+msgstr "OK-Taste zum Umschalten verwenden:"
+
+#
+msgid "No EPG data available"
+msgstr "Keine EPG Daten verfügbar"
+
+#
+msgid "Prime Time"
+msgstr "Primetime"
+
+#
+msgid "Now"
+msgstr "Aktuell"
+
+#
+msgid "Full EPG"
+msgstr "Vollständiger EPG"
+
+#
+msgid "Select Info type..."
+msgstr "Wählen Sie die Infoart"
+
+#
+msgid "Standard EPG info"
+msgstr "Standard EPG-Detailansicht"
+
+#
+msgid "IMDb info"
+msgstr "IMDb Daten"
+
+#
+msgid "Select timer type..."
+msgstr "Wählen Sie die Timerart..."
+
+#
+msgid "View AutoTimers"
+msgstr "Zeige AutoTimer Einträge"
+
+#
+msgid "Vertical Multi EPG"
+msgstr "EPG - Spaltenansicht"
