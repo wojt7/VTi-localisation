@@ -21679,7 +21679,7 @@ msgid "No EPG data available"
 msgstr ""
 
 #
-msgid "Prime Time"
+msgid "Primetime"
 msgstr ""
 
 #
@@ -21711,5 +21711,37 @@ msgid "View AutoTimers"
 msgstr ""
 
 #
-msgid "Vertical Multi EPG"
+msgid "Multi EPG column view"
+msgstr ""
+
+#
+msgid "Next bouquet"
+msgstr ""
+
+#
+msgid "Previous bouquet"
+msgstr ""
+
+#
+msgid "Next page"
+msgstr ""
+
+#
+msgid "Previous page"
+msgstr ""
+
+#
+msgid "Add/remove timer"
+msgstr ""
+
+#
+msgid "Now / Primetime / Full EPG"
+msgstr ""
+
+#
+msgid "Scroll up all"
+msgstr ""
+
+#
+msgid "Scroll down all"
 msgstr ""

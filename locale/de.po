@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-06-15 17:59+0200\n"
+"PO-Revision-Date: 2016-10-26 17:31+0200\n"
 "Last-Translator: plnick <plnick@vuplus-support.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.3\n"
+"X-Generator: Poedit 1.8.11\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #
@@ -18663,26 +18663,23 @@ msgstr "Die Timerliste wurde bereinigt"
 # File: ../src/WebComponents/Sources/Timer.py, line: 79
 # File: ../src/WebComponents/Sources/Timer.py, line: 225
 # File: ../src/WebComponents/Sources/Timer.py, line: 398
-#: src/WebComponents/Sources/Timer.py:79
-#: src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398
-#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
+#: src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Fehlender Parameter: sRef"
 
 #
 # File: ../src/WebComponents/Sources/Timer.py, line: 84
 # File: ../src/WebComponents/Sources/Timer.py, line: 231
-#: src/WebComponents/Sources/Timer.py:84
-#: src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Fehlender Parameter: begin"
 
 #
 # File: ../src/WebComponents/Sources/Timer.py, line: 89
 # File: ../src/WebComponents/Sources/Timer.py, line: 235
-#: src/WebComponents/Sources/Timer.py:89
-#: src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Fehlender Parameter: end"
 
@@ -18869,8 +18866,7 @@ msgstr "Film '%s' gelöscht"
 #
 # File: ../src/WebComponents/Sources/Movie.py, line: 61
 # File: ../src/WebComponents/Sources/Movie.py, line: 154
-#: src/WebComponents/Sources/Movie.py:61
-#: src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Unerlaubter Parameterwert: sRef - '%s'"
@@ -25913,8 +25909,8 @@ msgid "No EPG data available"
 msgstr "Keine EPG Daten verfügbar"
 
 #
-msgid "Prime Time"
-msgstr "Primetime"
+msgid "Primetime"
+msgstr ""
 
 #
 msgid "Now"
@@ -25945,5 +25941,38 @@ msgid "View AutoTimers"
 msgstr "Zeige AutoTimer Einträge"
 
 #
-msgid "Vertical Multi EPG"
-msgstr "EPG - Spaltenansicht"
+msgid "Multi EPG column view"
+msgstr "Multi EPG Spaltenansicht"
+
+#
+msgid "Next bouquet"
+msgstr "Nächste Favoritenliste"
+
+#
+msgid "Previous bouquet"
+msgstr "Vorherige Favoritenliste"
+
+#
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#
+msgid "Add/remove timer"
+msgstr "Timer hinzufügen/entfernen"
+
+#
+msgid "Now / Primetime / Full EPG"
+msgstr "Jetzt / Primetime / Vollständiger EPG"
+
+#
+msgid "Scroll up all"
+msgstr "Alles nach oben scrollen"
+
+#
+msgid "Scroll down all"
+msgstr "Alles nach unten scrollen"
+
