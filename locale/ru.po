@@ -22270,7 +22270,7 @@ msgid "Vertical EPG view based on Vali Programm Guide"
 msgstr ""
 
 #
-msgid "Primetime (HH:MM):"
+msgid "Main Primetime (HH:MM):"
 msgstr ""
 
 #
@@ -22351,4 +22351,20 @@ msgstr ""
 
 #
 msgid "Scroll down all"
+msgstr ""
+
+#
+msgid "Skip intervall in hours:"
+msgstr ""
+
+#
+msgid "Primetime II (HH:MM):"
+msgstr ""
+
+#
+msgid "Primetime III (HH:MM):"
+msgstr ""
+
+#
+msgid "Show only Primetime"
 msgstr ""
