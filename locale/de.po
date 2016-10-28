@@ -25995,3 +25995,7 @@ msgstr "Primetime III (HH:MM)"
 #
 msgid "Show only Primetime"
 msgstr "Zeige nur Primetime"
+
+#
+msgid "Input date and time"
+msgstr "Tag und Uhrzeit eingeben"
