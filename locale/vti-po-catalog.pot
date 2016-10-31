@@ -20566,3 +20566,10 @@ msgstr ""
 msgid "Input date and time"
 msgstr ""
 
+#
+msgid "Skip one day back"
+msgstr ""
+
+#
+msgid "Skip one day forward"
+msgstr ""

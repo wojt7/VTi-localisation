@@ -26003,3 +26003,11 @@ msgstr "Zeige nur Primetime"
 #
 msgid "Input date and time"
 msgstr "Tag und Uhrzeit eingeben"
+
+#
+msgid "Skip one day back"
+msgstr "Einen Tag zurück springen"
+
+#
+msgid "Skip one day forward"
+msgstr "Einen Tag vor springen"
