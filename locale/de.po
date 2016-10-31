@@ -25864,6 +25864,10 @@ msgid "Execution time"
 msgstr "Ausführungszeit"
 
 #
+msgid "After power on"
+msgstr "Nach dem Einschalten"
+
+#
 msgid ""
 "An energy schedule task wants to set your Vu+ STB to standby\n"
 "\n"
