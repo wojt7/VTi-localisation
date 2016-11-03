@@ -26014,23 +26014,19 @@ msgstr "Einen Tag vor springen"
 
 #
 msgid "Picons loaded: "
-msgstr ""
+msgstr "geladene Picons: "
 
 #
 msgid "Picons not found: "
-msgstr ""
+msgstr "nicht gefundene Picons: "
 
 #
 msgid "loading"
-msgstr ""
+msgstr "lade..."
 
 #
 msgid "Manage your Picons"
-msgstr ""
-
-#
-msgid "color depth: "
-msgstr ""
+msgstr "Verwalte deine Picons"
 
 #
 msgid "Select service for preferred picon"
