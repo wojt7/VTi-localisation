@@ -20573,3 +20573,47 @@ msgstr ""
 #
 msgid "Skip one day forward"
 msgstr ""
+
+#
+msgid "Picons loaded: "
+msgstr ""
+
+#
+msgid "Picons not found: "
+msgstr ""
+
+#
+msgid "loading"
+msgstr ""
+
+#
+msgid "Manage your Picons"
+msgstr ""
+
+#
+msgid "color depth: "
+msgstr ""
+
+#
+msgid "Select service for preferred picon"
+msgstr ""
+
+#
+msgid "is not installed."
+msgstr ""
+
+#
+msgid "Clean up the directory"
+msgstr ""
+
+#
+msgid "Sorry, service is temporarily unavailable"
+msgstr ""
+
+#
+msgid "Not older than X days: "
+msgstr ""
+
+#
+msgid "Not older than X days:"
+msgstr ""

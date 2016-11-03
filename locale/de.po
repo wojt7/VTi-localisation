@@ -13101,7 +13101,7 @@ msgstr "Fortschritt: "
 
 #
 msgid "Show group: "
-msgstr "Gruppe anzeigen: "
+msgstr "Zeige Gruppe: "
 
 #
 msgid "Standard picon: "
@@ -13113,55 +13113,55 @@ msgstr "Laufwerk auswählen"
 
 #
 msgid "More selections"
-msgstr "Weitere Filter"
+msgstr "weitere Filter"
 
 #
 msgid "Download picons"
-msgstr "Speichern"
+msgstr "lade Picons"
 
 #
 msgid "Select path"
-msgstr "Verzeichnis auswählen"
+msgstr "Verzeichnispfad wählen"
 
 #
 msgid "Create folder"
-msgstr "Neues Verzeichnis"
+msgstr "erstelle Ordner"
 
 #
 msgid "Show random Picon"
-msgstr "Zufälliges Picon anzeigen"
+msgstr "zeige zufälliges Picon"
 
 #
 msgid "Next Group"
-msgstr "Nächste Gruppe"
+msgstr "nächste Gruppe"
 
 #
 msgid "Previous Group"
-msgstr "Vorherige Gruppe"
+msgstr "vorherige Gruppe"
 
 #
 msgid "Set / clear standard Picon"
-msgstr "Standard-Picon festlegen/zurücksetzen"
+msgstr "setze / entferne Standardpicon"
 
 #
 msgid "FreeSpace: Drive Not Found !"
-msgstr "Freier Speicher: Laufwerk nicht gefunden"
+msgstr "Freier Speicher: Kein Speicher gefunden!"
 
 #
 msgid "FreeSpace: "
-msgstr "Freier Speicher: "
+msgstr "Freier Speicher:"
 
 #
 msgid "Enter Picon Dir:"
-msgstr "Picon-Verzeichnis eingeben:"
+msgstr "erstelle Piconverzeichnis:"
 
 #
 msgid "Download finished !"
-msgstr "Herunterladen abgeschlossen."
+msgstr "Herunterladen beendet !"
 
 #
 msgid "Choose Picon folder"
-msgstr "Picon-Verzeichnis auswählen"
+msgstr "wähle Piconverzeichnis"
 
 #
 msgid "FreeSpace:"
@@ -13173,7 +13173,7 @@ msgstr "Kanäle:"
 
 #
 msgid "Server temporarily unavailable"
-msgstr "Der Server ist momentan nicht erreichbar"
+msgstr "Server momentan nicht erreichbar"
 
 #
 msgid "PiconManagerMod - Settings"
@@ -13181,7 +13181,7 @@ msgstr "PiconManager - Einstellungen"
 
 #
 msgid "Select from list"
-msgstr "Aus Liste auswählen"
+msgstr "aus Liste auswählen"
 
 #
 msgid "OK and exit"
@@ -13189,7 +13189,7 @@ msgstr "OK und Beenden"
 
 #
 msgid "Set Filter:"
-msgstr "Filter festlegen:"
+msgstr "setze Filter:"
 
 #
 msgid "Size"
@@ -13221,27 +13221,27 @@ msgstr "Server auswählen:"
 
 #
 msgid "Previous picon creator"
-msgstr "Vorheriger Picon-Ersteller"
+msgstr "vorheriger Piconersteller"
 
 #
 msgid "Next picon creator"
-msgstr "Nächster Picon-Ersteller"
+msgstr "nächster Piconersteller"
 
 #
 msgid "Previous picon size"
-msgstr "Vorherige Picon-Größe"
+msgstr "vorherige Picongrösse"
 
 #
 msgid "Next picon size"
-msgstr "Nächste Picon-Größe"
+msgstr "nächste Picongrösse"
 
 #
 msgid "Previous color depth"
-msgstr "Vorherige Farbtiefe"
+msgstr "vorherige Farbtiefe"
 
 #
 msgid "Next color depth"
-msgstr "Nächste Farbtiefe"
+msgstr "nächste Farbtiefe"
 
 #
 msgid "Size: "
@@ -13257,7 +13257,7 @@ msgstr "Farbtiefe: "
 
 #
 msgid "No search results, please change filter options ..."
-msgstr "Keine Suchergebnisse. Bitte ändern Sie die Filteroptionen..."
+msgstr "Keine Suchergebnisse, bitte Filteroptionen ändern ..."
 
 #
 msgid "Loading, please wait..."
@@ -26011,3 +26011,47 @@ msgstr "Einen Tag zurück springen"
 #
 msgid "Skip one day forward"
 msgstr "Einen Tag vor springen"
+
+#
+msgid "Picons loaded: "
+msgstr ""
+
+#
+msgid "Picons not found: "
+msgstr ""
+
+#
+msgid "loading"
+msgstr ""
+
+#
+msgid "Manage your Picons"
+msgstr ""
+
+#
+msgid "color depth: "
+msgstr ""
+
+#
+msgid "Select service for preferred picon"
+msgstr "wähle den Service für bevorzugtes Picon"
+
+#
+msgid "is not installed."
+msgstr "nicht installiert."
+
+#
+msgid "Clean up the directory"
+msgstr "bereinige das Verzeichnis"
+
+#
+msgid "Sorry, service is temporarily unavailable"
+msgstr "Entschuldigung, Service vorübergehend nicht verfügbar"
+
+#
+msgid "Not older than X days: "
+msgstr "Zeige neuer X Tage: "
+
+#
+msgid "Not older than X days:"
+msgstr "Zeige neuer X Tage:"
