@@ -23777,3 +23777,19 @@ msgstr ""
 #
 msgid "Not older than X days:"
 msgstr ""
+
+#
+msgid "Show state message on non bluetooth setup screen."
+msgstr ""
+
+#
+msgid "Try connect to last audio device on start enable"
+msgstr ""
+
+#
+msgid "Press red key to enable bluetooth."
+msgstr ""
+
+#
+msgid "Device is enabled."
+msgstr ""
