@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-10-26 17:31+0200\n"
+"PO-Revision-Date: 2016-11-07 18:32+0100\n"
 "Last-Translator: plnick <plnick@vuplus-support.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -26071,3 +26071,183 @@ msgstr "Rote Taste drücken um Bluetooth zu aktivieren"
 #
 msgid "Device is enabled."
 msgstr "Gerät ist aktiviert"
+
+#
+msgid "Sink"
+msgstr "Sink"
+
+#
+msgid "Select sink which you want to use."
+msgstr "System für die Wiedergabe auswählen."
+
+#
+msgid "Embedded subtitles"
+msgstr "Integrierte Untertitel"
+
+#
+msgid "Turn on the embedded subtitles support."
+msgstr "Aktiviert die enthaltenen Untertitel"
+
+#
+msgid "Buffer size"
+msgstr "Puffergröße"
+
+#
+msgid "Set buffer size in kilobytes."
+msgstr "Konfiguriert die Puffergröße in KiloByte"
+
+#
+msgid "Buffer duration"
+msgstr "Pufferdauer"
+
+#
+msgid "Set buffer duration in seconds."
+msgstr "Konfiguriert die Pufferdauer in Sekunden"
+
+#
+msgid "AAC software decoding"
+msgstr "AAC Software-Dekoder"
+
+#
+msgid "Turn on AAC software decoding."
+msgstr "Aktiviert den AAC Software Dekoder"
+
+#
+msgid "DTS software decoding"
+msgstr "DTS Software-Dekoder"
+
+#
+msgid "Turn on DTS software decoding."
+msgstr "Aktiviert den DTS Software Dekoder"
+
+#
+msgid "WMA software decoding"
+msgstr "WMA Software-Dekoder"
+
+#
+msgid "Turn on WMA1, WMA2, WMA/PRO software decoding."
+msgstr "Aktiviert den WMA1, WMA2, WMA/PRO Software Dekoder"
+
+#
+msgid "Stereo downmix"
+msgstr "Stereo-Downmix"
+
+#
+msgid "Turn on downmix to stereo, when software decoding is in use"
+msgstr "Aktiviert den Stereo-Downmix bei eingeschaltetem Software-Decoder"
+
+#
+msgid "LPCM injection"
+msgstr "LPCM verwenden"
+
+#
+msgid ""
+"Software decoder use LPCM for injection (otherwise wav PCM will be used)"
+msgstr ""
+"LPCM wird bei aktiviertem Software-Dekoder verwendet, ansonsten wird wav PCM "
+"benutzt"
+
+#
+msgid "Auto turn on subtitles"
+msgstr "Untertitel automatisch aktivieren"
+
+#
+msgid "Automatically turn on subtitles if available."
+msgstr "Aktiviert die Untertitel automatisch wenn Untertitel verfügbar sind"
+
+#
+msgid "HLS Explorer"
+msgstr "HLS-Explorer"
+
+#
+msgid ""
+"Turn on explorer to retrieve different quality streams from HLS variant "
+"playlist and select them via subservices."
+msgstr ""
+"Aktiviert den HLS Explorer um HLS Streams in unterschiedlicher Qualität zu "
+"erhalten, die als Unterkanäle verfügbar sind"
+
+#
+msgid "Auto select stream"
+msgstr "Stream automatisch wählen"
+
+#
+msgid "Turn on auto-selection of streams according to set Connection speed."
+msgstr ""
+"Wählt auf Basis der Verbindungsgeschwindigkeit die Streams automatisch aus"
+
+#
+msgid "Connection speed"
+msgstr "Verbindungsgeschwindigkeit"
+
+#
+msgid ""
+"Set connection speed in kb/s, according to which you want to have streams "
+"auto-selected"
+msgstr ""
+"Verbindungsgeschwindigkeit in kb/s aufgrund derer die Streamqualität "
+"ausgewählt wird."
+
+#
+msgid "ExtEplayer3"
+msgstr "ExtEPlayer3"
+
+#
+msgid "GstPlayer"
+msgstr "GstPlayer"
+
+#
+msgid "Enigma2 playback system"
+msgstr "Multimedia-Wiedergabemodul"
+
+#
+msgid "Select the player which will be used for Enigma2 playback."
+msgstr "Wiedergabemodul für die Wiedergabe von Mediendateien auswählen."
+
+#
+msgid "Player"
+msgstr "Player"
+
+#
+msgid ""
+"Select the player which will be used in serviceapp for Enigma2 playback."
+msgstr "Player auswählen der bei der ServiceApp verwendet wird."
+
+#
+msgid "ServiceMp3 (%s)"
+msgstr "Standard (Typ: %s)"
+
+#
+msgid "ServiceGstPlayer (%s)"
+msgstr "GstPlayer (Typ: %s)"
+
+#
+msgid "ServiceExtEplayer3 (%s)"
+msgstr "ExtEPlaye3r (Typ: %s)"
+
+#
+msgid ""
+"Enigma2 playback system was changed and Enigma2 should be restarted\n"
+"\n"
+"Do you want to restart it now?"
+msgstr ""
+"Das Wiedergabemodul wurde geändert und die Benutzeroberfläche sollte neu "
+"gestartet werden.\n"
+"\n"
+"Benutzeroberfläche jetzt neu starten"
+
+#
+msgid "setup player framework"
+msgstr "Modul für Medienwiedergabe konfigurieren"
+
+#
+msgid "Play with ServiceExtEplayer3"
+msgstr "mit ExtEplayer3 abspielen"
+
+#
+msgid "Play with ServiceGstPlayer"
+msgstr "mit GstPlayer abspielen"
+
+#
+msgid "ServiceApp"
+msgstr "Medienwiedergabe konfigurieren"
