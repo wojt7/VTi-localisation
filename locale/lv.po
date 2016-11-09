@@ -21786,3 +21786,71 @@ msgstr ""
 #
 msgid "ServiceApp"
 msgstr ""
+
+#
+msgid "Dolby Digital+ (AC3+) default"
+msgstr ""
+
+#
+msgid "Automatic Audio/Subtitle track selection"
+msgstr ""
+
+#
+msgid "First audio language"
+msgstr ""
+
+#
+msgid "Second audio language"
+msgstr ""
+
+#
+msgid "Third audio language"
+msgstr ""
+
+#
+msgid "Fourth audio language"
+msgstr ""
+
+#
+msgid "Use selected audio track stored per service"
+msgstr ""
+
+#
+msgid "First subtitle language"
+msgstr ""
+
+#
+msgid "Second subtitle language"
+msgstr ""
+
+#
+msgid "Third subtitle language"
+msgstr ""
+
+#
+msgid "Fourth subtitle language"
+msgstr ""
+
+#
+msgid "Allow subtiles with same language as audio language"
+msgstr ""
+
+#
+msgid "Allow auto select hearing impaired subtitles"
+msgstr ""
+
+#
+msgid "Default auto select hearing impaired subtitles"
+msgstr ""
+
+#
+msgid "Prefer DVB subtitles"
+msgstr ""
+
+#
+msgid "Use selected subtitle track stored per service"
+msgstr ""
+
+#
+msgid "Setup - Audio/Subtitle tracks"
+msgstr ""

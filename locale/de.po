@@ -26251,3 +26251,71 @@ msgstr "mit GstPlayer abspielen"
 #
 msgid "ServiceApp"
 msgstr "Medienwiedergabe konfigurieren"
+
+#
+msgid "Dolby Digital+ (AC3+) default"
+msgstr ""
+
+#
+msgid "Automatic Audio/Subtitle track selection"
+msgstr "Automatische Audio/Untertitel-Spurauswahl"
+
+#
+msgid "First audio language"
+msgstr "Erste Audio-Spur (Sprache)"
+
+#
+msgid "Second audio language"
+msgstr "Zweite Audio-Spur (Sprache)"
+
+#
+msgid "Third audio language"
+msgstr "Dritte Audio-Spur (Sprache)"
+
+#
+msgid "Fourth audio language"
+msgstr "Vierte Audio-Spur (Sprache)"
+
+#
+msgid "Use selected audio track stored per service"
+msgstr "Verwende Audio-Spur die pro Sender gespeichert ist"
+
+#
+msgid "First subtitle language"
+msgstr "Erste Untertitel-Sprache"
+
+#
+msgid "Second subtitle language"
+msgstr "Zweite Untertitel-Sprache"
+
+#
+msgid "Third subtitle language"
+msgstr "Dritte Untertitel-Sprache"
+
+#
+msgid "Fourth subtitle language"
+msgstr "Vierte Untertitel-Sprache"
+
+#
+msgid "Allow subtiles with same language as audio language"
+msgstr "Aktiviere Untertitel mit gleicher Sprache wie Audiosprache"
+
+#
+msgid "Allow auto select hearing impaired subtitles"
+msgstr "Untertitel für Hörgeschädigte automatisch aktivieren"
+
+#
+msgid "Default auto select hearing impaired subtitles"
+msgstr "Untertitel für Hörgeschädigte als Standard festlegen"
+
+#
+msgid "Prefer DVB subtitles"
+msgstr "DVB-Untertitel bevorzugen"
+
+#
+msgid "Use selected subtitle track stored per service"
+msgstr "Verwende Untertitel-Spur die pro Sender gespeichert ist"
+
+#
+msgid "Setup - Audio/Subtitle tracks"
+msgstr "Automatische Audio/Untertitel-Auswahl"
