@@ -22770,3 +22770,7 @@ msgstr ""
 #
 msgid "HDMI Colordepth"
 msgstr ""
+
+#
+msgid "Set bluetooth audio delay."
+msgstr ""
