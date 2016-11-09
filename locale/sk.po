@@ -23119,3 +23119,7 @@ msgstr ""
 #
 msgid "Setup - Audio/Subtitle tracks"
 msgstr ""
+
+#
+msgid "HDMI Colordepth"
+msgstr ""

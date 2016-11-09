@@ -26319,3 +26319,7 @@ msgstr "Verwende Untertitel-Spur die pro Sender gespeichert ist"
 #
 msgid "Setup - Audio/Subtitle tracks"
 msgstr "Automatische Audio/Untertitel-Auswahl"
+
+#
+msgid "HDMI Colordepth"
+msgstr "HDMI Farbtiefe"
