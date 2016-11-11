@@ -5,15 +5,15 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-08-25 14:46+0100\n"
+"PO-Revision-Date: 2016-11-11 10:14+0100\n"
 "Last-Translator: plnick\n"
-"Language-Team:  <Benny.DeTandt@gmail.com>\n"
+"Language-Team: Benny.DeTandt@gmail.com\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.11\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
 #
@@ -37,6 +37,8 @@ msgid ""
 "\n"
 "Backup your STB settings."
 msgstr ""
+"\n"
+"Backup van STB instellingen."
 
 #
 #, python-format
@@ -44,6 +46,8 @@ msgid ""
 "\n"
 "Device : %s"
 msgstr ""
+"\n"
+"Apparaat : %s"
 
 #
 #, python-format
@@ -51,12 +55,16 @@ msgid ""
 "\n"
 "Device : /dev/%s"
 msgstr ""
+"\n"
+"Apparaat : /dev/%s"
 
 #
 msgid ""
 "\n"
 "Do you want to exit?"
 msgstr ""
+"\n"
+"Wilt u stoppen?"
 
 #
 msgid ""
@@ -72,18 +80,24 @@ msgid ""
 "\n"
 "Filesystem : %s"
 msgstr ""
+"\n"
+"Bestandssysteem : %s"
 
 #
 msgid ""
 "\n"
 "Manage extensions or plugins for your STB"
 msgstr ""
+"\n"
+"Beheer extensies of plugins van uw STB"
 
 #
 msgid ""
 "\n"
 "Online update of your STB software."
 msgstr ""
+"\n"
+"Online update van uw STB software."
 
 #
 #, python-format
@@ -91,6 +105,8 @@ msgid ""
 "\n"
 "Partition : %s"
 msgstr ""
+"\n"
+"Partitie : %s"
 
 #
 msgid ""
@@ -105,12 +121,16 @@ msgid ""
 "\n"
 "Restore your STB settings."
 msgstr ""
+"\n"
+"Herstel uw STB instellingen."
 
 #
 msgid ""
 "\n"
 "Restore your STB with a new firmware."
 msgstr ""
+"\n"
+"Herstel uw STB met nieuwe firmware."
 
 #
 msgid ""
@@ -144,6 +164,8 @@ msgid ""
 "\n"
 "Size : %d MB\n"
 msgstr ""
+"\n"
+"Grootte : %d MB\n"
 
 #
 #, python-format
@@ -151,6 +173,8 @@ msgid ""
 "\n"
 "Size : %s"
 msgstr ""
+"\n"
+"Grootte : %s"
 
 #
 #, python-format
@@ -158,6 +182,8 @@ msgid ""
 "\n"
 "Size : %s MB\n"
 msgstr ""
+"\n"
+"Grootte :  %s MB\n"
 
 #
 msgid ""
@@ -180,12 +206,17 @@ msgid ""
 "\n"
 "When transcoding, PIP is disabled."
 msgstr ""
+"\n"
+"Wanneer transcoderen, wordt PIP uitgeschakeld."
 
 #
 msgid ""
 "\n"
 "When transcoding, both PIP and analog video outputs are disabled."
 msgstr ""
+"\n"
+"Wanneer transcoderen, zowel PIP en analoge video-uitgangen zijn "
+"uitgeschakeld."
 
 #
 #, python-format
@@ -193,6 +224,8 @@ msgid ""
 "\n"
 "partition %d : %s MB"
 msgstr ""
+"\n"
+"partitie %d : %s MB"
 
 #
 msgid " "
@@ -200,32 +233,32 @@ msgstr " "
 
 #
 msgid "    - Log Directory"
-msgstr ""
+msgstr "    - Log Directory"
 
 #
 msgid "    - Log Level"
-msgstr ""
+msgstr "    - Log niveau"
 
 #
 msgid "    - Type"
-msgstr ""
+msgstr "    - Type"
 
 #
 msgid " 1"
-msgstr ""
+msgstr " 1"
 
 #
 msgid " 2"
-msgstr ""
+msgstr " 2"
 
 #
 msgid " 3"
-msgstr ""
+msgstr " 3"
 
 #
 #, python-format
 msgid " at /dev/%s"
-msgstr ""
+msgstr " op /dev/%s"
 
 #
 msgid " extensions."
@@ -252,6 +285,8 @@ msgid ""
 "!!(Empty)\n"
 "Please, Input to the "
 msgstr ""
+"!!(Leeg)\n"
+"A.U.B, voer in op de "
 
 #
 msgid "#000000"
@@ -299,12 +334,12 @@ msgstr "%H:%M"
 
 #
 msgid "%d %B %Y"
-msgstr ""
+msgstr "%d %B %Y"
 
 #
 #, python-format
 msgid "%d / 100"
-msgstr ""
+msgstr "%d / 100"
 
 #
 #, python-format
@@ -324,7 +359,7 @@ msgstr "%d zenders gevonden!"
 #
 #, python-format
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #
 #, python-format
@@ -341,6 +376,8 @@ msgid ""
 "%s\n"
 "Start Device Inititlization?"
 msgstr ""
+"%s\n"
+"Start apparaat initialisatie?"
 
 #
 #, python-format
@@ -350,7 +387,7 @@ msgstr "%s (%s)\n"
 #
 #, python-format
 msgid "%s ok?"
-msgstr ""
+msgstr "%s ok?"
 
 #
 msgid "(ZAP)"
@@ -358,7 +395,7 @@ msgstr "(ZAP)"
 
 #
 msgid "(de)activate Picture in Picture..."
-msgstr ""
+msgstr "(de)activateer Picture in Picture..."
 
 #
 msgid "(empty)"
@@ -374,7 +411,7 @@ msgstr "* Alleen beschikbaar indien meer dan één interface actief is."
 
 #
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #
 msgid "0"
@@ -390,11 +427,11 @@ msgstr "1 draadloos netwerk gevonden!"
 
 #
 msgid "1-1. Serial Number (The first two or three letters of SN)"
-msgstr ""
+msgstr "1-1. Serie nummer (de eerste twee of drie letters van SN)"
 
 #
 msgid "1-2. Serial Number (The remaining numbers of SN)"
-msgstr ""
+msgstr "1-2. Serie nummer (de resterende cijfers van SN)"
 
 #
 msgid "1. Drop WvDial"
@@ -402,7 +439,7 @@ msgstr ""
 
 #
 msgid "1. Load a Mobile Broadband Device"
-msgstr ""
+msgstr "1. Laad een mobiel breedband apparaat"
 
 #
 msgid "1.0"
@@ -418,7 +455,7 @@ msgstr "1.2"
 
 #
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #
 msgid "12V output"
@@ -430,7 +467,7 @@ msgstr "13 V"
 
 #
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #
 msgid "16:10"
@@ -466,35 +503,35 @@ msgstr "2"
 
 #
 msgid "2. Contact"
-msgstr ""
+msgstr "2. Contact"
 
 #
 msgid "2. Set up a Mobile Broadband Device"
-msgstr ""
+msgstr "2. Een mobiel breedband apparaat instellen"
 
 #
 msgid "2. Unload a Mobile Broadband Device"
-msgstr ""
+msgstr "2. Ontkoppel een mobiel breedband apparaat"
 
 #
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #
 msgid "23976"
-msgstr ""
+msgstr "23976"
 
 #
 msgid "24000"
-msgstr ""
+msgstr "24000"
 
 #
 msgid "25000"
-msgstr ""
+msgstr "25000"
 
 #
 msgid "29970"
-msgstr ""
+msgstr "29970"
 
 #
 msgid "3"
@@ -502,11 +539,11 @@ msgstr "3"
 
 #
 msgid "3. Done"
-msgstr ""
+msgstr "3. Gereed"
 
 #
 msgid "3. Generate a WvDial profile"
-msgstr ""
+msgstr "3. Genereer een WvDial profiel"
 
 #
 msgid "30 minutes"
@@ -514,15 +551,15 @@ msgstr "30 minuten"
 
 #
 msgid "30000"
-msgstr ""
+msgstr "30000"
 
 #
 msgid "3D Surround"
-msgstr ""
+msgstr "3D Surround"
 
 #
 msgid "3d mode"
-msgstr ""
+msgstr "3d modus"
 
 #
 msgid "4"
@@ -530,7 +567,7 @@ msgstr "4"
 
 #
 msgid "4. Attempt to connect"
-msgstr ""
+msgstr "4. Probeer te verbinden"
 
 #
 msgid "4:3"
@@ -554,15 +591,15 @@ msgstr "5 minuten"
 
 #
 msgid "5. Done"
-msgstr ""
+msgstr "5. Gereed"
 
 #
 msgid "50000"
-msgstr ""
+msgstr "50000"
 
 #
 msgid "59940"
-msgstr ""
+msgstr "59940"
 
 #
 msgid "6"
@@ -574,7 +611,7 @@ msgstr "60 minuten"
 
 #
 msgid "60000"
-msgstr ""
+msgstr "60000"
 
 #
 msgid "7"
@@ -590,7 +627,7 @@ msgstr "9"
 
 #
 msgid ": "
-msgstr ""
+msgstr ": "
 
 #
 msgid "<Current movielist location>"
@@ -630,12 +667,16 @@ msgid ""
 "A finished record timer wants to set your\n"
 "STB to standby. Do that now?"
 msgstr ""
+"Een beëindigde opname timer wil uw\n"
+"STB in standby zetten. Dit nu doen?"
 
 #
 msgid ""
 "A finished record timer wants to shut down\n"
 "your STB. Shutdown now?"
 msgstr ""
+"Een beëindigde opname timer wil uw\n"
+"STB uitschakelen. Nu uitschakelen?"
 
 #
 msgid "A graphical EPG for all services of an specific bouquet"
@@ -690,12 +731,16 @@ msgid ""
 "A sleep timer wants to set your\n"
 "STB to standby. Do that now?"
 msgstr ""
+"Een sleep timer wil uw\n"
+"STB in standby zetten. Dit nu doen?"
 
 #
 msgid ""
 "A sleep timer wants to shut down\n"
 "your STB. Shutdown now?"
 msgstr ""
+"Een sleep timer wil uw\n"
+"STB uitschakelen. Dit nu doen?"
 
 #
 msgid "A small overview of the available icon states and actions."
@@ -715,11 +760,11 @@ msgstr "Audio/Video"
 
 #
 msgid "A/V-Receiver power off:"
-msgstr ""
+msgstr "A/V-Receiver uitschakelen:"
 
 #
 msgid "A/V-Receiver power on:"
-msgstr ""
+msgstr "A/V-Receiver inschakelen:"
 
 #
 msgid "A/V-Receiver toggle mute:"
@@ -727,11 +772,11 @@ msgstr ""
 
 #
 msgid "A/V-Receiver volume down:"
-msgstr ""
+msgstr "A/V-Receiver volume omlaag:"
 
 #
 msgid "A/V-Receiver volume up:"
-msgstr ""
+msgstr "A/V-Receiver volume omhoog:"
 
 #
 msgid "AA"
@@ -743,19 +788,19 @@ msgstr "AB"
 
 #
 msgid "AP Device"
-msgstr ""
+msgstr "AP apparaat"
 
 #
 msgid "AP Mode"
-msgstr ""
+msgstr "AP modus"
 
 #
 msgid "APN :"
-msgstr ""
+msgstr "APN :"
 
 #
 msgid "ASCII"
-msgstr ""
+msgstr "ASCII"
 
 #
 msgid "Abort"
@@ -771,7 +816,7 @@ msgstr "Over..."
 
 #
 msgid "Accesspoint:"
-msgstr "Toegangspunt:"
+msgstr "Accesspoint:"
 
 #
 msgid "Action after summit"
@@ -779,11 +824,13 @@ msgstr ""
 
 #
 msgid "Action on long powerbutton press"
-msgstr "Bij lang indrukken stand-by toets"
+msgstr "Actie bij lang indrukken stand-by toets"
 
 #
 msgid "Action on short powerbutton press"
-msgstr "Bij kort indrukken stand-by toets"
+msgstr ""
+"Actie b\n"
+"ij kort indrukken stand-by toets"
 
 #
 msgid "Action:"
@@ -799,7 +846,7 @@ msgstr "Activeer netwerkinstellingen"
 
 #
 msgid "Activation mode"
-msgstr ""
+msgstr "Activatie modus"
 
 #
 msgid "Active Source Reply On:"
@@ -847,15 +894,15 @@ msgstr ""
 
 #
 msgid "Address (0~FF):"
-msgstr ""
+msgstr "Adres (0~FF):"
 
 #
 msgid "Adjust 3D settings"
-msgstr ""
+msgstr "3D instellingen aanpassen"
 
 #
 msgid "Adjust screen position"
-msgstr ""
+msgstr "Scherm positie aanpassen"
 
 #
 msgid ""
@@ -900,7 +947,7 @@ msgstr ""
 
 #
 msgid "Agree"
-msgstr ""
+msgstr "Akkoord"
 
 #
 msgid "Album"
@@ -920,11 +967,11 @@ msgstr ""
 
 #
 msgid "Allow removing of system software"
-msgstr ""
+msgstr "Verwijderen systeem software toestaan"
 
 #
 msgid "Almost there... Now building the USB-Image!"
-msgstr ""
+msgstr "Bijna gereed... De USB-Image wordt gemaakt!"
 
 #
 msgid "Alpha"
@@ -932,7 +979,7 @@ msgstr "Transparantie"
 
 #
 msgid "Alpha Value"
-msgstr ""
+msgstr "Transparantie waarde"
 
 #
 msgid "Alternative radio mode"
@@ -948,7 +995,7 @@ msgstr "Altijd vragen"
 
 #
 msgid "Always zap before record"
-msgstr ""
+msgstr "Altijd zappen voor opname"
 
 #
 msgid "An empty filename is illegal."
@@ -992,7 +1039,7 @@ msgstr "Weet u zeker dat u deze wizard wilt afsluiten?"
 
 #
 msgid "Are you sure you want to restart your network interfaces?\n"
-msgstr ""
+msgstr "Weet u zeker dat u de netwerk interface wilt herstarten?\n"
 
 #
 msgid ""
@@ -1023,6 +1070,8 @@ msgid ""
 "Are you sure you want to setup your AP?\n"
 "\n"
 msgstr ""
+"Wilt u uw AP instellen?\n"
+"\n"
 
 #
 msgid "Artist"
@@ -1035,6 +1084,8 @@ msgstr "Slaaptimer actie bevestigen:"
 #
 msgid "Ask for deleting files after canceling timers"
 msgstr ""
+"Vraag voor akkoord voor het wissen van bestanden wanneer timers worden "
+"geannuleerd"
 
 #
 msgid "Ask user"
@@ -1098,7 +1149,7 @@ msgstr "Automatisch zoeken"
 
 #
 msgid "Automatically set up a Mount Point"
-msgstr ""
+msgstr "Automatich een Mount Point instellen"
 
 #
 msgid "Autoremove depended packages at package remove"
@@ -1118,7 +1169,7 @@ msgstr "BA"
 
 #
 msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
-msgstr ""
+msgstr "BACK-UP TOOL, OM EEN COMPLETE BACK-UP TE MAKEN"
 
 #
 msgid "BB"
@@ -1150,7 +1201,7 @@ msgstr "Achtergrond"
 
 #
 msgid "Backspace Key"
-msgstr ""
+msgstr "Backspace toets"
 
 #
 msgid "Backup done."
@@ -1162,7 +1213,7 @@ msgstr "Back-up is mislukt."
 
 #
 msgid "Backup finished and copied to your USB-flashdrive."
-msgstr ""
+msgstr "Backup gereed en gekopiëerd naar uw USB-flashdrive."
 
 #
 msgid "Backup is running..."
@@ -1210,7 +1261,7 @@ msgstr "Actie na 'einde bestand'"
 
 #
 msgid "Bitrate"
-msgstr ""
+msgstr "Bitrate"
 
 #
 msgid "Bitrate:"
@@ -1218,11 +1269,11 @@ msgstr "Bitrate:"
 
 #
 msgid "Blindscan"
-msgstr ""
+msgstr "Blindscan"
 
 #
 msgid "Blinking time"
-msgstr ""
+msgstr "Blinking tijd"
 
 #
 msgid "Block noise reduction"
@@ -1234,24 +1285,24 @@ msgstr "Blauwe impuls"
 
 #
 msgid "Bookmark"
-msgstr ""
+msgstr "Markeerpunt"
 
 #
 msgid "Bookmark Title"
-msgstr ""
+msgstr "Markeerpunt titel"
 
 #
 msgid "Bookmark URL"
-msgstr ""
+msgstr "Markeerpunt URL"
 
 #
 #, python-format
 msgid "Bookmark for button %s:"
-msgstr ""
+msgstr "Markeerpunt voor knop %s:"
 
 #
 msgid "Bookmark for button %s (long):"
-msgstr ""
+msgstr "Markeerpunt voor knop %s (lang):"
 
 #
 msgid "Bookmarks"
@@ -1263,11 +1314,11 @@ msgstr "Helderheid"
 
 #
 msgid "Browser Help"
-msgstr ""
+msgstr "Browser Help"
 
 #
 msgid "Browser Start/Stop"
-msgstr ""
+msgstr "Browser Start/Stop"
 
 #
 msgid "BrowserMain"
@@ -1299,7 +1350,7 @@ msgstr ""
 
 #
 msgid "Bypass HDMI EDID Check"
-msgstr ""
+msgstr "HDMI EDID check overslaan"
 
 #
 msgid "C"
@@ -1314,12 +1365,16 @@ msgid ""
 "CAM1_NOT_INSERTED\n"
 "Press exit!"
 msgstr ""
+"CAM1_NIET_INGEVOERD\n"
+"Druk exit!"
 
 #
 msgid ""
 "CAM2_NOT_INSERTED\n"
 "Press exit!"
 msgstr ""
+"CAM2_NIET_INGEVOERD\n"
+"Druk exit!"
 
 #
 msgid "CI assignment"
@@ -1339,16 +1394,16 @@ msgstr "Miniatuurafbeeldingen cachen"
 
 #
 msgid "Can NOT generate passphrase"
-msgstr ""
+msgstr "Kan gen wachtwoord genereren"
 
 #
 #, python-format
 msgid "Can not change the partition ID for %s"
-msgstr ""
+msgstr "Kan partition ID niet wijzigen voor %s"
 
 #
 msgid "Can not find any WirelessLan Module\n"
-msgstr ""
+msgstr "Kan geen WirelessLan module vinden\n"
 
 #
 #, python-format
@@ -1356,14 +1411,16 @@ msgid ""
 "Can not format device /dev/%s.\n"
 "refresh partition information failed!"
 msgstr ""
+"Kan apparaat /dev/%s niet formatteren.\n"
+"Vernieuwe partitie informatie mislukt!"
 
 #
 msgid "Can not open 'fan_pwm'"
-msgstr ""
+msgstr "Kan niet openen 'fan_pwm'"
 
 #
 msgid "Can not setup WirelessLan Module in 'AP Mode'\n"
-msgstr ""
+msgstr "Kan WirelessLan module niet in 'AP Modus' zetten\n"
 
 #
 #, python-format
@@ -1371,6 +1428,8 @@ msgid ""
 "Can not umount device /dev/%s.\n"
 "Maybe some files of the filesystem are open"
 msgstr ""
+"Kan apparaat /dev/%s niet ontkoppelen.\n"
+"Waarschijnlijk zijn sommige bestanden in gebruik"
 
 #
 #, python-format
@@ -1403,7 +1462,7 @@ msgstr ""
 
 #
 msgid "Can't found MD5 file."
-msgstr ""
+msgstr "Kan MD5 bestand niet vinden"
 
 #
 msgid "Can't found binary file."
@@ -1415,7 +1474,7 @@ msgstr ""
 
 #
 msgid "Can't found model name."
-msgstr ""
+msgstr "Kan model naam niet vinden"
 
 #
 msgid ""
@@ -1450,7 +1509,7 @@ msgstr "Catalaans"
 
 #
 msgid "Category Name"
-msgstr ""
+msgstr "Categorie naam"
 
 #
 msgid "Change bouquets in quickzap"
@@ -1482,7 +1541,7 @@ msgstr "Kanaal"
 
 #
 msgid "Channel (1~13)"
-msgstr ""
+msgstr "Kanaal (1~13)"
 
 #
 msgid "Channel Selection"
@@ -1518,7 +1577,7 @@ msgstr "Controleer"
 
 #
 msgid "Check filesystem, please wait ..."
-msgstr ""
+msgstr "Controleer bestandssysteem, moment a.u.b. ..."
 
 #
 msgid "Checking Filesystem..."
@@ -1526,15 +1585,15 @@ msgstr "Controleert bestandssysteem..."
 
 #
 msgid "Choice filesystem."
-msgstr ""
+msgstr "Controleer bestandssysteem."
 
 #
 msgid "Choose A/V-Receiver HDMI input:"
-msgstr ""
+msgstr "Selecteer A/V-Receiver HDMI ingang:"
 
 #
 msgid "Choose TV HDMI input:"
-msgstr ""
+msgstr "Selecteer TV HDMI ingang:"
 
 #
 msgid "Choose Tuner"
@@ -1542,7 +1601,7 @@ msgstr "Kies een tuner"
 
 #
 msgid "Choose a timer list style"
-msgstr ""
+msgstr "Kies een timer lijst stijl"
 
 #
 msgid "Choose a wireless network"
@@ -1562,11 +1621,11 @@ msgstr "Kies boeket"
 
 #
 msgid "Choose folder"
-msgstr ""
+msgstr "Selecteer map"
 
 #
 msgid "Choose remote control picture for help screen"
-msgstr ""
+msgstr "Selecteer afstandsbediening afbeelding voor help scherm"
 
 #
 msgid "Choose target folder"
@@ -1630,7 +1689,7 @@ msgstr "Beeldinstelling"
 
 #
 msgid "Colorize movie list"
-msgstr ""
+msgstr "Gekleurde film lijst"
 
 #
 msgid "Command execution..."
@@ -1682,7 +1741,7 @@ msgstr "Configuratie modus"
 
 #
 msgid "Configuration your AP is finished"
-msgstr ""
+msgstr "Configurati van uw AP is gereed"
 
 #
 msgid "Configure interface"
@@ -1738,7 +1797,7 @@ msgstr "Doorgaan"
 
 #
 msgid "Continue Timeshift"
-msgstr ""
+msgstr "Timeshift voortzetten"
 
 #
 msgid "Continue in background"
@@ -1754,7 +1813,7 @@ msgstr "Contrast"
 
 #
 msgid "Copy"
-msgstr ""
+msgstr "Kopie"
 
 #
 msgid "Could not load Medium! No disc inserted?"
@@ -1776,15 +1835,15 @@ msgstr "Opname mislukt vanwege ongeldige service %s"
 
 #
 msgid "Crashlog Reporting"
-msgstr ""
+msgstr "Crashlog rapportage"
 
 #
 msgid "CrashlogReport setting"
-msgstr ""
+msgstr "Crashlog rapportage instellingen"
 
 #
 msgid "CrashlogReportSetting"
-msgstr ""
+msgstr "CrashlogReportSetting"
 
 #
 msgid "Create DVD-ISO"
@@ -1792,7 +1851,7 @@ msgstr "DVD-ISO maken"
 
 #
 msgid "Create directory"
-msgstr ""
+msgstr "Creëer map"
 
 #
 #, python-format
@@ -1800,10 +1859,12 @@ msgid ""
 "Create directory failed!\n"
 "%s"
 msgstr ""
+"Map aanmaken mislukt!\n"
+"%s"
 
 #
 msgid "Create filesystem, please wait ..."
-msgstr ""
+msgstr "Aanmaken bestandssysteem, een moment a.u.b..."
 
 #
 msgid "Create movie folder failed"
@@ -1811,11 +1872,11 @@ msgstr "Aanmaken van de opnamemap is mislukt"
 
 #
 msgid "Create: kerneldump"
-msgstr ""
+msgstr "Aanmaken: kerneldump"
 
 #
 msgid "Create: root.ubifs"
-msgstr ""
+msgstr "Aanmaken: root.ubifs"
 
 #
 #, python-format
@@ -1836,7 +1897,7 @@ msgstr "Kroatisch"
 
 #
 msgid "Current Page"
-msgstr ""
+msgstr "Huidige pagina"
 
 #
 msgid "Current Transponder"
@@ -1848,11 +1909,11 @@ msgstr "Huidig apparaat: "
 
 #
 msgid "Current page is already exist."
-msgstr ""
+msgstr "Huidige pagina bestaat reeds."
 
 #
 msgid "Current settings (interface : br0)"
-msgstr ""
+msgstr "Huidige instellingen (interface : br0)"
 
 #
 msgid "Current settings:"
@@ -1900,7 +1961,7 @@ msgstr "D"
 
 #
 msgid "DAC"
-msgstr ""
+msgstr "DAC"
 
 #
 msgid "DHCP"
@@ -1908,7 +1969,7 @@ msgstr "DHCP"
 
 #
 msgid "DLNA/uPnP Browser"
-msgstr ""
+msgstr "DLNA/uPnP Browser"
 
 #
 msgid "DUAL LAYER DVD"
@@ -1916,7 +1977,7 @@ msgstr "DUBBEL LAYER DVD"
 
 #
 msgid "DVB subtitle transparency"
-msgstr ""
+msgstr "DVB ondertitel transparantie"
 
 #
 msgid "DVB-S"
@@ -1960,11 +2021,11 @@ msgstr "Uitschakelen"
 
 #
 msgid "Deep Standby with WOL"
-msgstr ""
+msgstr "Deep Standby met WOL"
 
 #
 msgid "DeepStandby"
-msgstr ""
+msgstr "DeepStandby"
 
 #
 msgid "Default"
@@ -1972,7 +2033,7 @@ msgstr "Standaard"
 
 #
 msgid "Default EPG view (EPG button)"
-msgstr ""
+msgstr "Syandaard EPG weergave (EPG knop)"
 
 #
 msgid "Default Settings"
@@ -2000,12 +2061,16 @@ msgid ""
 "Delete directory failed!\n"
 "%s"
 msgstr ""
+"Verwijderen map mislukt!\n"
+"%s"
 
 #
 msgid ""
 "Delete directory failed!\n"
 "Maybe directory is not empty."
 msgstr ""
+"Verwijderen van map mislukt\n"
+"(map niet leeg?)."
 
 #
 msgid "Delete entry"
@@ -2026,7 +2091,7 @@ msgstr ""
 
 #
 msgid "Depth"
-msgstr ""
+msgstr "Diepte"
 
 #
 msgid "Description"
@@ -2050,11 +2115,11 @@ msgstr "Gedetecteerde tuners:"
 
 #
 msgid "Device Initialization finished sucessfully!"
-msgstr ""
+msgstr "Apparaat initialisatie succesvol!"
 
 #
 msgid "Device not found."
-msgstr ""
+msgstr "Apparaat niet gevonden."
 
 #
 msgid "DeviceList Refresh Interval"
@@ -2062,15 +2127,15 @@ msgstr ""
 
 #
 msgid "DeviceManager"
-msgstr ""
+msgstr "Apparaatbeheer"
 
 #
 msgid "DeviceManager configuration"
-msgstr ""
+msgstr "Apparaatbeheer configuratie"
 
 #
 msgid "Devices"
-msgstr ""
+msgstr "Apparaten"
 
 #
 msgid "DiSEqC"
@@ -2106,15 +2171,15 @@ msgstr "Digitale contour verwijderen"
 
 #
 msgid "Direct Input"
-msgstr ""
+msgstr "Directe invoer"
 
 #
 msgid "Direct Input(Bookmark)"
-msgstr ""
+msgstr "Directe invoer (markeerpunt)"
 
 #
 msgid "Direct Input(Category)"
-msgstr ""
+msgstr "Directe invoer (categorie)"
 
 #
 msgid "Direct playback of linked titles without menu"
@@ -2143,7 +2208,7 @@ msgstr "Ondertitels uit"
 
 #
 msgid "Disable auto update of channel list"
-msgstr ""
+msgstr "Auto update van zenderlijst uitschakelen"
 
 #
 msgid "Disable infobar timeout for ok button"
@@ -2179,7 +2244,7 @@ msgstr "Display en gebruikersinterface"
 
 #
 msgid "Do not zap to not available services"
-msgstr ""
+msgstr "Niet zappen naar niet beschikbare zenders"
 
 #
 #, python-format
@@ -2221,6 +2286,8 @@ msgid ""
 "Do you really want to initialize the device?\n"
 "All data on the device will be lost!"
 msgstr ""
+"Weet u zeker dat u het apparaat wilt formatteren?\n"
+"Alle gegevens op het apparaat gaan verloren!"
 
 #
 msgid ""
@@ -2246,19 +2313,19 @@ msgstr "Wilt u deze verzameling op een DVD medium schrijven?"
 
 #
 msgid "Do you want to delete recording files of stopped timer ?"
-msgstr ""
+msgstr "Wilt u de bestanden van de gestopte timer verwijderen?"
 
 #
 msgid "Do you want to delete the bookmark?"
-msgstr ""
+msgstr "Wilt u het markeerpunt verwijderen?"
 
 #
 msgid "Do you want to delete the category and the bookmarks?"
-msgstr ""
+msgstr "Wilt u de categorie en de markeerpunten verwijderen?"
 
 #
 msgid "Do you want to disconnect?"
-msgstr ""
+msgstr "Wilt u ontkoppelen?"
 
 #
 msgid "Do you want to do a service scan?"
@@ -2289,6 +2356,12 @@ msgid ""
 "\n"
 "Make sure you first insert an USB flash drive before you select Yes."
 msgstr ""
+"Wilt u een back-up op USB maken?\n"
+"\n"
+"Dit duurt slechts een aantal minuten afhankelijk van bestandssysteem en gaat "
+"automatisch.\n"
+"\n"
+"USB apparaat moet aangesloten zijn voordat u JA selecteert."
 
 #
 msgid ""
@@ -2296,6 +2369,10 @@ msgid ""
 "\n"
 "This only takes a few minutes and is fully automatic.\n"
 msgstr ""
+"Wilt u een USB-back-up image op HDD maken?\n"
+"\n"
+"Dit duurt slechts een aantal minuten afhankelijk van bestandssysteem en gaat "
+"automatisch.\n"
 
 #
 msgid "Do you want to play DVD in drive?"
@@ -2311,7 +2388,7 @@ msgstr "Wilt u de STB herstarten?"
 
 #
 msgid "Do you want to remove binary data?"
-msgstr ""
+msgstr "Wilt u de binaire data verwijderen?"
 
 #
 msgid "Do you want to remove the package:\n"
@@ -2327,21 +2404,23 @@ msgstr "Wilt u het afspelen vervolgen?"
 
 #
 msgid "Do you want to set selected url to the Startpage?"
-msgstr ""
+msgstr "Wilt u de geselecteerde url op de startpagina zetten?"
 
 #
 msgid "Do you want to shut down?"
-msgstr ""
+msgstr "Wilt u uitschakelen?"
 
 #
 msgid "Do you want to update your STB?"
-msgstr ""
+msgstr "Wilt u uw STB updaten?"
 
 #
 msgid ""
 "Do you want to update your STB?\n"
 "After pressing OK, please wait!"
 msgstr ""
+"Wilt u uw STB updaten?\n"
+"Na indrukken OK, even wachten a.u.b.!"
 
 #
 msgid "Do you want to upgrade the package:\n"
@@ -2352,11 +2431,13 @@ msgid ""
 "Do you want to use VTi BackupSuite to restore your settings, plugins or "
 "favourite bouquets ?"
 msgstr ""
+"Wilt u  VTi BackupSuite  gebruiken om uw instellingen, plugins en favorieten "
+"te herstellen?"
 
 #
 msgid ""
 "Do you want to use VTi ZerO to remove some packages which you do not need ?"
-msgstr ""
+msgstr "Wilt u VTi ZerO gebruiken om niet gebruikte pakketten te verwijderen?"
 
 #
 msgid "Do you want to view a tutorial?"
@@ -2364,15 +2445,15 @@ msgstr "Wilt u een voorbeeld zien?"
 
 #
 msgid "Dolby Digital / DTS downmix"
-msgstr ""
+msgstr "Dolby Digital / DTS downmix"
 
 #
 msgid "Dolby Digital default"
-msgstr ""
+msgstr "Dolby Digital standaard"
 
 #
 msgid "Dolby Digital downmix"
-msgstr ""
+msgstr "Dolby Digital downmix"
 
 #
 msgid "Don't stop current event but disable coming events"
@@ -2391,7 +2472,7 @@ msgstr ""
 
 #
 msgid "Down Key"
-msgstr ""
+msgstr "Omlaag toets"
 
 #
 msgid "Download"
@@ -2411,7 +2492,7 @@ msgstr "Beschikbare applicaties"
 
 #
 msgid "Downloaded "
-msgstr ""
+msgstr "Gedownload"
 
 #
 #, python-format
@@ -2435,7 +2516,7 @@ msgstr "Downloading..."
 
 #
 msgid "Duo/Solo was not support."
-msgstr ""
+msgstr "Duo/Solo is niet ondersteund."
 
 #
 msgid "Dutch"
@@ -2456,7 +2537,7 @@ msgstr "Fout - Zoeken mislukt (%s)!"
 
 #
 msgid "ESSID"
-msgstr ""
+msgstr "ESSID"
 
 #
 msgid "East"
@@ -2488,11 +2569,11 @@ msgstr "Instellingen wijzigen"
 
 #
 msgid "Edit the Nameserver configuration of your STB.\n"
-msgstr ""
+msgstr "Wijzig de Nameserver configuratie van uw STB.\n"
 
 #
 msgid "Edit the network configuration of your STB.\n"
-msgstr ""
+msgstr "Wijzig de netwerk configuratie van uw STB.\n"
 
 #
 msgid "Edit title"
@@ -2528,27 +2609,27 @@ msgstr ""
 
 #
 msgid "Enable Autostart for DLNA Server"
-msgstr ""
+msgstr "Autostart voor DLNA Server inschakelen"
 
 #
 msgid "Enable Logging"
-msgstr ""
+msgstr "Logging inschakelen"
 
 #
 msgid "Enable Standby Settings"
-msgstr ""
+msgstr "Standby instellingen inschakelen"
 
 #
 msgid "Enable TeleText caching"
-msgstr ""
+msgstr "TeleText caching inschakelen"
 
 #
 msgid "Enable autostart for HbbTV browser"
-msgstr ""
+msgstr "Autostart voor HbbTV browser inschakelen"
 
 #
 msgid "Enable mount automatically while start"
-msgstr ""
+msgstr "Aautomatisch koppelen tijdens opstarten inschakelen"
 
 #
 msgid "Enable mount check for HDD : "
@@ -2615,6 +2696,12 @@ msgid ""
 "\n"
 " 2006 - Stephan Reichholf"
 msgstr ""
+"Enigma2 Skinselector\n"
+"\n"
+"Bij problemen contacteer\n"
+"stephan@reichholf.net\n"
+"\n"
+" 2006 - Stephan Reichholf"
 
 #
 msgid "Enter Key"
@@ -2714,7 +2801,7 @@ msgstr "Verlaat netwerk wizard"
 
 #
 msgid "Exit the Opera browser."
-msgstr ""
+msgstr "Beëindig Opera browser."
 
 #
 msgid "Exit the wizard"
@@ -2770,11 +2857,11 @@ msgstr ""
 
 #
 msgid "FPGA"
-msgstr ""
+msgstr "FPGA"
 
 #
 msgid "FPGA Upgrade"
-msgstr ""
+msgstr "FPGA Upgrade"
 
 #
 msgid "FRAGM Threshold (256~2346)"
@@ -2782,7 +2869,7 @@ msgstr ""
 
 #
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 #
 msgid "Factory reset"
@@ -2790,25 +2877,27 @@ msgstr "Fabrieksinstellingen"
 
 #
 msgid "Factory reset fail"
-msgstr ""
+msgstr "Fabrieksinstellingen misluky"
 
 #
 msgid "Fail to download."
-msgstr ""
+msgstr "Download mislukt"
 
 #
 msgid "Fail to update!!"
-msgstr ""
+msgstr "Update mislukt!"
 
 #
 msgid "Fail to upgrade!! Retry!!"
-msgstr ""
+msgstr "Upgrade mislukt!! Probeer opnieuw!!"
 
 #
 msgid ""
 "Fail to upgrade.\n"
 "Cause : "
 msgstr ""
+"Upgrade mislukt!!\n"
+"Oorzaak : "
 
 #
 msgid ""
@@ -2816,6 +2905,9 @@ msgid ""
 "Cause : Can't found device.\n"
 "Do you want to exit?"
 msgstr ""
+"Upgrade mislukt!!\n"
+"Oorzaak : apparaat niet gevonden.\n"
+"Wilt u stoppen?"
 
 #
 #, python-format
@@ -2824,6 +2916,9 @@ msgid ""
 "file[%s]\n"
 "md5[%s]"
 msgstr ""
+"Verificatie data bestand mislukt. \n"
+"file[%s]\n"
+"md5[%s]"
 
 #
 msgid "Failed"
@@ -2831,7 +2926,7 @@ msgstr "Mislukt"
 
 #
 msgid "Fallback to default skin at skin errors"
-msgstr ""
+msgstr "Overschakelen naar standaard skin bij fouten in skin"
 
 #
 #, python-format
@@ -2840,27 +2935,27 @@ msgstr "Ventilator %d"
 
 #
 msgid "Fan Control"
-msgstr ""
+msgstr "Ventilator regeling"
 
 #
 msgid "Fan basic action"
-msgstr ""
+msgstr "Ventilator standaard actie"
 
 #
 msgid "Fan control"
-msgstr ""
+msgstr "Ventilator regeling"
 
 #
 msgid "Fan off duration time"
-msgstr ""
+msgstr "Ventilator uit tijdsduur"
 
 #
 msgid "Fan on duration time"
-msgstr ""
+msgstr "Ventilator aan tijdsduur"
 
 #
 msgid "FanOFF InStanby"
-msgstr ""
+msgstr "Ventilator uit in standby"
 
 #
 msgid "Fast"
@@ -2884,21 +2979,23 @@ msgstr "Favorieten"
 
 #
 msgid "File"
-msgstr ""
+msgstr "Bestand"
 
 #
 msgid ""
 "File not Found!\n"
 "/proc/bus/nim_sockets"
 msgstr ""
+"Bestand niet gevonden!\n"
+"/proc/bus/nim_sockets"
 
 #
 msgid "File not found"
-msgstr ""
+msgstr "Bestand niet gevonden"
 
 #
 msgid "File transfer was cancelled by user"
-msgstr ""
+msgstr "Bestandsoverdracht beëindigd door gebruiker"
 
 #
 msgid "Filesystem Check"
@@ -2906,7 +3003,7 @@ msgstr "Controle bestandssysteem"
 
 #
 msgid "Filesystem check finished sucessfully"
-msgstr ""
+msgstr "Controle bestandssysteem succesvol beëindigd"
 
 #
 msgid "Filesystem contains uncorrectable errors"
@@ -2934,19 +3031,19 @@ msgstr "Fins"
 
 #
 msgid "Firmware"
-msgstr ""
+msgstr "Firmware"
 
 #
 msgid "Firmware Upgrade"
-msgstr ""
+msgstr "Firmware Upgrade"
 
 #
 msgid "Firmware does not exist."
-msgstr ""
+msgstr "Firmware niet gevonden."
 
 #
 msgid "Follow the instructions on the front-display."
-msgstr ""
+msgstr "Volg de instructies op het front-display."
 
 #
 msgid "Following tasks will be done after you press OK!"
@@ -2955,6 +3052,7 @@ msgstr "Volgende taken worden uitgevoerd nadat u op OK drukt!"
 #
 msgid "For use this plugin, you must update the kernel version to 3.1 or later"
 msgstr ""
+"Om deze plugin te gebruiken, moet de kernel versie naar 3.1 of later updaten"
 
 #
 msgid "Format"
@@ -2962,11 +3060,11 @@ msgstr "Formaat"
 
 #
 msgid "Format filesystem, please wait ..."
-msgstr ""
+msgstr "Formatteren bestandssysteem, een moment a.u.b..."
 
 #
 msgid "Format finished sucessfully."
-msgstr ""
+msgstr "Formatteren succesvol beëindigd!"
 
 #
 msgid "Frame size in full view"
@@ -2974,12 +3072,12 @@ msgstr "Framegrootte in vol beeld"
 
 #
 msgid "Framerate"
-msgstr ""
+msgstr "Framerate"
 
 #
 #, python-format
 msgid "Free : %s"
-msgstr ""
+msgstr "Vrij : %s"
 
 #
 msgid "French"
@@ -3015,7 +3113,7 @@ msgstr "Fries"
 
 #
 msgid "Front LED OK?"
-msgstr ""
+msgstr "Front LED OK?"
 
 #
 msgid ""
@@ -3024,10 +3122,14 @@ msgid ""
 "yes-ok\n"
 "no-exit"
 msgstr ""
+"Front LED OK?\n"
+"\n"
+"Ja-ok\n"
+"Nee-exit"
 
 #
 msgid "Front Processor"
-msgstr ""
+msgstr "Front Processor"
 
 #
 msgid "Front USB Slot"
@@ -3040,39 +3142,39 @@ msgstr "Frontprocessor versie: %d"
 
 #
 msgid "Fsck failed"
-msgstr "Fsck mislukt"
+msgstr "Fsck failed"
 
 #
 msgid "Full 1:1 back-up direct on USB"
-msgstr ""
+msgstr "Volledige 1:1 back-up direct op USB"
 
 #
 msgid "Full 1:1 back-up in USB format"
-msgstr ""
+msgstr "Volledige 1:1 back-up in USB formaat"
 
 #
 msgid "Full back-up direct to USB"
-msgstr ""
+msgstr "Volledige back-up direct op USB"
 
 #
 msgid "Full back-up on HDD"
-msgstr ""
+msgstr "Volledige back-up direct op HDD"
 
 #
 msgid "Full back-up on HDD/USB"
-msgstr ""
+msgstr "Volledige back-up direct op HDD/USB"
 
 #
 msgid "Full back-up to USB"
-msgstr ""
+msgstr "Volledige back-up op USB"
 
 #
 msgid "Full back-up to the harddisk"
-msgstr ""
+msgstr "Volledige back-up op HDD"
 
 #
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #
 msgid ""
@@ -3084,7 +3186,7 @@ msgstr ""
 
 #
 msgid "GUI restart now, press 'OK' button."
-msgstr ""
+msgstr "GUI herstart nu, druk 'OK' knop."
 
 #
 msgid "Gateway"
@@ -3092,7 +3194,7 @@ msgstr "Gateway"
 
 #
 msgid "General Dolby Digital delay (ms)"
-msgstr ""
+msgstr "Algemene Dolby Digital vertraging (ms)"
 
 #
 msgid "General PCM delay (ms)"
@@ -3112,15 +3214,15 @@ msgstr "Gegevens worden opgehaald. Een ogenblikje geduld a.u.b..."
 
 #
 msgid "Global"
-msgstr ""
+msgstr "Algemene"
 
 #
 msgid "Go to next page."
-msgstr ""
+msgstr "Ga naar volgende pagina"
 
 #
 msgid "Go to previous page."
-msgstr ""
+msgstr "Ga naar vorige pagina"
 
 #
 msgid "Goto 0"
@@ -3152,19 +3254,19 @@ msgstr "Wacht interval"
 
 #
 msgid "HDMI"
-msgstr ""
+msgstr "HDMI"
 
 #
 msgid "HDMI CEC enabled:"
-msgstr ""
+msgstr "HDMI CEC ingeschakeld:"
 
 #
 msgid "HDMI-CEC"
-msgstr ""
+msgstr "HDMI-CEC"
 
 #
 msgid "HEX"
-msgstr ""
+msgstr "HEX"
 
 #
 msgid "Harddisk"
@@ -3180,21 +3282,23 @@ msgstr "Harde schijf standby na"
 
 #
 msgid "Harddisk standby after : "
-msgstr ""
+msgstr "Harddisk standby na : "
 
 #
 msgid "HbbTV Applications"
-msgstr ""
+msgstr "HbbTV Applicaties"
 
 #
 msgid ""
 "HbbTV Browser was not running.\n"
 "Please running browser before start HbbTV Application."
 msgstr ""
+"HbbTV Browser draait niet\n"
+"A.ub. browser starten voordat HbbTV Applicatie wordt gestart."
 
 #
 msgid "HbbTV Plugin"
-msgstr ""
+msgstr "HbbTV Plugin"
 
 #
 msgid "Help"
@@ -3222,7 +3326,7 @@ msgstr "Hoeveel minuten wilt u opnemen?"
 
 #
 msgid "How many partitions do you want?(1-4)"
-msgstr ""
+msgstr "Hoeveel partities wilt u?(1-4)"
 
 #
 msgid "Hue"
@@ -3234,7 +3338,7 @@ msgstr "Hongaars"
 
 #
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #
 msgid "IP Address"
@@ -3258,6 +3362,8 @@ msgid ""
 "ErP Standby Power Regulation (<0.5W at standby) cannot be met.\n"
 "Proceed?"
 msgstr ""
+"Wanneer WOL is ingeschakeld is het stroom verbruik c.a. 2W.\n"
+"<0.5W standby vermogen is dan niet haalbaar, wilt u doorgaan?"
 
 #
 msgid ""
@@ -3265,6 +3371,9 @@ msgid ""
 "automatically made onto the USB-stick and can be used to restore the current "
 "image if necessary."
 msgstr ""
+"Wanneer u een USB-stick met dit bestand plaatst, dan wordt hierop "
+"automatisch een back-up gemaakt. Hiermee kunt u de huidige image herstellen "
+"indien nodig."
 
 #
 msgid ""
@@ -3279,6 +3388,8 @@ msgid ""
 "If you want to quit the Browser,\n"
 "Press RED -> EXIT."
 msgstr ""
+"Wanneer u de browser wil stoppen\n"
+"Druk ROOD -> EXIT."
 
 #
 msgid ""
@@ -3309,11 +3420,11 @@ msgstr ""
 
 #
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #
 msgid "Image creation FAILED!"
-msgstr ""
+msgstr "Image maken MISLUKT!"
 
 #
 msgid "In Progress"
@@ -3326,7 +3437,7 @@ msgstr "Voor een timer opname, is nu de juiste zender ingeschakelt!\n"
 
 #
 msgid "Include optional infomation"
-msgstr ""
+msgstr "Include optional infomation"
 
 #
 msgid "Include settop information"
@@ -3362,7 +3473,7 @@ msgstr "Initialiseren"
 
 #
 msgid "InitInitializing, please wait ..."
-msgstr ""
+msgstr "InitInitialisatie, moment a.u.b ..."
 
 #
 msgid "Initial Fast Forward speed"
@@ -3394,7 +3505,7 @@ msgstr "Invoer"
 
 #
 msgid "Input Hidden ESSID"
-msgstr ""
+msgstr "Verborgen ESSID invoeren"
 
 #
 msgid "Input device setup"
@@ -3407,7 +3518,7 @@ msgstr ""
 #
 #, python-format
 msgid "Input size of partition %s.(Max = %d MB)"
-msgstr ""
+msgstr "Partitie-grootte invoeren %s.(Max = %d MB)"
 
 #
 msgid "Install"
@@ -3483,7 +3594,7 @@ msgstr "Intern USB Slot"
 
 #
 msgid "Invalid "
-msgstr ""
+msgstr "Ongeldig "
 
 #
 msgid "Invalid Choice"
@@ -3503,7 +3614,7 @@ msgstr ""
 
 #
 msgid "Invalid SSID\n"
-msgstr ""
+msgstr "Ongeldige SSID\n"
 
 #
 msgid ""
@@ -3513,31 +3624,35 @@ msgstr ""
 
 #
 msgid "Invalid URL. Please check again!!"
-msgstr ""
+msgstr "Foutieve URL. A.u.b controleren!!"
 
 #
 msgid ""
 "Invalid WEP key\n"
 "\n"
 msgstr ""
+"Ongeldige WEP key\n"
+"\n"
 
 #
 msgid ""
 "Invalid WPA key\n"
 "\n"
 msgstr ""
+"Ongeldige WPA key\n"
+"\n"
 
 #
 msgid "Invalid WirelessLan Module.\n"
-msgstr ""
+msgstr "Ongeldige WirelessLan Module.\n"
 
 #
 msgid "Invalid beacon\n"
-msgstr ""
+msgstr "Ongeldige beacon\n"
 
 #
 msgid "Invalid channel\n"
-msgstr ""
+msgstr "Ongeldige zender \n"
 
 #
 #, python-format
@@ -3546,11 +3661,11 @@ msgstr "Ongeldige map geselecteerd: %s"
 
 #
 msgid "Invalid model or Image."
-msgstr ""
+msgstr "Ongeldig model of image."
 
 #
 msgid "Invalid wpagrouprekey\n"
-msgstr ""
+msgstr "Ongeldige wpagrouprekey\n"
 
 #
 msgid "Inversion"
@@ -3562,19 +3677,19 @@ msgstr "Ipkg"
 
 #
 msgid "It will move the mouse pointer down."
-msgstr ""
+msgstr "Beweegt de mouse pointer omlaag."
 
 #
 msgid "It will move the mouse pointer left."
-msgstr ""
+msgstr "Beweegt de mouse pointer links."
 
 #
 msgid "It will move the mouse pointer right."
-msgstr ""
+msgstr "Beweegt de mouse pointer rechts."
 
 #
 msgid "It will move the mouse pointer up."
-msgstr ""
+msgstr "Beweegt de mouse pointer omhoog."
 
 #
 msgid "Italian"
@@ -3639,7 +3754,7 @@ msgstr "LAN verbinding"
 
 #
 msgid "LED Brightness Setup"
-msgstr ""
+msgstr "LED Helderheid instelling"
 
 #
 msgid "LNB"
@@ -3691,11 +3806,11 @@ msgstr "Links"
 
 #
 msgid "Left Key"
-msgstr ""
+msgstr "Linker toets"
 
 #
 msgid "Left Mouse Button"
-msgstr ""
+msgstr "Linker muis knop"
 
 #
 #. TRANSLATORS: (aspect ratio policy: black bars on top/bottom) in doubt, keep english term.
@@ -3792,15 +3907,15 @@ msgstr "Lengtegraad"
 
 #
 msgid "MA"
-msgstr ""
+msgstr "MA"
 
 #
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #
 msgid "MC"
-msgstr ""
+msgstr "MC"
 
 #
 msgid "MMC Card"
@@ -3816,7 +3931,7 @@ msgstr ""
 
 #
 msgid "Mac address fail"
-msgstr ""
+msgstr "Foutief Mac adres"
 
 #
 msgid "Main menu"
@@ -3927,7 +4042,7 @@ msgstr "Boodschap..."
 
 #
 msgid "Method"
-msgstr ""
+msgstr "Methode"
 
 #
 msgid "Mkfs failed"
@@ -3951,7 +4066,7 @@ msgstr "Model: "
 
 #
 msgid "Modem Manager"
-msgstr ""
+msgstr "Modem Manager"
 
 #
 msgid "Modulation"
@@ -4035,11 +4150,11 @@ msgstr ""
 
 #
 msgid "Mouse"
-msgstr ""
+msgstr "Muis"
 
 #
 msgid "Move"
-msgstr ""
+msgstr "Verplaats"
 
 #
 msgid "Move Picture in Picture"
@@ -4063,7 +4178,7 @@ msgstr "Opname menu"
 
 #
 msgid "Movies / Timers"
-msgstr ""
+msgstr "Films / Timers"
 
 #
 msgid "Movies"
@@ -4249,7 +4364,7 @@ msgstr "Geen (ondersteunde) DVDROM gevonden!"
 
 #
 msgid "No AP detected."
-msgstr ""
+msgstr "Geen AP gedetecteerd"
 
 #
 msgid "No Connection"
@@ -4277,7 +4392,7 @@ msgstr "Geen beschrijving beschikbaar."
 
 #
 msgid "No detected HbbTV applications."
-msgstr ""
+msgstr "Geen HbbTV applicaties gedetecteerd"
 
 #
 msgid "No displayable files on this medium found!"
@@ -4688,7 +4803,7 @@ msgstr "Wachtwoord"
 
 #
 msgid "Password :"
-msgstr ""
+msgstr "Wachtwoord:"
 
 #
 msgid "Pause movie at end"
@@ -4696,7 +4811,7 @@ msgstr "Pauzeer afspelen aan het einde"
 
 #
 msgid "Phone :"
-msgstr ""
+msgstr "Telefoon:"
 
 #
 msgid "Phone number"
@@ -4735,7 +4850,7 @@ msgstr ""
 
 #
 msgid "Ping test pass"
-msgstr ""
+msgstr "Pin test geslaagd"
 
 #
 msgid ""
@@ -5767,7 +5882,7 @@ msgstr "SNR:"
 
 #
 msgid "SPDIF"
-msgstr ""
+msgstr "SPDIF"
 
 #
 msgid "SSID (1~32 Characters)"
@@ -7980,7 +8095,7 @@ msgstr "Gebruikte zoekmethode"
 
 #
 msgid "User :"
-msgstr ""
+msgstr "Gebruikers:"
 
 #
 msgid "User Email"
@@ -8004,7 +8119,7 @@ msgstr ""
 
 #
 msgid "User name"
-msgstr ""
+msgstr "Gebruikersnaam"
 
 #
 msgid "Username"
@@ -8032,7 +8147,7 @@ msgstr "VMGM (intro trailer)"
 
 #
 msgid "VTI"
-msgstr ""
+msgstr "VTI"
 
 #
 msgid "VU deepstandby => TV activity:"
@@ -8052,7 +8167,7 @@ msgstr "Controleren van uw internet verbinding..."
 
 #
 msgid "Version"
-msgstr ""
+msgstr "Versie"
 
 #
 msgid "Vertical"
@@ -8060,7 +8175,7 @@ msgstr "Vertikaal"
 
 #
 msgid "Video Directory"
-msgstr ""
+msgstr "Video map"
 
 #
 msgid "Video Fine-Tuning"
@@ -8098,7 +8213,7 @@ msgstr ""
 
 #
 msgid "Video mode selection"
-msgstr ""
+msgstr "Video modus selectie"
 
 #
 msgid "Videoenhancement Setup"
@@ -8203,7 +8318,7 @@ msgstr ""
 
 #
 msgid "WLAN adapter"
-msgstr ""
+msgstr "WLAN adapter"
 
 #
 msgid "WLAN adapter."
@@ -8223,7 +8338,7 @@ msgstr "WPA of WPA2"
 
 #
 msgid "WPA/WPA2"
-msgstr ""
+msgstr "WPA/WPA2"
 
 #
 msgid "WPA2"
@@ -8235,11 +8350,11 @@ msgstr "WSS bij 4:3"
 
 #
 msgid "Wait a moment"
-msgstr ""
+msgstr "Een moment aub"
 
 #
 msgid "Wait a moment..."
-msgstr ""
+msgstr "Een moment aub..."
 
 #
 msgid "Waiting"
@@ -8247,15 +8362,15 @@ msgstr "Wacht"
 
 #
 msgid "WakeOnLan Enable"
-msgstr ""
+msgstr "WakeOnLan inschakelen"
 
 #
 msgid "WakeOnLan Setup"
-msgstr ""
+msgstr "WakeOnLan configuratie"
 
 #
 msgid "Web Browser"
-msgstr ""
+msgstr "Web Browser"
 
 #
 msgid "Wed"
@@ -8291,6 +8406,9 @@ msgid ""
 "the firmware of your STB by providing a backup facility for your current "
 "settings and a short explanation of how to upgrade your firmware."
 msgstr ""
+"Welkom bij de Image upgrade wizard. Deze wizard helpt u bij de upgrade van "
+"de firmware van uw STB met een backup mogelijkheid van de huidige "
+"instellingen en een korte uitleg hoe de firmware te upgraden."
 
 #
 msgid ""
@@ -8301,6 +8419,12 @@ msgid ""
 "\n"
 "Press OK to start configuring your network"
 msgstr ""
+"Welkom.\n"
+"\n"
+"Wanneer u uw STB met internet wilt verbinden, dan helpt deze wizard u met de "
+"netwerk instellingen van uw STB.\n"
+"\n"
+"Druk OK om de netwerkconfiguratie te starten"
 
 #
 msgid "Welcome..."
@@ -8345,11 +8469,11 @@ msgstr "Waar de tijdelijke timeshift opnames bewaren?"
 
 #
 msgid "Width of channel name (matrix mode)"
-msgstr ""
+msgstr "Breedte van kanaalnaam (matrix mode)"
 
 #
 msgid "Wireless Access Point"
-msgstr ""
+msgstr "Wireless Access Point"
 
 #
 msgid "Wireless LAN"
@@ -8357,11 +8481,11 @@ msgstr "Draadloos LAN"
 
 #
 msgid "Wireless LAN Setup"
-msgstr ""
+msgstr "Draadloos netwerk instellingen"
 
 #
 msgid "Wireless Lan Device is not detected."
-msgstr ""
+msgstr "Draadloos netwerk adapter niet gedetecteerd"
 
 #
 msgid "Wireless Network"
@@ -10209,115 +10333,115 @@ msgstr ""
 
 #
 msgid "January"
-msgstr ""
+msgstr "Januari"
 
 #
 msgid "February"
-msgstr ""
+msgstr "Februari"
 
 #
 msgid "March"
-msgstr ""
+msgstr "Maart"
 
 #
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #
 msgid "May"
-msgstr ""
+msgstr "Mei"
 
 #
 msgid "June"
-msgstr ""
+msgstr "Juni"
 
 #
 msgid "July"
-msgstr ""
+msgstr "Juli"
 
 #
 msgid "August"
-msgstr ""
+msgstr "Augustus"
 
 #
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #
 msgid "October"
-msgstr ""
+msgstr "Oktober"
 
 #
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #
 msgid "December"
-msgstr ""
+msgstr "December"
 
 #
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #
 msgid "Feb"
-msgstr ""
+msgstr "Feb"
 
 #
 msgid "Mar"
-msgstr ""
+msgstr "Mrt"
 
 #
 msgid "Apr"
-msgstr ""
+msgstr "Apr"
 
 #
 msgid "Jun"
-msgstr ""
+msgstr "Jun"
 
 #
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 #
 msgid "Aug"
-msgstr ""
+msgstr "Aug"
 
 #
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #
 msgid "Oct"
-msgstr ""
+msgstr "Okt"
 
 #
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #
 msgid "Dec"
-msgstr ""
+msgstr "Dec"
 
 #
 msgid "Display > 16:9 content as"
-msgstr ""
+msgstr "Weergave > 16:9 content als"
 
 #
 msgid "Display 4:3 content as"
-msgstr ""
+msgstr "Weergave 4:3 content als"
 
 #
 msgid "Video Output"
-msgstr ""
+msgstr "Video uitgang"
 
 #
 msgid "Video Setup"
-msgstr ""
+msgstr "Video configiratie"
 
 #
 msgid "Video Wizard"
-msgstr ""
+msgstr "Video Wizard"
 
 #
 msgid "Refresh Rate"
@@ -10639,11 +10763,11 @@ msgstr ""
 
 #
 msgid "Split Screen"
-msgstr ""
+msgstr "Split Screen"
 
 #
 msgid "Picture in Picture"
-msgstr ""
+msgstr "Picture in Picture"
 
 #
 msgid "Audio Zap"
@@ -10998,19 +11122,19 @@ msgstr "Vooruitblik"
 
 #
 msgid "Animations"
-msgstr ""
+msgstr "Animaties"
 
 #
 msgid "Animation type:"
-msgstr ""
+msgstr "Animatie type:"
 
 #
 msgid "Animation speed:"
-msgstr ""
+msgstr "Animatie snelheid:"
 
 #
 msgid "Setup UI animations"
-msgstr ""
+msgstr "UI animaties configureren"
 
 #
 msgid "start xbmc mediacenter"
@@ -11164,7 +11288,7 @@ msgstr ""
 
 #
 msgid "Do you want to setup animations?"
-msgstr ""
+msgstr "Wilt u animaties instellen?"
 
 #
 msgid "show"
@@ -11748,11 +11872,11 @@ msgstr ""
 
 #
 msgid "Disable FCC during recordings"
-msgstr ""
+msgstr "FCC uitschakelen tijdens opnames"
 
 #
 msgid "FCCSetup"
-msgstr ""
+msgstr "FCC configuratie"
 
 #
 msgid "Display crash information on TV"
@@ -11760,7 +11884,7 @@ msgstr ""
 
 #
 msgid "Select packages to install"
-msgstr ""
+msgstr "Selecteer te installeren pakketten"
 
 #
 msgid ""
@@ -11774,18 +11898,22 @@ msgid ""
 "You can now also use VTi BackupSuite to restore your previously saved "
 "settings, plugins or favourite bouquets ?"
 msgstr ""
+"U kunt nu met VTi Zero pakketten verwijderen die u niet gebruikt.\n"
+"\n"
+"Ook kunt u met VTi BackupSuite uw voorgaande instellingen, plugins of "
+"favoriete boeketten herstellen."
 
 #
 msgid "Next step"
-msgstr ""
+msgstr "Volgende stap"
 
 #
 msgid "Remove not needed packages (VTi ZerO)"
-msgstr ""
+msgstr "Verwijder onnodige pakketten (VTi ZerO)"
 
 #
 msgid "Restore configuration (VTi BackupSuite)"
-msgstr ""
+msgstr "Herstel configuratie (VTi BackupSuite)"
 
 #
 msgid ""
@@ -17548,20 +17676,17 @@ msgstr ""
 msgid "List of Timers has been cleaned"
 msgstr ""
 
-#: src/WebComponents/Sources/Timer.py:79
-#: src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398
-#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
+#: src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr ""
 
-#: src/WebComponents/Sources/Timer.py:84
-#: src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr ""
 
-#: src/WebComponents/Sources/Timer.py:89
-#: src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr ""
 
@@ -17686,8 +17811,7 @@ msgstr ""
 msgid "Movie '%s' deleted"
 msgstr ""
 
-#: src/WebComponents/Sources/Movie.py:61
-#: src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr ""
@@ -18254,7 +18378,7 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:443
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "DVD Backup"
-msgstr ""
+msgstr "DVD Backup"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "Backup your Video-DVD to your harddisk"
@@ -18262,7 +18386,7 @@ msgstr ""
 
 #: src/plugin.py:15
 msgid "after restart"
-msgstr ""
+msgstr "na herstart"
 
 #: src/plugin.py:15
 msgid "after standby"
@@ -18281,11 +18405,11 @@ msgid "Restart audio delay (in sec)"
 msgstr ""
 
 #
-# File: ..\src/KTsetup.py:77, line: -1
+# File: ..\src/KTsetup.py:77
 #: src/plugin.py:104
 #, python-format
 msgid "Plugin: %(plugin)s , Version: %(version)s"
-msgstr "Plugin: %(plugin)s , Versie: %(versie)s"
+msgstr "Plugin: %(plugin)s , Version: %(version)s"
 
 #: src/plugin.py:142
 msgid "Audio restart Setup"
@@ -19069,14 +19193,14 @@ msgid "Feedly OPML"
 msgstr ""
 
 #
-# File: ..\src/KTmain.py:40, line: -1
-# File: ..\src/KTmain.py:42, line: -1
+# File: ..\src/KTmain.py:40
+# File: ..\src/KTmain.py:42
 #: ..\src/KTmain.py:40 ..\src/KTmain.py:42
 msgid "??:??"
 msgstr "??:??"
 
 #
-# File: ..\src/KTmain.py:172, line: -1
+# File: ..\src/KTmain.py:172
 #: ..\src/KTmain.py:172
 msgid ""
 "Cheat attempt detected. \n"
@@ -19088,264 +19212,264 @@ msgstr ""
 "Verblijvende tijd is naa 0 gezet."
 
 #
-# File: ..\src/KTmain.py:185, line: -1
+# File: ..\src/KTmain.py:185
 #: ..\src/KTmain.py:185
 msgid "Do you want to start the kiddytimer- plugin now."
 msgstr "Wil je de KiddyTimer- plugin nu starten."
 
 #
-# File: ..\src/KTmain.py:325, line: -1
+# File: ..\src/KTmain.py:325
 #: ..\src/KTmain.py:325
 msgid "Stop KiddyTimer (this session only)"
 msgstr "Stop de KiddyTimer (alleen deze sessie)"
 
 #
-# File: ..\src/KTmain.py:326, line: -1
+# File: ..\src/KTmain.py:326
 #: ..\src/KTmain.py:326
 msgid "Increase remaining time"
 msgstr "Verhoog resterende tijd"
 
 #
-# File: ..\src/KTmain.py:327, line: -1
+# File: ..\src/KTmain.py:327
 #: ..\src/KTmain.py:327
 msgid "Decrease remaining time"
 msgstr "Verminder resterende tijd"
 
 #
-# File: ..\src/KTmain.py:328, line: -1
+# File: ..\src/KTmain.py:328
 #: ..\src/KTmain.py:328
 msgid "Set remaining time"
 msgstr "Stel resterende tijd in"
 
 #
-# File: ..\src/KTmain.py:329, line: -1
+# File: ..\src/KTmain.py:329
 #: ..\src/KTmain.py:329
 msgid "Reset todays remaining time"
 msgstr "Reset de resterende tijd van vandaag"
 
 #
-# File: ..\src/KTmain.py:331, line: -1
+# File: ..\src/KTmain.py:331
 #: ..\src/KTmain.py:331
 msgid "Start KiddyTimer"
 msgstr "Start KiddyTimer"
 
 #
-# File: ..\src/KTmain.py:332, line: -1
-# File: ..\src/KTmain.py:336, line: -1
+# File: ..\src/KTmain.py:332
+# File: ..\src/KTmain.py:336
 #: ..\src/KTmain.py:332 ..\src/KTmain.py:336
 msgid "Enable KiddyTimer for x minutes"
 msgstr "Schakel de KiddyTimer in voor x minuten"
 
 #
-# File: ..\src/KTmain.py:333, line: -1
+# File: ..\src/KTmain.py:333
 #: ..\src/KTmain.py:333
 msgid "Disable KiddyTimer"
 msgstr "Schakel KiddyTimer uit"
 
 #
-# File: ..\src/KTmain.py:335, line: -1
+# File: ..\src/KTmain.py:335
 #: ..\src/KTmain.py:335
 msgid "Enable KiddyTimer"
 msgstr "Schakel KiddyTimer in"
 
 #
-# File: ..\src/KTmain.py:337, line: -1
+# File: ..\src/KTmain.py:337
 #: ..\src/KTmain.py:337
 msgid "Please select your KiddyTimer- option"
 msgstr "Selecteer aub je uw KiddyTimer-optie"
 
 #
-# File: ..\src/KTmain.py:353, line: -1
+# File: ..\src/KTmain.py:353
 #: ..\src/KTmain.py:353
 msgid "Invalid selection"
 msgstr "Ongeldige selectie"
 
 #
-# File: ..\src/KTpositioner.py:19, line: -1
-# File: ..\src/KTpositioner.py:21, line: -1
-# File: ..\src/KTsetup.py:147, line: -1
-# File: ..\src/KTsetup.py:149, line: -1
+# File: ..\src/KTpositioner.py:19
+# File: ..\src/KTpositioner.py:21
+# File: ..\src/KTsetup.py:147
+# File: ..\src/KTsetup.py:149
 #: ..\src/KTpositioner.py:19 ..\src/KTpositioner.py:21 ..\src/KTsetup.py:147
 #: ..\src/KTsetup.py:149
 msgid "01:00"
 msgstr "01:00"
 
 #
-# File: ..\src/KTsetup.py:52, line: -1
+# File: ..\src/KTsetup.py:52
 #: ..\src/KTsetup.py:52
 msgid "PIN"
 msgstr "PIN"
 
 #
-# File: ..\src/KTsetup.py:53, line: -1
+# File: ..\src/KTsetup.py:53
 #: ..\src/KTsetup.py:53
 msgid "Don't monitor TV started before"
 msgstr "Monitor de TV niet voor"
 
 #
-# File: ..\src/KTsetup.py:54, line: -1
+# File: ..\src/KTsetup.py:54
 #: ..\src/KTsetup.py:54
 msgid "Don't monitor TV started after"
 msgstr "Monitor de TV niet na"
 
 #
-# File: ..\src/KTsetup.py:55, line: -1
+# File: ..\src/KTsetup.py:55
 #: ..\src/KTsetup.py:55
 msgid "Style of timer"
 msgstr "Timer stijl"
 
 #
-# File: ..\src/KTsetup.py:56, line: -1
+# File: ..\src/KTsetup.py:56
 #: ..\src/KTsetup.py:56
 msgid "Timeout for activation dialog"
 msgstr "Timeout voor activatie dialoog"
 
 #
-# File: ..\src/KTsetup.py:78, line: -1
-# File: ..\src/KTsetup.py:116, line: -1
+# File: ..\src/KTsetup.py:78
+# File: ..\src/KTsetup.py:116
 #: ..\src/KTsetup.py:78 ..\src/KTsetup.py:116
 #, python-format
 msgid "Remaining time: %s"
-msgstr "Resterende tijd: &s"
+msgstr "Resterende tijd: %s"
 
 #
-# File: ..\src/KTsetup.py:79, line: -1
+# File: ..\src/KTsetup.py:79
 #: ..\src/KTsetup.py:79
 #, python-format
 msgid "Last day started: %s"
 msgstr "Laatste dag gestart: %s"
 
 #
-# File: ..\src/KTsetup.py:84, line: -1
+# File: ..\src/KTsetup.py:84
 #: ..\src/KTsetup.py:84
 msgid "Reset clock"
 msgstr "Reset klok"
 
 #
-# File: ..\src/KTsetup.py:85, line: -1
+# File: ..\src/KTsetup.py:85
 #: ..\src/KTsetup.py:85
 msgid "Move clock"
 msgstr "Verplaats klok"
 
 #
-# File: ..\src/MovableScreen.py:17, line: -1
-# File: ..\src/MovableScreen.py:24, line: -1
+# File: ..\src/MovableScreen.py:17
+# File: ..\src/MovableScreen.py:24
 #: ..\src/MovableScreen.py:17 ..\src/MovableScreen.py:24
 msgid "Save values and close screen"
 msgstr "Waarden opslaan en scherm sluiten"
 
 #
-# File: ..\src/MovableScreen.py:18, line: -1
-# File: ..\src/MovableScreen.py:23, line: -1
+# File: ..\src/MovableScreen.py:18
+# File: ..\src/MovableScreen.py:23
 #: ..\src/MovableScreen.py:18 ..\src/MovableScreen.py:23
 msgid "Discard changes and close screen"
 msgstr "Veranderingen ongedaan maken en scherm sluiten"
 
 #
-# File: ..\src/MovableScreen.py:19, line: -1
+# File: ..\src/MovableScreen.py:19
 #: ..\src/MovableScreen.py:19
 msgid "Move screen to the left"
 msgstr "Verplaats scherm naar links"
 
 #
-# File: ..\src/MovableScreen.py:20, line: -1
+# File: ..\src/MovableScreen.py:20
 #: ..\src/MovableScreen.py:20
 msgid "Move screen to the right"
 msgstr "Verplaats scherm naar rechts"
 
 #
-# File: ..\src/MovableScreen.py:21, line: -1
+# File: ..\src/MovableScreen.py:21
 #: ..\src/MovableScreen.py:21
 msgid "Move screen up"
 msgstr "Verplaats scherm omhoog"
 
 #
-# File: ..\src/MovableScreen.py:22, line: -1
+# File: ..\src/MovableScreen.py:22
 #: ..\src/MovableScreen.py:22
 msgid "Move screen down"
 msgstr "Verplaats scherm omlaag"
 
 #
-# File: ..\src/MovableScreen.py:25, line: -1
+# File: ..\src/MovableScreen.py:25
 #: ..\src/MovableScreen.py:25
 msgid "Move screen to the upper left corner"
 msgstr "Verplaats scherm naar linker bovenhoek"
 
 #
-# File: ..\src/MovableScreen.py:26, line: -1
+# File: ..\src/MovableScreen.py:26
 #: ..\src/MovableScreen.py:26
 msgid "Center screen at the upper border"
 msgstr "Centreer scherm in de bovenste rand"
 
 #
-# File: ..\src/MovableScreen.py:27, line: -1
+# File: ..\src/MovableScreen.py:27
 #: ..\src/MovableScreen.py:27
 msgid "Move screen to the upper right corner"
 msgstr "Verplaats scherm naar rechter bovenhoek"
 
 #
-# File: ..\src/MovableScreen.py:28, line: -1
+# File: ..\src/MovableScreen.py:28
 #: ..\src/MovableScreen.py:28
 msgid "Move screen to the middle of the left border"
 msgstr "Verplaats scherm naar het midden van de linker rand"
 
 #
-# File: ..\src/MovableScreen.py:29, line: -1
+# File: ..\src/MovableScreen.py:29
 #: ..\src/MovableScreen.py:29
 msgid "Move screen to the center of your TV"
 msgstr "Verplaats scherm naar het midden van uw TV"
 
 #
-# File: ..\src/MovableScreen.py:30, line: -1
+# File: ..\src/MovableScreen.py:30
 #: ..\src/MovableScreen.py:30
 msgid "Move screen to the middle of the right border"
 msgstr "Verplaats scherm naar het midden van de rechter rand"
 
 #
-# File: ..\src/MovableScreen.py:31, line: -1
+# File: ..\src/MovableScreen.py:31
 #: ..\src/MovableScreen.py:31
 msgid "Move screen to the lower left corner"
 msgstr "Verplaat scherm naar linker onderhoek"
 
 #
-# File: ..\src/MovableScreen.py:32, line: -1
+# File: ..\src/MovableScreen.py:32
 #: ..\src/MovableScreen.py:32
 msgid "Center screen at the lower border"
 msgstr "Centreer scherm in de onderste rand"
 
 #
-# File: ..\src/MovableScreen.py:33, line: -1
+# File: ..\src/MovableScreen.py:33
 #: ..\src/MovableScreen.py:33
 msgid "Move screen to the lower right corner"
 msgstr "Verplaats scherm naar de rechter onderhoek"
 
 #
-# File: ..\src/MovableScreen.py:34, line: -1
+# File: ..\src/MovableScreen.py:34
 #: ..\src/MovableScreen.py:34
 msgid "Reset saved position"
 msgstr "Reset opgeslagen positie"
 
 #
-# File: ..\src/plugin.py:16, line: -1
+# File: ..\src/plugin.py:16
 #: ..\src/plugin.py:16
 msgid "Clock"
 msgstr "Klok"
 
 #
-# File: ..\src/plugin.py:16, line: -1
+# File: ..\src/plugin.py:16
 #: ..\src/plugin.py:16
 msgid "Smiley"
 msgstr "Smiley"
 
 #
-# File: ..\src/plugin.py:54, line: -1
-# File: ..\src/plugin.py:55, line: -1
+# File: ..\src/plugin.py:54
+# File: ..\src/plugin.py:55
 #: ..\src/plugin.py:54 ..\src/plugin.py:55
 msgid "KiddyTimer"
 msgstr "KiddyTimer"
 
 #
-# File: ..\src/plugin.py:55, line: -1
+# File: ..\src/plugin.py:55
 #: ..\src/plugin.py:55
 msgid "Allows to controls your kids' daily TV usage"
 msgstr "Laat u het dagelijkse TV-gebruik van uw kinderen controleren"
@@ -19578,11 +19702,11 @@ msgstr ""
 
 #: ../src/plugin.py:42
 msgid "1 minutes"
-msgstr ""
+msgstr "1 minuut"
 
 #: ../src/plugin.py:42
 msgid "3 minutes"
-msgstr ""
+msgstr "3 minuten"
 
 #: ../src/plugin.py:43
 msgid "Visualization and Text"
@@ -19603,11 +19727,11 @@ msgstr ""
 #: ../src/InternetRadioList.py:48 ../src/InternetRadioScreen.py:312
 #: ../src/InternetRadioScreen.py:676
 msgid "Genres"
-msgstr ""
+msgstr "Genres"
 
 #: ../src/InternetRadioList.py:51
 msgid "Filter:"
-msgstr ""
+msgstr "Filter:"
 
 #: ../src/InternetRadioInformationScreen.py:70
 msgid "Streaming Information"
@@ -19647,7 +19771,7 @@ msgstr ""
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Recording length"
-msgstr ""
+msgstr "Opname duur"
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Enter in minutes (0 means unlimited)"
@@ -19670,7 +19794,7 @@ msgstr ""
 #: ../src/InternetRadioScreen.py:573 ../src/InternetRadioScreen.py:629
 #: ../src/InternetRadioScreen.py:782
 msgid "All Genres"
-msgstr ""
+msgstr "Alle genres"
 
 #: ../src/InternetRadioScreen.py:581
 msgid "Favorite list"
@@ -19735,7 +19859,7 @@ msgstr ""
 
 #: ../src/InternetRadioScreen.py:818
 msgid "Fullscreen"
-msgstr ""
+msgstr "Fullscreen"
 
 #: ../src/InternetRadioScreen.py:820
 msgid "Show TV"
@@ -19778,7 +19902,7 @@ msgstr ""
 
 #: ../src/InternetRadioOledDisplay.py:123
 msgid "Internet Radio"
-msgstr ""
+msgstr "Internet Radio"
 
 #: ../src/plugin.py:383 ../src/plugin.py:384
 msgid "No OFDb match."
@@ -19933,11 +20057,11 @@ msgstr ""
 
 #: src/AC3main.py:78
 msgid "Open plugin menu"
-msgstr ""
+msgstr "Open plugin menu"
 
 #: src/AC3main.py:79 src/AC3main.py:86
 msgid "Save values and close plugin"
-msgstr ""
+msgstr "Bewaar waarden en sluit plugin"
 
 #: src/AC3main.py:80 src/AC3main.py:85
 msgid "Discard changes and close plugin"
@@ -20210,7 +20334,7 @@ msgstr "Laat nieuwe berichten zien als"
 
 #: ../src/RSSScreens.py:370
 msgid "Simple RSS Reader"
-msgstr ""
+msgstr "Simpele RSS Reader"
 
 #: ../src/RSSSetup.py:47 ../src/RSSSetup.py:98
 msgid "Simple RSS Reader Setup"
@@ -20875,39 +20999,39 @@ msgstr ""
 
 #: ../src/VlcServerConfig.py:310
 msgid "Video Bitrate"
-msgstr ""
+msgstr "Video Bitrate"
 
 #: ../src/VlcServerConfig.py:309
 msgid "Video Codec"
-msgstr ""
+msgstr "Video Codec"
 
 #: ../src/VlcServerConfig.py:311
 msgid "Video Norm"
-msgstr ""
+msgstr "Video Norm"
 
 #: ../src/VlcServerList.py:83
 msgid "add server"
-msgstr ""
+msgstr "server toevoegen"
 
 #: ../src/VlcServerList.py:82
 msgid "delete server"
-msgstr ""
+msgstr "server verwijderen"
 
 #: ../src/VlcServerList.py:84
 msgid "edit server"
-msgstr ""
+msgstr "server wijzigen"
 
 #: ../src/VlcMediaList.py:55 ../src/VlcMediaList.py:119
 msgid "filter off"
-msgstr ""
+msgstr "filter uit"
 
 #: ../src/VlcMediaList.py:122
 msgid "filter on"
-msgstr ""
+msgstr "filter aan"
 
 #: ../src/VlcMediaList.py:58
 msgid "play DVD"
-msgstr ""
+msgstr "DVD afspelen"
 
 #: ../src/VlcMediaList.py:56
 msgid "refresh"
@@ -20991,19 +21115,19 @@ msgstr ""
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:81
 msgid "Jump x minutes forward:"
-msgstr ""
+msgstr "Spring x minuten vooruit:"
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:83
 msgid "Jump x minutes back:"
-msgstr ""
+msgstr "Spring x minuten terug:"
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:86
 msgid "Go to position:"
-msgstr ""
+msgstr "Ga naar positie:"
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:87
 msgid "Sensibility:"
-msgstr ""
+msgstr "Gevoeligheid:"
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:88
 msgid "Overwrite left and right buttons:"
@@ -21046,7 +21170,7 @@ msgstr ""
 
 #
 msgid "Timeout (in min)"
-msgstr ""
+msgstr "Timeout (in min)"
 
 #
 msgid "This is the duration in minutes that the AutoTimer is allowed to run."
@@ -21380,7 +21504,7 @@ msgstr ""
 
 #
 msgid "config changed."
-msgstr ""
+msgstr "configuratie gewijzigd."
 
 #
 msgid "Only AutoTimers created during this session"
@@ -21681,7 +21805,7 @@ msgstr ""
 
 #
 msgid "Not before"
-msgstr ""
+msgstr "Niet voor"
 
 #
 msgid "Not after"
@@ -21705,7 +21829,7 @@ msgstr "Stel maximale tijdsduur in"
 
 #
 msgid "Maximum duration (in m)"
-msgstr ""
+msgstr "Maximale duur (in m)"
 
 #
 msgid "Execute \"after event\" during timespan"
@@ -21749,7 +21873,7 @@ msgstr "Aangepaste locatie"
 
 #
 msgid "Activate VPS"
-msgstr ""
+msgstr "Activeer VPS"
 
 #
 msgid "Control recording completely by service"
@@ -22096,7 +22220,7 @@ msgstr "Niet downloaden na:"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:825
 msgid "Maximal downloads:"
-msgstr ""
+msgstr "Maximale downloads:"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:826
 msgid "Take x downloads to list:"
@@ -22745,7 +22869,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 106
 #: ../src/MyTubeSearch.py:218 ../src/plugin.py:106
 msgid "Poland"
-msgstr ""
+msgstr "Polen"
 
 #
 # File: ../src/MyTubeSearch.py, line: 163
@@ -22805,7 +22929,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 107
 #: ../src/MyTubeSearch.py:219 ../src/plugin.py:107
 msgid "Russia"
-msgstr ""
+msgstr "Rusland"
 
 #
 # File: ../src/MyTubeSearch.py, line: 196
@@ -22863,14 +22987,14 @@ msgstr ""
 # File: ../src/plugin.py, line: 108
 #: ../src/MyTubeSearch.py:220 ../src/plugin.py:108
 msgid "South Korea"
-msgstr ""
+msgstr "Zuid Korea"
 
 #
 # File: ../src/MyTubeSearch.py, line: 221
 # File: ../src/plugin.py, line: 109
 #: ../src/MyTubeSearch.py:221 ../src/plugin.py:109
 msgid "Spain"
-msgstr ""
+msgstr "Spanje"
 
 #
 # File: ../src/MyTubeSearch.py, line: 185
@@ -22896,7 +23020,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 110
 #: ../src/MyTubeSearch.py:222 ../src/plugin.py:110
 msgid "Sweden"
-msgstr ""
+msgstr "Zweden"
 
 #
 # File: ../src/plugin.py, line: 1276
@@ -22909,7 +23033,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 111
 #: ../src/MyTubeSearch.py:223 ../src/plugin.py:111
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 #
 # File: ../src/plugin.py, line: 423
@@ -23135,11 +23259,11 @@ msgstr ""
 
 #: ../src/plugin.py:412
 msgid "(offline!)"
-msgstr ""
+msgstr "(offline!)"
 
 #: ../src/plugin.py:410
 msgid "(online)"
-msgstr ""
+msgstr "(online)"
 
 #: ../src/plugin.py:603
 msgid "(set point)"
@@ -23151,7 +23275,7 @@ msgstr ""
 
 #: ../src/plugin.py:54
 msgid "down"
-msgstr ""
+msgstr "omlaag"
 
 #: ../src/plugin.py:499
 msgid "not found"
@@ -23522,7 +23646,7 @@ msgstr ""
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:189
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:237
 msgid "Porn Center"
-msgstr ""
+msgstr "Porn Center"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:55
 msgid "Adult streaming plugins for dm800/dm8000"
@@ -23530,7 +23654,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:253
 msgid "Description:"
-msgstr ""
+msgstr "Omschrijving:"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
