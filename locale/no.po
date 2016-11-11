@@ -22155,3 +22155,15 @@ msgstr ""
 #
 msgid "Set bluetooth audio delay."
 msgstr ""
+
+#
+msgid "Please enter a name for the HDMI IN service"
+msgstr ""
+
+#
+msgid "add HDMI IN to bouquet"
+msgstr ""
+
+#
+msgid "add HDMI IN to favourites"
+msgstr ""
