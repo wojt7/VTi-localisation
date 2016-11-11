@@ -22106,3 +22106,7 @@ msgstr ""
 #
 msgid "add HDMI IN to favourites"
 msgstr ""
+
+#
+msgid "Ask for timer type when Autotimer is installed"
+msgstr ""

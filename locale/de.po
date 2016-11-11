@@ -26339,3 +26339,7 @@ msgstr "HDMI IN zu Bouquet hinzufügen"
 #
 msgid "add HDMI IN to favourites"
 msgstr "HDMI IN zu Favoriten hinzufügen"
+
+#
+msgid "Ask for timer type when Autotimer is installed"
+msgstr "Bei installiertem Autotimer nach Timerart fragen"
