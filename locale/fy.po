@@ -22466,3 +22466,11 @@ msgstr ""
 #
 msgid "Ask for timer type when Autotimer is installed"
 msgstr ""
+
+#
+msgid "Enable HbbTV for streaming services"
+msgstr ""
+
+#
+msgid "Mount process"
+msgstr ""
