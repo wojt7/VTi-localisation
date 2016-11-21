@@ -22118,3 +22118,11 @@ msgstr ""
 #
 msgid "Mount process"
 msgstr ""
+
+#
+msgid "Classic mount"
+msgstr ""
+
+#
+msgid "AutoFS"
+msgstr ""

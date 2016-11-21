@@ -26351,3 +26351,11 @@ msgstr "HbbTV für Streaming-Dienste aktivieren"
 #
 msgid "Mount process"
 msgstr "Art der Einbindung"
+
+#
+msgid "Classic mount"
+msgstr "klassisch"
+
+#
+msgid "AutoFS"
+msgstr "autofs"
