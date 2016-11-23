@@ -23854,3 +23854,23 @@ msgstr ""
 #
 msgid "AutoFS"
 msgstr ""
+
+#
+msgid "Disable HDMI-IN on Main Screen"
+msgstr ""
+
+#
+msgid "Enable HDMI-IN on Main Screen"
+msgstr ""
+
+#
+msgid "Disable HDMI-IN on PIP"
+msgstr ""
+
+#
+msgid "Enable HDMI-IN on PIP"
+msgstr ""
+
+#
+msgid "Use cross down for showing timeshift events"
+msgstr ""

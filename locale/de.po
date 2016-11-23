@@ -26359,3 +26359,23 @@ msgstr "klassisch"
 #
 msgid "AutoFS"
 msgstr "autofs"
+
+#
+msgid "Disable HDMI-IN on Main Screen"
+msgstr "HDMI IN im Hauptbild deaktivieren"
+
+#
+msgid "Enable HDMI-IN on Main Screen"
+msgstr "HDMI IN im Hauptbild aktivieren"
+
+#
+msgid "Disable HDMI-IN on PIP"
+msgstr "HDMI IN bei Bild in Bild deaktivieren"
+
+#
+msgid "Enable HDMI-IN on PIP"
+msgstr "HDMI IN bei Bild in Bild aktivieren"
+
+#
+msgid "Use cross down for showing timeshift events"
+msgstr "Benutze Pfeil nach unten Taste zur Anzeige von Timeshiftdateien"
