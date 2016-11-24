@@ -22289,3 +22289,143 @@ msgstr ""
 #
 msgid "Use cross down for showing timeshift events"
 msgstr ""
+
+#
+msgid "Driver is not supported."
+msgstr ""
+
+#
+msgid "Vu+ %s Misc. Control"
+msgstr ""
+
+#
+msgid "set Vu+ %s LNB Power and etc.."
+msgstr ""
+
+#
+msgid "Scanning bluetooth devices"
+msgstr ""
+
+#
+msgid "Scanning BLE bluetooth devices"
+msgstr ""
+
+#
+msgid "Start scan"
+msgstr ""
+
+#
+msgid "Press green key to connect device."
+msgstr ""
+
+#
+msgid "No nearby bluetooth devices were found."
+msgstr ""
+
+#
+msgid "%s is connected."
+msgstr ""
+
+#
+msgid "Pairing fail"
+msgstr ""
+
+#
+msgid "Can't communicate with %s"
+msgstr ""
+
+#
+msgid "Abort scan"
+msgstr ""
+
+#
+msgid ""
+"Pairing Failed.\n"
+"Another audio device is connected. (%s)"
+msgstr ""
+
+#
+msgid "Pairing %s"
+msgstr ""
+
+#
+msgid "Pairing %s failed!!"
+msgstr ""
+
+#
+msgid "Discovery"
+msgstr ""
+
+#
+msgid "Device is disabling..."
+msgstr ""
+
+#
+msgid "Device is enabling..."
+msgstr ""
+
+#
+msgid "disconnecting %s"
+msgstr ""
+
+#
+msgid "disconnecting %s failed!!"
+msgstr ""
+
+#
+msgid ""
+"Connection Failed.\n"
+"Another audio device is connected. (%s)"
+msgstr ""
+
+#
+msgid "connecting %s failed!!"
+msgstr ""
+
+#
+msgid "connecting %s"
+msgstr ""
+
+#
+msgid "remove %s failed!!"
+msgstr ""
+
+#
+msgid "%s is disconnected."
+msgstr ""
+
+#
+msgid "Bluetooth Setup"
+msgstr ""
+
+#
+msgid "Configure Bluetooth devices"
+msgstr ""
+
+#
+msgid "type : %s"
+msgstr ""
+
+#
+msgid "status : %s"
+msgstr ""
+
+#
+msgid "Connected"
+msgstr ""
+
+#
+msgid "Disconnected"
+msgstr ""
+
+#
+msgid "is connected."
+msgstr ""
+
+#
+msgid "is disconnected."
+msgstr ""
+
+#
+msgid "Bluetooth Discovery"
+msgstr ""

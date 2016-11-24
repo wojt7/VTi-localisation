@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-11-07 18:32+0100\n"
+"PO-Revision-Date: 2016-11-24 12:59+0100\n"
 "Last-Translator: plnick <plnick@vuplus-support.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -18663,26 +18663,23 @@ msgstr "Die Timerliste wurde bereinigt"
 # File: ../src/WebComponents/Sources/Timer.py, line: 79
 # File: ../src/WebComponents/Sources/Timer.py, line: 225
 # File: ../src/WebComponents/Sources/Timer.py, line: 398
-#: src/WebComponents/Sources/Timer.py:79
-#: src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398
-#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
+#: src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Fehlender Parameter: sRef"
 
 #
 # File: ../src/WebComponents/Sources/Timer.py, line: 84
 # File: ../src/WebComponents/Sources/Timer.py, line: 231
-#: src/WebComponents/Sources/Timer.py:84
-#: src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Fehlender Parameter: begin"
 
 #
 # File: ../src/WebComponents/Sources/Timer.py, line: 89
 # File: ../src/WebComponents/Sources/Timer.py, line: 235
-#: src/WebComponents/Sources/Timer.py:89
-#: src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Fehlender Parameter: end"
 
@@ -18869,8 +18866,7 @@ msgstr "Film '%s' gelöscht"
 #
 # File: ../src/WebComponents/Sources/Movie.py, line: 61
 # File: ../src/WebComponents/Sources/Movie.py, line: 154
-#: src/WebComponents/Sources/Movie.py:61
-#: src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Unerlaubter Parameterwert: sRef - '%s'"
@@ -23063,13 +23059,13 @@ msgid "Guess existing timer based on begin/end"
 msgstr "Bestimme bestehende Timer anhand Anfang-/Endzeit"
 
 #
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80% of the it."
 msgstr ""
-"Ist dies aktiv, so wird ein bestehender Timer ab einer Schwelle von 80% "
-"übereinstimmender Sendezeit einer Sendung zugeordnet."
+"Ist dies aktiv, so wird ein bestehender Timer ab einer Schwelle von 80 "
+"Prozent übereinstimmender Sendezeit einer Sendung zugeordnet."
 
 #
 msgid "Add similar timer on conflict"
@@ -26254,7 +26250,7 @@ msgstr "Medienwiedergabe konfigurieren"
 
 #
 msgid "Dolby Digital+ (AC3+) default"
-msgstr ""
+msgstr "Dolby Digital+ (AC3+) als Standard"
 
 #
 msgid "Automatic Audio/Subtitle track selection"
@@ -26379,3 +26375,147 @@ msgstr "HDMI IN bei Bild in Bild aktivieren"
 #
 msgid "Use cross down for showing timeshift events"
 msgstr "Benutze Pfeil nach unten Taste zur Anzeige von Timeshiftdateien"
+
+#
+msgid "Driver is not supported."
+msgstr "Treiber unterstützt die Einstellungen nicht."
+
+#
+msgid "Vu+ %s Misc. Control"
+msgstr "Vu+ %s Misc. Control"
+
+#
+msgid "set Vu+ %s LNB Power and etc.."
+msgstr "LNB Spannung, etc. der Vu+ %s konfigurieren"
+
+#
+msgid "Scanning bluetooth devices"
+msgstr "Suche nach Bluetoothgeräten"
+
+#
+msgid "Scanning BLE bluetooth devices"
+msgstr "Suche nach BLE Bluetoothgeräten"
+
+#
+msgid "Start scan"
+msgstr "Suche starten"
+
+#
+msgid "Press green key to connect device."
+msgstr "Taste grün zum Verbinden mit dem Bluetoothgerät drücken"
+
+#
+msgid "No nearby bluetooth devices were found."
+msgstr "Keine passenden Bluetoothgeräte in der Umgebung gefunden."
+
+#
+msgid "%s is connected."
+msgstr "% is verbunden"
+
+#
+msgid "Pairing fail"
+msgstr "Paring fehlgeschlagen"
+
+#
+msgid "Can't communicate with %s"
+msgstr "Kommunikation mit %s nicht möglich"
+
+#
+msgid "Abort scan"
+msgstr "Suche abbrechen"
+
+#
+msgid ""
+"Pairing Failed.\n"
+"Another audio device is connected. (%s)"
+msgstr ""
+"Paring ist fehlgeschlagen\n"
+"Ein anderes Audiogerät ist bereits verbunden. (%s)"
+
+#
+msgid "Pairing %s"
+msgstr "Pairing %s"
+
+#
+msgid "Pairing %s failed!!"
+msgstr "Pairing mit %s ist fehlgeschlagen!!"
+
+#
+msgid "Discovery"
+msgstr "Suche"
+
+#
+msgid "Device is disabling..."
+msgstr "Gerät wird deaktiviert..."
+
+#
+msgid "Device is enabling..."
+msgstr "Gerät wird aktiviert..."
+
+#
+msgid "disconnecting %s"
+msgstr "trenne %s"
+
+#
+msgid "disconnecting %s failed!!"
+msgstr "Trennung von %s fehlgeschlagen!!"
+
+#
+msgid ""
+"Connection Failed.\n"
+"Another audio device is connected. (%s)"
+msgstr ""
+"Verbindung fehlgeschlagen.\n"
+"Ein anderes Audiogerät ist bereits verbunden. (%s)"
+
+#
+msgid "connecting %s failed!!"
+msgstr "Verbindung mit %s fehlgeschlagen"
+
+#
+msgid "connecting %s"
+msgstr "verbinde %s"
+
+#
+msgid "remove %s failed!!"
+msgstr "Löschen von %s fehlgeschlagen!!"
+
+#
+msgid "%s is disconnected."
+msgstr "% ist nicht verbunden"
+
+#
+msgid "Bluetooth Setup"
+msgstr "Bluetooth Einstellungen"
+
+#
+msgid "Configure Bluetooth devices"
+msgstr "Bluetooth Geräte konfigurieren"
+
+#
+msgid "type : %s"
+msgstr "Typ: %s"
+
+#
+msgid "status : %s"
+msgstr "Status: %s"
+
+#
+msgid "Connected"
+msgstr "Verbunden"
+
+#
+msgid "Disconnected"
+msgstr "Getrennt"
+
+#
+msgid "is connected."
+msgstr "wurde verbunden"
+
+#
+msgid "is disconnected."
+msgstr "wurde getrennt"
+
+#
+msgid "Bluetooth Discovery"
+msgstr "Bluetooth Suche"
