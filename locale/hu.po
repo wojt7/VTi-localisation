@@ -438,6 +438,8 @@ msgid ""
 "\n"
 "Backup your STB settings."
 msgstr ""
+"\n"
+"A készülék beállításainak mentése."
 
 #
 #, python-format
@@ -445,6 +447,8 @@ msgid ""
 "\n"
 "Device : %s"
 msgstr ""
+"\n"
+"Eszköz : %s"
 
 #
 #, python-format
@@ -452,12 +456,14 @@ msgid ""
 "\n"
 "Device : /dev/%s"
 msgstr ""
+"\n"
+"Eszköz : /dev/%s"
 
 #
 msgid ""
 "\n"
 "Do you want to exit?"
-msgstr ""
+msgstr "Ki akar lépni?"
 
 #
 msgid ""
@@ -473,18 +479,24 @@ msgid ""
 "\n"
 "Filesystem : %s"
 msgstr ""
+"\n"
+"Fájlrendszer : %s"
 
 #
 msgid ""
 "\n"
 "Manage extensions or plugins for your STB"
 msgstr ""
+"\n"
+"Pluginek és bővítmények kezelése"
 
 #
 msgid ""
 "\n"
 "Online update of your STB software."
 msgstr ""
+"\n"
+"A készülék szoftverének frissítése online."
 
 #
 #, python-format
@@ -492,6 +504,8 @@ msgid ""
 "\n"
 "Partition : %s"
 msgstr ""
+"\n"
+"Partíció : %s"
 
 #
 msgid ""
@@ -506,12 +520,16 @@ msgid ""
 "\n"
 "Restore your STB settings."
 msgstr ""
+"\n"
+"A készülék beállításainak visszaállítása."
 
 #
 msgid ""
 "\n"
 "Restore your STB with a new firmware."
 msgstr ""
+"\n"
+"A készülék visszaállítása egy új firmware-el."
 
 #
 msgid ""
@@ -545,6 +563,8 @@ msgid ""
 "\n"
 "Size : %d MB\n"
 msgstr ""
+"\n"
+"Méret : %d MB\n"
 
 #
 #, python-format
@@ -552,6 +572,8 @@ msgid ""
 "\n"
 "Size : %s"
 msgstr ""
+"\n"
+"Méret : %s"
 
 #
 #, python-format
@@ -559,6 +581,8 @@ msgid ""
 "\n"
 "Size : %s MB\n"
 msgstr ""
+"\n"
+"Méret : %s MB\n"
 
 #
 msgid ""
@@ -581,12 +605,16 @@ msgid ""
 "\n"
 "When transcoding, PIP is disabled."
 msgstr ""
+"\n"
+"Az átkódolás alatt a PIP le van tiltva."
 
 #
 msgid ""
 "\n"
 "When transcoding, both PIP and analog video outputs are disabled."
 msgstr ""
+"\n"
+"Az átkódolás alatta PIP és az analóg kimenet le van tiltva."
 
 #
 #, python-format
@@ -594,6 +622,8 @@ msgid ""
 "\n"
 "partition %d : %s MB"
 msgstr ""
+"\n"
+"partíció %d : %s MB"
 
 #
 msgid " "
@@ -601,15 +631,15 @@ msgstr " "
 
 #
 msgid "    - Log Directory"
-msgstr ""
+msgstr "    - Napló könyvtára"
 
 #
 msgid "    - Log Level"
-msgstr ""
+msgstr "    - Naplózási szint"
 
 #
 msgid "    - Type"
-msgstr ""
+msgstr "    - Típus"
 
 #
 msgid " 1"
@@ -653,6 +683,8 @@ msgid ""
 "!!(Empty)\n"
 "Please, Input to the "
 msgstr ""
+"!!(Üres)\n"
+"Kérlek, Input to the "
 
 #
 msgid "#000000"
@@ -741,7 +773,7 @@ msgstr ""
 msgid ""
 "%s\n"
 "Start Device Inititlization?"
-msgstr ""
+msgstr "Indítsam az eszköz inicializálását?"
 
 #
 #, python-format
@@ -751,7 +783,7 @@ msgstr "%s (%s)\n"
 #
 #, python-format
 msgid "%s ok?"
-msgstr ""
+msgstr "%s rendben?"
 
 #
 msgid "(ZAP)"
@@ -759,7 +791,7 @@ msgstr "(UGRÁS)"
 
 #
 msgid "(de)activate Picture in Picture..."
-msgstr ""
+msgstr "Kép a Képben funkció (de)aktiválása"
 
 #
 msgid "(empty)"
@@ -791,11 +823,11 @@ msgstr "1 elérhető vezeték nélküli hálózat!"
 
 #
 msgid "1-1. Serial Number (The first two or three letters of SN)"
-msgstr ""
+msgstr "1-1. Szériaszám (Az első két, vagy három karakter)"
 
 #
 msgid "1-2. Serial Number (The remaining numbers of SN)"
-msgstr ""
+msgstr "1-2. Szériaszám (A maradék karakterek a szériaszámból)"
 
 #
 msgid "1. Drop WvDial"
@@ -867,7 +899,7 @@ msgstr "2"
 
 #
 msgid "2. Contact"
-msgstr ""
+msgstr "2. Kapcsolat"
 
 #
 msgid "2. Set up a Mobile Broadband Device"
@@ -1031,12 +1063,16 @@ msgid ""
 "A finished record timer wants to set your\n"
 "STB to standby. Do that now?"
 msgstr ""
+"Egy befejezett időzítés le akarja kapcsolni\n"
+"a készüléket készenléti módba. Engedélyezi?"
 
 #
 msgid ""
 "A finished record timer wants to shut down\n"
 "your STB. Shutdown now?"
 msgstr ""
+"Egy befejezett időzítés ki akarja kapcsolni\n"
+"a készüléket. Engedélyezi?"
 
 #
 msgid "A graphical EPG for all services of an specific bouquet"
@@ -1091,12 +1127,16 @@ msgid ""
 "A sleep timer wants to set your\n"
 "STB to standby. Do that now?"
 msgstr ""
+"Az elalvásidőzítő le akarja kapcsolni\n"
+"a készüléket készenléti módba. Engedélyezi?
 
 #
 msgid ""
 "A sleep timer wants to shut down\n"
 "your STB. Shutdown now?"
 msgstr ""
+"Az elalvásidőzítő ki akarja kapcsolni\n"
+"a készüléket. Engedélyezi?"
 
 #
 msgid "A small overview of the available icon states and actions."
@@ -1115,23 +1155,23 @@ msgid "A/V Settings"
 msgstr "A/V beállítások"
 
 #
-msgid "A/V-Receiver power off:"
+msgid "A/V-Receiver kikapcsolás:"
 msgstr ""
 
 #
-msgid "A/V-Receiver power on:"
+msgid "A/V-Receiver bekapcsolás:"
 msgstr ""
 
 #
-msgid "A/V-Receiver toggle mute:"
+msgid "A/V-Receiver Némítás be/ki:"
 msgstr ""
 
 #
-msgid "A/V-Receiver volume down:"
+msgid "A/V-Receiver halkítás:"
 msgstr ""
 
 #
-msgid "A/V-Receiver volume up:"
+msgid "A/V-Receiver hangosítás:"
 msgstr ""
 
 #
@@ -1144,11 +1184,11 @@ msgstr "AB"
 
 #
 msgid "AP Device"
-msgstr ""
+msgstr "AP Eszköz"
 
 #
 msgid "AP Mode"
-msgstr ""
+msgstr "AP mód"
 
 #
 msgid "APN :"
@@ -1200,7 +1240,7 @@ msgstr "Hálózati beállítások aktiválása"
 
 #
 msgid "Activation mode"
-msgstr ""
+msgstr "Aktiválási mód"
 
 #
 msgid "Active Source Reply On:"
@@ -1244,19 +1284,19 @@ msgstr "Hozzáadás a kedvencekhez"
 
 #
 msgid "Additional backup -> "
-msgstr ""
+msgstr "További mentés -> "
 
 #
 msgid "Address (0~FF):"
-msgstr ""
+msgstr "Cím (0~FF):"
 
 #
 msgid "Adjust 3D settings"
-msgstr ""
+msgstr "3D beállítások módosítása"
 
 #
 msgid "Adjust screen position"
-msgstr ""
+msgstr "Kép pozíciójának beállítása"
 
 #
 msgid ""
@@ -1302,7 +1342,7 @@ msgstr ""
 
 #
 msgid "Agree"
-msgstr ""
+msgstr "Egyetért"
 
 #
 msgid "Album"
@@ -1318,15 +1358,15 @@ msgstr "Összes műhold"
 
 #
 msgid "Allow removing of entries in service list"
-msgstr ""
+msgstr "Csatornalista bejegyzések törlésének engedélyezése"
 
 #
 msgid "Allow removing of system software"
-msgstr ""
+msgstr "Rendszerprogramok törlésének engedélyezése"
 
 #
 msgid "Almost there... Now building the USB-Image!"
-msgstr ""
+msgstr "Majdnem kész..USB képfájl készítése..."
 
 #
 msgid "Alpha"
@@ -1334,7 +1374,7 @@ msgstr "Alfa"
 
 #
 msgid "Alpha Value"
-msgstr ""
+msgstr "Alfa érték"
 
 #
 msgid "Alternative radio mode"
@@ -1350,7 +1390,7 @@ msgstr "Mindig rákérdez"
 
 #
 msgid "Always zap before record"
-msgstr ""
+msgstr "Mindig átkapcsol felvétel előtt"
 
 #
 msgid "An empty filename is illegal."
@@ -1394,14 +1434,14 @@ msgstr "Biztos benne, hogy kilép a Varázslóból?"
 
 #
 msgid "Are you sure you want to restart your network interfaces?\n"
-msgstr ""
+msgstr "Biztos benne, hogy újra kívánja indítani a hálózati eszközöket?\n"
 
 #
 msgid ""
 "Are you sure you want to restart your network interfaces?\n"
 "\n"
 msgstr ""
-"Biztos hogy újra akarja indítani a hálózati interfészt?\n"
+"Biztos benne, hogy újra kívánja indítani a hálózati eszközöket?\n"
 "\n"
 
 #
@@ -1424,7 +1464,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to setup your AP?\n"
 "\n"
-msgstr ""
+msgstr "Biztos benne, hogy szeretné beállítani az AP-ját"
 
 #
 msgid "Artist"
@@ -1448,7 +1488,7 @@ msgstr "Kép méretarány"
 
 #
 msgid "Aspect ratio"
-msgstr ""
+msgstr "Kép méretarány"
 
 #
 msgid "Atheros"
@@ -1504,7 +1544,7 @@ msgstr ""
 
 #
 msgid "Autoremove depended packages at package remove"
-msgstr ""
+msgstr "Szoftvercsomag törlésekor annak függőségeinek törlése"
 
 #
 msgid "Available format variables"
@@ -1520,7 +1560,7 @@ msgstr "BA"
 
 #
 msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
-msgstr ""
+msgstr "BIZTONSÁGI MENTŐ, TELJES MENTÉS KÉSZÍTÉSÉHEZ"
 
 #
 msgid "BB"
@@ -1540,11 +1580,11 @@ msgstr "Vissza"
 
 #
 msgid "Back, lower USB Slot"
-msgstr ""
+msgstr "Vissza, alsó USB bemenet"
 
 #
 msgid "Back, upper USB Slot"
-msgstr ""
+msgstr "Vissza, felső USB nyílás"
 
 #
 msgid "Background"
@@ -1552,7 +1592,7 @@ msgstr "Háttér"
 
 #
 msgid "Backspace Key"
-msgstr ""
+msgstr "Backspace gomb"
 
 #
 msgid "Backup done."
@@ -1564,7 +1604,7 @@ msgstr "Mentés sikertelen."
 
 #
 msgid "Backup finished and copied to your USB-flashdrive."
-msgstr ""
+msgstr "A mentés elkészült és át lett másolva az USB eszközre."
 
 #
 msgid "Backup is running..."
@@ -1620,11 +1660,11 @@ msgstr "Bitráta"
 
 #
 msgid "Blindscan"
-msgstr ""
+msgstr "Vak keresés"
 
 #
 msgid "Blinking time"
-msgstr ""
+msgstr "Villogási idő"
 
 #
 msgid "Block noise reduction"
@@ -1636,28 +1676,28 @@ msgstr "Kék erősítés"
 
 #
 msgid "Bookmark"
-msgstr ""
+msgstr "Könyvjelző"
 
 #
 msgid "Bookmark Title"
-msgstr ""
+msgstr "Könyvjelző címe"
 
 #
 msgid "Bookmark URL"
-msgstr ""
+msgstr "Könyvjelző URL"
 
 #
 #, python-format
 msgid "Bookmark for button %s:"
-msgstr ""
+msgstr "Könyvjelző a gombra %s:"
 
 #
 msgid "Bookmark for button %s (long):"
-msgstr ""
+msgstr "Könyvjelző a gombra %s (hosszú):"
 
 #
 msgid "Bookmarks"
-msgstr "Bookmark-ok"
+msgstr "Könyvjelzők"
 
 #
 msgid "Brightness"
@@ -1665,11 +1705,11 @@ msgstr "Fényerő"
 
 #
 msgid "Browser Help"
-msgstr ""
+msgstr "Böngésző Segítség"
 
 #
 msgid "Browser Start/Stop"
-msgstr ""
+msgstr "Böngésző Start/Stop"
 
 #
 msgid "BrowserMain"
@@ -1699,7 +1739,7 @@ msgstr "Az OK gomb megnyomásával kijelzésre kerül az info-sáv."
 
 #
 msgid "Bypass HDMI EDID Check"
-msgstr ""
+msgstr "HDMI EDID ellenőrzés mellőzése"
 
 #
 msgid "C"
@@ -1739,16 +1779,16 @@ msgstr "Cache ikonok"
 
 #
 msgid "Can NOT generate passphrase"
-msgstr ""
+msgstr "Jelszó generálása nem sikerült"
 
 #
 #, python-format
 msgid "Can not change the partition ID for %s"
-msgstr ""
+msgstr "Partíció ID változtatása nem lehetséges %s"
 
 #
 msgid "Can not find any WirelessLan Module\n"
-msgstr ""
+msgstr "Nem található WiFi modul\n"
 
 #
 #, python-format
@@ -1756,14 +1796,16 @@ msgid ""
 "Can not format device /dev/%s.\n"
 "refresh partition information failed!"
 msgstr ""
+"Az eszköz formázása nem lehetséges /dev/%s.\n"
+"partíció információk frissítése sikertelen!"
 
 #
 msgid "Can not open 'fan_pwm'"
-msgstr ""
+msgstr "Nem lehet megnyitni 'fan_pwm'"
 
 #
 msgid "Can not setup WirelessLan Module in 'AP Mode'\n"
-msgstr ""
+msgstr "AP módban nem lehet beállítani a WiFi modult"
 
 #
 #, python-format
@@ -1771,6 +1813,8 @@ msgid ""
 "Can not umount device /dev/%s.\n"
 "Maybe some files of the filesystem are open"
 msgstr ""
+"Az eszköz leválasztása sikertelen /dev/%s.\n"
+"Talán néhány fájl használatban van az eszközön"
 
 #
 #, python-format
@@ -1778,50 +1822,56 @@ msgid ""
 "Can not use this mount point.(%s) \n"
 "Please select another mount point."
 msgstr ""
+"Ez a csatlakozási pontot nem elérhető.(%s) \n"
+"Kérlek válassz egy másik csatlakoztási pontot."
 
 #
 msgid "Can't cancel during upgrade!!"
-msgstr ""
+msgstr "Frissítés közben nem lehet visszalépni!!"
 
 #
 msgid ""
 "Can't disconnect doring connecting..\n"
 "Do you want to forcibly exit?"
 msgstr ""
+"Csatlakozás közben nem lehet lecsatlakozni..\n"
+"Kényszeríteni akarod a kilépést?"
 
 #
 msgid "Can't download the checksum file."
-msgstr ""
+msgstr "Nem lehet letölteni az ellenőrző fájlt."
 
 #
 msgid "Can't download the firmware file."
-msgstr ""
+msgstr "Nem lehet letölteni a firmware fájlt."
 
 #
 msgid "Can't find /usr/bin/md5sum"
-msgstr ""
+msgstr "Nem található /usr/bin/md5sum"
 
 #
 msgid "Can't found MD5 file."
-msgstr ""
+msgstr "MD5 fájl nem található."
 
 #
 msgid "Can't found binary file."
-msgstr ""
+msgstr "Nem található bináris fájl."
 
 #
 msgid "Can't found device file!!"
-msgstr ""
+msgstr "Nem található eszköz fájl!!"
 
 #
 msgid "Can't found model name."
-msgstr ""
+msgstr "Nem található a modell neve."
 
 #
 msgid ""
 "Can't open selected bookmark.\n"
 "   - URL data is empty!!"
 msgstr ""
+"Könyvjelző megnyitása sikertelen.\n"
+"   - URL üres!!"
 
 #
 #, python-format
@@ -1829,6 +1879,8 @@ msgid ""
 "Can't umount %s. \n"
 "Maybe device or resource busy."
 msgstr ""
+"Sikertelen lecsatlakozás %s. \n"
+"Talán az eszköt vagy az erőforrás foglalt."
 
 #
 msgid "Capacity: "
@@ -1844,7 +1896,7 @@ msgstr "Katalán"
 
 #
 msgid "Category Name"
-msgstr ""
+msgstr "Kategória név"
 
 #
 msgid "Change bouquets in quickzap"
@@ -1876,7 +1928,7 @@ msgstr "Csatorna"
 
 #
 msgid "Channel (1~13)"
-msgstr ""
+msgstr "Csatorna (1~13)"
 
 #
 msgid "Channel Selection"
@@ -1920,15 +1972,15 @@ msgstr "Fájlrendszer ellenőrzése..."
 
 #
 msgid "Choice filesystem."
-msgstr ""
+msgstr "Fájlrendszer választása."
 
 #
 msgid "Choose A/V-Receiver HDMI input:"
-msgstr ""
+msgstr "A/V-Receiver HDMI bemenet választása:"
 
 #
 msgid "Choose TV HDMI input:"
-msgstr ""
+msgstr "TV HDMI bemenet választása:"
 
 #
 msgid "Choose Tuner"
@@ -1936,7 +1988,7 @@ msgstr "Válasszon Tuner-t"
 
 #
 msgid "Choose a timer list style"
-msgstr ""
+msgstr "Válasszon egy időzítő lista stílust"
 
 #
 msgid "Choose a wireless network"
@@ -1956,11 +2008,11 @@ msgstr "Bouquet kiválasztása"
 
 #
 msgid "Choose folder"
-msgstr ""
+msgstr "Válasszony mappát"
 
 #
 msgid "Choose remote control picture for help screen"
-msgstr ""
+msgstr "Válasszon egy távkapcsoló képet a Segítség képernyőhöz"
 
 #
 msgid "Choose target folder"
@@ -2024,7 +2076,7 @@ msgstr "Színformátum"
 
 #
 msgid "Colorize movie list"
-msgstr ""
+msgstr "Filmlista színezése"
 
 #
 msgid "Command execution..."
@@ -2077,7 +2129,7 @@ msgstr "Konfigurációs mód"
 
 #
 msgid "Configuration your AP is finished"
-msgstr ""
+msgstr "AP konfigurációja befejeződött"
 
 #
 msgid "Configure interface"
@@ -2133,7 +2185,7 @@ msgstr "Folytatás"
 
 #
 msgid "Continue Timeshift"
-msgstr ""
+msgstr "Időcsúsztatás folytatása"
 
 #
 msgid "Continue in background"
@@ -2149,7 +2201,7 @@ msgstr "Kontraszt"
 
 #
 msgid "Copy"
-msgstr ""
+msgstr "Másolás"
 
 #
 msgid "Could not load Medium! No disc inserted?"
@@ -6623,7 +6675,7 @@ msgstr "Beállítási mód"
 
 #
 msgid "Setup mode"
-msgstr ""
+msgstr "Beállítási mód"
 
 #
 msgid "Setup picon directory for service list"
@@ -7248,11 +7300,11 @@ msgstr ""
 
 #
 msgid "TV power off:"
-msgstr ""
+msgstr "TV kikapcsolása:"
 
 #
 msgid "TV power on:"
-msgstr ""
+msgstr "TV bekapcsolása:"
 
 #
 msgid "TV standby => VU+ activity:"
@@ -22924,18 +22976,21 @@ msgid ""
 "\n"
 "Do you want to restart it now?"
 msgstr ""
+"Enigma2 lejátszási rendszer módosítva lett és újra kéne indítani\n"
+"\n"
+"Újraindíthatom most?"
 
 #
 msgid "setup player framework"
-msgstr ""
+msgstr "lejátszó keretrendszer beállítása"
 
 #
 msgid "Play with ServiceExtEplayer3"
-msgstr ""
+msgstr "Lejátszás ezzel: ServiceExtEplayer3"
 
 #
 msgid "Play with ServiceGstPlayer"
-msgstr ""
+msgstr "Lejátszás ezzel: ServiceGstPlayer"
 
 #
 msgid "ServiceApp"
@@ -22943,55 +22998,55 @@ msgstr ""
 
 #
 msgid "Dolby Digital+ (AC3+) default"
-msgstr ""
+msgstr "Dolby Digital+ (AC3+) alapértelmezett"
 
 #
 msgid "Automatic Audio/Subtitle track selection"
-msgstr ""
+msgstr "Automatikus Hang/Feliratsáv"
 
 #
 msgid "First audio language"
-msgstr ""
+msgstr "Elsődleges előnyben részesített hangsáv"
 
 #
 msgid "Second audio language"
-msgstr ""
+msgstr "Másodlagos előnyben részesített hangsáv"
 
 #
 msgid "Third audio language"
-msgstr ""
+msgstr "Harmadlagos előnyben részesített hangsáv"
 
 #
 msgid "Fourth audio language"
-msgstr ""
+msgstr "Negyedleges előnyben részesített hangsáv"
 
 #
 msgid "Use selected audio track stored per service"
-msgstr ""
+msgstr "A hangsáv választás mentése csatornánként"
 
 #
 msgid "First subtitle language"
-msgstr ""
+msgstr "Elsődleges felirat nyelve"
 
 #
 msgid "Second subtitle language"
-msgstr ""
+msgstr "Másodlagos felirat nyelv"
 
 #
 msgid "Third subtitle language"
-msgstr ""
+msgstr "Harmadlagos felirat nyelv"
 
 #
 msgid "Fourth subtitle language"
-msgstr ""
+msgstr "Negyedleges felirat nyelv"
 
 #
 msgid "Allow subtiles with same language as audio language"
-msgstr ""
+msgstr "Azonos nyelvű hangsáv és feliratok engedélyezése"
 
 #
 msgid "Allow auto select hearing impaired subtitles"
-msgstr ""
+msgstr "Hallássérülteknek szánt feliratok engedélyezés"
 
 #
 msgid "Default auto select hearing impaired subtitles"
@@ -22999,51 +23054,51 @@ msgstr ""
 
 #
 msgid "Prefer DVB subtitles"
-msgstr ""
+msgstr "DVB feliratok előnyben részesítése"
 
 #
 msgid "Use selected subtitle track stored per service"
-msgstr ""
+msgstr "A kiválasztott feliratsáv mentése szolgáltatásonként."
 
 #
 msgid "Setup - Audio/Subtitle tracks"
-msgstr ""
+msgstr "Beállítás - Hang/Feliratsávok"
 
 #
 msgid "HDMI Colordepth"
-msgstr ""
+msgstr "HDMI színmélység"
 
 #
 msgid "Set bluetooth audio delay."
-msgstr ""
+msgstr "Bluetooth hang késleltetésének beállítása."
 
 #
 msgid "Please enter a name for the HDMI IN service"
-msgstr ""
+msgstr "Adjon meg egy nevet a HDMI IN szolgáltatásnak"
 
 #
 msgid "add HDMI IN to bouquet"
-msgstr ""
+msgstr "HDMI IN hozzáadása a bouquetekhez"
 
 #
 msgid "add HDMI IN to favourites"
-msgstr ""
+msgstr "HDMI IN hozzáadása a kedvencekhez"
 
 #
 msgid "Ask for timer type when Autotimer is installed"
-msgstr ""
+msgstr "Kérdezzen az Időzítő típusára, ha az Autotimer telepítve van"
 
 #
 msgid "Enable HbbTV for streaming services"
-msgstr ""
+msgstr "HbbTV engedélyezése streaming szolgáltatásoknál"
 
 #
 msgid "Mount process"
-msgstr ""
+msgstr "Meghajtó csatlakoztatása"
 
 #
 msgid "Classic mount"
-msgstr ""
+msgstr "Klasszikus csatlakozás"
 
 #
 msgid "AutoFS"
@@ -23051,135 +23106,139 @@ msgstr ""
 
 #
 msgid "Disable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "HDMI-IN tiltása a főképernyőn"
 
 #
 msgid "Enable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "HDMI-IN engedélyezése a főképernyőn"
 
 #
 msgid "Disable HDMI-IN on PIP"
-msgstr ""
+msgstr "HDMI-IN tiltása a PIP-nél"
 
 #
 msgid "Enable HDMI-IN on PIP"
-msgstr ""
+msgstr "HDMI-IN engedélyezése a PIP-nél"
 
 #
 msgid "Use cross down for showing timeshift events"
-msgstr ""
+msgstr "Használja a lefelé nyilat az időcsúsztatás eseményeinek megjelenítéséhez"
 
 #
 msgid "Driver is not supported."
-msgstr ""
+msgstr "Nem támogatott meghajtó"
 
 #
 msgid "Vu+ %s Misc. Control"
-msgstr ""
+msgstr "Vu+ %s egyéb beállítások"
 
 #
 msgid "set Vu+ %s LNB Power and etc.."
-msgstr ""
+msgstr "Vu+ %s LNB feszültség és egyebek beállítása"
 
 #
 msgid "Scanning bluetooth devices"
-msgstr ""
+msgstr "Bluetooth eszközök keresése"
 
 #
 msgid "Scanning BLE bluetooth devices"
-msgstr ""
+msgstr "BLE bluetooth eszközök keresése"
 
 #
 msgid "Start scan"
-msgstr ""
+msgstr "Keresés indítása"
 
 #
 msgid "Press green key to connect device."
-msgstr ""
+msgstr "Nyomja meg a zöld gombot, hogy csatlakoztassa a készüléket."
 
 #
 msgid "No nearby bluetooth devices were found."
-msgstr ""
+msgstr "Nem található a közelben Bluetooth-eszköz."
 
 #
 msgid "%s is connected."
-msgstr ""
+msgstr "%s csatlakoztatva"
 
 #
 msgid "Pairing fail"
-msgstr ""
+msgstr "Párosítás sikertelen"
 
 #
 msgid "Can't communicate with %s"
-msgstr ""
+msgstr "Sikertelen kommunikáció %s"
 
 #
 msgid "Abort scan"
-msgstr ""
+msgstr "Keresés megszakítása"
 
 #
 msgid ""
 "Pairing Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Párosítás sikertelen.\n"
+"Egy másik hang eszköz van csatlakoztatva. (%s)"
 
 #
 msgid "Pairing %s"
-msgstr ""
+msgstr "Párosítás %s"
 
 #
 msgid "Pairing %s failed!!"
-msgstr ""
+msgstr "%s párosítás sikertelen"
 
 #
 msgid "Discovery"
-msgstr ""
+msgstr "Felfedezés"
 
 #
 msgid "Device is disabling..."
-msgstr ""
+msgstr "Eszköz tiltása.."
 
 #
 msgid "Device is enabling..."
-msgstr ""
+msgstr "Eszköz engedélyezése.."
 
 #
 msgid "disconnecting %s"
-msgstr ""
+msgstr "%s lecsatlakoztatása"
 
 #
 msgid "disconnecting %s failed!!"
-msgstr ""
+msgstr "%s lecsatlakoztatása sikertelen"
 
 #
 msgid ""
 "Connection Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Sikertelen csatlakozás.\n"
+"Egy másik hang eszköz van csatlakoztatva. (%s)"
 
 #
 msgid "connecting %s failed!!"
-msgstr ""
+msgstr "%s csatlakozás sikertelen!!"
 
 #
 msgid "connecting %s"
-msgstr ""
+msgstr "csatlakozás %s"
 
 #
 msgid "remove %s failed!!"
-msgstr ""
+msgstr "%s eltávolítása sikertelen!!"
 
 #
 msgid "%s is disconnected."
-msgstr ""
+msgstr "%s leválasztva."
 
 #
 msgid "Bluetooth Setup"
-msgstr ""
+msgstr "Bluetooth beállítás"
 
 #
 msgid "Configure Bluetooth devices"
-msgstr ""
+msgstr "Bluetooth eszközök beállítása"
 
 #
 msgid "type : %s"
@@ -23191,19 +23250,19 @@ msgstr ""
 
 #
 msgid "Connected"
-msgstr ""
+msgstr "Csatlakoztatva"
 
 #
 msgid "Disconnected"
-msgstr ""
+msgstr "Nincs csatlakoztatva"
 
 #
 msgid "is connected."
-msgstr ""
+msgstr "csatlakoztatva."
 
 #
 msgid "is disconnected."
-msgstr ""
+msgstr "leválasztva"
 
 #
 msgid "Bluetooth Discovery"
