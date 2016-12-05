@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-09-20 15:47+0100\n"
+"PO-Revision-Date: 2016-12-02 12:13+0100\n"
 "Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -678,7 +678,7 @@ msgstr ""
 
 #
 msgid "A graphical EPG for all services of an specific bouquet"
-msgstr "Grafické EPG pre všetky stanice určitého buketu"
+msgstr "Grafické EPG pre všetky stanice určitých obľúbených"
 
 #
 #, python-format
@@ -874,7 +874,7 @@ msgstr "Pridať titul"
 
 #
 msgid "Add to bouquet"
-msgstr "Pridať do buketu"
+msgstr "Pridať do obľúbených"
 
 #
 msgid "Add to favourites"
@@ -1241,7 +1241,7 @@ msgstr "Funkcia tlačidla Pauza počas pauzy"
 
 #
 msgid "Behavior of 0 key in PiP-mode"
-msgstr "Funkcia tlačidla 0 v režime obraz v obraze"
+msgstr "Funkcia tlačidla 0 v režime PIP"
 
 #
 msgid "Behavior when a movie is started"
@@ -1515,7 +1515,7 @@ msgstr "Názov kategórie"
 
 #
 msgid "Change bouquets in quickzap"
-msgstr "Zmeniť bukety pri rýchlom prepínaní"
+msgstr "Zmeniť obľúbené pri rýchlom prepínaní"
 
 #
 msgid "Change pin code"
@@ -1619,7 +1619,7 @@ msgstr "Zvoliť umiestnenie zálohy"
 
 #
 msgid "Choose bouquet"
-msgstr "Zvoliť buket"
+msgstr "Zvoliť obľúbené"
 
 #
 msgid "Choose folder"
@@ -2214,7 +2214,7 @@ msgstr "Vypnúť automatickú aktualizáciu zoznamu staníc"
 
 #
 msgid "Disable infobar timeout for ok button"
-msgstr ""
+msgstr "Zrušiť časovanie ínfolišty po stlačení tlačidla OK"
 
 #
 msgid "Disable timer"
@@ -2222,7 +2222,7 @@ msgstr "Vypnúť časovač"
 
 #
 msgid "Disable tuner failure popup"
-msgstr ""
+msgstr "Vypnúť chybové hlásenie tunera"
 
 #
 msgid "Disabled"
@@ -2405,7 +2405,7 @@ msgstr "Chcete pokračovať v prehrávaní?"
 
 #
 msgid "Do you want to set selected url to the Startpage?"
-msgstr ""
+msgstr "Chcete použiť zvolenú URL na úvodnú stranu?"
 
 #
 msgid "Do you want to shut down?"
@@ -2557,7 +2557,7 @@ msgstr "Upraviť titul"
 
 #
 msgid "Edit bouquets list"
-msgstr "Upraviť zoznam buketov"
+msgstr "Upraviť zoznam obľúbených"
 
 #
 msgid "Edit chapters of current title"
@@ -2625,7 +2625,7 @@ msgstr "Aktivovať nastavenia pohot. režimu"
 
 #
 msgid "Enable TeleText caching"
-msgstr ""
+msgstr "Zapnúť pamäť pre teletext"
 
 #
 msgid "Enable autostart for HbbTV browser"
@@ -2641,7 +2641,7 @@ msgstr "Zapnúť kontrolu pripojenia pre HDD"
 
 #
 msgid "Enable multiple bouquets"
-msgstr "Zapnúť viacnásobné bukety"
+msgstr "Zapnúť viacnásobné obľúbené"
 
 #
 msgid "Enable parental control"
@@ -2725,7 +2725,7 @@ msgstr "Zadajte PIN stanice"
 
 #
 msgid "Enter your input data"
-msgstr ""
+msgstr "Zadajte svoje údaje"
 
 #
 msgid "Error"
@@ -2859,7 +2859,7 @@ msgstr "SÚBOR NEEXISTUJE: /proc/stb/fp/remote_code"
 
 #
 msgid "FLASH IS BROKEN"
-msgstr ""
+msgstr "Pamäť flash je poškodená"
 
 #
 msgid "FPGA"
@@ -5038,7 +5038,7 @@ msgstr "Sem zadajte URL"
 
 #
 msgid "Please enter a name for the new bouquet"
-msgstr "Zadajte názov nového buketu."
+msgstr "Zadajte názov nových obľúbených."
 
 #
 msgid "Please enter a name for the new marker"
@@ -6328,7 +6328,7 @@ msgstr "Stanica bola pridaná do obľúbených"
 
 #
 msgid "Service has been added to the selected bouquet."
-msgstr "Stanica bola pridaná do zvoleného buketu"
+msgstr "Stanica bola pridaná do zvolených obľúbených."
 
 #
 msgid ""
@@ -6497,7 +6497,7 @@ msgstr "Zobraziť informácie ECM"
 
 #
 msgid "Show EPG data in single EPG list older than"
-msgstr ""
+msgstr "V jednoduchom EPG zobraziť aj údaje staršie než"
 
 #
 msgid "Show Info"
@@ -6509,7 +6509,7 @@ msgstr "Zobraziť správu pri začatí nahrávania."
 
 #
 msgid "Show Now/Next EIT EPG at InfoBar"
-msgstr ""
+msgstr "Zobraziť aktuálny/nasledujúci program v infolište"
 
 #
 msgid "Show WLAN Status"
@@ -6569,7 +6569,7 @@ msgstr "Zobraziť v menu vypínania"
 
 #
 msgid "Show picon at number zap"
-msgstr ""
+msgstr "Zobraziť logo stanice pri prepnutí čís. tlačidlom"
 
 #
 msgid "Show picons in service list"
@@ -6593,7 +6593,7 @@ msgstr "Pri prepínaní TV--Rádio zobraziť zoznam staníc"
 
 #
 msgid "Show service name at number zap"
-msgstr ""
+msgstr "Zobraziť názov stanice pri prepnutí čís. tlačidlom"
 
 #
 msgid "Show service number in service list"
@@ -6633,7 +6633,7 @@ msgstr "Zobraziť ikonu časovača pri staniciach, ktoré sa nahrávajú"
 
 #
 msgid "Show zap notification for recordings"
-msgstr ""
+msgstr "Oznámiť prepnutie pre nahrávanie"
 
 #
 msgid "Shows the state of your wireless LAN connection.\n"
@@ -6755,6 +6755,8 @@ msgid ""
 "Smart Card 1 Error!\n"
 "errorcode=%d"
 msgstr ""
+"Chyba Smart Card 1!\n"
+"Kód chyby=%d"
 
 #
 #, python-format
@@ -6762,14 +6764,16 @@ msgid ""
 "Smart Card 2 Error!\n"
 "errorcode=%d"
 msgstr ""
+"Chyba Smart Card 2!\n"
+"Kód chyby=%d"
 
 #
 msgid "Smart Card OK!!"
-msgstr ""
+msgstr "Smart Card OK."
 
 #
 msgid "Smart Card model type error"
-msgstr ""
+msgstr "Nepodporovaný typ Smart Card"
 
 #
 msgid "Software"
@@ -7157,7 +7161,7 @@ msgstr "Otestovať sieťovú konfiguráciu VU+.\n"
 
 #
 msgid "Testing Smartcard 2..."
-msgstr ""
+msgstr "Test Smartcard 2..."
 
 #
 msgid ""
@@ -7276,7 +7280,7 @@ msgstr ""
 
 #
 msgid "The loopthrough setting is wrong."
-msgstr ""
+msgstr "Nastavenie slučky je chybné."
 
 #
 msgid "The number you entered is wrong!"
@@ -7367,13 +7371,15 @@ msgstr "Nie sú dostupné žiadne aktualizácie."
 
 #
 msgid "There is NO valid USB-stick found, so I've got nothing to do."
-msgstr ""
+msgstr "Nenájdený použiteľný kľúč USB."
 
 #
 msgid ""
 "There is a valid USB-flashdrive detected in one of the USB-ports, therefore "
 "an extra copy of the back-up image will now be copied to that USB-flashdrive."
 msgstr ""
+"V jednom z portov USB bol zistený platný kľúč USB, preto sa jedna záloha "
+"image nakopíruje doň."
 
 #
 msgid ""
@@ -7410,11 +7416,11 @@ msgstr "VU+ nemôže dekódovať streamy %s!"
 
 #
 msgid "This is dlna server using minidlna."
-msgstr ""
+msgstr "Modul DLNA pre server minidlna."
 
 #
 msgid "This is dlna/upnp client using djmount."
-msgstr ""
+msgstr "Modul DLNA/UPNP pre djmount."
 
 #
 msgid "This is step number 2."
@@ -7571,7 +7577,7 @@ msgstr "Čas"
 
 #
 msgid "Time for next VFD scrolling"
-msgstr ""
+msgstr "Čas pre ďalšie rolovanie VFD"
 
 #
 msgid "Time required for this process: "
@@ -7583,7 +7589,7 @@ msgstr "Nastavenie dátumu a času"
 
 #
 msgid "Timeout for number zap in milliseconds"
-msgstr ""
+msgstr "Doba na prepnutie čísel. tlačidlom v ms"
 
 #
 msgid "Timer Edit"
@@ -7695,15 +7701,15 @@ msgstr "Nástroje"
 
 #
 msgid "Top"
-msgstr ""
+msgstr "Hore"
 
 #
 msgid "Top and Bottom"
-msgstr ""
+msgstr "Hore a dolu"
 
 #
 msgid "Touch LED Blinking time"
-msgstr ""
+msgstr "Doba blikania LED"
 
 #
 msgid "Touch LED Brightness at Deep Standby"
@@ -8208,7 +8214,7 @@ msgstr "Ovládač VFD"
 
 #
 msgid "VFD scroll speed"
-msgstr ""
+msgstr "Rýchlosť rolovania VFD"
 
 #
 msgid "VMGM (intro trailer)"
@@ -8527,7 +8533,7 @@ msgid ""
 "Really do a factory reset?"
 msgstr ""
 "Keď resetujete na továrenské nastavenia, stratíte všetky konfiguračné dáta\n"
-"(vrátane buketov, staníc, údajov o satelitoch...)\n"
+"(vrátane obľúbených, staníc, údajov o satelitoch...)\n"
 "Po skončení prechodu na továrenské nastavenia sa prijímač automaticky "
 "reštartuje!\n"
 "\n"
@@ -8897,7 +8903,7 @@ msgstr "[úprava alternatív]"
 
 #
 msgid "[bouquet edit]"
-msgstr "[úprava buketu]"
+msgstr "[úprava obľúbených]"
 
 #
 msgid "[favourite edit]"
@@ -8921,7 +8927,7 @@ msgstr "zrušiť úpravu alternatív"
 
 #
 msgid "abort bouquet edit"
-msgstr "zrušiť úpravu buketu"
+msgstr "zrušiť úpravu obľúbených"
 
 #
 msgid "abort favourites edit"
@@ -8961,7 +8967,7 @@ msgstr "pridať záložku"
 
 #
 msgid "add bouquet"
-msgstr "pridať buket"
+msgstr "pridať obľúbené"
 
 #
 msgid "add directory to playlist"
@@ -8997,7 +9003,7 @@ msgstr "pridať nahrávanie (zastaviť po aktuálnom programe)"
 
 #
 msgid "add service to bouquet"
-msgstr "pridať stanicu do buketu"
+msgstr "pridať stanicu do obľúbených"
 
 #
 msgid "add service to favourites"
@@ -9075,11 +9081,11 @@ msgstr "farba pozadia"
 
 #
 msgid "backupstick or"
-msgstr ""
+msgstr "zálohovací kľúč alebo"
 
 #
 msgid "backupstick.txt"
-msgstr ""
+msgstr "backupstick.txt"
 
 #
 msgid "better"
@@ -9181,7 +9187,7 @@ msgstr "Kopírovať: %s"
 
 #
 msgid "copy to bouquets"
-msgstr "skopírovať do buketov"
+msgstr "skopírovať do obľúbených"
 
 #
 msgid "create directory"
@@ -9291,7 +9297,7 @@ msgstr "zapnúť"
 
 #
 msgid "enable bouquet edit"
-msgstr "zapnúť úpravu buketu"
+msgstr "zapnúť úpravu obľúbených"
 
 #
 msgid "enable favourite edit"
@@ -9311,7 +9317,7 @@ msgstr "skončiť úpravu alternatív"
 
 #
 msgid "end bouquet edit"
-msgstr "skončiť úpravu buketu"
+msgstr "skončiť úpravu obľúbených"
 
 #
 msgid "end cut here"
@@ -9857,7 +9863,7 @@ msgstr "odstrániť všetky značky pre novonájdené"
 
 #
 msgid "remove all services without bouquet entry"
-msgstr "odstrániť všetky stanice nezadané v buketoch"
+msgstr "odstrániť všetky stanice nezadané v obľúbených"
 
 #
 msgid "remove before this position"
@@ -9901,7 +9907,7 @@ msgstr "opakované"
 
 #
 msgid "reset play progress"
-msgstr ""
+msgstr "označiť ako nezhliadnuté"
 
 #
 msgid "reverse"
@@ -10078,7 +10084,7 @@ msgstr "zobraziť menu vypnutia"
 
 #
 msgid "show single service EPG..."
-msgstr "zobraziť jednoduché EPG..."
+msgstr "zobraziť jednoduchý EPG..."
 
 #
 msgid "show tag menu"
@@ -10110,19 +10116,19 @@ msgstr "jednoduché"
 
 #
 msgid "skip backward"
-msgstr "skok vzad"
+msgstr "Skok vzad"
 
 #
 msgid "skip backward (enter time)"
-msgstr "skok vzad (zadajte čas)"
+msgstr "Skok vzad (zadajte čas)"
 
 #
 msgid "skip forward"
-msgstr "skok vpred"
+msgstr "Skok vpred"
 
 #
 msgid "skip forward (enter time)"
-msgstr "skok vpred (zadajte čas)"
+msgstr "Skok vpred (zadajte čas)"
 
 #
 msgid "slide picture in loop"
@@ -10134,7 +10140,7 @@ msgstr "pomaly"
 
 #
 msgid "sort"
-msgstr "Zoradiť"
+msgstr "Poradie"
 
 #
 msgid "sort by date"
@@ -10166,7 +10172,7 @@ msgstr "Spustiť webový prehľadávač Opera"
 
 #
 msgid "start timeshift"
-msgstr "začať časový posun"
+msgstr "Začať časový posun"
 
 #
 msgid "start web browser"
@@ -10194,7 +10200,7 @@ msgstr "zastaviť nahrávanie"
 
 #
 msgid "stop timeshift"
-msgstr "zastaviť časový posun"
+msgstr "Zastaviť časový posun"
 
 #
 msgid "swap PiP and main picture"
@@ -10250,7 +10256,7 @@ msgstr "prepnúť informácie o čase, kapitole, zvuku a podtitulkoch"
 
 #
 msgid "top"
-msgstr ""
+msgstr "hore"
 
 #
 msgid "tuner is not supported"
@@ -10299,11 +10305,11 @@ msgstr "ladenie obrazu"
 
 #
 msgid "view extensions..."
-msgstr "zobraziť rozšírenia..."
+msgstr "Zobraziť rozšírenia..."
 
 #
 msgid "view recordings..."
-msgstr "zobraziť nahrávky..."
+msgstr "Zobraziť nahrávky..."
 
 #
 msgid "wait for ci..."
@@ -10417,7 +10423,7 @@ msgstr "Najprv musíte zastaviť prehrávanie filmu."
 
 #
 msgid "Use preview mode in service list (2x OK mode)"
-msgstr ""
+msgstr "Režim náhľadu v zozname staníc (2x OK)"
 
 #
 msgid "Show EPG data in timer list"
@@ -10601,7 +10607,7 @@ msgstr "Hľadať aktualizácie každých X hodín ( 0 = vyp.)"
 
 #
 msgid "Append begin date at end of recording file name"
-msgstr ""
+msgstr "Pridať dátum na koniec názvu nahrávky"
 
 #
 msgid "Protect main menu"
@@ -10671,6 +10677,10 @@ msgid ""
 "Reboot now ?\n"
 "\n"
 msgstr ""
+"Mali by ste reštartovať VU+, aby sa aktivoval režim AP prístroja ralink.\n"
+"\n"
+"Reštartovať teraz?\n"
+"\n"
 
 #
 msgid ""
@@ -10680,6 +10690,11 @@ msgid ""
 "Reboot now ?\n"
 "\n"
 msgstr ""
+"Mali by ste reštartovať VU+, aby bol lepší výkon zariadenia ralink v režime "
+"STA.\n"
+"\n"
+"Reštartovať teraz?\n"
+"\n"
 
 #
 msgid "Multichannel PCM"
@@ -10767,7 +10782,7 @@ msgstr "Predvolený režim prehrávania"
 
 #
 msgid "Shuffle play"
-msgstr ""
+msgstr "Náhodné prehrávanie"
 
 #
 msgid "Play all"
@@ -10787,7 +10802,7 @@ msgstr "Nadol"
 
 #
 msgid "Select key"
-msgstr ""
+msgstr "Zvoliť tlačidlo"
 
 #
 msgid "Move cursor left"
@@ -10811,7 +10826,7 @@ msgstr "Prepnúť rozloženie klávesnice"
 
 #
 msgid "Toggle SHIFT mode"
-msgstr ""
+msgstr "Prepnúť režim SHIFT"
 
 #
 msgid "Move to begin"
@@ -10915,11 +10930,11 @@ msgstr ""
 
 #
 msgid "Use extended PictureInGraphic (PiG + transparent skin)"
-msgstr ""
+msgstr "Použiť rozšírený PictureInGraphic (PiG + priehľadný vzhľad)"
 
 #
 msgid "Use extended PiG also in service list"
-msgstr ""
+msgstr "Rozšírený PiG použiť aj v zozname staníc"
 
 #
 msgid "toggle zap focus"
@@ -10927,7 +10942,7 @@ msgstr ""
 
 #
 msgid "Behavior of 0 key (double-click) in PiP-mode"
-msgstr "Funkcia tlačidla 0 (dvojité kliknutie) v režime obraz v obraze"
+msgstr "Funkcia tlačidla 0 (dvojité kliknutie) v režime PIP"
 
 #
 msgid "Default function for 0 key (double-click)"
@@ -10971,7 +10986,7 @@ msgstr "nie je zvolená položka"
 
 #
 msgid "reset play progress of selected items"
-msgstr ""
+msgstr "zvolené položky označiť ako nezhliadnuté"
 
 #
 msgid "disable select mode"
@@ -11018,6 +11033,8 @@ msgid ""
 "Delete failed, because there is no movie trash !\n"
 "Disable movie trash in configuration to delete this item"
 msgstr ""
+"Odstránenie zlyhalo, lebo nie je kôš!\n"
+"Na odstránenie tejto položky treba vypnúť kôš."
 
 #
 msgid "Do you really want to delete the movie trash of this device ?"
@@ -11081,7 +11098,7 @@ msgstr "Pridať okamžitý časovač"
 
 #
 msgid "Switch between views"
-msgstr ""
+msgstr "Prepnúť zobrazenie"
 
 #
 msgid "Enter Prime Time"
@@ -11089,11 +11106,11 @@ msgstr "Zadať hlavný vysielací čas"
 
 #
 msgid "Next Bouquet"
-msgstr "Ďalší buket"
+msgstr "Ďalšie obľúbené"
 
 #
 msgid "Previous Bouquet"
-msgstr "Predchádzajúci buket"
+msgstr "Predchádzajúce obľúbené"
 
 #
 msgid "Jump Day forward"
@@ -11173,7 +11190,7 @@ msgstr "Hľadanie EPG"
 
 #
 msgid "Toggle clock / bars view for timer"
-msgstr ""
+msgstr "Prepnúť hodiny/priebeh pre časovač"
 
 #
 msgid "Disable Animations"
@@ -11185,11 +11202,11 @@ msgstr "jednoduché stmievanie"
 
 #
 msgid "Grow drop"
-msgstr ""
+msgstr "Nárast zhora"
 
 #
 msgid "Grow from left"
-msgstr ""
+msgstr "Nárast zľava"
 
 #
 msgid "Popup"
@@ -11197,15 +11214,15 @@ msgstr ""
 
 #
 msgid "Slide drop"
-msgstr ""
+msgstr "Sklz nadol"
 
 #
 msgid "Slide left to right"
-msgstr ""
+msgstr "Sklz zľava doprava"
 
 #
 msgid "Slide top to bottom"
-msgstr ""
+msgstr "Sklz zhora nadol"
 
 #
 msgid "Stripes"
@@ -11237,11 +11254,11 @@ msgstr "Nastavenie animácií užív. rozhrania"
 
 #
 msgid "start xbmc mediacenter"
-msgstr ""
+msgstr "Spustiť XBMC"
 
 #
 msgid "XBMC Launcher"
-msgstr ""
+msgstr "Spustiť XBMC"
 
 #
 msgid "Do you really want to disable timer:"
@@ -11285,7 +11302,7 @@ msgstr "Kód PIN bol úspešne uložený."
 
 #
 msgid "Enable ZAP history menu"
-msgstr ""
+msgstr "Zapnúť menu histórie staníc (tl. EXIT)"
 
 #
 msgid "Zap History"
@@ -11293,11 +11310,11 @@ msgstr "História prepínania"
 
 #
 msgid "Use folder based configuration (list / sort type)"
-msgstr ""
+msgstr "Použiť nastavenia (zoznam/triedenie) podľa adresára"
 
 #
 msgid "Protect movies and directories"
-msgstr ""
+msgstr "Chrániť nahrávky a adresáre"
 
 #
 msgid "Change movie / directory PIN"
@@ -11324,19 +11341,19 @@ msgstr ""
 
 #
 msgid "Protect deleting of movies"
-msgstr ""
+msgstr "Ochrana pred zmazaním filmu"
 
 #
 msgid "Change movie-delete PIN"
-msgstr ""
+msgstr "Zmeniť PIN na zmazanie filmu"
 
 #
 msgid "Remember movie-delete PIN"
-msgstr ""
+msgstr "Zapamätať PIN na zmazanie filmu"
 
 #
 msgid "movie-delete PIN"
-msgstr ""
+msgstr "PIN na zmazanie filmu"
 
 #
 msgid ""
@@ -11344,6 +11361,9 @@ msgid ""
 "Do you like to change the movie-delete PIN now?\n"
 "When you say 'No' here the movie / directory protection stay disabled!"
 msgstr ""
+"Nenájdený platný PIN na zmazanie filmu!\n"
+"Chcete teraz zmeniť PIN na zmazanie filmu?\n"
+"Ak zvolíte „Nie“, ochrana pred zmazaním filmu zostane deaktivovaná!"
 
 #
 msgid "Reset movie-delete PIN cache"
@@ -11371,7 +11391,7 @@ msgstr "Pridať autočasovač"
 
 #
 msgid "TMDb Infos"
-msgstr ""
+msgstr "TMDb Info"
 
 #
 msgid "Could not connect to server"
@@ -11687,7 +11707,7 @@ msgstr "Zobraziť info o adresári"
 
 #
 msgid "Show new movies in folder info"
-msgstr ""
+msgstr "Zobraziť nové filmy v informácii o adresároch"
 
 #
 msgid "Show sub directories in folder info"
@@ -11707,15 +11727,15 @@ msgstr "Zobraziť hlásenia CI"
 
 #
 msgid "Show only new movies in folder info"
-msgstr ""
+msgstr "Zobraziť len nové filmy v informácii o adresároch"
 
 #
 msgid "Sort folders by new items"
-msgstr ""
+msgstr "Triediť adresáre podľa nových položiek"
 
 #
 msgid "Behavior when Live TV event changes during timeshift"
-msgstr ""
+msgstr "Ak sa program Live TV zmení počas časového posunu"
 
 #
 msgid "Ask before stopping timeshift"
@@ -11787,43 +11807,43 @@ msgstr "Pokračovať v časovom posune"
 
 #
 msgid "split & keep"
-msgstr ""
+msgstr "rozdeliť a zachovať"
 
 #
 msgid "split & delete"
-msgstr ""
+msgstr "rozdeliť a zmazať"
 
 #
 msgid "stop & keep"
-msgstr ""
+msgstr "zastaviť a zachovať"
 
 #
 msgid "stop & delete"
-msgstr ""
+msgstr "zastaviť a zmazať"
 
 #
 msgid "Live TV event changed"
-msgstr ""
+msgstr "Program Live TV sa zmenil"
 
 #
 msgid "Save old event and continue timeshift"
-msgstr ""
+msgstr "Uložiť starý program a pokračovať v časovom posune"
 
 #
 msgid "Delete old event and continue timeshift"
-msgstr ""
+msgstr "Zmazať starý program a pokračovať v časovom posune"
 
 #
 msgid "Save old event and stop timeshift"
-msgstr ""
+msgstr "Uložiť starý program a zastaviť časový posun"
 
 #
 msgid "Delete old event and stop timeshift"
-msgstr ""
+msgstr "Zmazať starý program a zastaviť časový posun"
 
 #
 msgid "seek to timeshift end (Live TV)"
-msgstr ""
+msgstr "Skok na koniec časového posunu (Live TV)"
 
 #
 msgid "delete timeshift file"
@@ -11835,7 +11855,7 @@ msgstr "zachovať súbor časového posunu"
 
 #
 msgid "Behavior when a service changes during timeshift"
-msgstr "Činnosť pri zmene stanice počas časového posunu"
+msgstr "Pri zmene stanice počas časového posunu"
 
 #
 msgid "Delete timeshift files older than X days"
@@ -11847,11 +11867,11 @@ msgstr "Hľadať staré súbory časového posunu každých X hodín (0 = vyp.)"
 
 #
 msgid "Bars view for timer"
-msgstr ""
+msgstr "Prúžkový údaj časovača"
 
 #
 msgid "Time frame of entries in minutes"
-msgstr ""
+msgstr "Časový rozsah položiek v minútach"
 
 #
 msgid "Set jump time in hours"
@@ -11903,7 +11923,7 @@ msgstr "Aktivovať protokol ladenia"
 
 #
 msgid "File (loop)"
-msgstr ""
+msgstr "Súbor (slučka)"
 
 #
 msgid "Console & File (loop)"
@@ -11915,7 +11935,7 @@ msgstr "Tlačidlami predch./nasl. prepínať udalosti časového posunu"
 
 #
 msgid "Avoid simultaneous timer starts"
-msgstr ""
+msgstr "Zabrániť súčasným štartom časovačov"
 
 #
 msgid "Please select timeshift file"
@@ -12008,7 +12028,7 @@ msgstr ""
 "Teraz môžete použiť VTi ZerO na odstránenie balíčkov, ktoré nepotrebujete.\n"
 "\n"
 "Môžete použiť aj VTi BackupSuite na obnovenie predtým uložených nastavení, "
-"modulov alebo obľúbených buketov."
+"modulov alebo obľúbených."
 
 #
 msgid "Next step"
@@ -12042,7 +12062,7 @@ msgstr "Stanica +"
 
 #
 msgid "Show favourite list with bouquet button"
-msgstr "Zobraziť zoznam obľúbených tlačidlom buketov"
+msgstr "Zobraziť zoznam obľúbených tlačidlom obľúbené"
 
 #
 msgid "Use channel +/- buttons for channel zap"
@@ -12074,7 +12094,7 @@ msgstr "Nastavenie softvéru"
 
 #
 msgid "Please press EPG/Info key for detailed error description"
-msgstr ""
+msgstr "Podrobný opis chyby získate stlačením tlačidla EPG/Info"
 
 #
 msgid "Subtitle settings"
@@ -12090,7 +12110,7 @@ msgstr "Veľkosť písma titulkov"
 
 #
 msgid "Subtitle padding Y"
-msgstr ""
+msgstr "Zväčšenie riadkovania titulkov"
 
 #
 msgid "Background color"
@@ -12102,11 +12122,11 @@ msgstr "Priehľadnosť pozadia"
 
 #
 msgid "Character edge style"
-msgstr ""
+msgstr "Štýl znakov"
 
 #
 msgid "Character style level"
-msgstr ""
+msgstr "Úroveň štýlu znakov"
 
 #
 msgid "Subtitle text transparency"
@@ -12130,19 +12150,19 @@ msgstr "Vystrediť titulky DVB"
 
 #
 msgid "Rewrap subtitles"
-msgstr ""
+msgstr "Zalomiť titulky"
 
 #
 msgid "Subtitle delay when timing lacks"
-msgstr ""
+msgstr "Oneskorenie titulkov, ak chýba časovanie"
 
 #
 msgid "Subtitle delay when timing is bad"
-msgstr ""
+msgstr "Oneskorenie titulkov, ak je časovanie zlé"
 
 #
 msgid "External subtitle switch fonts"
-msgstr ""
+msgstr "Prispôsobiť písmo externých titulkov"
 
 #
 msgid "External subtitle dialog colorisation"
@@ -12150,7 +12170,7 @@ msgstr "Zafarbenie dialógu externých titulkov"
 
 #
 msgid "Delay for external subtitles"
-msgstr "Oneskorenie externých tritulkov"
+msgstr "Oneskorenie externých titulkov"
 
 #
 msgid "Set fps for external subtitles"
@@ -12170,7 +12190,7 @@ msgstr "Vynútiť napájanie LNB"
 
 #
 msgid "Force ToneBurst"
-msgstr ""
+msgstr "Vynútiť ToneBurst"
 
 #
 msgid "DVB CI Delay"
@@ -12182,7 +12202,7 @@ msgstr ""
 
 #
 msgid "No delay"
-msgstr "Žiadne oneskorenie"
+msgstr "žiadne oneskorenie"
 
 #
 msgid "center"
@@ -12190,7 +12210,7 @@ msgstr "vystrediť"
 
 #
 msgid "No transparency"
-msgstr "Žiadna priehľadnosť"
+msgstr "žiadna priehľadnosť"
 
 #
 msgid "Depressed"
@@ -12214,7 +12234,7 @@ msgstr "purpurová"
 
 #
 msgid "Limit FCC to current bouquet"
-msgstr "Obmedziť FCC na aktuálny buket"
+msgstr "Obmedziť FCC na aktuálne obľúbené"
 
 #
 msgid "FCC restart"
@@ -12226,7 +12246,7 @@ msgstr ""
 
 #
 msgid "SecondInfobar timeout"
-msgstr ""
+msgstr "Doba zobrazenia druhej infolišty"
 
 #
 msgid "same as Infobar"
@@ -12234,7 +12254,7 @@ msgstr "rovnaké ako infolišta"
 
 #
 msgid "Use cross left/right buttons for bouquet change in service list"
-msgstr ""
+msgstr "Kurzor vľavo/vpravo na zmenu obľúbených v zozname staníc"
 
 #
 msgid "Use OK button for opening favourite list"
@@ -12242,7 +12262,7 @@ msgstr "Otvoriť obľúbené tlačidlom OK"
 
 #
 msgid "Timeout for double-click (ms)"
-msgstr ""
+msgstr "Doba na dvojité kliknutie (ms)"
 
 #
 msgid "Use double click for OK button"
@@ -12250,19 +12270,19 @@ msgstr "Zapnúť dvojité kliknutie tlačidlom OK"
 
 #
 msgid "Enable advertisment detection (I-net is mandatory)"
-msgstr ""
+msgstr "Zapnúť zisťovanie reklám (I-net je povinný)"
 
 #
 msgid "Show icons in service list at services with advertisment"
-msgstr ""
+msgstr "V zozname staníc ukázať ikony pri staniciach s reklamami"
 
 #
 msgid "Exclude services with advertisment at left/right zapping"
-msgstr ""
+msgstr "Vylúčiť stanice s reklamami pri prepínaní vľavo/vpravo"
 
 #
 msgid "Set marker for advertisment during recording"
-msgstr ""
+msgstr "Pri nahrávaní nastaviť značku pre reklamu"
 
 #
 msgid "Scan in background"
@@ -12362,11 +12382,11 @@ msgstr "Nemôžem nájsť zariadenia WLAN podporujúce režim AP."
 
 #
 msgid "Use alternative service list (horizontal) mode"
-msgstr ""
+msgstr "Použiť alternatívny (vodorovný) zoznam staníc"
 
 #
 msgid "Do you want to install OScam as SoftCam for your smartcards?"
-msgstr ""
+msgstr "Má sa OScam nainštalovať ako SoftCam pre karty smartcard?"
 
 #
 msgid "The SoftCam was installed successfully"
@@ -12426,19 +12446,19 @@ msgstr "TV"
 
 #
 msgid "Cross Up"
-msgstr ""
+msgstr "Kurzor nahor"
 
 #
 msgid "Cross Down"
-msgstr ""
+msgstr "Kurzor nadol"
 
 #
 msgid "Cross Left"
-msgstr ""
+msgstr "Kurzor doľava"
 
 #
 msgid "Cross Right"
-msgstr ""
+msgstr "Kurzor doprava"
 
 #
 msgid "Forward >"
@@ -12479,7 +12499,7 @@ msgstr "Prevíjanie >>"
 #
 #, python-format
 msgid "Quickbutton Key : %s"
-msgstr ""
+msgstr "Rýchle tlačidlo: %s"
 
 #
 msgid "Please select the backup path..."
@@ -12495,7 +12515,7 @@ msgstr "Nastavenia zálohovania"
 
 #
 msgid "Please select the restore path..."
-msgstr ""
+msgstr "Zvoľte cestu na obnovu..."
 
 #
 msgid "Overwrite existing Settings?."
@@ -12515,38 +12535,40 @@ msgid ""
 "Restarting Enigma2 to set\n"
 "Multi QuickButton Autostart"
 msgstr ""
+"Reštart Enigmy2, aby sa nastavil\n"
+"automatický štart MQB"
 
 #
 msgid "Restarting Enigma2 to load:\n"
-msgstr ""
+msgstr "Reštart Enigmy2, aby sa načítal:\n"
 
 #
 msgid "Multi QuickButton settings"
-msgstr ""
+msgstr "Nastavenia tlačidla MQB"
 
 #
 msgid "MQB Functions and Plugins"
-msgstr ""
+msgstr "Funkcie a moduly MQB"
 
 #
 msgid "No valid selection"
-msgstr ""
+msgstr "Neplatný výber"
 
 #
 msgid "Add Functions to MQB Key"
-msgstr ""
+msgstr "Pridať funkcie pod tlačidlo MQB"
 
 #
 msgid "Add Plugins to MQB Key"
-msgstr ""
+msgstr "Pridať moduly pod tlačidlo MQB"
 
 #
 msgid "Add Macro to MQB Key"
-msgstr ""
+msgstr "Pridať makro pod tlačidlo MQB"
 
 #
 msgid "Add Script/Binary to MQB Key"
-msgstr ""
+msgstr "Pridať skript/binárku pod tlačidlo MQB"
 
 #
 msgid "Functions"
@@ -12554,7 +12576,7 @@ msgstr "Funkcie"
 
 #
 msgid "No valid function file found"
-msgstr ""
+msgstr "Nenájdený platný súbor funkcie"
 
 #
 #, python-format
@@ -12567,7 +12589,7 @@ msgstr "Uložiť nastavenia"
 
 #
 msgid "MultiQuickButton macro configuration"
-msgstr ""
+msgstr "Nastavenie makra MQB"
 
 #
 msgid "Modify"
@@ -12583,19 +12605,19 @@ msgstr "Tlačidlo:"
 
 #
 msgid "Input name for MQB macro"
-msgstr ""
+msgstr "Zadajte názov makra MQB"
 
 #
 msgid "Input name for MQB macro : "
-msgstr ""
+msgstr "Zadajte názov makra MQB:"
 
 #
 msgid "Select a file to execute"
-msgstr ""
+msgstr "Zvoľte súbor na spustenie"
 
 #
 msgid "File is not executable"
-msgstr ""
+msgstr "Súbor nie je spustiteľný"
 
 #
 msgid "Script"
@@ -12603,11 +12625,11 @@ msgstr "Skript"
 
 #
 msgid "Add command line options ?"
-msgstr ""
+msgstr "Pridať voľby príkazového riadka?"
 
 #
 msgid "Please enter the command line options"
-msgstr ""
+msgstr "Zadajte voľby príkazového riadka"
 
 #
 msgid "chmod 755"
@@ -12623,7 +12645,7 @@ msgstr "Reštartovať SoftCam"
 
 #
 msgid "Extension Selection"
-msgstr ""
+msgstr "Výber rozšírení"
 
 #
 msgid "Sleeptimer"
@@ -12631,27 +12653,27 @@ msgstr "Zaspávací časovač"
 
 #
 msgid "Channel zap +"
-msgstr ""
+msgstr "Stanica +"
 
 #
 msgid "Channel zap -"
-msgstr ""
+msgstr "Stanica -"
 
 #
 msgid "Channel zap (list) +"
-msgstr ""
+msgstr "Stanica v zozname +"
 
 #
 msgid "Channel zap (list) -"
-msgstr ""
+msgstr "Stanica v zozname +"
 
 #
 msgid "Dolby Digital downmix on/off"
-msgstr ""
+msgstr "Dolby Digital downmix zap/vyp"
 
 #
 msgid "List of Bouquets"
-msgstr "Zoznam buketov"
+msgstr "Zoznam obľúbených"
 
 #
 msgid "Channel list"
@@ -12659,39 +12681,39 @@ msgstr "Zoznam staníc"
 
 #
 msgid "Zap history back"
-msgstr ""
+msgstr "História prepínania vzad"
 
 #
 msgid "Zap history next"
-msgstr ""
+msgstr "História prepínania vpred"
 
 #
 msgid "InfoBar EventInfoPlugins"
-msgstr ""
+msgstr "Moduly EPG"
 
 #
 msgid "InfoBar EventView"
-msgstr ""
+msgstr "Vysielanie"
 
 #
 msgid "InfoBar EPG"
-msgstr ""
+msgstr "Jednoduchý EPG"
 
 #
 msgid "InfoBar Multi EPG"
-msgstr ""
+msgstr "Viacnásobný EPG"
 
 #
 msgid "InfoBar Audio Selection"
-msgstr ""
+msgstr "Nastavenia zvuku"
 
 #
 msgid "InfoBar Show Radio"
-msgstr ""
+msgstr "Menu Rádio"
 
 #
 msgid "InfoBar Show Tv"
-msgstr ""
+msgstr "Menu TV"
 
 #
 msgid "Movie Archive"
@@ -12699,11 +12721,11 @@ msgstr "Archív filmov"
 
 #
 msgid "InfoBar Record"
-msgstr ""
+msgstr "Nahrávanie"
 
 #
 msgid "InfoBar Instant Record"
-msgstr ""
+msgstr "Okamžité nahrávanie"
 
 #
 msgid "Start Timeshift"
@@ -12735,7 +12757,7 @@ msgstr "Obľúbená stanica 5"
 
 #
 msgid "Toggle AtmoLight"
-msgstr ""
+msgstr "Zap/vyp AtmoLight"
 
 #
 msgid "DVDPlayer"
@@ -12743,7 +12765,7 @@ msgstr "Prehrávač DVD"
 
 #
 msgid "Picture Player"
-msgstr ""
+msgstr "Prehrávač obrázkov"
 
 #
 msgid "Cool TV Guide"
@@ -12751,27 +12773,27 @@ msgstr ""
 
 #
 msgid "Switch 4:3 (Pillarbox) (Pan&Scan)"
-msgstr ""
+msgstr "Prepnúť 4:3 (Pillarbox) (Pan&Scan)"
 
 #
 msgid "Mount info"
-msgstr ""
+msgstr "Informácia o pripojení"
 
 #
 msgid "Show PIP"
-msgstr ""
+msgstr "Zapnúť PIP"
 
 #
 msgid "Swap PIP"
-msgstr ""
+msgstr "Vymeniť PIP"
 
 #
 msgid "Move PIP"
-msgstr ""
+msgstr "Presunúť okno PIP"
 
 #
 msgid "VTi EPG Settings"
-msgstr ""
+msgstr "VTI - nastavenia EPG"
 
 #
 msgid "VTi DeviceManager"
@@ -12779,7 +12801,7 @@ msgstr "VTI - Správca zariadení"
 
 #
 msgid "VTi CamCenter"
-msgstr ""
+msgstr "VTI - správa CAM"
 
 #
 msgid "VTi Backup Tools"
@@ -12795,35 +12817,35 @@ msgstr "VTI - Systémové nástroje"
 
 #
 msgid "VTi Info Tools"
-msgstr ""
+msgstr "VTI - systémové informácie"
 
 #
 msgid "VTi Manual Package Installation"
-msgstr ""
+msgstr "VTI - ručná inštalácia balíčkov"
 
 #
 msgid "VTi BitrateViewer"
-msgstr ""
+msgstr "VTI - zobrazenie dátového toku"
 
 #
 msgid "VTi System InfoPanel"
-msgstr ""
+msgstr "VTI - systémový infopanel"
 
 #
 msgid "VTi USB DVB-T/C/S2 Panel"
-msgstr ""
+msgstr "VTI - panel USB DVB-T/C/S2"
 
 #
 msgid "VTi CronManager"
-msgstr ""
+msgstr "VTI - správa Cron"
 
 #
 msgid "VTi ExeManager"
-msgstr ""
+msgstr "VTI - správa EXE"
 
 #
 msgid "VTi News"
-msgstr ""
+msgstr "VTI - novinky"
 
 #
 msgid "Reboot"
@@ -12835,27 +12857,27 @@ msgstr "Reštartovať GUI"
 
 #
 msgid "Remount Network Shares"
-msgstr ""
+msgstr "Obnoviť zdieľanie siete"
 
 #
 msgid "Remote control macro I"
-msgstr ""
+msgstr "DO - makro I"
 
 #
 msgid "Remote control macro II"
-msgstr ""
+msgstr "DO - makro II"
 
 #
 msgid "Remote control macro III"
-msgstr ""
+msgstr "DO - makro III"
 
 #
 msgid "Remote control macro IV"
-msgstr ""
+msgstr "DO - makro IV"
 
 #
 msgid "Remote control macro V"
-msgstr ""
+msgstr "DO - makro V"
 
 #
 msgid "AutoResolution on/off"
@@ -12903,7 +12925,7 @@ msgstr "Správa HDMI-CEC bola poslaná"
 
 #
 msgid "Power long"
-msgstr ""
+msgstr "Vypínač - dlhé stlačenie"
 
 #
 msgid "VTi BackupSuite (Restore)"
@@ -12927,7 +12949,7 @@ msgstr ""
 
 #
 msgid "Quickbutton: Key "
-msgstr ""
+msgstr "Rýchle tlačidlo: tlačidlo"
 
 #
 #, python-format
@@ -12936,7 +12958,7 @@ msgstr "súbor %s nenájdený!"
 
 #
 msgid "Multi Quickbutton"
-msgstr ""
+msgstr "Tlačidlo MQB"
 
 #
 msgid "Stop Timeshift"
@@ -12944,7 +12966,7 @@ msgstr "Zastaviť časový posun"
 
 #
 msgid "Timeshift switch to Live TV"
-msgstr ""
+msgstr "Prepnúť z časového posunu na Live TV"
 
 #
 msgid "Stop running recordings"
@@ -12968,7 +12990,7 @@ msgstr "Zvoľte tlačidlá"
 
 #
 msgid "MultiQuickButton button selection"
-msgstr ""
+msgstr "Voľba tlačidla MQB"
 
 #
 #  msgid ""
@@ -13160,7 +13182,7 @@ msgstr "Načítavam, čakajte..."
 # File: ../src/plugin.py, line: 75
 #: ../src/plugin.py:75
 msgid "Disable power on actions for timer:"
-msgstr ""
+msgstr "Zrušiť zapínanie CEC pre časovač:"
 
 #
 # File: ../src/plugin.py, line: 77
@@ -13313,7 +13335,7 @@ msgstr "Správca zariadení hlási"
 
 #
 msgid "Show mounts"
-msgstr ""
+msgstr "Zobraziť pripojenia"
 
 #
 msgid "Size : "
@@ -13680,7 +13702,7 @@ msgstr "Nastaviť automatické vypnutie/pohot. režim"
 
 #
 msgid "Choose media file"
-msgstr ""
+msgstr "Zvoliť mediálny súbor"
 
 #
 msgid "Configuration for automatic power off in standby"
@@ -13724,7 +13746,7 @@ msgstr "Akcia pri nečinnosti:"
 
 #
 msgid "Disable inactivity action at timeshift:"
-msgstr ""
+msgstr "Akciu pri nečinnosti zrušiť pri časovom posune:"
 
 #
 msgid "Show message before inactivity action:"
@@ -13736,11 +13758,11 @@ msgstr "Doba do hlásenia (s):"
 
 #
 msgid "Play media file before inactivity action:"
-msgstr ""
+msgstr "Prehrať mediálny súbor pred akciou pri nečinnosti:"
 
 #
 msgid "Disable inactivity action for given interval:"
-msgstr ""
+msgstr "Zrušiť akciu pri nečinnosti pre daný interval:"
 
 #
 msgid "Common configuration"
@@ -13772,7 +13794,7 @@ msgstr "Resetovať nastavenia automatického vypnutria na predvolené?"
 
 #
 msgid "Select a media file for AutoShutDown"
-msgstr ""
+msgstr "Zvoliť mediálny súbor pre automatické vypnutie"
 
 #
 msgid "VTI DriverManager"
@@ -13800,7 +13822,7 @@ msgstr "Zvoľte ovládače na stiahnutie/inštaláciu"
 
 #
 msgid "Sorry, detection of current kernel version failed !"
-msgstr ""
+msgstr "Zisťovanie aktuálnej verzie jadra zlyhalo!"
 
 #
 msgid ""
@@ -13876,6 +13898,10 @@ msgid ""
 "Installing or updating software can cause serious software problems !\n"
 "Continue installing/updating software (at your own risk) ?"
 msgstr ""
+"K dispozícii je len %d MB voľného miesta v pamäti FLASH\n"
+"Inštalácia alebo aktualizácia softvéru môže spôsobiť vážne softvérové "
+"problémy!\n"
+"Pokračovať v inštalácii/aktualizácii softvéru (na vaše vlastné rizíko)?"
 
 #
 msgid "Excecute"
@@ -14016,6 +14042,10 @@ msgid ""
 "VTI-Team is not responsible for loss of data\n"
 "Do you accept ?"
 msgstr ""
+"VAROVANIE!!!\n"
+"Nevymazávajte veci, ktoré budete potrebovať neskôr.\n"
+"Tím VTI nezodpovedá za stratu dát.\n"
+"Akceptujete?"
 
 #
 #, python-format
@@ -14049,7 +14079,7 @@ msgstr "Zálohovať nastavenia staníc"
 
 #
 msgid "save channel and bouquet settings"
-msgstr "uložiť nastavenia staníc a buketov"
+msgstr "uložiť nastavenia staníc a obľúbených"
 
 #
 msgid "Backup configurations"
@@ -14073,7 +14103,7 @@ msgstr "Obnoviť nastavenia staníc"
 
 #
 msgid "reload saved channel and bouquet settings"
-msgstr ""
+msgstr "Znova načítať nastavenia staníc a obľúbených"
 
 #
 msgid "Restore configurations"
@@ -14090,7 +14120,7 @@ msgstr "Nainštalovať miestne balíčky"
 #
 #, python-format
 msgid "from %s/vti-backupsuite/plugins"
-msgstr ""
+msgstr "z %s/vti-backupsuite/plugins"
 
 #
 msgid "Run personal script"
@@ -14114,7 +14144,7 @@ msgstr "Zálohovanie nastavení skončilo úspešne."
 
 #
 msgid "Backup settings failed"
-msgstr ""
+msgstr "Zálohovanie nastavení sa nepodarilo"
 
 #
 msgid "Common configuration backup finished succesfully"
@@ -14190,7 +14220,7 @@ msgstr "VTI - Softvérové nástroje"
 
 #
 msgid "backup/restore or install software"
-msgstr "Zálohovať/obnioviť alebo inštalovať softvér"
+msgstr "Zálohovať/obnoviť alebo inštalovať softvér"
 
 #
 msgid "VTI Software Manager"
@@ -14218,7 +14248,7 @@ msgstr ""
 
 #
 msgid "Restore and backup installed channellist and plugins"
-msgstr ""
+msgstr "Záloha a obnova nainštalovaných zoznamov staníc a modulov"
 
 #
 msgid "Image Backup / Restore"
@@ -14226,7 +14256,7 @@ msgstr "Záloha / obnova image"
 
 #
 msgid "backup or flash an image"
-msgstr ""
+msgstr "Záloha alebo aktualizácia image"
 
 #
 msgid "Image Flash Tool"
@@ -14462,11 +14492,11 @@ msgstr ""
 
 #
 msgid "Info about current system"
-msgstr ""
+msgstr "Informácia o aktuálnom systéme"
 
 #
 msgid "show information about processes, load, mounts ..."
-msgstr ""
+msgstr "Zobraziť informácie o procesoch, záťaži, pripojeniach, ..."
 
 #
 msgid "Show processes"
@@ -14582,7 +14612,7 @@ msgstr "Obnoviť zálohovaný image VU+"
 
 #
 msgid "Select your backup device. "
-msgstr "Zvoliť zálohovacie zaruadenie."
+msgstr "Zvoliť zálohovacie zariadenie."
 
 #
 msgid "VTI Image Backup/Restore"
@@ -14729,6 +14759,9 @@ msgid ""
 "\n"
 "Please copy usb image or restore image to /media/hdd/vuplus/MODEL ."
 msgstr ""
+"Nenájdený image!!!! \n"
+"\n"
+"Skopírujte usb image alebo obnovte image do /media/hdd/vuplus/MODEL ."
 
 #
 msgid "VTI-Backup done."
@@ -14740,7 +14773,7 @@ msgstr "Záloha sa nepodarila."
 
 #
 msgid "No Harddisk or Harddisk with S.M.A.R.T capabilites detected"
-msgstr ""
+msgstr "Nezistený pevný disk ani pevný disk so S.M.A.R.T."
 
 #
 msgid "At"
@@ -14905,7 +14938,7 @@ msgstr "Zvoľte Cam a stlačením OK ho aktivujte"
 
 #
 msgid "NO CAM ACTIVE !!! Cant restart current cam "
-msgstr ""
+msgstr "NIE JE AKTÍVNY CAM! Nie je čo reštartovať."
 
 #
 msgid "cam info : "
@@ -15119,11 +15152,11 @@ msgstr "Vlastné hlavné menu VTI"
 
 #
 msgid "Execute: "
-msgstr ""
+msgstr "Spustiť:"
 
 #
 msgid "VTI ExeManager"
-msgstr ""
+msgstr "VTI - správa EXE"
 
 #
 #, python-format
@@ -15133,7 +15166,7 @@ msgstr "Súbor %s nenájdený"
 #
 #, python-format
 msgid "File %s is not executable"
-msgstr ""
+msgstr "Súbor %s nie je spustiteľný"
 
 #
 msgid "your executable"
@@ -15253,7 +15286,7 @@ msgstr "Cesta EPG:"
 
 #
 msgid "Save EPG cache to epg.dat"
-msgstr ""
+msgstr "Uložiť EPG do súboru epg.dat"
 
 #
 msgid "Load EPG data from epg.dat"
@@ -15261,12 +15294,12 @@ msgstr "Načítať dáta EPG z epg.dat"
 
 #
 msgid "Delete broken epg.dat"
-msgstr ""
+msgstr "Zmazať poškodený súbor epg.dat"
 
 #
 #, python-format
 msgid "Saving of EPG cache to %s finished"
-msgstr ""
+msgstr "Ukladanie EPG do %s skončené."
 
 #
 #, python-format
@@ -15282,6 +15315,8 @@ msgid ""
 "There was a problem at creating an automatic backup for VTi BackupSuite. Do "
 "you really want to continue ?"
 msgstr ""
+"Bol problém s vytvorením automatickej zálohy pre VTi BackupSuite. Naozaj "
+"chcete pokračovať?"
 
 #
 msgid "VTi Image Download"
@@ -15334,22 +15369,29 @@ msgid ""
 "Your current software installation will be deleted and overwritten\n"
 "Really continue ?"
 msgstr ""
+"Toto nainštaluje zvolený image bez ďalších otázok.\n"
+"Aktuálna verzia softvéru sa zmaže a prepíše.\n"
+"Naozaj pokračovať?"
 
 #
 msgid "Please select medium to use as image location"
-msgstr ""
+msgstr "Zvoľte médium, ktoré sa použije ako umiestnenie image."
 
 #
 msgid ""
 "Error at creating download destination !\n"
 "Please select another device."
 msgstr ""
+"Chyba pri vytváraní cieľa preberania!\n"
+"Zvoľte iné zariadenie."
 
 #
 msgid ""
 "There is to low free memory at choosen device\n"
 "Please select another device."
 msgstr ""
+"Vo zvolenom zariadení je málo voľnej pamäte.\n"
+"Zvoľte iné zariadenie."
 
 #
 #, python-format
@@ -15365,10 +15407,12 @@ msgid ""
 "Sorry, download verification failed\n"
 "Please try again."
 msgstr ""
+"Overenie preberania zlyhalo.\n"
+"Skúste znova."
 
 #
 msgid "Verifying download ..."
-msgstr ""
+msgstr "Overujem preberanie..."
 
 #
 msgid ""
@@ -15531,11 +15575,11 @@ msgstr "V systéme chýbajú niektoré dôležité súbory."
 
 #
 msgid "Backup of root filesystem failed"
-msgstr ""
+msgstr "Záloha koreňového systému súborov zlyhala."
 
 #
 msgid "backup root filesystem"
-msgstr ""
+msgstr "Zálohovať koreňový systém súborov"
 
 #
 msgid "Error at preparing system for backup"
@@ -15543,11 +15587,11 @@ msgstr "Chyba pri príprave systému na zálohovanie."
 
 #
 msgid "create flashable file of root filesystem"
-msgstr ""
+msgstr "Vytvoriť inštalovateľný súbor koreňového systému súborov"
 
 #
 msgid "backup of running kernel"
-msgstr ""
+msgstr "zálohovať bežiace jadro"
 
 #
 msgid "Backup of kernel failed"
@@ -15651,7 +15695,7 @@ msgstr "Dočasný adresár (/tmp)"
 
 #: plugin.py:56
 msgid "Bouquet"
-msgstr ""
+msgstr "Obľúbené"
 
 #: plugin.py:57
 msgid "Multi Sat"
@@ -15664,7 +15708,7 @@ msgstr ""
 
 #: plugin.py:100 plugin.py:101 plugin.py:333 plugin.py:334
 msgid "Downloading satellites failed!"
-msgstr ""
+msgstr "Preberanie súboru satellites zlyhalo!"
 
 #: plugin.py:104
 msgid "satellites.xml is updated"
@@ -15684,15 +15728,15 @@ msgstr "GUI sa musí reštartovať"
 
 #: plugin.py:199
 msgid "selected bouquets are installed"
-msgstr "Zvolené bukety sú nainštalované"
+msgstr "Zvolené obľúbené sú nainštalované"
 
 #: plugin.py:203
 msgid "Please select at least one bouquet"
-msgstr "Nainštalujte aspoň jeden buket"
+msgstr "Nainštalujte aspoň jedny obľúbené"
 
 #: plugin.py:206 plugin.py:207
 msgid "Downloading bouquets failed!"
-msgstr ""
+msgstr "Preberanie obľúbených zlyhalo!"
 
 #: plugin.py:210 plugin.py:337
 msgid "Downloading succesfull! Parsing ..."
@@ -15700,7 +15744,7 @@ msgstr ""
 
 #: plugin.py:229
 msgid "Press ok button to select bouquet"
-msgstr ""
+msgstr "Stlačením tlačidla OK zvoľte obľúbené"
 
 #: plugin.py:233 plugin.py:360
 msgid "Parsing failed!"
@@ -15708,63 +15752,63 @@ msgstr ""
 
 #: plugin.py:281
 msgid "Source:"
-msgstr ""
+msgstr "Zdroj:"
 
 #: plugin.py:297
 msgid "Download:"
-msgstr ""
+msgstr "Preberanie:"
 
 #: plugin.py:321
 msgid "satellites.xml has been built."
-msgstr ""
+msgstr "satellites.xml bol vytvorený."
 
 #: plugin.py:324
 msgid "Please select at least one satellite"
-msgstr ""
+msgstr "Zvoľte aspoň jeden satelit."
 
 #: plugin.py:356
 msgid "Press ok button to select satellite"
-msgstr ""
+msgstr "Stlačením tlačidla OK zvoľte satelit."
 
 #: plugin.py:383 plugin.py:395
 msgid "Transponder selection"
-msgstr ""
+msgstr "Voľba transpondéra"
 
 #: plugin.py:434
 msgid "Frequency:"
-msgstr ""
+msgstr "Kmitočet:"
 
 #: plugin.py:434
 msgid "Symbol Rate:"
-msgstr ""
+msgstr "Symbolová rýchlosť:"
 
 #: plugin.py:458
 msgid "has been saved."
-msgstr ""
+msgstr "bol uložený."
 
 #: plugin.py:461
 msgid "Please select at least one transponder"
-msgstr ""
+msgstr "Zvoľte aspoň jeden transpondér."
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:45
 msgid "Configuration"
-msgstr ""
+msgstr "Konfigurácia"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:77
 msgid "Usage"
-msgstr ""
+msgstr "Využitie"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:85
 msgid "Enable InfoBarTunerState"
-msgstr ""
+msgstr "Zapnúť stav tunera v infolište"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:87
 msgid "Add to extension menu"
-msgstr ""
+msgstr "Pridať do menu rozšírení"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:89
 msgid "Show and hide with InfoBar"
-msgstr ""
+msgstr "Zobraziť a skryť s infolištou"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:90
 msgid "Show on events"
@@ -15776,20 +15820,20 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:92
 msgid "Time format"
-msgstr ""
+msgstr "Formát času"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:93
 msgid "Number of finished records in list"
-msgstr ""
+msgstr "Počet dokončených nahrávok v zozname"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:94
 msgid "Number of seconds for displaying finished records"
-msgstr ""
+msgstr "Zobrazenie dokončených nahrávok v sekundách"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:100
 #, python-format
 msgid "Field %d content"
-msgstr ""
+msgstr "Obsah poľa %d"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:105
 msgid "Horizontal offset in pixel"
@@ -15907,15 +15951,15 @@ msgstr "Trvanie"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:62
 msgid "Timer Progress (Graphical)"
-msgstr ""
+msgstr "Priebeh časovača (graficky)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:63
 msgid "Timer Progress (Text)"
-msgstr ""
+msgstr "Priebeh časovača (textovo)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:64
 msgid "Destination"
-msgstr ""
+msgstr "Cieľ"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:65
 msgid "Stream Client"
@@ -16049,7 +16093,7 @@ msgid "ZDFmediathek"
 msgstr "ZDFmediathek"
 
 msgid "Filebrowser"
-msgstr ""
+msgstr "Prehľadávač súborov"
 
 msgid "DreamExplorer"
 msgstr "DreamExplorer"
@@ -16112,7 +16156,7 @@ msgid "MyVideo player:"
 msgstr ""
 
 msgid "Add/remove plugin"
-msgstr ""
+msgstr "Pridať/odstrániť modul"
 
 msgid " removed from EasyMedia"
 msgstr ""
@@ -16124,10 +16168,10 @@ msgid "VideoDB is not installed!"
 msgstr ""
 
 msgid "PicturePlayer:"
-msgstr ""
+msgstr "Prehrávač obrázkov:"
 
 msgid "Video database:"
-msgstr ""
+msgstr "Databáza videí:"
 
 msgid "VideoDB"
 msgstr ""
@@ -16258,19 +16302,19 @@ msgid "%(name)s (%(user)s@%(server)s)"
 msgstr ""
 
 msgid "Accounts list"
-msgstr ""
+msgstr "Zoznam kont"
 
 msgid "Attachments"
-msgstr ""
+msgstr "Prílohy"
 
 msgid "Bodys"
 msgstr ""
 
 msgid "Email Client"
-msgstr ""
+msgstr "E-mailový klient"
 
 msgid "Email setup"
-msgstr ""
+msgstr "Nastavenie e-mailu"
 
 #, python-format
 msgid ""
@@ -16278,6 +16322,9 @@ msgid ""
 "\n"
 "%(error)s"
 msgstr ""
+"E-mailový klient pre %(account)s:\n"
+"\n"
+"%(error)s"
 
 #
 # File: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py, line: 254
@@ -16295,13 +16342,15 @@ msgid ""
 "New mail arrived for account %s:\n"
 "\n"
 msgstr ""
+"Prišla nová pošta pre konto %s:\n"
+"\n"
 
 #, python-format
 msgid "Really delete account %s?"
-msgstr ""
+msgstr "Naozaj zmazať konto %s?"
 
 msgid "Subject"
-msgstr ""
+msgstr "Predmet"
 
 #, python-format
 msgid ""
@@ -16315,40 +16364,40 @@ msgstr ""
 
 #, python-format
 msgid "account %s is not connected"
-msgstr ""
+msgstr "konto %s nie je pripojené"
 
 msgid "account name"
-msgstr ""
+msgstr "názov konta"
 
 msgid "account not connected"
-msgstr ""
+msgstr "konto nepripojené"
 
 msgid "add"
-msgstr ""
+msgstr "pridať"
 
 msgid "cancel"
-msgstr ""
+msgstr "zrušiť"
 
 msgid "cannot access inbox"
-msgstr ""
+msgstr "nie je prístup do schránky došlej pošty"
 
 msgid "cannot get headers of new messages"
-msgstr ""
+msgstr "nemôžem získať hlavičky nových správ"
 
 msgid "cannot get list of new messages"
-msgstr ""
+msgstr "nedá sa získať zoznam nových správ"
 
 msgid "connection failed - retrying"
-msgstr ""
+msgstr "spojenie zlyhalo - opakujem"
 
 msgid "display connection errors"
-msgstr ""
+msgstr "zobraziť chyby spojenia"
 
 msgid "display timeout (seconds)"
 msgstr ""
 
 msgid "edit"
-msgstr ""
+msgstr "upraviť"
 
 msgid "empty values - retry"
 msgstr ""
@@ -16367,10 +16416,10 @@ msgstr ""
 
 #, python-format
 msgid "have %d messages"
-msgstr ""
+msgstr " %d správ"
 
 msgid "have no messages"
-msgstr ""
+msgstr "žiadne správy"
 
 msgid "headers loaded, now parsing ..."
 msgstr ""
@@ -16380,64 +16429,64 @@ msgid "importing configurations from %s"
 msgstr ""
 
 msgid "leave unread"
-msgstr ""
+msgstr "nechať neprečítané"
 
 msgid "list all mailboxes"
-msgstr ""
+msgstr "zoznam všetkých poštových schránok"
 
 msgid "loading headers ..."
 msgstr ""
 
 msgid "mail check interval (minutes)"
-msgstr ""
+msgstr "interval kontroly pošty (v min)"
 
 msgid "maximum mail size to fetch"
 msgstr ""
 
 msgid "message too large"
-msgstr ""
+msgstr "správa príliš dlhá"
 
 msgid "no account selected"
-msgstr ""
+msgstr "nie je zvolené konto"
 
 msgid "no date"
-msgstr ""
+msgstr "chýba dátum"
 
 msgid "no filename"
-msgstr ""
+msgstr "chýba názov súboru"
 
 msgid "no from"
-msgstr ""
+msgstr "chýba odosielateľ"
 
 msgid "no mailbox?!?!"
-msgstr ""
+msgstr "chýba poštová schránka?!?!"
 
 msgid "no sender"
-msgstr ""
+msgstr "chýba odosielateľ"
 
 msgid "no subject"
-msgstr ""
+msgstr "chýba predmet"
 
 msgid "ok"
-msgstr ""
+msgstr "OK"
 
 msgid "parsing message ..."
-msgstr ""
+msgstr "analyzujem správu..."
 
 msgid "password"
-msgstr ""
+msgstr "heslo"
 
 msgid "really delete mail?"
-msgstr ""
+msgstr "naozaj zmazať správu?"
 
 msgid "really undelete mail?"
-msgstr ""
+msgstr "naozaj vrátiť správu?"
 
 msgid "select Attachment"
-msgstr ""
+msgstr "zvoliť prílohu"
 
 msgid "select Body"
-msgstr ""
+msgstr "zvoliť text"
 
 msgid "show deleted entries"
 msgstr ""
@@ -17237,7 +17286,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:18
 msgid "Timers"
-msgstr ""
+msgstr "Časovače"
 
 #: src/WebComponents/Sources/Strings.py:19
 msgid "BoxControl"
@@ -17253,7 +17302,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:23
 msgid "EPG-Search"
-msgstr ""
+msgstr "Hľadanie v EPG"
 
 #: src/WebComponents/Sources/Strings.py:24
 msgid "Search EPG"
@@ -17265,15 +17314,15 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:26
 msgid "Bouquets"
-msgstr ""
+msgstr "Obľúbené"
 
 #: src/WebComponents/Sources/Strings.py:27
 msgid "No Bouquets to Display"
-msgstr ""
+msgstr "Žiadne obľúbené na zobrazenie"
 
 #: src/WebComponents/Sources/Strings.py:28
 msgid "Please select any bouquet"
-msgstr ""
+msgstr "Zvoľte hociktoré obľúbené"
 
 #: src/WebComponents/Sources/Strings.py:32
 msgid "Tag Filter"
@@ -17281,19 +17330,19 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:33
 msgid "All Timers"
-msgstr ""
+msgstr "Všetky časovače"
 
 #: src/WebComponents/Sources/Strings.py:34
 msgid "Create Timer"
-msgstr ""
+msgstr "Vytvoriť časovač"
 
 #: src/WebComponents/Sources/Strings.py:36
 msgid "Cleans up the list of timers by removing e.g. finished timers"
-msgstr ""
+msgstr "Vyčistí zoznam časovačov odstránením napr. skončených časovačov."
 
 #: src/WebComponents/Sources/Strings.py:37
 msgid "No Timer Available!"
-msgstr ""
+msgstr "Nedostupný žiadny časovač"
 
 #: src/WebComponents/Sources/Strings.py:38
 #: src/WebComponents/Sources/Strings.py:108
@@ -17302,19 +17351,19 @@ msgstr "Úprava časovača"
 
 #: src/WebComponents/Sources/Strings.py:40
 msgid "Activate"
-msgstr ""
+msgstr "Aktivovať"
 
 #: src/WebComponents/Sources/Strings.py:44
 msgid "Delete Timer"
-msgstr ""
+msgstr "Zmazať časovač"
 
 #: src/WebComponents/Sources/Strings.py:45
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #: src/WebComponents/Sources/Strings.py:50
 msgid "Action"
-msgstr ""
+msgstr "Akcia"
 
 #: src/WebComponents/Sources/Strings.py:53
 msgid "Note: For recurring events dates are not mandatory."
@@ -17326,23 +17375,23 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:55
 msgid "Begins"
-msgstr ""
+msgstr "Začína"
 
 #: src/WebComponents/Sources/Strings.py:56
 msgid "Ends"
-msgstr ""
+msgstr "Končí"
 
 #: src/WebComponents/Sources/Strings.py:57
 msgid "Days"
-msgstr ""
+msgstr "Dni"
 
 #: src/WebComponents/Sources/Strings.py:64
 msgid "Do Nothing"
-msgstr ""
+msgstr "Nič nerobiť"
 
 #: src/WebComponents/Sources/Strings.py:65
 msgid "of"
-msgstr ""
+msgstr "z"
 
 #: src/WebComponents/Sources/Strings.py:70
 msgid "Power Control"
@@ -17383,19 +17432,19 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:84
 msgid "Warning"
-msgstr ""
+msgstr "Varovanie"
 
 #: src/WebComponents/Sources/Strings.py:86
 msgid "Send"
-msgstr ""
+msgstr "Odoslať"
 
 #: src/WebComponents/Sources/Strings.py:88
 msgid "Mediaplayer"
-msgstr ""
+msgstr "Prehrávač médií"
 
 #: src/WebComponents/Sources/Strings.py:89
 msgid "Device Info"
-msgstr ""
+msgstr "Informácia o zariadení"
 
 #: src/WebComponents/Sources/Strings.py:93
 msgid "Click to show/hide extended description"
@@ -17403,7 +17452,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:94
 msgid "Show EPG for"
-msgstr ""
+msgstr "Zobraziť EPG pre"
 
 #: src/WebComponents/Sources/Strings.py:95
 msgid "Stream Channel"
@@ -17427,15 +17476,15 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:101
 msgid "Zap to"
-msgstr ""
+msgstr "Prepnúť na"
 
 #: src/WebComponents/Sources/Strings.py:102
 msgid "Open Multi-EPG for"
-msgstr ""
+msgstr "Otvoriť Multi-EPG pre"
 
 #: src/WebComponents/Sources/Strings.py:103
 msgid "Load Bouquet"
-msgstr ""
+msgstr "Načítať obľúbené"
 
 #: src/WebComponents/Sources/Strings.py:104
 msgid "Playlist for"
@@ -17611,7 +17660,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:169
 msgid "Close MediaPlayer"
-msgstr ""
+msgstr "Zatvoriť Prehrávač médií"
 
 #: src/WebComponents/Sources/Strings.py:170
 msgid "No items to show..."
@@ -17690,11 +17739,11 @@ msgstr ""
 
 #: src/WebComponents/Sources/SleepTimer.py:34
 msgid "Sleeptimer is enabled"
-msgstr ""
+msgstr "Zaspávací časovač je zapnutý."
 
 #: src/WebComponents/Sources/SleepTimer.py:40
 msgid "Sleeptimer is disabled"
-msgstr ""
+msgstr "Zaspávací časovač je vypnutý."
 
 #: src/WebComponents/Sources/SleepTimer.py:52
 #, python-format
@@ -17708,17 +17757,17 @@ msgstr ""
 
 #: src/WebComponents/Sources/SleepTimer.py:87
 msgid "Sleeptimer has been disabled"
-msgstr ""
+msgstr "Zaspávací časovač bol vypnutý"
 
 #: src/WebComponents/Sources/SleepTimer.py:90
 #, python-format
 msgid "The sleep timer has been activated for %s minutes."
-msgstr ""
+msgstr "Zaspávací časovač bol zapnutý na %s minút."
 
 #: src/WebComponents/Sources/SleepTimer.py:91
 #, python-format
 msgid "Sleeptimer set to %s minutes"
-msgstr ""
+msgstr "Zaspávací časovač nastavený na %s minút"
 
 #: src/WebComponents/Sources/SleepTimer.py:104
 #, python-format
@@ -17728,11 +17777,13 @@ msgstr ""
 #: src/WebComponents/Sources/SleepTimer.py:110
 msgid "ERROR: Cannot set SleepTimer while device is in Standby-Mode"
 msgstr ""
+"CHYBA: Zaspávací časovač sa nedá nastaviť, keď je prístroj v pohotovostnom "
+"režime."
 
 #: src/WebComponents/Sources/Timer.py:64
 #, python-format
 msgid "Unknown function: '%s'"
-msgstr ""
+msgstr "Neznáma funkcia: '%s'"
 
 #: src/WebComponents/Sources/Timer.py:70
 msgid "List of Timers has been cleaned"
@@ -17804,28 +17855,28 @@ msgstr ""
 #: src/WebComponents/Sources/Timer.py:433
 #, python-format
 msgid "Conflicting Timer(s) detected! %s"
-msgstr ""
+msgstr "Nájdené konfliktné časovače! %s"
 
 #: src/WebComponents/Sources/Timer.py:365
 #, python-format
 msgid "Changing the timer for '%s' failed!"
-msgstr ""
+msgstr "Časovač '%s' sa nedá zmeniť!"
 
 #: src/WebComponents/Sources/Timer.py:368
 #, python-format
 msgid "Could not find timer '%s' with given start and end time!"
-msgstr ""
+msgstr "Nemôžem nájsť časovač '%s' s daným časom začiatku a konca!"
 
 #: src/WebComponents/Sources/Timer.py:379
 #: src/WebComponents/Sources/Timer.py:426
 #, python-format
 msgid "Timer '%s' added"
-msgstr ""
+msgstr "Časovač '%s' pridaný"
 
 #: src/WebComponents/Sources/Timer.py:391
 #, python-format
 msgid "Could not add timer '%s'!"
-msgstr ""
+msgstr "Nedá sa pridať časovač '%s'!"
 
 #: src/WebComponents/Sources/Timer.py:400
 msgid "Missing Parameter: eventid"
@@ -17837,7 +17888,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Timer.py:441
 msgid "TimerList has been saved"
-msgstr ""
+msgstr "Zoznam časovačov je uložený."
 
 #: src/WebComponents/Sources/Timer.py:443
 msgid "TimerList has not been saved"
@@ -17869,12 +17920,12 @@ msgstr ""
 #: src/WebComponents/Sources/Movie.py:57
 #, python-format
 msgid "Could not delete Movie '%s'"
-msgstr ""
+msgstr "Nemôžem zmazať film '%s'"
 
 #: src/WebComponents/Sources/Movie.py:59
 #, python-format
 msgid "Movie '%s' deleted"
-msgstr ""
+msgstr "Film '%s' zmazaný"
 
 #: src/WebComponents/Sources/Movie.py:61
 #: src/WebComponents/Sources/Movie.py:154
@@ -17888,12 +17939,12 @@ msgstr ""
 
 #: src/WebComponents/Sources/Movie.py:96
 msgid "Source and destination folders are the same."
-msgstr ""
+msgstr "Zdrojový a cieľový adresár je ten istý."
 
 #: src/WebComponents/Sources/Movie.py:98
 #, python-format
 msgid "'%s' does not exist in source directory."
-msgstr ""
+msgstr "'%s' neexistuje v zdrojovom adresári."
 
 #: src/WebComponents/Sources/Movie.py:100
 #, python-format
@@ -17905,22 +17956,22 @@ msgstr ""
 #: src/WebComponents/Sources/Movie.py:102
 #, python-format
 msgid "Destination dir '%s' does not exist."
-msgstr ""
+msgstr "Cieľový adresár '%s' neexistuje."
 
 #: src/WebComponents/Sources/Movie.py:118
 #, python-format
 msgid "Movie '%s' has unknown suffix '%s'."
-msgstr ""
+msgstr "Film '%s' má neznámu príponu '%s'."
 
 #: src/WebComponents/Sources/Movie.py:147
 #, python-format
 msgid "Moving Movie '%s' to '%s' in background."
-msgstr ""
+msgstr "Premiestňujem film '%s' do '%s' na pozadí."
 
 #: src/WebComponents/Sources/Movie.py:151
 #, python-format
 msgid "Movie '%s' moved to '%s' without errors."
-msgstr ""
+msgstr "Film '%s' premiestnený do '%s' bez chýb."
 
 #: src/WebComponents/Sources/Movie.py:153
 #, python-format
@@ -18009,24 +18060,24 @@ msgstr ""
 
 #: src/WebComponents/Sources/AudioTracks.py:50
 msgid "AC3 Downmix enabled"
-msgstr ""
+msgstr "AC3 Downmix zapnutý"
 
 #: src/WebComponents/Sources/AudioTracks.py:50
 msgid "AC3 Downmix disabled"
-msgstr ""
+msgstr "AC3 Downmix vypnutý"
 
 #: src/WebComponents/Sources/AudioTracks.py:53
 msgid "This device does not support AC3 Downmix"
-msgstr ""
+msgstr "Toto zariadenie nepodporuje AC3 Downmix"
 
 #: src/WebComponents/Sources/Volume.py:17
 msgid "State"
-msgstr ""
+msgstr "Stav"
 
 #: src/WebComponents/Sources/Volume.py:20
 #: src/WebComponents/Sources/Volume.py:23
 msgid "Volume changed"
-msgstr ""
+msgstr "Hlasitosť zmenená"
 
 #: src/WebComponents/Sources/Volume.py:26
 msgid "Mute toggled"
@@ -18035,7 +18086,7 @@ msgstr ""
 #: src/WebComponents/Sources/Volume.py:37
 #, python-format
 msgid "Volume set to %i"
-msgstr ""
+msgstr "Hlasitosť nastavená na %i"
 
 #: src/WebComponents/Sources/Volume.py:39
 #, python-format
@@ -18105,11 +18156,11 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:50
 msgid "Old password:"
-msgstr ""
+msgstr "Staré heslo:"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:51
 msgid "New password:"
-msgstr ""
+msgstr "Nové heslo:"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:62
 msgid ""
@@ -18117,6 +18168,9 @@ msgid ""
 "Minimum length: 5\n"
 "Maximum length: 8"
 msgstr ""
+"Nesprávne nové heslo!\n"
+"Minimálna dĺžka: 5\n"
+"Maximálna dĺžka: 8"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:137
 msgid "Could not log in!"
@@ -18124,58 +18178,58 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:150
 msgid "Error while setting new password!"
-msgstr ""
+msgstr "Chyba pri nastavovaní nového hesla!"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Password Changer"
-msgstr ""
+msgstr "Menič hesla"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Change your ftp and telnet password"
-msgstr ""
+msgstr "Zmeňte si heslo pre ftp a telnet."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:220
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:317
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:422
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:598
 msgid "Zap Statistic"
-msgstr ""
+msgstr "Štatistika prepínania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:227
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:325
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:451
 msgid "Sort (name+)"
-msgstr ""
+msgstr "Poradie (názov+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:228
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:326
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:454
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:524
 msgid "Sort (name-)"
-msgstr ""
+msgstr "Poradie (názov-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:229
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:327
 msgid "Sort (duration+)"
-msgstr ""
+msgstr "Poradie (trvanie+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:230
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:328
 msgid "Sort (duration-)"
-msgstr ""
+msgstr "Poradie (trvanie-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:434
 msgid "Durations"
-msgstr ""
+msgstr "Trvania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:452
 msgid "Sort (date+)"
-msgstr ""
+msgstr "Poradie (dátum+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:456
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:539
 msgid "Sort (date-)"
-msgstr ""
+msgstr "Poradie (dátum-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:561
 msgid "Play entry"
@@ -18187,23 +18241,23 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:564
 msgid "Sort by name (ascending)"
-msgstr ""
+msgstr "Triediť podľa názvu (vzostupne)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:565
 msgid "Sort by name (descending)"
-msgstr ""
+msgstr "Triediť podľa názvu (zostupne)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:566
 msgid "Sort by date (ascending)"
-msgstr ""
+msgstr "Triediť podľa dátumu (vzostupne)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:567
 msgid "Sort by date (descending)"
-msgstr ""
+msgstr "Triediť podľa dátumu (zostupne)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:568
 msgid "Show duration window"
-msgstr ""
+msgstr "Zobraziť okno trvania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:569
 msgid "Show combined duration window"
@@ -18211,7 +18265,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:570
 msgid "Close plugin"
-msgstr ""
+msgstr "Zatvoriť modul"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:571
 msgid "Please choose a function..."
@@ -18223,73 +18277,73 @@ msgstr ""
 
 #: ../src/plugin.py:23
 msgid "Execute cuts..."
-msgstr ""
+msgstr "Vykonať strihy..."
 
 #: ../src/plugin.py:37
 msgid "Don't cut"
-msgstr ""
+msgstr "Zrušiť strih"
 
 #: ../src/plugin.py:38
 msgid "Replace the original movie with the cut movie"
-msgstr ""
+msgstr "Nahradiť pôvodný film zostrihaným"
 
 #: ../src/plugin.py:39
 msgid "Place the cut movie in a new file ending with \" cut\""
-msgstr ""
+msgstr "Uložiť zostrihaný film do nového súboru ukončeného \" cut\""
 
 #: ../src/plugin.py:40
 msgid "Advanced cut specification..."
-msgstr ""
+msgstr "Rozšírené špecifikácie strihu..."
 
 #: ../src/plugin.py:42
 #, python-format
 msgid "How would you like to cut \"%s\"?"
-msgstr ""
+msgstr "Ako chcete zostrihať \"%s\"?"
 
 #: ../src/plugin.py:103
 msgid "Cutlist"
-msgstr ""
+msgstr "Zoznam strihov"
 
 #: ../src/plugin.py:103
 msgid "Manual specification"
-msgstr ""
+msgstr "Ručná špecifikácia"
 
 #: ../src/plugin.py:117
 msgid "Replace original:"
-msgstr ""
+msgstr "Nahradiť originál:"
 
 #: ../src/plugin.py:118
 msgid "New filename:"
-msgstr ""
+msgstr "Nový názov súboru:"
 
 #: ../src/plugin.py:119
 msgid "New title:"
-msgstr ""
+msgstr "Nový názov:"
 
 #: ../src/plugin.py:120
 msgid "New description:"
-msgstr ""
+msgstr "Nový opis:"
 
 #: ../src/plugin.py:121
 msgid "New location:"
-msgstr ""
+msgstr "Nové umiestnenie:"
 
 #: ../src/plugin.py:122
 msgid "Cut source:"
-msgstr ""
+msgstr "Zdroj strihu:"
 
 #: ../src/plugin.py:123
 msgid "Cuts (an IN OUT IN OUT ... sequence of hour:min:sec)"
-msgstr ""
+msgstr "Strihy (začiatok koniec začiatok koniec ... sekvencia hod:min:sek)"
 
 #: ../src/plugin.py:130
 msgid "Cut Parameter Input"
-msgstr ""
+msgstr "Parametre strihu"
 
 #: ../src/plugin.py:245
 #, python-format
 msgid "The movie \"%s\" is successfully cut"
-msgstr ""
+msgstr "Film \"%s\" bol úspešne zostrihaný"
 
 #: ../src/plugin.py:246 ../src/plugin.py:247 ../src/plugin.py:248
 #: ../src/plugin.py:249 ../src/plugin.py:250 ../src/plugin.py:251
@@ -18297,57 +18351,57 @@ msgstr ""
 #: ../src/plugin.py:255
 #, python-format
 msgid "Cutting failed for movie \"%s\""
-msgstr ""
+msgstr "Strihanie filmu \"%s\" zlyhalo"
 
 #: ../src/plugin.py:246
 msgid "Bad arguments"
-msgstr ""
+msgstr "Neplatné parametre"
 
 #: ../src/plugin.py:247
 msgid "Couldn't open input .ts file"
-msgstr ""
+msgstr "Nedá sa otvoriť vstupný súbor .ts"
 
 #: ../src/plugin.py:248
 msgid "Couldn't open input .cuts file"
-msgstr ""
+msgstr "Nedá sa otvoriť vstupný súbor .cuts."
 
 #: ../src/plugin.py:249
 msgid "Couldn't open input .ap file"
-msgstr ""
+msgstr "Nedá sa otvoriť vstupný súbor .ap."
 
 #: ../src/plugin.py:250
 msgid "Couldn't open output .ts file"
-msgstr ""
+msgstr "Nedá sa otvoriť výstupný súbor .ts."
 
 #: ../src/plugin.py:251
 msgid "Couldn't open output .cuts file"
-msgstr ""
+msgstr "Nedá sa otvoriť výstupný súbor .cuts."
 
 #: ../src/plugin.py:252
 msgid "Couldn't open output .ap file"
-msgstr ""
+msgstr "Nedá sa otvoriť výstupný súbor .ap."
 
 #: ../src/plugin.py:253
 msgid "Empty .ap file"
-msgstr ""
+msgstr "Prázdny súbor .ap."
 
 #: ../src/plugin.py:254
 msgid "No cuts specified"
-msgstr ""
+msgstr "Žiadny strih nie je určený."
 
 #: ../src/plugin.py:255
 msgid "Read/write error (disk full?)"
-msgstr ""
+msgstr "Chyba čítania/zápisu (disk plný?)"
 
 #: ../src/plugin.py:256
 #, python-format
 msgid "Cutting was aborted for movie \"%s\""
-msgstr ""
+msgstr "Strih filmu \"%s\" bol zrušený"
 
 #: ../src/plugin.py:275
 #, python-format
 msgid "The movie \"%s\" is cut in the background."
-msgstr ""
+msgstr "Film \"%s\" sa strihá na pozadí."
 
 #: ../src/plugin.py:277
 #, python-format
@@ -18355,24 +18409,26 @@ msgid ""
 "Another movie is currently cut.\n"
 "The movie \"%s\" will be cut in the background after it."
 msgstr ""
+"Iný film sa práve strihá.\n"
+"Film \"%s\" sa zostrihá na pozadí po ňom."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:50
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:401
 msgid "Name of DVD"
-msgstr ""
+msgstr "Názov DVD"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:143
 msgid "Could not find any file to backup!"
-msgstr ""
+msgstr "Nenájdený žiadny súbor na zálohovanie."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:146
 msgid "Could not read the DVD informations!"
-msgstr ""
+msgstr "Nedá sa prečítať informácia o DVD."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:152
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:181
 msgid "Error while backup of DVD!"
-msgstr ""
+msgstr "Chyba pri zálohovaní DVD."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:186
 msgid ""
@@ -18382,31 +18438,31 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Backup of DVD finished."
-msgstr ""
+msgstr "Zálohovanie DVD skončené."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Duration:"
-msgstr ""
+msgstr "Trvanie:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Eject DVD?"
-msgstr ""
+msgstr "Vysunúť DVD?"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:322
 msgid "Progress"
-msgstr ""
+msgstr "Priebeh"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:331
 msgid "Device:"
-msgstr ""
+msgstr "Zariadenie:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:332
 msgid "Directory:"
-msgstr ""
+msgstr "Adresár:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:333
 msgid "Name:"
-msgstr ""
+msgstr "Názov:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:334
 msgid "Log:"
@@ -18414,11 +18470,11 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:335
 msgid "Create iso:"
-msgstr ""
+msgstr "Vytvoriť ISO:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:421
 msgid "Installing..."
-msgstr ""
+msgstr "Inštalujem..."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:427
 msgid "Could not install needed dvdbackup package!"
@@ -18435,36 +18491,36 @@ msgstr ""
 
 #: src/plugin.py:15
 msgid "after restart"
-msgstr ""
+msgstr "po reštarte"
 
 #: src/plugin.py:15
 msgid "after standby"
-msgstr ""
+msgstr "po pohot. rež."
 
 #: src/plugin.py:15
 msgid "after restart/standby"
-msgstr ""
+msgstr "po reštarte/pohot. rež."
 
 #: src/plugin.py:93 src/plugin.py:144
 msgid "Restart audio"
-msgstr ""
+msgstr "Reštartovať zvuk"
 
 #: src/plugin.py:94
 msgid "Restart audio delay (in sec)"
-msgstr ""
+msgstr "Oneskorenie reštartu zvuku (v sek.)"
 
 #: src/plugin.py:104
 #, python-format
 msgid "Plugin: %(plugin)s , Version: %(version)s"
-msgstr ""
+msgstr "Modul: %(plugin)s , Verzia: %(version)s"
 
 #: src/plugin.py:142
 msgid "Audio restart Setup"
-msgstr ""
+msgstr "Nastavenie reštartu zvuku"
 
 #: src/plugin.py:142
 msgid "Setup for the AudioRestart Plugin"
-msgstr ""
+msgstr "Nastavenie modulu reštartu zvuku"
 
 #
 # File: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py, line: 51
@@ -18730,11 +18786,11 @@ msgstr ""
 
 #: ../src/MediaDownloader.py:245
 msgid "Do you want to try to open the downloaded file?"
-msgstr ""
+msgstr "Chcete skúsiť otvoriť preberaný súbor?"
 
 #: ../src/plugin.py:83
 msgid "Download..."
-msgstr ""
+msgstr "Preberanie..."
 
 #: ../src/MediaDownloader.py:214
 #, python-format
@@ -18748,7 +18804,7 @@ msgstr ""
 #: ../src/MediaDownloader.py:262
 #, python-format
 msgid "Error while downloading file %s"
-msgstr ""
+msgstr "Chyba pri preberaní súboru %s"
 
 #: ../src/MediaDownloader.py:228
 msgid "No suitable Viewer found!"
@@ -18756,16 +18812,18 @@ msgstr ""
 
 #: ../src/MediaDownloader.py:172
 msgid "Where to save?"
-msgstr ""
+msgstr "Kam uložiť?"
 
 #: ../src/plugin.py:58
 msgid "Which file do you want to download?"
-msgstr ""
+msgstr "Ktorý súbor chcete prevziať?"
 
 msgid ""
 "Mounted/\n"
 "Unmounted"
 msgstr ""
+"Pripojené/\n"
+"Odpojené"
 
 msgid "Mount informations"
 msgstr ""
@@ -18774,6 +18832,8 @@ msgid ""
 "Active/\n"
 "Inactive"
 msgstr ""
+"Aktívne/\n"
+"Neaktívne"
 
 msgid "Delete mount"
 msgstr ""
@@ -18972,7 +19032,7 @@ msgid ""
 msgstr ""
 
 msgid "Automatically refresh EPG"
-msgstr ""
+msgstr "Automaticky obnoviť EPG"
 
 msgid "Channels"
 msgstr ""
@@ -19005,13 +19065,13 @@ msgid "EPGRefresh Services"
 msgstr ""
 
 msgid "Edit Services"
-msgstr ""
+msgstr "Upraviť stanice"
 
 msgid "Edit Services to refresh"
-msgstr ""
+msgstr "Upraviť stanice na obnovu"
 
 msgid "Editing"
-msgstr ""
+msgstr "Úprava"
 
 msgid ""
 "Enable this to be able to access the EPGRefresh configuration from within "
@@ -19048,53 +19108,53 @@ msgstr ""
 
 #, python-format
 msgid "Last refresh was %s"
-msgstr ""
+msgstr "Posledná aktualizácia bola %s"
 
 msgid "Main Picture"
 msgstr ""
 
 msgid "PiP available now."
-msgstr ""
+msgstr "PiP je teraz dostupný."
 
 msgid "Picture in Picture (hidden)"
-msgstr ""
+msgstr "Obraz v obraze (skryté)"
 
 msgid "Please don't use PiP meanwhile!"
-msgstr ""
+msgstr "Medzičasom nepoužívajte PiP!"
 
 msgid "Refresh EPG automatically"
-msgstr ""
+msgstr "Aktualizovať EPG automaticky"
 
 msgid "Refresh EPG using"
-msgstr ""
+msgstr "Aktualizovať EPG pomocou"
 
 msgid "Refresh now"
-msgstr ""
+msgstr "Aktualizovať teraz"
 
 msgid "Refreshing"
-msgstr ""
+msgstr "Aktualizujem"
 
 msgid "Run AutoTimer after refresh"
-msgstr ""
+msgstr "Po aktualizácii spustiť Autočasovač"
 
 msgid "Select bouquet to refresh"
-msgstr ""
+msgstr "Zvoľte obľúbené na aktualizáciu"
 
 msgid "Select channel to refresh"
-msgstr ""
+msgstr "Zvoľte stanicu na aktualizáciu"
 
 msgid "Show in extension menu"
 msgstr ""
 
 msgid "Show popup when refresh starts and ends"
-msgstr ""
+msgstr "Zobraziť hlásenie pri začatí a skončení aktualizácie"
 
 msgid "Shutdown after EPG refresh"
-msgstr ""
+msgstr "Vypnúť po aktualizácii EPG"
 
 msgid ""
 "This is the duration each service/channel will stay active during a refresh."
-msgstr ""
+msgstr "Doba, po ktorú zostane stanica aktívna počas aktualizácie"
 
 msgid ""
 "This might have been an automated bootup to refresh the EPG. For this to "
@@ -19106,6 +19166,8 @@ msgid ""
 "This setting controls whether or not an informational message will be shown "
 "at start and completion of refresh."
 msgstr ""
+"Toto nastavenie určuje, či sa zobrazí informácia o začatí a skončení "
+"aktualizácie."
 
 msgid ""
 "This setting controls whether or not the refresh will be initiated even "
@@ -19123,13 +19185,13 @@ msgid ""
 msgstr ""
 
 msgid "Wake up from deep standby for EPG refresh"
-msgstr ""
+msgstr "Zobudiť z hlbokého spánku na aktualizáciu EPG"
 
 msgid "add to EPGRefresh"
-msgstr ""
+msgstr "pridať k EPGRefresh"
 
 msgid "Save epg to file after EPG refresh"
-msgstr ""
+msgstr "Po aktualizácii EPG uložiť epg do súboru"
 
 msgid ""
 "This setting controls whether the cached EPG should be saved to file or not."
@@ -19144,20 +19206,20 @@ msgstr ""
 
 #: ..\src/plugin.py:86
 msgid "keep on device"
-msgstr ""
+msgstr "nechať na zariadení"
 
 #: ..\src/plugin.py:86
 msgid "ask me"
-msgstr ""
+msgstr "opýtať sa"
 
 #: ..\src/plugin.py:169
 #, python-format
 msgid "Downloading movie: %s"
-msgstr ""
+msgstr "Preberám film: %s"
 
 #: ..\src/plugin.py:254
 msgid "Delete this movie?"
-msgstr ""
+msgstr "Zmazať tento film?"
 
 #: ..\src/plugin.py:296
 msgid "Error getting movies"
@@ -19165,7 +19227,7 @@ msgstr ""
 
 #: ..\src/plugin.py:304
 msgid "Length"
-msgstr ""
+msgstr "Dĺžka"
 
 #: ..\src/plugin.py:430
 msgid "No Feedly configuration"
@@ -19204,51 +19266,51 @@ msgstr ""
 
 #: ..\src/KTmain.py:185
 msgid "Do you want to start the kiddytimer- plugin now."
-msgstr ""
+msgstr "Chcete teraz spustiť modul detského časovača?"
 
 #: ..\src/KTmain.py:325
 msgid "Stop KiddyTimer (this session only)"
-msgstr ""
+msgstr "Zastaviť detský časovač (len táto relácia)"
 
 #: ..\src/KTmain.py:326
 msgid "Increase remaining time"
-msgstr ""
+msgstr "Predĺžiť zvyšný čas"
 
 #: ..\src/KTmain.py:327
 msgid "Decrease remaining time"
-msgstr ""
+msgstr "Skrátiť zvyšný čas"
 
 #: ..\src/KTmain.py:328
 msgid "Set remaining time"
-msgstr ""
+msgstr "Nastaviť zvyšný čas"
 
 #: ..\src/KTmain.py:329
 msgid "Reset todays remaining time"
-msgstr ""
+msgstr "Vynulovať dnešný zvyšný čas"
 
 #: ..\src/KTmain.py:331
 msgid "Start KiddyTimer"
-msgstr ""
+msgstr "Spustiť detský časovač"
 
 #: ..\src/KTmain.py:332 ..\src/KTmain.py:336
 msgid "Enable KiddyTimer for x minutes"
-msgstr ""
+msgstr "Zapnúť detský časovač na x minút"
 
 #: ..\src/KTmain.py:333
 msgid "Disable KiddyTimer"
-msgstr ""
+msgstr "Vypnúť detský časovač"
 
 #: ..\src/KTmain.py:335
 msgid "Enable KiddyTimer"
-msgstr ""
+msgstr "Zapnúť detský časovač"
 
 #: ..\src/KTmain.py:337
 msgid "Please select your KiddyTimer- option"
-msgstr ""
+msgstr "Zvoľte možnosti detského časovača"
 
 #: ..\src/KTmain.py:353
 msgid "Invalid selection"
-msgstr ""
+msgstr "Neplatný výber"
 
 #: ..\src/KTpositioner.py:19 ..\src/KTpositioner.py:21 ..\src/KTsetup.py:147
 #: ..\src/KTsetup.py:149
@@ -19269,7 +19331,7 @@ msgstr ""
 
 #: ..\src/KTsetup.py:55
 msgid "Style of timer"
-msgstr ""
+msgstr "Stýl časovača"
 
 #: ..\src/KTsetup.py:56
 msgid "Timeout for activation dialog"
@@ -19278,7 +19340,7 @@ msgstr ""
 #: ..\src/KTsetup.py:78 ..\src/KTsetup.py:116
 #, python-format
 msgid "Remaining time: %s"
-msgstr ""
+msgstr "Zvyšný čas: %s"
 
 #: ..\src/KTsetup.py:79
 #, python-format
@@ -19287,79 +19349,79 @@ msgstr ""
 
 #: ..\src/KTsetup.py:84
 msgid "Reset clock"
-msgstr ""
+msgstr "Resetovať hodiny"
 
 #: ..\src/KTsetup.py:85
 msgid "Move clock"
-msgstr ""
+msgstr "Premiestniť hodiny"
 
 #: ..\src/MovableScreen.py:17 ..\src/MovableScreen.py:24
 msgid "Save values and close screen"
-msgstr ""
+msgstr "Uložiť hodnoty a zavrieť okno"
 
 #: ..\src/MovableScreen.py:18 ..\src/MovableScreen.py:23
 msgid "Discard changes and close screen"
-msgstr ""
+msgstr "Zrušiť zmeny a zavrieť okno"
 
 #: ..\src/MovableScreen.py:19
 msgid "Move screen to the left"
-msgstr ""
+msgstr "Posunúť okno doľava"
 
 #: ..\src/MovableScreen.py:20
 msgid "Move screen to the right"
-msgstr ""
+msgstr "Posunúť okno doprava"
 
 #: ..\src/MovableScreen.py:21
 msgid "Move screen up"
-msgstr ""
+msgstr "Posunúť okno nahor"
 
 #: ..\src/MovableScreen.py:22
 msgid "Move screen down"
-msgstr ""
+msgstr "Posunúť okno nadol"
 
 #: ..\src/MovableScreen.py:25
 msgid "Move screen to the upper left corner"
-msgstr ""
+msgstr "Posunúť okno do ľavého horného rohu"
 
 #: ..\src/MovableScreen.py:26
 msgid "Center screen at the upper border"
-msgstr ""
+msgstr "Vystrediť okno na horný okraj"
 
 #: ..\src/MovableScreen.py:27
 msgid "Move screen to the upper right corner"
-msgstr ""
+msgstr "Posunúť okno do pravého horného rohu"
 
 #: ..\src/MovableScreen.py:28
 msgid "Move screen to the middle of the left border"
-msgstr ""
+msgstr "Posunúť okno do stredu ľavého okraja"
 
 #: ..\src/MovableScreen.py:29
 msgid "Move screen to the center of your TV"
-msgstr ""
+msgstr "Posunúť okno do stredu obrazovky"
 
 #: ..\src/MovableScreen.py:30
 msgid "Move screen to the middle of the right border"
-msgstr ""
+msgstr "Posunúť okno do stredu pravého okraja"
 
 #: ..\src/MovableScreen.py:31
 msgid "Move screen to the lower left corner"
-msgstr ""
+msgstr "Posunúť okno do ľavého dolného rohu"
 
 #: ..\src/MovableScreen.py:32
 msgid "Center screen at the lower border"
-msgstr ""
+msgstr "Vystrediť okno na dolný okraj"
 
 #: ..\src/MovableScreen.py:33
 msgid "Move screen to the lower right corner"
-msgstr ""
+msgstr "Posunúť okno do pravého dolného rohu"
 
 #: ..\src/MovableScreen.py:34
 msgid "Reset saved position"
-msgstr ""
+msgstr "Vynulovať uloženú polohu"
 
 #: ..\src/plugin.py:16
 msgid "Clock"
-msgstr ""
+msgstr "Hodiny"
 
 #: ..\src/plugin.py:16
 msgid "Smiley"
@@ -19403,7 +19465,7 @@ msgstr ""
 
 #: ../src/CurlyTx.py:103 ../src/CurlyTx.py:106
 msgid "Close window"
-msgstr ""
+msgstr "Zatvoriť okno"
 
 #: ../src/CurlyTx.py:109
 msgid "Show this help screen"
@@ -19439,11 +19501,11 @@ msgstr ""
 
 #: ../src/CurlyTxSettings.py:69
 msgid "Show in main menu"
-msgstr ""
+msgstr "Zobraziť v hlavnom menu"
 
 #: ../src/CurlyTxSettings.py:70
 msgid "Show in extensions menu"
-msgstr ""
+msgstr "Zobraziť v menu rozšírení"
 
 #: ../src/CurlyTxSettings.py:71
 msgid "Menu title"
@@ -19497,15 +19559,15 @@ msgstr ""
 
 #: ../src/CurlyTxSettings.py:223
 msgid "Font size"
-msgstr ""
+msgstr "Veľkosť písma"
 
 #: ../src/plugin.py:36 ../src/plugin.py:43
 msgid "View remote text files"
-msgstr ""
+msgstr "Zobraziť vzdialené textové súbory"
 
 #: ../src/plugin.py:28
 msgid "Automatically zaps back to current service after given Time"
-msgstr ""
+msgstr "Po stanovenom čase automaticky prepne späť na aktuálnu stanicu."
 
 #: ../src/WerbeZapper.py:55
 msgid "Custom"
@@ -19513,22 +19575,24 @@ msgstr ""
 
 #: ../src/WerbeZapper.py:81
 msgid "How many minutes to wait until zapping back?"
-msgstr ""
+msgstr "Koľko minút čakať pred prepnutím späť?"
 
 #: ../src/WerbeZapper.py:38
 msgid ""
 "Timer already running.\n"
 "Stop it?"
 msgstr ""
+"Časovač už beží.\n"
+"Zastaviť ho?"
 
 #: ../src/WerbeZapper.py:47
 msgid "When to Zap back?"
-msgstr ""
+msgstr "Kedy prepnúť späť?"
 
 #: ../src/WerbeZapper.py:104
 #, python-format
 msgid "Zapping back in %d Minutes"
-msgstr ""
+msgstr "Prepnutie späť o %d minút"
 
 #: ../src/InternetRadioSetup.py:50
 msgid "Show in extension menu:"
@@ -19571,52 +19635,52 @@ msgstr ""
 #: ../src/InternetRadioScreen.py:605 ../src/InternetRadioScreen.py:678
 #: ../src/InternetRadioScreen.py:783 ../src/InternetRadioScreen.py:855
 msgid "Countries"
-msgstr ""
+msgstr "Krajiny"
 
 #: ../src/plugin.py:38
 msgid "Screen and OLED"
-msgstr ""
+msgstr "Obrazovka a OLED"
 
 #: ../src/plugin.py:38
 msgid "OLED only"
-msgstr ""
+msgstr "Len OLED"
 
 #: ../src/plugin.py:38
 msgid "Screen only"
-msgstr ""
+msgstr "Len obrazovka"
 
 #: ../src/plugin.py:42
 msgid "1 minutes"
-msgstr ""
+msgstr "1 minúta"
 
 #: ../src/plugin.py:42
 msgid "3 minutes"
-msgstr ""
+msgstr "3 minúty"
 
 #: ../src/plugin.py:43
 msgid "Visualization and Text"
-msgstr ""
+msgstr "Vizualizácia a text"
 
 #: ../src/plugin.py:43
 msgid "Text only"
-msgstr ""
+msgstr "Len text"
 
 #: ../src/plugin.py:43
 msgid "Blank"
-msgstr ""
+msgstr "Prázdna"
 
 #: ../src/plugin.py:70 ../src/plugin.py:72
 msgid "listen to internet-radio"
-msgstr ""
+msgstr "počúvať internetové rádio"
 
 #: ../src/InternetRadioList.py:48 ../src/InternetRadioScreen.py:312
 #: ../src/InternetRadioScreen.py:676
 msgid "Genres"
-msgstr ""
+msgstr "Žánre"
 
 #: ../src/InternetRadioList.py:51
 msgid "Filter:"
-msgstr ""
+msgstr "Filter:"
 
 #: ../src/InternetRadioInformationScreen.py:70
 msgid "Streaming Information"
@@ -19624,11 +19688,11 @@ msgstr ""
 
 #: ../src/InternetRadioScreen.py:253
 msgid "Stations"
-msgstr ""
+msgstr "Stanice"
 
 #: ../src/InternetRadioScreen.py:254
 msgid "Favorites"
-msgstr ""
+msgstr "Obľúbené"
 
 #: ../src/InternetRadioScreen.py:339 ../src/InternetRadioScreen.py:533
 msgid "Stop record"
@@ -19674,16 +19738,16 @@ msgstr ""
 #: ../src/InternetRadioScreen.py:571 ../src/InternetRadioScreen.py:641
 #: ../src/InternetRadioScreen.py:782
 msgid "All Countries"
-msgstr ""
+msgstr "Všetky krajiny"
 
 #: ../src/InternetRadioScreen.py:573 ../src/InternetRadioScreen.py:629
 #: ../src/InternetRadioScreen.py:782
 msgid "All Genres"
-msgstr ""
+msgstr "Všetky žánre"
 
 #: ../src/InternetRadioScreen.py:581
 msgid "Favorite list"
-msgstr ""
+msgstr "Zoznam obľúbených"
 
 #: ../src/InternetRadioScreen.py:589
 #, python-format
@@ -19743,7 +19807,7 @@ msgstr ""
 
 #: ../src/InternetRadioScreen.py:818
 msgid "Fullscreen"
-msgstr ""
+msgstr "Celá obrazovka"
 
 #: ../src/InternetRadioScreen.py:820
 msgid "Show TV"
@@ -19755,7 +19819,7 @@ msgstr ""
 
 #: ../src/InternetRadioScreen.py:890
 msgid "Enter text to search for"
-msgstr ""
+msgstr "Zadajte text na hľadanie"
 
 #: ../src/InternetRadioScreen.py:894
 #, python-format
@@ -19782,7 +19846,7 @@ msgstr ""
 
 #: ../src/InternetRadioOledDisplay.py:123
 msgid "Internet Radio"
-msgstr ""
+msgstr "Internetové rádio"
 
 #: ../src/plugin.py:383 ../src/plugin.py:384
 msgid "No OFDb match."
@@ -19841,43 +19905,43 @@ msgstr ""
 #: ../src/eparted.py:102
 #, python-format
 msgid "Error command '%s'"
-msgstr ""
+msgstr "Chybný príkaz '%s'"
 
 #: ../src/eparted.py:172
 msgid "partition(s)"
-msgstr ""
+msgstr "partícia(e)"
 
 #: ../src/eparted.py:190
 msgid "add partition"
-msgstr ""
+msgstr "Pridať partíciu"
 
 #: ../src/eparted.py:214
 #, python-format
 msgid "size in %s (max %d %s):"
-msgstr ""
+msgstr "veľkosť v %s (max %d %s):"
 
 #: ../src/eparted.py:215
 msgid "filesystem:"
-msgstr ""
+msgstr "systém súborov:"
 
 #: ../src/eparted.py:310
 msgid "Nr"
-msgstr ""
+msgstr "č."
 
 #: ../src/eparted.py:428
 #, python-format
 msgid "create partition %s"
-msgstr ""
+msgstr "vytvoriť partíciu %s"
 
 #: ../src/eparted.py:444
 #, python-format
 msgid "make filesystem '%s' on partition %s (%d %s)"
-msgstr ""
+msgstr "vytvoriť systém súborov '%s' na partícii %s (%d %s)"
 
 #: ../src/eparted.py:453
 #, python-format
 msgid "delete partition %s"
-msgstr ""
+msgstr "zmazať partíciu %s"
 
 #: ../src/eparted.py:486 ../src/eparted.py:518
 msgid "execute"
@@ -19885,7 +19949,7 @@ msgstr ""
 
 #: ../src/eparted.py:594
 msgid "Please Wait"
-msgstr ""
+msgstr "Čakajte"
 
 #: src/AC3main.py:57
 msgid "Service delay"
@@ -20028,7 +20092,7 @@ msgstr ""
 
 #: ../src/plugin.py:130
 msgid "A simple to use RSS reader"
-msgstr ""
+msgstr "Jednoducho používateľná čítačka RSS"
 
 #: ../src/RSSSetup.py:27
 msgid "Autoupdate"
@@ -20096,51 +20160,53 @@ msgstr ""
 
 #: ../src/RSSSetup.py:112
 msgid "Keep running in background"
-msgstr ""
+msgstr "Nechať bežať v pozadí"
 
 #: ../src/RSSPoller.py:36
 msgid "New Items"
-msgstr ""
+msgstr "Nové položky"
 
 #: ../src/RSSPoller.py:37
 msgid "New Items since last Auto-Update"
-msgstr ""
+msgstr "Nové položky od poslednej autoaktualizácie"
 
 #: ../src/RSSScreens.py:174
 msgid "No such Item."
-msgstr ""
+msgstr "Taká položka nie je."
 
 #: ../src/plugin.py:13
 msgid "Notification"
-msgstr ""
+msgstr "Oznámenie"
 
 #: ../src/RSSSetup.py:141
 msgid ""
 "Really delete this entry?\n"
 "It cannot be recovered!"
 msgstr ""
+"Naozaj zmazať túto položku?\n"
+"Nedá sa potom obnoviť!"
 
 #: ../src/RSSPoller.py:194
 #, python-format
 msgid "Received %d new news item(s)."
-msgstr ""
+msgstr "Prijatých %d nových správ."
 
 #: ../src/RSSSetup.py:118
 msgid "Show new Messages as"
-msgstr ""
+msgstr "Zobraziť nové správy ako"
 
 #: ../src/RSSScreens.py:370
 msgid "Simple RSS Reader"
-msgstr ""
+msgstr "Jednoduchá čítačka RSS"
 
 #: ../src/RSSSetup.py:47 ../src/RSSSetup.py:98
 msgid "Simple RSS Reader Setup"
-msgstr ""
+msgstr "Nastavenie jednoduchej čítačky RSS"
 
 #: ../src/RSSScreens.py:117 ../src/RSSScreens.py:263
 #, python-format
 msgid "Simple RSS Reader: %s"
-msgstr ""
+msgstr "Jednoduchá čítačka RSS: %s"
 
 #: ../src/RSSPoller.py:125
 #, python-format
@@ -20151,7 +20217,7 @@ msgstr ""
 
 #: ../src/RSSSetup.py:109
 msgid "Start automatically with Enigma2"
-msgstr ""
+msgstr "Spustiť automaticky s Enigmou2"
 
 #: ../src/plugin.py:120
 msgid "Subscribe Newsfeed..."
@@ -20163,7 +20229,7 @@ msgstr ""
 
 #: ../src/RSSSetup.py:119
 msgid "Update Interval (min)"
-msgstr ""
+msgstr "Interval aktualizácie (min)"
 
 #: ../src/RSSScreens.py:54
 msgid ""
@@ -20177,7 +20243,7 @@ msgstr ""
 
 #: ../src/RSSScreens.py:409
 msgid "What to do?"
-msgstr ""
+msgstr "Čo urobiť?"
 
 #: ../src/EPGSearch.py:257 EPGSearch.py:466
 #, python-format
@@ -20330,15 +20396,14 @@ msgstr "Určiť, či sa pri hľadaní v EPG majú zohľadniť VEĽKÉ/malé pís
 
 #: EPGSearchSetup.py:44
 msgid "Limit \"Search\" to Channels from Bouquet (TV or Radio)"
-msgstr "Obmedhiť \"Hľadanie\" na stanice z buketu (TV alebo Rádio)"
+msgstr "Obmedziť \"Hľadanie\" na stanice z obľúbených (TV alebo Rádio)"
 
 #: EPGSearchSetup.py:44
 msgid ""
 "If enabled, only search results for Channels within a Bouquet are shown "
 "(either TV or Radio Bouquets)."
 msgstr ""
-"Ak je zapnuté, zobrazia sa len výsledky staníc z buketu (bukety TV alebo "
-"Rádio)"
+"Ak je zapnuté, zobrazia sa len výsledky staníc z obľúbených (TV alebo Rádio)"
 
 #: EPGSearchSetup.py:45
 msgid "Type of match for search string"
@@ -20388,7 +20453,7 @@ msgstr "Zhoda s hľadaným reťazcom: presná, na začiatku, kdekoľvek"
 
 #: EPGSearch.py:199
 msgid "Toggle: search all Channels or only Channels in Bouquet"
-msgstr "Prepnúť: prehľadať všetky stanice alebo len stanice v bukete"
+msgstr "Prepnúť: prehľadať všetky stanice alebo len stanice v obľúbených"
 
 #: EPGSearch.py:219 EPGSearch.py:374
 msgid "Search all channels"
@@ -20396,7 +20461,7 @@ msgstr "Prehľadať všetky stanice"
 
 #: EPGSearch.py:221 EPGSearch.py:376
 msgid "Limit to bouquet"
-msgstr "Obmedziť na buket"
+msgstr "Obmedziť na obľúbené"
 
 #: EPGSearch.py:223 EPGSearch.py:367
 msgid "Match any substring"
@@ -20451,16 +20516,16 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:79
 msgid "Enable zap history:"
-msgstr ""
+msgstr "Zapnúť históriu prepínania"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:80
 msgid "Maximum zap history entries:"
-msgstr ""
+msgstr "Max. počet položiek hist. prep."
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:123
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:217
 msgid "Zap-History Browser"
-msgstr ""
+msgstr "Prehľadávač histórie prepínania"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:133
 msgid "Clear"
@@ -20468,30 +20533,30 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:135
 msgid "Zap & Close"
-msgstr ""
+msgstr "Prepnúť a zatvoriť"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:54
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Permanent Clock"
-msgstr ""
+msgstr "Trvalé hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:178
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Deactivate permanent clock"
-msgstr ""
+msgstr "Vypnúť trvalé hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:180
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Activate permanent clock"
-msgstr ""
+msgstr "Zapnúť trvalé hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:181
 msgid "Change permanent clock position"
-msgstr ""
+msgstr "Zmeniť polohu trvalých hodín"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Shows the clock permanent on the screen"
-msgstr ""
+msgstr "Zobrazí hodiny trvale na obrazovke"
 
 #: ../src/plugin.py:69
 msgid "A video streaming solution based on VLC"
@@ -20499,19 +20564,19 @@ msgstr ""
 
 #: ../src/VlcServerConfig.py:318
 msgid "Audio Bitrate"
-msgstr ""
+msgstr "Dátový tok zvuku"
 
 #: ../src/VlcServerConfig.py:320
 msgid "Audio Channels"
-msgstr ""
+msgstr "Zvukové kanály"
 
 #: ../src/VlcServerConfig.py:317
 msgid "Audio Codec"
-msgstr ""
+msgstr "Zvukový kodek"
 
 #: ../src/VlcServerConfig.py:319
 msgid "Audio Samplerate"
-msgstr ""
+msgstr "Vzorkovací kmitočet zvuku"
 
 #: ../src/VlcServerConfig.py:306
 msgid "DVD Device (leave empty for default)"
@@ -20559,7 +20624,7 @@ msgstr ""
 
 #: ../src/VlcMediaList.py:62
 msgid "Filelist"
-msgstr ""
+msgstr "Zoznam súborov"
 
 #: ../src/VlcServerList.py:80
 msgid "List of known VLC-Server Profiles"
@@ -20567,7 +20632,7 @@ msgstr ""
 
 #: ../src/VlcServerConfig.py:305
 msgid "Movie Directory"
-msgstr ""
+msgstr "Adresár filmov"
 
 #: ../src/VlcPlayer.py:445
 msgid "No more files in this directory"
@@ -20590,11 +20655,11 @@ msgstr ""
 
 #: ../src/VlcServerList.py:126
 msgid "Really delete this Server?"
-msgstr ""
+msgstr "Naozaj zmazať tento server?"
 
 #: ../src/VlcServerConfig.py:302
 msgid "Server Address"
-msgstr ""
+msgstr "Adresa servera"
 
 #: ../src/VlcServerConfig.py:300
 msgid "Server Profile Name"
@@ -20602,7 +20667,7 @@ msgstr ""
 
 #: ../src/VlcMediaList.py:57
 msgid "Serverlist"
-msgstr ""
+msgstr "Zoznam serverov"
 
 #: ../src/VlcServerConfig.py:314
 msgid "Subtitle overlay"
@@ -20618,69 +20683,71 @@ msgstr ""
 
 #: ../src/VlcServerConfig.py:310
 msgid "Video Bitrate"
-msgstr ""
+msgstr "Dátový tok obrazu"
 
 #: ../src/VlcServerConfig.py:309
 msgid "Video Codec"
-msgstr ""
+msgstr "Obrazový kodek"
 
 #: ../src/VlcServerConfig.py:311
 msgid "Video Norm"
-msgstr ""
+msgstr "Obrazová norma"
 
 #: ../src/VlcServerList.py:83
 msgid "add server"
-msgstr ""
+msgstr "pridať server"
 
 #: ../src/VlcServerList.py:82
 msgid "delete server"
-msgstr ""
+msgstr "odstrániť server"
 
 #: ../src/VlcServerList.py:84
 msgid "edit server"
-msgstr ""
+msgstr "upraviť server"
 
 #: ../src/VlcMediaList.py:55 ../src/VlcMediaList.py:119
 msgid "filter off"
-msgstr ""
+msgstr "filter vyp."
 
 #: ../src/VlcMediaList.py:122
 msgid "filter on"
-msgstr ""
+msgstr "filter zap."
 
 #: ../src/VlcMediaList.py:58
 msgid "play DVD"
-msgstr ""
+msgstr "prehrať DVD"
 
 #: ../src/VlcMediaList.py:56
 msgid "refresh"
-msgstr ""
+msgstr "obnoviť"
 
 #: ../src/VlcServerList.py:85
 msgid "set default"
-msgstr ""
+msgstr "nastaviť ako predvolené"
 
 #: ../src/plugin.py:251
 msgid "Add new tag..."
-msgstr ""
+msgstr "Pridať novú značku..."
 
 #: ../src/plugin.py:255
 msgid "Delete all tags..."
-msgstr ""
+msgstr "Zmazať všetky značky..."
 
 #: ../src/plugin.py:253
 msgid "Delete this tag..."
-msgstr ""
+msgstr "Zmazať túto značku..."
 
 #: ../src/plugin.py:254
 msgid "Delete unused tags"
-msgstr ""
+msgstr "Zmazať nepoužité značky"
 
 #: ../src/plugin.py:237
 msgid ""
 "Do you really want to delete all tags everywhere?\n"
 "(Note that 'Cancel' will not undo this!)"
 msgstr ""
+"Naozaj chcete zmazať všetky značky všade?\n"
+"(Tlačidlom „Zrušiť“ to nevrátite späť!)"
 
 #: ../src/plugin.py:220
 #, python-format
@@ -20688,14 +20755,16 @@ msgid ""
 "Do you really want to delete tag \"%s\" everywhere?\n"
 "(Note that 'Cancel' will not undo this!)"
 msgstr ""
+"Naozaj chcete zmazať značku \"%s\" všade?\n"
+"(Tlačidlom „Zrušiť“ to nevrátite späť!)"
 
 #: ../src/plugin.py:77
 msgid "Please enter the new tag"
-msgstr ""
+msgstr "Zadajte novú značku"
 
 #: ../src/plugin.py:252
 msgid "Rename this tag..."
-msgstr ""
+msgstr "Premenovať táto značku..."
 
 #: ../src/plugin.py:200
 #, python-format
@@ -20703,10 +20772,12 @@ msgid ""
 "Replace tag \"%s\" everywhere with:   (Note that 'Cancel' will not undo "
 "this!)"
 msgstr ""
+"Nahradiť značku \"%s\" všade značkou:   (Tlačidlom „Zrušiť“ to nevrátite "
+"späť!)"
 
 #: ../src/plugin.py:25
 msgid "edit tags..."
-msgstr ""
+msgstr "upraviť značky..."
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:81
 msgid "Jump x minutes forward:"
@@ -20729,7 +20800,7 @@ msgid "Overwrite left and right buttons:"
 msgstr ""
 
 msgid "AutoTimer Settings"
-msgstr ""
+msgstr "Nastavenia autočasovača"
 
 msgid "Poll automatically"
 msgstr ""
@@ -20864,87 +20935,91 @@ msgid "If enabled, the polling will be skipped if the Dreambox is recording."
 msgstr ""
 
 msgid "Configure AutoTimer behavior"
-msgstr ""
+msgstr "Nastaviť správanie autočasovača"
 
 msgid "Edit selected AutoTimer"
-msgstr ""
+msgstr "Upraviť zvolený autočasovač"
 
 msgid "Close and forget changes"
-msgstr ""
+msgstr "Zatvoriť a zabudnúť zmeny"
 
 msgid "Open Context Menu"
-msgstr ""
+msgstr "Otvoriť kontextové menu"
 
 msgid "Close and save changes"
-msgstr ""
+msgstr "Zatvoriť a uložiť zmeny"
 
 msgid "Remove selected AutoTimer"
-msgstr ""
+msgstr "Odstrániť zvolený autočasovač"
 
 msgid "Add new AutoTimer"
-msgstr ""
+msgstr "Pridať nový autočasovač"
 
 msgid "AutoTimer overview"
-msgstr ""
+msgstr "Prehľad autočasovačov"
 
 msgid "Import existing Timer"
-msgstr ""
+msgstr "Importovať existujúci časovač"
 
 msgid "Edit new timer defaults"
-msgstr ""
+msgstr "Upraviť predvoľby nového časovača"
 
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Často kladené otázky"
 
 msgid "Create a new timer using the classic editor"
-msgstr ""
+msgstr "Vytvoriť nový časovač klasickým editorom"
 
 msgid "Create a new timer using the wizard"
-msgstr ""
+msgstr "Vytvoriť nový časovač cez sprievodcu"
 
 #, python-format
 msgid ""
 "%d conflict(s) encountered when trying to add new timers:\n"
 "%s"
 msgstr ""
+"Zistených %d konflikt(ov) pri pokuse pridať nové časovače:\n"
+"%s"
 
 #, python-format
 msgid "%s: %s at %s"
-msgstr ""
+msgstr "%s: %s o %s"
 
 #, python-format
 msgid ""
 "%d conflict(s) solved with similar timer(s):\n"
 "%s"
 msgstr ""
+"%d konflikt(ov) vyriešených podobnými časovač(mi):\n"
+"%s"
 
 msgid "Select a timer to import"
-msgstr ""
+msgstr "Zvoľte časovač na import"
 
 #, python-format
 msgid "Match title: %s"
-msgstr ""
+msgstr "Zhoda názvu: %s"
 
 msgid "Exact match"
-msgstr ""
+msgstr "Presná zhoda"
 
 #, python-format
 msgid "Match Timespan: %02d:%02d - %02d:%02d"
-msgstr ""
+msgstr "Zhoda časového obdobia: %02d:%02d - %02d:%02d"
 
 #, python-format
 msgid "Only on Weekday: %s"
-msgstr ""
+msgstr "Len v prac. deň: %s"
 
 #, python-format
 msgid "Only on Service: %s"
-msgstr ""
+msgstr "Len na stanici: %s"
 
 msgid "Timer type"
-msgstr ""
+msgstr "Typ časovača"
 
 msgid "Import AutoTimer"
-msgstr ""
+msgstr "Importovať autočasovač"
 
 #, python-format
 msgid ""
@@ -20974,10 +21049,10 @@ msgid "Edit Timers and scan for new Events"
 msgstr ""
 
 msgid "add AutoTimer"
-msgstr ""
+msgstr "pridať autočasovač"
 
 msgid "add AutoTimer..."
-msgstr ""
+msgstr "pridať autočasovač..."
 
 msgid "Preview AutoTimer"
 msgstr ""
@@ -20989,32 +21064,32 @@ msgid "Only match during timespan"
 msgstr ""
 
 msgid "Begin of timespan"
-msgstr ""
+msgstr "Začiatok časového obdobia"
 
 msgid "End of timespan"
-msgstr ""
+msgstr "Koniec časového obdobia"
 
 msgid "Match title"
-msgstr ""
+msgstr "Zhoda názvu"
 
 msgid "AutoTimer was removed"
-msgstr ""
+msgstr "Autočasovač bol odstránený"
 
 msgid "missing parameter \"id\""
-msgstr ""
+msgstr "chýba parameter \"id\""
 
 #, python-format
 msgid "unable to find timer with id %i"
-msgstr ""
+msgstr "Nemôžem nájsť časovač s id %i"
 
 msgid "autotimers need a match attribute"
-msgstr ""
+msgstr "autočasovače potrebujú atribút zhody"
 
 msgid "AutoTimer was added successfully"
-msgstr ""
+msgstr "Autočasovač bol úspešne pridaný"
 
 msgid "AutoTimer was changed successfully"
-msgstr ""
+msgstr "Autočasovač bol úspešne zmenený"
 
 msgid "config changed."
 msgstr ""
@@ -21023,94 +21098,98 @@ msgid "Only AutoTimers created during this session"
 msgstr ""
 
 msgid "All non-repeating timers"
-msgstr ""
+msgstr "Všetky neopakujúce sa časovače"
 
 msgid "Classic"
-msgstr ""
+msgstr "klasicky"
 
 msgid "Wizard"
-msgstr ""
+msgstr "sprievodca"
 
 msgid "Weekend"
-msgstr ""
+msgstr "víkend"
 
 msgid "partial match"
-msgstr ""
+msgstr "čiastočná zhoda"
 
 msgid "description match"
-msgstr ""
+msgstr "zhoda opisu"
 
 msgid "case-sensitive search"
-msgstr ""
+msgstr "hľadanie VEĽKÉ/malé"
 
 msgid "case-insensitive search"
-msgstr ""
+msgstr "veľkosť písmen nerozhoduje"
 
 msgid "%d.%B %Y"
 msgstr ""
 
 msgid "Never"
-msgstr ""
+msgstr "nikdy"
 
 msgid "Monthly"
-msgstr ""
+msgstr "mesačne"
 
 msgid "Weekly (Sunday)"
-msgstr ""
+msgstr "týždenne (nedeľa)"
 
 msgid "Weekly (Monday)"
-msgstr ""
+msgstr "týždenne (pondelok)"
 
 #, python-format
 msgid "Custom (%s)"
-msgstr ""
+msgstr "vlastné (%s)"
 
 msgid "On same service"
-msgstr ""
+msgstr "Na rovnakej stanici"
 
 msgid "On any service"
-msgstr ""
+msgstr "Na ktorejkoľvek stanici"
 
 msgid "Any service/recording"
-msgstr ""
+msgstr "Akákoľvek stanica/nahrávka"
 
 msgid "Title and Short description"
-msgstr ""
+msgstr "Názov a stručný opis"
 
 msgid "Title and all descriptions"
-msgstr ""
+msgstr "Názov a všetky opisy"
 
 msgid "AutoTimer Editor"
-msgstr ""
+msgstr "Editor autočasovača"
 
 msgid "Edit AutoTimer"
-msgstr ""
+msgstr "Upraviť autočasovač"
 
 msgid "edit filters"
-msgstr ""
+msgstr "upraviť filtre"
 
 msgid "add filters"
-msgstr ""
+msgstr "pridať filtre"
 
 msgid "edit services"
-msgstr ""
+msgstr "upraviť stanice"
 
 msgid "add services"
-msgstr ""
+msgstr "pridať stanice"
 
 msgid "Set this NO to disable this AutoTimer."
-msgstr ""
+msgstr "Nastavte NIE, čím zrušíte tento autočasovač."
 
 msgid ""
 "This is a name you can give the AutoTimer. It will be shown in the Overview "
 "and the Preview."
 msgstr ""
+"Toto je názov, ktorý môžete dať autočasovaču. Zobrazí  sa v prehľade a "
+"náhľade."
 
 msgid ""
 "This is what will be looked for in event titles. Note that looking for e.g. "
 "german umlauts can be tricky as you have to know the encoding the channel "
 "uses."
 msgstr ""
+"Toto sa bude hľadať v názve udalostí. Pamätajte, že hľadanie špeciálnych "
+"(diakritických) znakov je závislé od aktuálneho kódovania použitého stanicou."
 
 msgid ""
 "Encoding the channel uses for it's EPG data. You only need to change this if "
@@ -21253,10 +21332,10 @@ msgid "Restrict to events on certain dates"
 msgstr ""
 
 msgid "Not before"
-msgstr ""
+msgstr "Nie pred"
 
 msgid "Not after"
-msgstr ""
+msgstr "Nie po"
 
 msgid "Custom offset"
 msgstr ""
@@ -21268,10 +21347,10 @@ msgid "Offset after recording (in m)"
 msgstr ""
 
 msgid "Set maximum duration"
-msgstr ""
+msgstr "Nastavte max. trvanie"
 
 msgid "Maximum duration (in m)"
-msgstr ""
+msgstr "Maximálne trvanie (v min)"
 
 msgid "Execute \"after event\" during timespan"
 msgstr ""
@@ -21313,40 +21392,40 @@ msgid "Label series"
 msgstr ""
 
 msgid "The match attribute is mandatory."
-msgstr ""
+msgstr "Atribút zhody je povinný."
 
 msgid "AutoTimer Filters"
-msgstr ""
+msgstr "Filtre Autočasovača"
 
 msgid "in Title"
-msgstr ""
+msgstr "v názve"
 
 msgid "in Shortdescription"
-msgstr ""
+msgstr "v stručnom opise"
 
 msgid "in Description"
-msgstr ""
+msgstr "v opise"
 
 msgid "on Weekday"
-msgstr ""
+msgstr "v pracovný deň"
 
 msgid "Edit AutoTimer filters"
-msgstr ""
+msgstr "Upraviť filtre Autočasovača"
 
 msgid "Enable Filtering"
-msgstr ""
+msgstr "Zapnúť filtrovanie"
 
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Vylúčiť"
 
 msgid "Include"
-msgstr ""
+msgstr "Zahrnúť"
 
 msgid "Select type of Filter"
-msgstr ""
+msgstr "Zvoľte druh filtra"
 
 msgid "AutoTimer Services"
 msgstr ""
@@ -21370,7 +21449,7 @@ msgid "Abort this Wizard."
 msgstr ""
 
 msgid "Create a new AutoTimer."
-msgstr ""
+msgstr "Vytvoriť nový autočasovač"
 
 msgid ""
 "Filters are another powerful tool when matching events. An AutoTimer can be "
@@ -21688,7 +21767,7 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1426
 #, python-format
 msgid "Delete %s?"
-msgstr ""
+msgstr "Zmazať %s?"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1435
 msgid "Search http://rapidshare-search-engine.com for:"
@@ -21713,11 +21792,11 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:309
 msgid " Results"
-msgstr ""
+msgstr "Výsledky"
 
 #: ../src/plugin.py:1104 ../src/plugin.py:1270
 msgid "Added: "
-msgstr ""
+msgstr "Pridané:"
 
 #: ../src/MyTubeSearch.py:168 ../src/plugin.py:56
 msgid "All Time"
@@ -21725,28 +21804,28 @@ msgstr ""
 
 #: ../src/plugin.py:423
 msgid "An error occured."
-msgstr ""
+msgstr "Vyskytla sa chyba."
 
 #: ../src/MyTubeSearch.py:228 ../src/plugin.py:116
 msgid "Ascending"
-msgstr ""
+msgstr "Vzostupne"
 
 #: ../src/MyTubeSearch.py:201 ../src/MyTubeSearch.py:208 ../src/plugin.py:89
 #: ../src/plugin.py:96
 msgid "Australia"
-msgstr ""
+msgstr "Austrália"
 
 #: ../src/MyTubeSearch.py:182 ../src/plugin.py:70
 msgid "Autos & Vehicles"
-msgstr ""
+msgstr "Autá a vozidlá"
 
 #: ../src/MyTubeSearch.py:202 ../src/plugin.py:90
 msgid "Brazil"
-msgstr ""
+msgstr "Brazília"
 
 #: ../src/MyTubeSearch.py:203 ../src/plugin.py:91
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 #: ../src/MyTubeSearch.py:433
 msgid "Clear history on Exit:"
@@ -21758,23 +21837,23 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:204 ../src/plugin.py:92
 msgid "Czech Republic"
-msgstr ""
+msgstr "Česká republika"
 
 #: ../src/MyTubeSearch.py:229 ../src/plugin.py:117
 msgid "Descending"
-msgstr ""
+msgstr "Zostupne"
 
 #: ../src/MyTubeSearch.py:414
 msgid "Display search results by:"
-msgstr ""
+msgstr "Zobraziť výsledky hľadania podľa:"
 
 #: ../src/plugin.py:719
 msgid "Do you want to see more entries?"
-msgstr ""
+msgstr "Chcete vidieť viac položiek?"
 
 #: ../src/plugin.py:485
 msgid "Download Video"
-msgstr ""
+msgstr "Prevziať video"
 
 #: ../src/MyTubeSearch.py:430
 msgid "Download location"
@@ -21786,19 +21865,19 @@ msgstr ""
 
 #: ../src/plugin.py:1104 ../src/plugin.py:1264
 msgid "Duration: "
-msgstr ""
+msgstr "Trvanie:"
 
 #: ../src/MyTubeSearch.py:193 ../src/plugin.py:81
 msgid "Education"
-msgstr ""
+msgstr "Výchova"
 
 #: ../src/plugin.py:526
 msgid "Enter your search term(s)"
-msgstr ""
+msgstr "Zadajte hľadaný text"
 
 #: ../src/MyTubeSearch.py:192 ../src/plugin.py:80
 msgid "Entertainment"
-msgstr ""
+msgstr "Zábava"
 
 #: ../src/plugin.py:371 ../src/plugin.py:413
 msgid "Fetching feed entries"
@@ -21814,23 +21893,23 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:188 ../src/plugin.py:76
 msgid "Gaming"
-msgstr ""
+msgstr "Hry"
 
 #: ../src/MyTubeSearch.py:207 ../src/plugin.py:95
 msgid "Great Britain"
-msgstr ""
+msgstr "Veľká Británia"
 
 #: ../src/MyTubeSearch.py:237 ../src/plugin.py:125 ../src/plugin.py:752
 msgid "HD videos"
-msgstr ""
+msgstr "HD videá"
 
 #: ../src/MyTubeSearch.py:209 ../src/plugin.py:97
 msgid "Holland"
-msgstr ""
+msgstr "Holandsko"
 
 #: ../src/MyTubeSearch.py:210 ../src/plugin.py:98
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 #: ../src/MyTubeSearch.py:194 ../src/plugin.py:82
 msgid "Howto & Style"
@@ -21838,19 +21917,19 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:211 ../src/plugin.py:99
 msgid "India"
-msgstr ""
+msgstr "India"
 
 #: ../src/MyTubeSearch.py:212 ../src/plugin.py:100
 msgid "Ireland"
-msgstr ""
+msgstr "Írsko"
 
 #: ../src/MyTubeSearch.py:213 ../src/plugin.py:101
 msgid "Israel"
-msgstr ""
+msgstr "Izrael"
 
 #: ../src/MyTubeSearch.py:215 ../src/plugin.py:103
 msgid "Japan"
-msgstr ""
+msgstr "Japonsko"
 
 #: ../src/MyTubeSearch.py:418
 msgid "Load feed on startup:"
@@ -21858,7 +21937,7 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:216 ../src/plugin.py:104
 msgid "Mexico"
-msgstr ""
+msgstr "Mexiko"
 
 #: ../src/plugin.py:929
 msgid "More video entries."
@@ -21866,7 +21945,7 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:241 ../src/plugin.py:129 ../src/plugin.py:759
 msgid "Most discussed"
-msgstr ""
+msgstr "Najdiskutovanejšie"
 
 #: ../src/MyTubeSearch.py:243 ../src/plugin.py:131 ../src/plugin.py:760
 msgid "Most linked"
@@ -21874,11 +21953,11 @@ msgstr ""
 
 #: ../src/plugin.py:757
 msgid "Most popular"
-msgstr ""
+msgstr "Najpopulárnejšie"
 
 #: ../src/MyTubeSearch.py:245 ../src/plugin.py:133 ../src/plugin.py:758
 msgid "Most recent"
-msgstr ""
+msgstr "Najnovšie"
 
 #: ../src/MyTubeSearch.py:244 ../src/plugin.py:132 ../src/plugin.py:762
 msgid "Most responded"
@@ -21886,7 +21965,7 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:238 ../src/plugin.py:126 ../src/plugin.py:756
 msgid "Most viewed"
-msgstr ""
+msgstr "Najsledovanejšie"
 
 #: ../src/plugin.py:1738
 msgid "My TubePlayer"
@@ -21894,7 +21973,7 @@ msgstr ""
 
 #: ../src/plugin.py:472 ../src/plugin.py:478
 msgid "MyTube Settings"
-msgstr ""
+msgstr "Nastavenia MyTube"
 
 #: ../src/plugin.py:384
 msgid "MyTubePlayer"
@@ -21922,11 +22001,11 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:217 ../src/plugin.py:105
 msgid "New Zealand"
-msgstr ""
+msgstr "Nový Zéland"
 
 #: ../src/MyTubeSearch.py:191 ../src/plugin.py:79
 msgid "News & Politics"
-msgstr ""
+msgstr "Správy a politika"
 
 #: ../src/plugin.py:1702
 msgid "No playable video found! Stop playing this movie?"
@@ -21966,15 +22045,15 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:249 ../src/plugin.py:136
 msgid "Play next video"
-msgstr ""
+msgstr "Prehrať ďalšie video"
 
 #: ../src/MyTubeSearch.py:249 ../src/plugin.py:136
 msgid "Play video again"
-msgstr ""
+msgstr "Znova prehrať video"
 
 #: ../src/plugin.py:433
 msgid "Please enter your search term."
-msgstr ""
+msgstr "Zadajte hľadaný text."
 
 #: ../src/plugin.py:429
 msgid "Please select a standard feed or try searching for videos."
@@ -21982,7 +22061,7 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:218 ../src/plugin.py:106
 msgid "Poland"
-msgstr ""
+msgstr "Poľsko"
 
 #: ../src/MyTubeSearch.py:163 ../src/plugin.py:51
 msgid "Published"
@@ -21990,11 +22069,11 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:164 ../src/plugin.py:52
 msgid "Rating"
-msgstr ""
+msgstr "Hodnotenie"
 
 #: ../src/plugin.py:1104
 msgid "Ratings: "
-msgstr ""
+msgstr "Hodnotenia:"
 
 #: ../src/plugin.py:580
 msgid "Really quit MyTube Player?"
@@ -22010,7 +22089,7 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:161 ../src/plugin.py:49
 msgid "Relevance"
-msgstr ""
+msgstr "Dôležitosť"
 
 #: ../src/plugin.py:943
 msgid "Response video entries."
@@ -22018,23 +22097,23 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:219 ../src/plugin.py:107
 msgid "Russia"
-msgstr ""
+msgstr "Rusko"
 
 #: ../src/MyTubeSearch.py:196 ../src/plugin.py:84
 msgid "Science & Technology"
-msgstr ""
+msgstr "Veda a technika"
 
 #: ../src/plugin.py:388
 msgid "Search Term(s)"
-msgstr ""
+msgstr "Hľadané slovo(á)"
 
 #: ../src/MyTubeSearch.py:416
 msgid "Search category:"
-msgstr ""
+msgstr "Hľadaná kategória:"
 
 #: ../src/MyTubeSearch.py:417
 msgid "Search region:"
-msgstr ""
+msgstr "Hľadaná oblasť:"
 
 #: ../src/MyTubeSearch.py:415
 msgid "Search restricted content:"
@@ -22050,19 +22129,19 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:187 ../src/plugin.py:75
 msgid "Short Movies"
-msgstr ""
+msgstr "Krátke filmy"
 
 #: ../src/MyTubeSearch.py:220 ../src/plugin.py:108
 msgid "South Korea"
-msgstr ""
+msgstr "Južná Kórea"
 
 #: ../src/MyTubeSearch.py:221 ../src/plugin.py:109
 msgid "Spain"
-msgstr ""
+msgstr "Španielsko"
 
 #: ../src/MyTubeSearch.py:185 ../src/plugin.py:73
 msgid "Sports"
-msgstr ""
+msgstr "Šport"
 
 #: ../src/MyTubeSearch.py:421
 msgid "Start with following feed:"
@@ -22074,15 +22153,15 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:222 ../src/plugin.py:110
 msgid "Sweden"
-msgstr ""
+msgstr "Švédsko"
 
 #: ../src/plugin.py:1276
 msgid "Tags: "
-msgstr ""
+msgstr "Značky: "
 
 #: ../src/MyTubeSearch.py:223 ../src/plugin.py:111
 msgid "Taiwan"
-msgstr ""
+msgstr "Tchajwan"
 
 #: ../src/plugin.py:423
 msgid "There was an error getting the feed entries. Please try again."
@@ -22090,11 +22169,11 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:169 ../src/plugin.py:57
 msgid "This Month"
-msgstr ""
+msgstr "Tento mesiac"
 
 #: ../src/MyTubeSearch.py:170 ../src/plugin.py:58
 msgid "This Week"
-msgstr ""
+msgstr "Tento týždeň"
 
 #: ../src/plugin.py:1420
 msgid "This is the help screen. Feed me with something to display."
@@ -22102,11 +22181,11 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:242 ../src/plugin.py:130 ../src/plugin.py:755
 msgid "Top favorites"
-msgstr ""
+msgstr "Najobľúbenejšie"
 
 #: ../src/MyTubeSearch.py:239 ../src/plugin.py:127 ../src/plugin.py:754
 msgid "Top rated"
-msgstr ""
+msgstr "Najlepšie hodnotené"
 
 #: ../src/MyTubeSearch.py:186 ../src/plugin.py:74
 msgid "Travel & Events"
@@ -22122,7 +22201,7 @@ msgstr ""
 
 #: ../src/MyTubeSearch.py:224 ../src/plugin.py:112
 msgid "United States"
-msgstr ""
+msgstr "Spojené štáty"
 
 #: ../src/MyTubeSearch.py:423
 msgid "Videobrowser exit behavior:"
@@ -22138,7 +22217,7 @@ msgstr ""
 
 #: ../src/plugin.py:486
 msgid "View active downloads"
-msgstr ""
+msgstr "Zobraziť aktívne preberania"
 
 #: ../src/plugin.py:480
 msgid "View related videos"
@@ -22183,38 +22262,38 @@ msgstr ""
 
 #: ../src/plugin.py:1696
 msgid "Yes, but play next video"
-msgstr ""
+msgstr "Áno, ale prehrať nasledujúce video"
 
 #: ../src/plugin.py:1697
 msgid "Yes, but play previous video"
-msgstr ""
+msgstr "Áno, ale prehrať predchádzajúce video"
 
 msgid "Auto paginate on last entry:"
 msgstr ""
 
 msgid "Reset tv-screen after playback:"
-msgstr ""
+msgstr "Resetovať obrazovku po prehratí:"
 
 msgid "Max search results:"
-msgstr ""
+msgstr "Max. počet výsledkov hľadania:"
 
 #: ../src/plugin.py:279
 #, python-format
 msgid "Failed to move the movie %s to %s in the background"
-msgstr ""
+msgstr "Nepodarilo sa premiestniť film %s do %s na pozadí."
 
 #: ../src/plugin.py:63
 msgid "Filename"
-msgstr ""
+msgstr "Názov súboru"
 
 #: ../src/plugin.py:74
 msgid "Name and Description Input"
-msgstr ""
+msgstr "Zadajte názov a opis"
 
 #: ../src/plugin.py:286
 #, python-format
 msgid "Successfully moved the movie %s"
-msgstr ""
+msgstr "Úspešne premiestnený film %s"
 
 #: ../src/plugin.py:126
 #, python-format
@@ -22222,19 +22301,21 @@ msgid ""
 "Target file %s.ts already exist.\n"
 "Do you want to replace it?"
 msgstr ""
+"Cieľový súbor %s.ts už existuje.\n"
+"Chcete ho nahradiť?"
 
 #: ../src/plugin.py:238
 #, python-format
 msgid "The movie is moved in the background from %s to %s."
-msgstr ""
+msgstr "Film sa premiestňuje na pozadí z %s do %s."
 
 #: ../src/plugin.py:130
 msgid "The target directory is not found. The file is not renamed."
-msgstr ""
+msgstr "Cieľový adresár nenájdený. Súbor nie je premenovaný."
 
 #: ../src/plugin.py:20
 msgid "change name..."
-msgstr ""
+msgstr "zmeniť názov..."
 
 #: ../src/plugin.py:598
 msgid "(actual)"
@@ -22258,11 +22339,11 @@ msgstr ""
 
 #: ../src/plugin.py:54
 msgid "down"
-msgstr ""
+msgstr "nadol"
 
 #: ../src/plugin.py:499
 msgid "not found"
-msgstr ""
+msgstr "nenájdené"
 
 #: ../src/plugin.py:537
 msgid "parser error"
@@ -22270,7 +22351,7 @@ msgstr ""
 
 #: ../src/plugin.py:54
 msgid "up"
-msgstr ""
+msgstr "nahor"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:140
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:301
@@ -22278,24 +22359,24 @@ msgstr ""
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:460
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:538
 msgid "Movielist Preview"
-msgstr ""
+msgstr "Náhľad zoznamu filmov"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:343
 msgid "Preview created."
-msgstr ""
+msgstr "Náhľad vytvorený"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:406
 msgid "Could not find any movie!"
-msgstr ""
+msgstr "Nemôžem nájsť žiadny film."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:419
 #, python-format
 msgid "%s - creating preview for movie %s"
-msgstr ""
+msgstr "%s - vytváranie náhľadu pre film %s"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:428
 msgid "Everything done ;)"
-msgstr ""
+msgstr "Všetko hotové."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:449
 msgid "Autocreate of previews aborted due user!"
@@ -22303,19 +22384,19 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:473
 msgid "Deactivate Movielist Preview"
-msgstr ""
+msgstr "Vypnúť náhľad zoznamu filmov"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:475
 msgid "Activate Movielist Preview"
-msgstr ""
+msgstr "Zapnúť náhľad zoznamu filmov"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:476
 msgid "Create preview"
-msgstr ""
+msgstr "Vytvoriť náhľad"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:477
 msgid "Autocreate of missing previews"
-msgstr ""
+msgstr "Automaticky vytvoriť chýbajúce náhľady"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:478
 msgid "Change Movielist Preview position"
@@ -22323,7 +22404,7 @@ msgstr ""
 
 #: ../src/plugin.py:112
 msgid "A basic FTP client"
-msgstr ""
+msgstr "Základný klient FTP"
 
 #: ../src/FTPBrowser.py:488
 #, python-format
@@ -22331,6 +22412,8 @@ msgid ""
 "A file with this name (%s) already exists locally.\n"
 "Do you want to overwrite it?"
 msgstr ""
+"Súbor s týmto názvom (%s) už lokálne existuje.\n"
+"Chcete ho prepísať?"
 
 #: ../src/FTPBrowser.py:518
 #, python-format
@@ -22338,83 +22421,87 @@ msgid ""
 "A file with this name (%s) already exists on the remote host.\n"
 "Do you want to overwrite it?"
 msgstr ""
+"Súbor s týmto názvom (%s) už na vzdialenom hostiteľovi existuje.\n"
+"Chcete ho prepísať?"
 
 #: ../src/FTPBrowser.py:716
 msgid ""
 "A transfer is currently in progress.\n"
 "What do you want to do?"
 msgstr ""
+"Práve prebieha prenos.\n"
+"Čo chcete urobiť?"
 
 #: ../src/FTPBrowser.py:719
 msgid "Abort transfer"
-msgstr ""
+msgstr "Zrušiť prenos"
 
 #: ../src/FTPServerManager.py:150
 msgid "Address:"
-msgstr ""
+msgstr "Adresa:"
 
 #: ../src/FTPBrowser.py:407
 #, python-format
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "Naozaj chcete zmazať %s?"
 
 #: ../src/FTPServerManager.py:313
 msgid "Configuration saved."
-msgstr ""
+msgstr "Nastavenie uložené"
 
 #: ../src/plugin.py:101
 msgid "Connect to FTP..."
-msgstr ""
+msgstr "Pripojiť k FTP..."
 
 #: ../src/FTPBrowser.py:792
 msgid "Could not connect to ftp server!"
-msgstr ""
+msgstr "Nedá sa pripojiť k serveru FTP."
 
 #: ../src/FTPBrowser.py:358 ../src/FTPBrowser.py:370
 #, python-format
 msgid "Could not delete %s."
-msgstr ""
+msgstr "%s sa nedá zmazať."
 
 #: ../src/FTPBrowser.py:439
 msgid "Could not obtain list of files."
-msgstr ""
+msgstr "Nedá sa získať zoznam súborov."
 
 #: ../src/FTPBrowser.py:306 ../src/FTPBrowser.py:321
 #, python-format
 msgid "Could not rename %s."
-msgstr ""
+msgstr "%s sa nedá premenovať."
 
 #: ../src/FTPBrowser.py:646
 msgid "Download finished."
-msgstr ""
+msgstr "Preberanie skončené."
 
 #: ../src/FTPServerManager.py:146
 msgid "Enter URI"
-msgstr ""
+msgstr "Zadajte URI"
 
 #: ../src/FTPServerManager.py:186
 msgid "Enter URI of FTP Server:"
-msgstr ""
+msgstr "Zadajte URI servera FTP:"
 
 #: ../src/FTPBrowser.py:342
 msgid "Enter new filename:"
-msgstr ""
+msgstr "Zadajte nový názov súboru:"
 
 #: ../src/FTPBrowser.py:631 ../src/FTPBrowser.py:655
 msgid "Error during download."
-msgstr ""
+msgstr "Chyba pri peberaní"
 
 #: ../src/FTPQueueManager.py:67
 msgid "FTP Queue Manager"
-msgstr ""
+msgstr "Správca radu FTP"
 
 #: ../src/FTPServerManager.py:166
 msgid "FTP Server Editor"
-msgstr ""
+msgstr "Editor servera FTP"
 
 #: ../src/FTPServerManager.py:235
 msgid "FTP Server Manager"
-msgstr ""
+msgstr "Správca servera FTP"
 
 #: ../src/FTPBrowser.py:162
 msgid "Local"
@@ -22426,7 +22513,7 @@ msgstr ""
 
 #: ../src/FTPBrowser.py:241
 msgid "Queue Manager"
-msgstr ""
+msgstr "Správca radu"
 
 #: ../src/FTPBrowser.py:432
 msgid "Queue processed."
@@ -22434,67 +22521,69 @@ msgstr ""
 
 #: ../src/FTPBrowser.py:781
 msgid "Remote"
-msgstr ""
+msgstr "Vzdialené"
 
 #: ../src/FTPBrowser.py:164 ../src/FTPBrowser.py:746 ../src/FTPBrowser.py:789
 msgid "Remote (not connected)"
-msgstr ""
+msgstr "Vzdialené (nepripojené)"
 
 #: ../src/FTPBrowser.py:356 ../src/FTPBrowser.py:372
 #, python-format
 msgid "Removed %s."
-msgstr ""
+msgstr "Odstránené %s."
 
 #: ../src/FTPBrowser.py:382 ../src/FTPBrowser.py:395
 msgid "Removing directories is not supported."
-msgstr ""
+msgstr "Odstránenie adresárov nie je podporované."
 
 #: ../src/FTPBrowser.py:304 ../src/FTPBrowser.py:323
 #, python-format
 msgid "Renamed %s to %s."
-msgstr ""
+msgstr "Premenované %s na %s."
 
 #: ../src/FTPBrowser.py:718
 msgid "Run in Background"
-msgstr ""
+msgstr "Modul v pozadí"
 
 #: ../src/FTPBrowser.py:185
 msgid "Select local file list"
-msgstr ""
+msgstr "Zvoliť miestny zoznam súborov"
 
 #: ../src/FTPBrowser.py:186
 msgid "Select remote file list"
-msgstr ""
+msgstr "Zvoliť vzdialený zoznam súborov"
 
 #: ../src/FTPBrowser.py:240
 msgid "Server Manager"
-msgstr ""
+msgstr "Správca servera"
 
 #: ../src/plugin.py:66
 msgid ""
 "There already is an active connection.\n"
 "Do you want to abort it?"
 msgstr ""
+"Už je aktívne pripojenie.\n"
+"Chcete ho zrušiť?"
 
 #: ../src/FTPBrowser.py:556 ../src/FTPBrowser.py:580
 msgid "There already is an active transfer."
-msgstr ""
+msgstr "Už je aktívny prenos."
 
 #: ../src/FTPBrowser.py:172 ../src/FTPBrowser.py:247
 msgid "Upload"
-msgstr ""
+msgstr "Poslať"
 
 #: ../src/FTPBrowser.py:622
 msgid "Upload finished."
-msgstr ""
+msgstr "Posielanie skončené"
 
 #: ../src/plugin.py:79
 msgid "Which server do you want to connect to?"
-msgstr ""
+msgstr "Ku ktorému serveru sa chcete pripojiť?"
 
 #: ../src/FTPBrowser.py:179
 msgid "close"
-msgstr ""
+msgstr "zatvoriť"
 
 #: ../src/FTPBrowser.py:178
 msgid "enter directory/get file/put file"
@@ -22510,15 +22599,15 @@ msgstr ""
 
 #: /home/dario/Plugins/ncidclient/plugin.py:89
 msgid "USB Device"
-msgstr ""
+msgstr "Zariadenie USB"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:94
 msgid "Media directory"
-msgstr ""
+msgstr "Adresár médií"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:100
 msgid "Network mount"
-msgstr ""
+msgstr "Sieťové pripojenie"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:718
 msgid "NCID Client - Setup"
@@ -22538,7 +22627,7 @@ msgstr ""
 
 #: /home/dario/Plugins/ncidclient/plugin.py:795
 msgid "Plugin not active"
-msgstr ""
+msgstr "Modul nie je aktívny"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:874
 #, python-format
@@ -22619,7 +22708,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:253
 msgid "Description:"
-msgstr ""
+msgstr "Opis:"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
@@ -22627,27 +22716,27 @@ msgstr ""
 
 #
 msgid "How to install new service lists..."
-msgstr ""
+msgstr "Ako nainštalovať nové zoznamy staníc..."
 
 #
 msgid "append to exisiting service lists"
-msgstr ""
+msgstr "pripojiť k existujúcim zoznamom staníc"
 
 #
 msgid "overwrite exisiting service lists"
-msgstr ""
+msgstr "prepísať existujúce zoznamy staníc"
 
 #
 msgid "WakeOnWLan Enable"
-msgstr ""
+msgstr "Zapnúť Wake on WLan (WoW)"
 
 #
 msgid "Wake on WLan disabled"
-msgstr ""
+msgstr "Wake on WLan (WoW) vypnuté"
 
 #
 msgid "Wake on Lan disabled"
-msgstr ""
+msgstr "Wake on Lan (WoL) vypnuté"
 
 #
 msgid "HWaddr of %s is %s"
@@ -22655,35 +22744,34 @@ msgstr ""
 
 #
 msgid "Use only for Wake on WLan (WoW)"
-msgstr ""
+msgstr "Použiť len pre Wake on WLan (WoW)"
 
 #
 msgid "Deep Standby with WoW"
-msgstr ""
+msgstr "Vypnúť s WoW (Wake on WLan)"
 
 #
 msgid "Wake on WLan Setup"
-msgstr ""
+msgstr "Nastavenie WoW (Wake on WLan)"
 
 #
 msgid "Energy schedule"
-msgstr ""
+msgstr "Energetický časovač"
 
 #
 msgid "Power on"
-msgstr ""
+msgstr "Zapnúť"
 
-#
 msgid "Event"
-msgstr ""
+msgstr "Program"
 
 #
 msgid "Execution time"
-msgstr ""
+msgstr "Čas vykonania"
 
 #
 msgid "After power on"
-msgstr ""
+msgstr "Po zapnutí"
 
 #
 msgid ""
@@ -22691,6 +22779,9 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
+"Energetický časovač chce prepnúť VU+ do pohotovostného režimu.\n"
+"\n"
+"Pokračovať?"
 
 #
 msgid ""
@@ -22698,14 +22789,17 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
+"Energetický časovač chce vypnúť Vu+.\n"
+"\n"
+"Pokračovať?"
 
 #
 msgid "Ask before execution"
-msgstr ""
+msgstr "Opýtať sa pred vykonaním"
 
 #
 msgid "Vertical EPG View"
-msgstr ""
+msgstr "Zvislá zobrazenie EPG"
 
 #
 msgid "Vertical EPG view based on Vali Programm Guide"
@@ -22713,7 +22807,7 @@ msgstr ""
 
 #
 msgid "Main Primetime (HH:MM):"
-msgstr ""
+msgstr "Hlavný vys. čas (HH:MM):"
 
 #
 msgid "Primetime at start:"
@@ -22721,55 +22815,53 @@ msgstr ""
 
 #
 msgid "Zap with OK button (false=EventInfo):"
-msgstr ""
+msgstr "Prepnúť tlačidlom OK (false=EventInfo):"
 
 #
 msgid "No EPG data available"
-msgstr ""
+msgstr "Dáta EPG nedostupné"
 
 #
 msgid "Primetime"
-msgstr ""
+msgstr "Hlavný vysielací čas"
 
 #
 msgid "Now"
-msgstr ""
+msgstr "Teraz"
 
 #
 msgid "Full EPG"
-msgstr ""
+msgstr "Úplný EPG"
 
 #
 msgid "Select Info type..."
-msgstr ""
+msgstr "Zvoliť typ informácií"
 
 #
 msgid "Standard EPG info"
-msgstr ""
+msgstr "Štandardný EPG:"
 
 #
 msgid "IMDb info"
 msgstr ""
 
-#
 msgid "Select timer type..."
-msgstr ""
+msgstr "Zvoliť typ časovača..."
 
-#
 msgid "View AutoTimers"
-msgstr ""
+msgstr "Zobraziť autočasovače"
 
 #
 msgid "Multi EPG column view"
-msgstr ""
+msgstr "Stĺpcové zobrazenie multi EPG"
 
 #
 msgid "Next bouquet"
-msgstr ""
+msgstr "Nasledujúce obľúbené"
 
 #
 msgid "Previous bouquet"
-msgstr ""
+msgstr "Predchádzajúce obľúbené"
 
 #
 msgid "Next page"
@@ -22781,11 +22873,11 @@ msgstr ""
 
 #
 msgid "Add/remove timer"
-msgstr ""
+msgstr "Pridať/zmazať časovač"
 
 #
 msgid "Now / Primetime / Full EPG"
-msgstr ""
+msgstr "Teraz / Hlavný čas / Úplný EPG"
 
 #
 msgid "Scroll up all"
@@ -22797,75 +22889,79 @@ msgstr ""
 
 #
 msgid "Skip intervall in hours:"
-msgstr ""
+msgstr "Interval skoku v hodinách:"
 
 #
 msgid "Primetime II (HH:MM):"
-msgstr ""
+msgstr "Hlavný vys. čas II (HH:MM):"
 
 #
 msgid "Primetime III (HH:MM):"
-msgstr ""
+msgstr "Hlavný vys. čas III (HH:MM):"
 
 #
 msgid "Show only Primetime"
-msgstr ""
+msgstr "Zobraziť len hlavný čas"
 
 #
 msgid "Input date and time"
-msgstr ""
+msgstr "Zadajte dátum a čas"
 
 #
 msgid "Skip one day back"
-msgstr ""
+msgstr "Skok o 1 deň dozadu"
 
 #
 msgid "Skip one day forward"
-msgstr ""
+msgstr "Skok 1 deň vpred"
 
 #
+#  msgid ""
+# msgstr ""
 msgid "Picons loaded: "
-msgstr ""
+msgstr "Picony načítané:"
 
 #
 msgid "Picons not found: "
-msgstr ""
+msgstr "Picony nenájdené:"
 
 #
 msgid "loading"
-msgstr ""
+msgstr "načítavam"
 
 #
 msgid "Manage your Picons"
-msgstr ""
+msgstr "Spravovať picony"
 
 #
 msgid "color depth: "
-msgstr ""
+msgstr "Farebná hĺbka:"
 
 #
 msgid "Select service for preferred picon"
-msgstr ""
+msgstr "Zvoľte stanicu pre uprednostnený picon"
 
 #
 msgid "is not installed."
-msgstr ""
+msgstr "nie je nainštalované."
 
 #
 msgid "Clean up the directory"
-msgstr ""
+msgstr "Vyprázdniť adresár"
 
 #
 msgid "Sorry, service is temporarily unavailable"
-msgstr ""
+msgstr "Stanica je dočasne nedostupná"
 
 #
+# File: ../src/plugin.py, line: 36
 msgid "Not older than X days: "
-msgstr ""
+msgstr "Nie staršie než X dní:"
 
 #
+# File: ../src/plugin.py, line: 36
 msgid "Not older than X days:"
-msgstr ""
+msgstr "Nie staršie než X dní:"
 
 #
 msgid "Show state message on non bluetooth setup screen."
@@ -22877,11 +22973,10 @@ msgstr ""
 
 #
 msgid "Press red key to enable bluetooth."
-msgstr ""
+msgstr "Stlačením červeného tlačidla zapnete Bluetooth."
 
-#
 msgid "Device is enabled."
-msgstr ""
+msgstr "Zariadenie je zapnuté."
 
 #
 msgid "Sink"
@@ -22893,19 +22988,19 @@ msgstr ""
 
 #
 msgid "Embedded subtitles"
-msgstr ""
+msgstr "Vložené titulky"
 
 #
 msgid "Turn on the embedded subtitles support."
-msgstr ""
+msgstr "Zapnúť podporu vložených titulkov"
 
 #
 msgid "Buffer size"
-msgstr ""
+msgstr "Veľkosť medzipamäte"
 
 #
 msgid "Set buffer size in kilobytes."
-msgstr ""
+msgstr "Nastaviť veľkosť medzipamäte v kB"
 
 #
 msgid "Buffer duration"
@@ -22913,31 +23008,31 @@ msgstr ""
 
 #
 msgid "Set buffer duration in seconds."
-msgstr ""
+msgstr "Nastaviť trvanie medzipamäte v s"
 
 #
 msgid "AAC software decoding"
-msgstr ""
+msgstr "Softvérové dekódovanie AAC"
 
 #
 msgid "Turn on AAC software decoding."
-msgstr ""
+msgstr "Zapnúť softvérové dekódovanie  AAC."
 
 #
 msgid "DTS software decoding"
-msgstr ""
+msgstr "Softvérový dekóder DTS"
 
 #
 msgid "Turn on DTS software decoding."
-msgstr ""
+msgstr "Zapnúť softvérové dekódovanie  DTS."
 
 #
 msgid "WMA software decoding"
-msgstr ""
+msgstr "Softvérové dekódovanie  WMA"
 
 #
 msgid "Turn on WMA1, WMA2, WMA/PRO software decoding."
-msgstr ""
+msgstr "Zapnúť softvérové dekódovanie WMA1, WMA2, WMA/PRO."
 
 #
 msgid "Stereo downmix"
@@ -22945,7 +23040,7 @@ msgstr ""
 
 #
 msgid "Turn on downmix to stereo, when software decoding is in use"
-msgstr ""
+msgstr "Zapnúť stereo downmix, ak je zapnuté softvérové dekódovanie"
 
 #
 msgid "LPCM injection"
@@ -22958,13 +23053,12 @@ msgstr ""
 
 #
 msgid "Auto turn on subtitles"
-msgstr ""
+msgstr "Automaticky zapnúť titulky"
 
 #
 msgid "Automatically turn on subtitles if available."
-msgstr ""
+msgstr "Automaticky zapnúť titulky, ak sú k dispozícii"
 
-#
 msgid "HLS Explorer"
 msgstr ""
 
@@ -22984,7 +23078,7 @@ msgstr ""
 
 #
 msgid "Connection speed"
-msgstr ""
+msgstr "Rýchlosť pripojenia"
 
 #
 msgid ""
@@ -23010,7 +23104,7 @@ msgstr ""
 
 #
 msgid "Player"
-msgstr ""
+msgstr "Prehrávač"
 
 #
 msgid ""
@@ -23054,27 +23148,27 @@ msgstr ""
 
 #
 msgid "Dolby Digital+ (AC3+) default"
-msgstr ""
+msgstr "Dolby Digital+ (AC3+)l predvolené"
 
 #
 msgid "Automatic Audio/Subtitle track selection"
-msgstr ""
+msgstr "Automatický výber zvuku a titulkov"
 
 #
 msgid "First audio language"
-msgstr ""
+msgstr "prvý jazyk zvukovej stopy"
 
 #
 msgid "Second audio language"
-msgstr ""
+msgstr "druhý jazyk zvukovej stopy"
 
 #
 msgid "Third audio language"
-msgstr ""
+msgstr "tretí jazyk zvukovej stopy"
 
 #
 msgid "Fourth audio language"
-msgstr ""
+msgstr "štvrtý jazyk zvukovej stopy"
 
 #
 msgid "Use selected audio track stored per service"
@@ -23082,19 +23176,19 @@ msgstr ""
 
 #
 msgid "First subtitle language"
-msgstr ""
+msgstr "prvý jazyk titulkov"
 
 #
 msgid "Second subtitle language"
-msgstr ""
+msgstr "druhý jazyk titulkov"
 
 #
 msgid "Third subtitle language"
-msgstr ""
+msgstr "tretí jazyk titulkov"
 
 #
 msgid "Fourth subtitle language"
-msgstr ""
+msgstr "štvrtý jazyk titulkov"
 
 #
 msgid "Allow subtiles with same language as audio language"
@@ -23110,7 +23204,7 @@ msgstr ""
 
 #
 msgid "Prefer DVB subtitles"
-msgstr ""
+msgstr "Uprednostniť titulky DVB"
 
 #
 msgid "Use selected subtitle track stored per service"
@@ -23118,31 +23212,31 @@ msgstr ""
 
 #
 msgid "Setup - Audio/Subtitle tracks"
-msgstr ""
+msgstr "Nastavenie - Zvuk a titulky"
 
 #
 msgid "HDMI Colordepth"
-msgstr ""
+msgstr "Farebná hĺbka HDMI"
 
 #
 msgid "Set bluetooth audio delay."
-msgstr ""
+msgstr "Nastaviť oneskorenmie zvuku Bluetooth"
 
 #
 msgid "Please enter a name for the HDMI IN service"
-msgstr ""
+msgstr "Zadajte názov stanice HDMI IN"
 
 #
 msgid "add HDMI IN to bouquet"
-msgstr ""
+msgstr "Pridať HDMI IN do obľúbených"
 
 #
 msgid "add HDMI IN to favourites"
-msgstr ""
+msgstr "Pridať HDMI IN do obľúbených"
 
 #
 msgid "Ask for timer type when Autotimer is installed"
-msgstr ""
+msgstr "Opýtať sa na typ časovača, ak je nainštalovaný autočasovač"
 
 #
 msgid "Enable HbbTV for streaming services"
@@ -23152,7 +23246,6 @@ msgstr ""
 msgid "Mount process"
 msgstr ""
 
-#
 msgid "Classic mount"
 msgstr ""
 
@@ -23162,27 +23255,27 @@ msgstr ""
 
 #
 msgid "Disable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "Vypnúť HDMI-IN na hlavnej obrazovke"
 
 #
 msgid "Enable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "Zapnúť HDMI-IN na hlavnej obrazovke"
 
 #
 msgid "Disable HDMI-IN on PIP"
-msgstr ""
+msgstr "Vypnúť HDMI IN, ak je PIP"
 
 #
 msgid "Enable HDMI-IN on PIP"
-msgstr ""
+msgstr "Zapnúť HDMI IN, ak je PIP"
 
 #
 msgid "Use cross down for showing timeshift events"
-msgstr ""
+msgstr "Kurzorom nadol zobraziť udalosti časového posunu"
 
 #
 msgid "Driver is not supported."
-msgstr ""
+msgstr "Ovládač nie je podporovaný"
 
 #
 msgid "Vu+ %s Misc. Control"
@@ -23193,38 +23286,13 @@ msgid "set Vu+ %s LNB Power and etc.."
 msgstr ""
 
 #
-msgid "Scanning bluetooth devices"
-msgstr ""
-
-#
-msgid "Scanning BLE bluetooth devices"
-msgstr ""
-
-#
-msgid "Start scan"
-msgstr ""
-
-#
-msgid "Press green key to connect device."
-msgstr ""
-
-#
-msgid "No nearby bluetooth devices were found."
-msgstr ""
-
-#
-msgid "%s is connected."
-msgstr ""
-
-#
 msgid "Pairing fail"
 msgstr ""
 
 #
 msgid "Can't communicate with %s"
-msgstr ""
+msgstr "Nedá sa komunikovať s %s"
 
-#
 msgid "Abort scan"
 msgstr ""
 
@@ -23233,20 +23301,21 @@ msgid ""
 "Pairing Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Párovanie zlyhalo.\n"
+"Iné zvukové zariadenie je pirpojené. (%s)"
 
 #
 msgid "Pairing %s"
-msgstr ""
+msgstr "Párovanie %s"
 
 #
 msgid "Pairing %s failed!!"
-msgstr ""
+msgstr "Párovanie %s zlyhalo!!"
 
 #
 msgid "Discovery"
 msgstr ""
 
-#
 msgid "Device is disabling..."
 msgstr ""
 
@@ -23256,65 +23325,66 @@ msgstr ""
 
 #
 msgid "disconnecting %s"
-msgstr ""
+msgstr "odpájam %s"
 
 #
 msgid "disconnecting %s failed!!"
-msgstr ""
+msgstr "Odpojenie %s zlyhalo!!"
 
 #
 msgid ""
 "Connection Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Pripojenie zlyhalo.\n"
+"Iné zvukové zariadenie je pirpojené. (%s)"
 
 #
 msgid "connecting %s failed!!"
-msgstr ""
+msgstr "Pripojenie %s zlyhalo!!"
 
 #
 msgid "connecting %s"
-msgstr ""
+msgstr "pripájam %s"
 
 #
 msgid "remove %s failed!!"
-msgstr ""
+msgstr "Odstránenie %s zlyhalo!!"
 
 #
 msgid "%s is disconnected."
-msgstr ""
+msgstr "%s je odpojené"
 
 #
 msgid "Bluetooth Setup"
-msgstr ""
+msgstr "Nastavenie Bluetooth"
 
-#
 msgid "Configure Bluetooth devices"
-msgstr ""
+msgstr "Nastaviť zariadenia Bluetooth"
 
 #
 msgid "type : %s"
-msgstr ""
+msgstr "typ : %s"
 
 #
 msgid "status : %s"
-msgstr ""
+msgstr "stav : %s"
 
 #
 msgid "Connected"
-msgstr ""
+msgstr "Pripojené"
 
 #
 msgid "Disconnected"
-msgstr ""
+msgstr "Odpojené"
 
 #
 msgid "is connected."
-msgstr ""
+msgstr "je pripojené"
 
 #
 msgid "is disconnected."
-msgstr ""
+msgstr "je odpojené"
 
 #
 msgid "Bluetooth Discovery"
