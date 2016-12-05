@@ -24032,31 +24032,31 @@ msgstr ""
 
 #
 msgid "connecting %s failed!!"
-msgstr ""
+msgstr "Połaczenie %s nie powiodło się!!"
 
 #
 msgid "connecting %s"
-msgstr ""
+msgstr "łączenie %s"
 
 #
 msgid "remove %s failed!!"
-msgstr ""
+msgstr "Usunięcie %s nie powiodło się!!"
 
 #
 msgid "%s is disconnected."
-msgstr ""
+msgstr "%s jest odłączony."
 
 #
 msgid "Bluetooth Setup"
-msgstr ""
+msgstr "Ustawienia Bluetooth"
 
 #
 msgid "Configure Bluetooth devices"
-msgstr ""
+msgstr "Skonfiguruj urządzenia Bluetooth"
 
 #
 msgid "type : %s"
-msgstr ""
+msgstr "typ : %s"
 
 #
 msgid "status : %s"
@@ -24064,19 +24064,19 @@ msgstr ""
 
 #
 msgid "Connected"
-msgstr ""
+msgstr "Połączony"
 
 #
 msgid "Disconnected"
-msgstr ""
+msgstr "Rozłączony"
 
 #
 msgid "is connected."
-msgstr ""
+msgstr "jest połączony."
 
 #
 msgid "is disconnected."
-msgstr ""
+msgstr "jest odłączony."
 
 #
 msgid "Bluetooth Discovery"
