@@ -23764,20 +23764,21 @@ msgstr ""
 
 #
 msgid "Enigma2 playback system"
-msgstr ""
+msgstr "System odtwarzania Enigma2"
 
 #
 msgid "Select the player which will be used for Enigma2 playback."
-msgstr ""
+msgstr "Wybierz odtwarzacz, który będzie używany do odtwarzania Enigma2."
 
 #
 msgid "Player"
-msgstr ""
+msgstr "Odtwarzacz"
 
 #
 msgid ""
 "Select the player which will be used in serviceapp for Enigma2 playback."
 msgstr ""
+"Wybór odtwarzacza, który zostanie wykorzystany w celu odtwarzania serviceapp Enigma2".
 
 #
 msgid "ServiceMp3 (%s)"
@@ -23797,18 +23798,21 @@ msgid ""
 "\n"
 "Do you want to restart it now?"
 msgstr ""
+"System odtwarzania Enigma2 został zmieniony i Enigma2 należy uruchomić ponownie\n"
+"\n"
+"Czy chcesz uruchomić ponownie teraz?"
 
 #
 msgid "setup player framework"
-msgstr ""
+msgstr "Ustaw odtwarzacz framework"
 
 #
 msgid "Play with ServiceExtEplayer3"
-msgstr ""
+msgstr "Odtwarzaj z ServiceExtEplayer3"
 
 #
 msgid "Play with ServiceGstPlayer"
-msgstr ""
+msgstr "Odtwarzaj z ServiceGstPlayer"
 
 #
 msgid "ServiceApp"
@@ -23816,107 +23820,107 @@ msgstr ""
 
 #
 msgid "Dolby Digital+ (AC3+) default"
-msgstr ""
+msgstr "Dolby Digital + (+ AC3) domyślny"
 
 #
 msgid "Automatic Audio/Subtitle track selection"
-msgstr ""
+msgstr "Automatyczny wybór ścieżki audio/napisów"
 
 #
 msgid "First audio language"
-msgstr ""
+msgstr "Pierwszy język dźwięku"
 
 #
 msgid "Second audio language"
-msgstr ""
+msgstr "Drugi język dźwięku"
 
 #
 msgid "Third audio language"
-msgstr ""
+msgstr "Trzeci język dźwięku"
 
 #
 msgid "Fourth audio language"
-msgstr ""
+msgstr "Czwarty język dźwięku"
 
 #
 msgid "Use selected audio track stored per service"
-msgstr ""
+msgstr "Użyj wybraną ścieżkę dźwiękową zapisaną dla usługi"
 
 #
 msgid "First subtitle language"
-msgstr ""
+msgstr "Pierwszy język napisów"
 
 #
 msgid "Second subtitle language"
-msgstr ""
+msgstr "Drugi język napisów"
 
 #
 msgid "Third subtitle language"
-msgstr ""
+msgstr "Trzeci język napisów"
 
 #
 msgid "Fourth subtitle language"
-msgstr ""
+msgstr "Czwarty język napisów"
 
 #
 msgid "Allow subtiles with same language as audio language"
-msgstr ""
+msgstr "Pozwól na wybór napisów tych samych co audio"
 
 #
 msgid "Allow auto select hearing impaired subtitles"
-msgstr ""
+msgstr "Pozwól na auto wybór napisów dla niesłyszących"
 
 #
 msgid "Default auto select hearing impaired subtitles"
-msgstr ""
+msgstr "Auto wybór domyślnych napisów dla niesłyszących"
 
 #
 msgid "Prefer DVB subtitles"
-msgstr ""
+msgstr "Preferencje napisów DVB"
 
 #
 msgid "Use selected subtitle track stored per service"
-msgstr ""
+msgstr "Użyj wybraną ścieżkę napisów przechowywanych dla usługi"
 
 #
 msgid "Setup - Audio/Subtitle tracks"
-msgstr ""
+msgstr "Ustawienia ścieżek audio/napisów"
 
 #
 msgid "HDMI Colordepth"
-msgstr ""
+msgstr "Głębia koloru HDMI"
 
 #
 msgid "Set bluetooth audio delay."
-msgstr ""
+msgstr "Ustaw opóźnienie audio bluetooth."
 
 #
 msgid "Please enter a name for the HDMI IN service"
-msgstr ""
+msgstr "Proszę podać nazwę usługi HDMI IN"
 
 #
 msgid "add HDMI IN to bouquet"
-msgstr ""
+msgstr "dodaj HDMI IN do bukietu"
 
 #
 msgid "add HDMI IN to favourites"
-msgstr ""
+msgstr "dodaj HDMI IN do ulubionych"
 
 #
 msgid "Ask for timer type when Autotimer is installed"
-msgstr ""
+msgstr "Zapytaj o rodzaj timera, gdy jest zainstalowany autotimer"
 
 #
 msgid "Enable HbbTV for streaming services"
-msgstr ""
+msgstr "Włącz HbbTV dla obsługi transmisji strumieniowej"
 
 #
 msgid "Mount process"
-msgstr ""
+msgstr "Proces montowania"
 
 #
 msgid "Classic mount"
-msgstr ""
+msgstr "Klasyczne podmontowanie"
 
 #
 msgid "AutoFS"
@@ -23924,27 +23928,27 @@ msgstr ""
 
 #
 msgid "Disable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "Wyłącz HDMI-IN w ekranie głównym"
 
 #
 msgid "Enable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "Włącz HDMI-IN w ekranie głównym"
 
 #
 msgid "Disable HDMI-IN on PIP"
-msgstr ""
+msgstr "Wyłącz HDMI-IN w PIP"
 
 #
 msgid "Enable HDMI-IN on PIP"
-msgstr ""
+msgstr "Włącz HDMI-IN w PIP"
 
 #
 msgid "Use cross down for showing timeshift events"
-msgstr ""
+msgstr "Zastosuj przekroczenie w dół do pokazywania wydarzeń Timeshift"
 
 #
 msgid "Driver is not supported."
-msgstr ""
+msgstr "Sterownik nie jest obsługiwany."
 
 #
 msgid "Vu+ %s Misc. Control"
