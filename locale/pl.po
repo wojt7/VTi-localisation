@@ -23956,53 +23956,55 @@ msgstr ""
 
 #
 msgid "Scanning bluetooth devices"
-msgstr ""
+msgstr "Skanowanie urządzeń bluetooth"
 
 #
 msgid "Scanning BLE bluetooth devices"
-msgstr ""
+msgstr "Skanowanie BLE urządzeń bluetooth"
 
 #
 msgid "Start scan"
-msgstr ""
+msgstr "Rozpocznij skanowanie"
 
 #
 msgid "Press green key to connect device."
-msgstr ""
+msgstr "Naciśnij klawisz zielony aby podłączyć urządzenie."
 
 #
 msgid "No nearby bluetooth devices were found."
-msgstr ""
+msgstr "Nie znaleziono w pobliżu urządzeń Bluetooth."
 
 #
 msgid "%s is connected."
-msgstr ""
+msgstr "%s jest podłączony."
 
 #
 msgid "Pairing fail"
-msgstr ""
+msgstr "Parowanie nie powiodło się"
 
 #
 msgid "Can't communicate with %s"
-msgstr ""
+msgstr "Nie mogę się połączyć z %s"
 
 #
 msgid "Abort scan"
-msgstr ""
+msgstr "Przerwij skanowanie"
 
 #
 msgid ""
 "Pairing Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Parowanie nie powiodło się.\n"
+"Inne urządzenie audio jest podłączone. (%s)"
 
 #
 msgid "Pairing %s"
-msgstr ""
+msgstr "Parowanie %s"
 
 #
 msgid "Pairing %s failed!!"
-msgstr ""
+msgstr "Parowanie %s nie powiodło się!!"
 
 #
 msgid "Discovery"
@@ -24010,25 +24012,27 @@ msgstr ""
 
 #
 msgid "Device is disabling..."
-msgstr ""
+msgstr "Urządzenie wyłącza się..."
 
 #
 msgid "Device is enabling..."
-msgstr ""
+msgstr "Urządzenie włącza się..."
 
 #
 msgid "disconnecting %s"
-msgstr ""
+msgstr "rozłączanie %s"
 
 #
 msgid "disconnecting %s failed!!"
-msgstr ""
+msgstr "rozłączanie %s nie powiodło się!!"
 
 #
 msgid ""
 "Connection Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Połączenie nieudane.\n"
+"Inne urządzenie audio jest podłączone. (%s)"
 
 #
 msgid "connecting %s failed!!"
