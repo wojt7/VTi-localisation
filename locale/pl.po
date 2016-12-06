@@ -15603,15 +15603,15 @@ msgstr "Edytuj czarną listę dla DVB EPG"
 
 #
 msgid "Please select location of software packages"
-msgstr ""
+msgstr "Proszę wybrać lokalizację pakietów oprogramowania"
 
 #
 msgid "Temporary folder (/tmp)"
-msgstr ""
+msgstr "Folder tymczasowy (/tmp)"
 
 #: plugin.py:56
 msgid "Bouquet"
-msgstr ""
+msgstr "Bukiet"
 
 #: plugin.py:57
 msgid "Multi Sat"
@@ -15619,160 +15619,160 @@ msgstr ""
 
 #: plugin.py:77
 msgid "Press ok or green button to install satellites.xml"
-msgstr ""
+msgstr "Naciśnij OK lub zielony przycisk, aby zainstalować satellites.xml"
 
 #: plugin.py:100 plugin.py:101 plugin.py:333 plugin.py:334
 msgid "Downloading satellites failed!"
-msgstr ""
+msgstr "Pobieranie listy satelit nie powiodło się"
 
 #: plugin.py:104
 msgid "satellites.xml is updated"
-msgstr ""
+msgstr "satellites.xml jest aktualne"
 
 #: plugin.py:104 plugin.py:199 plugin.py:321
 msgid "GUI needs a restart to apply changes."
-msgstr ""
+msgstr "GUI wymaga ponownego uruchomienia, aby zastosować zmiany."
 
 #: plugin.py:104 plugin.py:199 plugin.py:321
 msgid "Do you want to restart the GUI now?"
-msgstr ""
+msgstr "Czy chcesz, aby ponownie uruchomić GUI teraz?"
 
 #: plugin.py:111 plugin.py:239 plugin.py:366
 msgid "GUI needs a restart."
-msgstr ""
+msgstr "GUI wymaga ponownego uruchomienia"
 
 #: plugin.py:199
 msgid "selected bouquets are installed"
-msgstr ""
+msgstr "wybrane bukiety są zainstalowane"
 
 #: plugin.py:203
 msgid "Please select at least one bouquet"
-msgstr ""
+msgstr "Proszę wybrać przynajmniej jeden bukiet"
 
 #: plugin.py:206 plugin.py:207
 msgid "Downloading bouquets failed!"
-msgstr ""
+msgstr "Pobieranie bukietów nie powiodło się!"
 
 #: plugin.py:210 plugin.py:337
 msgid "Downloading succesfull! Parsing ..."
-msgstr ""
+msgstr "Pobieranie udane! Parsowanie..."
 
 #: plugin.py:229
 msgid "Press ok button to select bouquet"
-msgstr ""
+msgstr "Naciśnij przycisk OK, aby wybrać bukiet"
 
 #: plugin.py:233 plugin.py:360
 msgid "Parsing failed!"
-msgstr ""
+msgstr "Parsowanie nie powiodło się"
 
 #: plugin.py:281
 msgid "Source:"
-msgstr ""
+msgstr "Źródło:"
 
 #: plugin.py:297
 msgid "Download:"
-msgstr ""
+msgstr "Pobieranie:"
 
 #: plugin.py:321
 msgid "satellites.xml has been built."
-msgstr ""
+msgstr "satellites.xml został utworzonyy."
 
 #: plugin.py:324
 msgid "Please select at least one satellite"
-msgstr ""
+msgstr "Please select at least one satellite"
 
 #: plugin.py:356
 msgid "Press ok button to select satellite"
-msgstr ""
+msgstr "Wybierz co najmniej jedną satelitę"
 
 #: plugin.py:383 plugin.py:395
 msgid "Transponder selection"
-msgstr ""
+msgstr "Wybór transpondera"
 
 #: plugin.py:434
 msgid "Frequency:"
-msgstr ""
+msgstr "Częstotliwość:"
 
 #: plugin.py:434
 msgid "Symbol Rate:"
-msgstr ""
+msgstr "Szybkość przesyłania symboli"
 
 #: plugin.py:458
 msgid "has been saved."
-msgstr ""
+msgstr "zostało zapisane."
 
 #: plugin.py:461
 msgid "Please select at least one transponder"
-msgstr ""
+msgstr "Proszę wybrać przynajmniej jeden transponder"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:45
 msgid "Configuration"
-msgstr ""
+msgstr "Konfiguracja"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:77
 msgid "Usage"
-msgstr ""
+msgstr "Wykorzystanie"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:85
 msgid "Enable InfoBarTunerState"
-msgstr ""
+msgstr "Włącz pasek informacyjny stanu tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:87
 msgid "Add to extension menu"
-msgstr ""
+msgstr "Dodaj do rozszerzenia menu"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:89
 msgid "Show and hide with InfoBar"
-msgstr ""
+msgstr "Pokaż i ukryj w pasku informacyjnym"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:90
 msgid "Show on events"
-msgstr ""
+msgstr "Pokaż w zdarzeniach"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:91
 msgid "MoviePlayer integration"
-msgstr ""
+msgstr "Integracja MoviePlayer"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:92
 msgid "Time format"
-msgstr ""
+msgstr "Format czasu"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:93
 msgid "Number of finished records in list"
-msgstr ""
+msgstr "Ilość zakończonych nagrań na liście"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:94
 msgid "Number of seconds for displaying finished records"
-msgstr ""
+msgstr "Liczba sekund do wyświetlania zakończonych nagrań"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:100
 #, python-format
 msgid "Field %d content"
-msgstr ""
+msgstr "Pole %d treści"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:105
 msgid "Horizontal offset in pixel"
-msgstr ""
+msgstr "Poziome przesunięcie w pikselach"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:106
 msgid "Vertical offset in pixel"
-msgstr ""
+msgstr "Przesunięcie pionowe w pikselach"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:107
 msgid "Text padding offset in pixel"
-msgstr ""
+msgstr "Przesunięcie w pikselach wypełnienia tekstu"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:108
 msgid "Text spacing offset in pixel"
-msgstr ""
+msgstr "Przesunięcie w pikselach rozstawienia tekstu"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:148
 msgid "Only one Icon field allowed:"
-msgstr ""
+msgstr "Tylko jedno pole ikony dozwolone:"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:153
 msgid "Only one Graphical Progress field allowed:"
-msgstr ""
+msgstr "Tylko jedno pole pole graficzne postępu dozwolone:"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:775
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:776
