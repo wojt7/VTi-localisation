@@ -23535,15 +23535,15 @@ msgstr ""
 
 #
 msgid "Next page"
-msgstr ""
+msgstr "Następna strona"
 
 #
 msgid "Previous page"
-msgstr ""
+msgstr "Poprzednia strona"
 
 #
 msgid "Add/remove timer"
-msgstr ""
+msgstr "Dodaj/usuń timer"
 
 #
 msgid "Now / Primetime / Full EPG"
@@ -23551,15 +23551,15 @@ msgstr ""
 
 #
 msgid "Scroll up all"
-msgstr ""
+msgstr "Przewiń wszystko w górę"
 
 #
 msgid "Scroll down all"
-msgstr ""
+msgstr "Przewiń wszystko w dół"
 
 #
 msgid "Skip intervall in hours:"
-msgstr ""
+msgstr "Przeskocz przedział w godzinach"
 
 #
 msgid "Primetime II (HH:MM):"
@@ -23571,79 +23571,79 @@ msgstr ""
 
 #
 msgid "Show only Primetime"
-msgstr ""
+msgstr "Pokaż tylko Primetime"
 
 #
 msgid "Input date and time"
-msgstr ""
+msgstr "Wprowadź datę i czas"
 
 #
 msgid "Skip one day back"
-msgstr ""
+msgstr "Przejdź jeden dzień do tyłu"
 
 #
 msgid "Skip one day forward"
-msgstr ""
+msgstr "Przejdź jeden dzień do przodu"
 
 #
 msgid "Picons loaded: "
-msgstr ""
+msgstr "Picony załadowane: "
 
 #
 msgid "Picons not found: "
-msgstr ""
+msgstr "Pikony nie znalezione: "
 
 #
 msgid "loading"
-msgstr ""
+msgstr "ładuję"
 
 #
 msgid "Manage your Picons"
-msgstr ""
+msgstr "Zarządzaj pikonami"
 
 #
 msgid "color depth: "
-msgstr ""
+msgstr "głębia koloru: "
 
 #
 msgid "Select service for preferred picon"
-msgstr ""
+msgstr "Wybierz program dla preferowanej pikony"
 
 #
 msgid "is not installed."
-msgstr ""
+msgstr "nie jest zainstalowany."
 
 #
 msgid "Clean up the directory"
-msgstr ""
+msgstr "Uporządkuj katalog"
 
 #
 msgid "Sorry, service is temporarily unavailable"
-msgstr ""
+msgstr "Niestety, usługa jest chwilowo niedostępna"
 
 #
 msgid "Not older than X days: "
-msgstr ""
+msgstr "Nie starsze niż X dni:"
 
 #
 msgid "Not older than X days:"
-msgstr ""
+msgstr "Nie starsze niż X dni:"
 
 #
 msgid "Show state message on non bluetooth setup screen."
-msgstr ""
+msgstr "Pokaż wiadomość o stanie na ekranie bez konfiguracji Bluetooth."
 
 #
 msgid "Try connect to last audio device on start enable"
-msgstr ""
+msgstr "Spróbuj połaczyć z ostatnim urządzeniem audio przy uruchomieniu"
 
 #
 msgid "Press red key to enable bluetooth."
-msgstr ""
+msgstr "Naciśnij czerwony przycisk, aby włączyć Bluetooth."
 
 #
 msgid "Device is enabled."
-msgstr ""
+msgstr "Urządzenie jest włączone"
 
 #
 msgid "Sink"
@@ -23651,35 +23651,35 @@ msgstr ""
 
 #
 msgid "Select sink which you want to use."
-msgstr ""
+msgstr "Select sink which you want to use."
 
 #
 msgid "Embedded subtitles"
-msgstr ""
+msgstr "Wbudowane napisy"
 
 #
 msgid "Turn on the embedded subtitles support."
-msgstr ""
+msgstr "Włącz wbudowane wsparcie napisów."
 
 #
 msgid "Buffer size"
-msgstr ""
+msgstr "Rozmiar buforu"
 
 #
 msgid "Set buffer size in kilobytes."
-msgstr ""
+msgstr "Ustaw rozmiar buforu w kilobajtach "
 
 #
 msgid "Buffer duration"
-msgstr ""
+msgstr "Przedział buforu"
 
 #
 msgid "Set buffer duration in seconds."
-msgstr ""
+msgstr "Ustaw przedział buforu w sekundach."
 
 #
 msgid "AAC software decoding"
-msgstr ""
+msgstr "Włącz dekodowanie programowe AAC"
 
 #
 msgid "Turn on AAC software decoding."
@@ -23687,19 +23687,19 @@ msgstr ""
 
 #
 msgid "DTS software decoding"
-msgstr ""
+msgstr "Dekodowanie programowe DTS"
 
 #
 msgid "Turn on DTS software decoding."
-msgstr ""
+msgstr "Włącz dekodowanie programowe DTS."
 
 #
 msgid "WMA software decoding"
-msgstr ""
+msgstr "Dekodowanie programowe WMA"
 
 #
 msgid "Turn on WMA1, WMA2, WMA/PRO software decoding."
-msgstr ""
+msgstr "Włącz dekodowanie programowe WMA1, WMA2, WMA/PRO"
 
 #
 msgid "Stereo downmix"
@@ -23707,7 +23707,7 @@ msgstr ""
 
 #
 msgid "Turn on downmix to stereo, when software decoding is in use"
-msgstr ""
+msgstr "Włącz downmix do stereo, kiedy dekodowanie programowe jest w użyciu"
 
 #
 msgid "LPCM injection"
@@ -23717,14 +23717,15 @@ msgstr ""
 msgid ""
 "Software decoder use LPCM for injection (otherwise wav PCM will be used)"
 msgstr ""
+"Programowy dekoder dla LPCM (w przeciwnym wypadku PCM wav zostanie uruchomiony)
 
 #
 msgid "Auto turn on subtitles"
-msgstr ""
+msgstr "Automatyczne włączanie napisów"
 
 #
 msgid "Automatically turn on subtitles if available."
-msgstr ""
+msgstr "Automatyczne włączanie napisów jeśli są dostępne"
 
 #
 msgid "HLS Explorer"
@@ -23735,24 +23736,28 @@ msgid ""
 "Turn on explorer to retrieve different quality streams from HLS variant "
 "playlist and select them via subservices."
 msgstr ""
+"Włącz explorer do pobierania różnej jakości strumieni od wariantu HLS"
+"list odtwarzania i wybierz je poprzez podusługi".
 
 #
 msgid "Auto select stream"
-msgstr ""
+msgstr "Auto wybór strumienia"
 
 #
 msgid "Turn on auto-selection of streams according to set Connection speed."
-msgstr ""
+msgstr "Włącz auto wybór strumieni według ustawienia prędkości połączenia."
 
 #
 msgid "Connection speed"
-msgstr ""
+msgstr "Szybkość połączenia"
 
 #
 msgid ""
 "Set connection speed in kb/s, according to which you want to have streams "
 "auto-selected"
 msgstr ""
+"Ustaw prędkość połączenia w kb/s, zgodnie z którym chcesz mieć dokonać"
+"auto wyboru strumienia"
 
 #
 msgid "ExtEplayer3"
