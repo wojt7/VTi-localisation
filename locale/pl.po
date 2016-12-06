@@ -23248,34 +23248,37 @@ msgid ""
 "There already is an active connection.\n"
 "Do you want to abort it?"
 msgstr ""
+"Jest już aktywne połączenie.\n"
+"Czy chcesz, aby je przerwać?"
+
 
 #: ../src/FTPBrowser.py:556 ../src/FTPBrowser.py:580
 msgid "There already is an active transfer."
-msgstr ""
+msgstr "Jest już aktywny transfer"
 
 #: ../src/FTPBrowser.py:172 ../src/FTPBrowser.py:247
 msgid "Upload"
-msgstr ""
+msgstr "Załaduj"
 
 #: ../src/FTPBrowser.py:622
 msgid "Upload finished."
-msgstr ""
+msgstr "Wysyłanie zakończone."
 
 #: ../src/plugin.py:79
 msgid "Which server do you want to connect to?"
-msgstr ""
+msgstr "Z którym serwerem chcesz się połączyć?"
 
 #: ../src/FTPBrowser.py:179
 msgid "close"
-msgstr ""
+msgstr "zamknij"
 
 #: ../src/FTPBrowser.py:178
 msgid "enter directory/get file/put file"
-msgstr ""
+msgstr "wprowadź katalog/pobierz plik/umieść plik"
 
 #: ../src/FTPBrowser.py:180
 msgid "open menu"
-msgstr ""
+msgstr "Otwórz menu"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:87
 msgid "Flash"
@@ -23283,35 +23286,35 @@ msgstr ""
 
 #: /home/dario/Plugins/ncidclient/plugin.py:89
 msgid "USB Device"
-msgstr ""
+msgstr "Urządzenie USB"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:94
 msgid "Media directory"
-msgstr ""
+msgstr "Katalog mediów"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:100
 msgid "Network mount"
-msgstr ""
+msgstr "Podmontowanie sieci"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:718
 msgid "NCID Client - Setup"
-msgstr ""
+msgstr "Ustawienia klienta NCID"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:732
 msgid "NCID server (Name or IP)"
-msgstr ""
+msgstr "Serwer NCID (Nazwa lub IP)"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:733
 msgid "NCID server listening port (1-65535)"
-msgstr ""
+msgstr "Porty nasłuchu serwera NCID (1-65535)"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:765
 msgid "Show connection information popups"
-msgstr ""
+msgstr "Pokaż wyskakujące okienka informacyjne połączenia"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:795
 msgid "Plugin not active"
-msgstr ""
+msgstr "Wtyczka nie jest aktywna"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:874
 #, python-format
@@ -23322,14 +23325,19 @@ msgid ""
 "%s\n"
 "---------------------------------------------"
 msgstr ""
+"Rozmowa przychodząca na %s od\n"
+"---------------------------------------------\n"
+"%s\n"
+"%s\n"
+"---------------------------------------------"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:1029
 msgid "Connecting to NCID Server..."
-msgstr ""
+msgstr "Łączę z serwerem NCID"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:1034
 msgid "Connected to NCID Server"
-msgstr ""
+msgstr "Połączono z serwerem NCID"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:1044
 #, python-format
@@ -23338,6 +23346,9 @@ msgid ""
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Utracono połączenie z serwerem NCID\n"
+" (%s)\n"
+"Ponowna próba..."
 
 #: /home/dario/Plugins/ncidclient/plugin.py:1052
 #, python-format
@@ -23346,26 +23357,29 @@ msgid ""
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Połączenie z serwerem NCID nie powiodło się\n"
+" (%s)\n"
+"Ponowna próba..."
 
 #: /home/dario/Plugins/ncidclient/plugin.py:1102
 msgid "Display Fon calls on screen"
-msgstr ""
+msgstr "Wyświetl rozmowy telefoniczne na ekranie"
 
 #: ../src/plugin.py:37
 msgid "A/V-Color space settings"
-msgstr ""
+msgstr ""Ustawienia A/V koloru przestrzeni"
 
 #: ../src/plugin.py:42 ../src/plugin.py:43 ../src/VideoColorSpace.py:86
 msgid "Color space setup"
-msgstr ""
+msgstr "Konfiguracja koloru przestrzeni"
 
 #: ../src/plugin.py:42 ../src/plugin.py:43
 msgid "Setup color space for video"
-msgstr ""
+msgstr "Ustawianie przestrzeni kolorów dla wideo"
 
 #: ../src/VideoColorSpace.py:71
 msgid "Mode:"
-msgstr ""
+msgstr "Tryb:"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:54
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:108
@@ -23377,39 +23391,39 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:55
 msgid "Adult streaming plugins for dm800/dm8000"
-msgstr ""
+msgstr "Wtyczki strumieniowania dla dorosłych"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:253
 msgid "Description:"
-msgstr ""
+msgstr "Opis:"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
-msgstr ""
+msgstr "Błąd przy pobieraniu URL wideo!"
 
 #
 msgid "How to install new service lists..."
-msgstr ""
+msgstr "Jak zainstalować nowe listy kanałów..."
 
 #
 msgid "append to exisiting service lists"
-msgstr ""
+msgstr "dołącz do istniejących list kanałów"
 
 #
 msgid "overwrite exisiting service lists"
-msgstr ""
+msgstr "zastąp istniejące listy kanałów"
 
 #
 msgid "WakeOnWLan Enable"
-msgstr ""
+msgstr "WakeOnWLan włączone"
 
 #
 msgid "Wake on WLan disabled"
-msgstr ""
+msgstr ""Wake on WLan wyłączone"
 
 #
 msgid "Wake on Lan disabled"
-msgstr ""
+msgstr "Wake on Lan wyłączone"
 
 #
 msgid "HWaddr of %s is %s"
