@@ -23417,35 +23417,35 @@ msgstr ""
 
 #
 msgid "Use only for Wake on WLan (WoW)"
-msgstr ""
+msgstr "Użyj tylko dla Wake on WLan (WoW)"
 
 #
 msgid "Deep Standby with WoW"
-msgstr ""
+msgstr "Głębokie czuwanie z WoW"
 
 #
 msgid "Wake on WLan Setup"
-msgstr ""
+msgstr "Konfiguracja Wake On WLan"
 
 #
 msgid "Energy schedule"
-msgstr ""
+msgstr "Plan zarządzania zasilaniem"
 
 #
 msgid "Power on"
-msgstr ""
+msgstr "Zasilanie włączone"
 
 #
 msgid "Event"
-msgstr ""
+msgstr "Zdarzenie"
 
 #
 msgid "Execution time"
-msgstr ""
+msgstr "Czas wykonania"
 
 #
 msgid "After power on"
-msgstr ""
+msgstr "Po włączeniu zasilania"
 
 #
 msgid ""
@@ -23453,6 +23453,9 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
+"Zadanie planu zarządzania energią chce wprowadzić Twój VU+ STB w standby\n"
+"\n"
+"Kontynuować?"
 
 #
 msgid ""
@@ -23460,34 +23463,37 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
+"Zadanie planu zarządzania energią chce wyłączyć Twój VU+ STB\n"
+"\n"
+"Kontynuować?"
 
 #
 msgid "Ask before execution"
-msgstr ""
+msgstr "Pytaj przed wykonaniem"
 
 #
 msgid "Vertical EPG View"
-msgstr ""
+msgstr "Pionowy widok EPG"
 
 #
 msgid "Vertical EPG view based on Vali Programm Guide"
-msgstr ""
+msgstr "Pionowe widok EPG oparty na przewodniku programowym Vali"
 
 #
 msgid "Main Primetime (HH:MM):"
-msgstr ""
+msgstr "Główny Primetime (HH:MM):"
 
 #
 msgid "Primetime at start:"
-msgstr ""
+msgstr "Primetime na początku:"
 
 #
 msgid "Zap with OK button (false=EventInfo):"
-msgstr ""
+msgstr "Przełącz przyciskiem OK"
 
 #
 msgid "No EPG data available"
-msgstr ""
+msgstr "Brak dostępnych danych EPG"
 
 #
 msgid "Primetime"
@@ -23495,15 +23501,15 @@ msgstr ""
 
 #
 msgid "Now"
-msgstr ""
+msgstr "Teraz"
 
 #
 msgid "Full EPG"
-msgstr ""
+msgstr "Pełne EPG"
 
 #
 msgid "Select Info type..."
-msgstr ""
+msgstr "Wybierz typ informacji ..."
 
 #
 msgid "Standard EPG info"
@@ -23515,23 +23521,23 @@ msgstr ""
 
 #
 msgid "Select timer type..."
-msgstr ""
+msgstr "Wybierz typ timera ..."
 
 #
 msgid "View AutoTimers"
-msgstr ""
+msgstr "Widok autotimerów"
 
 #
 msgid "Multi EPG column view"
-msgstr ""
+msgstr "Widok kolumn Multi EPG"
 
 #
 msgid "Next bouquet"
-msgstr ""
+msgstr "Następny bukiet"
 
 #
 msgid "Previous bouquet"
-msgstr ""
+msgstr "Poprzedni bukiet"
 
 #
 msgid "Next page"
