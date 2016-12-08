@@ -4682,6 +4682,8 @@ msgid ""
 "One hdd test error\n"
 "Press 'EXIT' button!"
 msgstr ""
+"Błąd testu HDD\n"
+"Naciśnij przycisk 'EXIT'!"
 
 #
 msgid "Only Free scan"
@@ -4717,7 +4719,7 @@ msgstr "Przeglądarka Opera"
 
 #
 msgid "Opera Web Browser Plugin v1.0"
-msgstr ""
+msgstr "Otwórz przeglądarkę Opera"
 
 #
 msgid "Orbital position"
@@ -4745,7 +4747,7 @@ msgstr "Pidy"
 
 #
 msgid "PIN :"
-msgstr "Pin"
+msgstr "PIN"
 
 #
 msgid "PLEASE READ THIS:"
@@ -7870,7 +7872,7 @@ msgstr "USALS"
 
 #
 msgid "USB Image created in: "
-msgstr ""
+msgstr "Obraz USB utworzony w: "
 
 #
 msgid "USB Stick"
@@ -12970,175 +12972,175 @@ msgstr "Przycisk skrótu"
 
 #
 msgid "Stop Timeshift"
-msgstr ""
+msgstr "Zatrzymaj Timeshift"
 
 #
 msgid "Timeshift switch to Live TV"
-msgstr ""
+msgstr "Przełącz Timeshift w TV na żywo"
 
 #
 msgid "Stop running recordings"
-msgstr ""
+msgstr "Wstrzymaj trwające nagrania"
 
 #
 msgid "Previous timeshift event"
-msgstr ""
+msgstr "Poprzednie zdarzenie Timeshift"
 
 #
 msgid "Next timeshift event"
-msgstr ""
+msgstr "Następne zdarzenie Timeshift"
 
 #
 msgid "Select timeshift event"
-msgstr ""
+msgstr "Wybierz zdarzenie Timeshift"
 
 #
 msgid "Select Buttons"
-msgstr ""
+msgstr "Wybierz przyciski"
 
 #
 msgid "MultiQuickButton button selection"
-msgstr ""
+msgstr "Wybór przycisku MultiQuickButton"
 
 #  msgid ""
 # msgstr ""
 msgid "Picon folder: "
-msgstr ""
+msgstr "Folder picon"
 
 msgid "Reading Channels..."
-msgstr ""
+msgstr "Odczytywanie kanałów ..."
 
 msgid "Loaded Picons: "
-msgstr ""
+msgstr "Załadowane picony:"
 
 msgid "Not found Picons: "
-msgstr ""
+msgstr "Nie znaleziono picon:"
 
 msgid "Download progress: "
-msgstr ""
+msgstr "Postęp pobierania: "
 
 msgid "Show group: "
-msgstr ""
+msgstr "Pokaż grupę: "
 
 msgid "Standard picon: "
-msgstr ""
+msgstr "Standardowa picona: "
 
 msgid "Select drive"
-msgstr ""
+msgstr "Wybierz napęd"
 
 msgid "More selections"
-msgstr ""
+msgstr "Inne pozycje"
 
 msgid "Download picons"
-msgstr ""
+msgstr "Pobierz picony"
 
 msgid "Select path"
-msgstr ""
+msgstr "Wybierz ścieżkę"
 
 msgid "Create folder"
-msgstr ""
+msgstr "Utwórz folder"
 
 msgid "Show random Picon"
-msgstr ""
+msgstr "Pokaż losową piconę"
 
 msgid "Next Group"
-msgstr ""
+msgstr "Następna grupa"
 
 msgid "Previous Group"
-msgstr ""
+msgstr "Poprzednia grupa"
 
 msgid "Set / clear standard Picon"
-msgstr "Setze / entferne Standardpicon"
+msgstr "Ustaw/Wyczyść standardową piconę"
 
 msgid "FreeSpace: Drive Not Found !"
-msgstr ""
+msgstr "Wolna przestrzeń: Napęd nie znaleziony!"
 
 msgid "FreeSpace: "
-msgstr ""
+msgstr "Wolna przestrzeń: "
 
 msgid "Enter Picon Dir:"
-msgstr ""
+msgstr "Wprowadź katalog picon"
 
 msgid "Download finished !"
-msgstr ""
+msgstr "Pobieranie zakończone"
 
 msgid "Choose Picon folder"
-msgstr ""
+msgstr "Wybierz folder picon"
 
 msgid "FreeSpace:"
-msgstr ""
+msgstr "Wolna przestrzeń:"
 
 msgid "Channels:"
-msgstr ""
+msgstr "Kanały:"
 
 msgid "Server temporarily unavailable"
-msgstr ""
+msgstr "Serwer tymczasowo niedostępny"
 
 msgid "PiconManagerMod - Settings"
-msgstr ""
+msgstr "Ustawienia picon menadżera"
 
 msgid "Select from list"
-msgstr ""
+msgstr "Wybierz z listy"
 
 msgid "OK and exit"
-msgstr ""
+msgstr "OK i wyjdź"
 
 msgid "Set Filter:"
-msgstr ""
+msgstr "Ustaw filtr:"
 
 msgid "Size"
-msgstr ""
+msgstr "Rozmiar"
 
 msgid "Creator"
-msgstr ""
+msgstr "Kreator"
 
 msgid "bit"
-msgstr ""
+msgstr "kawałek"
 
 msgid "Option:"
-msgstr ""
+msgstr "Opcja:"
 
 msgid "Remember permanently?"
-msgstr ""
+msgstr "Zapamiętać stale?"
 
 msgid "Activate debug logging?"
-msgstr ""
+msgstr "Aktywować rejestrowanie debugowania?"
 
 msgid "Select Server:"
-msgstr ""
+msgstr "Wybierz serwer:"
 
 msgid "Previous picon creator"
-msgstr ""
+msgstr "Poprzedni kreator picon"
 
 msgid "Next picon creator"
-msgstr ""
+msgstr "Następny kreator picon"
 
 msgid "Previous picon size"
-msgstr ""
+msgstr "Poprzedni rozmiar picon"
 
 msgid "Next picon size"
-msgstr ""
+msgstr "Następny rozmiar picon"
 
 msgid "Previous color depth"
-msgstr ""
+msgstr "Poprzedna głębia kolorów"
 
 msgid "Next color depth"
-msgstr ""
+msgstr "Następna głębia kolorów"
 
 msgid "Size: "
-msgstr ""
+msgstr "Rozmiar"
 
 msgid "Creator: "
-msgstr ""
+msgstr "Kreator"
 
 msgid "Color depth: "
-msgstr ""
+msgstr "Głębia koloru:"
 
 msgid "No search results, please change filter options ..."
-msgstr ""
+msgstr "Brak wyników wyszukiwania, zmień opcje filtrowania ..."
 
 msgid "Loading, please wait..."
-msgstr ""
+msgstr "Ładowanie, proszę czekać..."
 
 #
 #: ../src/plugin.py:75
@@ -18189,7 +18191,7 @@ msgstr "Polecenie '%s' wykonane"
 #
 #: src/WebComponents/Sources/AudioTracks.py:11
 msgid "False"
-msgstr "Nie poprawny"
+msgstr "Niepoprawny"
 
 #
 #: src/WebComponents/Sources/AudioTracks.py:37
@@ -18316,11 +18318,11 @@ msgstr "Komenda RC '%s' została wydana"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:50
 msgid "Old password:"
-msgstr ""
+msgstr "Stare hasło"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:51
 msgid "New password:"
-msgstr ""
+msgstr "Nowe hasło"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:62
 msgid ""
