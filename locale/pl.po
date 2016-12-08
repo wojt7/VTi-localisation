@@ -22090,103 +22090,103 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:967
 msgid "Loading previous page... please wait!"
-msgstr ""
+msgstr "Ładowanie poprzedniej strony...proszę czekać!"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:973
 msgid "Loading next page... please wait!"
-msgstr ""
+msgstr "Ładowanie następnej stronie...proszę czekać!"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1234
 msgid "Enter unrar password:"
-msgstr ""
+msgstr "Wprowadź hasło unrara"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1288
 msgid "Unrar is already working!"
-msgstr ""
+msgstr "Unrar już działa!"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1364
 msgid "Delete download"
-msgstr ""
+msgstr "Usuń pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1365
 msgid "Use search engine"
-msgstr ""
+msgstr "Zastosouj silnika wyszukiwania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1366
 msgid "Add downloads from txt files"
-msgstr ""
+msgstr "Dodaj pobrania z plików txt"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1367
 msgid "Add files from container"
-msgstr ""
+msgstr ""Dodaj pliki z kontenera"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1368
 msgid "Delete failed downloads"
-msgstr ""
+msgstr "Usuń nieudane pobierania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1369
 msgid "Abort all downloads"
-msgstr ""
+msgstr "Przerwij wszystkie pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1370
 msgid "Restart failed downloads"
-msgstr ""
+msgstr "Ponów nieudane pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1371
 msgid "Clear finished downloads"
-msgstr ""
+msgstr "Wyczyść zakończone pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1372
 msgid "Show log"
-msgstr ""
+msgstr "Pokaż log"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1373
 msgid "Delete log"
-msgstr ""
+msgstr "Wykasuj log"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1375
 msgid "Open unrar Manager"
-msgstr ""
+msgstr "Otwórz menadżera unrar"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1377
 msgid "Install unrar"
-msgstr ""
+msgstr "Zainstaluj unrar"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1410
 msgid "Installing unrar..."
-msgstr ""
+msgstr "Instaluję unrar..."
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1426
 #, python-format
 msgid "Delete %s?"
-msgstr ""
+msgstr "Skasować %s?"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1435
 msgid "Search http://rapidshare-search-engine.com for:"
-msgstr ""
+msgstr "Przeszukaj http://rapidshare-search-engine.com za:"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1498
 #, python-format
 msgid "Error while decrypting %s!"
-msgstr ""
+msgstr "Błąd podczas odszyfrowywania %s!"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1519
 msgid "Download files from rapidshare"
-msgstr ""
+msgstr "Pobieranie plików z Rapidshare"
 
 #: ../src/plugin.py:131
 msgid "Change or reset the root password of your dreambox"
-msgstr ""
+msgstr "Zmień lub zresetuj hasło roota Twojego VU+"
 
 #: ../src/plugin.py:88
 msgid "Sucessfully changed password for root user to: "
-msgstr ""
+msgstr "Pomyślnie zmieniono hasło dla użytkownika root do:"
 
 #
 # File: ../src/MyTubeSearch.py, line: 309
 #: ../src/MyTubeSearch.py:309
 msgid " Results"
-msgstr ""
+msgstr "Wyniki"
 
 #
 # File: ../src/plugin.py, line: 1104
@@ -22200,20 +22200,20 @@ msgstr "Dodano: "
 # File: ../src/plugin.py, line: 56
 #: ../src/MyTubeSearch.py:168 ../src/plugin.py:56
 msgid "All Time"
-msgstr ""
+msgstr "Cały czas"
 
 #
 # File: ../src/plugin.py, line: 423
 #: ../src/plugin.py:423
 msgid "An error occured."
-msgstr ""
+msgstr "Wystąpił błąd."
 
 #
 # File: ../src/MyTubeSearch.py, line: 228
 # File: ../src/plugin.py, line: 116
 #: ../src/MyTubeSearch.py:228 ../src/plugin.py:116
 msgid "Ascending"
-msgstr ""
+msgstr "Rosnąco"
 
 #
 # File: ../src/MyTubeSearch.py, line: 201
@@ -22230,48 +22230,48 @@ msgstr ""
 # File: ../src/plugin.py, line: 70
 #: ../src/MyTubeSearch.py:182 ../src/plugin.py:70
 msgid "Autos & Vehicles"
-msgstr ""
+msgstr "Auta & Wehikuły"
 
 #
 # File: ../src/MyTubeSearch.py, line: 202
 # File: ../src/plugin.py, line: 90
 #: ../src/MyTubeSearch.py:202 ../src/plugin.py:90
 msgid "Brazil"
-msgstr ""
+msgstr "Brazylia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 203
 # File: ../src/plugin.py, line: 91
 #: ../src/MyTubeSearch.py:203 ../src/plugin.py:91
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 #
 # File: ../src/MyTubeSearch.py, line: 433
 #: ../src/MyTubeSearch.py:433
 msgid "Clear history on Exit:"
-msgstr "Wyczyść historię przy wyjsciu:"
+msgstr "Wyczyść historię przy wyjściu:"
 
 #
 # File: ../src/MyTubeSearch.py, line: 189
 # File: ../src/plugin.py, line: 77
 #: ../src/MyTubeSearch.py:189 ../src/plugin.py:77
 msgid "Comedy"
-msgstr ""
+msgstr "Komedia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 204
 # File: ../src/plugin.py, line: 92
 #: ../src/MyTubeSearch.py:204 ../src/plugin.py:92
 msgid "Czech Republic"
-msgstr ""
+msgstr "Republika Czeska"
 
 #
 # File: ../src/MyTubeSearch.py, line: 229
 # File: ../src/plugin.py, line: 117
 #: ../src/MyTubeSearch.py:229 ../src/plugin.py:117
 msgid "Descending"
-msgstr ""
+msgstr "Malejący"
 
 #
 # File: ../src/MyTubeSearch.py, line: 414
@@ -22315,7 +22315,7 @@ msgstr "Trwanie: "
 # File: ../src/plugin.py, line: 81
 #: ../src/MyTubeSearch.py:193 ../src/plugin.py:81
 msgid "Education"
-msgstr ""
+msgstr "Edukacja"
 
 #
 # File: ../src/plugin.py, line: 526
@@ -22328,7 +22328,7 @@ msgstr "Wpisz wyraz do wyszukania..."
 # File: ../src/plugin.py, line: 80
 #: ../src/MyTubeSearch.py:192 ../src/plugin.py:80
 msgid "Entertainment"
-msgstr ""
+msgstr "Rozrywka"
 
 #
 # File: ../src/plugin.py, line: 371
@@ -22348,21 +22348,21 @@ msgstr "Wyszukiwanie wpisów YouTube..."
 # File: ../src/plugin.py, line: 69
 #: ../src/MyTubeSearch.py:181 ../src/plugin.py:69
 msgid "Film & Animation"
-msgstr ""
+msgstr "Film & Animacje"
 
 #
 # File: ../src/MyTubeSearch.py, line: 188
 # File: ../src/plugin.py, line: 76
 #: ../src/MyTubeSearch.py:188 ../src/plugin.py:76
 msgid "Gaming"
-msgstr ""
+msgstr "Gry"
 
 #
 # File: ../src/MyTubeSearch.py, line: 207
 # File: ../src/plugin.py, line: 95
 #: ../src/MyTubeSearch.py:207 ../src/plugin.py:95
 msgid "Great Britain"
-msgstr ""
+msgstr "Wielka Brytania"
 
 #
 # File: ../src/MyTubeSearch.py, line: 237
@@ -22377,7 +22377,7 @@ msgstr "Filmy HD"
 # File: ../src/plugin.py, line: 97
 #: ../src/MyTubeSearch.py:209 ../src/plugin.py:97
 msgid "Holland"
-msgstr ""
+msgstr "Holandia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 210
@@ -22391,35 +22391,35 @@ msgstr ""
 # File: ../src/plugin.py, line: 82
 #: ../src/MyTubeSearch.py:194 ../src/plugin.py:82
 msgid "Howto & Style"
-msgstr ""
+msgstr "Poradnik & Styl"
 
 #
 # File: ../src/MyTubeSearch.py, line: 211
 # File: ../src/plugin.py, line: 99
 #: ../src/MyTubeSearch.py:211 ../src/plugin.py:99
 msgid "India"
-msgstr ""
+msgstr "Indie"
 
 #
 # File: ../src/MyTubeSearch.py, line: 212
 # File: ../src/plugin.py, line: 100
 #: ../src/MyTubeSearch.py:212 ../src/plugin.py:100
 msgid "Ireland"
-msgstr ""
+msgstr "Irlandia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 213
 # File: ../src/plugin.py, line: 101
 #: ../src/MyTubeSearch.py:213 ../src/plugin.py:101
 msgid "Israel"
-msgstr ""
+msgstr "Izrael"
 
 #
 # File: ../src/MyTubeSearch.py, line: 215
 # File: ../src/plugin.py, line: 103
 #: ../src/MyTubeSearch.py:215 ../src/plugin.py:103
 msgid "Japan"
-msgstr ""
+msgstr "Japonia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 418
@@ -22432,13 +22432,13 @@ msgstr "Załaduj listę podczas startu:"
 # File: ../src/plugin.py, line: 104
 #: ../src/MyTubeSearch.py:216 ../src/plugin.py:104
 msgid "Mexico"
-msgstr ""
+msgstr "Meksyk"
 
 #
 # File: ../src/plugin.py, line: 929
 #: ../src/plugin.py:929
 msgid "More video entries."
-msgstr ""
+msgstr "Więcej wpisów wideo."
 
 #
 # File: ../src/MyTubeSearch.py, line: 241
@@ -22490,7 +22490,7 @@ msgstr "Najczęściej ogladane"
 # File: ../src/plugin.py, line: 1738
 #: ../src/plugin.py:1738
 msgid "My TubePlayer"
-msgstr ""
+msgstr "Mój odtwarzacz MyTube"
 
 #
 # File: ../src/plugin.py, line: 472
@@ -22503,7 +22503,7 @@ msgstr "Ustawienia MyTube"
 # File: ../src/plugin.py, line: 384
 #: ../src/plugin.py:384
 msgid "MyTubePlayer"
-msgstr ""
+msgstr "Odtwarzacz MyTube"
 
 #
 # File: ../src/plugin.py, line: 450
@@ -22511,7 +22511,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 459
 #: ../src/plugin.py:450 ../src/plugin.py:452 ../src/plugin.py:459
 msgid "MyTubePlayer Help"
-msgstr ""
+msgstr "Pomoc odtwarzacza MyTube"
 
 #
 # File: ../src/MyTubeSearch.py, line: 571
@@ -22531,33 +22531,33 @@ msgstr "Ustawienia odtwarzacza MyTube"
 # File: ../src/plugin.py, line: 1279
 #: ../src/plugin.py:1279
 msgid "MyTubeVideoInfoScreen"
-msgstr ""
+msgstr "Ekran informacyjny odtwarzacza MyTube"
 
 #
 # File: ../src/plugin.py, line: 1425
 #: ../src/plugin.py:1425
 msgid "MyTubeVideohelpScreen"
-msgstr ""
+msgstr "Ekran pomocy odtwarzacza MyTube"
 
 #
 # File: ../src/MyTubeSearch.py, line: 217
 # File: ../src/plugin.py, line: 105
 #: ../src/MyTubeSearch.py:217 ../src/plugin.py:105
 msgid "New Zealand"
-msgstr ""
+msgstr "Nowa Zelandia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 191
 # File: ../src/plugin.py, line: 79
 #: ../src/MyTubeSearch.py:191 ../src/plugin.py:79
 msgid "News & Politics"
-msgstr ""
+msgstr "Wiadomości & Polityka"
 
 #
 # File: ../src/plugin.py, line: 1702
 #: ../src/plugin.py:1702
 msgid "No playable video found! Stop playing this movie?"
-msgstr ""
+msgstr "Nie odnaleziono wideo do otwarzania! Nie odtwarzać tego filmu?"
 
 #
 # File: ../src/plugin.py, line: 429
@@ -22582,27 +22582,27 @@ msgstr "Nie, ale przełącz do wyszukiwarki filmów"
 # File: ../src/plugin.py, line: 83
 #: ../src/MyTubeSearch.py:195 ../src/plugin.py:83
 msgid "Nonprofits & Activism"
-msgstr ""
+msgstr "Działalność nonprofit"
 
 #
 # File: ../src/plugin.py, line: 433
 #: ../src/plugin.py:433
 msgid "Not fetching feed entries"
-msgstr "Brk wyszukiwanych wpisów"
+msgstr "Brak wyszukiwanych wpisów"
 
 #
 # File: ../src/MyTubeSearch.py, line: 190
 # File: ../src/plugin.py, line: 78
 #: ../src/MyTubeSearch.py:190 ../src/plugin.py:78
 msgid "People & Blogs"
-msgstr ""
+msgstr "Ludzie & Blogi"
 
 #
 # File: ../src/MyTubeSearch.py, line: 184
 # File: ../src/plugin.py, line: 72
 #: ../src/MyTubeSearch.py:184 ../src/plugin.py:72
 msgid "Pets & Animals"
-msgstr ""
+msgstr "Zwierzęta"
 
 #
 # File: ../src/plugin.py, line: 1739
@@ -22641,7 +22641,7 @@ msgstr "Wybierz standardowy wpis lub powtórz wyszukiwanie"
 # File: ../src/plugin.py, line: 106
 #: ../src/MyTubeSearch.py:218 ../src/plugin.py:106
 msgid "Poland"
-msgstr ""
+msgstr "Polska"
 
 #
 # File: ../src/MyTubeSearch.py, line: 163
@@ -22681,34 +22681,34 @@ msgstr "Najczęściej zamieszczane"
 # File: ../src/plugin.py, line: 936
 #: ../src/plugin.py:936
 msgid "Related video entries."
-msgstr ""
+msgstr "Podobne wpisy wideo."
 
 #
 # File: ../src/MyTubeSearch.py, line: 161
 # File: ../src/plugin.py, line: 49
 #: ../src/MyTubeSearch.py:161 ../src/plugin.py:49
 msgid "Relevance"
-msgstr "Trafności"
+msgstr "Trafność"
 
 #
 # File: ../src/plugin.py, line: 943
 #: ../src/plugin.py:943
 msgid "Response video entries."
-msgstr ""
+msgstr Odpowiedź zapisu wideo""
 
 #
 # File: ../src/MyTubeSearch.py, line: 219
 # File: ../src/plugin.py, line: 107
 #: ../src/MyTubeSearch.py:219 ../src/plugin.py:107
 msgid "Russia"
-msgstr ""
+msgstr "Rosja"
 
 #
 # File: ../src/MyTubeSearch.py, line: 196
 # File: ../src/plugin.py, line: 84
 #: ../src/MyTubeSearch.py:196 ../src/plugin.py:84
 msgid "Science & Technology"
-msgstr ""
+msgstr "Nauka & Technologia"
 
 #
 # File: ../src/plugin.py, line: 388
@@ -22752,34 +22752,34 @@ msgstr "Wybierz jedną z opcji:"
 # File: ../src/plugin.py, line: 75
 #: ../src/MyTubeSearch.py:187 ../src/plugin.py:75
 msgid "Short Movies"
-msgstr ""
+msgstr "Krótkie filmy"
 
 #
 # File: ../src/MyTubeSearch.py, line: 220
 # File: ../src/plugin.py, line: 108
 #: ../src/MyTubeSearch.py:220 ../src/plugin.py:108
 msgid "South Korea"
-msgstr ""
+msgstr "Południowa Korea"
 
 #
 # File: ../src/MyTubeSearch.py, line: 221
 # File: ../src/plugin.py, line: 109
 #: ../src/MyTubeSearch.py:221 ../src/plugin.py:109
 msgid "Spain"
-msgstr ""
+msgstr "Hiszpania"
 
 #
 # File: ../src/MyTubeSearch.py, line: 185
 # File: ../src/plugin.py, line: 73
 #: ../src/MyTubeSearch.py:185 ../src/plugin.py:73
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 #
 # File: ../src/MyTubeSearch.py, line: 421
 #: ../src/MyTubeSearch.py:421
 msgid "Start with following feed:"
-msgstr "Uruchom w kategori:"
+msgstr "Uruchom w kategorii:"
 
 #
 # File: ../src/plugin.py, line: 270
@@ -22792,13 +22792,13 @@ msgstr "Kategorie"
 # File: ../src/plugin.py, line: 110
 #: ../src/MyTubeSearch.py:222 ../src/plugin.py:110
 msgid "Sweden"
-msgstr ""
+msgstr "Szwecja"
 
 #
 # File: ../src/plugin.py, line: 1276
 #: ../src/plugin.py:1276
 msgid "Tags: "
-msgstr ""
+msgstr "Tagi: "
 
 #
 # File: ../src/MyTubeSearch.py, line: 223
@@ -22811,27 +22811,27 @@ msgstr ""
 # File: ../src/plugin.py, line: 423
 #: ../src/plugin.py:423
 msgid "There was an error getting the feed entries. Please try again."
-msgstr ""
+msgstr "Wystąpił błąd podczas pobierania wpisów z feed. Proszę spróbuj ponownie."
 
 #
 # File: ../src/MyTubeSearch.py, line: 169
 # File: ../src/plugin.py, line: 57
 #: ../src/MyTubeSearch.py:169 ../src/plugin.py:57
 msgid "This Month"
-msgstr ""
+msgstr "Ten miesiąc"
 
 #
 # File: ../src/MyTubeSearch.py, line: 170
 # File: ../src/plugin.py, line: 58
 #: ../src/MyTubeSearch.py:170 ../src/plugin.py:58
 msgid "This Week"
-msgstr ""
+msgstr "Ten tydzień"
 
 #
 # File: ../src/plugin.py, line: 1420
 #: ../src/plugin.py:1420
 msgid "This is the help screen. Feed me with something to display."
-msgstr ""
+msgstr "To jest ekran pomocy. Wprowadź coś do wyświetlenia."
 
 #
 # File: ../src/MyTubeSearch.py, line: 242
@@ -22854,7 +22854,7 @@ msgstr "Najlepiej oceniane"
 # File: ../src/plugin.py, line: 74
 #: ../src/MyTubeSearch.py:186 ../src/plugin.py:74
 msgid "Travel & Events"
-msgstr ""
+msgstr "Podróże & Wydarzenia"
 
 #
 # File: ../src/plugin.py, line: 371
@@ -22874,7 +22874,7 @@ msgstr "Pobieranie wyników wyszukiwania z YouTube"
 # File: ../src/plugin.py, line: 112
 #: ../src/MyTubeSearch.py:224 ../src/plugin.py:112
 msgid "United States"
-msgstr ""
+msgstr "Stany Zjednoczone"
 
 #
 # File: ../src/MyTubeSearch.py, line: 423
@@ -22893,7 +22893,7 @@ msgstr "Zachowanie gdy zatrzymany:"
 # File: ../src/plugin.py, line: 50
 #: ../src/MyTubeSearch.py:162 ../src/plugin.py:50
 msgid "View Count"
-msgstr "Ilości odtwarć"
+msgstr "Licznik odtworzeń"
 
 #
 # File: ../src/plugin.py, line: 486
@@ -22947,7 +22947,7 @@ msgstr ""
 "\n"
 "Nacisnij Menu aby przejść do opcji.\n"
 "\n"
-"Przycisk Help  pokaże pomoc."
+"Przycisk Help pokaże pomoc."
 
 #
 # File: ../src/plugin.py, line: 259
@@ -22978,33 +22978,33 @@ msgstr "Tak, ale odtwórz poprzedni film"
 
 #
 msgid "Auto paginate on last entry:"
-msgstr ""
+msgstr "Automatyczny podział ostatniego wprowadzenia:"
 
 #
 msgid "Reset tv-screen after playback:"
-msgstr ""
+msgstr "Zresetuj ekran tv po zakończeniu odtwarzania:"
 
 #
 msgid "Max search results:"
-msgstr ""
+msgstr "Maksymalna liczba wyników wyszukiwania:"
 
 #: ../src/plugin.py:279
 #, python-format
 msgid "Failed to move the movie %s to %s in the background"
-msgstr ""
+msgstr "Nie udało się przenieść filmu %s do %s w tle"
 
 #: ../src/plugin.py:63
 msgid "Filename"
-msgstr ""
+msgstr "Nazwa pliku"
 
 #: ../src/plugin.py:74
 msgid "Name and Description Input"
-msgstr ""
+msgstr "Nazwa i opis wprowadzenia"
 
 #: ../src/plugin.py:286
 #, python-format
 msgid "Successfully moved the movie %s"
-msgstr ""
+msgstr "Film %s przeniesiony z powodzeniem"
 
 #: ../src/plugin.py:126
 #, python-format
@@ -23012,23 +23012,25 @@ msgid ""
 "Target file %s.ts already exist.\n"
 "Do you want to replace it?"
 msgstr ""
+"Plik docelowy %s.ts już istnieje.\n"
+"Czy chcesz go zastąpić?"
 
 #: ../src/plugin.py:238
 #, python-format
 msgid "The movie is moved in the background from %s to %s."
-msgstr ""
+msgstr "Film jest przenoszony w tle z %s do %s."
 
 #: ../src/plugin.py:130
 msgid "The target directory is not found. The file is not renamed."
-msgstr ""
+msgstr "Katalog docelowy nie został znaleziony. Plik nie zostanie zmieniony."
 
 #: ../src/plugin.py:20
 msgid "change name..."
-msgstr ""
+msgstr "zmień nazwę..."
 
 #: ../src/plugin.py:598
 msgid "(actual)"
-msgstr ""
+msgstr "(rzeczywisty)"
 
 #: ../src/plugin.py:412
 msgid "(offline!)"
@@ -23040,27 +23042,27 @@ msgstr ""
 
 #: ../src/plugin.py:603
 msgid "(set point)"
-msgstr ""
+msgstr "(ustaw punkt)"
 
 #: ../src/plugin.py:615
 msgid "Visualization for European Installation Bus"
-msgstr ""
+msgstr "Wizualizacja europejskiej magistrali instalacyjnej"
 
 #: ../src/plugin.py:54
 msgid "down"
-msgstr ""
+msgstr "w dół"
 
 #: ../src/plugin.py:499
 msgid "not found"
-msgstr ""
+msgstr "nie znaleziono"
 
 #: ../src/plugin.py:537
 msgid "parser error"
-msgstr ""
+msgstr "błąd parsera"
 
 #: ../src/plugin.py:54
 msgid "up"
-msgstr ""
+msgstr "w górę"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:140
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:301
@@ -23068,52 +23070,52 @@ msgstr ""
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:460
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:538
 msgid "Movielist Preview"
-msgstr ""
+msgstr "Podglad listy filmów"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:343
 msgid "Preview created."
-msgstr ""
+msgstr "Podgląd utworzony."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:406
 msgid "Could not find any movie!"
-msgstr ""
+msgstr "Nie znaleziono żadnego filmu!"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:419
 #, python-format
 msgid "%s - creating preview for movie %s"
-msgstr ""
+msgstr "%s - tworzenie podglądu filmu %s"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:428
 msgid "Everything done ;)"
-msgstr ""
+msgstr "Wszystko zrobione."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:449
 msgid "Autocreate of previews aborted due user!"
-msgstr ""
+msgstr "Automatyczne utwórz zapowiedzi przerwane przez użytkownika!"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:473
 msgid "Deactivate Movielist Preview"
-msgstr ""
+msgstr "Dezaktywuj podgląd listy filmów"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:475
 msgid "Activate Movielist Preview"
-msgstr ""
+msgstr "Aktywuj podgląd listy filmów"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:476
 msgid "Create preview"
-msgstr ""
+msgstr "Tworzenie podglądu"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:477
 msgid "Autocreate of missing previews"
-msgstr ""
+msgstr "Automatyczne utwórz brakujące zapowiedzi"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:478
 msgid "Change Movielist Preview position"
-msgstr ""
+msgstr "Zmień pozycję podglądu listy filmów"
 
 #: ../src/plugin.py:112
 msgid "A basic FTP client"
-msgstr ""
+msgstr "Podstawowym klient FTP"
 
 #: ../src/FTPBrowser.py:488
 #, python-format
@@ -23121,6 +23123,8 @@ msgid ""
 "A file with this name (%s) already exists locally.\n"
 "Do you want to overwrite it?"
 msgstr ""
+"Plik o tej nazwie (%s) już istnieje lokalnie.\n"
+"Czy chcesz go zastąpić?"
 
 #: ../src/FTPBrowser.py:518
 #, python-format
@@ -23128,46 +23132,50 @@ msgid ""
 "A file with this name (%s) already exists on the remote host.\n"
 "Do you want to overwrite it?"
 msgstr ""
+"Plik o tej nazwie (%s) już istnieje na zdalnym komputerze.\n"
+"Czy chcesz go zastąpić?"
 
 #: ../src/FTPBrowser.py:716
 msgid ""
 "A transfer is currently in progress.\n"
 "What do you want to do?"
 msgstr ""
+"Transfer jest obecnie w toku.\n"
+"Co chcesz zrobić?"
 
 #: ../src/FTPBrowser.py:719
 msgid "Abort transfer"
-msgstr ""
+msgstr "Przerwij transfer"
 
 #: ../src/FTPServerManager.py:150
 msgid "Address:"
-msgstr ""
+msgstr "Adres:"
 
 #: ../src/FTPBrowser.py:407
 #, python-format
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć %s?"
 
 #: ../src/FTPServerManager.py:313
 msgid "Configuration saved."
-msgstr ""
+msgstr "Konfiguracja zapisana."
 
 #: ../src/plugin.py:101
 msgid "Connect to FTP..."
-msgstr ""
+msgstr "Połącz się z FTP..."
 
 #: ../src/FTPBrowser.py:792
 msgid "Could not connect to ftp server!"
-msgstr ""
+msgstr "Nie można połączyć się z serwerem FTP!"
 
 #: ../src/FTPBrowser.py:358 ../src/FTPBrowser.py:370
 #, python-format
 msgid "Could not delete %s."
-msgstr ""
+msgstr "Nie można usunąć %s."
 
 #: ../src/FTPBrowser.py:439
 msgid "Could not obtain list of files."
-msgstr ""
+msgstr "Nie można uzyskać listy plików."
 
 #: ../src/FTPBrowser.py:306 ../src/FTPBrowser.py:321
 #, python-format
