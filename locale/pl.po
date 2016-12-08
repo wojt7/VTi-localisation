@@ -12096,55 +12096,55 @@ msgstr "Proszę wybrać preferowany widok EPG"
 
 #
 msgid "Software Setup"
-msgstr ""
+msgstr "Konfiguracja oprogramowania"
 
 #
 msgid "Please press EPG/Info key for detailed error description"
-msgstr ""
+msgstr "Proszę nacisnąć przycisk EPG/Info dla szczegółowego opisu błędu"
 
 #
 msgid "Subtitle settings"
-msgstr ""
+msgstr "Ustawienia napisów"
 
 #
 msgid "Subtitle font color"
-msgstr ""
+msgstr "Kolor czcionki napisów"
 
 #
 msgid "Subtitle font size"
-msgstr ""
+msgstr "Rozmiar czcionki napisów"
 
 #
 msgid "Subtitle padding Y"
-msgstr ""
+msgstr "Wypełnienie napisów"
 
 #
 msgid "Background color"
-msgstr ""
+msgstr "Kolor tła"
 
 #
 msgid "Background transparency"
-msgstr ""
+msgstr "Przeźroczystość tła"
 
 #
 msgid "Character edge style"
-msgstr ""
+msgstr "Charakter stylu krawędzi"
 
 #
 msgid "Character style level"
-msgstr ""
+msgstr "Poziom stylu znaku"
 
 #
 msgid "Subtitle text transparency"
-msgstr ""
+msgstr "Przejrzystość tekstu napisów"
 
 #
 msgid "Use original position"
-msgstr ""
+msgstr "Użyj oryginalnej pozycji"
 
 #
 msgid "Subtitle alignment"
-msgstr ""
+msgstr "Dostosowanie napisów"
 
 #
 msgid "Subtitle position"
@@ -12152,87 +12152,87 @@ msgstr ""
 
 #
 msgid "Center DVB subtitles"
-msgstr ""
+msgstr "Pozycja napisów"
 
 #
 msgid "Rewrap subtitles"
-msgstr ""
+msgstr "Zawijanie napisów"
 
 #
 msgid "Subtitle delay when timing lacks"
-msgstr ""
+msgstr "Opóźnienie napisów, przy braku synchronizacji"
 
 #
 msgid "Subtitle delay when timing is bad"
-msgstr ""
+msgstr "Opóźnienie napisów, przy braku synchronizacji"
 
 #
 msgid "External subtitle switch fonts"
-msgstr ""
+msgstr "Przełacznik napisów zewnętrznych"
 
 #
 msgid "External subtitle dialog colorisation"
-msgstr ""
+msgstr "Kolor zewnętrznych napisów dialogowych"
 
 #
 msgid "Delay for external subtitles"
-msgstr ""
+msgstr "Opóźnienie napisów zewnętrznych"
 
 #
 msgid "Set fps for external subtitles"
-msgstr ""
+msgstr "Ustaw FPS dla zewnętrznych napisów"
 
 #
 msgid "Automatically turn on external subtitles"
-msgstr ""
+msgstr "Włącz automatycznie zewnętrzne napisy"
 
 #
 msgid "Subtitle Quickmenu"
-msgstr ""
+msgstr "Menu podręczne napisów"
 
 #
 msgid "Force LNB Power"
-msgstr ""
+msgstr "Wymuś zasilanie LNB"
 
 #
 msgid "Force ToneBurst"
-msgstr ""
+msgstr "Wymuś ToneBurst"
 
 #
 msgid "DVB CI Delay"
-msgstr ""
+msgstr "Opóźnienie DVB CI"
 
 #
 msgid "Original"
-msgstr ""
+msgstr "Oryginalny"
 
 #
 msgid "No delay"
-msgstr ""
+msgstr "Bez opóźnień"
 
 #
 msgid "center"
-msgstr ""
+msgstr "centralnie"
 
 #
 msgid "No transparency"
-msgstr ""
+msgstr "Brak przejrzystości"
 
 #
 msgid "Depressed"
-msgstr ""
+msgstr "Wklęsły"
 
 #
 msgid "Raised"
-msgstr ""
+msgstr "Podniesiony"
 
 #
 msgid "Uniform"
-msgstr ""
+msgstr "Jednolity"
 
 #
 msgid "Full transparency"
-msgstr ""
+msgstr "Pełna przejrzystość"
 
 #
 msgid "magneta"
@@ -12240,71 +12240,71 @@ msgstr ""
 
 #
 msgid "Limit FCC to current bouquet"
-msgstr ""
+msgstr "Limit FCC aktualnego bukietu"
 
 #
 msgid "FCC restart"
-msgstr ""
+msgstr "Restart FCC"
 
 #
 msgid "Show build in SecondInfobar"
-msgstr ""
+msgstr "Pokaż build w SecondInfobar"
 
 #
 msgid "SecondInfobar timeout"
-msgstr ""
+msgstr "Limit czasowy SecondInfobar"
 
 #
 msgid "same as Infobar"
-msgstr ""
+msgstr "tak samo jak Infobar"
 
 #
 msgid "Use cross left/right buttons for bouquet change in service list"
-msgstr ""
+msgstr "Użyj przycisków lewo/prawo do zmiany bukietu na liście kanałów"
 
 #
 msgid "Use OK button for opening favourite list"
-msgstr ""
+msgstr "Użyj przycisku OK do otwierania listy ulubionych"
 
 #
 msgid "Timeout for double-click (ms)"
-msgstr ""
+msgstr "Limit czasu na dwukrotne kliknięcie (ms)"
 
 #
 msgid "Use double click for OK button"
-msgstr ""
+msgstr "Użyj podwójnego kliknięcia dla przycisku OK"
 
 #
 msgid "Enable advertisment detection (I-net is mandatory)"
-msgstr ""
+msgstr "Włącz wykrywanie reklam (I-net jest obowiązkowy)"
 
 #
 msgid "Show icons in service list at services with advertisment"
-msgstr ""
+msgstr "Pokaż ikony w liście kanałów w usługach z reklamami"
 
 #
 msgid "Exclude services with advertisment at left/right zapping"
-msgstr ""
+msgstr "Wyłącz usług z reklamą przełączając w lewo/w prawo"
 
 #
 msgid "Set marker for advertisment during recording"
-msgstr ""
+msgstr "Ustaw marker dla reklamy podczas nagrywania"
 
 #
 msgid "Scan in background"
-msgstr ""
+msgstr "Skanowanie w tle"
 
 #
 msgid "Show preview pictures in service list"
-msgstr ""
+msgstr "Pokazuj podgląd obrazu w liście kanałów"
 
 #
 msgid "Time in minutes before preview pictures will be updated"
-msgstr ""
+msgstr "Czas w minutach dla zaktualizowania podglądu obrazów"
 
 #
 msgid "Include configuration file in crash log"
-msgstr ""
+msgstr "Dołącz plik konfiguracyjny w crashlogu"
 
 #
 msgid "Fast Scan"
@@ -12312,35 +12312,35 @@ msgstr ""
 
 #
 msgid "Scanning %s..."
-msgstr ""
+msgstr "Skanuję %s..."
 
 #
 msgid "Scanning failed!"
-msgstr ""
+msgstr "Skanowanie nie powiodło się"
 
 #
 msgid "List version %d, found %d channels"
-msgstr ""
+msgstr "Pokaż wersję %d, znaleziono %d kanałów"
 
 #
 msgid "HD list"
-msgstr ""
+msgstr "Lista HD"
 
 #
 msgid "Select your provider, and press OK to start the scan"
-msgstr ""
+msgstr "Wybierz dostawcę, a następnie naciśnij przycisk OK, aby rozpocząć skanowanie"
 
 #
 msgid "Use fastscan channel names"
-msgstr ""
+msgstr "Użyj nazwę kanałów z szybkiego skanowania"
 
 #
 msgid "Enable auto fast scan"
-msgstr ""
+msgstr "Włącz automatycznie szybkie skanowanie"
 
 #
 msgid "Enable auto fast scan for %s"
-msgstr ""
+msgstr "Włącz automatycznie szybkie skanowanie dla %s"
 
 #
 msgid ""
