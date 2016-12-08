@@ -23172,43 +23172,43 @@ msgstr ""
 #: ../src/FTPBrowser.py:306 ../src/FTPBrowser.py:321
 #, python-format
 msgid "Could not rename %s."
-msgstr ""
+msgstr "Nie można zmienić nazwy %s."
 
 #: ../src/FTPBrowser.py:646
 msgid "Download finished."
-msgstr ""
+msgstr "Pobieranie zakończone."
 
 #: ../src/FTPServerManager.py:146
 msgid "Enter URI"
-msgstr ""
+msgstr "Wprowadź URI"
 
 #: ../src/FTPServerManager.py:186
 msgid "Enter URI of FTP Server:"
-msgstr ""
+msgstr "Wprowadź URI serwera FTP:"
 
 #: ../src/FTPBrowser.py:342
 msgid "Enter new filename:"
-msgstr ""
+msgstr "Wprowadź nową nazwę:"
 
 #: ../src/FTPBrowser.py:631 ../src/FTPBrowser.py:655
 msgid "Error during download."
-msgstr ""
+msgstr "Błąd podczas pobierania."
 
 #: ../src/FTPQueueManager.py:67
 msgid "FTP Queue Manager"
-msgstr ""
+msgstr "Menedżer kolejki FTP"
 
 #: ../src/FTPServerManager.py:166
 msgid "FTP Server Editor"
-msgstr ""
+msgstr "Edytor serwera FTP"
 
 #: ../src/FTPServerManager.py:235
 msgid "FTP Server Manager"
-msgstr ""
+msgstr "Menedżer serwera FTP"
 
 #: ../src/FTPBrowser.py:162
 msgid "Local"
-msgstr ""
+msgstr "Lokalny"
 
 #: ../src/FTPServerManager.py:153
 msgid "Port:"
@@ -23216,49 +23216,49 @@ msgstr ""
 
 #: ../src/FTPBrowser.py:241
 msgid "Queue Manager"
-msgstr ""
+msgstr "Menedżer kolejki"
 
 #: ../src/FTPBrowser.py:432
 msgid "Queue processed."
-msgstr ""
+msgstr "Kolejka w przetwarzaniu."
 
 #: ../src/FTPBrowser.py:781
 msgid "Remote"
-msgstr ""
+msgstr "Zdalny"
 
 #: ../src/FTPBrowser.py:164 ../src/FTPBrowser.py:746 ../src/FTPBrowser.py:789
 msgid "Remote (not connected)"
-msgstr ""
+msgstr "Zdalny (nie podłączony)"
 
 #: ../src/FTPBrowser.py:356 ../src/FTPBrowser.py:372
 #, python-format
 msgid "Removed %s."
-msgstr ""
+msgstr "Usunieto %s."
 
 #: ../src/FTPBrowser.py:382 ../src/FTPBrowser.py:395
 msgid "Removing directories is not supported."
-msgstr ""
+msgstr "Usuwanie katalogów nie jest obsługiwane."
 
 #: ../src/FTPBrowser.py:304 ../src/FTPBrowser.py:323
 #, python-format
 msgid "Renamed %s to %s."
-msgstr ""
+msgstr "Zmieniono nazwę z %s na %s."
 
 #: ../src/FTPBrowser.py:718
 msgid "Run in Background"
-msgstr ""
+msgstr "Uruchom w tle"
 
 #: ../src/FTPBrowser.py:185
 msgid "Select local file list"
-msgstr ""
+msgstr "Wybierz lokalną listę plików"
 
 #: ../src/FTPBrowser.py:186
 msgid "Select remote file list"
-msgstr ""
+msgstr "Wybierz zdalną listę plików"
 
 #: ../src/FTPBrowser.py:240
 msgid "Server Manager"
-msgstr ""
+msgstr "Menadżer serwera"
 
 #: ../src/plugin.py:66
 msgid ""
@@ -23720,7 +23720,7 @@ msgstr "Włącz dekodowanie programowe AAC"
 
 #
 msgid "Turn on AAC software decoding."
-msgstr ""
+msgstr "Włącz dekodowanie programowe AAC."
 
 #
 msgid "DTS software decoding"
@@ -23998,7 +23998,7 @@ msgstr ""
 
 #
 msgid "set Vu+ %s LNB Power and etc.."
-msgstr ""
+msgstr "ustaw zasilanie Vu+ %s LNB itd.."
 
 #
 msgid "Scanning bluetooth devices"
@@ -24054,7 +24054,7 @@ msgstr "Parowanie %s nie powiodło się!!"
 
 #
 msgid "Discovery"
-msgstr ""
+msgstr "Odkrycie"
 
 #
 msgid "Device is disabling..."
