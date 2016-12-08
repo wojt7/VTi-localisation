@@ -15019,12 +15019,13 @@ msgstr "Sprawdź aktualizacje"
 
 #
 msgid "It seems that your Internet connection is not ok, please check it"
-msgstr ""
+msgstr "Wydaje się, że połączenie internetowe nie działa, proszę sprawdzić"
 
 #
 msgid ""
 "The news file can not be analyzed, please be patient and try again later"
 msgstr ""
+"Plik wiadomości nie mógł być poddany analizie, bądź cierpliwy i spróbuj ponownie później"
 
 #
 msgid "Upgradable Packages"
@@ -15042,6 +15043,10 @@ msgid ""
 "old version : %s \n"
 "new version : %s\n"
 msgstr ""
+"\n"
+"Pakiet : %s \n"
+"stara wersja : %s \n"
+"nowa wersja : %s\n"
 
 #
 msgid ""
@@ -15815,83 +15820,83 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:37
 msgid "InfoBar Tuner State"
-msgstr ""
+msgstr "Pasek informacyjny stanu tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:38
 msgid "Show InfoBar Tuner State"
-msgstr ""
+msgstr "Pokaż pasek informacyjny stanu tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:49
 msgid "Type (Icon)"
-msgstr ""
+msgstr "Typ (Ikona)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:50
 msgid "Type (Text)"
-msgstr ""
+msgstr "Typ (Tekst)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:52
 msgid "Tuner Type"
-msgstr ""
+msgstr "Typ tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:53
 msgid "Channel Number"
-msgstr ""
+msgstr "Numer kanału"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:54
 msgid "Channel Name"
-msgstr ""
+msgstr "Nazwa kanału"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:56
 msgid "Time Left / Duration"
-msgstr ""
+msgstr "Pozostały czas / czas trwania"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:57
 msgid "Time Left"
-msgstr ""
+msgstr "Pozostały czas"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:58
 msgid "Time Elapsed"
-msgstr ""
+msgstr "Czas, jaki upłynął"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:59
 msgid "Begin"
-msgstr ""
+msgstr "Początek"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:60
 msgid "End"
-msgstr ""
+msgstr "Koniec"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:61
 msgid "Duration"
-msgstr ""
+msgstr "Czas trwania"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:62
 msgid "Timer Progress (Graphical)"
-msgstr ""
+msgstr "Wskaźnik postępu (Graficzny)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:63
 msgid "Timer Progress (Text)"
-msgstr ""
+msgstr "Wskaźnik postępu (Tekstowy)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:64
 msgid "Destination"
-msgstr ""
+msgstr "Cel"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:65
 msgid "Stream Client"
-msgstr ""
+msgstr "Klient strumienia"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:66
 msgid "Stream Client with Port"
-msgstr ""
+msgstr "Strumieniuj klienta z portu"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:67
 msgid "Destination / Client"
-msgstr ""
+msgstr "Cel / Klient"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:70
 msgid "File Size"
-msgstr ""
+msgstr "Rozmiar pliku"
 
 #
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:71
@@ -15936,66 +15941,66 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:141
 msgid "configuration"
-msgstr ""
+msgstr "konfiguracja"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:190
 msgid "Nothing running"
-msgstr ""
+msgstr "Brak audycji"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:194
 msgid "InfoBarTunerState is disabled"
-msgstr ""
+msgstr "Pasek informacyjny stanu tunera jest wyłączony"
 
 msgid "MerlinMusicPlayer"
 msgstr ""
 
 msgid "Not easy way to start EasyMedia"
-msgstr ""
+msgstr "Nie łatwy sposób rozpocząć EasyMedia"
 
 msgid "Music player:"
-msgstr ""
+msgstr "Odtwarzacz muzyki"
 
 msgid "Files browser:"
-msgstr ""
+msgstr "Przeglądarka plików:"
 
 msgid "Show bookmarks:"
-msgstr ""
+msgstr "Pokaż zakładki:"
 
 msgid "YouTube player:"
-msgstr ""
+msgstr "Odtwarzacz YouTube"
 
 msgid "VLC player:"
-msgstr ""
+msgstr "Odtwarzacz VLC"
 
 msgid "DVD player:"
-msgstr ""
+msgstr "Odtwarzacz DVD"
 
 msgid "Weather plugin:"
-msgstr ""
+msgstr "Wtyczka pogodowa"
 
 msgid "NetRadio player:"
-msgstr ""
+msgstr "Odtwarzacz NetRadio"
 
 msgid "Show Merlin-iDream:"
-msgstr ""
+msgstr "Pokaż Merlin-iDream"
 
 msgid "ZDFmediathek player:"
-msgstr ""
+msgstr "Odtwarzacz ZDFmediathek"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Zdjęcia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 183
 # File: ../src/plugin.py, line: 71
 msgid "Music"
-msgstr ""
+msgstr "Muzyka"
 
 msgid "Weather"
-msgstr ""
+msgstr "Pogoda"
 
 msgid "Files"
-msgstr ""
+msgstr "Pliki"
 
 msgid "SHOUTcast"
 msgstr ""
@@ -16004,13 +16009,13 @@ msgid "iDream"
 msgstr ""
 
 msgid "MyTube Player"
-msgstr ""
+msgstr "Odtwarzacz MyTube"
 
 msgid "VLC Player"
-msgstr ""
+msgstr "Odtwarzacz VLC"
 
 msgid "ZDFmediathek"
-msgstr ""
+msgstr "ZDFmediathek"
 
 #
 msgid "Filebrowser"
@@ -16020,129 +16025,129 @@ msgid "DreamExplorer"
 msgstr ""
 
 msgid "Picture-player is not installed!"
-msgstr ""
+msgstr "Odtwarzacz zdjęć nie jest zainstalowany!"
 
 msgid "No Music-Player installed!"
-msgstr ""
+msgstr "Brak odtwarzacza muzyki"
 
 msgid "No File-Manager installed!"
-msgstr ""
+msgstr "Nie zainstalowano menadżera plików!"
 
 msgid "Weather Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka pogodowa nie jest zainstalowana!"
 
 msgid "DVDPlayer Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka odtwrzacza DVD nie jest zainstalowana!"
 
 msgid "MyTube Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka MyTube nie jest zainstalowana!"
 
 msgid "SHOUTcast Plugin is not installed!"
-msgstr ""
+msgstr ""Wtyczka SHOUTcast nie jest zainstalowana!"
 
 msgid "ZDFmediathek Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka ZDFmediathek nie jest zainstalowana!"
 
 msgid "VLC Player is not installed!"
-msgstr ""
+msgstr "Odtwarzacz VLC nie jest zainstalowany!"
 
 msgid "Merlin iDream is not installed!"
-msgstr ""
+msgstr "Merlin iDream nie jest zainstalowany!"
 
 msgid "EasyMedia settings..."
-msgstr ""
+msgstr "Ustawienia EasyMedia"
 
 msgid "Select bookmark..."
-msgstr ""
+msgstr "Wybierz zakładkę ..."
 
 msgid "Tv/Radio"
-msgstr ""
+msgstr "TV/Radio"
 
 msgid "Show tv/radio switch:"
-msgstr ""
+msgstr "Pokaż przełącznik TV/Radio:"
 
 msgid "TV-mode"
-msgstr ""
+msgstr "Tryb TV"
 
 msgid "Radio-mode"
-msgstr ""
+msgstr "Tryb Radio"
 
 msgid "MyVideo Player is not installed!"
-msgstr ""
+msgstr "Odtwarzacz MyVideo nie jest zainstalowany!"
 
 msgid "MyVideo"
 msgstr ""
 
 msgid "MyVideo player:"
-msgstr ""
+msgstr "Odtwrzacz MyVideo:"
 
 msgid "Add/remove plugin"
-msgstr ""
+msgstr "Dodaj/usuń wtyczki"
 
 msgid " removed from EasyMedia"
-msgstr ""
+msgstr "usunięty z EasyMedia"
 
 msgid " added to EasyMedia"
-msgstr ""
+msgstr "dodany do EasyMedia"
 
 msgid "VideoDB is not installed!"
-msgstr ""
+msgstr "VideoDB nie jest zainstalowany!"
 
 msgid "PicturePlayer:"
-msgstr ""
+msgstr "Odtwarzacz zdjęć"
 
 msgid "Video database:"
-msgstr ""
+msgstr "Baza danych wideo:"
 
 msgid "VideoDB"
-msgstr ""
+msgstr "Baza danych wideo"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:171
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:283
 msgid "Channel: "
-msgstr ""
+msgstr "Kanał:"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:177
 #, python-format
 msgid "%s does not exist!"
-msgstr ""
+msgstr "%s nie istnieje!"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:298
 msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
-msgstr ""
+msgstr "Błąd podczas tworzenia zrzutu ekranu. Pobierz wersję 0.8 lub wyższą!"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:311
 msgid "Countdown:"
-msgstr ""
+msgstr "Odliczanie:"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:368
 msgid "Mosaic"
-msgstr ""
+msgstr "Mozaika"
 
 #: ../src/plugin.py:442
 msgid " as "
-msgstr ""
+msgstr "z"
 
 #: ../src/plugin.py:248
 msgid "Ambiguous results"
-msgstr ""
+msgstr "Niejednoznaczne wyniki"
 
 #: ../src/plugin.py:444
 msgid "Cast: "
-msgstr ""
+msgstr "Obsada: "
 
 #: ../src/plugin.py:321
 msgid "Could't get Eventname"
-msgstr ""
+msgstr "Nie mogłem uzyskać nazwy wydarzenia"
 
 #: ../src/plugin.py:253 ../src/plugin.py:399
 msgid "Details"
-msgstr ""
+msgstr "Detale"
 
 #: ../src/plugin.py:452
 #, python-format
 msgid "Downloading Movie Poster: %s..."
-msgstr ""
+msgstr "Pobieranie plakatów filmu: %s..."
 
 #: ../src/plugin.py:471
 msgid "Extra Info"
@@ -16150,92 +16155,92 @@ msgstr ""
 
 #: ../src/plugin.py:400 ../src/plugin.py:476
 msgid "IMDb Details parsed"
-msgstr ""
+msgstr "Anazliza detali IMDb"
 
 #: ../src/plugin.py:352
 msgid "IMDb Download completed"
-msgstr ""
+msgstr "Pobieranie IMDb zakończone"
 
 #: ../src/plugin.py:325
 msgid "IMDb Download failed"
-msgstr ""
+msgstr "Pobieranie IMDb nie powiodło się"
 
 #: ../src/plugin.py:505
 msgid "IMDb Plugin"
-msgstr ""
+msgstr "Wtyczka IMDb"
 
 #: ../src/plugin.py:389
 msgid "IMDb Re-Download completed"
-msgstr ""
+msgstr "Ponowne pobranie IMDb zakończone"
 
 #: ../src/plugin.py:386
 msgid "IMDb query failed!"
-msgstr ""
+msgstr "Zapytanie IMDb nie powiodło się!"
 
 #: ../src/plugin.py:70
 msgid "Lookup"
-msgstr ""
+msgstr "Wyszukania"
 
 #: ../src/plugin.py:373 ../src/plugin.py:374
 msgid "No IMDb match."
-msgstr ""
+msgstr "Brak odpowiednika w IMDb."
 
 #: ../src/plugin.py:446
 msgid "No cast list found in the database."
-msgstr ""
+msgstr "Brak list obsady w bazie danych."
 
 #: ../src/plugin.py:397
 msgid "No details found."
-msgstr ""
+msgstr "Nie znaleziono żadnych szczegółów."
 
 #: ../src/plugin.py:249
 msgid "Please select the matching entry"
-msgstr ""
+msgstr "Proszę wybrać pasujący wpis"
 
 #: ../src/plugin.py:314
 #, python-format
 msgid "Query IMDb: %s..."
-msgstr ""
+msgstr "Zapytanie IMDb: %s..."
 
 #: ../src/plugin.py:517 ../src/plugin.py:522 ../src/plugin.py:529
 msgid "Query details from the Internet Movie Database"
-msgstr ""
+msgstr "Szczegóły zapytania z internetowej bazy danych filmwó"
 
 #: ../src/plugin.py:264 ../src/plugin.py:379
 #, python-format
 msgid "Re-Query IMDb: %s..."
-msgstr ""
+msgstr "Ponowne zapytanie IMDb: %s..."
 
 #: ../src/plugin.py:135
 msgid "The Internet Movie Database"
-msgstr ""
+msgstr "Internetowa baza danych filmów"
 
 #: ../src/plugin.py:252
 msgid "Title Menu"
-msgstr ""
+msgstr "Menu tytułu"
 
 #: ../src/plugin.py:427
 msgid "no user rating yet"
-msgstr ""
+msgstr "brak ocen użytkowników"
 
 #, python-format
 msgid "%(name)s (%(user)s@%(server)s)"
-msgstr ""
+msgstr "%(nazwa)y (%(użytkownik)cy@%(serwer)y)"
 
 msgid "Accounts list"
-msgstr ""
+msgstr "Lista rachunków"
 
 msgid "Attachments"
-msgstr ""
+msgstr "Załączniki"
 
 msgid "Bodys"
 msgstr ""
 
 msgid "Email Client"
-msgstr ""
+msgstr "Klient email
 
 msgid "Email setup"
-msgstr ""
+msgstr "Ustawienia email"
 
 #, python-format
 msgid ""
@@ -16243,6 +16248,9 @@ msgid ""
 "\n"
 "%(error)s"
 msgstr ""
+"Klient email dla %(konta)s:\n"
+"\n"
+"%(błąd)s"
 
 #
 # Header in Timspan-Summary-Screen
