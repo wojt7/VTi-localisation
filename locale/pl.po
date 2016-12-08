@@ -3190,7 +3190,7 @@ msgstr ""
 
 #
 msgid "GUI restart now, press 'OK' button."
-msgstr ""
+msgstr "Aby uruchomić GUI ponownie, naciśnij klawisz OK."
 
 #
 msgid "Gateway"
@@ -3421,15 +3421,15 @@ msgstr ""
 
 #
 msgid "Ignore Broadcast SSID"
-msgstr ""
+msgstr "Ignoruj rozgłaszanie SSID"
 
 #
 msgid "Image"
-msgstr ""
+msgstr "Obraz"
 
 #
 msgid "Image creation FAILED!"
-msgstr ""
+msgstr "Tworzenie obrazu nie powiodło się!"
 
 #
 msgid "In Progress"
@@ -3446,7 +3446,7 @@ msgstr "Dołącz opcjonalną informację"
 
 #
 msgid "Include settop information"
-msgstr ""
+msgstr "Dołącz informację STB"
 
 #
 msgid "Increased voltage"
@@ -4368,7 +4368,7 @@ msgstr "Nowe"
 
 #
 msgid "New PIN"
-msgstr ""
+msgstr "Nowy PIN"
 
 #
 msgid "Next"
@@ -4621,7 +4621,7 @@ msgstr ""
 
 #
 msgid "Not-Associated"
-msgstr ""
+msgstr "Nie powiązany"
 
 #
 msgid ""
@@ -4745,7 +4745,7 @@ msgstr "Pidy"
 
 #
 msgid "PIN :"
-msgstr ""
+msgstr "Pin"
 
 #
 msgid "PLEASE READ THIS:"
@@ -4888,6 +4888,8 @@ msgid ""
 "Place the USB-flash drive in the (front) USB-port and switch the receiver "
 "off and on with the powerswitch on the back of the receiver."
 msgstr ""
+"Umieść dysk USB flash w przednim gnieździe USB i wyłączyć odbiornik i"
+"ponownie włącz włącznikiem z tyłu odbiornika."
 
 #
 msgid "Play"
@@ -4934,6 +4936,8 @@ msgid ""
 "Please be patient, a backup will now be made, because of the used filesystem "
 "the back-up will take about 5-7 minutes for this system."
 msgstr ""
+"Bądź cierpliwy, kopia zapasowa zostanie wykonana z tym systemem plików."
+"Potrwa to około 5-7 minut dla tego systemu. "
 
 #
 msgid "Please change recording endtime"
@@ -4960,12 +4964,17 @@ msgid ""
 "Please check again.\n"
 "Start symbolrate must be between 2MHz and 45MHz."
 msgstr ""
+"Proszę sprawdź ponownie.\n"
+"Symbolrate musi wynosić od 2MHz i 45MHz."
 
 #
 msgid ""
 "Please check again.\n"
 "Stop frequency must be between 950 and 2150."
 msgstr ""
+"Proszę sprawdź ponownie.\n"
+"Częstotliwości musi wynosić między 950 a 2150."
+
 
 #
 msgid ""
@@ -5136,39 +5145,39 @@ msgstr ""
 
 #
 msgid "Please set up tuner B"
-msgstr "Ustaw Tuner B"
+msgstr "Ustaw tuner B"
 
 #
 msgid "Please set up tuner C"
-msgstr "Ustaw Tuner C"
+msgstr "Ustaw tuner C"
 
 #
 msgid "Please set up tuner D"
-msgstr "Ustaw Tuner D"
+msgstr "Ustaw tuner D"
 
 #
 msgid "Please set up tuner E"
-msgstr ""
+msgstr "Ustaw tuner E"
 
 #
 msgid "Please set up tuner F"
-msgstr ""
+msgstr "Ustaw tuner F"
 
 #
 msgid "Please set up tuner G"
-msgstr ""
+msgstr "Ustaw tuner G"
 
 #
 msgid "Please set up tuner H"
-msgstr ""
+msgstr "Ustaw tuner H"
 
 #
 msgid "Please set up tuner I"
-msgstr ""
+msgstr "Ustaw tuner I"
 
 #
 msgid "Please set up tuner J"
-msgstr ""
+msgstr "Ustaw tuner J"
 
 #
 msgid "Please setup your tuner configuration."
