@@ -12347,18 +12347,20 @@ msgid ""
 "A recording is currently running. Please stop the recording before trying to "
 "scan."
 msgstr ""
+"Nagrywanie jest obecnie uruchomione. Proszę zatrzymać nagrywanie przed próbą"
+"skanowania"
 
 #
 msgid "No suitable sat tuner found!"
-msgstr ""
+msgstr "Brak tunera sat!"
 
 #
 msgid "Automatic framerate detection"
-msgstr ""
+msgstr "Automatyczne wykrywanie ilości klatek"
 
 #
 msgid "Mode for framerate change"
-msgstr ""
+msgstr "Tryb dla zmiennej ilości klatek"
 
 #
 msgid ""
@@ -12366,22 +12368,25 @@ msgid ""
 "Current framerate: %s\n"
 "New framerate: %s\n"
 msgstr ""
+"Zmienić framerate dla obecnego kanału?\n"
+"Obecna ilość klatek: %s\n"
+"Nowa ilość klatek: %s\n"
 
 #
 msgid "automatically"
-msgstr ""
+msgstr "automatycznie"
 
 #
 msgid "manually"
-msgstr ""
+msgstr "ręcznie"
 
 #
 msgid "Hide Infobar when SecondInfobar is shown"
-msgstr ""
+msgstr "Ukryj pasek informacyjny, gdy wyświetlany jest drugi pasek informacyjny"
 
 #
 msgid "Can not find wireless lan devices that support AP mode."
-msgstr ""
+msgstr "Nie można odnaleźć urządzeń WLAN, które obsługują tryb AP."
 
 #
 msgid "Use alternative service list (horizontal) mode"
