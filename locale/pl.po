@@ -8527,7 +8527,7 @@ msgstr "Co chcesz skanować?"
 
 #
 msgid "Wheel RIGHT"
-msgstr ""
+msgstr "Prawe koło"
 
 #
 msgid ""
@@ -10302,7 +10302,7 @@ msgstr "Pionowa (V)"
 
 #
 msgid "vfat - for USB flash memory"
-msgstr ""
+msgstr "vfat - dla pamięci USB flash"
 
 #
 msgid "video tune"
@@ -10420,7 +10420,7 @@ msgstr ""
 "%s\n"
 "%s\n"
 "\n"
-"Czy chcesz przełączyć ?"
+"Czy chcesz przełączyć?"
 
 #
 msgid "You have to stop your playing Movie before"
@@ -11510,7 +11510,7 @@ msgid ""
 msgstr ""
 "Należy ponownie uruchomić VU+ aby zmienić konfigurację SAT>IP.\n"
 "\n"
-"Uruchom ponownie ?\n"
+"Uruchomić ponownie?\n"
 "\n"
 
 #
@@ -11594,6 +11594,8 @@ msgid ""
 "You can now choose your preferred skin.\n"
 "Do you want to change default skin?"
 msgstr ""
+"Teraz możesz wybrać preferowaną skórę.\n"
+"Do you want to change default skin?"
 
 #
 msgid "Chipset"
@@ -11773,19 +11775,19 @@ msgstr "5 sekund"
 
 #
 msgid "6 seconds"
-msgstr ""
+msgstr "6 sekund"
 
 #
 msgid "7 seconds"
-msgstr ""
+msgstr "7 sekund"
 
 #
 msgid "8 seconds"
-msgstr ""
+msgstr "8 sekund"
 
 #
 msgid "9 seconds"
-msgstr ""
+msgstr "9 sekund"
 
 #
 msgid "10 seconds"
@@ -11969,60 +11971,61 @@ msgstr "Nie zapisuj wydarzenia timeshift krótszego niż X minut"
 
 #
 msgid "Zap Up/Down"
-msgstr ""
+msgstr "Przełącz w górę/w dół"
 
 #
 msgid "History Prev/Next"
-msgstr ""
+msgstr "Historia poprzednia/kolejna"
 
 #
 msgid "Box or driver is not support FCC."
-msgstr ""
+msgstr "Tuner lub sterownik nie jest wspierany przez FCC"
 
 #
 msgid "FCC enabled"
-msgstr ""
+msgstr "FCC włączony"
 
 #
 msgid "Max Channels"
-msgstr ""
+msgstr "Maksymalna liczba kanałów"
 
 #
 msgid "priority"
-msgstr ""
+msgstr "priorytet"
 
 #
 msgid "Disable FastChannelChange"
-msgstr ""
+msgstr "Wyłącz szybką zmianę kanałów"
 
 #
 msgid "Enable FastChannelChange"
-msgstr ""
+msgstr "Włącz szybką zmianę kanałów"
 
 #
 msgid "Fast Channel Change Setup"
-msgstr ""
+msgstr "Ustawienia szybkiej zmiany kanałów"
 
 #
 msgid "Disable FCC during recordings"
-msgstr ""
+msgstr "Wyłącz FCC w trakcie nagrań"
 
 #
 msgid "FCCSetup"
-msgstr ""
+msgstr "Ustawienia FCC"
 
 #
 msgid "Display crash information on TV"
-msgstr ""
+msgstr "Wyświetlanie crashlogów na ekranie telewizora"
 
 #
 msgid "Select packages to install"
-msgstr ""
+msgstr "Wybierz pakiety do instalacji"
 
 #
 msgid ""
 "Do you want timeshift to be actviated automatically (permanent timeshift) ?"
 msgstr ""
+"Czy chcesz aby timeshift był aktywowany automatycznie (stałe nagrywanie)?
 
 #
 msgid ""
@@ -12034,15 +12037,15 @@ msgstr ""
 
 #
 msgid "Next step"
-msgstr ""
+msgstr "Następny krok"
 
 #
 msgid "Remove not needed packages (VTi ZerO)"
-msgstr ""
+msgstr "Usuń niepotrzebne pakiety (VTi Zero)"
 
 #
 msgid "Restore configuration (VTi BackupSuite)"
-msgstr ""
+msgstr "Przywracanie konfiguracji (VTi BackupSuite)"
 
 #
 msgid ""
@@ -12050,6 +12053,10 @@ msgid ""
 "\n"
 "Please configure timeshift options:"
 msgstr ""
+"Użyj lewego i prawego przycisku, aby zmienić opcję.\n"
+"\n"
+"Proszę skonfigurować opcje Timeshift:"
+
 
 #
 msgid "Channel -"
@@ -12061,31 +12068,31 @@ msgstr "Kanał +"
 
 #
 msgid "Show favourite list with bouquet button"
-msgstr ""
+msgstr "Pokaż listę ulubionych za pomocą przycisku bukiet"
 
 #
 msgid "Use channel +/- buttons for channel zap"
-msgstr ""
+msgstr "Pokaż listę ulubionych za pomocą przycisku bukiet"
 
 #
 msgid "Please configure function for short keypress of Power button"
-msgstr ""
+msgstr "Proszę skonfigurować funkcję przez krótkie naciśnięcie przycisku zasilania"
 
 #
 msgid "Please configure function for long keypress of Exit button"
-msgstr ""
+msgstr "Proszę skonfiguruj funkcję przez długie przyciśnięcie przycisku Exit"
 
 #
 msgid "Please configure function for short keypress of REC button"
-msgstr ""
+msgstr "Proszę skonfigurować funkcję przez krótkie naciśnięcie przycisku REC"
 
 #
 msgid "Please select your preferred EPG view"
-msgstr ""
+msgstr "Proszę wybrać preferowany widok EPG"
 
 #
 msgid "Do you want to change channels with Channel +/- buttons?"
-msgstr ""
+msgstr "Proszę wybrać preferowany widok EPG"
 
 #
 msgid "Software Setup"
