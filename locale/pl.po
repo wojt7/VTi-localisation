@@ -12310,7 +12310,7 @@ msgstr "Dołącz plik konfiguracyjny w crashlogu"
 
 #
 msgid "Fast Scan"
-msgstr ""
+msgstr "Szybkie skanowanie"
 
 #
 msgid "Scanning %s..."
@@ -12392,15 +12392,15 @@ msgstr "Nie można odnaleźć urządzeń WLAN, które obsługują tryb AP."
 
 #
 msgid "Use alternative service list (horizontal) mode"
-msgstr ""
+msgstr "Użyj alternatywnego trybu listy (poziomo)"
 
 #
 msgid "Do you want to install OScam as SoftCam for your smartcards?"
-msgstr ""
+msgstr "Czy chcesz zainstalować oscam jako softcam dla kart kodowych?"
 
 #
 msgid "The SoftCam was installed successfully"
-msgstr ""
+msgstr "Softcam został pomyślnie zainstalowany"
 
 #
 msgid "Autostart"
