@@ -16823,53 +16823,53 @@ msgid "Mute on call"
 msgstr "Wyciszenie rozmowy"
 
 msgid "Name of WLAN guest network"
-msgstr ""
+msgstr "Nazwa sieci gościnnej WLAN"
 
 msgid "New call"
-msgstr ""
+msgstr "Nowe połączenie"
 
 msgid "No DECT phone registered"
-msgstr ""
+msgstr "Brak zarejestrowanego telefonu DECT"
 
 msgid "No call redirection active"
-msgstr ""
+msgstr "Przekierowanie rozmów nieaktywne"
 
 msgid "No entry selected"
-msgstr ""
+msgstr "Brak wybranego wpisu"
 
 msgid "No mailbox active"
-msgstr ""
+msgstr "Skrzynka pocztowa nieaktywna"
 
 msgid "No phonebook"
-msgstr ""
+msgstr "Brak książki telefonicznej"
 
 msgid "No result from LDIF"
-msgstr ""
+msgstr "Brak rezultatów dla LDIF"
 
 msgid "No result from Outlook export"
-msgstr ""
+msgstr "Brak rezultatów exportu z Outlook"
 
 msgid "No result from reverse lookup"
-msgstr ""
+msgstr "Brak rezultatów wyszukania wstecznego"
 
 msgid "Number"
-msgstr ""
+msgstr "Numer"
 
 msgid "One DECT phone registered"
-msgstr ""
+msgstr "One DECT phone registered"
 
 msgid "One call redirection active"
-msgstr ""
+msgstr "Zarejestrowany jeden telefon DECT"
 
 msgid "One mailbox active"
-msgstr ""
+msgstr "Jedna skrzynka pocztowa aktywna"
 
 msgid "Others"
-msgstr ""
+msgstr "Inni"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Outgoing"
-msgstr ""
+msgstr "Wychodzące"
 
 #, python-format
 msgid ""
@@ -16880,54 +16880,60 @@ msgid ""
 "---------------------------------------------\n"
 "from: %(phone)s"
 msgstr ""
+"Rozmowa wychodząca %(data)y o %(czas)y do\n"
+"---------------------------------------------\n"
+"%(numer)y\n"
+"%(dzwoniący)\n"
+"---------------------------------------------\n"
+"z: %(telefonu)"
 
 msgid "Outgoing calls"
-msgstr ""
+msgstr "Połączenia wychodzące"
 
 msgid "Password Accessing FRITZ!Box"
-msgstr ""
+msgstr "Hasło dostępu do FRITZ!Box"
 
 msgid "Password of WLAN guest network"
-msgstr ""
+msgstr "Hasło sieci gościnnej WLAN"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 msgid "Phone calls"
-msgstr ""
+msgstr "Rozmowy telefoniczne"
 
 msgid "PhoneBook and Faces Location"
-msgstr ""
+msgstr "Spis telefonów i lokalizacja twarzy"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 msgid "Phonebook"
-msgstr ""
+msgstr "Książka telefoniczna"
 
 msgid "Plugin not enabled"
-msgstr ""
+msgstr "Wtyczka nie włączona"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Quit"
-msgstr ""
+msgstr "Porzucić"
 
 msgid "Read PhoneBook from FRITZ!Box"
-msgstr ""
+msgstr ""Czytaj książkę telefoniczną z FRITZ!Box
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Refresh status"
-msgstr ""
+msgstr "Odśwież stan"
 
 msgid "Refreshing..."
-msgstr ""
+msgstr "Odświeżam"
 
 msgid "Reload interval for phonebooks (hours)"
-msgstr ""
+msgstr "Odśwież przedział czasowy dla spisu telefonów (godziny)"
 
 msgid "Reverse Lookup Caller ID (select country below)"
-msgstr ""
+msgstr "Odwróć identyfikator dzwoniącego (Wybierz kraj poniżej)"
 
 msgid "Reverse searching..."
-msgstr ""
+msgstr "Szukanie wstecz..."
 
 #
 # File: ../src/EPGSearch.py, line: 415
@@ -16939,59 +16945,59 @@ msgstr "Szukaj"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Search (case insensitive)"
-msgstr ""
+msgstr "Szukaj (wielkość liter ma znaczenie)"
 
 msgid "Search phonebook"
-msgstr ""
+msgstr "Szukaj w książce telefonicznej"
 
 msgid "Searching in LDIF..."
-msgstr ""
+msgstr "Szukaj w LDIF..."
 
 msgid "Searching in Outlook export..."
-msgstr ""
+msgstr "Szukaj w exporcie z Outlook"
 
 msgid "Secure WLAN guest network"
-msgstr ""
+msgstr "Zabezpiecz dostęp gościnny WLAN"
 
 msgid "Setting..."
-msgstr ""
+msgstr "Ustawiam..."
 
 msgid "Shortcut"
-msgstr ""
+msgstr "Skrót"
 
 msgid "Show Outgoing Calls"
-msgstr ""
+msgstr "Pokaż połączenia wychodzące"
 
 msgid "Show after Standby"
-msgstr ""
+msgstr "Pokaż po standby"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Show details of entry"
-msgstr ""
+msgstr "Pokaż szczegóły wpisu"
 
 msgid "Show only calls for specific MSN"
-msgstr ""
+msgstr "Pokaż tylko połączenia dla konkretnego MSN"
 
 msgid "Software fax active"
-msgstr ""
+msgstr "Oprogramowanie fax aktywne"
 
 msgid "Software fax inactive"
-msgstr ""
+msgstr "Oprogramowanie fax nieaktywne"
 
 msgid "Status not available"
-msgstr ""
+msgstr "Status niedostępny"
 
 msgid "Strip Leading 0"
-msgstr ""
+msgstr "Listwa wiodąca 0"
 
 msgid "Switzerland"
-msgstr ""
+msgstr "Szwajcaria"
 
 msgid "The Netherlands"
-msgstr ""
+msgstr "Holandia"
 
 msgid "Timeout for Call Notifications (seconds)"
-msgstr ""
+msgstr "Czas oczekiwania na powiadomienie (sekundy)"
 
 msgid ""
 "To enjoy more functionalities of your FRITZ!Box, configure the firmware "
