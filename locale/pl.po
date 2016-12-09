@@ -17003,59 +17003,61 @@ msgid ""
 "To enjoy more functionalities of your FRITZ!Box, configure the firmware "
 "version!"
 msgstr ""
+"Aby cieszyć się z większej funkcjonalności FRITZ!Box, skonfiguruj"
+"oprogramowanie!"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 1. mailbox"
-msgstr ""
+msgstr "Przełącz 1. skrzynkę"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 2. mailbox"
-msgstr ""
+msgstr "Przełącz 2. skrzynkę"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 3. mailbox"
-msgstr ""
+msgstr "Przełącz 3. skrzynkę"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 4. mailbox"
-msgstr ""
+msgstr "Przełącz 4. skrzynkę"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 5. mailbox"
-msgstr ""
+msgstr "Przełącz 5. skrzynkę"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Toggle Mailbox"
-msgstr ""
+msgstr "Przełącz skrzynkę"
 
 #. TRANSLATORS: keep it short, this is a button
 #. TRANSLATORS: keep it short, this is a help text
 #. TRANSLATORS: keep it short, this is a button
 msgid "Toggle WLAN"
-msgstr ""
+msgstr "Przełącz WLAN"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle WLAN guest access"
-msgstr ""
+msgstr "Przełącz dostęp gościnny WLAN"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle all mailboxes"
-msgstr ""
+msgstr "Przełącz wszystkie skrzynki"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "Nieznany"
 
 msgid "Use internal PhoneBook"
-msgstr ""
+msgstr "Użyj wewnętrznej książki telefonicznej"
 
 msgid "User name Accessing FRITZ!Box"
-msgstr ""
+msgstr "Nazwa użytkownika FRITZ!Box"
 
 msgid "Vanity"
-msgstr ""
+msgstr "Próżność"
 
 msgid "You need to enable the monitoring on your FRITZ!Box by dialing #96*5*!"
-msgstr ""
+msgstr "Aby włączyć monitorowanie na FRITZ!Box, wybierz #96*5*!"
 
 msgid ""
 "You need to set the password of the FRITZ!Box\n"
@@ -17063,15 +17065,19 @@ msgid ""
 "\n"
 "It could be a communication issue, just try again."
 msgstr ""
+"Musisz ustawić hasło routera FRITZ! Box\n"
+"w oknie konfiguracyjnym, aby wyświetlić połączenia\n"
+"\n"
+"To może być problem komunikacyjny, po prostu spróbuj ponownie."
 
 msgid "before 05.27"
-msgstr ""
+msgstr "przed 05.27"
 
 msgid "call redirections active"
-msgstr ""
+msgstr "aktywne przekierowania połączeń"
 
 msgid "devices active"
-msgstr ""
+msgstr "urządzenia aktywne"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "display calls"
@@ -17079,19 +17085,19 @@ msgstr ""
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "display phonebook"
-msgstr ""
+msgstr "wyświetl książkę telefoniczną"
 
 msgid "done"
-msgstr ""
+msgstr "wykonane"
 
 msgid "done, using last list"
-msgstr ""
+msgstr "zrobione przy użyciu ostatniej listy"
 
 msgid "encrypted"
-msgstr ""
+msgstr "zaszyfrowany"
 
 msgid "finishing"
-msgstr ""
+msgstr "kończę"
 
 msgid "home"
 msgstr ""
@@ -17103,85 +17109,85 @@ msgid "login ok"
 msgstr ""
 
 msgid "login verification"
-msgstr ""
+msgstr "weryfikacja logowania"
 
 msgid "mailboxes active"
-msgstr ""
+msgstr "skrzynki pocztowe aktywne"
 
 msgid "mobile"
-msgstr ""
+msgstr "mobilny"
 
 msgid "no calls"
-msgstr ""
+msgstr "brak połączeń"
 
 msgid "no device active"
-msgstr ""
+msgstr "brak aktywnych urządzeń"
 
 msgid "not encrypted"
-msgstr ""
+msgstr "nie zaszyfrowany"
 
 msgid "not yet implemented"
-msgstr ""
+msgstr "jeszcze nie zaimplementowane"
 
 msgid "number suppressed"
-msgstr ""
+msgstr "numer tłumiony"
 
 msgid "one device active"
-msgstr ""
+msgstr "jedno urządzenie aktywne"
 
 msgid "preparing"
-msgstr ""
+msgstr "przygotowuję"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "quit"
-msgstr ""
+msgstr "zrezygnuj"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "save and quit"
-msgstr ""
+msgstr "zapisz i wyjdź"
 
 msgid "show as list"
-msgstr ""
+msgstr "pokaż jako listę"
 
 msgid "show each call"
-msgstr ""
+msgstr "pokaż każde połączenie"
 
 msgid "show nothing"
-msgstr ""
+msgstr "nie pokazuj nic"
 
 msgid "work"
-msgstr ""
+msgstr "pracuj"
 
 msgid "wrong user or password?"
-msgstr ""
+msgstr "niewłaściwy użytkownik lub hasło?"
 
 #: ../src/plugin.py:36
 msgid "immediately after recording"
-msgstr ""
+msgstr "natychmiast po zakończeniu nagrywania"
 
 #: ../src/plugin.py:36
 msgid "older than 1 day"
-msgstr ""
+msgstr "starsze niż 1 dzień"
 
 #: ../src/plugin.py:36
 msgid "older than 3 days"
-msgstr ""
+msgstr "starsze niż 3 dni"
 
 #: ../src/plugin.py:36
 msgid "older than 1 week"
-msgstr ""
+msgstr "starsze niż tydzień"
 
 #: ../src/plugin.py:36
 msgid "older than 2 weeks"
-msgstr ""
+msgstr "starsze niż 2 tygodnie"
 
 #: ../src/plugin.py:36
 msgid "older than 4 weeks"
-msgstr ""
+msgstr "starsze niż 4 tygodnie"
 
 #: ../src/plugin.py:36
 msgid "older than 6 weeks"
-msgstr ""
+msgstr "starsze niż 6 tygodni"
 
 #: ../src/plugin.py:49 ../src/plugin.py:125
 msgid "Automatic Timerlist Cleanup Setup"
