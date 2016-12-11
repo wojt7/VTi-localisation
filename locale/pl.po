@@ -20191,12 +20191,12 @@ msgstr "Wpisz tekst do wyszukania"
 #: ../src/InternetRadioScreen.py:894
 #, python-format
 msgid "InternetRadio station list for search-criteria: %s"
-msgstr ""
+msgstr "Lista stacji radia internetowego w kryteriach wyszukiwania: %s"
 
 #: ../src/InternetRadioScreen.py:896
 #, python-format
 msgid "Searching InternetRadio for %s..."
-msgstr ""
+msgstr "Wyszukiwanie radia internetowego dla %s..."
 
 #: ../src/InternetRadioScreen.py:913
 #, python-format
@@ -20205,11 +20205,11 @@ msgstr ""
 
 #: ../src/InternetRadioScreen.py:964
 msgid "Title: n/a"
-msgstr ""
+msgstr "Tytuł niedostępny"
 
 #: ../src/InternetRadioScreen.py:999
 msgid "nothing playing..."
-msgstr ""
+msgstr "nic nie gra...."
 
 #: ../src/InternetRadioOledDisplay.py:123
 msgid "Internet Radio"
@@ -20217,19 +20217,19 @@ msgstr ""
 
 #: ../src/plugin.py:383 ../src/plugin.py:384
 msgid "No OFDb match."
-msgstr ""
+msgstr "Brak wyników OFDb."
 
 #: ../src/plugin.py:400 ../src/plugin.py:469
 msgid "OFDb Details parsed"
-msgstr ""
+msgstr "Analiza informacji OFDb"
 
 #: ../src/plugin.py:358
 msgid "OFDb Download completed"
-msgstr ""
+msgstr "OFDb Pobieranie zakończone"
 
 #: ../src/plugin.py:331
 msgid "OFDb Download failed"
-msgstr ""
+msgstr "OFDb Pobieranie nie udane"
 
 #: ../src/plugin.py:498
 msgid "OFDb Plugin"
@@ -20237,25 +20237,25 @@ msgstr ""
 
 #: ../src/plugin.py:389
 msgid "OFDb Re-Download completed"
-msgstr ""
+msgstr "OFDb Ponowne pobranie zakończone"
 
 #: ../src/plugin.py:386
 msgid "OFDb query failed!"
-msgstr ""
+msgstr "OFDb Zapytanie nie powiodło się!"
 
 #: ../src/plugin.py:317
 #, python-format
 msgid "Query OFDb: %s..."
-msgstr ""
+msgstr "Zapytanie OFDb: %s..."
 
 #: ../src/plugin.py:510 ../src/plugin.py:515 ../src/plugin.py:522
 msgid "Query details from the Online-Filmdatenbank"
-msgstr ""
+msgstr "Pobierz informacje z Online-Filmdatenbank"
 
 #: ../src/plugin.py:255
 #, python-format
 msgid "Re-Query OFDb: %s..."
-msgstr ""
+msgstr "Ponów zapytanie OFDb: %s..."
 
 #: ../src/plugin.py:131
 msgid "The Online-Filmdatenbank"
@@ -20267,29 +20267,29 @@ msgstr ""
 
 #: ../src/plugin.py:10
 msgid "creating and manipulating partition tables"
-msgstr ""
+msgstr "tworzenie i manipulowanie partycji"
 
 #: ../src/eparted.py:102
 #, python-format
 msgid "Error command '%s'"
-msgstr ""
+msgstr "Błąd polecenia '%s"
 
 #: ../src/eparted.py:172
 msgid "partition(s)"
-msgstr ""
+msgstr "partycja(e)"
 
 #: ../src/eparted.py:190
 msgid "add partition"
-msgstr ""
+msgstr "dodaj partycję"
 
 #: ../src/eparted.py:214
 #, python-format
 msgid "size in %s (max %d %s):"
-msgstr ""
+msgstr ""rozmair w %s (max %d %s):
 
 #: ../src/eparted.py:215
 msgid "filesystem:"
-msgstr ""
+msgstr "system plików"
 
 #: ../src/eparted.py:310
 msgid "Nr"
@@ -20298,33 +20298,33 @@ msgstr ""
 #: ../src/eparted.py:428
 #, python-format
 msgid "create partition %s"
-msgstr ""
+msgstr "utwórz partycję %s"
 
 #: ../src/eparted.py:444
 #, python-format
 msgid "make filesystem '%s' on partition %s (%d %s)"
-msgstr ""
+msgstr "utwórz system plików '%s' na partycji %s (%d %s)"
 
 #: ../src/eparted.py:453
 #, python-format
 msgid "delete partition %s"
-msgstr ""
+msgstr "usuń partycję %s"
 
 #: ../src/eparted.py:486 ../src/eparted.py:518
 msgid "execute"
-msgstr ""
+msgstr "wykonaj"
 
 #: ../src/eparted.py:594
 msgid "Please Wait"
-msgstr ""
+msgstr "Proszę czekać"
 
 #: src/AC3main.py:57
 msgid "Service delay"
-msgstr ""
+msgstr "Opóźnienie usługi"
 
 #: src/AC3main.py:58
 msgid "Global delay"
-msgstr ""
+msgstr "Całkowite opóźnienie"
 
 #: src/AC3main.py:62 src/AC3main.py:146 src/AC3main.py:236 src/AC3main.py:240
 #: src/AC3main.py:241
@@ -20334,27 +20334,27 @@ msgstr ""
 
 #: src/AC3main.py:65
 msgid "Channel audio:"
-msgstr ""
+msgstr "Kanał audio:"
 
 #: src/AC3main.py:72
 msgid "Switch audio"
-msgstr ""
+msgstr "Przełącz audio"
 
 #: src/AC3main.py:73
 msgid "Save to key"
-msgstr ""
+msgstr "Zapisz, aby wprowadzić"
 
 #: src/AC3main.py:78
 msgid "Open plugin menu"
-msgstr ""
+msgstr "Otwórz menu wtyczek"
 
 #: src/AC3main.py:79 src/AC3main.py:86
 msgid "Save values and close plugin"
-msgstr ""
+msgstr "Zapisz wartości i zamknij wtyczkę"
 
 #: src/AC3main.py:80 src/AC3main.py:85
 msgid "Discard changes and close plugin"
-msgstr ""
+msgstr "Odrzuć zmiany i zamknij wtyczkę"
 
 #: src/AC3main.py:81 src/AC3main.py:82
 msgid "Change active delay"
@@ -20604,11 +20604,11 @@ msgstr ""
 
 #: ../src/plugin.py:139
 msgid "View RSS..."
-msgstr ""
+msgstr "Przeglądaj RSS..."
 
 #: ../src/RSSScreens.py:409
 msgid "What to do?"
-msgstr ""
+msgstr "Co robić?"
 
 #
 # File: ../src/EPGSearch.py, line: 257
@@ -20788,14 +20788,14 @@ msgstr ""
 # File: EPGSearch.py, line: 535
 #: __init__.py:32 EPGSearch.py:535
 msgid "Title and short description"
-msgstr ""
+msgstr "Tytuł i krótki opis"
 
 #
 # File: __init__.py, line: 31
 # File: EPGSearch.py, line: 534
 #: __init__.py:31 EPGSearch.py:534
 msgid "Short description"
-msgstr ""
+msgstr "Krótki opis"
 
 #
 # File: EPGSearch.py, line: 541
@@ -21005,7 +21005,7 @@ msgstr ""
 
 #
 msgid "channel"
-msgstr ""
+msgstr "kanał"
 
 #
 msgid "Timeout for info pop up"
@@ -21948,7 +21948,7 @@ msgid "Select bouquet to record on"
 msgstr ""
 
 msgid "Abort this Wizard."
-msgstr ""
+msgstr "Przerwij tego kreatora."
 
 msgid "Create a new AutoTimer."
 msgstr ""
@@ -21969,7 +21969,7 @@ msgid ""
 msgstr ""
 
 msgid "No, remove them."
-msgstr ""
+msgstr "Nie, usuń je."
 
 msgid ""
 "Thank you for using the wizard. Your new AutoTimer has been added to the "
