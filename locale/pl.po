@@ -16429,7 +16429,7 @@ msgid "ok"
 msgstr "ok"
 
 msgid "parsing message ..."
-msgstr "analizuję wiadomość"
+msgstr "analizuję wiadomość..."
 
 msgid "password"
 msgstr "hasło"
@@ -17191,23 +17191,23 @@ msgstr "starsze niż 6 tygodni"
 
 #: ../src/plugin.py:49 ../src/plugin.py:125
 msgid "Automatic Timerlist Cleanup Setup"
-msgstr ""
+msgstr "Automatyczna konfiguracja czyszczenia listy timerów"
 
 #: ../src/plugin.py:122 ../src/plugin.py:125
 msgid "Timerlist Cleanup Setup"
-msgstr ""
+msgstr "Konfiguracja czyszczenia listy timerów"
 
 #: ../src/plugin.py:56
 msgid "Cleanup timerlist-entries"
-msgstr ""
+msgstr "Uporządkuj listę timerów - wpisy"
 
 #
 msgid "UHD Interlace Mode"
-msgstr ""
+msgstr "Tryb z przeplotem (UHD)"
 
 #
 msgid "UHD Progressive Mode"
-msgstr ""
+msgstr "Tryb progresywny (UHD)"
 
 #
 #: src/plugin.py:516
@@ -17505,11 +17505,11 @@ msgstr "Naciśnij aby pokazać lub ukryć rozszerzony opis"
 
 #: src/WebComponents/Sources/Strings.py:94
 msgid "Show EPG for"
-msgstr ""
+msgstr "Pokaż EPG dla"
 
 #: src/WebComponents/Sources/Strings.py:95
 msgid "Stream Channel"
-msgstr ""
+msgstr "Strumieniuj kanał"
 
 #
 #: src/WebComponents/Sources/Strings.py:97
@@ -17533,11 +17533,11 @@ msgstr "Panel wskaźnika sygnału"
 
 #: src/WebComponents/Sources/Strings.py:101
 msgid "Zap to"
-msgstr ""
+msgstr "Przełącz na"
 
 #: src/WebComponents/Sources/Strings.py:102
 msgid "Open Multi-EPG for"
-msgstr ""
+msgstr "Otwórz Multi-EPG dla"
 
 #
 #: src/WebComponents/Sources/Strings.py:103
@@ -17546,7 +17546,7 @@ msgstr "Wczytaj bukiet"
 
 #: src/WebComponents/Sources/Strings.py:104
 msgid "Playlist for"
-msgstr ""
+msgstr "Lista odtwarzania dla"
 
 #
 #: src/WebComponents/Sources/Strings.py:105
@@ -18383,109 +18383,112 @@ msgid ""
 "Minimum length: 5\n"
 "Maximum length: 8"
 msgstr ""
+"Nieprawidłowy nowe hasło!\n"
+"Minimalna długość: 5\n"
+"Maksymalna długość: 8"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:137
 msgid "Could not log in!"
-msgstr ""
+msgstr "Nie udało się zalogować!"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:150
 msgid "Error while setting new password!"
-msgstr ""
+msgstr "Błąd podczas ustawiania nowego hasła!"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Password Changer"
-msgstr ""
+msgstr "Zmień hasło"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Change your ftp and telnet password"
-msgstr ""
+msgstr "Zmień swoje hasło FTP i telnet"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:220
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:317
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:422
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:598
 msgid "Zap Statistic"
-msgstr ""
+msgstr "Statystyka przełączeń"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:227
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:325
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:451
 msgid "Sort (name+)"
-msgstr ""
+msgstr "Sortuj (nazwa+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:228
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:326
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:454
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:524
 msgid "Sort (name-)"
-msgstr ""
+msgstr "Sortuj (nazwa-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:229
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:327
 msgid "Sort (duration+)"
-msgstr ""
+msgstr "Sortuj (czas+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:230
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:328
 msgid "Sort (duration-)"
-msgstr ""
+msgstr "Sortuj (czas-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:434
 msgid "Durations"
-msgstr ""
+msgstr "Czas trwania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:452
 msgid "Sort (date+)"
-msgstr ""
+msgstr "Sortuj (data+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:456
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:539
 msgid "Sort (date-)"
-msgstr ""
+msgstr "Sortuj (data-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:561
 msgid "Play entry"
-msgstr ""
+msgstr "Odtwórz wpis"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:563
 msgid "Delete all entries"
-msgstr ""
+msgstr "Usuń wszystkie wpisy"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:564
 msgid "Sort by name (ascending)"
-msgstr ""
+msgstr "Sortuj według nazwy (rosnąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:565
 msgid "Sort by name (descending)"
-msgstr ""
+msgstr "Sortuj według nazwy (malejąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:566
 msgid "Sort by date (ascending)"
-msgstr ""
+msgstr "Sortuj według daty (rosnąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:567
 msgid "Sort by date (descending)"
-msgstr ""
+msgstr "Sortuj według daty (malejąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:568
 msgid "Show duration window"
-msgstr ""
+msgstr "Pokaż okno trwania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:569
 msgid "Show combined duration window"
-msgstr ""
+msgstr "Pokaż połączone okno trwania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:570
 msgid "Close plugin"
-msgstr ""
+msgstr "Zamknij wtyczkę"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:571
 msgid "Please choose a function..."
-msgstr ""
+msgstr "Proszę wybrać funkcję ..."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:598
 msgid "Shows the watched services with some statistic"
-msgstr ""
+msgstr "Pokaż oglądane kanały ze statystykami"
 
 #
 #: ../src/plugin.py:23
