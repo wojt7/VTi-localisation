@@ -18614,7 +18614,7 @@ msgstr "Nie można otworzyć uciętego wyjściowego pliku.ts"
 #
 #: ../src/plugin.py:251
 msgid "Couldn't open output .cuts file"
-msgstr "Nie można otworzyć  uciętego wyjściowego pliku"
+msgstr "Nie można otworzyć uciętego pliku wyjściowego"
 
 #
 #: ../src/plugin.py:252
@@ -18661,54 +18661,56 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:50
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:401
 msgid "Name of DVD"
-msgstr ""
+msgstr "Nazwa DVD"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:143
 msgid "Could not find any file to backup!"
-msgstr ""
+msgstr "Nie można znaleźć żadnego pliku do tworzenia kopii zapasowych!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:146
 msgid "Could not read the DVD informations!"
-msgstr ""
+msgstr "Nie można odczytać informacji DVD!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:152
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:181
 msgid "Error while backup of DVD!"
-msgstr ""
+msgstr "Błąd podczas tworzenia kopii zapasowyej płyty DVD!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:186
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"
 msgstr ""
-
+"Obraz wykonany.\n"
+"Usunąć foldr DVD?"
+ 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Backup of DVD finished."
-msgstr ""
+msgstr "Kopia zapasowa DVD zakończona."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Duration:"
-msgstr ""
+msgstr "Trwanie:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Eject DVD?"
-msgstr ""
+msgstr "Wysunąć DVD?"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:322
 msgid "Progress"
-msgstr ""
+msgstr "Postęp"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:331
 msgid "Device:"
-msgstr ""
+msgstr "Urządzenie:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:332
 msgid "Directory:"
-msgstr ""
+msgstr "Folder:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:333
 msgid "Name:"
-msgstr ""
+msgstr "Nazwa:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:334
 msgid "Log:"
@@ -18716,24 +18718,24 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:335
 msgid "Create iso:"
-msgstr ""
+msgstr "Utwórz iso:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:421
 msgid "Installing..."
-msgstr ""
+msgstr "Instalacja..."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:427
 msgid "Could not install needed dvdbackup package!"
-msgstr ""
+msgstr "Nie można zainstalować potrzebnego pakietu dvdbackup!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:443
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "DVD Backup"
-msgstr ""
+msgstr "Kopia zapasowa DVD Backup"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "Backup your Video-DVD to your harddisk"
-msgstr ""
+msgstr "Wykonaj kopię zapasową DVD na dysk twardy"
 
 #
 # File: src/plugin.py, line: 15
@@ -19364,7 +19366,6 @@ msgid ""
 msgstr ""Automatyczne odświeżanie rozpocznie się wcześniej niż o tej porze dnia, ale po czasie"
 "określonym w poprzednim ustawieniu."
 
-
 msgid "Automatically refresh EPG"
 msgstr "Automatyczne odświeżanie EPG"
 
@@ -19413,7 +19414,6 @@ msgid ""
 msgstr""
 "Włącz to, aby móc uzyskać dostęp do konfiguracji EPGRefresh od wewnątrz"
 "Menu rozszerzone."
-
 
 msgid "Extend the list of services to refresh by those your AutoTimers use?"
 msgstr "Rozszerzyć listę usług, aby odświeżyć tą którą używają autotimery?"
@@ -19545,7 +19545,7 @@ msgid "add to EPGRefresh"
 msgstr "dodaj do EPGRefresh"
 
 msgid "Save epg to file after EPG refresh"
-msgstr "ZaPpisz epg do pliku po odświeżeniu EPG"
+msgstr "Zapisz epg do pliku po odświeżeniu EPG"
 
 msgid ""
 "This setting controls whether the cached EPG should be saved to file or not."
@@ -19719,15 +19719,15 @@ msgstr "Zapisz i zamknij ekran wartości"
 
 #: ..\src/MovableScreen.py:18 ..\src/MovableScreen.py:23
 msgid "Discard changes and close screen"
-msgstr ""
+msgstr "Odrzuć zmiany i zamknij okno"
 
 #: ..\src/MovableScreen.py:19
 msgid "Move screen to the left"
-msgstr ""
+msgstr "Przesuń ekran w lewo"
 
 #: ..\src/MovableScreen.py:20
 msgid "Move screen to the right"
-msgstr ""
+msgstr "Przesuń ekran w prawo"
 
 #: ..\src/MovableScreen.py:21
 msgid "Move screen up"
@@ -19735,55 +19735,55 @@ msgstr ""
 
 #: ..\src/MovableScreen.py:22
 msgid "Move screen down"
-msgstr ""
+msgstr "Przenieś ekran w górę"
 
 #: ..\src/MovableScreen.py:25
 msgid "Move screen to the upper left corner"
-msgstr ""
+msgstr "Przenieś ekran w lewy górny róg"
 
 #: ..\src/MovableScreen.py:26
 msgid "Center screen at the upper border"
-msgstr ""
+msgstr "Wyrównaj ekran do górnej granicy"
 
 #: ..\src/MovableScreen.py:27
 msgid "Move screen to the upper right corner"
-msgstr ""
+msgstr "Wyrównaj ekran do górnej granicy"
 
 #: ..\src/MovableScreen.py:28
 msgid "Move screen to the middle of the left border"
-msgstr ""
+msgstr "Przesuń ekran do środka lewej krawędzi"
 
 #: ..\src/MovableScreen.py:29
 msgid "Move screen to the center of your TV"
-msgstr ""
+msgstr "Umieść centralnie obraz w TV"
 
 #: ..\src/MovableScreen.py:30
 msgid "Move screen to the middle of the right border"
-msgstr ""
+msgstr "Przesuń ekran do środka prawej krawędzi"
 
 #: ..\src/MovableScreen.py:31
 msgid "Move screen to the lower left corner"
-msgstr ""
+msgstr "Przesuń ekran w dolny lewy róg"
 
 #: ..\src/MovableScreen.py:32
 msgid "Center screen at the lower border"
-msgstr ""
+msgstr "Wyrównaj ekran do dolnej granicy"
 
 #: ..\src/MovableScreen.py:33
 msgid "Move screen to the lower right corner"
-msgstr ""
+msgstr "Przesuń ekran w dolny prawy róg"
 
 #: ..\src/MovableScreen.py:34
 msgid "Reset saved position"
-msgstr ""
+msgstr "Resetuj zapamiętą pozycję"
 
 #: ..\src/plugin.py:16
 msgid "Clock"
-msgstr ""
+msgstr "Zegar"
 
 #: ..\src/plugin.py:16
 msgid "Smiley"
-msgstr ""
+msgstr "Uśmiech"
 
 #: ..\src/plugin.py:54 ..\src/plugin.py:55
 msgid "KiddyTimer"
@@ -19791,277 +19791,281 @@ msgstr ""
 
 #: ..\src/plugin.py:55
 msgid "Allows to controls your kids' daily TV usage"
-msgstr ""
+msgstr "Pozwala na kontrolowanie codziennego użytkowania telewizora przez dzieci"
 
 #: ../src/CurlyTx.py:82
 msgid "Scroll page contents up"
-msgstr ""
+msgstr "Przewiń zawartość strony w górę"
 
 #: ../src/CurlyTx.py:85
 msgid "Scroll page contents down"
-msgstr ""
+msgstr "Przewiń zawartość strony w dół"
 
 #: ../src/CurlyTx.py:88
 msgid "Show HTTP response headers"
-msgstr ""
+msgstr "Pokaż nagłówki odpowiedzi HTTP"
 
 #: ../src/CurlyTx.py:91
 msgid "Show program settings"
-msgstr ""
+msgstr "Pokaż ustawienia programu"
 
 #: ../src/CurlyTx.py:94
 msgid "Reload current page URL"
-msgstr ""
+msgstr "Odśwież bieżącą stronę URL"
 
 #: ../src/CurlyTx.py:97
 msgid "Switch to next configured page URL"
-msgstr ""
+msgstr "Przełącz do następnego skonfigurowanego adresu URL strony"
 
 #: ../src/CurlyTx.py:100
 msgid "Switch to previous configured page URL"
-msgstr ""
+msgstr "Przełącz do poprzedniego skonfigurowanego adresu URL strony"
 
 #: ../src/CurlyTx.py:103 ../src/CurlyTx.py:106
 msgid "Close window"
-msgstr ""
+msgstr "Zamknij okno"
 
 #: ../src/CurlyTx.py:109
 msgid "Show this help screen"
-msgstr ""
+msgstr "Pokaż ekran pomocy"
 
 #: ../src/CurlyTx.py:168
 msgid "Invalid page"
-msgstr ""
+msgstr "Nieprawidłowa strona"
 
 #: ../src/CurlyTx.py:183
 msgid "Loading ..."
-msgstr ""
+msgstr "Ładowanie..."
 
 #: ../src/CurlyTx.py:196
 msgid "Error fetching URL:"
-msgstr ""
+msgstr "Błąd podczas pobierania adresu URL:"
 
 #: ../src/CurlyTx.py:201
 msgid "Go and add a page in the settings"
-msgstr ""
+msgstr "Wejdź i dodaj stronę w ustawieniach"
 
 #: ../src/CurlyTx.py:209
 msgid "HTTP response headers for"
-msgstr ""
+msgstr "Nagłówki odpowiedzi HTTP"
 
 #: ../src/CurlyTxSettings.py:64
 msgid "Page:"
-msgstr ""
+msgstr "Strona:"
 
 #: ../src/CurlyTxSettings.py:68
 msgid "Default page"
-msgstr ""
+msgstr "Strona domyślna"
 
 #: ../src/CurlyTxSettings.py:69
 msgid "Show in main menu"
-msgstr ""
+msgstr "Pokaż w menu głównym"
 
 #: ../src/CurlyTxSettings.py:70
 msgid "Show in extensions menu"
-msgstr ""
+msgstr "Pokaż w menu rozszerzeń"
 
 #: ../src/CurlyTxSettings.py:71
 msgid "Menu title"
-msgstr ""
+msgstr "Menu główne"
 
 #: ../src/CurlyTxSettings.py:72
 msgid "Page feed URL"
-msgstr ""
+msgstr "Strona URL feed"
 
 #: ../src/CurlyTxSettings.py:78
 msgid "Dismiss all setting changes"
-msgstr ""
+msgstr "Odrzuć wszystkie zmiany ustawień"
 
 #: ../src/CurlyTxSettings.py:81
 msgid "Save settings and close screen"
-msgstr ""
+msgstr "Zapisz ustawienia i zamknij okno"
 
 #: ../src/CurlyTxSettings.py:84
 msgid "Edit selected page"
-msgstr ""
+msgstr "Edytuj wybraną stronę"
 
 #: ../src/CurlyTxSettings.py:87
 msgid "Load pages from feed"
-msgstr ""
+msgstr "Ładuj strony z feed"
 
 #: ../src/CurlyTxSettings.py:90
 msgid "Add new page"
-msgstr ""
+msgstr "Dodaj nową stronę"
 
 #: ../src/CurlyTxSettings.py:93
 msgid "Delete selected page"
-msgstr ""
+msgstr "Usuń wybraną stronę"
 
 #: ../src/CurlyTxSettings.py:110
 msgid ""
 "Really delete this page?\n"
 "It cannot be recovered!"
 msgstr ""
+"Czy na pewno usunąć tę stronę?\n"
+"To nie może być odzyskane!"
 
 #: ../src/CurlyTxSettings.py:143
 msgid "No page feed URL defined"
-msgstr ""
+msgstr "Nie określono adresu URL strony feed"
 
 #: ../src/CurlyTxSettings.py:173
 msgid "Error loading page feed:"
-msgstr ""
+msgstr "Błąd wczytywania strony feed:"
 
 #: ../src/CurlyTxSettings.py:221
 msgid "Page URL"
-msgstr ""
+msgstr "Strona URL"
 
 #: ../src/CurlyTxSettings.py:223
 msgid "Font size"
-msgstr ""
+msgstr "Rozmiar czcionki"
 
 #: ../src/plugin.py:36 ../src/plugin.py:43
 msgid "View remote text files"
-msgstr ""
+msgstr "Zobacz zdalne pliki tekstowe"
 
 #: ../src/plugin.py:28
 msgid "Automatically zaps back to current service after given Time"
-msgstr ""
+msgstr "Automatycznie przełącz z powrotem na obecny kanał po podanym czasie"
 
 #: ../src/WerbeZapper.py:55
 msgid "Custom"
-msgstr ""
+msgstr "Własny"
 
 #: ../src/WerbeZapper.py:81
 msgid "How many minutes to wait until zapping back?"
-msgstr ""
+msgstr "Ile minut czekać do przełączania z powrotem?"
 
 #: ../src/WerbeZapper.py:38
 msgid ""
 "Timer already running.\n"
 "Stop it?"
 msgstr ""
+"Nagranie trwa.\n"
+"Zatrzymać je?"
 
 #: ../src/WerbeZapper.py:47
 msgid "When to Zap back?"
-msgstr ""
+msgstr "Kiedy przełączyć z powrotem?"
 
 #: ../src/WerbeZapper.py:104
 #, python-format
 msgid "Zapping back in %d Minutes"
-msgstr ""
+msgstr "Przełączanie z powrotem za %d minut"
 
 #: ../src/InternetRadioSetup.py:50
 msgid "Show in extension menu:"
-msgstr ""
+msgstr "Pokaż w menu rozszerzeń:"
 
 #: ../src/InternetRadioSetup.py:51
 msgid "Visualization"
-msgstr ""
+msgstr "Wygląd"
 
 #: ../src/InternetRadioSetup.py:52
 msgid "Fullscreen Layout"
-msgstr ""
+msgstr "Wygląd pełnego ekranu"
 
 #: ../src/InternetRadioSetup.py:53
 msgid "Fullscreen auto activation"
-msgstr ""
+msgstr "Auto aktywacja pełnego ekranu"
 
 #: ../src/InternetRadioSetup.py:54
 msgid "Show cover arts"
-msgstr ""
+msgstr "Pokaż okładki"
 
 #: ../src/InternetRadioSetup.py:55
 msgid "Rip to single file, name is timestamped"
-msgstr ""
+msgstr "Zgrywaj do pojedynczego pliku, nazwą jest czas utworzenia"
 
 #: ../src/InternetRadioSetup.py:56
 msgid "Create a directory for each stream"
-msgstr ""
+msgstr "Utwórz katalog dla każdego strumienia"
 
 #: ../src/InternetRadioSetup.py:57
 msgid "Add sequence number to output file"
-msgstr ""
+msgstr "Dodaj kolejny numer pliku wyjściowego"
 
 #: ../src/InternetRadioSetup.py:59
 msgid "Recording location:"
-msgstr ""
+msgstr "Lokalizacja zapisu:"
 
 #: ../src/plugin.py:34 ../src/InternetRadioList.py:50
 #: ../src/InternetRadioScreen.py:312 ../src/InternetRadioScreen.py:570
 #: ../src/InternetRadioScreen.py:605 ../src/InternetRadioScreen.py:678
 #: ../src/InternetRadioScreen.py:783 ../src/InternetRadioScreen.py:855
 msgid "Countries"
-msgstr ""
+msgstr "Kraje"
 
 #: ../src/plugin.py:38
 msgid "Screen and OLED"
-msgstr ""
+msgstr "Ekran i OLED"
 
 #: ../src/plugin.py:38
 msgid "OLED only"
-msgstr ""
+msgstr "Tylko OLED"
 
 #: ../src/plugin.py:38
 msgid "Screen only"
-msgstr ""
+msgstr "Tylko ekran"
 
 #: ../src/plugin.py:42
 msgid "1 minutes"
-msgstr ""
+msgstr "1 minuta"
 
 #: ../src/plugin.py:42
 msgid "3 minutes"
-msgstr ""
+msgstr "3 minuty"
 
 #: ../src/plugin.py:43
 msgid "Visualization and Text"
-msgstr ""
+msgstr "Wygląd i tekst"
 
 #: ../src/plugin.py:43
 msgid "Text only"
-msgstr ""
+msgstr "Tylko tekst"
 
 #: ../src/plugin.py:43
 msgid "Blank"
-msgstr ""
+msgstr "Pusty"
 
 #: ../src/plugin.py:70 ../src/plugin.py:72
 msgid "listen to internet-radio"
-msgstr ""
+msgstr "słuchaj radia internetowego"
 
 #: ../src/InternetRadioList.py:48 ../src/InternetRadioScreen.py:312
 #: ../src/InternetRadioScreen.py:676
 msgid "Genres"
-msgstr ""
+msgstr "Gatunki"
 
 #: ../src/InternetRadioList.py:51
 msgid "Filter:"
-msgstr ""
+msgstr "Filtr"
 
 #: ../src/InternetRadioInformationScreen.py:70
 msgid "Streaming Information"
-msgstr ""
+msgstr "Indormacja dotycząca strumienia"
 
 #: ../src/InternetRadioScreen.py:253
 msgid "Stations"
-msgstr ""
+msgstr "Stacje"
 
 #: ../src/InternetRadioScreen.py:254
 msgid "Favorites"
-msgstr ""
+msgstr "Ulubione"
 
 #: ../src/InternetRadioScreen.py:339 ../src/InternetRadioScreen.py:533
 msgid "Stop record"
-msgstr ""
+msgstr "Zatrzymaj nagranie"
 
 #: ../src/InternetRadioScreen.py:341
 msgid "Recording stream station"
-msgstr ""
+msgstr "Stacja streamująca"
 
 #: ../src/InternetRadioScreen.py:405 ../src/InternetRadioScreen.py:696
 #, python-format
 msgid "Getting streaming data from %s"
-msgstr ""
+msgstr "Otrzymywanie danych strumienia z %s"
 
 #: ../src/InternetRadioScreen.py:474
 #, python-format
@@ -20069,41 +20073,43 @@ msgid ""
 "Getting streaming data from\n"
 "%s"
 msgstr ""
+"Otrzymywanie danych strumienia z\n"
+"%s"
 
 #: ../src/InternetRadioScreen.py:541
 msgid "Do you really want to stop the recording?"
-msgstr ""
+msgstr "Czy na pewno chcesz zatrzymać nagrywanie?"
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Recording length"
-msgstr ""
+msgstr "Długość nagrania"
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Enter in minutes (0 means unlimited)"
-msgstr ""
+msgstr "Wprowadź w minutach (0 oznacza nieskończone)"
 
 #: ../src/InternetRadioScreen.py:546
 msgid "Only running streamings can be recorded!"
-msgstr ""
+msgstr "Tylko uruchomione strumienie mogą być nagrywane!"
 
 #: ../src/InternetRadioScreen.py:552 ../src/InternetRadioScreen.py:601
 #, python-format
 msgid "InternetRadio filter list (%s)"
-msgstr ""
+msgstr "Filtr listy radia internetowego (%s)"
 
 #: ../src/InternetRadioScreen.py:571 ../src/InternetRadioScreen.py:641
 #: ../src/InternetRadioScreen.py:782
 msgid "All Countries"
-msgstr ""
+msgstr "Wszystkie kraje"
 
 #: ../src/InternetRadioScreen.py:573 ../src/InternetRadioScreen.py:629
 #: ../src/InternetRadioScreen.py:782
 msgid "All Genres"
-msgstr ""
+msgstr "Wszystkie gatunki"
 
 #: ../src/InternetRadioScreen.py:581
 msgid "Favorite list"
-msgstr ""
+msgstr "Lista ulubionych"
 
 #: ../src/InternetRadioScreen.py:589
 #, python-format
