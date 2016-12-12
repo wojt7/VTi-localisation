@@ -11614,11 +11614,11 @@ msgstr "Auswahl"
 
 #
 msgid "Animate Infobar show/hide"
-msgstr "InfoBar ein-/ausblenden animieren"
+msgstr "Infoleiste ein-/ausblenden animieren"
 
 #
 msgid "Infobar show/hide animation speed"
-msgstr "Geschwindigkeit der Infobaranimation"
+msgstr "Geschwindigkeit der Infoleistenanimation"
 
 #
 msgid "fade in"
@@ -12459,7 +12459,7 @@ msgstr "manuell"
 
 #
 msgid "Hide Infobar when SecondInfobar is shown"
-msgstr "Infobar bei SecondInfobar ausblenden"
+msgstr "Infoleiste bei SecondInfobar ausblenden"
 
 #
 msgid "Can not find wireless lan devices that support AP mode."
