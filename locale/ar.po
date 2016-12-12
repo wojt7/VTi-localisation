@@ -22843,3 +22843,11 @@ msgstr ""
 #
 msgid "Bluetooth Discovery"
 msgstr ""
+
+#
+msgid "Same behavior as current animation"
+msgstr ""
+
+#
+msgid "Enable Focus Animation"
+msgstr ""

@@ -23286,6 +23286,30 @@ msgid "set Vu+ %s LNB Power and etc.."
 msgstr ""
 
 #
+msgid "Scanning bluetooth devices"
+msgstr ""
+
+#
+msgid "Scanning BLE bluetooth devices"
+msgstr ""
+
+#
+msgid "Start scan"
+msgstr ""
+
+#
+msgid "Press green key to connect device."
+msgstr ""
+
+#
+msgid "No nearby bluetooth devices were found."
+msgstr ""
+
+#
+msgid "%s is connected."
+msgstr ""
+
+#
 msgid "Pairing fail"
 msgstr ""
 
@@ -23388,4 +23412,12 @@ msgstr "je odpojené"
 
 #
 msgid "Bluetooth Discovery"
+msgstr ""
+
+#
+msgid "Same behavior as current animation"
+msgstr ""
+
+#
+msgid "Enable Focus Animation"
 msgstr ""

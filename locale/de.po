@@ -18663,23 +18663,26 @@ msgstr "Die Timerliste wurde bereinigt"
 # File: ../src/WebComponents/Sources/Timer.py, line: 79
 # File: ../src/WebComponents/Sources/Timer.py, line: 225
 # File: ../src/WebComponents/Sources/Timer.py, line: 398
-#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
-#: src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79
+#: src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398
+#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Fehlender Parameter: sRef"
 
 #
 # File: ../src/WebComponents/Sources/Timer.py, line: 84
 # File: ../src/WebComponents/Sources/Timer.py, line: 231
-#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84
+#: src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Fehlender Parameter: begin"
 
 #
 # File: ../src/WebComponents/Sources/Timer.py, line: 89
 # File: ../src/WebComponents/Sources/Timer.py, line: 235
-#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89
+#: src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Fehlender Parameter: end"
 
@@ -18866,7 +18869,8 @@ msgstr "Film '%s' gelöscht"
 #
 # File: ../src/WebComponents/Sources/Movie.py, line: 61
 # File: ../src/WebComponents/Sources/Movie.py, line: 154
-#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61
+#: src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Unerlaubter Parameterwert: sRef - '%s'"
@@ -26519,3 +26523,11 @@ msgstr "wurde getrennt"
 #
 msgid "Bluetooth Discovery"
 msgstr "Bluetooth Suche"
+
+#
+msgid "Same behavior as current animation"
+msgstr "wie globale Animationseinstellung"
+
+#
+msgid "Enable Focus Animation"
+msgstr "Cursorbewegungen animieren"

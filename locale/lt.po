@@ -14284,17 +14284,20 @@ msgstr "Nežinoma funkcija: '%s'"
 msgid "List of Timers has been cleaned"
 msgstr "Laikmačių sąrašas išvalytas"
 
-#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
-#: src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79
+#: src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398
+#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Trūksta parametro: sRef"
 
-#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84
+#: src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Trūksta parametro: pradžia"
 
-#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89
+#: src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Trūksta parametro: pabaiga"
 
@@ -14421,7 +14424,8 @@ msgstr "Pašalinti '%s' įrašo nepavyko."
 msgid "Movie '%s' deleted"
 msgstr "Įrašas '%s' pašalintas"
 
-#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61
+#: src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Neteisinga parametro 'sRef' reikšmė: '%s'"
@@ -19835,6 +19839,30 @@ msgstr "Vu+ %s įv.kontrolė"
 msgid "set Vu+ %s LNB Power and etc.."
 msgstr "nustatyti Vu+ %s LNB įtampą ir kt."
 
+#
+msgid "Scanning bluetooth devices"
+msgstr ""
+
+#
+msgid "Scanning BLE bluetooth devices"
+msgstr ""
+
+#
+msgid "Start scan"
+msgstr ""
+
+#
+msgid "Press green key to connect device."
+msgstr ""
+
+#
+msgid "No nearby bluetooth devices were found."
+msgstr ""
+
+#
+msgid "%s is connected."
+msgstr ""
+
 msgid "Pairing fail"
 msgstr "Siejimas nepavyko"
 
@@ -19921,3 +19949,11 @@ msgstr "atjungta."
 #
 msgid "Bluetooth Discovery"
 msgstr "Bluetooth aptikimas"
+
+#
+msgid "Same behavior as current animation"
+msgstr ""
+
+#
+msgid "Enable Focus Animation"
+msgstr ""
