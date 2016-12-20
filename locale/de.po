@@ -26531,3 +26531,15 @@ msgstr "wie globale Animationseinstellung"
 #
 msgid "Enable Focus Animation"
 msgstr "Cursorbewegungen animieren"
+
+#
+msgid "Minimum amount of items before grouping"
+msgstr "Minimale Anzahl an Aufnahmen für die Gruppierung"
+
+#
+msgid "Seperator for grouping items"
+msgstr "Trenner für die Titelgruppierung"
+
+#
+msgid "Group items in folders by title"
+msgstr "Gruppiere Aufnahmen nach Titel in virtuelle Ordner"

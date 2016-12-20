@@ -22814,3 +22814,15 @@ msgstr ""
 #
 msgid "Enable Focus Animation"
 msgstr ""
+
+#
+msgid "Minimum amount of items before grouping"
+msgstr ""
+
+#
+msgid "Seperator for grouping items"
+msgstr ""
+
+#
+msgid "Group items in folders by title"
+msgstr ""
