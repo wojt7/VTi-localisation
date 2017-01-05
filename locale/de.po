@@ -26543,3 +26543,140 @@ msgstr "Trenner für die Titelgruppierung"
 #
 msgid "Group items in folders by title"
 msgstr "Gruppiere Aufnahmen nach Titel in virtuelle Ordner"
+
+#
+msgid "Sort grouped folders like default items"
+msgstr "Virtuelle Ordner wie normale Einträge sortieren"
+
+msgid "VTI HDMI-CEC Configuration"
+msgstr "VTi HDMI-CEC Konfiguration"
+
+msgid "VTI HDMI-CEC Plugin"
+msgstr "VTi HDMI-CEC Plugin"
+
+msgid "Scan"
+msgstr "Suche"
+
+msgid "Scan All"
+msgstr "Alles suchen"
+
+msgid "message"
+msgstr "Nachricht"
+
+msgid "Remote Control System Code Setting"
+msgstr "Code der Fernbedienung einstellen"
+
+msgid "PiconManager (mod)"
+msgstr "PiconManager"
+
+msgid "PiconManager"
+msgstr "PiconManager"
+
+msgid "Fancontrol Settings in Standby mode"
+msgstr "Lüftereinstellungen im Standby"
+
+msgid "wide"
+msgstr "weit"
+
+msgid "extrawide"
+msgstr "extra-weit"
+
+msgid "VideoEnhancementSetup"
+msgstr "VideoEnhancement Einstellungen"
+
+msgid "Scaler vertical dejagging"
+msgstr "Vertikales dejagging des Scalers"
+
+msgid "Smooth"
+msgstr "Smooth"
+
+msgid "VideoEnhancementPreview"
+msgstr "Vorschau"
+
+msgid "Autoresolution"
+msgstr "Autoresolution"
+
+msgid "Autoresolution Switch"
+msgstr "Autoresolution Switch"
+
+msgid "SD 25/50HZ Interlace Mode"
+msgstr "SD 25/50HZ Interlace Modus"
+
+msgid "SD 30/60HZ Interlace Mode"
+msgstr "SD 30/60HZ Interlace Modus"
+
+msgid "SD 25/50HZ Progressive Mode"
+msgstr "SD 25/50HZ Progressive Modus"
+
+msgid "SD 30/60HZ Progressive Mode"
+msgstr "SD 30/60HZ Progressive Modus"
+
+msgid "HD Interlace Mode"
+msgstr "HD Interlace Modus"
+
+msgid "HD Progressive Mode"
+msgstr "HD Progressive Modus"
+
+msgid "Enable 720p24 Mode"
+msgstr "720p24 aktivieren"
+
+msgid "Enable 1080p24 Mode"
+msgstr "1080p24 aktivieren"
+
+msgid "Enable 1080p25 Mode"
+msgstr "1080p25 aktivieren"
+
+msgid "Enable 1080p30 Mode"
+msgstr "1080p30 aktivieren"
+
+msgid "Enable 2160p24 Mode"
+msgstr "2160p24 aktivieren"
+
+msgid "Enable 2160p25 Mode"
+msgstr "2160p25 aktivieren"
+
+msgid "Enable 2160p30 Mode"
+msgstr "2160p30 aktivieren"
+
+msgid "bob"
+msgstr "bob"
+
+msgid ""
+"Autoresolution Plugin Testmode:\n"
+"Is %s OK?"
+msgstr ""
+"Autoresolution Plugin Testmodus:\n"
+"Ist %s OK?"
+
+msgid "Autoresolution videomode setup"
+msgstr "Autoresoltution Videomodus-Einstellungen"
+
+msgid "Autoresolution settings"
+msgstr "Autoresoltution Einstellungen"
+
+msgid "Enable Autoresolution"
+msgstr "Autoresolution aktivieren"
+
+msgid "Show info screen"
+msgstr "Infoanzeige aktivieren"
+
+msgid "Delay x seconds after service started"
+msgstr "Verzögerung in Sekunden nach Start der Wiedergabe"
+
+msgid "Running in testmode"
+msgstr "Testmodus aktivieren"
+
+msgid "Deinterlacer mode for interlaced content"
+msgstr "Deinterlacer-Modus für interlaced Medien"
+
+msgid "Deinterlacer mode for progressive content"
+msgstr "Deinterlacer-Modus für progessive Medien"
+
+msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+msgstr "Autoresolution funktioniert nicht im Scart/DVI-PC Modus"
+
+msgid "multi"
+msgstr "multi"
+
+msgid "System services"
+msgstr "Sstemdienste"

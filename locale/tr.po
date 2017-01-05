@@ -25142,3 +25142,138 @@ msgstr ""
 #
 msgid "Group items in folders by title"
 msgstr ""
+
+#
+msgid "Sort grouped folders like default items"
+msgstr ""
+
+msgid "VTI HDMI-CEC Configuration"
+msgstr ""
+
+msgid "VTI HDMI-CEC Plugin"
+msgstr ""
+
+msgid "Scan"
+msgstr ""
+
+msgid "Scan All"
+msgstr ""
+
+msgid "message"
+msgstr ""
+
+msgid "Remote Control System Code Setting"
+msgstr ""
+
+msgid "PiconManager (mod)"
+msgstr ""
+
+msgid "PiconManager"
+msgstr ""
+
+msgid "Fancontrol Settings in Standby mode"
+msgstr ""
+
+msgid "wide"
+msgstr ""
+
+msgid "extrawide"
+msgstr ""
+
+msgid "VideoEnhancementSetup"
+msgstr ""
+
+msgid "Scaler vertical dejagging"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
+msgid "VideoEnhancementPreview"
+msgstr ""
+
+msgid "Autoresolution"
+msgstr ""
+
+msgid "Autoresolution Switch"
+msgstr ""
+
+msgid "SD 25/50HZ Interlace Mode"
+msgstr ""
+
+msgid "SD 30/60HZ Interlace Mode"
+msgstr ""
+
+msgid "SD 25/50HZ Progressive Mode"
+msgstr ""
+
+msgid "SD 30/60HZ Progressive Mode"
+msgstr ""
+
+msgid "HD Interlace Mode"
+msgstr ""
+
+msgid "HD Progressive Mode"
+msgstr ""
+
+msgid "Enable 720p24 Mode"
+msgstr ""
+
+msgid "Enable 1080p24 Mode"
+msgstr ""
+
+msgid "Enable 1080p25 Mode"
+msgstr ""
+
+msgid "Enable 1080p30 Mode"
+msgstr ""
+
+msgid "Enable 2160p24 Mode"
+msgstr ""
+
+msgid "Enable 2160p25 Mode"
+msgstr ""
+
+msgid "Enable 2160p30 Mode"
+msgstr ""
+
+msgid "bob"
+msgstr ""
+
+msgid ""
+"Autoresolution Plugin Testmode:\n"
+"Is %s OK?"
+msgstr ""
+
+msgid "Autoresolution videomode setup"
+msgstr ""
+
+msgid "Autoresolution settings"
+msgstr ""
+
+msgid "Enable Autoresolution"
+msgstr ""
+
+msgid "Show info screen"
+msgstr ""
+
+msgid "Delay x seconds after service started"
+msgstr ""
+
+msgid "Running in testmode"
+msgstr ""
+
+msgid "Deinterlacer mode for interlaced content"
+msgstr ""
+
+msgid "Deinterlacer mode for progressive content"
+msgstr ""
+
+msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+msgstr ""
+
+msgid "multi"
+msgstr ""
+
+msgid "System services"
+msgstr ""
