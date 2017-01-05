@@ -26679,4 +26679,4 @@ msgid "multi"
 msgstr "multi"
 
 msgid "System services"
-msgstr "Sstemdienste"
+msgstr "Systemdienste"
