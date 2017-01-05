@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: vti-po-catalog - enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-12-04 14:44+0200\n"
+"PO-Revision-Date: 2016-12-22 09:00+0200\n"
 "Last-Translator: plnick\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
 "Language: lt_LT\n"
@@ -3727,7 +3727,7 @@ msgid "PWM value"
 msgstr "PWM reikšmė"
 
 msgid "Package list update"
-msgstr "Paketo sąrašo atnaujinimas"
+msgstr "Paketų sąrašo atnaujinimas"
 
 msgid "Packet management"
 msgstr "Paketų valdymas"
@@ -6233,7 +6233,7 @@ msgid "Up Key"
 msgstr "Mygtukas 'AUKŠTYN'"
 
 msgid "Update"
-msgstr "Atnaujinimas"
+msgstr "Atnaujinti"
 
 msgid "Updatefeed not available."
 msgstr "Atnaujinimo šaltinis nepasiekiamas."
@@ -14284,20 +14284,17 @@ msgstr "Nežinoma funkcija: '%s'"
 msgid "List of Timers has been cleaned"
 msgstr "Laikmačių sąrašas išvalytas"
 
-#: src/WebComponents/Sources/Timer.py:79
-#: src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398
-#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
+#: src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Trūksta parametro: sRef"
 
-#: src/WebComponents/Sources/Timer.py:84
-#: src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Trūksta parametro: pradžia"
 
-#: src/WebComponents/Sources/Timer.py:89
-#: src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Trūksta parametro: pabaiga"
 
@@ -14424,8 +14421,7 @@ msgstr "Pašalinti '%s' įrašo nepavyko."
 msgid "Movie '%s' deleted"
 msgstr "Įrašas '%s' pašalintas"
 
-#: src/WebComponents/Sources/Movie.py:61
-#: src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Neteisinga parametro 'sRef' reikšmė: '%s'"
@@ -17348,14 +17344,12 @@ msgstr "Šis nustatymas nurodo elgseną, kai laikmatis atitinka surastą įvykį
 msgid "Guess existing timer based on begin/end"
 msgstr "Atspėti esamą laikmatį, remiantis pradžia/pabaiga"
 
-#
-#, fuzzy, python-format
 msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80% of the it."
 msgstr ""
-"Pažymėjus čia, esamas laikmatis taip pat bus skaitomas įrašančiu įvykį, jei "
-"jis įrašo bent 80% įvykio."
+"Pažymėjus čia, an existing timer will also be considered recording an event "
+"if it records at least 80% įvykio."
 
 msgid "Add similar timer on conflict"
 msgstr "Konflikto atveju, pridėti panašų laikmatį"
@@ -19090,7 +19084,7 @@ msgstr "Parsiųsti failų sąrašo nepavyko."
 #: ../src/FTPBrowser.py:306 ../src/FTPBrowser.py:321
 #, python-format
 msgid "Could not rename %s."
-msgstr "Pervadinti %s nepavyko"
+msgstr "Pervadinti %s nepavyko."
 
 #: ../src/FTPBrowser.py:646
 msgid "Download finished."
@@ -19556,10 +19550,10 @@ msgstr "Prietaisas įjungtas."
 
 #
 msgid "Sink"
-msgstr ""
+msgstr "Kriauklė"
 
 msgid "Select sink which you want to use."
-msgstr ""
+msgstr "Pasirinkite kriauklę, kurią naudosite."
 
 msgid "Embedded subtitles"
 msgstr "Įterpti subtitrai"
@@ -19839,30 +19833,6 @@ msgstr "Vu+ %s įv.kontrolė"
 msgid "set Vu+ %s LNB Power and etc.."
 msgstr "nustatyti Vu+ %s LNB įtampą ir kt."
 
-#
-msgid "Scanning bluetooth devices"
-msgstr ""
-
-#
-msgid "Scanning BLE bluetooth devices"
-msgstr ""
-
-#
-msgid "Start scan"
-msgstr ""
-
-#
-msgid "Press green key to connect device."
-msgstr ""
-
-#
-msgid "No nearby bluetooth devices were found."
-msgstr ""
-
-#
-msgid "%s is connected."
-msgstr ""
-
 msgid "Pairing fail"
 msgstr "Siejimas nepavyko"
 
@@ -19950,13 +19920,11 @@ msgstr "atjungta."
 msgid "Bluetooth Discovery"
 msgstr "Bluetooth aptikimas"
 
-#
 msgid "Same behavior as current animation"
-msgstr ""
+msgstr "* dabar pasirinkta animacija"
 
-#
 msgid "Enable Focus Animation"
-msgstr ""
+msgstr "Leisti animacijas"
 
 #
 msgid "Minimum amount of items before grouping"
