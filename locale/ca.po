@@ -18,6 +18,409 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 
 #
+msgid "No"
+msgstr "No"
+
+msgid "Yes (safe mode)"
+msgstr ""
+
+#
+msgid "Yes"
+msgstr "Si"
+
+msgid "%d.%B %Y"
+msgstr ""
+
+msgid "Enable VPS"
+msgstr ""
+
+msgid "VPS-Time (date)"
+msgstr ""
+
+msgid "VPS-Time (time)"
+msgstr ""
+
+msgid "always ask"
+msgstr ""
+
+msgid "VPS Settings"
+msgstr ""
+
+#
+msgid ""
+"In order to record a timer, the TV was switched to the recording service!\n"
+msgstr ""
+"Per a poder fer una gravació programada, s'ha canviat al canal adequat!\n"
+
+msgid "VPS-Plugin checks if the channel supports VPS ..."
+msgstr ""
+
+msgid ""
+"The selected channel doesn't support VPS for manually programmed timers!\n"
+" Do you really want to enable VPS?"
+msgstr ""
+
+msgid ""
+"The VPS-Plugin couldn't check if the selected channel supports VPS for "
+"manually programmed timers!\n"
+" Do you really want to enable VPS?"
+msgstr ""
+
+msgid "Yes, don't ask again"
+msgstr ""
+
+msgid ""
+"VPS-Plugin couldn't check if the selected channel supports VPS.\n"
+" Do you really want to enable VPS?"
+msgstr ""
+
+msgid ""
+"The channel may support VPS\n"
+" Do you want to enable VPS?"
+msgstr ""
+
+msgid ""
+"VPS-Plugin couldn't check if the channel supports VPS.\n"
+" Do you want to enable VPS anyway?"
+msgstr ""
+
+#, python-format
+msgid "VPS Setup Version %s"
+msgstr ""
+
+msgid "Enable VPS-Plugin"
+msgstr ""
+
+msgid "Starting time"
+msgstr ""
+
+msgid "Wakeup from Deep-Standby is allowed"
+msgstr ""
+
+msgid "Seeking connected events"
+msgstr ""
+
+msgid "VPS enabled by default"
+msgstr ""
+
+msgid "Enable VPS on instant records"
+msgstr ""
+
+#
+#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
+#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
+msgid "Cancel"
+msgstr "Cancel·lar"
+
+#
+msgid "OK"
+msgstr "Bé"
+
+#
+msgid "Information"
+msgstr "Informació"
+
+msgid ""
+"This plugin can determine whether a programme begins earlier or lasts "
+"longer. The channel has to provide reliable data."
+msgstr ""
+
+msgid ""
+"If possible, x minutes before a timer starts VPS-Plugin will control whether "
+"the programme begins earlier. (0 disables feature)"
+msgstr ""
+
+msgid "Enable VPS by default (new timers)"
+msgstr ""
+
+msgid ""
+"If enabled and necessary, the plugin will wake up the Dreambox from Deep-"
+"Standby for the defined starting time to control whether the programme "
+"begins earlier."
+msgstr ""
+
+msgid ""
+"If a programme is interrupted and divided into separate events, the plugin "
+"will search for the connected events."
+msgstr ""
+
+msgid ""
+"When yes, VPS will be enabled on instant records (stop after current event), "
+"if the channel supports VPS."
+msgstr ""
+
+#
+msgid "Really close without saving settings?"
+msgstr "Sortir sense guardar els canvis?"
+
+msgid "VPS-Plugin Information"
+msgstr ""
+
+msgid ""
+"VPS-Plugin can react on delays arising in the startTime or endTime of a "
+"programme. VPS is only supported by certain channels!\n"
+"\n"
+"If you enable VPS, the recording will only start, when the channel flags the "
+"programme as running.\n"
+"\n"
+"If you select \"yes (safe mode)\", the recording is definitely starting at "
+"the latest at the startTime you defined. The recording may start earlier or "
+"last longer.\n"
+"\n"
+"\n"
+"Supported channels\n"
+"\n"
+"Germany:\n"
+" ARD and ZDF\n"
+"\n"
+"Austria:\n"
+" ORF\n"
+"\n"
+"Switzerland:\n"
+" SF\n"
+"\n"
+"Czech Republic:\n"
+" CT\n"
+"\n"
+"If a timer is programmed manually (not via EPG), it is necessary to set a "
+"VPS-Time to enable VPS. VPS-Time (also known as PDC) is the first published "
+"start time, e.g. given in magazines. If you set a VPS-Time, you have to "
+"leave timer name empty."
+msgstr ""
+
+msgid "Elektro Power Save"
+msgstr ""
+
+msgid "Automatically shut down to deep standby"
+msgstr ""
+
+msgid "Extensions menu"
+msgstr ""
+
+msgid "Plugin menu"
+msgstr ""
+
+msgid "yes, Profile 1"
+msgstr ""
+
+msgid "yes, Profile 2"
+msgstr ""
+
+#
+msgid "Monday"
+msgstr "Dilluns"
+
+#
+msgid "Tuesday"
+msgstr "Dimarts"
+
+#
+msgid "Wednesday"
+msgstr "Dimecres"
+
+#
+msgid "Thursday"
+msgstr "Dijous"
+
+#
+msgid "Friday"
+msgstr "Divendres"
+
+#
+msgid "Saturday"
+msgstr "Dissabte"
+
+#
+msgid "Sunday"
+msgstr "Diumenge"
+
+msgid "no Name"
+msgstr ""
+
+msgid "Connection Error"
+msgstr ""
+
+msgid "Ver."
+msgstr ""
+
+msgid "Wakeup"
+msgstr ""
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Next day starts at"
+msgstr ""
+
+msgid ""
+"If the box is supposed to enter deep standby e.g. monday night at 1 AM, it "
+"actually is already tuesday. To enable this anyway, differing next day start "
+"time can be specified here."
+msgstr ""
+
+#
+msgid "Ok"
+msgstr ""
+
+#
+msgid "IP Address"
+msgstr "Adreça IP"
+
+msgid "please wait..."
+msgstr ""
+
+msgid "NAS/Server Name or IP"
+msgstr ""
+
+#
+msgid "Username"
+msgstr ""
+
+#
+msgid "Password"
+msgstr ""
+
+msgid "Command [poweroff, shutdown -h,...]"
+msgstr ""
+
+msgid "Telnet Port"
+msgstr ""
+
+msgid "Waiting until poweroff"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Active Time Profile"
+msgstr ""
+
+msgid "The active Time Profile is (1 or 2)."
+msgstr ""
+
+msgid "Enable Elektro Power Save"
+msgstr ""
+
+msgid "Unless this is enabled, this plugin won't run automatically."
+msgstr ""
+
+msgid "Use both profiles alternately"
+msgstr ""
+
+msgid ""
+"Both profiles are used alternately. When shutting down the other profile is "
+"enabled. This allows two time cycles per day. Do not overlap the times."
+msgstr ""
+
+msgid "Standby on boot"
+msgstr ""
+
+msgid "Puts the box in standby mode after boot."
+msgstr ""
+
+msgid "Standby on manual boot"
+msgstr ""
+
+msgid ""
+"Whether to put the box in standby when booted manually. On manual boot the "
+"box will not go to standby before the next deep standby interval starts, "
+"even if this option is set. This option is only active if 'Standby on boot' "
+"option is set, too."
+msgstr ""
+
+msgid "Standby on boot screen timeout"
+msgstr ""
+
+msgid ""
+"Specify how long to show the standby query on boot screen. This value can be "
+"set to ensure the box does not shut down to deep standby again too fast when "
+"in standby mode."
+msgstr ""
+
+msgid "Force sleep (even when not in standby)"
+msgstr ""
+
+msgid ""
+"Forces deep standby, even when not in standby mode. Scheduled recordings "
+"remain unaffected."
+msgstr ""
+
+msgid "Avoid deep standby when HDD is active, e.g. for FTP"
+msgstr ""
+
+msgid ""
+"Wait for the HDD to enter sleep mode. Depending on the configuration this "
+"can prevent the box entirely from entering deep standby mode."
+msgstr ""
+
+msgid "Check IPs (press OK to edit)"
+msgstr ""
+
+msgid ""
+"This list of IP addresses is checked. Elektro waits until addresses no "
+"longer responds to ping."
+msgstr ""
+
+msgid "NAS Poweroff (press OK to edit)"
+msgstr ""
+
+msgid "A NAS/Server can be shut down. Is required activated Telnet."
+msgstr ""
+
+msgid "Don't wake up"
+msgstr ""
+
+msgid "Do not wake up at the end of next deep standby interval."
+msgstr ""
+
+msgid "Holiday mode (experimental)"
+msgstr ""
+
+msgid "The box always enters deep standby mode, except for recording."
+msgstr ""
+
+msgid "Show in"
+msgstr ""
+
+msgid ""
+"Specify whether plugin shall show up in plugin menu or extensions menu "
+"(needs GUI restart)"
+msgstr ""
+
+#
+msgid "Name"
+msgstr "Nom"
+
+msgid "Specify plugin name to be used in menu (needs GUI restart)."
+msgstr ""
+
+#
+msgid "Description"
+msgstr "Descripció"
+
+msgid "Specify plugin description to be used in menu (needs GUI restart)."
+msgstr ""
+
+#
+msgid "Help"
+msgstr ""
+
+msgid "Times"
+msgstr ""
+
+msgid "Showing Elektro readme.txt"
+msgstr ""
+
+msgid "readme.txt"
+msgstr ""
+
+msgid "Go to Standby now?"
+msgstr ""
+
+msgid "Go to sleep now?"
+msgstr ""
+
+#
 msgid ""
 "\n"
 "Advanced options and settings."
@@ -1399,12 +1802,6 @@ msgid ""
 msgstr ""
 
 #
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
-msgid "Cancel"
-msgstr "Cancel·lar"
-
-#
 msgid "Capacity: "
 msgstr "Capacitat: "
 
@@ -1993,10 +2390,6 @@ msgstr ""
 #
 msgid "Depth"
 msgstr ""
-
-#
-msgid "Description"
-msgstr "Descripció"
 
 #
 msgid "Deselect"
@@ -2964,10 +3357,6 @@ msgid "Fri"
 msgstr "Div"
 
 #
-msgid "Friday"
-msgstr "Divendres"
-
-#
 msgid "Frisian"
 msgstr ""
 
@@ -3155,10 +3544,6 @@ msgid "HbbTV Plugin"
 msgstr ""
 
 #
-msgid "Help"
-msgstr ""
-
-#
 msgid "Hidden network"
 msgstr ""
 
@@ -3193,10 +3578,6 @@ msgstr "Hongarès"
 #
 msgid "IP"
 msgstr ""
-
-#
-msgid "IP Address"
-msgstr "Adreça IP"
 
 #
 msgid "ISO file is too large for this filesystem!"
@@ -3268,12 +3649,6 @@ msgid "In Progress"
 msgstr ""
 
 #
-msgid ""
-"In order to record a timer, the TV was switched to the recording service!\n"
-msgstr ""
-"Per a poder fer una gravació programada, s'ha canviat al canal adequat!\n"
-
-#
 msgid "Include optional infomation"
 msgstr ""
 
@@ -3300,10 +3675,6 @@ msgstr "Barra d'informació"
 #
 msgid "Infobar timeout"
 msgstr "Temps d'aparició de la barra d'informació"
-
-#
-msgid "Information"
-msgstr "Informació"
 
 #
 msgid "Init"
@@ -3920,10 +4291,6 @@ msgid "Mon-Fri"
 msgstr "Dill-Div"
 
 #
-msgid "Monday"
-msgstr "Dilluns"
-
-#
 msgid "Mosquito noise reduction"
 msgstr ""
 
@@ -4082,10 +4449,6 @@ msgid "NTSC"
 msgstr "NTSC"
 
 #
-msgid "Name"
-msgstr "Nom"
-
-#
 msgid "Name :"
 msgstr ""
 
@@ -4188,10 +4551,6 @@ msgstr ""
 #
 msgid "Next"
 msgstr "Següent"
-
-#
-msgid "No"
-msgstr "No"
 
 #
 msgid "No (supported) DVDROM found!"
@@ -4439,10 +4798,6 @@ msgid ""
 msgstr ""
 
 #
-msgid "OK"
-msgstr "Bé"
-
-#
 msgid "OK, guide me through the upgrade process"
 msgstr "D'acord, guia'm a través del procés d'actualizació"
 
@@ -4457,10 +4812,6 @@ msgstr "Config OSD"
 #
 msgid "Off"
 msgstr "Desactivat"
-
-#
-msgid "Ok"
-msgstr ""
 
 #
 msgid "On"
@@ -4616,10 +4967,6 @@ msgstr ""
 #
 #, python-format
 msgid "Partitions : %s"
-msgstr ""
-
-#
-msgid "Password"
 msgstr ""
 
 #
@@ -5311,10 +5658,6 @@ msgid "Random"
 msgstr ""
 
 #
-msgid "Really close without saving settings?"
-msgstr "Sortir sense guardar els canvis?"
-
-#
 msgid "Really delete done timers?"
 msgstr "Vols esborrar les programacions ja finalitzades?"
 
@@ -5750,10 +6093,6 @@ msgstr ""
 #
 msgid "Saturation"
 msgstr ""
-
-#
-msgid "Saturday"
-msgstr "Dissabte"
 
 #
 msgid "Save"
@@ -6773,10 +7112,6 @@ msgid "Sun"
 msgstr "Diu"
 
 #
-msgid "Sunday"
-msgstr "Diumenge"
-
-#
 msgid "Swap Services"
 msgstr "Intercanviar canals"
 
@@ -7247,10 +7582,6 @@ msgid "Thumbnails"
 msgstr ""
 
 #
-msgid "Thursday"
-msgstr "Dijous"
-
-#
 msgid "Time"
 msgstr "Hora"
 
@@ -7458,10 +7789,6 @@ msgstr ""
 #
 msgid "Tue"
 msgstr "Dim"
-
-#
-msgid "Tuesday"
-msgstr "Dimarts"
 
 #
 msgid "Tune"
@@ -7868,10 +8195,6 @@ msgid "User name"
 msgstr ""
 
 #
-msgid "Username"
-msgstr ""
-
-#
 msgid "Using a Wireless module as access point."
 msgstr ""
 
@@ -8123,10 +8446,6 @@ msgid "Wed"
 msgstr "Dime"
 
 #
-msgid "Wednesday"
-msgstr "Dimecres"
-
-#
 msgid "Weekday"
 msgstr "DiaSetmana"
 
@@ -8246,10 +8565,6 @@ msgstr "Any"
 #
 msgid "Yellow font for DVB subtitles"
 msgstr ""
-
-#
-msgid "Yes"
-msgstr "Si"
 
 #
 msgid "Yes to all"
@@ -19714,9 +20029,6 @@ msgid "case-sensitive search"
 msgstr ""
 
 msgid "case-insensitive search"
-msgstr ""
-
-msgid "%d.%B %Y"
 msgstr ""
 
 msgid "Never"

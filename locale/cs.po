@@ -14,6 +14,461 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #
+msgid "No"
+msgstr "ne"
+
+msgid "Yes (safe mode)"
+msgstr "Ano (bezpečný mód)"
+
+#
+msgid "Yes"
+msgstr "ano"
+
+#
+# File: ../src_py/Modifications.py, line: 144
+# File: ../src_py/Modifications.py, line: 147
+msgid "%d.%B %Y"
+msgstr "%d %B %Y"
+
+msgid "Enable VPS"
+msgstr "Povolit VPS"
+
+msgid "VPS-Time (date)"
+msgstr "VPS-Time (datum)"
+
+msgid "VPS-Time (time)"
+msgstr "VPS-Time (čas)"
+
+msgid "always ask"
+msgstr "vždy se ptát"
+
+msgid "VPS Settings"
+msgstr "Nastavení VPS"
+
+#
+msgid ""
+"In order to record a timer, the TV was switched to the recording service!\n"
+msgstr "Aby se časovač mohl zapsat, bude TV přepnuta na kanál záznamu.\n"
+
+msgid "VPS-Plugin checks if the channel supports VPS ..."
+msgstr "VPS-plugin zjišťuje, zda kanál podporuje VPS ..."
+
+msgid ""
+"The selected channel doesn't support VPS for manually programmed timers!\n"
+" Do you really want to enable VPS?"
+msgstr ""
+"Zvolený kanál nepodporuje VPS pro ručně programované časovače!\n"
+" Chcete skutečně povolit VPS?"
+
+msgid ""
+"The VPS-Plugin couldn't check if the selected channel supports VPS for "
+"manually programmed timers!\n"
+" Do you really want to enable VPS?"
+msgstr ""
+"VPS-plugin nemohl zjistit, zda zvolený kanál podporuje VPS pro ručně "
+"programované časovače!\n"
+" Chcete skutečně povolit VPS?"
+
+msgid "Yes, don't ask again"
+msgstr "Ano, více se neptat"
+
+msgid ""
+"VPS-Plugin couldn't check if the selected channel supports VPS.\n"
+" Do you really want to enable VPS?"
+msgstr ""
+"VPS-Plugin nemohl zkontrolovat, zda zvolený kanál podporuje VPS.\n"
+" Chcete opravdu povolit VPS?"
+
+msgid ""
+"The channel may support VPS\n"
+" Do you want to enable VPS?"
+msgstr ""
+"Kanál  může podporovat VPS\n"
+"Chcete povolit VPS?"
+
+msgid ""
+"VPS-Plugin couldn't check if the channel supports VPS.\n"
+" Do you want to enable VPS anyway?"
+msgstr ""
+"VPS-Plugin nemohl zkontrolovat, jestli kanál podporuje VPS.\n"
+" Chcete VPS přesto povolit?"
+
+#, python-format
+msgid "VPS Setup Version %s"
+msgstr "Nastavení VPS - verze %s"
+
+msgid "Enable VPS-Plugin"
+msgstr "Povolit VPS-plugin"
+
+msgid "Starting time"
+msgstr "Čas začátku"
+
+msgid "Wakeup from Deep-Standby is allowed"
+msgstr "Probuzení z hlubokého spánku je povoleno"
+
+msgid "Seeking connected events"
+msgstr "Hledání spojených událostí"
+
+msgid "VPS enabled by default"
+msgstr "VPS povoleno standardně"
+
+msgid "Enable VPS on instant records"
+msgstr "Povolit VPS pro okamžité nahrávání"
+
+#
+#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
+#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
+msgid "Cancel"
+msgstr "Zavřít"
+
+#
+msgid "OK"
+msgstr "OK"
+
+#
+msgid "Information"
+msgstr "Sat.přijímač - info..."
+
+msgid ""
+"This plugin can determine whether a programme begins earlier or lasts "
+"longer. The channel has to provide reliable data."
+msgstr ""
+"Tento plugin může určit, zda program začíná dříve nebo bude delší. Vysílání "
+"musí poskytovat spolehlivé údaje!"
+
+msgid ""
+"If possible, x minutes before a timer starts VPS-Plugin will control whether "
+"the programme begins earlier. (0 disables feature)"
+msgstr ""
+"Pokud je to možné, kontroluje se x minut před skutečným začátkem, zda "
+"program nezačíná dříve. (0 deaktivuje tuto možnost)"
+
+msgid "Enable VPS by default (new timers)"
+msgstr "Povolí VPS jako standardní (pro nové časovače)"
+
+msgid ""
+"If enabled and necessary, the plugin will wake up the Dreambox from Deep-"
+"Standby for the defined starting time to control whether the programme "
+"begins earlier."
+msgstr ""
+"Pokud je povoleno a je potřeba, bude plugin probouzet box z hlubokého spánku "
+"pro nastavený čas začátku a bude kontrolovat, zda program nezačíná dříve."
+
+msgid ""
+"If a programme is interrupted and divided into separate events, the plugin "
+"will search for the connected events."
+msgstr ""
+"Pokud je program přerušen a rozdělen na jednotlivé události, plugin bude "
+"hledat spojené události."
+
+msgid ""
+"When yes, VPS will be enabled on instant records (stop after current event), "
+"if the channel supports VPS."
+msgstr ""
+"Jestliže ano, pak v případě, že kanál podporuje VPS bude VPS povolen v "
+"okamžitém nahrávání (zastavit po aktuální události)."
+
+#
+msgid "Really close without saving settings?"
+msgstr "Opravdu zavřít bez uložení ?"
+
+msgid "VPS-Plugin Information"
+msgstr "Informace VPS-Pluginu"
+
+msgid ""
+"VPS-Plugin can react on delays arising in the startTime or endTime of a "
+"programme. VPS is only supported by certain channels!\n"
+"\n"
+"If you enable VPS, the recording will only start, when the channel flags the "
+"programme as running.\n"
+"\n"
+"If you select \"yes (safe mode)\", the recording is definitely starting at "
+"the latest at the startTime you defined. The recording may start earlier or "
+"last longer.\n"
+"\n"
+"\n"
+"Supported channels\n"
+"\n"
+"Germany:\n"
+" ARD and ZDF\n"
+"\n"
+"Austria:\n"
+" ORF\n"
+"\n"
+"Switzerland:\n"
+" SF\n"
+"\n"
+"Czech Republic:\n"
+" CT\n"
+"\n"
+"If a timer is programmed manually (not via EPG), it is necessary to set a "
+"VPS-Time to enable VPS. VPS-Time (also known as PDC) is the first published "
+"start time, e.g. given in magazines. If you set a VPS-Time, you have to "
+"leave timer name empty."
+msgstr ""
+"VPS-Plugin může reagovat na zpoždění oproti Času začátku nebo Času konce "
+"programu. Funkce VPS je podporována pouze některými kanály!\n"
+"\n"
+"Jestliže povolíte VPS,  pak nahrávání začne pouze tehdy, jestliže je vysílán "
+"příznak běžícího pořadu.\n"
+"\n"
+"Jestliže zvolíte \"Ano (bezpečný mód)\", nahrávání začne nejpozději v Čas "
+"začátku, který jste nastavili. Nahrávka může začít dříve nebo trvat déle.\n"
+"\n"
+"\n"
+"Podporované kanály\n"
+"\n"
+"Česká republika:\n"
+" ČT\n"
+"\n"
+"Německo:\n"
+" ARD, ZDF, Sky a DMAX\n"
+"\n"
+"Rakousko:\n"
+" ORF a Servus TV\n"
+"\n"
+"Švýcarsko:\n"
+" SF\n"
+"\n"
+"\n"
+"Pro časovače programované ručně (nikoliv za pomoci EPG) je nutné nastavit "
+"VPS-Time pro povolení VPS. VPS-Time (také známý jako PDC) je čas začátku "
+"uváděný např. v časopisech. Pokud nastavíte VPS-Time, musíte ponechat název "
+"časovače prázdný!"
+
+msgid "Elektro Power Save"
+msgstr ""
+
+msgid "Automatically shut down to deep standby"
+msgstr ""
+
+msgid "Extensions menu"
+msgstr ""
+
+msgid "Plugin menu"
+msgstr ""
+
+msgid "yes, Profile 1"
+msgstr ""
+
+msgid "yes, Profile 2"
+msgstr ""
+
+#
+msgid "Monday"
+msgstr "pondělí"
+
+#
+msgid "Tuesday"
+msgstr "úterý"
+
+#
+msgid "Wednesday"
+msgstr "středa"
+
+#
+msgid "Thursday"
+msgstr "čtvrtek"
+
+#
+msgid "Friday"
+msgstr "pátek"
+
+#
+msgid "Saturday"
+msgstr "sobota"
+
+#
+msgid "Sunday"
+msgstr "neděle"
+
+msgid "no Name"
+msgstr ""
+
+msgid "Connection Error"
+msgstr ""
+
+msgid "Ver."
+msgstr ""
+
+msgid "Wakeup"
+msgstr ""
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Next day starts at"
+msgstr ""
+
+msgid ""
+"If the box is supposed to enter deep standby e.g. monday night at 1 AM, it "
+"actually is already tuesday. To enable this anyway, differing next day start "
+"time can be specified here."
+msgstr ""
+
+#
+msgid "Ok"
+msgstr "OK"
+
+#
+msgid "IP Address"
+msgstr "Adresa IP: "
+
+msgid "please wait..."
+msgstr ""
+
+msgid "NAS/Server Name or IP"
+msgstr ""
+
+#
+msgid "Username"
+msgstr "Uživatel"
+
+#
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Command [poweroff, shutdown -h,...]"
+msgstr ""
+
+msgid "Telnet Port"
+msgstr ""
+
+msgid "Waiting until poweroff"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Active Time Profile"
+msgstr ""
+
+msgid "The active Time Profile is (1 or 2)."
+msgstr ""
+
+msgid "Enable Elektro Power Save"
+msgstr ""
+
+msgid "Unless this is enabled, this plugin won't run automatically."
+msgstr ""
+
+msgid "Use both profiles alternately"
+msgstr ""
+
+msgid ""
+"Both profiles are used alternately. When shutting down the other profile is "
+"enabled. This allows two time cycles per day. Do not overlap the times."
+msgstr ""
+
+msgid "Standby on boot"
+msgstr ""
+
+msgid "Puts the box in standby mode after boot."
+msgstr ""
+
+msgid "Standby on manual boot"
+msgstr ""
+
+msgid ""
+"Whether to put the box in standby when booted manually. On manual boot the "
+"box will not go to standby before the next deep standby interval starts, "
+"even if this option is set. This option is only active if 'Standby on boot' "
+"option is set, too."
+msgstr ""
+
+msgid "Standby on boot screen timeout"
+msgstr ""
+
+msgid ""
+"Specify how long to show the standby query on boot screen. This value can be "
+"set to ensure the box does not shut down to deep standby again too fast when "
+"in standby mode."
+msgstr ""
+
+msgid "Force sleep (even when not in standby)"
+msgstr ""
+
+msgid ""
+"Forces deep standby, even when not in standby mode. Scheduled recordings "
+"remain unaffected."
+msgstr ""
+
+msgid "Avoid deep standby when HDD is active, e.g. for FTP"
+msgstr ""
+
+msgid ""
+"Wait for the HDD to enter sleep mode. Depending on the configuration this "
+"can prevent the box entirely from entering deep standby mode."
+msgstr ""
+
+msgid "Check IPs (press OK to edit)"
+msgstr ""
+
+msgid ""
+"This list of IP addresses is checked. Elektro waits until addresses no "
+"longer responds to ping."
+msgstr ""
+
+msgid "NAS Poweroff (press OK to edit)"
+msgstr ""
+
+msgid "A NAS/Server can be shut down. Is required activated Telnet."
+msgstr ""
+
+msgid "Don't wake up"
+msgstr ""
+
+msgid "Do not wake up at the end of next deep standby interval."
+msgstr ""
+
+msgid "Holiday mode (experimental)"
+msgstr ""
+
+msgid "The box always enters deep standby mode, except for recording."
+msgstr ""
+
+msgid "Show in"
+msgstr ""
+
+msgid ""
+"Specify whether plugin shall show up in plugin menu or extensions menu "
+"(needs GUI restart)"
+msgstr ""
+
+#
+msgid "Name"
+msgstr "Název"
+
+msgid "Specify plugin name to be used in menu (needs GUI restart)."
+msgstr ""
+
+#
+msgid "Description"
+msgstr "Popis"
+
+msgid "Specify plugin description to be used in menu (needs GUI restart)."
+msgstr ""
+
+#
+msgid "Help"
+msgstr "Nápověda"
+
+msgid "Times"
+msgstr ""
+
+msgid "Showing Elektro readme.txt"
+msgstr ""
+
+msgid "readme.txt"
+msgstr ""
+
+msgid "Go to Standby now?"
+msgstr ""
+
+msgid "Go to sleep now?"
+msgstr ""
+
+#
 msgid ""
 "\n"
 "Advanced options and settings."
@@ -1491,12 +1946,6 @@ msgstr ""
 "Pravděpodobně je zařízení stále v činnosti."
 
 #
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
-msgid "Cancel"
-msgstr "Zavřít"
-
-#
 msgid "Capacity: "
 msgstr "Kapacita :"
 
@@ -2093,10 +2542,6 @@ msgstr ""
 #
 msgid "Depth"
 msgstr "Hloubka"
-
-#
-msgid "Description"
-msgstr "Popis"
 
 #
 msgid "Deselect"
@@ -3109,10 +3554,6 @@ msgid "Fri"
 msgstr "Pá"
 
 #
-msgid "Friday"
-msgstr "pátek"
-
-#
 msgid "Frisian"
 msgstr "Frísky"
 
@@ -3306,10 +3747,6 @@ msgid "HbbTV Plugin"
 msgstr "HbbTV Erweiterung"
 
 #
-msgid "Help"
-msgstr "Nápověda"
-
-#
 msgid "Hidden network"
 msgstr "Skrytá síť"
 
@@ -3344,10 +3781,6 @@ msgstr "Maďarsky"
 #
 msgid "IP"
 msgstr "IP"
-
-#
-msgid "IP Address"
-msgstr "Adresa IP: "
 
 #
 msgid "ISO file is too large for this filesystem!"
@@ -3433,11 +3866,6 @@ msgid "In Progress"
 msgstr "Stav ..."
 
 #
-msgid ""
-"In order to record a timer, the TV was switched to the recording service!\n"
-msgstr "Aby se časovač mohl zapsat, bude TV přepnuta na kanál záznamu.\n"
-
-#
 msgid "Include optional infomation"
 msgstr "Včetně volitelných informací"
 
@@ -3464,10 +3892,6 @@ msgstr "Info-panel"
 #
 msgid "Infobar timeout"
 msgstr "Info-panel, doba zobrazení"
-
-#
-msgid "Information"
-msgstr "Sat.přijímač - info..."
 
 #
 msgid "Init"
@@ -4091,10 +4515,6 @@ msgid "Mon-Fri"
 msgstr "Po - Pá"
 
 #
-msgid "Monday"
-msgstr "pondělí"
-
-#
 msgid "Mosquito noise reduction"
 msgstr "Snížit šum na hranách"
 
@@ -4261,10 +4681,6 @@ msgid "NTSC"
 msgstr "NTSC"
 
 #
-msgid "Name"
-msgstr "Název"
-
-#
 msgid "Name :"
 msgstr "Název :"
 
@@ -4370,10 +4786,6 @@ msgstr "Nový PIN"
 #
 msgid "Next"
 msgstr "Další"
-
-#
-msgid "No"
-msgstr "ne"
 
 #
 msgid "No (supported) DVDROM found!"
@@ -4647,10 +5059,6 @@ msgstr ""
 "OK -> pokračovat..."
 
 #
-msgid "OK"
-msgstr "OK"
-
-#
 msgid "OK, guide me through the upgrade process"
 msgstr "OK, použiji průvodce pro aktualizaci..."
 
@@ -4665,10 +5073,6 @@ msgstr "Nastavení OSD"
 #
 msgid "Off"
 msgstr "vypnuto"
-
-#
-msgid "Ok"
-msgstr "OK"
 
 #
 msgid "On"
@@ -4828,10 +5232,6 @@ msgstr "Disk.oddíly"
 #, python-format
 msgid "Partitions : %s"
 msgstr "Disk.oddíly : %s"
-
-#
-msgid "Password"
-msgstr "Heslo"
 
 #
 msgid "Password :"
@@ -5560,10 +5960,6 @@ msgid "Random"
 msgstr "Náhodně"
 
 #
-msgid "Really close without saving settings?"
-msgstr "Opravdu zavřít bez uložení ?"
-
-#
 msgid "Really delete done timers?"
 msgstr "Smazat dokončené časovače ?"
 
@@ -6013,10 +6409,6 @@ msgstr "Satelity"
 #
 msgid "Saturation"
 msgstr "Saturace"
-
-#
-msgid "Saturday"
-msgstr "sobota"
 
 #
 msgid "Save"
@@ -7044,10 +7436,6 @@ msgid "Sun"
 msgstr "Ne"
 
 #
-msgid "Sunday"
-msgstr "neděle"
-
-#
 msgid "Swap Services"
 msgstr "Prohodit kanály"
 
@@ -7572,10 +7960,6 @@ msgid "Thumbnails"
 msgstr "Náhled"
 
 #
-msgid "Thursday"
-msgstr "čtvrtek"
-
-#
 msgid "Time"
 msgstr "Čas"
 
@@ -7785,10 +8169,6 @@ msgstr "Stahuji nový seznam balíčků. Čekejte, prosím..."
 #
 msgid "Tue"
 msgstr "Út"
-
-#
-msgid "Tuesday"
-msgstr "úterý"
 
 #
 msgid "Tune"
@@ -8203,10 +8583,6 @@ msgid "User name"
 msgstr "Uživatel"
 
 #
-msgid "Username"
-msgstr "Uživatel"
-
-#
 msgid "Using a Wireless module as access point."
 msgstr "-- použití bezdrátového přípojného bodu"
 
@@ -8462,10 +8838,6 @@ msgid "Wed"
 msgstr "St"
 
 #
-msgid "Wednesday"
-msgstr "středa"
-
-#
 msgid "Weekday"
 msgstr "Pracovní den"
 
@@ -8608,10 +8980,6 @@ msgstr "Rok"
 #
 msgid "Yellow font for DVB subtitles"
 msgstr "Žlutý font pro DVB titulky"
-
-#
-msgid "Yes"
-msgstr "ano"
 
 #
 msgid "Yes to all"
@@ -21430,12 +21798,6 @@ msgstr ""
 msgid "case-insensitive search"
 msgstr ""
 
-#
-# File: ../src_py/Modifications.py, line: 144
-# File: ../src_py/Modifications.py, line: 147
-msgid "%d.%B %Y"
-msgstr "%d %B %Y"
-
 msgid "Never"
 msgstr ""
 
@@ -24169,3 +24531,24 @@ msgstr ""
 
 msgid "System services"
 msgstr ""
+
+#~ msgid "Recording controlled by channel"
+#~ msgstr "Nahrávání řízené vysíláním"
+
+#~ msgid "Recordings can be controlled by channel"
+#~ msgstr "Nahrávání může být řízeno vysíláním"
+
+#~ msgid "Recordings are controlled by channel by default"
+#~ msgstr "Nahrávání je řízeno vysíláním standardně"
+
+#~ msgid ""
+#~ "If enabled, you can decide whether a timer should be controlled by "
+#~ "channel (Running-Status). Programmed start and end time will be ignored."
+#~ msgstr ""
+#~ "Jestliže je povoleno, můžete určit, zda bude časovač řízen informacemi z "
+#~ "vysílání (Running-Status). V tomto případě budou naprogramované časy "
+#~ "ignorovány!"
+
+#~ msgid "Enable \"Recording controlled by channel\" by default (new timers)"
+#~ msgstr ""
+#~ "Povolí \"Nahrávání řízené vysíláním\" jako standardní (pro nové časovače)"

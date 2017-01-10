@@ -18,6 +18,411 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 
 #
+msgid "No"
+msgstr "Ne"
+
+msgid "Yes (safe mode)"
+msgstr ""
+
+#
+msgid "Yes"
+msgstr "Da"
+
+#
+msgid "%d.%B %Y"
+msgstr ""
+
+msgid "Enable VPS"
+msgstr ""
+
+msgid "VPS-Time (date)"
+msgstr ""
+
+msgid "VPS-Time (time)"
+msgstr ""
+
+msgid "always ask"
+msgstr ""
+
+msgid "VPS Settings"
+msgstr ""
+
+#
+msgid ""
+"In order to record a timer, the TV was switched to the recording service!\n"
+msgstr ""
+"Da bi počelo snimanje po tajmeru,TV je prebačen na kanal za snimanje!\n"
+
+msgid "VPS-Plugin checks if the channel supports VPS ..."
+msgstr ""
+
+msgid ""
+"The selected channel doesn't support VPS for manually programmed timers!\n"
+" Do you really want to enable VPS?"
+msgstr ""
+
+msgid ""
+"The VPS-Plugin couldn't check if the selected channel supports VPS for "
+"manually programmed timers!\n"
+" Do you really want to enable VPS?"
+msgstr ""
+
+msgid "Yes, don't ask again"
+msgstr ""
+
+msgid ""
+"VPS-Plugin couldn't check if the selected channel supports VPS.\n"
+" Do you really want to enable VPS?"
+msgstr ""
+
+msgid ""
+"The channel may support VPS\n"
+" Do you want to enable VPS?"
+msgstr ""
+
+msgid ""
+"VPS-Plugin couldn't check if the channel supports VPS.\n"
+" Do you want to enable VPS anyway?"
+msgstr ""
+
+#, python-format
+msgid "VPS Setup Version %s"
+msgstr ""
+
+msgid "Enable VPS-Plugin"
+msgstr ""
+
+msgid "Starting time"
+msgstr ""
+
+msgid "Wakeup from Deep-Standby is allowed"
+msgstr ""
+
+msgid "Seeking connected events"
+msgstr ""
+
+msgid "VPS enabled by default"
+msgstr ""
+
+msgid "Enable VPS on instant records"
+msgstr ""
+
+#
+#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
+#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
+msgid "Cancel"
+msgstr "Odustani"
+
+#
+msgid "OK"
+msgstr "OK"
+
+#
+msgid "Information"
+msgstr "Informacije"
+
+msgid ""
+"This plugin can determine whether a programme begins earlier or lasts "
+"longer. The channel has to provide reliable data."
+msgstr ""
+
+msgid ""
+"If possible, x minutes before a timer starts VPS-Plugin will control whether "
+"the programme begins earlier. (0 disables feature)"
+msgstr ""
+
+msgid "Enable VPS by default (new timers)"
+msgstr ""
+
+msgid ""
+"If enabled and necessary, the plugin will wake up the Dreambox from Deep-"
+"Standby for the defined starting time to control whether the programme "
+"begins earlier."
+msgstr ""
+
+msgid ""
+"If a programme is interrupted and divided into separate events, the plugin "
+"will search for the connected events."
+msgstr ""
+
+msgid ""
+"When yes, VPS will be enabled on instant records (stop after current event), "
+"if the channel supports VPS."
+msgstr ""
+
+#
+msgid "Really close without saving settings?"
+msgstr "Želite li stvarno zatvoriti bez čuvanja postavki ?"
+
+msgid "VPS-Plugin Information"
+msgstr ""
+
+msgid ""
+"VPS-Plugin can react on delays arising in the startTime or endTime of a "
+"programme. VPS is only supported by certain channels!\n"
+"\n"
+"If you enable VPS, the recording will only start, when the channel flags the "
+"programme as running.\n"
+"\n"
+"If you select \"yes (safe mode)\", the recording is definitely starting at "
+"the latest at the startTime you defined. The recording may start earlier or "
+"last longer.\n"
+"\n"
+"\n"
+"Supported channels\n"
+"\n"
+"Germany:\n"
+" ARD and ZDF\n"
+"\n"
+"Austria:\n"
+" ORF\n"
+"\n"
+"Switzerland:\n"
+" SF\n"
+"\n"
+"Czech Republic:\n"
+" CT\n"
+"\n"
+"If a timer is programmed manually (not via EPG), it is necessary to set a "
+"VPS-Time to enable VPS. VPS-Time (also known as PDC) is the first published "
+"start time, e.g. given in magazines. If you set a VPS-Time, you have to "
+"leave timer name empty."
+msgstr ""
+
+msgid "Elektro Power Save"
+msgstr ""
+
+msgid "Automatically shut down to deep standby"
+msgstr ""
+
+msgid "Extensions menu"
+msgstr ""
+
+msgid "Plugin menu"
+msgstr ""
+
+msgid "yes, Profile 1"
+msgstr ""
+
+msgid "yes, Profile 2"
+msgstr ""
+
+#
+msgid "Monday"
+msgstr "Ponedeljak"
+
+#
+msgid "Tuesday"
+msgstr "Utorak"
+
+#
+msgid "Wednesday"
+msgstr "Sreda"
+
+#
+msgid "Thursday"
+msgstr "Četvrtak"
+
+#
+msgid "Friday"
+msgstr "Petak"
+
+#
+msgid "Saturday"
+msgstr "Subota"
+
+#
+msgid "Sunday"
+msgstr "Nedelja"
+
+msgid "no Name"
+msgstr ""
+
+msgid "Connection Error"
+msgstr ""
+
+msgid "Ver."
+msgstr ""
+
+msgid "Wakeup"
+msgstr "Buđenje"
+
+msgid "Sleep"
+msgstr "Spavanje"
+
+msgid "Next day starts at"
+msgstr "Sledećeg dana startuj u"
+
+msgid ""
+"If the box is supposed to enter deep standby e.g. monday night at 1 AM, it "
+"actually is already tuesday. To enable this anyway, differing next day start "
+"time can be specified here."
+msgstr ""
+
+#
+#
+msgid "Ok"
+msgstr "Ok"
+
+#
+msgid "IP Address"
+msgstr "IP Adresa"
+
+msgid "please wait..."
+msgstr ""
+
+msgid "NAS/Server Name or IP"
+msgstr ""
+
+#
+msgid "Username"
+msgstr "Korisn. ime"
+
+#
+msgid "Password"
+msgstr "Lozinka"
+
+msgid "Command [poweroff, shutdown -h,...]"
+msgstr ""
+
+msgid "Telnet Port"
+msgstr ""
+
+msgid "Waiting until poweroff"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Active Time Profile"
+msgstr ""
+
+msgid "The active Time Profile is (1 or 2)."
+msgstr ""
+
+msgid "Enable Elektro Power Save"
+msgstr "Uključi štednju elektr. energije"
+
+msgid "Unless this is enabled, this plugin won't run automatically."
+msgstr ""
+
+msgid "Use both profiles alternately"
+msgstr ""
+
+msgid ""
+"Both profiles are used alternately. When shutting down the other profile is "
+"enabled. This allows two time cycles per day. Do not overlap the times."
+msgstr ""
+
+msgid "Standby on boot"
+msgstr "Pripravnost posle podizanja"
+
+msgid "Puts the box in standby mode after boot."
+msgstr ""
+
+msgid "Standby on manual boot"
+msgstr "Pripravnost posle ručnog podizanja"
+
+msgid ""
+"Whether to put the box in standby when booted manually. On manual boot the "
+"box will not go to standby before the next deep standby interval starts, "
+"even if this option is set. This option is only active if 'Standby on boot' "
+"option is set, too."
+msgstr ""
+
+msgid "Standby on boot screen timeout"
+msgstr "Predah ekrana posle dizanja u stendbaj"
+
+msgid ""
+"Specify how long to show the standby query on boot screen. This value can be "
+"set to ensure the box does not shut down to deep standby again too fast when "
+"in standby mode."
+msgstr ""
+
+msgid "Force sleep (even when not in standby)"
+msgstr "Nateraj u mod spavanja (iako nije u pripravnosti)"
+
+msgid ""
+"Forces deep standby, even when not in standby mode. Scheduled recordings "
+"remain unaffected."
+msgstr ""
+
+msgid "Avoid deep standby when HDD is active, e.g. for FTP"
+msgstr ""
+
+msgid ""
+"Wait for the HDD to enter sleep mode. Depending on the configuration this "
+"can prevent the box entirely from entering deep standby mode."
+msgstr ""
+
+msgid "Check IPs (press OK to edit)"
+msgstr ""
+
+msgid ""
+"This list of IP addresses is checked. Elektro waits until addresses no "
+"longer responds to ping."
+msgstr ""
+
+msgid "NAS Poweroff (press OK to edit)"
+msgstr ""
+
+msgid "A NAS/Server can be shut down. Is required activated Telnet."
+msgstr ""
+
+msgid "Don't wake up"
+msgstr ""
+
+msgid "Do not wake up at the end of next deep standby interval."
+msgstr ""
+
+msgid "Holiday mode (experimental)"
+msgstr "Mod odmora (Eksperimentalno)"
+
+msgid "The box always enters deep standby mode, except for recording."
+msgstr ""
+
+msgid "Show in"
+msgstr ""
+
+msgid ""
+"Specify whether plugin shall show up in plugin menu or extensions menu "
+"(needs GUI restart)"
+msgstr ""
+
+#
+msgid "Name"
+msgstr "Ime"
+
+msgid "Specify plugin name to be used in menu (needs GUI restart)."
+msgstr ""
+
+#
+msgid "Description"
+msgstr "Opis"
+
+msgid "Specify plugin description to be used in menu (needs GUI restart)."
+msgstr ""
+
+#
+msgid "Help"
+msgstr "Pomoć"
+
+msgid "Times"
+msgstr ""
+
+msgid "Showing Elektro readme.txt"
+msgstr "Prikazujem Elektro readme.txt"
+
+msgid "readme.txt"
+msgstr ""
+
+msgid "Go to Standby now?"
+msgstr "Idi u pripravnost sada?"
+
+msgid "Go to sleep now?"
+msgstr "Idi u mod spavanja sada?"
+
+#
 msgid ""
 "\n"
 "Advanced options and settings."
@@ -1432,12 +1837,6 @@ msgid ""
 msgstr ""
 
 #
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
-msgid "Cancel"
-msgstr "Odustani"
-
-#
 msgid "Capacity: "
 msgstr "Kapacitet:"
 
@@ -2028,10 +2427,6 @@ msgstr ""
 #
 msgid "Depth"
 msgstr ""
-
-#
-msgid "Description"
-msgstr "Opis"
 
 #
 msgid "Deselect"
@@ -3006,10 +3401,6 @@ msgid "Fri"
 msgstr "Pet"
 
 #
-msgid "Friday"
-msgstr "Petak"
-
-#
 msgid "Frisian"
 msgstr "Frizijski"
 
@@ -3197,10 +3588,6 @@ msgid "HbbTV Plugin"
 msgstr ""
 
 #
-msgid "Help"
-msgstr "Pomoć"
-
-#
 msgid "Hidden network"
 msgstr ""
 
@@ -3235,10 +3622,6 @@ msgstr "Mađarski"
 #
 msgid "IP"
 msgstr ""
-
-#
-msgid "IP Address"
-msgstr "IP Adresa"
 
 #
 msgid "ISO file is too large for this filesystem!"
@@ -3318,12 +3701,6 @@ msgid "In Progress"
 msgstr "U toku"
 
 #
-msgid ""
-"In order to record a timer, the TV was switched to the recording service!\n"
-msgstr ""
-"Da bi počelo snimanje po tajmeru,TV je prebačen na kanal za snimanje!\n"
-
-#
 msgid "Include optional infomation"
 msgstr ""
 
@@ -3350,10 +3727,6 @@ msgstr "Info traka"
 #
 msgid "Infobar timeout"
 msgstr "Vreme trajanja info trake"
-
-#
-msgid "Information"
-msgstr "Informacije"
 
 #
 msgid "Init"
@@ -3969,10 +4342,6 @@ msgid "Mon-Fri"
 msgstr "Pon-Pet"
 
 #
-msgid "Monday"
-msgstr "Ponedeljak"
-
-#
 msgid "Mosquito noise reduction"
 msgstr "Moskito smanjenje šuma"
 
@@ -4131,10 +4500,6 @@ msgid "NTSC"
 msgstr "NTSC"
 
 #
-msgid "Name"
-msgstr "Ime"
-
-#
 msgid "Name :"
 msgstr ""
 
@@ -4237,10 +4602,6 @@ msgstr "Novi PIN"
 #
 msgid "Next"
 msgstr "Sjedeći"
-
-#
-msgid "No"
-msgstr "Ne"
 
 #
 msgid "No (supported) DVDROM found!"
@@ -4502,10 +4863,6 @@ msgstr ""
 "najsvetlija nivoa senki.Ako ste ovo učinili,pritisnite OK."
 
 #
-msgid "OK"
-msgstr "OK"
-
-#
 msgid "OK, guide me through the upgrade process"
 msgstr "OK, vodi me kroz postupak nadogradnje"
 
@@ -4520,11 +4877,6 @@ msgstr "Postavke OSD"
 #
 msgid "Off"
 msgstr "Isključi"
-
-#
-#
-msgid "Ok"
-msgstr "Ok"
 
 #
 msgid "On"
@@ -4680,10 +5032,6 @@ msgstr ""
 #, python-format
 msgid "Partitions : %s"
 msgstr ""
-
-#
-msgid "Password"
-msgstr "Lozinka"
 
 #
 msgid "Password :"
@@ -5389,10 +5737,6 @@ msgid "Random"
 msgstr "Slučajan"
 
 #
-msgid "Really close without saving settings?"
-msgstr "Želite li stvarno zatvoriti bez čuvanja postavki ?"
-
-#
 msgid "Really delete done timers?"
 msgstr "Želite li stvarno obrisati završene tajmere?"
 
@@ -5828,10 +6172,6 @@ msgstr "Sats"
 #
 msgid "Saturation"
 msgstr "Zasićenje"
-
-#
-msgid "Saturday"
-msgstr "Subota"
 
 #
 msgid "Save"
@@ -6859,10 +7199,6 @@ msgid "Sun"
 msgstr "Ned"
 
 #
-msgid "Sunday"
-msgstr "Nedelja"
-
-#
 msgid "Swap Services"
 msgstr "Zameni kanale"
 
@@ -7370,10 +7706,6 @@ msgid "Thumbnails"
 msgstr "Sličice"
 
 #
-msgid "Thursday"
-msgstr "Četvrtak"
-
-#
 msgid "Time"
 msgstr "Vreme"
 
@@ -7583,10 +7915,6 @@ msgstr "Pokušavam skinuti novu listu paketa.Molim sačekajte..."
 #
 msgid "Tue"
 msgstr "Uto"
-
-#
-msgid "Tuesday"
-msgstr "Utorak"
 
 #
 msgid "Tune"
@@ -7996,10 +8324,6 @@ msgid "User name"
 msgstr ""
 
 #
-msgid "Username"
-msgstr "Korisn. ime"
-
-#
 msgid "Using a Wireless module as access point."
 msgstr ""
 
@@ -8250,10 +8574,6 @@ msgid "Wed"
 msgstr "Sre"
 
 #
-msgid "Wednesday"
-msgstr "Sreda"
-
-#
 msgid "Weekday"
 msgstr "Nedeljnii dan"
 
@@ -8385,10 +8705,6 @@ msgstr "Godina"
 #
 msgid "Yellow font for DVB subtitles"
 msgstr ""
-
-#
-msgid "Yes"
-msgstr "Da"
 
 #
 msgid "Yes to all"
@@ -21007,10 +21323,6 @@ msgid "case-insensitive search"
 msgstr "pretraga bez vel/mal slova"
 
 #
-msgid "%d.%B %Y"
-msgstr ""
-
-#
 msgid "Never"
 msgstr "Nikad"
 
@@ -24104,3 +24416,6 @@ msgstr ""
 
 msgid "System services"
 msgstr ""
+
+#~ msgid "Dont wake up"
+#~ msgstr "Ne budi"
