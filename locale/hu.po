@@ -23365,3 +23365,45 @@ msgstr ""
 
 msgid "System services"
 msgstr ""
+
+msgid "Debug options"
+msgstr ""
+
+msgid "Software packages"
+msgstr ""
+
+msgid "SecondInfoBar"
+msgstr ""
+
+msgid "Common"
+msgstr ""
+
+msgid "Creating Timers"
+msgstr ""
+
+msgid "Buttons"
+msgstr ""
+
+msgid "Timer List"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "GUI Setup"
+msgstr ""
+
+msgid "Movie playback"
+msgstr ""
+
+msgid "Begin / End of playback"
+msgstr ""
+
+msgid "Advertisment detection"
+msgstr ""
+
+msgid "Setup - Buttons"
+msgstr ""
+
+msgid "Buttons setup"
+msgstr ""

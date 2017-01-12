@@ -18363,7 +18363,7 @@ msgstr "Suche leeren"
 # File: ../src/WebComponents/Sources/Strings.py, line: 27
 #: src/WebComponents/Sources/Strings.py:26
 msgid "Bouquets"
-msgstr "Bouquets"
+msgstr "Favoriten"
 
 #
 # File: ../src/WebComponents/Sources/Strings.py, line: 28
@@ -27081,3 +27081,45 @@ msgstr "multi"
 
 msgid "System services"
 msgstr "Systemdienste"
+
+msgid "Debug options"
+msgstr "Fehlersuche"
+
+msgid "Software packages"
+msgstr "Softwarepakete"
+
+msgid "SecondInfoBar"
+msgstr "Zweite Infoleiste (SecondInfoBar)"
+
+msgid "Common"
+msgstr "Allgemein"
+
+msgid "Creating Timers"
+msgstr "Timer anlegen"
+
+msgid "Buttons"
+msgstr "Tasten"
+
+msgid "Timer List"
+msgstr "Timerliste"
+
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+msgid "GUI Setup"
+msgstr "Benutzeroberfläche"
+
+msgid "Movie playback"
+msgstr "Filmwiedergabe"
+
+msgid "Begin / End of playback"
+msgstr "Beginn/Ende der Wiedergabe"
+
+msgid "Advertisment detection"
+msgstr "Werbeerkennung"
+
+msgid "Setup - Buttons"
+msgstr "Einstellungen - Tasten"
+
+msgid "Buttons setup"
+msgstr "Tastenbelegung"
