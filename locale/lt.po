@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: vti-po-catalog - enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-01-10 08:42+0200\n"
+"PO-Revision-Date: 2017-01-14 10:29+0200\n"
 "Last-Translator: plnick\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
 "Language: lt_LT\n"
@@ -19,7 +19,7 @@ msgid "No"
 msgstr "Ne"
 
 msgid "Yes (safe mode)"
-msgstr ""
+msgstr "Taip (saugus režimas)"
 
 msgid "Yes"
 msgstr "Taip"
@@ -28,77 +28,88 @@ msgid "%d.%B %Y"
 msgstr "%Y %B %d"
 
 msgid "Enable VPS"
-msgstr ""
+msgstr "Įjungti VPS"
 
 msgid "VPS-Time (date)"
-msgstr ""
+msgstr "VPS laikas (data)"
 
 msgid "VPS-Time (time)"
-msgstr ""
+msgstr "VPS laikas (laikas)"
 
 msgid "always ask"
-msgstr ""
+msgstr "visada klausti"
 
 msgid "VPS Settings"
-msgstr ""
+msgstr "VPS nuostatos"
 
 msgid ""
 "In order to record a timer, the TV was switched to the recording service!\n"
 msgstr "Kad pradėti įrašymą pagal laikmatį, TV perjungtas į įrašomą kanalą!\n"
 
 msgid "VPS-Plugin checks if the channel supports VPS ..."
-msgstr ""
+msgstr "VPS įskiepis tikrina, ar kanalas palaiko VPS..."
 
 msgid ""
 "The selected channel doesn't support VPS for manually programmed timers!\n"
 " Do you really want to enable VPS?"
 msgstr ""
+"Šis kanalas nepalaiko VPS rankiniu būdu nustatytiems laikmačiams!\n"
+" Ar tikrai norite įjungti VPS?"
 
 msgid ""
 "The VPS-Plugin couldn't check if the selected channel supports VPS for "
 "manually programmed timers!\n"
 " Do you really want to enable VPS?"
 msgstr ""
+"VPS įskiepis negali patikrinti, ar šis kanalas palaiko VPS rankiniu būdu "
+"nustatytiems laikmačiams!\n"
+" Ar tikrai norite įjungti VPS?"
 
 msgid "Yes, don't ask again"
-msgstr ""
+msgstr "Taip. Ir daugiau neklausti"
 
 msgid ""
 "VPS-Plugin couldn't check if the selected channel supports VPS.\n"
 " Do you really want to enable VPS?"
 msgstr ""
+"VPS įskiepis negali patikrinti, ar šis kanalas palaiko VPS.\n"
+" Ar tikrai norite įjungti VPS?"
 
 msgid ""
 "The channel may support VPS\n"
 " Do you want to enable VPS?"
 msgstr ""
+"Kanalas galimai palaiko VPS.\n"
+"Ar norite įjungti VPS?"
 
 msgid ""
 "VPS-Plugin couldn't check if the channel supports VPS.\n"
 " Do you want to enable VPS anyway?"
 msgstr ""
+"VPS įskiepis negali patikrinti, ar kanalas palaiko VPS.\n"
+" Ar vis tiek norite įjungti VPS?"
 
 #, python-format
 msgid "VPS Setup Version %s"
-msgstr ""
+msgstr "VPS sąrankos versija %s"
 
 msgid "Enable VPS-Plugin"
-msgstr ""
+msgstr "Įjungti VPS įskiepį"
 
 msgid "Starting time"
-msgstr ""
+msgstr "Pradedama"
 
 msgid "Wakeup from Deep-Standby is allowed"
-msgstr ""
+msgstr "Prižadinti iš gilaus budėjimo leidžiama"
 
 msgid "Seeking connected events"
-msgstr ""
+msgstr "Ieškoma susijusių įvykių"
 
 msgid "VPS enabled by default"
-msgstr ""
+msgstr "VPS įjungta - numatytasis"
 
 msgid "Enable VPS on instant records"
-msgstr ""
+msgstr "Įjungti VPS neplaniniams įrašams"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
@@ -115,36 +126,46 @@ msgid ""
 "This plugin can determine whether a programme begins earlier or lasts "
 "longer. The channel has to provide reliable data."
 msgstr ""
+"Šis įskiepis gali nustatyti, jei įvykis prasideda anksčiau, arba ilgiau "
+"užtrunka. Kanalas tam turi pateikti patikimus duomenis."
 
 msgid ""
 "If possible, x minutes before a timer starts VPS-Plugin will control whether "
 "the programme begins earlier. (0 disables feature)"
 msgstr ""
+"Jeigu galima, X minučių prieš laikmačio pradžią, VPS įskiepis patikrins, ar "
+"programa neprasideda anksčiau (0 - funkcija išjungta)"
 
 msgid "Enable VPS by default (new timers)"
-msgstr ""
+msgstr "VPS įjungta - numatytasis (naujiems laikmačiams)"
 
 msgid ""
 "If enabled and necessary, the plugin will wake up the Dreambox from Deep-"
 "Standby for the defined starting time to control whether the programme "
 "begins earlier."
 msgstr ""
+"Jeigu įjungta ir to prireikia, įskiepis įjungs aparatą iš gilaus budėjimo "
+"nurodytu metu, kad patikrinti, gal įvykis prasideda anksčiau."
 
 msgid ""
 "If a programme is interrupted and divided into separate events, the plugin "
 "will search for the connected events."
 msgstr ""
+"Jeigu įvykis nutraukiamas ir padalinamas į atskirus įvykius, įskiepis ieškos "
+"susijusių įvykių."
 
 msgid ""
 "When yes, VPS will be enabled on instant records (stop after current event), "
 "if the channel supports VPS."
 msgstr ""
+"Jeigu \"Taip\" ir kanalas palaiko VPS, VPS bus įjungtas neplaniniams įrašams "
+"(išjungiant po šio įvykio)."
 
 msgid "Really close without saving settings?"
 msgstr "Tikrai uždaryti neišsaugant nustatymų?"
 
 msgid "VPS-Plugin Information"
-msgstr ""
+msgstr "VPS informacija"
 
 msgid ""
 "VPS-Plugin can react on delays arising in the startTime or endTime of a "
@@ -177,24 +198,53 @@ msgid ""
 "start time, e.g. given in magazines. If you set a VPS-Time, you have to "
 "leave timer name empty."
 msgstr ""
+"VPS įskiepis gali reaguoti į transliacijos pradžios ir pabaigos uždelsimus. "
+"VPS yra palaikomas tik kai kurių kanalų!\n"
+"\n"
+"Įjungus VPS, įrašymas prasidės tik tada, kai kanalas pažymės įvykį jau "
+"vykstančiu.\n"
+"\n"
+"Jeigu pasirinksite \"taip (saugiu režimu)\", įrašymas tikrai prasidės bent "
+"jau nurodytu pradžios laiku. Įrašymas gali prasidėti anksčiau, ar ilgiau "
+"užtrukti.\n"
+"\n"
+"\n"
+"Palaikomi kanalai:\n"
+"\n"
+"Vokietija:\n"
+" ARD ir ZDF\n"
+"\n"
+"Austrija:\n"
+" ORF\n"
+"\n"
+"Šveicarija:\n"
+" SF\n"
+"\n"
+"Čekijos respublika:\n"
+" CT\n"
+"\n"
+"Jeigu laikmatis nustatytas rankiniu būdu (ne iš EPG), kad įjungti VPS, "
+"reikia nurodyti VPS laiką. VPS laikas (dar vadinamas PDC), tai pradžios "
+"pagal TV programą laikas. Jei nurodėte VPS laiką, laikmačio pavadinimą "
+"palikite tuščią."
 
 msgid "Elektro Power Save"
-msgstr ""
+msgstr "Elektros taupymas"
 
 msgid "Automatically shut down to deep standby"
-msgstr ""
+msgstr "Automatiškai išjungti į gilų budėjimą"
 
 msgid "Extensions menu"
-msgstr ""
+msgstr "Plėtinių meniu"
 
 msgid "Plugin menu"
-msgstr ""
+msgstr "Įskiepio meniu"
 
 msgid "yes, Profile 1"
-msgstr ""
+msgstr "taip, profilis 1"
 
 msgid "yes, Profile 2"
-msgstr ""
+msgstr "taip, profilis 2"
 
 msgid "Monday"
 msgstr "pirmadienis"
@@ -218,28 +268,31 @@ msgid "Sunday"
 msgstr "sekmadienis"
 
 msgid "no Name"
-msgstr ""
+msgstr "Be pavadinimo"
 
 msgid "Connection Error"
-msgstr ""
+msgstr "jungimosi klaida"
 
 msgid "Ver."
-msgstr ""
+msgstr "vers."
 
 msgid "Wakeup"
-msgstr ""
+msgstr "Pabusti"
 
 msgid "Sleep"
-msgstr ""
+msgstr "Budėjimas"
 
 msgid "Next day starts at"
-msgstr ""
+msgstr "Kita diena prasideda"
 
 msgid ""
 "If the box is supposed to enter deep standby e.g. monday night at 1 AM, it "
 "actually is already tuesday. To enable this anyway, differing next day start "
 "time can be specified here."
 msgstr ""
+"Jei reikia išjungti pvz. pirmadienio naktį 1 val., iš tikrųjų jau bus "
+"antradienis. Kad vis tiek leisti šį pasirinkimą, skirtingas kitos dienos "
+"pradžios laikas gali būti nurodytas čia."
 
 msgid "Ok"
 msgstr "Gerai"
@@ -248,10 +301,10 @@ msgid "IP Address"
 msgstr "IP adresas"
 
 msgid "please wait..."
-msgstr ""
+msgstr "palaukite..."
 
 msgid "NAS/Server Name or IP"
-msgstr ""
+msgstr "NAS/serverio pavadinimas, arba IP"
 
 msgid "Username"
 msgstr "Vartotojas"
@@ -260,45 +313,47 @@ msgid "Password"
 msgstr "Slaptažodis"
 
 msgid "Command [poweroff, shutdown -h,...]"
-msgstr ""
+msgstr "Komanda [poweroff, shutdown -h,...]"
 
 msgid "Telnet Port"
-msgstr ""
+msgstr "Telnet priev."
 
 msgid "Waiting until poweroff"
-msgstr ""
+msgstr "Laukiama išjungimo"
 
 msgid "Run"
-msgstr ""
+msgstr "Vykdyti"
 
 msgid "Active Time Profile"
-msgstr ""
+msgstr "Veikiantis laiko profilis"
 
 msgid "The active Time Profile is (1 or 2)."
-msgstr ""
+msgstr "Veikiantis laiko profilis yra (1 arba 2)."
 
 msgid "Enable Elektro Power Save"
-msgstr ""
+msgstr "Įjungti 'Elektro' energijos taupymą"
 
 msgid "Unless this is enabled, this plugin won't run automatically."
-msgstr ""
+msgstr "Kol čia neįjungta, įskiepis automatiškai nepasileis."
 
 msgid "Use both profiles alternately"
-msgstr ""
+msgstr "Abu profilius naudoti pakaitomis"
 
 msgid ""
 "Both profiles are used alternately. When shutting down the other profile is "
 "enabled. This allows two time cycles per day. Do not overlap the times."
 msgstr ""
+"Abu profiliai naudojami pakaitomis. Kai išjungtas vienas, kitas profilis yra "
+"įjungtas. Taip galimi du laiko ciklai per dieną. Laikai neturi persidengti."
 
 msgid "Standby on boot"
-msgstr ""
+msgstr "Startuoti budinčiame režime"
 
 msgid "Puts the box in standby mode after boot."
-msgstr ""
+msgstr "Startavus, perveda sistemą į budėjimo režimą."
 
 msgid "Standby on manual boot"
-msgstr ""
+msgstr "Įjungus rankiniu būdu, startuoti budinčiame režime"
 
 msgid ""
 "Whether to put the box in standby when booted manually. On manual boot the "
@@ -306,95 +361,114 @@ msgid ""
 "even if this option is set. This option is only active if 'Standby on boot' "
 "option is set, too."
 msgstr ""
+"Ar pereiti į budėjimo režimą, startavus rankiniu būdu? Paleidus ranka, "
+"aparatas nepereis į budėjimą, kol neateis išjungimo intervalo laikas, net "
+"jei čia įjungta. Ši parinktis veikia tik tada, jei įjungta ir 'Startuoti "
+"budinčiame režime'."
 
 msgid "Standby on boot screen timeout"
-msgstr ""
+msgstr "Lango 'Startuoti budinčiame režime' delsa"
 
 msgid ""
 "Specify how long to show the standby query on boot screen. This value can be "
 "set to ensure the box does not shut down to deep standby again too fast when "
 "in standby mode."
 msgstr ""
+"Nurodykite, kiek laiko rodyti budėjimo užklausą įkrovos ekrane. Šis dydis "
+"gali būti nustatytas, siekiant užtikrinti, kad aparatas neišsijungtų per "
+"greitai, kai veikia budėjimo režimu."
 
 msgid "Force sleep (even when not in standby)"
-msgstr ""
+msgstr "Priverstinis gilus budėjimas (ne tik iš budėjimo)"
 
 msgid ""
 "Forces deep standby, even when not in standby mode. Scheduled recordings "
 "remain unaffected."
 msgstr ""
+"Priverstinai išjungs, net jei ir ne iš budėjimo būsenos. Planiniai įrašymai "
+"lieka nepakitę."
 
 msgid "Avoid deep standby when HDD is active, e.g. for FTP"
-msgstr ""
+msgstr "Neleisti išjungti, kai HDD užimtas, pvz., naudoja FTP"
 
 msgid ""
 "Wait for the HDD to enter sleep mode. Depending on the configuration this "
 "can prevent the box entirely from entering deep standby mode."
 msgstr ""
+"Laukti, kol HDD pereis į budėjimo režimą. Priklausomai nuo konfigūracijos, "
+"tai gali visiškai neleisti pereiti į gilaus budėjimo režimą."
 
 msgid "Check IPs (press OK to edit)"
-msgstr ""
+msgstr "Tikrinkite IP (redaguoti, spauskite 'OK')"
 
 msgid ""
 "This list of IP addresses is checked. Elektro waits until addresses no "
 "longer responds to ping."
 msgstr ""
+"Tai patikrintų IP adresų sąrašas. 'Elektro' laukia, kol adresai nustos "
+"atsakinėti į ping."
 
 msgid "NAS Poweroff (press OK to edit)"
-msgstr ""
+msgstr "NAS išjungimas (redaguoti, spauskite 'OK')"
 
 msgid "A NAS/Server can be shut down. Is required activated Telnet."
-msgstr ""
+msgstr "NAS/serveris gali būti išjungtas. Tam būtinas veikiantis telnet."
 
 msgid "Don't wake up"
-msgstr ""
+msgstr "Neprabusti"
 
 msgid "Do not wake up at the end of next deep standby interval."
-msgstr ""
+msgstr "Neprabusti kito gilaus budėjimo intervalo pabaigoje."
 
 msgid "Holiday mode (experimental)"
-msgstr ""
+msgstr "Atostogų režimas (eksperimentinis)"
 
 msgid "The box always enters deep standby mode, except for recording."
-msgstr ""
+msgstr "Aparatas visada pereina į gilaus budėjimo režimą, jei nebus įrašymų."
 
 msgid "Show in"
-msgstr ""
+msgstr "Rodyti"
 
 msgid ""
 "Specify whether plugin shall show up in plugin menu or extensions menu "
 "(needs GUI restart)"
 msgstr ""
+"Pasirinkite, kur bus rodomas įskiepis -įskiepių, ar plėtinių meniu (reikės "
+"grafinę aplinką paleisti iš naujo)."
 
 msgid "Name"
 msgstr "Pavadinimas"
 
 msgid "Specify plugin name to be used in menu (needs GUI restart)."
 msgstr ""
+"Nurodykite įskiepio pavadinimą, kurį matysite meniu (reikės grafinę aplinką "
+"paleisti iš naujo)."
 
 msgid "Description"
 msgstr "Aprašymas"
 
 msgid "Specify plugin description to be used in menu (needs GUI restart)."
 msgstr ""
+"Nurodykite įskiepio aprašymą, kurį matysite meniu (reikės grafinę aplinką "
+"paleisti iš naujo)."
 
 msgid "Help"
 msgstr "Pagalba"
 
 msgid "Times"
-msgstr ""
+msgstr "Kartai"
 
 msgid "Showing Elektro readme.txt"
-msgstr ""
+msgstr "Rodoma 'Elektro' readme.txt"
 
 msgid "readme.txt"
-msgstr ""
+msgstr "readmede.txt"
 
 msgid "Go to Standby now?"
-msgstr ""
+msgstr "Įjungti budėjimo režimą?"
 
 msgid "Go to sleep now?"
-msgstr ""
+msgstr "Įjungti gilaus budėjimo režimą?"
 
 msgid ""
 "\n"
@@ -14597,20 +14671,17 @@ msgstr "Nežinoma funkcija: '%s'"
 msgid "List of Timers has been cleaned"
 msgstr "Laikmačių sąrašas išvalytas"
 
-#: src/WebComponents/Sources/Timer.py:79
-#: src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398
-#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
+#: src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Trūksta parametro: sRef"
 
-#: src/WebComponents/Sources/Timer.py:84
-#: src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Trūksta parametro: pradžia"
 
-#: src/WebComponents/Sources/Timer.py:89
-#: src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Trūksta parametro: pabaiga"
 
@@ -14737,8 +14808,7 @@ msgstr "Pašalinti '%s' įrašo nepavyko."
 msgid "Movie '%s' deleted"
 msgstr "Įrašas '%s' pašalintas"
 
-#: src/WebComponents/Sources/Movie.py:61
-#: src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Neteisinga parametro 'sRef' reikšmė: '%s'"
@@ -20145,29 +20215,24 @@ msgstr "Vu+ %s įv.kontrolė"
 msgid "set Vu+ %s LNB Power and etc.."
 msgstr "nustatyti Vu+ %s LNB įtampą ir kt."
 
-#
 msgid "Scanning bluetooth devices"
-msgstr ""
+msgstr "Nuskaitomi Bluetooth įrenginiai"
 
-#
 msgid "Scanning BLE bluetooth devices"
-msgstr ""
+msgstr "Nuskaitomi Bluetooth (low energy) įrenginiai"
 
-#
 msgid "Start scan"
-msgstr ""
+msgstr "Pradėti paiešką"
 
 #
 msgid "Press green key to connect device."
-msgstr ""
+msgstr "Kad pajungti įrenginį, paspauskite 'ŽALIĄ' mygtuką."
 
-#
 msgid "No nearby bluetooth devices were found."
-msgstr ""
+msgstr "Netoliese Bluetooth įrenginių nerasta."
 
-#
 msgid "%s is connected."
-msgstr ""
+msgstr "%s pajungta."
 
 msgid "Pairing fail"
 msgstr "Siejimas nepavyko"
@@ -20410,43 +20475,43 @@ msgid "System services"
 msgstr "redaguoti kanalus"
 
 msgid "Debug options"
-msgstr ""
+msgstr "Klaidų šalinimas"
 
 msgid "Software packages"
-msgstr ""
+msgstr "Programinės įrangos paketai"
 
 msgid "SecondInfoBar"
-msgstr ""
+msgstr "Antroji infojuosta"
 
 msgid "Common"
-msgstr ""
+msgstr "Bendra"
 
 msgid "Creating Timers"
-msgstr ""
+msgstr "Laikmačio kūrimas"
 
 msgid "Buttons"
-msgstr ""
+msgstr "Mygtukai"
 
 msgid "Timer List"
-msgstr ""
+msgstr "Laikmačių sąrašas"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Pranešimai"
 
 msgid "GUI Setup"
-msgstr ""
+msgstr "Sąranka"
 
 msgid "Movie playback"
-msgstr ""
+msgstr "Atkūrimas"
 
 msgid "Begin / End of playback"
-msgstr ""
+msgstr "Atkūrimo pradžia / pabaiga"
 
 msgid "Advertisment detection"
-msgstr ""
+msgstr "Reklamų aptikimas"
 
 msgid "Setup - Buttons"
-msgstr ""
+msgstr "Sąranka - mygtukai"
 
 msgid "Buttons setup"
-msgstr ""
+msgstr "Mygtukų sąranka"
