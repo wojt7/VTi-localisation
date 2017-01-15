@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-01-14 22:05+0100\n"
+"PO-Revision-Date: 2017-01-15 16:39+0100\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: Benny.DeTandt@gmail.com\n"
 "Language: nl\n"
@@ -351,7 +351,7 @@ msgid ""
 "Forces deep standby, even when not in standby mode. Scheduled recordings "
 "remain unaffected."
 msgstr ""
-"Forceert de deep standby, zelfs indien niet in standby.  Geplande opnames "
+"Forceert de deep standby, zelfs indien niet in standby. Geplande opnames "
 "worden uitgevoerd."
 
 msgid "Avoid deep standby when HDD is active, e.g. for FTP"
@@ -361,7 +361,7 @@ msgid ""
 "Wait for the HDD to enter sleep mode. Depending on the configuration this "
 "can prevent the box entirely from entering deep standby mode."
 msgstr ""
-"Wachten tot de HDD in slaap mode gaat.  Afhankelijk van de configuratie kan "
+"Wachten tot de HDD in slaap mode gaat. Afhankelijk van de configuratie kan "
 "dit voorkomen dat de box in deep standby gaat."
 
 msgid "Check IPs (press OK to edit)"
@@ -371,7 +371,7 @@ msgid ""
 "This list of IP addresses is checked. Elektro waits until addresses no "
 "longer responds to ping."
 msgstr ""
-"Deze lijst van IP adressen wordt gecontrolleerd.  Elektro wacht tot de "
+"Deze lijst van IP adressen wordt gecontroleerd. Elektro wacht tot de "
 "adressen niet meer reageren op een ping."
 
 msgid "NAS Poweroff (press OK to edit)"
@@ -1503,9 +1503,7 @@ msgstr "Slaaptimer actie bevestigen:"
 
 #
 msgid "Ask for deleting files after canceling timers"
-msgstr ""
-"Vraag voor akkoord voor het wissen van bestanden wanneer timers worden "
-"geannuleerd"
+msgstr "Vraag voor verwijderen bestanden na afbreken timers"
 
 #
 msgid "Ask user"
@@ -2103,7 +2101,7 @@ msgstr "Beeldinstelling"
 
 #
 msgid "Colorize movie list"
-msgstr "Gekleurde film lijst"
+msgstr "Gekleurde opnamelijst"
 
 #
 msgid "Command execution..."
@@ -2447,7 +2445,7 @@ msgstr "Standaard"
 
 #
 msgid "Default EPG view (EPG button)"
-msgstr "Syandaard EPG weergave (EPG knop)"
+msgstr "Standaard EPG weergave (EPG knop)"
 
 #
 msgid "Default Settings"
@@ -2841,7 +2839,7 @@ msgid ""
 "Do you want to use VTi BackupSuite to restore your settings, plugins or "
 "favourite bouquets ?"
 msgstr ""
-"Wilt u  VTi BackupSuite  gebruiken om uw instellingen, plugins en favorieten "
+"Wilt u  VTi BackupSuite gebruiken om uw instellingen, plugins en favorieten "
 "te herstellen?"
 
 #
@@ -4391,7 +4389,7 @@ msgstr "Marge voor opname (minuten)"
 
 #
 msgid "Mark movie as seen after X %"
-msgstr ""
+msgstr "Markeer opname als bekeken na X %"
 
 #
 msgid "Mark recording services in service list"
@@ -5631,7 +5629,7 @@ msgstr "Portugees"
 
 #
 msgid "Position of finished Timers in Timerlist"
-msgstr "Positie van voltooide timers in timerlijst"
+msgstr "Positie van voltooide timers in timer lijst"
 
 #
 msgid "Positioner"
@@ -6016,7 +6014,7 @@ msgstr "De momenteel geselecteerde titel verwijderen"
 
 #
 msgid "Remove finished timers from timer list"
-msgstr ""
+msgstr "Verwijder voltooide timers van timer lijst"
 
 #
 msgid "Remove finished."
@@ -6315,7 +6313,7 @@ msgstr "Opslaan"
 
 #
 msgid "Save EPG for X days in future"
-msgstr ""
+msgstr "EPG opslaan iedere X dagen"
 
 #
 msgid "Save Playlist"
@@ -6748,7 +6746,7 @@ msgstr "Instellingen - Systeem"
 
 #
 msgid "Setup - TV / Radio"
-msgstr "Instellingen - Tv / Radio"
+msgstr "Instellingen - TV / Radio"
 
 #
 msgid "Setup - User Interface"
@@ -6805,7 +6803,7 @@ msgstr "Toon ECM info"
 
 #
 msgid "Show EPG data in single EPG list older than"
-msgstr ""
+msgstr "EPG gegevens weergeven in single EPG lijst ouder dan"
 
 #
 msgid "Show Info"
@@ -6817,7 +6815,7 @@ msgstr "Toon bericht wanneer opname begint"
 
 #
 msgid "Show Now/Next EIT EPG at InfoBar"
-msgstr ""
+msgstr "Toon EIT EPG nu/straks in informatiebalk"
 
 #
 msgid "Show WLAN Status"
@@ -6829,11 +6827,11 @@ msgstr "Knipperende klok gedurende opname"
 
 #
 msgid "Show blinking rec symbol in VFD during recording"
-msgstr ""
+msgstr "Toon knipperend rec symbool in het LCD scherm tijdens opnemen"
 
 #
 msgid "Show directories in movie list"
-msgstr ""
+msgstr "Toon mappen in opnamelijst"
 
 #
 msgid "Show event progress in % in service list"
@@ -6841,23 +6839,23 @@ msgstr "Toon programma voortgang in % in zenderlijst"
 
 #
 msgid "Show event time in service list"
-msgstr "Toon programma tijk in zenderlijst"
+msgstr "Toon programma tijd in zenderlijst"
 
 #
 msgid "Show event-progress in channel selection"
-msgstr "Toon event-vooruitgang in zender keuze"
+msgstr "Toon programma voortgang in zenderlijst"
 
 #
 msgid "Show icons in movie list"
-msgstr ""
+msgstr "Toon iconen in opnamelijst"
 
 #
 msgid "Show icons in timer list"
-msgstr ""
+msgstr "Toon iconen in timer lijst"
 
 #
 msgid "Show infobar on channel change"
-msgstr "Infobalk zichtbaar na zenderwissel"
+msgstr "Infobalk weergeven na zenderwissel"
 
 #
 msgid "Show infobar on event change"
@@ -6865,7 +6863,7 @@ msgstr "Infobalk weergeven bij EPG update"
 
 #
 msgid "Show infobar on skip forward/backward"
-msgstr "Infobalk zichtbaar na overslaan, vooruit/achteruit"
+msgstr "Infobalk weergeven na overslaan, vooruit/achteruit"
 
 #
 msgid "Show menu entries arranged in alphabetical order"
@@ -6893,7 +6891,7 @@ msgstr "Rotor bewegingen zichtbaar"
 
 #
 msgid "Show progress in movie list"
-msgstr ""
+msgstr "Toon voortgang in opnamelijst"
 
 #
 msgid "Show service list at TV / Radio mode switch"
@@ -6909,7 +6907,7 @@ msgstr "Toon zender nummer in zenderlijst"
 
 #
 msgid "Show service type icons in service list"
-msgstr "Toon zender soort iconen in zenderlijst"
+msgstr "Toon zender type iconen in zenderlijst"
 
 #
 msgid "Show services beginning with"
@@ -7193,7 +7191,7 @@ msgstr "Startpagina"
 
 #
 msgid "Start folder for movie list"
-msgstr ""
+msgstr "Start map voor opnamelijst"
 
 #
 msgid "Start from the beginning"
@@ -7269,7 +7267,7 @@ msgstr "Stop huidige opnames..."
 
 #
 msgid "Stop fast forwarding at end of movie"
-msgstr ""
+msgstr "Stop snel vooruit spoelen aan opname einde"
 
 #
 msgid "Stop playing this movie?"
@@ -8317,11 +8315,11 @@ msgstr ""
 
 #
 msgid "Use EIT EPG"
-msgstr ""
+msgstr "Gebruik EIT EPG"
 
 #
 msgid "Use EXIT-Button to leave movie player"
-msgstr "Gebruik EXIT knop om movie player te verlaten"
+msgstr "Gebruik EXIT knop om opnamespeler te verlaten"
 
 #
 msgid "Use Fan timer"
@@ -8341,7 +8339,7 @@ msgstr ""
 
 #
 msgid "Use PiP at EPGBar"
-msgstr ""
+msgstr "Gebruik PiP op EPGBar"
 
 #
 msgid "Use PictureInGraphic (PiG)"
@@ -8377,7 +8375,7 @@ msgstr "Meet stroomopname"
 
 #
 msgid "Use silent recording mode"
-msgstr ""
+msgstr "Gebruik stille opname modus"
 
 #
 msgid "Use startup service for leaving standby"
@@ -10658,7 +10656,7 @@ msgstr "Gebruik voorbeeld modus in zenderlijst (2x OK modus)"
 
 #
 msgid "Show EPG data in timer list"
-msgstr ""
+msgstr "Toon EPG gegevens in timer lijst"
 
 #
 msgid "create folder"
@@ -10810,27 +10808,27 @@ msgstr "Picons aanpassen aan skin grootte"
 
 #
 msgid "Show duration in minutes in movie list"
-msgstr ""
+msgstr "Toon duur in minuten in opnamelijst"
 
 #
 msgid "Show picons in movie list (VTi list style)"
-msgstr ""
+msgstr "Toon picons in opnamelijst (VTi lijst stijl)"
 
 #
 msgid "Show duration in movie list (VTi list style)"
-msgstr ""
+msgstr "Toon duur in minuten in opnamelijst (VTi lijst stijl)"
 
 #
 msgid "Use only date for record time in movie list (VTi list style)"
-msgstr ""
+msgstr "Gebruik enkel datum voor opnametijd in opnamelijst (VTi lijst stijl)"
 
 #
 msgid "Show channel info in movie list (VTi list style)"
-msgstr ""
+msgstr "Toon zender informatie in opnamelijst (VTi lijst stijl)"
 
 #
 msgid "Show recording date in movie list (VTi list style)"
-msgstr ""
+msgstr "Toon opname datum in opnamelijst (VTi lijst stijl)"
 
 #
 msgid "Search for updates every X hours ( 0 = off )"
@@ -10838,7 +10836,7 @@ msgstr "Zoek naar update elke X uur ( 0 = uit)"
 
 #
 msgid "Append begin date at end of recording file name"
-msgstr ""
+msgstr "Begindatum toevoegen aan het einde van de opname bestandsnaam"
 
 #
 msgid "Protect main menu"
@@ -10894,7 +10892,7 @@ msgstr ""
 
 #
 msgid "Delete movies without confirmation"
-msgstr ""
+msgstr "Verwijder opnames zonder bevestiging"
 
 #
 msgid "show more movie list options"
@@ -10928,7 +10926,7 @@ msgstr ""
 
 #
 msgid "Show file size in movie list (VTi list style)"
-msgstr ""
+msgstr "Toon bestandsgrootte in opnamelijst (VTi lijst stijl)"
 
 #
 msgid "Show notification when update is available"
@@ -11016,7 +11014,7 @@ msgstr ""
 
 #
 msgid "Show movie cover"
-msgstr ""
+msgstr "Toon opname hoesje"
 
 #
 msgid "Down"
@@ -11060,7 +11058,7 @@ msgstr ""
 
 #
 msgid "Show last stop time in movie list"
-msgstr ""
+msgstr "Toon laatste stop tijd in opnamelijst"
 
 #
 msgid "start last played movie"
@@ -11072,23 +11070,23 @@ msgstr ""
 
 #
 msgid "Resume movies which are marked as seen"
-msgstr ""
+msgstr "Opnames voortzetten die gemarkeerd zijn als bekeken"
 
 #
 msgid "Activate Split Screen"
-msgstr "Activeer gedeeld scherm"
+msgstr "Activeer Split Screen"
 
 #
 msgid "Deactivate Split Screen"
-msgstr "Deactiveer gedeeld scherm"
+msgstr "Deactiveer Split Screen"
 
 #
 msgid "(de)activate Split Screen..."
-msgstr "(De)activeer gedeeld scherm..."
+msgstr "(De)activeer Split Screen..."
 
 #
 msgid "Show infobar on channel change at split screen"
-msgstr "Infobalk zichtbaar bij zenderwissel met gedeeld scherm"
+msgstr "Infobalk weergeven bij zenderwissel met Split Screen"
 
 #
 msgid "Default function for button EXIT long"
@@ -11120,7 +11118,7 @@ msgstr ""
 
 #
 msgid "Start last service when returning to movie list (PiG)"
-msgstr ""
+msgstr "Start laatste zender bij terugkeer naar opnamelijst (PiG)"
 
 #
 msgid "Toggle zap focus (PiP, Split Screen, Audio Zap)"
@@ -11242,11 +11240,11 @@ msgstr ""
 
 #
 msgid "Show movie trash folder in movie list"
-msgstr ""
+msgstr "Toon prullenbak map in opnamelijst"
 
 #
 msgid "Use movie trash for deleting files"
-msgstr ""
+msgstr "Gebruik opname prullenbak voor verwijderde bestanden"
 
 #
 msgid ""
@@ -11527,7 +11525,7 @@ msgstr "Zap historie"
 
 #
 msgid "Use folder based configuration (list / sort type)"
-msgstr ""
+msgstr "Gebruik map gebaseerde configuratie (lijst / sorteer type)"
 
 #
 msgid "Protect movies and directories"
@@ -11811,15 +11809,15 @@ msgstr "SmartSeek inschakelen (knop omhoog en omlaag)"
 
 #
 msgid "Set marker at SmartSeek start and end position"
-msgstr ""
+msgstr "Markering invoegen bij SmartSeek start en eind positie"
 
 #
 msgid "Initial SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Aanvankelijke SmartSeek tijd interval (seconden)"
 
 #
 msgid "Timeout for SmartSeek in seconds"
-msgstr ""
+msgstr "Timeout voor SmartSeek in seconden"
 
 #
 msgid "SmartSeek: skip forward..."
@@ -11839,11 +11837,11 @@ msgstr ""
 
 #
 msgid "Mark recordings as new for X days (0=off)"
-msgstr ""
+msgstr "Markeer opnames als nieuw voor X dagen (0=uit)"
 
 #
 msgid "Location for info file"
-msgstr ""
+msgstr "Info bestand locatie"
 
 #
 msgid "Recordings of last %d days"
@@ -11851,7 +11849,7 @@ msgstr ""
 
 #
 msgid "Mark only unseen recordings as new"
-msgstr ""
+msgstr "Markeer enkel onbekeken opnames als nieuw"
 
 #
 msgid "Unseen recordings of last %d days"
@@ -11891,7 +11889,7 @@ msgstr "HDMI kleurruimte"
 
 #
 msgid "Minimum SmartSeek time intervall (seconds)"
-msgstr ""
+msgstr "Minimale SmartSeek tijd interval (seconden)"
 
 #
 msgid "Add bouquet services"
@@ -11903,7 +11901,7 @@ msgstr "CI toewijzingen gebruiken voor detectie beschikbare zenders"
 
 #
 msgid "Constant SmartSeek skip intervall in seconds (left/right)"
-msgstr ""
+msgstr "Constante SmartSeek verspring interval in seconden (links/rechts)"
 
 #
 msgid "Remap left/right to SmartSeek constant skip intervall"
@@ -11911,23 +11909,23 @@ msgstr ""
 
 #
 msgid "Show info for folder"
-msgstr ""
+msgstr "Toon informatie voor map"
 
 #
 msgid "Show new movies in folder info"
-msgstr ""
+msgstr "Toon nieuwe opnames in map informatie"
 
 #
 msgid "Show sub directories in folder info"
-msgstr ""
+msgstr "Toon onderliggende mappen in map info"
 
 #
 msgid "Show folder info at the beginning"
-msgstr ""
+msgstr "Toon map info aan het begin"
 
 #
 msgid "All movies"
-msgstr ""
+msgstr "Alle opnames"
 
 #
 msgid "Show CI messages"
@@ -11935,15 +11933,15 @@ msgstr "Toon CI berichten"
 
 #
 msgid "Show only new movies in folder info"
-msgstr ""
+msgstr "Toon enkel nieuwe opnames in map informatie"
 
 #
 msgid "Sort folders by new items"
-msgstr ""
+msgstr "Sorteer mappen naar nieuwe items"
 
 #
 msgid "Behavior when Live TV event changes during timeshift"
-msgstr ""
+msgstr "Actie wanneer een Live TV programma veranderd tijdens timeshift"
 
 #
 msgid "Ask before stopping timeshift"
@@ -11951,7 +11949,7 @@ msgstr ""
 
 #
 msgid "Start timeshift automatically after given time"
-msgstr ""
+msgstr "Timeshift automatisch starten na bepaalde tijd"
 
 #
 msgid "1 second"
@@ -12063,11 +12061,11 @@ msgstr ""
 
 #
 msgid "Behavior when a service changes during timeshift"
-msgstr ""
+msgstr "Actie wanneer een zender veranderd tijdens timeshift"
 
 #
 msgid "Delete timeshift files older than X days"
-msgstr ""
+msgstr "Verwijder timeshift bestanden ouder als X dagen"
 
 #
 msgid "Search for old timeshift files every X hours (0 = off)"
@@ -12143,11 +12141,11 @@ msgstr "Gebruik vorige/volgende knoppen voor wisselen timeshift programma's"
 
 #
 msgid "Avoid simultaneous timer starts"
-msgstr ""
+msgstr "Verhinder gelijktijdige timer starts"
 
 #
 msgid "Please select timeshift file"
-msgstr ""
+msgstr "Selecteer timeshift bestand"
 
 #
 msgid "Transform old timeshift event into recording"
@@ -12155,23 +12153,23 @@ msgstr ""
 
 #
 msgid "Hide timeshift files in movie list"
-msgstr ""
+msgstr "Verberg timeshift bestanden in opnamelijst"
 
 #
 msgid "Current timeshift"
-msgstr ""
+msgstr "Huidige timeshift"
 
 #
 msgid "Show old timeshift events"
-msgstr ""
+msgstr "Toon oude timeshift programma's"
 
 #
 msgid "Do not save timeshift events shorter than X minutes"
-msgstr ""
+msgstr "Timeshift programma's niet opslaan wanneer korter als X minuten"
 
 #
 msgid "Zap Up/Down"
-msgstr ""
+msgstr "Zap omhoog/omlaag"
 
 #
 msgid "History Prev/Next"
@@ -12191,7 +12189,7 @@ msgstr ""
 
 #
 msgid "priority"
-msgstr ""
+msgstr "Prioriteit"
 
 #
 msgid "Disable FastChannelChange"
@@ -12499,7 +12497,7 @@ msgstr "Toon voorbeeld afbeeldingen in zenderlijst"
 
 #
 msgid "Time in minutes before preview pictures will be updated"
-msgstr "Tijn in minuten voor voorbeeld afbeeldingen worden geupdate"
+msgstr "Tijd in minuten voordat voorbeeld afbeeldingen worden ververst"
 
 #
 msgid "Include configuration file in crash log"
@@ -12815,7 +12813,7 @@ msgstr ""
 
 #
 msgid "Select a file to execute"
-msgstr "Selecteer een  bestanden om uit te voeren. "
+msgstr "Selecteer een bestanden om uit te voeren. "
 
 #
 msgid "File is not executable"
@@ -13143,7 +13141,7 @@ msgstr ""
 
 #
 msgid "(De)/Activate SplitScreen"
-msgstr "(De)activeer gedeeld scherm"
+msgstr "(De)activeer Split Screen"
 
 #
 msgid "(De)/Activate AudioZap"
@@ -13776,7 +13774,7 @@ msgid "Disable inactivity action for given interval:"
 msgstr ""
 
 msgid "Common configuration"
-msgstr ""
+msgstr "Algemene configuratie"
 
 msgid "Disable power off in EPGRefresh interval:"
 msgstr ""
@@ -14183,7 +14181,7 @@ msgstr "Systeem Gereedschap"
 
 #
 msgid "Cam Center"
-msgstr "Cam Center"
+msgstr "Cam centrum"
 
 #
 msgid "VTI Panel"
@@ -14251,7 +14249,7 @@ msgstr "Herstel en Backup geïnstalleerde zenderlijsten en plugins"
 
 #
 msgid "Image Backup / Restore"
-msgstr ""
+msgstr "Image Backup / Herstel"
 
 #
 msgid "backup or flash an image"
@@ -15585,7 +15583,7 @@ msgstr ""
 
 #
 msgid "Save EPG data every X minutes to file (0 = off)"
-msgstr ""
+msgstr "EPG gegevens iedere X minuten opslaan naar bestand (0 = uit)"
 
 #
 msgid "Enable EPG client mode (don't save EPG file)"
@@ -16609,7 +16607,7 @@ msgstr ""
 
 #
 msgid "Connecting to FRITZ!Box..."
-msgstr "Aan het verbinden met  FRITZ!Box"
+msgstr "Aan het verbinden met FRITZ!Box"
 
 #
 #, python-format
@@ -16618,7 +16616,7 @@ msgid ""
 " (%s)\n"
 "retrying..."
 msgstr ""
-"Verbinding met  FRITZ!Box verbroken\n"
+"Verbinding met FRITZ!Box verbroken\n"
 " (%s)\n"
 "probeert opnieuw"
 
@@ -24408,43 +24406,43 @@ msgstr ""
 
 #
 msgid "First audio language"
-msgstr ""
+msgstr "Eerste audio taal"
 
 #
 msgid "Second audio language"
-msgstr ""
+msgstr "Tweede audio taal"
 
 #
 msgid "Third audio language"
-msgstr ""
+msgstr "Derde audio taal"
 
 #
 msgid "Fourth audio language"
-msgstr ""
+msgstr "Vierde audio taal"
 
 #
 msgid "Use selected audio track stored per service"
-msgstr ""
+msgstr "Gebruik gekozen audiospoor zoals opgeslagen per zender"
 
 #
 msgid "First subtitle language"
-msgstr ""
+msgstr "Eerste ondertitel taal"
 
 #
 msgid "Second subtitle language"
-msgstr ""
+msgstr "Tweede ondertitel taal"
 
 #
 msgid "Third subtitle language"
-msgstr ""
+msgstr "Derde ondertitel taal"
 
 #
 msgid "Fourth subtitle language"
-msgstr ""
+msgstr "Vierde ondertitel taal"
 
 #
 msgid "Allow subtiles with same language as audio language"
-msgstr ""
+msgstr "Ondertitels met zelfde taal als audio taal toestaan"
 
 #
 msgid "Allow auto select hearing impaired subtitles"
@@ -24456,15 +24454,15 @@ msgstr ""
 
 #
 msgid "Prefer DVB subtitles"
-msgstr ""
+msgstr "Voorkeur voor DVB ondertitels"
 
 #
 msgid "Use selected subtitle track stored per service"
-msgstr ""
+msgstr "Gebruik gekozen ondertitels zoals opgeslagen per zender"
 
 #
 msgid "Setup - Audio/Subtitle tracks"
-msgstr "Instellingen - Audio/Ondertitels"
+msgstr "Instellingen - Audio/ondertitels"
 
 #
 msgid "HDMI Colordepth"
@@ -24488,7 +24486,7 @@ msgstr "HDMI IN toevoegen aan favorieten"
 
 #
 msgid "Ask for timer type when Autotimer is installed"
-msgstr ""
+msgstr "Vraag naar het type timer wanneer AutoTimer is geïnstalleerd"
 
 #
 msgid "Enable HbbTV for streaming services"
@@ -24676,19 +24674,19 @@ msgstr "Animatie focus inschakelen"
 
 #
 msgid "Minimum amount of items before grouping"
-msgstr ""
+msgstr "Minimum aantal voordat items worden groepeert"
 
 #
 msgid "Seperator for grouping items"
-msgstr ""
+msgstr "Afscheider voor groepeerde items"
 
 #
 msgid "Group items in folders by title"
-msgstr ""
+msgstr "Groepeer items in mappen naar titel"
 
 #
 msgid "Sort grouped folders like default items"
-msgstr ""
+msgstr "Sorteer groepeerde mappen als standaard items"
 
 msgid "VTI HDMI-CEC Configuration"
 msgstr "VTI HDMI-CEC instellingen"
@@ -24831,10 +24829,10 @@ msgid "SecondInfoBar"
 msgstr "2de informatiebalk"
 
 msgid "Common"
-msgstr ""
+msgstr "Algemeen"
 
 msgid "Creating Timers"
-msgstr ""
+msgstr "Creëren Timers"
 
 msgid "Buttons"
 msgstr "Knoppen"
@@ -24849,10 +24847,10 @@ msgid "GUI Setup"
 msgstr "GUI instellingen"
 
 msgid "Movie playback"
-msgstr ""
+msgstr "Opname afspelen"
 
 msgid "Begin / End of playback"
-msgstr ""
+msgstr "Begin / einde van afspelen"
 
 msgid "Advertisment detection"
 msgstr "Reclame detectie"
