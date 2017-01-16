@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-01-15 16:39+0100\n"
+"PO-Revision-Date: 2017-01-16 16:29+0100\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: Benny.DeTandt@gmail.com\n"
 "Language: nl\n"
@@ -66,7 +66,7 @@ msgid ""
 msgstr ""
 
 msgid "Yes, don't ask again"
-msgstr ""
+msgstr "Ja, en vraag me niet nogmaals"
 
 msgid ""
 "VPS-Plugin couldn't check if the selected channel supports VPS.\n"
@@ -88,7 +88,7 @@ msgid "VPS Setup Version %s"
 msgstr ""
 
 msgid "Enable VPS-Plugin"
-msgstr ""
+msgstr "VPS-Plugin inschakelen"
 
 msgid "Starting time"
 msgstr "Start tijd"
@@ -1190,7 +1190,7 @@ msgstr "A/V-Receiver inschakelen:"
 
 #
 msgid "A/V-Receiver toggle mute:"
-msgstr ""
+msgstr "A/V-Receiver volume uitschakelen:"
 
 #
 msgid "A/V-Receiver volume down:"
@@ -1364,6 +1364,8 @@ msgid ""
 "After the start wizard is completed, you need to protect single services. "
 "Refer to your STB's manual on how to do that."
 msgstr ""
+"Nadat de start-wizard is voltooid, moet u individuele services beschermen. "
+"Raadpleeg uw STB's handleiding om hoe dit te doen."
 
 #
 msgid "Agree"
@@ -1651,7 +1653,7 @@ msgstr "Bandbreedte"
 
 #
 msgid "Beacon (15~65535)"
-msgstr ""
+msgstr "Beacon (15~65535)"
 
 #
 msgid "Begin time"
@@ -1740,7 +1742,7 @@ msgstr "Browser Start/Stop"
 
 #
 msgid "BrowserMain"
-msgstr ""
+msgstr "Browser "
 
 #
 msgid "Burn DVD"
@@ -1768,7 +1770,7 @@ msgstr ""
 
 #
 msgid "Bypass HDMI EDID Check"
-msgstr "HDMI EDID check overslaan"
+msgstr "HDMI EDID controle overslaan"
 
 #
 msgid "C"
@@ -1858,7 +1860,7 @@ msgstr ""
 
 #
 msgid "Can't cancel during upgrade!!"
-msgstr ""
+msgstr "Kan tijdens de upgrade niet annuleren!"
 
 #
 msgid ""
@@ -1876,7 +1878,7 @@ msgstr ""
 
 #
 msgid "Can't find /usr/bin/md5sum"
-msgstr ""
+msgstr "Kan  /usr/bin/md5sum niet vinden"
 
 #
 msgid "Can't found MD5 file."
@@ -1884,11 +1886,11 @@ msgstr "Kan MD5 bestand niet vinden"
 
 #
 msgid "Can't found binary file."
-msgstr ""
+msgstr "Kan binary bestand niet vinden."
 
 #
 msgid "Can't found device file!!"
-msgstr ""
+msgstr "Kan apparaat bestand niet vinden!!"
 
 #
 msgid "Can't found model name."
@@ -1899,6 +1901,8 @@ msgid ""
 "Can't open selected bookmark.\n"
 "   - URL data is empty!!"
 msgstr ""
+"Kan geselecteerde bladwijzer niet openen.\n"
+"   - URL is leeg!!"
 
 #
 #, python-format
@@ -2337,7 +2341,7 @@ msgstr "Huidige waarde: "
 
 #
 msgid "Currentpage(Bookmark)"
-msgstr ""
+msgstr "Huidige pagina (bladwijzer)"
 
 #
 msgid "Custom skip time for '1'/'3'-keys"
@@ -2531,7 +2535,7 @@ msgstr "Apparaat niet gevonden."
 
 #
 msgid "DeviceList Refresh Interval"
-msgstr ""
+msgstr "Apparaat lijst ververs tijd"
 
 #
 msgid "DeviceManager"
@@ -3005,7 +3009,7 @@ msgstr "Aan"
 
 #
 msgid "Enable 128 bit (Input 26 hex keys)"
-msgstr ""
+msgstr "Schakel 128 bit in (invoer 26 hex keys)"
 
 #
 msgid "Enable 5V for active antenna"
@@ -3013,7 +3017,7 @@ msgstr "5V voor actieve antenne inschakelen"
 
 #
 msgid "Enable 64 bit (Input 10 hex keys)"
-msgstr ""
+msgstr "Schakel 64 bit in (invoer 10 hex keys)"
 
 #
 msgid "Enable Autostart for DLNA Server"
@@ -3113,7 +3117,7 @@ msgstr ""
 
 #
 msgid "Enter Key"
-msgstr ""
+msgstr "Enter toets"
 
 #
 msgid "Enter main menu..."
@@ -3129,7 +3133,7 @@ msgstr "Voer de zender pincode in"
 
 #
 msgid "Enter your input data"
-msgstr ""
+msgstr "Geef data in"
 
 #
 msgid "Error"
@@ -3154,6 +3158,8 @@ msgid ""
 "Error[%d] : %s.\n"
 "Press OK to exit."
 msgstr ""
+"Fout [%d] : %s.\n"
+"Druk op OK om af te sluiten."
 
 #
 msgid "Estonian"
@@ -3165,7 +3171,7 @@ msgstr "Ethernet netwerk interface"
 
 #
 msgid "Event Description"
-msgstr ""
+msgstr "Programma omschrijving"
 
 #
 msgid "Eventview"
@@ -3257,11 +3263,11 @@ msgstr "FEC"
 
 #
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
-msgstr ""
+msgstr "BESTAND BESTAAT NIET: /proc/stb/fp/remote_code"
 
 #
 msgid "FLASH IS BROKEN"
-msgstr ""
+msgstr "FLASH IS DEFECT"
 
 #
 msgid "FPGA"
@@ -3273,7 +3279,7 @@ msgstr "FPGA Upgrade"
 
 #
 msgid "FRAGM Threshold (256~2346)"
-msgstr ""
+msgstr "FRAGM drempelwaarde (256~2346)"
 
 #
 msgid "FTP"
@@ -3812,7 +3818,7 @@ msgstr ""
 
 #
 msgid "Ignore Broadcast SSID"
-msgstr ""
+msgstr "Negeer omroep SSID"
 
 #
 msgid "Image"
@@ -3989,7 +3995,7 @@ msgstr "Ongeldige keuze"
 
 #
 msgid "Invalid Fragm Threshold\n"
-msgstr ""
+msgstr "Ongeldige Fragm drempelwaarde\n"
 
 #
 msgid "Invalid Location"
@@ -3997,7 +4003,7 @@ msgstr "Ongeldige locatie"
 
 #
 msgid "Invalid RTS Threshold\n"
-msgstr ""
+msgstr "Ongeldige RTS drempelwaarde\n"
 
 #
 msgid "Invalid SSID\n"
@@ -4008,6 +4014,8 @@ msgid ""
 "Invalid URL!!(Empty)\n"
 "Please, Input to the URL."
 msgstr ""
+"Ongeldige URL!!(Leeg)\n"
+"Geef de URL in."
 
 #
 msgid "Invalid URL. Please check again!!"
@@ -4097,11 +4105,11 @@ msgstr ""
 
 #
 msgid "KEY (8~63 Characters)"
-msgstr ""
+msgstr "KNOP (8~63 karakters)"
 
 #
 msgid "Keep"
-msgstr ""
+msgstr "Behoud"
 
 #
 msgid "Key Type"
@@ -4117,7 +4125,7 @@ msgstr "Toetsenbord"
 
 #
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Toetsenbord indeling"
 
 #
 msgid "Keyboard Map"
@@ -4597,7 +4605,7 @@ msgstr "Multisat"
 
 #
 msgid "Music Directory"
-msgstr ""
+msgstr "Muziek map"
 
 #
 msgid "Mute"
@@ -4631,7 +4639,7 @@ msgstr "NTSC"
 
 #
 msgid "Name :"
-msgstr ""
+msgstr "Naam :"
 
 #
 msgid "Nameserver"
@@ -4656,7 +4664,7 @@ msgstr ""
 
 #
 msgid "NetMask"
-msgstr ""
+msgstr "NetMask"
 
 #
 msgid "Netmask"
@@ -4832,7 +4840,7 @@ msgstr "Geen satelliettuner gevonden!"
 
 #
 msgid "No selected binary data!!"
-msgstr ""
+msgstr "Geen binary data geselecteerd!!"
 
 #
 msgid "No supported receiver found!"
@@ -5033,11 +5041,11 @@ msgstr "Enkel extensies."
 
 #
 msgid "Open Startpage"
-msgstr ""
+msgstr "Open startpagina"
 
 #
 msgid "Open URL"
-msgstr ""
+msgstr "Open URL"
 
 #
 msgid "Opera Browser"
@@ -5048,10 +5056,12 @@ msgid ""
 "Opera Browser was not running.\n"
 "Please running browser using [File]>[Start/Stop] menu."
 msgstr ""
+"Opera Browser was niet aktief.\n"
+"Start de browser met [File]>[Start/Stop] menu."
 
 #
 msgid "Opera Web Browser"
-msgstr ""
+msgstr "Opera Web Browser"
 
 #
 msgid "Opera Web Browser Plugin v1.0"
@@ -5095,7 +5105,7 @@ msgstr "PMT PID"
 
 #
 msgid "PWM value"
-msgstr ""
+msgstr "PWM waarde"
 
 #
 msgid "Package list update"
@@ -5115,11 +5125,11 @@ msgstr "Pagina"
 
 #
 msgid "PageDown Key"
-msgstr ""
+msgstr "Toets pagina naar beneden"
 
 #
 msgid "PageUp Key"
-msgstr ""
+msgstr "Toets pagina naar boven"
 
 #
 #. TRANSLATORS: (aspect ratio policy: cropped content on left/right) in doubt, keep english term
@@ -5186,7 +5196,7 @@ msgstr "PiP Instellingen"
 
 #
 msgid "Picture Directory"
-msgstr ""
+msgstr "Foto map"
 
 #
 msgid "PicturePlayer"
@@ -5276,36 +5286,48 @@ msgid ""
 "Please check again.\n"
 "Frequency : start value is larger than stop value."
 msgstr ""
+"Controleer nogmaals.\n"
+"Frequentie : start waarde is hoger als stop waarde."
 
 #
 msgid ""
 "Please check again.\n"
 "Start frequency must be between 950 and 2150."
 msgstr ""
+"Controleer nogmaals.\n"
+"Start frequentie moet tussen 950 en 21500 zijn."
 
 #
 msgid ""
 "Please check again.\n"
 "Start symbolrate must be between 2MHz and 45MHz."
 msgstr ""
+"Controleer nogmaals.\n"
+"De symbolrate moet tussen de 2MHZ en 45MHZ zijn."
 
 #
 msgid ""
 "Please check again.\n"
 "Stop frequency must be between 950 and 2150."
 msgstr ""
+"Controleer nogmaals.\n"
+"Stop frequentie moet tussen de 950 en 2150 zijn."
 
 #
 msgid ""
 "Please check again.\n"
 "Stop symbolrate must be between 2MHz and 45MHz."
 msgstr ""
+"Controleer nogmaals.\n"
+"Stop symbolrate moet tussen de 2MHZ en 45MHZ zijn."
 
 #
 msgid ""
 "Please check again.\n"
 "Symbolrate : start value is larger than stop value."
 msgstr ""
+"Controleer nogmaals.\n"
+"Symbolrate : start waarde is lager als stop waarde."
 
 #
 msgid "Please check the manual of the receiver on how to restore the image."
@@ -5313,7 +5335,7 @@ msgstr ""
 
 #
 msgid "Please choose an HbbTV application."
-msgstr ""
+msgstr "Kies een HbbTV applicatie."
 
 #
 msgid "Please choose an extension..."
@@ -5325,7 +5347,7 @@ msgstr "Kies het gewenste pakket a.u.b..."
 
 #
 msgid "Please choose one."
-msgstr ""
+msgstr "Kies er één."
 
 #
 msgid "Please choose the default services lists you want to install."
@@ -5333,7 +5355,7 @@ msgstr "Kies de te installeren standaard zenderlijst a.u.b."
 
 #
 msgid "Please choose."
-msgstr ""
+msgstr "Kies."
 
 #
 msgid ""
@@ -5352,7 +5374,7 @@ msgstr ""
 
 #
 msgid "Please enter URL here"
-msgstr ""
+msgstr "Geef URL hier in"
 
 #
 msgid "Please enter a name for the new bouquet"
@@ -5498,7 +5520,7 @@ msgstr "Tuner J configureren"
 
 #
 msgid "Please setup your tuner configuration."
-msgstr ""
+msgstr "U moet de tunerconfiguratie instellen."
 
 #
 msgid ""
@@ -5524,7 +5546,7 @@ msgstr ""
 
 #
 msgid "Please wait for AP Configuration....\n"
-msgstr ""
+msgstr "Wacht op de AP configuratie...\n"
 
 #
 msgid "Please wait for activation of your network configuration..."
@@ -5557,7 +5579,7 @@ msgstr "Een ogenblikje geduld a.u.b. terwijl we uw netwerk herstarten..."
 
 #
 msgid "Please wait, Loading image."
-msgstr ""
+msgstr "Een moment geduld a.u.b., laden afbeelding."
 
 #
 msgid "Please wait..."
@@ -5569,7 +5591,7 @@ msgstr "Ogenblik a.u.b. De lijst wordt geladen..."
 
 #
 msgid "Please wait.... almost ready!"
-msgstr ""
+msgstr "Een ogenblik geduld... Bijna klaar!"
 
 #
 msgid "Plugin Browser"
@@ -5669,7 +5691,7 @@ msgstr "Prefereer specifieke tuner"
 
 #
 msgid "Preference"
-msgstr ""
+msgstr "Voorkeur"
 
 #
 msgid "Preparing... Please wait"
@@ -5705,7 +5727,7 @@ msgstr ""
 
 #
 msgid "Press Green/OK to start the scan"
-msgstr ""
+msgstr "Druk op Groen/OK om de scan te beginnen"
 
 #
 msgid "Press INFO on your remote control for additional information."
@@ -5852,7 +5874,7 @@ msgstr ""
 
 #
 msgid "RTS Threshold (0~2347)"
-msgstr ""
+msgstr "RTS drempelwaarde (0~2347)"
 
 #
 msgid "Radio"
@@ -5892,7 +5914,7 @@ msgstr "Nu uitschakelen?"
 
 #
 msgid "Realtek"
-msgstr ""
+msgstr "Realtek"
 
 #
 #, python-format
@@ -5969,7 +5991,7 @@ msgstr "Herlaad zwarte-/witte lijst"
 
 #
 msgid "Reload Device"
-msgstr ""
+msgstr "Herlaad apparaat"
 
 #
 msgid "Remember service PIN"
@@ -6159,7 +6181,7 @@ msgstr "Afspelen wordt hervat"
 
 #
 msgid "Return"
-msgstr ""
+msgstr "Terug"
 
 #
 msgid "Return the Love Event"
@@ -6187,11 +6209,11 @@ msgstr "Rechts"
 
 #
 msgid "Right Key"
-msgstr ""
+msgstr "Toets naar rechts"
 
 #
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "Rechter muistoets"
 
 #
 msgid "Roll-off"
@@ -6245,7 +6267,7 @@ msgstr "SPDIF"
 
 #
 msgid "SSID (1~32 Characters)"
-msgstr ""
+msgstr "SSID (1~32 Characters)"
 
 #
 msgid "SSID:"
@@ -6377,7 +6399,7 @@ msgstr "Zoek ook op SR"
 
 #
 msgid "Scan band"
-msgstr ""
+msgstr "Scan band"
 
 #
 msgid "Scan band EU HYPER"
@@ -6429,19 +6451,19 @@ msgstr "Zoek band US SUPER"
 
 #
 msgid "Scan start frequency"
-msgstr ""
+msgstr "Scan start frequentie"
 
 #
 msgid "Scan start symbolrate"
-msgstr ""
+msgstr "Scan start symbolrate"
 
 #
 msgid "Scan stop frequency"
-msgstr ""
+msgstr "Scan stop frequentie"
 
 #
 msgid "Scan stop symbolrate"
-msgstr ""
+msgstr "Scan stop symbolrate"
 
 #
 msgid ""
@@ -6526,7 +6548,7 @@ msgstr "Kies een opname"
 
 #
 msgid "Select audio track"
-msgstr "Kies geluidsspoor"
+msgstr "Geluidsspoor kiezen"
 
 #
 msgid "Select channel to record from"
@@ -6602,11 +6624,11 @@ msgstr "Servisch"
 
 #
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #
 msgid "Server Name"
-msgstr ""
+msgstr "Server Naam"
 
 #
 msgid "Service"
@@ -6618,7 +6640,7 @@ msgstr ""
 
 #
 msgid "Service List"
-msgstr ""
+msgstr "Zender Lijst"
 
 #
 msgid "Service Scan"
@@ -6690,7 +6712,7 @@ msgstr "Gebruik Voltage en 22KHz"
 
 #
 msgid "Set as Startpage"
-msgstr ""
+msgstr "Stel in als startpagina"
 
 #
 msgid "Set interface as default Interface"
@@ -6706,7 +6728,7 @@ msgstr ""
 
 #
 msgid "Setting"
-msgstr ""
+msgstr "Instelling"
 
 #
 msgid "Settings"
@@ -6915,7 +6937,7 @@ msgstr "Laat zenders zien die beginnen met"
 
 #
 msgid "Show the Menu window."
-msgstr ""
+msgstr "Toon menuvenster"
 
 #
 msgid "Show the Subtitle..."
@@ -6923,7 +6945,7 @@ msgstr "Toon de ondertitel..."
 
 #
 msgid "Show the Virtual keyboard window."
-msgstr ""
+msgstr "Toon virtuele toetsenbord"
 
 #
 msgid "Show the radio player..."
@@ -7028,7 +7050,7 @@ msgstr "Slaaptimer actie:"
 
 #
 msgid "Slideshow Interval"
-msgstr ""
+msgstr "Diashow tussentijd"
 
 #
 msgid "Slideshow Interval (sec.)"
@@ -7223,11 +7245,11 @@ msgstr "Startpagina"
 
 #
 msgid "Status : 0%"
-msgstr ""
+msgstr "Status : 0%"
 
 #
 msgid "Status Check Period"
-msgstr ""
+msgstr "Status periodieke controle"
 
 #
 msgid "Step east"
@@ -7275,7 +7297,7 @@ msgstr "Stop met afspelen van deze opname?"
 
 #
 msgid "Stop playing this stream?"
-msgstr ""
+msgstr "Stop met afspelen van deze stream?"
 
 #
 msgid "Stop test"
@@ -7299,11 +7321,11 @@ msgstr "Opgeslagen positie"
 
 #
 msgid "StreamTVPlayer"
-msgstr ""
+msgstr "StreamTVPlayer"
 
 #
 msgid "Style"
-msgstr ""
+msgstr "Stijl"
 
 #
 msgid "Subservice list..."
@@ -7323,11 +7345,11 @@ msgstr "Ondertitels"
 
 #
 msgid "Succeed"
-msgstr ""
+msgstr "Geslaagd"
 
 #
 msgid "Success. Press OK to exit."
-msgstr ""
+msgstr "Geslaagd. Druk op OK om af te sluiten."
 
 #
 msgid "Sun"
@@ -7343,7 +7365,7 @@ msgstr "Zweeds"
 
 #
 msgid "Switch to keyboard/mouse mode."
-msgstr ""
+msgstr "Schakel tussen toetsenbord en muis modus"
 
 #
 msgid "Switch to next subservice"
@@ -7375,7 +7397,7 @@ msgstr "TSID"
 
 #
 msgid "TV / Radio"
-msgstr ""
+msgstr "TV / Radio"
 
 #
 msgid "TV System"
@@ -7943,7 +7965,7 @@ msgstr ""
 
 #
 msgid "To restore the image:"
-msgstr ""
+msgstr "Om image te herstellen:"
 
 #
 msgid "Today"
@@ -7967,7 +7989,7 @@ msgstr "Toneburst A/B"
 
 #
 msgid "Tools"
-msgstr ""
+msgstr "Gereedschap"
 
 #
 msgid "Top"
@@ -8223,7 +8245,7 @@ msgstr "Onbekend"
 
 #
 msgid "Unknown network adapter"
-msgstr ""
+msgstr "Onbekende networkadapter"
 
 #
 msgid "Unmount failed"
@@ -8239,7 +8261,7 @@ msgstr "Omhoog"
 
 #
 msgid "Up Key"
-msgstr ""
+msgstr "Toets naar boven"
 
 #
 msgid "Update"
@@ -8273,7 +8295,7 @@ msgstr ""
 
 #
 msgid "Upgrade Firmware.."
-msgstr ""
+msgstr "Upgrade Firmware.."
 
 #
 msgid "Upgrade finished."
@@ -8303,7 +8325,7 @@ msgstr "Gebruik"
 
 #
 msgid "Use AP Mode"
-msgstr ""
+msgstr "Gebruik AP modus"
 
 #
 msgid "Use DHCP"
@@ -8323,7 +8345,7 @@ msgstr "Gebruik EXIT knop om opnamespeler te verlaten"
 
 #
 msgid "Use Fan timer"
-msgstr ""
+msgstr "Gebruik fan- timer"
 
 #
 msgid "Use Gateway"
@@ -8351,7 +8373,7 @@ msgstr "Gebruik stroommeting"
 
 #
 msgid "Use TV remotecontrol:"
-msgstr ""
+msgstr "Gebruik de afstandsbediening van de TV:"
 
 #
 msgid "Use a gateway"
@@ -8466,7 +8488,7 @@ msgstr "Gebruikersnaam"
 
 #
 msgid "Using a Wireless module as access point."
-msgstr ""
+msgstr "Gebruik een draadloze module als access point."
 
 #
 msgid "VCR scart"
@@ -8474,7 +8496,7 @@ msgstr "VCR scart"
 
 #
 msgid "VFD Controller"
-msgstr ""
+msgstr "VFD Controller"
 
 #
 msgid "VFD scroll speed"
@@ -8653,7 +8675,7 @@ msgstr "WEP"
 
 #
 msgid "WEP Key (HEX)"
-msgstr ""
+msgstr "WEP Key (HEX)"
 
 #
 msgid "WLAN adapter"
@@ -8950,7 +8972,7 @@ msgstr "U kunt dit niet wissen!"
 
 #
 msgid "You choose the incorrect file. "
-msgstr ""
+msgstr "U hebt het verkeerde bestand gekozen."
 
 #
 msgid "You chose not to install any default services lists."
@@ -9440,7 +9462,7 @@ msgstr ""
 
 #
 msgid "cyan"
-msgstr ""
+msgstr "groenblauw"
 
 #
 msgid "daily"
@@ -9460,7 +9482,7 @@ msgstr ""
 
 #
 msgid "debug"
-msgstr ""
+msgstr "Debug"
 
 #
 msgid "default"
@@ -9574,7 +9596,7 @@ msgstr "gelijk aan"
 
 #
 msgid "error"
-msgstr ""
+msgstr "Fout"
 
 #
 # File: ../src/plugin.py, line: 214
@@ -9688,7 +9710,7 @@ msgstr "Help..."
 
 #
 msgid "hi_low"
-msgstr ""
+msgstr "hi_low"
 
 #
 msgid "hide extended description"
@@ -9700,7 +9722,7 @@ msgstr "Afspelen op de achtergrond"
 
 #
 msgid "high"
-msgstr ""
+msgstr "hoog"
 
 #
 msgid "horizontal"
@@ -9708,7 +9730,7 @@ msgstr "horizontaal"
 
 #
 msgid "horizontal_vertical"
-msgstr ""
+msgstr "horizontal_vertical"
 
 #
 msgid "hour"
@@ -9808,7 +9830,7 @@ msgstr "Doorlus naar"
 
 #
 msgid "low"
-msgstr ""
+msgstr "laag"
 
 #
 msgid "manage block devices of your VU+"
@@ -9848,7 +9870,7 @@ msgstr "maand"
 
 #
 msgid "move"
-msgstr "verplaats"
+msgstr "Verplaats"
 
 #
 #, python-format
@@ -9961,7 +9983,7 @@ msgstr ""
 
 #
 msgid "not set"
-msgstr ""
+msgstr "niet ingesteld"
 
 #
 msgid "not supported"
@@ -10407,7 +10429,7 @@ msgstr "Start map"
 
 #
 msgid "start opera web browser"
-msgstr ""
+msgstr "start opera web browser"
 
 #
 msgid "start timeshift"
@@ -10563,7 +10585,7 @@ msgstr "ingepland"
 
 #
 msgid "warn"
-msgstr ""
+msgstr "Waarschuwing"
 
 #
 msgid "weekly"
@@ -10852,7 +10874,7 @@ msgstr "Beveilig opname lijst"
 
 #
 msgid "Protect timer list"
-msgstr ""
+msgstr "Beveilig timer lijst"
 
 #
 msgid "Protect plugin browser"
@@ -10864,11 +10886,11 @@ msgstr "Beveilig stand-by menu"
 
 #
 msgid "Protect VTi menu"
-msgstr ""
+msgstr "Beveilig VTi menu"
 
 #
 msgid "Protect VTi Panel"
-msgstr ""
+msgstr "Beveilig VTi paneel"
 
 #
 msgid "Movie archive"
@@ -10918,7 +10940,7 @@ msgstr ""
 
 #
 msgid "Multichannel PCM"
-msgstr ""
+msgstr "Meerkanaals PCM"
 
 #
 msgid "show folder"
@@ -11382,7 +11404,7 @@ msgstr ""
 
 #
 msgid "h"
-msgstr ""
+msgstr "uur"
 
 #
 msgid "Zap+Exit"
@@ -11623,7 +11645,7 @@ msgstr "Wilt u animaties instellen?"
 
 #
 msgid "show"
-msgstr ""
+msgstr "programma"
 
 #
 msgid "hide"
@@ -11643,7 +11665,7 @@ msgstr "Wijzig modus aan"
 
 #
 msgid "alphabetical"
-msgstr ""
+msgstr "alfabetisch"
 
 #
 msgid "Sort order for menu entries"
@@ -11651,11 +11673,11 @@ msgstr "Sorteer volgorde voor menu invoeren"
 
 #
 msgid "Move mode on"
-msgstr ""
+msgstr "Verplaats modus aan"
 
 #
 msgid "Move mode off"
-msgstr ""
+msgstr "Verplaats modus uit"
 
 #
 msgid "copy to: "
@@ -11667,43 +11689,43 @@ msgstr "Animatie instellingen"
 
 #
 msgid "SAT>IP Client Tuner Setup"
-msgstr ""
+msgstr "SAT>IP Client tunerinstellingen"
 
 #
 msgid "Discover"
-msgstr ""
+msgstr "Zoek"
 
 #
 msgid "Starting..."
-msgstr ""
+msgstr "Bezig te starten..."
 
 #
 msgid "SAT>IP server discovering for %d seconds..."
-msgstr ""
+msgstr "SAT>IP server zoeken gedurende %d secondes..."
 
 #
 msgid "SAT>IP server is not detected."
-msgstr ""
+msgstr "SAT>IP server is niet gedetecteerd."
 
 #
 msgid "SAT>IP Server : "
-msgstr ""
+msgstr "SAT>IP Server : "
 
 #
 msgid "SAT>IP Tuner Type : "
-msgstr ""
+msgstr "SAT>IP Tunertype : "
 
 #
 msgid "Server capacity is fulled."
-msgstr ""
+msgstr "Servercapaciteit bezet. "
 
 #
 msgid "SAT>IP Client Setup"
-msgstr ""
+msgstr "SAT>IP Client-instellingen"
 
 #
 msgid "Select tuner and press setup key (Yellow)"
-msgstr ""
+msgstr "Kies tuner en druk op de gele toets (instellingen)"
 
 #
 msgid ""
@@ -11715,31 +11737,31 @@ msgstr ""
 
 #
 msgid "SAT>IP Client"
-msgstr ""
+msgstr "SAT>IP Client"
 
 #
 msgid "SAT>IP Client attached to vtuner."
-msgstr ""
+msgstr "SAT>IP Client toegewezen aan vtuner."
 
 #
 msgid "VIRTUAL TUNER %s"
-msgstr ""
+msgstr "VIRTUAL TUNER %s"
 
 #
 msgid "TYPE : %s"
-msgstr ""
+msgstr "TYPE : %s"
 
 #
 msgid "IP : %s"
-msgstr ""
+msgstr "IP : %s"
 
 #
 msgid "TUNER TYPE : %s"
-msgstr ""
+msgstr "TUNER TYPE : %s"
 
 #
 msgid "SAT>IP SERVER : %s"
-msgstr ""
+msgstr "SAT>IP SERVER : %s"
 
 #
 msgid "Choices"
@@ -11775,11 +11797,11 @@ msgstr ""
 
 #
 msgid "Disable FastZapping"
-msgstr ""
+msgstr "Snel zappen uitschakelen"
 
 #
 msgid "Enable FastZapping"
-msgstr ""
+msgstr "Snel zappen inschakelen"
 
 #
 msgid "Disable MiniTV"
@@ -11873,7 +11895,7 @@ msgstr "Display modus bij stand-by"
 
 #
 msgid "Turn off display"
-msgstr ""
+msgstr "Scherm uitschakelen"
 
 #
 msgid "Display mode (LCD)"
@@ -11893,7 +11915,7 @@ msgstr "Minimale SmartSeek tijd interval (seconden)"
 
 #
 msgid "Add bouquet services"
-msgstr ""
+msgstr "Bouquet zenders toevoegen"
 
 #
 msgid "Include CI assignment for detection of available services"
@@ -12053,7 +12075,7 @@ msgstr ""
 
 #
 msgid "delete timeshift file"
-msgstr ""
+msgstr "timeshift-bestand verwijderen"
 
 #
 msgid "keep timeshift file"
@@ -12117,7 +12139,7 @@ msgstr ""
 
 #
 msgid "Console"
-msgstr ""
+msgstr "Console"
 
 #
 msgid "Console & File"
@@ -12445,7 +12467,7 @@ msgstr ""
 
 #
 msgid "Show build in SecondInfobar"
-msgstr "Toon build in 2de infobalk"
+msgstr "Toon ingebouwde 2de infobalk"
 
 #
 msgid "SecondInfobar timeout"
@@ -12453,7 +12475,7 @@ msgstr "2de infobalk timeout"
 
 #
 msgid "same as Infobar"
-msgstr ""
+msgstr "hetzelfde als infobalk"
 
 #
 msgid "Use cross left/right buttons for bouquet change in service list"
@@ -12517,7 +12539,7 @@ msgstr "Zoeken mislukt!"
 
 #
 msgid "List version %d, found %d channels"
-msgstr ""
+msgstr "Lijst versie %d, gevonden %d kanalen"
 
 #
 msgid "HD list"
@@ -12537,7 +12559,7 @@ msgstr "Auto Fastscan inschakelen"
 
 #
 msgid "Enable auto fast scan for %s"
-msgstr ""
+msgstr "Activeer auto fast scan voor %s"
 
 #
 msgid ""
@@ -12849,7 +12871,7 @@ msgstr ""
 
 #
 msgid "Sleeptimer"
-msgstr ""
+msgstr "Slaaptimer"
 
 #
 msgid "Channel zap +"
@@ -12897,7 +12919,7 @@ msgstr ""
 
 #
 msgid "InfoBar EPG"
-msgstr ""
+msgstr "Informatiebalk EPG"
 
 #
 msgid "InfoBar Multi EPG"
@@ -12929,11 +12951,11 @@ msgstr ""
 
 #
 msgid "Start Timeshift"
-msgstr ""
+msgstr "Start Timeshift"
 
 #
 msgid "Start Teletext"
-msgstr ""
+msgstr "Start Teletext"
 
 #
 msgid "Favourite channel 1"
@@ -13162,7 +13184,7 @@ msgstr "Multi Quickbutton"
 
 #
 msgid "Stop Timeshift"
-msgstr ""
+msgstr "Stop Timeshift"
 
 #
 msgid "Timeshift switch to Live TV"
@@ -13195,143 +13217,143 @@ msgstr ""
 #  msgid ""
 # msgstr ""
 msgid "Picon folder: "
-msgstr ""
+msgstr "Picon map:"
 
 msgid "Reading Channels..."
-msgstr ""
+msgstr "Lezen zenders..."
 
 msgid "Loaded Picons: "
-msgstr ""
+msgstr "Geladen Picons: "
 
 msgid "Not found Picons: "
-msgstr ""
+msgstr "Niet gevonden Picons: "
 
 msgid "Download progress: "
-msgstr ""
+msgstr "Download voortgang: "
 
 msgid "Show group: "
-msgstr ""
+msgstr "Toon groep"
 
 msgid "Standard picon: "
-msgstr ""
+msgstr "Standard picon: "
 
 msgid "Select drive"
-msgstr ""
+msgstr "Selecteer schijf"
 
 msgid "More selections"
 msgstr ""
 
 msgid "Download picons"
-msgstr ""
+msgstr "Download picons"
 
 msgid "Select path"
-msgstr ""
+msgstr "Selecteer locatie"
 
 msgid "Create folder"
-msgstr ""
+msgstr "Nieuwe map"
 
 msgid "Show random Picon"
-msgstr ""
+msgstr "Toon willekeurige Picon"
 
 msgid "Next Group"
-msgstr ""
+msgstr "Volgende groep"
 
 msgid "Previous Group"
-msgstr ""
+msgstr "Vorige groep"
 
 msgid "Set / clear standard Picon"
 msgstr "Setze / entferne Standardpicon"
 
 msgid "FreeSpace: Drive Not Found !"
-msgstr ""
+msgstr "Beschikbare ruimte: Schijf niet gevonden!"
 
 msgid "FreeSpace: "
-msgstr ""
+msgstr "Beschikbare ruimte: "
 
 msgid "Enter Picon Dir:"
-msgstr ""
+msgstr "Picon map invoeren:"
 
 msgid "Download finished !"
-msgstr ""
+msgstr "Download voltooid !"
 
 msgid "Choose Picon folder"
-msgstr ""
+msgstr "Kies Picon map"
 
 msgid "FreeSpace:"
-msgstr ""
+msgstr "Beschikbare ruimte:"
 
 msgid "Channels:"
-msgstr ""
+msgstr "Zenders:"
 
 msgid "Server temporarily unavailable"
-msgstr ""
+msgstr "Server tijdelijk niet beschikbaar"
 
 msgid "PiconManagerMod - Settings"
-msgstr ""
+msgstr "PiconManagerMod - Instellingen"
 
 msgid "Select from list"
-msgstr ""
+msgstr "Selecteer uit lijst"
 
 msgid "OK and exit"
-msgstr ""
+msgstr "OK en afsluiten"
 
 msgid "Set Filter:"
-msgstr ""
+msgstr "Filter instellen"
 
 #
 msgid "Size"
 msgstr "Grootte"
 
 msgid "Creator"
-msgstr ""
+msgstr "Maker"
 
 msgid "bit"
-msgstr ""
+msgstr "bit"
 
 msgid "Option:"
-msgstr ""
+msgstr "Optie: "
 
 msgid "Remember permanently?"
-msgstr ""
+msgstr "Onthoud permanent"
 
 msgid "Activate debug logging?"
-msgstr ""
+msgstr "Activeer debug loggen?"
 
 msgid "Select Server:"
-msgstr ""
+msgstr "Selecteer server:"
 
 msgid "Previous picon creator"
-msgstr ""
+msgstr "Vorige picon maker"
 
 msgid "Next picon creator"
-msgstr ""
+msgstr "Volgende picon maker"
 
 msgid "Previous picon size"
-msgstr ""
+msgstr "Vorige picon grootte"
 
 msgid "Next picon size"
-msgstr ""
+msgstr "Volgende picon grootte"
 
 msgid "Previous color depth"
-msgstr ""
+msgstr "Vorige kleurdiepte"
 
 msgid "Next color depth"
-msgstr ""
+msgstr "Volgende kleurdiepte"
 
 msgid "Size: "
 msgstr "Grootte: "
 
 msgid "Creator: "
-msgstr ""
+msgstr "Maker: "
 
 msgid "Color depth: "
-msgstr ""
+msgstr "Kleurdiepte: "
 
 msgid "No search results, please change filter options ..."
-msgstr ""
+msgstr "Geen zoekresultaten, wijzig filter opties ..."
 
 msgid "Loading, please wait..."
-msgstr ""
+msgstr "Een ogenblik geduld..."
 
 #: ../src/plugin.py:75
 msgid "Disable power on actions for timer:"
@@ -13359,7 +13381,7 @@ msgstr ""
 
 #: ../src/plugin.py:94
 msgid "Set VU+ device name:"
-msgstr ""
+msgstr "VU+ Apparaat naam instellen"
 
 #: ../src/plugin.py:100
 msgid "Enable debug output to file :"
@@ -13379,11 +13401,11 @@ msgstr ""
 
 #: ../src/HdmiCec.py:39 ../src/HdmiCec.py:45
 msgid "TV standby"
-msgstr ""
+msgstr "TV stand-by"
 
 #: ../src/HdmiCec.py:40 ../src/HdmiCec.py:46
 msgid "TV + A/V standby"
-msgstr ""
+msgstr "TV + A/V stand-by"
 
 #: ../src/HdmiCec.py:41 ../src/HdmiCec.py:47
 msgid "Source inactive"
@@ -13397,15 +13419,15 @@ msgstr "Terug"
 
 #: ../src/HdmiCec.py:51 ../src/HdmiCec.py:58
 msgid "TV wakeup"
-msgstr ""
+msgstr "TV ontwaken"
 
 #: ../src/HdmiCec.py:52 ../src/HdmiCec.py:59
 msgid "TV + A/V wakeup"
-msgstr ""
+msgstr "TV + A/V ontwaak"
 
 #: ../src/HdmiCec.py:53 ../src/HdmiCec.py:60
 msgid "A/V + TV wakeup"
-msgstr ""
+msgstr "A/V + TV ontwaak"
 
 #: ../src/HdmiCec.py:54 ../src/HdmiCec.py:61
 msgid "Source active"
@@ -13413,7 +13435,7 @@ msgstr ""
 
 #: ../src/HdmiCec.py:65
 msgid "VU+ standby"
-msgstr ""
+msgstr "VU+ stand-by"
 
 #: ../src/HdmiCec.py:66
 msgid "VU+ DeepStandby"
@@ -13421,29 +13443,29 @@ msgstr ""
 
 #: ../src/HdmiCec.py:70
 msgid "VU+ wakeup"
-msgstr ""
+msgstr "VU+ ontwaak"
 
 #: ../src/HdmiCec.py:83
 msgid "no A/V Receiver"
-msgstr ""
+msgstr "Geen A/V ontvanger"
 
 msgid "DeviceManager Message"
-msgstr ""
+msgstr "Apparaatbeheer bericht"
 
 msgid "Show mounts"
 msgstr "Toon mounts"
 
 msgid "Size : "
-msgstr ""
+msgstr "Grootte : "
 
 msgid "Model : "
-msgstr ""
+msgstr "Model : "
 
 msgid "Vendor : "
-msgstr ""
+msgstr "Fabrikant : "
 
 msgid "Loading, please wait ..."
-msgstr ""
+msgstr "Een ogenblik geduld..."
 
 #, python-format
 msgid ""
@@ -13455,7 +13477,7 @@ msgid "Insert mount point:"
 msgstr ""
 
 msgid "/media/custom"
-msgstr ""
+msgstr "/media/custom"
 
 msgid "default mount point for hdd"
 msgstr ""
@@ -13468,15 +13490,15 @@ msgstr ""
 
 #, python-format
 msgid "Device : /dev/%s"
-msgstr ""
+msgstr "Apparaat : /dev/%s"
 
 #, python-format
 msgid "Filesystem : %s"
-msgstr ""
+msgstr "Bestandssysteem : %s"
 
 #, python-format
 msgid "Size : %s MB"
-msgstr ""
+msgstr "Grootte :  %s MB"
 
 #, python-format
 msgid ""
@@ -13491,46 +13513,46 @@ msgid "Partitioning, please wait ..."
 msgstr ""
 
 msgid "One partition"
-msgstr ""
+msgstr "Een partitie"
 
 msgid "Two partitions (50% / 50%)"
-msgstr ""
+msgstr "Twee partities (50% - 50%)"
 
 msgid "Two partitions (75% / 25%)"
-msgstr ""
+msgstr "Twee partities (75% - 25%)"
 
 msgid "Three partitions (33% / 33% / 33%)"
-msgstr ""
+msgstr "Drie partities (33% - 33% - 33%)"
 
 msgid "Four partitions (25% / 25% / 25% / 25%)"
-msgstr ""
+msgstr "Vier partities (25% - 25% - 25% - 25%)"
 
 msgid "Two partitions (1% / 99%)"
-msgstr ""
+msgstr "Twee partities (1% - 99%)"
 
 msgid "ext2"
-msgstr ""
+msgstr "ext2"
 
 msgid "ext4"
-msgstr ""
+msgstr "ext4"
 
 msgid "recommended for harddisks"
-msgstr ""
+msgstr "Aanbevolen voor harde schijven"
 
 msgid "ext3"
-msgstr ""
+msgstr "ext3"
 
 msgid "fat"
-msgstr ""
+msgstr "fat"
 
 msgid "for USB flash memory"
 msgstr ""
 
 msgid "not formatted"
-msgstr ""
+msgstr "Niet geformateerd"
 
 msgid "Filesystem : "
-msgstr ""
+msgstr "Bestandssysteem: "
 
 msgid "Mountpoint : "
 msgstr ""
@@ -13609,10 +13631,10 @@ msgid ""
 msgstr ""
 
 msgid "Celsius"
-msgstr ""
+msgstr "Celsius"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fahrenheit"
 
 #, python-format
 msgid "%s Setup"
@@ -13643,7 +13665,7 @@ msgid "Change skin"
 msgstr ""
 
 msgid "---Weather---"
-msgstr ""
+msgstr "---Weer---"
 
 msgid "Refresh interval in minutes:"
 msgstr ""
@@ -13652,7 +13674,7 @@ msgid "Location # (http://weather.yahoo.com/):"
 msgstr ""
 
 msgid "Temperature unit:"
-msgstr ""
+msgstr "Temperatuur eenheid:"
 
 msgid "Don't save settings?"
 msgstr ""
@@ -13665,16 +13687,16 @@ msgid "%s additional screens"
 msgstr ""
 
 msgid "Location list"
-msgstr ""
+msgstr "Lokatie lijst"
 
 msgid "Search weather location ID"
-msgstr ""
+msgstr "Zoek weer locatie ID"
 
 msgid "Please enter search string for your location"
-msgstr ""
+msgstr "Voer uw locatie in om naar te zoeken"
 
 msgid "Sorry, there was a problem:"
-msgstr ""
+msgstr "Sorry. er was een probleem:"
 
 #
 # File: ../src/plugin.py, line: 33
@@ -13906,7 +13928,7 @@ msgstr ""
 
 #
 msgid "Excecute"
-msgstr ""
+msgstr "Uitvoeren"
 
 #
 msgid "install/remove common plugins"
@@ -13966,7 +13988,7 @@ msgstr "Taal pakketten"
 
 #
 msgid "install/remove language packages for dvbapp2"
-msgstr "Installeer/verwijder Tal pakketten voor dvbapp2"
+msgstr "Installeer/verwijder Taal pakketten voor dvbapp2"
 
 #
 msgid "upgrade"
@@ -13974,7 +13996,7 @@ msgstr "Upgrade"
 
 #
 msgid "Execution finished.\n"
-msgstr ""
+msgstr "Uitvoeren voltooid.\n"
 
 #
 msgid "Do you want to restart GUI ?"
@@ -14613,7 +14635,7 @@ msgstr "Selecteer u Back-up medium. "
 
 #
 msgid "VTI Image Backup/Restore"
-msgstr ""
+msgstr "VTI Image Backup/Herstel"
 
 #
 msgid "Backup your STB settings."
@@ -14633,7 +14655,7 @@ msgstr "Selecteer bestanden voor Back-up. "
 
 #
 msgid "VTI Expert Backup/Restore"
-msgstr ""
+msgstr "VTI Expert Backup/Herstel"
 
 #
 msgid "VTI .tar.gz installer"
@@ -14930,7 +14952,7 @@ msgstr "Start Cam"
 
 #
 msgid "Restart Cam"
-msgstr "Herstarten Cam"
+msgstr "Herstart Cam"
 
 #
 msgid "Manage Cams"
@@ -14994,7 +15016,7 @@ msgstr "Stel wachtwoord in"
 
 #
 msgid "new Random"
-msgstr "nieuw willekeurig"
+msgstr "Nieuw willekeurig"
 
 #
 msgid "virt. Keyboard"
@@ -15467,7 +15489,7 @@ msgstr "VTI-Backup Herstel is bezig..."
 
 #
 msgid "VTi Restore Image"
-msgstr ""
+msgstr "VTI Herstel Image"
 
 #
 msgid ""
@@ -15705,7 +15727,7 @@ msgstr ""
 
 #: plugin.py:281
 msgid "Source:"
-msgstr ""
+msgstr "Bron:"
 
 #: plugin.py:297
 msgid "Download:"
@@ -15815,7 +15837,7 @@ msgstr ""
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:775
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:776
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:875
 msgid "Stream"
@@ -15824,7 +15846,7 @@ msgstr "Stream"
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:889
 #, python-format
 msgid "%d"
-msgstr ""
+msgstr "%d"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:902
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:909
@@ -15833,12 +15855,12 @@ msgstr ""
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:935
 #, python-format
 msgid "%d Min"
-msgstr ""
+msgstr "%d Min"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:939
 #, python-format
 msgid "%d %%"
-msgstr ""
+msgstr "%d %%"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:969
 #, python-format
@@ -15892,7 +15914,7 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:59
 msgid "Begin"
-msgstr ""
+msgstr "Begin"
 
 #
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:60
@@ -15901,7 +15923,7 @@ msgstr "Einde"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:61
 msgid "Duration"
-msgstr ""
+msgstr "Duur"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:62
 msgid "Timer Progress (Graphical)"
@@ -15941,19 +15963,19 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:77
 msgid "DD.MM HH:MM"
-msgstr ""
+msgstr "DD.MM HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:78
 msgid "MM/DD HH:MM"
-msgstr ""
+msgstr "MM/DD HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:79
 msgid "DD.MM.YYYY HH:MM"
-msgstr ""
+msgstr "DD.MM.YYYY HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:80
 msgid "YYYY/MM/DD HH:MM"
-msgstr ""
+msgstr "YYYY/MM/DD HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:81
 msgid "HH:MM DD.MM"
@@ -15973,7 +15995,7 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:141
 msgid "configuration"
-msgstr ""
+msgstr "Configuratie"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:190
 msgid "Nothing running"
@@ -16290,7 +16312,7 @@ msgstr ""
 
 #: ../src/plugin.py:517 ../src/plugin.py:522 ../src/plugin.py:529
 msgid "Query details from the Internet Movie Database"
-msgstr ""
+msgstr "Informatie ophalen uit de Internet Movie Database"
 
 #: ../src/plugin.py:264 ../src/plugin.py:379
 #, python-format
@@ -16730,7 +16752,7 @@ msgstr "Voorkies nummer voor een telefoonoproep"
 #
 #, python-format
 msgid "FRITZ!Box - Could not load calls: %s"
-msgstr ""
+msgstr "Fout bij het laden van het FRITZ!Box telefoonboek -fout: %s"
 
 #
 #, python-format
@@ -16812,7 +16834,7 @@ msgstr "FRITZ!Box Status"
 
 #
 msgid "FRITZ!Box PhoneBook to read"
-msgstr ""
+msgstr "Lees telefoonboek van FRITZ!Box"
 
 #
 msgid ""
@@ -16934,7 +16956,7 @@ msgstr ""
 
 #
 msgid "New call"
-msgstr ""
+msgstr "Nieuw gesprek"
 
 #
 msgid "No DECT phone registered"
@@ -16954,7 +16976,7 @@ msgstr "Geen mailbox actief"
 
 #
 msgid "No phonebook"
-msgstr ""
+msgstr "Geen telefoonboek"
 
 #
 msgid "No result from LDIF"
@@ -17468,7 +17490,7 @@ msgstr ""
 
 #: src/WebIfConfig.py:82
 msgid "Enable HTTPS Authentication"
-msgstr ""
+msgstr "HTTPS authenticatie inschakelen"
 
 #: src/WebIfConfig.py:88
 msgid "Enable Streaming Authentication"
@@ -17494,7 +17516,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:20
 msgid "Extras"
-msgstr ""
+msgstr "Extra's"
 
 #: src/WebComponents/Sources/Strings.py:21
 msgid "WebTV"
@@ -17550,7 +17572,7 @@ msgstr ""
 #: src/WebComponents/Sources/Strings.py:38
 #: src/WebComponents/Sources/Strings.py:108
 msgid "Edit Timer"
-msgstr ""
+msgstr "Pas timer aan"
 
 #: src/WebComponents/Sources/Strings.py:40
 msgid "Activate"
@@ -17558,15 +17580,15 @@ msgstr "Activeer"
 
 #: src/WebComponents/Sources/Strings.py:44
 msgid "Delete Timer"
-msgstr ""
+msgstr "Verwijder timer"
 
 #: src/WebComponents/Sources/Strings.py:45
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #: src/WebComponents/Sources/Strings.py:50
 msgid "Action"
-msgstr ""
+msgstr "Actie"
 
 #: src/WebComponents/Sources/Strings.py:53
 msgid "Note: For recurring events dates are not mandatory."
@@ -17586,7 +17608,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:57
 msgid "Days"
-msgstr ""
+msgstr "Dagen"
 
 #: src/WebComponents/Sources/Strings.py:64
 msgid "Do Nothing"
@@ -17603,7 +17625,7 @@ msgstr ""
 #: src/WebComponents/Sources/Strings.py:71
 #: src/WebComponents/Sources/Strings.py:87
 msgid "Send Message"
-msgstr ""
+msgstr "Stuur een bericht"
 
 #: src/WebComponents/Sources/Strings.py:72
 msgid "WebRemote"
@@ -17631,7 +17653,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:81
 msgid "Timeout"
-msgstr ""
+msgstr "Timeout"
 
 #: src/WebComponents/Sources/Strings.py:84
 msgid "Warning"
@@ -17655,7 +17677,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:94
 msgid "Show EPG for"
-msgstr ""
+msgstr "Toon EPG voor"
 
 #: src/WebComponents/Sources/Strings.py:95
 msgid "Stream Channel"
@@ -17663,7 +17685,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:97
 msgid "Instant Record"
-msgstr ""
+msgstr "Onmiddellijk opnemen"
 
 #: src/WebComponents/Sources/Strings.py:98
 msgid "Record current event"
@@ -17703,7 +17725,7 @@ msgstr "Timer toevoegen"
 
 #: src/WebComponents/Sources/Strings.py:107
 msgid "Add Zap Timer"
-msgstr ""
+msgstr "Voeg zap-timer toe"
 
 #: src/WebComponents/Sources/Strings.py:109
 msgid "No Service to show"
@@ -17719,7 +17741,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:112
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #: src/WebComponents/Sources/Strings.py:113
 msgid "and many contributors"
@@ -17751,7 +17773,7 @@ msgstr "Image versie"
 
 #: src/WebComponents/Sources/Strings.py:120
 msgid "Frontprocessor Version"
-msgstr ""
+msgstr "frontprocessor versie"
 
 #: src/WebComponents/Sources/Strings.py:121
 msgid "Webinterface Version"
@@ -17759,11 +17781,11 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:122
 msgid "Tuners"
-msgstr ""
+msgstr "Tuners"
 
 #: src/WebComponents/Sources/Strings.py:124
 msgid "Capacity"
-msgstr ""
+msgstr "Capaciteit"
 
 #: src/WebComponents/Sources/Strings.py:126
 msgid "Network Interface"
@@ -17775,7 +17797,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:128
 msgid "DHCP enabled"
-msgstr ""
+msgstr "DHCP ingeschakeld"
 
 #: src/WebComponents/Sources/Strings.py:132
 msgid "Video Size"
@@ -17807,7 +17829,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:147
 msgid "Volume Down"
-msgstr ""
+msgstr "Volume omlaag"
 
 #: src/WebComponents/Sources/Strings.py:150
 msgid "Unmute"
@@ -17815,7 +17837,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:151
 msgid "Volume Up"
-msgstr ""
+msgstr "Volume omhoog"
 
 #: src/WebComponents/Sources/Strings.py:153
 msgid "Get a Screenshot"
@@ -17851,7 +17873,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Strings.py:161
 msgid "sec"
-msgstr ""
+msgstr "sec"
 
 #: src/WebComponents/Sources/Strings.py:162
 msgid "Previous"
@@ -17871,7 +17893,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/LocationsAndTags.py:17
 msgid "one two three four unknown command"
-msgstr ""
+msgstr "één twee drie vier onbekend commando"
 
 #: src/WebComponents/Sources/LocationsAndTags.py:69
 #, python-format
@@ -17919,7 +17941,7 @@ msgstr ""
 #: src/WebComponents/Sources/Message.py:38
 #, python-format
 msgid "type %s is not a number"
-msgstr ""
+msgstr "type %s is geen nummer"
 
 #: src/WebComponents/Sources/Message.py:50
 #, python-format
@@ -17928,7 +17950,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Message.py:62
 msgid "Message sent successfully!"
-msgstr ""
+msgstr "Bericht succesvol verstuurd!"
 
 #: src/WebComponents/Sources/ReadPluginList.py:14
 msgid "List of Plugins has been read"
@@ -17942,11 +17964,11 @@ msgstr ""
 
 #: src/WebComponents/Sources/SleepTimer.py:34
 msgid "Sleeptimer is enabled"
-msgstr ""
+msgstr "Slaaptimer is ingeschakeld"
 
 #: src/WebComponents/Sources/SleepTimer.py:40
 msgid "Sleeptimer is disabled"
-msgstr ""
+msgstr "Slaaptimer is uitgeschakeld"
 
 #: src/WebComponents/Sources/SleepTimer.py:52
 #, python-format
@@ -17960,7 +17982,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/SleepTimer.py:87
 msgid "Sleeptimer has been disabled"
-msgstr ""
+msgstr "Slaaptimer is uitgeschakeld"
 
 #: src/WebComponents/Sources/SleepTimer.py:90
 #, python-format
@@ -17980,6 +18002,8 @@ msgstr ""
 #: src/WebComponents/Sources/SleepTimer.py:110
 msgid "ERROR: Cannot set SleepTimer while device is in Standby-Mode"
 msgstr ""
+"FOUT: Kan geen SleepTimer instellen terwijl het apparaat zich in de Standby-"
+"modus bevind"
 
 #: src/WebComponents/Sources/Timer.py:64
 #, python-format
@@ -17988,7 +18012,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Timer.py:70
 msgid "List of Timers has been cleaned"
-msgstr ""
+msgstr "Lijst van Timers is opgeschoond"
 
 #: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
 #: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
@@ -18007,7 +18031,7 @@ msgstr ""
 #: src/WebComponents/Sources/Timer.py:95
 #, python-format
 msgid "The timer '%s' has been deleted successfully"
-msgstr ""
+msgstr "De timer '%s' is succesvol verwijderd"
 
 #: src/WebComponents/Sources/Timer.py:97
 msgid "The timer has NOT been deleted"
@@ -18053,7 +18077,7 @@ msgstr ""
 #: src/WebComponents/Sources/Timer.py:433
 #, python-format
 msgid "Conflicting Timer(s) detected! %s"
-msgstr ""
+msgstr "Conflicterende Timer(s) gedetecteerd! %s"
 
 #: src/WebComponents/Sources/Timer.py:365
 #, python-format
@@ -18063,18 +18087,18 @@ msgstr ""
 #: src/WebComponents/Sources/Timer.py:368
 #, python-format
 msgid "Could not find timer '%s' with given start and end time!"
-msgstr ""
+msgstr "Kon de timer '%s' met aangegeven start en eindtijd niet vinden!"
 
 #: src/WebComponents/Sources/Timer.py:379
 #: src/WebComponents/Sources/Timer.py:426
 #, python-format
 msgid "Timer '%s' added"
-msgstr ""
+msgstr "Timer '%s' toegevoegd"
 
 #: src/WebComponents/Sources/Timer.py:391
 #, python-format
 msgid "Could not add timer '%s'!"
-msgstr ""
+msgstr "Kan Timer '%s' niet toevoegen!"
 
 #: src/WebComponents/Sources/Timer.py:400
 msgid "Missing Parameter: eventid"
@@ -18082,11 +18106,11 @@ msgstr ""
 
 #: src/WebComponents/Sources/Timer.py:418
 msgid "EventId not found"
-msgstr ""
+msgstr "EventId niet gevonden"
 
 #: src/WebComponents/Sources/Timer.py:441
 msgid "TimerList has been saved"
-msgstr ""
+msgstr "Timerlijst is opgeslagen"
 
 #: src/WebComponents/Sources/Timer.py:443
 msgid "TimerList has not been saved"
@@ -18177,7 +18201,7 @@ msgstr ""
 
 #: src/WebComponents/Sources/Movie.py:169
 msgid "undefined"
-msgstr ""
+msgstr "niet gedefinieerd"
 
 #: src/WebComponents/Sources/Movie.py:210
 msgid "illegal call"
@@ -18249,11 +18273,11 @@ msgstr ""
 
 #: src/WebComponents/Sources/AudioTracks.py:11
 msgid "False"
-msgstr ""
+msgstr "incorrect"
 
 #: src/WebComponents/Sources/AudioTracks.py:37
 msgid "Success"
-msgstr ""
+msgstr "Geslaagd"
 
 #: src/WebComponents/Sources/AudioTracks.py:50
 msgid "AC3 Downmix enabled"
@@ -18293,7 +18317,7 @@ msgstr ""
 #: src/WebComponents/Sources/Volume.py:41
 #, python-format
 msgid "Unknown Volume command %s"
-msgstr ""
+msgstr "Onbekend volumecommando %s"
 
 #: src/WebComponents/Sources/TPMChallenge.py:29
 msgid "LEVEL2 and LEVEL3 Certifcates (Base64-encoded)"
@@ -18488,7 +18512,7 @@ msgstr ""
 
 #: ../src/plugin.py:23
 msgid "Execute cuts..."
-msgstr ""
+msgstr "Geknipte stukken uitvoeren..."
 
 #: ../src/plugin.py:37
 msgid "Don't cut"
@@ -18651,7 +18675,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Duration:"
-msgstr ""
+msgstr "Tijdsduur:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Eject DVD?"
@@ -18667,7 +18691,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:332
 msgid "Directory:"
-msgstr ""
+msgstr "Map:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:333
 msgid "Name:"
@@ -18899,7 +18923,7 @@ msgstr ""
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:47
 msgid "extensions"
-msgstr ""
+msgstr "plugins"
 
 #
 # File: ../src/MediaDownloader.py, line: 215
@@ -19143,7 +19167,7 @@ msgid "Mounts management"
 msgstr "Verbindingsbeheer"
 
 msgid "Rescan"
-msgstr ""
+msgstr "Herscan"
 
 #
 msgid "Press OK to mount!"
@@ -19351,7 +19375,7 @@ msgstr ""
 
 #
 msgid "Picture in Picture (hidden)"
-msgstr ""
+msgstr "Picture in Picture (verborgen)"
 
 #
 msgid "Please don't use PiP meanwhile!"
@@ -19854,11 +19878,11 @@ msgstr ""
 
 #: ../src/CurlyTxSettings.py:69
 msgid "Show in main menu"
-msgstr ""
+msgstr "Toon in hoofdmenu"
 
 #: ../src/CurlyTxSettings.py:70
 msgid "Show in extensions menu"
-msgstr ""
+msgstr "In applicatie-menu tonen"
 
 #: ../src/CurlyTxSettings.py:71
 msgid "Menu title"
@@ -19912,7 +19936,7 @@ msgstr ""
 
 #: ../src/CurlyTxSettings.py:223
 msgid "Font size"
-msgstr ""
+msgstr "Lettergrootte"
 
 #: ../src/plugin.py:36 ../src/plugin.py:43
 msgid "View remote text files"
@@ -20484,7 +20508,7 @@ msgstr ""
 
 #: src/plugin.py:37
 msgid "Audio Sync Setup"
-msgstr ""
+msgstr "Audio Sync instellen"
 
 #: src/plugin.py:37
 msgid "Setup for the Audio Sync Plugin"
@@ -20858,7 +20882,7 @@ msgstr ""
 # File: EPGSearchSetup.py, line: 43
 #: EPGSearchSetup.py:43
 msgid "Case sensitive search"
-msgstr ""
+msgstr "hoofdlettergevoelig zoeken"
 
 #
 msgid "Perform case sensitive or case intensive EPG searches"
@@ -20876,7 +20900,7 @@ msgstr ""
 # File: EPGSearch.py, line: 536
 #: __init__.py:33 EPGSearch.py:536
 msgid "Extended description"
-msgstr ""
+msgstr "Uitgebreide beschrijving"
 
 #
 # File: __init__.py, line: 34
@@ -20890,14 +20914,14 @@ msgstr ""
 # File: EPGSearch.py, line: 535
 #: __init__.py:32 EPGSearch.py:535
 msgid "Title and short description"
-msgstr ""
+msgstr "Titel en korte beschrijving"
 
 #
 # File: __init__.py, line: 31
 # File: EPGSearch.py, line: 534
 #: __init__.py:31 EPGSearch.py:534
 msgid "Short description"
-msgstr ""
+msgstr "korte beschrijving"
 
 #
 # File: EPGSearch.py, line: 541
@@ -20909,7 +20933,7 @@ msgstr ""
 # File: __init__.py, line: 29
 #: __init__.py:29
 msgid "Ask before search"
-msgstr ""
+msgstr "Vragen voor zoeken"
 
 #
 # File: __init__.py, line: 42
@@ -20979,7 +21003,7 @@ msgstr ""
 # File: EPGSearch.py, line: 352
 #: EPGSearchSetup.py:46 EPGSearch.py:352
 msgid "Show event short description"
-msgstr ""
+msgstr "Toon korte programma beschrijving"
 
 #
 # File: EPGSearchSetup.py, line: 46
@@ -21106,7 +21130,7 @@ msgstr ""
 
 #
 msgid "channel"
-msgstr ""
+msgstr "Zender"
 
 #
 msgid "Timeout for info pop up"
@@ -21251,10 +21275,12 @@ msgid ""
 "Error with VLC server:\n"
 "%s"
 msgstr ""
+"Fout met VLC server:\n"
+"%s"
 
 #: ../src/VlcMediaList.py:62
 msgid "Filelist"
-msgstr ""
+msgstr "Bestandslijst"
 
 #: ../src/VlcServerList.py:80
 msgid "List of known VLC-Server Profiles"
@@ -21285,7 +21311,7 @@ msgstr ""
 
 #: ../src/VlcServerList.py:126
 msgid "Really delete this Server?"
-msgstr ""
+msgstr "Wilt u de Server echt verwijderen?"
 
 #: ../src/VlcServerConfig.py:302
 msgid "Server Address"
@@ -21353,7 +21379,7 @@ msgstr ""
 
 #: ../src/VlcServerList.py:85
 msgid "set default"
-msgstr ""
+msgstr "Op standaard instellen"
 
 #
 # File: ../src/plugin.py, line: 251
@@ -21461,16 +21487,20 @@ msgid ""
 "matching your AutoTimers but only when you leave the GUI with the green "
 "button."
 msgstr ""
+"Als dit uit staat zoekt AutoTimer alleen naar programma's als vanuit de "
+"AutoTimer de groene knop wordt gebruikt."
 
 #
 msgid "Startup delay (in min)"
-msgstr ""
+msgstr "Opstart vertraging (in minuten)"
 
 #
 msgid ""
 "This is the delay in minutes that the AutoTimer will wait on initial launch "
 "to not delay enigma2 startup time."
 msgstr ""
+"Dit is de vertraging in minuten dat AutoTimer zal wachten om het opstarten "
+"van Enigm2 niet te vertragen."
 
 #
 msgid "Poll Interval (in h)"
@@ -21481,6 +21511,8 @@ msgid ""
 "This is the delay in hours that the AutoTimer will wait after a search to "
 "search the EPG again."
 msgstr ""
+"Dit is het aantal uren dat de autotimer moet wachten alvorens opnieuw door "
+"de EPG data te zoeken."
 
 #
 msgid "Timeout (in min)"
@@ -21492,19 +21524,23 @@ msgstr ""
 
 #
 msgid "Only add timer for next x days"
-msgstr ""
+msgstr "Alleen timers voor de komende x dagen toevoegen"
 
 #
 msgid ""
 "You can control for how many days in the future timers are added. Set this "
 "to 0 to disable this feature."
 msgstr ""
+"U kunt instellen voor hoeveel dagen in de toekomst timers worden toegevoegd. "
+"Stel in op 0 om deze mogelijkheid uit te schakelen."
 
 #
 msgid ""
 "Enable this to be able to access the AutoTimer Overview from within the "
 "extension menu."
 msgstr ""
+"Activeer deze optie om de AutoTimer vanuit het extension menu te kunnen "
+"instellen."
 
 #
 msgid "Modify existing timers"
@@ -21513,6 +21549,8 @@ msgstr "Bestaande timers aanpassen"
 #
 msgid "This setting controls the behavior when a timer matches a found event."
 msgstr ""
+"Dit bepaalt het gedrag als een timer al overeenkomt met een gevonden "
+"programma."
 
 #
 msgid "Guess existing timer based on begin/end"
@@ -21527,13 +21565,15 @@ msgstr ""
 
 #
 msgid "Add similar timer on conflict"
-msgstr ""
+msgstr "Voeg gelijksoortige timer toe bij een conflict"
 
 #
 msgid ""
 "If a timer conflict occurs, AutoTimer will search outside the timespan for a "
 "similar event and add it."
 msgstr ""
+"Als er een timer conflict ontstaat, zal AutoTimer buiten de opgegeven tijden "
+"zoeken naar een gelijksoortig programma en dat toevoegen."
 
 #
 msgid "Add timer as disabled on conflict"
@@ -21545,30 +21585,36 @@ msgid ""
 "event that conflicts with an existing timer it will not ignore this event "
 "but add it disabled."
 msgstr ""
+"Bij timer conflicten kan de AutoTimer het programma toevoegen zonder deze te "
+"activeren. Als deze optie uit staat wordt het programma overgeslagen."
 
 #
 msgid "Include \"AutoTimer\" in tags"
-msgstr ""
+msgstr "Voeg \"AutoTimer\" aan tags toe"
 
 #
 msgid ""
 "If this is selected, the tag \"AutoTimer\" will be given to timers created "
 "by this plugin."
 msgstr ""
+"Als dit is geselecteerd wordt de tag \"AutoTimer\" gegeven aan de timers die "
+"door de plugin gecreëerd worden."
 
 #
 msgid "Include AutoTimer name in tags"
-msgstr ""
+msgstr "Voeg autotimer naam aan tags toe."
 
 #
 msgid ""
 "If this is selected, the name of the respective AutoTimer will be added as a "
 "tag to timers created by this plugin."
 msgstr ""
+"Als dit is geselecteerd zal de naam van de autotimer toegevoegd worden als "
+"tag aan de timers die gecreëerd worden."
 
 #
 msgid "Show notification on conflicts"
-msgstr ""
+msgstr "Toon een melding als er een conflict optreedt."
 
 #
 msgid ""
@@ -21576,10 +21622,13 @@ msgid ""
 "automated polling. There is no intelligence involved, so it might bother you "
 "about the same conflict over and over."
 msgstr ""
+"Door dit in te schakelen wordt u gewaarschuwd als er conflicten worden "
+"geconstateerd. Er zit geen intelligentie in, dus u wordt steeds weer lastig "
+"gevallen met dezelfde gebeurtenissen."
 
 #
 msgid "Show notification on similars"
-msgstr ""
+msgstr "Toon melding bij soortgelijke"
 
 #
 msgid ""
@@ -21587,6 +21636,9 @@ msgid ""
 "automated polling. There is no intelligence involved, so it might bother you "
 "about the same conflict over and over."
 msgstr ""
+"Door dit in te schakelen zult u gewaarschuwd worden als soortgelijke timers "
+"worden toegevoegd. Er zit geen intelligentie in, dus u wordt steeds weer "
+"over dezelfde timers gewaarschuwd."
 
 #
 msgid "Editor for new AutoTimers"
@@ -21597,20 +21649,25 @@ msgid ""
 "The editor to be used for new AutoTimers. This can either be the Wizard or "
 "the classic editor."
 msgstr ""
+"Nieuwe AutoTimers kunnen op de standaard wijze worden aangemaakt, of met "
+"behulp van de Wizard."
 
 #
 msgid "Support \"Fast Scan\"?"
-msgstr ""
+msgstr "Ondersteun \"Fast Scan\" ?"
 
 #
 msgid ""
 "When supporting \"Fast Scan\" the service type is ignored. You don't need to "
 "enable this unless your Image supports \"Fast Scan\" and you are using it."
 msgstr ""
+"Als het ondersteunen van \"Fast Scan\" is ingeschakeld, wordt dit zender "
+"type genegeerd. U hoeft dit niet te activeren, tenzij uw ontvanger \"Fast "
+"Scan\" ondersteunt en u het ook gebruikt."
 
 #
 msgid "Skip poll during records"
-msgstr ""
+msgstr "Sla controleren over tijdens opnames"
 
 #
 msgid "If enabled, the polling will be skipped if the Dreambox is recording."
@@ -21658,7 +21715,7 @@ msgstr "Nieuwe timers aanpassen"
 
 #
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Veel gestelde vragen"
 
 #
 msgid "Create a new timer using the classic editor"
@@ -21674,11 +21731,13 @@ msgid ""
 "%d conflict(s) encountered when trying to add new timers:\n"
 "%s"
 msgstr ""
+"%d conflict(en) tegengekomen bij het toevoegen van nieuwe timers:\n"
+"%s"
 
 #
 #, python-format
 msgid "%s: %s at %s"
-msgstr ""
+msgstr "%s: %s tijdens %s"
 
 #
 #, python-format
@@ -21686,6 +21745,8 @@ msgid ""
 "%d conflict(s) solved with similar timer(s):\n"
 "%s"
 msgstr ""
+"%d conflict(en) opgelost met soortgelijke timer(s):\n"
+"%s"
 
 #
 msgid "Select a timer to import"
@@ -21694,7 +21755,7 @@ msgstr "Kies een timer om te importeren"
 #
 #, python-format
 msgid "Match title: %s"
-msgstr ""
+msgstr "Titel als: %s"
 
 #
 msgid "Exact match"
@@ -21703,12 +21764,12 @@ msgstr "Exacte overeenkomst"
 #
 #, python-format
 msgid "Match Timespan: %02d:%02d - %02d:%02d"
-msgstr ""
+msgstr "Tijdspanne: %02d:%02d - %02d:%02d"
 
 #
 #, python-format
 msgid "Only on Weekday: %s"
-msgstr ""
+msgstr "Alleen op werkdagen: %s"
 
 #
 #, python-format
@@ -21754,6 +21815,11 @@ msgid ""
 "%d conflicts encountered,\n"
 "%d similars added."
 msgstr ""
+"Totaal %d overeenkomende gebeurtenissen gevonden.\n"
+"er zijn %d timers toegevoegd en \n"
+"%d aangepast,\n"
+"%d conflicten tegengekomen,\n"
+"%d gelijksoortige toegevoegd."
 
 #
 msgid "Edit Timers and scan for new Events"
@@ -21789,32 +21855,32 @@ msgstr "Einde van periode"
 
 #
 msgid "Match title"
-msgstr ""
+msgstr "Overeenkomende titel"
 
 #
 msgid "AutoTimer was removed"
-msgstr ""
+msgstr "AutoTimer verwijderd"
 
 #
 msgid "missing parameter \"id\""
-msgstr ""
+msgstr "ontbrekende parameter \"id\""
 
 #
 #, python-format
 msgid "unable to find timer with id %i"
-msgstr ""
+msgstr "niet in staat timer met id %i te vinden"
 
 #
 msgid "autotimers need a match attribute"
-msgstr ""
+msgstr "autotimers moeten een overeenkomende eigenschap hebben"
 
 #
 msgid "AutoTimer was added successfully"
-msgstr ""
+msgstr "AutoTimer met succes toegevoegd"
 
 #
 msgid "AutoTimer was changed successfully"
-msgstr ""
+msgstr "AutoTimer met succes aangepast"
 
 #
 msgid "config changed."
@@ -21846,7 +21912,7 @@ msgstr "gedeeltelijke overeenkomst"
 
 #
 msgid "description match"
-msgstr ""
+msgstr "overeenkomst in beschrijving"
 
 #
 msgid "case-sensitive search"
@@ -21887,15 +21953,15 @@ msgstr "Op iedere service"
 
 #
 msgid "Any service/recording"
-msgstr ""
+msgstr "Elke zender/opname"
 
 #
 msgid "Title and Short description"
-msgstr ""
+msgstr "Titel en korte beschrijving"
 
 #
 msgid "Title and all descriptions"
-msgstr ""
+msgstr "Titel en gehele beschrijving"
 
 #
 msgid "AutoTimer Editor"
@@ -21923,13 +21989,15 @@ msgstr "Zenders toevoegen"
 
 #
 msgid "Set this NO to disable this AutoTimer."
-msgstr ""
+msgstr "Kies \"nee\" om deze AutoTimer uit te schakelen."
 
 #
 msgid ""
 "This is a name you can give the AutoTimer. It will be shown in the Overview "
 "and the Preview."
 msgstr ""
+"Een beschrijvende naam die alleen gebruikt wordt in de overzichtslijst en de "
+"preview functie."
 
 #
 msgid ""
@@ -21937,12 +22005,16 @@ msgid ""
 "german umlauts can be tricky as you have to know the encoding the channel "
 "uses."
 msgstr ""
+"Deze tekst wordt gezocht in programmatitels. Voor het zoeken op speciale "
+"tekens dient de encoding correct gekozen te zijn."
 
 #
 msgid ""
 "Encoding the channel uses for it's EPG data. You only need to change this if "
 "you're searching for special characters like the german umlauts."
 msgstr ""
+"Encoding die de zender gebruikt voor EPG data. Alleen van belang indien er "
+"speciale tekens als accenten of umlauts in de zoektekst staan"
 
 #
 msgid ""
@@ -21955,7 +22027,7 @@ msgstr ""
 
 #
 msgid "Select whether or not you want to enforce case correctness."
-msgstr ""
+msgstr "Kies of hoofdletters en kleine letters exact moeten overeenkomen."
 
 #
 msgid "Add zap timer instead of record timer?"
@@ -21966,58 +22038,70 @@ msgid ""
 "Set an end time for the timer. If you do, the timespan of the event might be "
 "blocked for recordings."
 msgstr ""
+"Stelt een eindtijd voor de timer in. Als u dat doet kan het tijdsbeslag "
+"wellicht een andere opname blokkeren."
 
 #
 msgid ""
 "With this option enabled the channel to record on can be changed to a "
 "alternative service it is restricted to."
 msgstr ""
+"Indien ingeschakeld kan een alternatieve zender worden gebruikt om de opname "
+"te maken als de ingestelde zender niet beschikbaar is."
 
 #
 msgid "Should this AutoTimer be restricted to a timespan?"
-msgstr ""
+msgstr "Moet deze AutoTimer beperkt blijven tot een tijdspanne?"
 
 #
 msgid ""
 "Lower bound of timespan. Nothing before this time will be matched. Offsets "
 "are not taken into account!"
 msgstr ""
+"Ondergrens van tijdspanne. Programma's vangen niet voor deze tijd aan. "
+"Offsets worden niet meegenomen."
 
 #
 msgid ""
 "Upper bound of timespan. Nothing after this time will be matched. Offsets "
 "are not taken into account!"
 msgstr ""
+"Bovengrensvan tijdspanne. Niets na dit tijdstip komt overeen. Offsets worden "
+"niet meegenomen!"
 
 #
 msgid ""
 "By enabling this events will not be matched if they don't occur on certain "
 "dates."
 msgstr ""
+"Door dit in te schakelen worden deze programma's niet vergeleken als zij "
+"niet op bepaalde dagen plaats vinden"
 
 #
 msgid ""
 "First day to match events. No event that begins before this date will be "
 "matched."
-msgstr ""
+msgstr "Eerste dag waarop programma's pas worden vergeleken."
 
 #
 msgid ""
 "Last day to match events. Events have to begin before this date to be "
 "matched."
 msgstr ""
+"Laatste dag om programma's te matchen. Programma's moeten voor die datum "
+"beginnen om overwogen te worden."
 
 #
 msgid "Change default recording offset?"
-msgstr ""
+msgstr "Standaard opname marges aanpassen?"
 
 #
 msgid "Time in minutes to prepend to recording."
-msgstr ""
+msgstr "De opname start dit aantal minuten eerder."
 
 #
 msgid "Time in minutes to append to recording."
-msgstr ""
+msgstr "Aantal minuten om de opname te verlengen."
 
 #
 msgid "Should this AutoTimer only match up to a certain event duration?"
@@ -22028,70 +22112,84 @@ msgid ""
 "Maximum event duration to match. If an event is longer than this amount of "
 "time (without offset) it won't be matched."
 msgstr ""
+"Maximale programma-duur die beschouwd wordt. Als een programma langer duurt "
+"(zonder de offset mee te rekenen) wordt er niet gematched."
 
 #
 msgid ""
 "Power state to change to after recordings. Select \"standard\" to not change "
 "the default behavior of enigma2 or values changed by yourself."
 msgstr ""
+"Met deze optie kan de Receiver worden uitgeschakeld na een opname. Kies "
+"\"standaard\" om dit ongewijzigd te laten."
 
 #
 msgid "Restrict \"after event\" to a certain timespan?"
-msgstr ""
+msgstr "Beperk \"na programma\" tot een zekere tijdspanne?"
 
 #
 msgid "Lower bound of timespan."
-msgstr ""
+msgstr "Ondergrens van tijdspanne"
 
 #
 msgid "Upper bound of timespan."
-msgstr ""
+msgstr "Bovengrens van tijdspanne"
 
 #
 msgid ""
 "With this option you can restrict the AutoTimer to a certain amount of "
 "scheduled recordings. Set this to 0 to disable this functionality."
 msgstr ""
+"Met deze optie kunt u AutoTimer beperken tot een aantal geplande opnames. "
+"Stel in op 0 om deze functie uit te schakelen."
 
 #
 msgid "Number of scheduled recordings left."
-msgstr ""
+msgstr "Overgebleven aantal ingeplande opnames."
 
 #
 msgid ""
 "The counter can automatically be reset to the limit at certain intervals."
 msgstr ""
+"De teller zal automatisch worden gereset als een bepaald aantal intervallen "
+"is bereikt."
 
 #
 msgid ""
 "When this option is enabled the AutoTimer won't match events where another "
 "timer with the same description already exists in the timer list."
 msgstr ""
+"Als deze optie is ingeschakeld zal Autotimer geen programma's matchen als er "
+"al een timer bestaat met dezelfde beschrijving in de timer lijst."
 
 #
 msgid ""
 "Defines where to search for duplicates (only title, short description or "
 "even extended description)"
 msgstr ""
+"Bepaalt waar naar dubbelen wordt gezocht (alleen titel, korte beschrijving "
+"of zelfs uitgebreide beschrijving)"
 
 #
 msgid ""
 "Should timers created by this AutoTimer be recorded to a custom location?"
-msgstr ""
+msgstr "Plaats opnames van deze AutoTimer op een alternatieve plaats?"
 
 #
 msgid "Select the location to save the recording to."
-msgstr ""
+msgstr "Kies de opname lokatie"
 
 #
 msgid "Tags the Timer/Recording will have."
-msgstr ""
+msgstr "Etiketten om aan de opname te verbinden voor de opname lijst."
 
 #
 msgid ""
 "Label Timers with season, episode and title, according to the SeriesPlugin "
 "settings."
 msgstr ""
+"Label timers met seizoen, episode en titel, conform de SeriesPlugin "
+"instellingen."
 
 #
 msgid "EPG encoding"
@@ -22111,7 +22209,7 @@ msgstr "Overschrijf items met de alternatieve Service"
 
 #
 msgid "Restrict to events on certain dates"
-msgstr ""
+msgstr "Beperk tot programma's op bepaalde datums"
 
 #
 msgid "Not before"
@@ -22119,7 +22217,7 @@ msgstr "Niet voor"
 
 #
 msgid "Not after"
-msgstr ""
+msgstr "Niet na"
 
 #
 msgid "Custom offset"
@@ -22159,7 +22257,7 @@ msgstr "Een maximum van x maal opnemen"
 
 #
 msgid "Amount of recordings left"
-msgstr ""
+msgstr "Aantal overgebleven opnames"
 
 #
 msgid "Reset count"
@@ -22171,7 +22269,7 @@ msgstr "Beschrijving moet uniek zijn"
 
 #
 msgid "Check for uniqueness in"
-msgstr ""
+msgstr "Controleer op uniek zijn in"
 
 #
 msgid "Use a custom location"
@@ -22191,7 +22289,7 @@ msgstr ""
 
 #
 msgid "Label series"
-msgstr ""
+msgstr "Label series"
 
 #
 msgid "The match attribute is mandatory."
@@ -22388,15 +22486,15 @@ msgstr ""
 
 #
 msgid "title or description match"
-msgstr ""
+msgstr "titel of beschrijving komt overeen"
 
 #
 msgid "title or short description match"
-msgstr ""
+msgstr "titel of korte beschrijving komen overeen"
 
 #
 msgid "short description match"
-msgstr ""
+msgstr "korte beschrijving komt overeen"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:59
 msgid "fritz.Box"
@@ -22412,7 +22510,7 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:385
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:419
 msgid "Checking"
-msgstr ""
+msgstr "Controle"
 
 #
 # File: ../src/RSTranslation.py, line: 33
@@ -22672,7 +22770,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1372
 msgid "Show log"
-msgstr ""
+msgstr "Toon log"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1373
 msgid "Delete log"
@@ -22731,7 +22829,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 1270
 #: ../src/plugin.py:1104 ../src/plugin.py:1270
 msgid "Added: "
-msgstr ""
+msgstr "Toegevoegd:"
 
 #
 # File: ../src/MyTubeSearch.py, line: 168
@@ -22761,7 +22859,7 @@ msgstr ""
 #: ../src/MyTubeSearch.py:201 ../src/MyTubeSearch.py:208 ../src/plugin.py:89
 #: ../src/plugin.py:96
 msgid "Australia"
-msgstr ""
+msgstr "Australië"
 
 #
 # File: ../src/MyTubeSearch.py, line: 182
@@ -22795,14 +22893,14 @@ msgstr ""
 # File: ../src/plugin.py, line: 77
 #: ../src/MyTubeSearch.py:189 ../src/plugin.py:77
 msgid "Comedy"
-msgstr ""
+msgstr "Komedie"
 
 #
 # File: ../src/MyTubeSearch.py, line: 204
 # File: ../src/plugin.py, line: 92
 #: ../src/MyTubeSearch.py:204 ../src/plugin.py:92
 msgid "Czech Republic"
-msgstr ""
+msgstr "Tsjechische republiek"
 
 #
 # File: ../src/MyTubeSearch.py, line: 229
@@ -22846,14 +22944,14 @@ msgstr ""
 # File: ../src/plugin.py, line: 1264
 #: ../src/plugin.py:1104 ../src/plugin.py:1264
 msgid "Duration: "
-msgstr ""
+msgstr "Duur:"
 
 #
 # File: ../src/MyTubeSearch.py, line: 193
 # File: ../src/plugin.py, line: 81
 #: ../src/MyTubeSearch.py:193 ../src/plugin.py:81
 msgid "Education"
-msgstr ""
+msgstr "Opvoeding"
 
 #
 # File: ../src/plugin.py, line: 526
@@ -22866,7 +22964,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 80
 #: ../src/MyTubeSearch.py:192 ../src/plugin.py:80
 msgid "Entertainment"
-msgstr ""
+msgstr "Vermaak"
 
 #
 # File: ../src/plugin.py, line: 371
@@ -22900,7 +22998,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 95
 #: ../src/MyTubeSearch.py:207 ../src/plugin.py:95
 msgid "Great Britain"
-msgstr ""
+msgstr "Groot Britannië"
 
 #
 # File: ../src/MyTubeSearch.py, line: 237
@@ -22943,7 +23041,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 100
 #: ../src/MyTubeSearch.py:212 ../src/plugin.py:100
 msgid "Ireland"
-msgstr ""
+msgstr "Ierland"
 
 #
 # File: ../src/MyTubeSearch.py, line: 213
@@ -23193,7 +23291,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 52
 #: ../src/MyTubeSearch.py:164 ../src/plugin.py:52
 msgid "Rating"
-msgstr ""
+msgstr "Waardering"
 
 #
 # File: ../src/plugin.py, line: 1104
@@ -23763,7 +23861,7 @@ msgstr ""
 
 #: ../src/FTPServerManager.py:166
 msgid "FTP Server Editor"
-msgstr ""
+msgstr "FTP Server aanpassen"
 
 #: ../src/FTPServerManager.py:235
 msgid "FTP Server Manager"
@@ -23787,7 +23885,7 @@ msgstr ""
 
 #: ../src/FTPBrowser.py:781
 msgid "Remote"
-msgstr ""
+msgstr "Afstandsbediening"
 
 #: ../src/FTPBrowser.py:164 ../src/FTPBrowser.py:746 ../src/FTPBrowser.py:789
 msgid "Remote (not connected)"
@@ -23873,7 +23971,7 @@ msgstr ""
 
 #: /home/dario/Plugins/ncidclient/plugin.py:100
 msgid "Network mount"
-msgstr ""
+msgstr "Netwerkmount"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:718
 msgid "NCID Client - Setup"
@@ -24077,7 +24175,7 @@ msgstr ""
 
 #
 msgid "Now"
-msgstr ""
+msgstr "Nu"
 
 #
 msgid "Full EPG"
@@ -24177,7 +24275,7 @@ msgstr ""
 
 #
 msgid "loading"
-msgstr ""
+msgstr "bezig met laden"
 
 #
 msgid "Manage your Picons"
@@ -24221,11 +24319,11 @@ msgstr ""
 
 #
 msgid "Press red key to enable bluetooth."
-msgstr ""
+msgstr "Druk rode knop om bluetooth te activeren"
 
 #
 msgid "Device is enabled."
-msgstr ""
+msgstr "Apparaat is ingeschakeld"
 
 #
 msgid "Sink"
@@ -24546,7 +24644,7 @@ msgstr ""
 
 #
 msgid "Start scan"
-msgstr ""
+msgstr "Start scan"
 
 #
 msgid "Press green key to connect device."
@@ -24646,19 +24744,19 @@ msgstr ""
 
 #
 msgid "Connected"
-msgstr ""
+msgstr "Verbonden"
 
 #
 msgid "Disconnected"
-msgstr ""
+msgstr "Verbroken"
 
 #
 msgid "is connected."
-msgstr ""
+msgstr "is verbonden"
 
 #
 msgid "is disconnected."
-msgstr ""
+msgstr "is verbroken"
 
 #
 msgid "Bluetooth Discovery"
@@ -24698,13 +24796,13 @@ msgid "Scan"
 msgstr "Zoeken"
 
 msgid "Scan All"
-msgstr ""
+msgstr "Scan alles"
 
 msgid "message"
-msgstr ""
+msgstr "Bericht"
 
 msgid "Remote Control System Code Setting"
-msgstr ""
+msgstr "Afstandsbedienings systeem code instellen"
 
 msgid "PiconManager (mod)"
 msgstr ""
@@ -24734,7 +24832,7 @@ msgid "VideoEnhancementPreview"
 msgstr "Videoverbetering voorbeeld"
 
 msgid "Autoresolution"
-msgstr ""
+msgstr "Autoresolutie"
 
 msgid "Autoresolution Switch"
 msgstr ""
@@ -24790,7 +24888,7 @@ msgid "Autoresolution videomode setup"
 msgstr ""
 
 msgid "Autoresolution settings"
-msgstr ""
+msgstr "Autoresolutie instellingen"
 
 msgid "Enable Autoresolution"
 msgstr ""
@@ -24814,7 +24912,7 @@ msgid "Autoresolution is not working in Scart/DVI-PC Mode"
 msgstr ""
 
 msgid "multi"
-msgstr ""
+msgstr "multi"
 
 msgid "System services"
 msgstr ""
