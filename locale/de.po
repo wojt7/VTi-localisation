@@ -121,8 +121,6 @@ msgid "Enable VPS on instant records"
 msgstr "VPS bei Sofortaufnahmen aktivieren"
 
 #
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
 msgid "Cancel"
 msgstr "Abbrechen"
 
@@ -27123,3 +27121,84 @@ msgstr "Einstellungen - Tasten"
 
 msgid "Buttons setup"
 msgstr "Tastenbelegung"
+
+msgid "bottom"
+msgstr "unten"
+
+msgid "OscamButler"
+msgstr "OscamButler"
+
+msgid "Please note: The generated configuration files do not contain any keys"
+msgstr "Achtung: Die erzeugten Konfigurationsdateien beinhalten keine Keys !"
+
+msgid "Create configuration"
+msgstr "Erzeuge Konfiguration"
+
+msgid "Create configuration and open Cam Center"
+msgstr "Erzeuge Konfiguration und öffne das Cam Center"
+
+msgid "Username for Oscam-client user:"
+msgstr "Benutzername für Oscam-Client Benutzer:"
+
+msgid "Password for Oscam-client user:"
+msgstr "Passwort für Oscam-Client Benutzer:"
+
+msgid "IP address of Oscam-server:"
+msgstr "IP Adresse des Oscam-Servers:"
+
+msgid "Port of Oscam-server:"
+msgstr "Port des Oscam-Servers:"
+
+#, python-format
+msgid "Use internal reader 0%s:"
+msgstr "Benutze internen Kartenleser 0%s:"
+
+msgid "Smartcard type in internal reader 0:"
+msgstr "Kartentyp im internen Kartenleser 0:"
+
+#, python-format
+msgid "Use internal reader 1%s:"
+msgstr "Benutze internen Kartenleser 1%s:"
+
+msgid "Smartcard type in internal reader 1:"
+msgstr "Kartentyp im internen Kartenleser 1:"
+
+msgid "Use external reader 0:"
+msgstr "Benutze externen Kartenleser 0:"
+
+msgid "Smartcard type in external reader 0:"
+msgstr "Kartentyp im externen Kartenleser 0:"
+
+msgid "Use external reader 1:"
+msgstr "Benutze externen Kartenleser 1:"
+
+msgid "Smartcard type in external reader 1:"
+msgstr "Kartentyp im externen Kartenleser 1:"
+
+msgid "Connect to Oscam server:"
+msgstr "Verbinde zu Oscam-Server:"
+
+msgid "Enable Oscam WebInterface (Port 83):"
+msgstr "Oscam Webinterface einschalten (Port 83):"
+
+msgid "Enable Oscam server (cs378x protocol) (Port 37800):"
+msgstr "Aktiviere Oscam-Server (cs378x Protokoll) (Port 37800):"
+
+msgid "Add user for client connection"
+msgstr "Benutzer für Clientverbindung hinzufügen"
+
+msgid "Enable Oscam server (Cccam protocol) (Port 22209):"
+msgstr "Aktiviere Oscam-Server (Cccam Protokoll) (Port 22209):"
+
+msgid "Oscam Butler"
+msgstr "Oscam Butler"
+
+msgid "Please enter username:"
+msgstr "Bitte Benutzernamen eingeben:"
+
+#, python-format
+msgid "Please enter password for user %s:"
+msgstr "Bitte Passwort für Benutzer %s eingeben:"
+
+msgid "create basic configuraton files for Oscam"
+msgstr "erzeuge grundlegende Konfigurationsdateien für Oscam"

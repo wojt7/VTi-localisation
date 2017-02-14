@@ -113,8 +113,6 @@ msgid "Enable VPS on instant records"
 msgstr "Włącz VPS na nagraniach błyskawicznych"
 
 #
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
 msgid "Cancel"
 msgstr "Anuluj"
 
@@ -18312,19 +18310,22 @@ msgid "List of Timers has been cleaned"
 msgstr "Lista Timerów została wyczyszczona"
 
 #
-#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
-#: src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79
+#: src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398
+#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Brakujący parametr: sRef"
 
 #
-#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84
+#: src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Brakujący parametr: początek"
 
 #
-#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89
+#: src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Brakujący parametr: koniec"
 
@@ -18478,7 +18479,8 @@ msgid "Movie '%s' deleted"
 msgstr "Nagranie '%s' usunięte"
 
 #
-#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61
+#: src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Niedozwolona wartość parametru: sRef - '%s'"
@@ -24783,3 +24785,84 @@ msgstr "Ustawienia przycisków"
 
 msgid "Buttons setup"
 msgstr "konfiguracja przycisków"
+
+msgid "bottom"
+msgstr ""
+
+msgid "OscamButler"
+msgstr ""
+
+msgid "Please note: The generated configuration files do not contain any keys"
+msgstr ""
+
+msgid "Create configuration"
+msgstr ""
+
+msgid "Create configuration and open Cam Center"
+msgstr ""
+
+msgid "Username for Oscam-client user:"
+msgstr ""
+
+msgid "Password for Oscam-client user:"
+msgstr ""
+
+msgid "IP address of Oscam-server:"
+msgstr ""
+
+msgid "Port of Oscam-server:"
+msgstr ""
+
+#, python-format
+msgid "Use internal reader 0%s:"
+msgstr ""
+
+msgid "Smartcard type in internal reader 0:"
+msgstr ""
+
+#, python-format
+msgid "Use internal reader 1%s:"
+msgstr ""
+
+msgid "Smartcard type in internal reader 1:"
+msgstr ""
+
+msgid "Use external reader 0:"
+msgstr ""
+
+msgid "Smartcard type in external reader 0:"
+msgstr ""
+
+msgid "Use external reader 1:"
+msgstr ""
+
+msgid "Smartcard type in external reader 1:"
+msgstr ""
+
+msgid "Connect to Oscam server:"
+msgstr ""
+
+msgid "Enable Oscam WebInterface (Port 83):"
+msgstr ""
+
+msgid "Enable Oscam server (cs378x protocol) (Port 37800):"
+msgstr ""
+
+msgid "Add user for client connection"
+msgstr ""
+
+msgid "Enable Oscam server (Cccam protocol) (Port 22209):"
+msgstr ""
+
+msgid "Oscam Butler"
+msgstr ""
+
+msgid "Please enter username:"
+msgstr ""
+
+#, python-format
+msgid "Please enter password for user %s:"
+msgstr ""
+
+msgid "create basic configuraton files for Oscam"
+msgstr ""

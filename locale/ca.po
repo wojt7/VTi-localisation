@@ -107,8 +107,6 @@ msgid "Enable VPS on instant records"
 msgstr ""
 
 #
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
-#: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:346
 msgid "Cancel"
 msgstr "Cancel·lar"
 
@@ -22794,4 +22792,85 @@ msgid "Setup - Buttons"
 msgstr ""
 
 msgid "Buttons setup"
+msgstr ""
+
+msgid "bottom"
+msgstr ""
+
+msgid "OscamButler"
+msgstr ""
+
+msgid "Please note: The generated configuration files do not contain any keys"
+msgstr ""
+
+msgid "Create configuration"
+msgstr ""
+
+msgid "Create configuration and open Cam Center"
+msgstr ""
+
+msgid "Username for Oscam-client user:"
+msgstr ""
+
+msgid "Password for Oscam-client user:"
+msgstr ""
+
+msgid "IP address of Oscam-server:"
+msgstr ""
+
+msgid "Port of Oscam-server:"
+msgstr ""
+
+#, python-format
+msgid "Use internal reader 0%s:"
+msgstr ""
+
+msgid "Smartcard type in internal reader 0:"
+msgstr ""
+
+#, python-format
+msgid "Use internal reader 1%s:"
+msgstr ""
+
+msgid "Smartcard type in internal reader 1:"
+msgstr ""
+
+msgid "Use external reader 0:"
+msgstr ""
+
+msgid "Smartcard type in external reader 0:"
+msgstr ""
+
+msgid "Use external reader 1:"
+msgstr ""
+
+msgid "Smartcard type in external reader 1:"
+msgstr ""
+
+msgid "Connect to Oscam server:"
+msgstr ""
+
+msgid "Enable Oscam WebInterface (Port 83):"
+msgstr ""
+
+msgid "Enable Oscam server (cs378x protocol) (Port 37800):"
+msgstr ""
+
+msgid "Add user for client connection"
+msgstr ""
+
+msgid "Enable Oscam server (Cccam protocol) (Port 22209):"
+msgstr ""
+
+msgid "Oscam Butler"
+msgstr ""
+
+msgid "Please enter username:"
+msgstr ""
+
+#, python-format
+msgid "Please enter password for user %s:"
+msgstr ""
+
+msgid "create basic configuraton files for Oscam"
 msgstr ""
