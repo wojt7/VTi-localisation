@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-10-09 00:21+0100\n"
+"PO-Revision-Date: 2017-02-08 04:30+0100\n"
 "Last-Translator: kapciu75 <kapciu1975@wp.pl>\n"
 "Language-Team: none\n"
 "Language: pl_PL\n"
@@ -11,36 +11,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #
 msgid "No"
 msgstr "Nie"
 
 msgid "Yes (safe mode)"
-msgstr ""
+msgstr "Tak (tryb bezpieczny)"
 
 #
 msgid "Yes"
 msgstr "Tak"
 
 msgid "%d.%B %Y"
-msgstr ""
+msgstr "%d.%B %Y"
 
 msgid "Enable VPS"
-msgstr ""
+msgstr "Włącz VPS"
 
 msgid "VPS-Time (date)"
-msgstr ""
+msgstr "Zegar VPS (data)"
 
 msgid "VPS-Time (time)"
-msgstr ""
+msgstr "Zegar VPS (czas)"
 
 msgid "always ask"
-msgstr ""
+msgstr "zawsze pytaj"
 
 msgid "VPS Settings"
-msgstr ""
+msgstr "Ustawienia VPS"
 
 #
 msgid ""
@@ -48,58 +48,69 @@ msgid ""
 msgstr "Aby nagrywać z timera, TV został włączony na nagrywany kanał!\n"
 
 msgid "VPS-Plugin checks if the channel supports VPS ..."
-msgstr ""
+msgstr "Wtyczka VPS sprawdza czy kanał obsługuje VPS..."
 
 msgid ""
 "The selected channel doesn't support VPS for manually programmed timers!\n"
 " Do you really want to enable VPS?"
 msgstr ""
+"Wybrany kanał nie obsługuje VPS dla timerów programowanych ręcznie!\n"
+"Czy naprawdę chcesz włączyć VPS?"
 
 msgid ""
 "The VPS-Plugin couldn't check if the selected channel supports VPS for "
 "manually programmed timers!\n"
 " Do you really want to enable VPS?"
 msgstr ""
+"Wtyczka VPS  nie mogła sprawdzić, czy wybrany kanał obsługuje VPS dla "
+"timerów programowanych ręcznie!\n"
+"Czy naprawdę chcesz włączyć VPS?"
 
 msgid "Yes, don't ask again"
-msgstr ""
+msgstr "Tak, ale nie pytaj ponownie"
 
 msgid ""
 "VPS-Plugin couldn't check if the selected channel supports VPS.\n"
 " Do you really want to enable VPS?"
 msgstr ""
+"Wtyczka VPS nie mogła sprawdzić, czy wybrany kanał obsługuje VPS.\n"
+"Czy naprawdę chcesz włączyć VPS?"
 
 msgid ""
 "The channel may support VPS\n"
 " Do you want to enable VPS?"
 msgstr ""
+"Kanał może wspierać VPS\n"
+"Czy chcesz włączyć VPS?"
 
 msgid ""
 "VPS-Plugin couldn't check if the channel supports VPS.\n"
 " Do you want to enable VPS anyway?"
 msgstr ""
+"Wtyczka VPS nie mogła sprawdzić, czy kanał obsługuje VPS.\n"
+"Czy chcesz włączyć VPS?"
 
 #, python-format
 msgid "VPS Setup Version %s"
-msgstr ""
+msgstr "Konfiguracja VPS wersja %s"
 
 msgid "Enable VPS-Plugin"
-msgstr ""
+msgstr "Włącz wtyczkę VPS"
 
 msgid "Starting time"
-msgstr ""
+msgstr "Czas startu"
 
 msgid "Wakeup from Deep-Standby is allowed"
-msgstr ""
+msgstr "Wybudzenie z głębokiego czuwania jest dozwolone."
 
 msgid "Seeking connected events"
-msgstr ""
+msgstr "Poszukiwanie powiązanych zdarzeń"
 
 msgid "VPS enabled by default"
-msgstr ""
+msgstr "VPS domyślnie włączone"
 
 msgid "Enable VPS on instant records"
-msgstr ""
+msgstr "Włącz VPS na nagraniach błyskawicznych"
 
 #
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:49
@@ -119,37 +130,48 @@ msgid ""
 "This plugin can determine whether a programme begins earlier or lasts "
 "longer. The channel has to provide reliable data."
 msgstr ""
+"Ta wtyczka może określić, czy program rozpoczyna się wcześniej lub trwa "
+"dłużej. Kanał musi dostarczyć wiarygodnych danych."
 
 msgid ""
 "If possible, x minutes before a timer starts VPS-Plugin will control whether "
 "the programme begins earlier. (0 disables feature)"
 msgstr ""
+"Jeśli to możliwe, x minut przed nagraniem wtyczka VPS będzie kontrolować, "
+"czy program zaczyna się wcześniej. (0 wyłącza funkcję)"
 
 msgid "Enable VPS by default (new timers)"
-msgstr ""
+msgstr "Włącz VPS domyślnie (nowe nagrania)"
 
 msgid ""
 "If enabled and necessary, the plugin will wake up the Dreambox from Deep-"
 "Standby for the defined starting time to control whether the programme "
 "begins earlier."
 msgstr ""
+"Jeśli opcja jest włączona i konieczna, wtyczka będzie wybudzać VU+ z "
+"głębokiego czuwania przez określony czas i kontrolować, czy program zaczyna "
+"się wcześniej."
 
 msgid ""
 "If a programme is interrupted and divided into separate events, the plugin "
 "will search for the connected events."
 msgstr ""
+"Jeśli program zostanie przerwany i podzielony na odrębne wydarzenia, wtyczka "
+"wyszuka połączonych wydarzeń."
 
 msgid ""
 "When yes, VPS will be enabled on instant records (stop after current event), "
 "if the channel supports VPS."
 msgstr ""
+"Jeżeli tak, VPS zostanie włączony do zapisów błyskawicznych (zatrzymanie po "
+"aktualnym wydarzeniu), jeśli kanał obsługuje VPS."
 
 #
 msgid "Really close without saving settings?"
 msgstr "Wyjść bez zapisywania ustawień?"
 
 msgid "VPS-Plugin Information"
-msgstr ""
+msgstr "Informacja wtyczki VPS"
 
 msgid ""
 "VPS-Plugin can react on delays arising in the startTime or endTime of a "
@@ -182,6 +204,35 @@ msgid ""
 "start time, e.g. given in magazines. If you set a VPS-Time, you have to "
 "leave timer name empty."
 msgstr ""
+"Wtyczka VPS może reagować na opóźnienia powstałe pomiędzy czasem rozpoczęcia "
+"i zakończenia programu. VPS jest obsługiwane tylko przez niektóre kanały!\n"
+"\n"
+"Jeśli włączysz VPS, nagrywanie rozpocznie się dopiero, gdy oznaczenia kanału "
+"programu są uruchomione.\n"
+"\n"
+"W przypadku wybrania opcji \"tak (tryb bezpieczny)\", nagranie rozpocznie "
+"się od zdefiniowanego czasu rozpoczęcia. Nagranie może rozpocząć się "
+"wcześniej i trwać dłużej.\n"
+"\n"
+"\n"
+"Obsługiwane kanały\n"
+"\n"
+"Niemcy:\n"
+"  ARD i ZDF\n"
+"\n"
+"Austria:\n"
+"  ORF\n"
+"\n"
+"Szwajcaria:\n"
+"  SF\n"
+"\n"
+"Republika Czeska:\n"
+"  CT\n"
+"\n"
+"Jeśli zegar jest programowany ręcznie (nie poprzez EPG), konieczne jest "
+"ustawienie zegara VP aby włączyć VPS. Zegar VPS (znany również jako PDC) "
+"jest pierwszym opublikowanym czasem rozpoczęcia, na przykład podanym w "
+"prasie. Jeśli ustawisz zegar VPS, trzeba zostawić nazwę timera pustą."
 
 msgid "Elektro Power Save"
 msgstr "Zapisz Elektro Power"
@@ -942,19 +993,19 @@ msgstr "20"
 
 #
 msgid "23976"
-msgstr ""
+msgstr "23976"
 
 #
 msgid "24000"
-msgstr ""
+msgstr "24000"
 
 #
 msgid "25000"
-msgstr ""
+msgstr "25000"
 
 #
 msgid "29970"
-msgstr ""
+msgstr "29970"
 
 #
 msgid "3"
@@ -1216,11 +1267,11 @@ msgstr "Tryb AP"
 
 #
 msgid "APN :"
-msgstr ""
+msgstr "APN :"
 
 #
 msgid "ASCII"
-msgstr ""
+msgstr "ASCII"
 
 #
 msgid "Abort"
@@ -1240,7 +1291,7 @@ msgstr "Punkt dostępowy:"
 
 #
 msgid "Action after summit"
-msgstr ""
+msgstr "Akcja po szczycie"
 
 #
 msgid "Action on long powerbutton press"
@@ -1692,7 +1743,7 @@ msgstr "Szybkość przepływu:"
 
 #
 msgid "Blindscan"
-msgstr ""
+msgstr "Szybkie skanowanie"
 
 #
 msgid "Blinking time"
@@ -1721,11 +1772,11 @@ msgstr "Zakładka URL"
 #
 #, python-format
 msgid "Bookmark for button %s:"
-msgstr ""
+msgstr "Zakładka dla przycisku %s:"
 
 #
 msgid "Bookmark for button %s (long):"
-msgstr ""
+msgstr "Zakładka dla przycisku %s (długi):"
 
 #
 msgid "Bookmarks"
@@ -2384,7 +2435,7 @@ msgstr "D"
 
 #
 msgid "DAC"
-msgstr ""
+msgstr "DAC"
 
 #
 msgid "DHCP"
@@ -2863,7 +2914,7 @@ msgstr "Czy chcesz zobaczyć wprowadzenie?"
 
 #
 msgid "Dolby Digital / DTS downmix"
-msgstr ""
+msgstr "Dolby Digital / DTS Downmix"
 
 #
 msgid "Dolby Digital default"
@@ -3493,7 +3544,7 @@ msgstr "Rozmiar ramki w pełnym widoku"
 
 #
 msgid "Framerate"
-msgstr ""
+msgstr "Częstotliwość wyświetlania klatek"
 
 #
 #, python-format
@@ -3591,7 +3642,7 @@ msgstr "Pełna kopia zapasowa do HDD"
 
 #
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #
 msgid ""
@@ -3603,7 +3654,7 @@ msgstr ""
 
 #
 msgid "GUI restart now, press 'OK' button."
-msgstr ""
+msgstr "GUI wymaga ponownego uruchomienia, naciśnij przycisk OK."
 
 #
 msgid "Gateway"
@@ -3826,15 +3877,15 @@ msgstr ""
 
 #
 msgid "Ignore Broadcast SSID"
-msgstr ""
+msgstr "Ignoruj rozgłaszanie SSID"
 
 #
 msgid "Image"
-msgstr ""
+msgstr "Obraz"
 
 #
 msgid "Image creation FAILED!"
-msgstr ""
+msgstr "Tworzenie obrazu nie powiodło się!"
 
 #
 msgid "In Progress"
@@ -3846,7 +3897,7 @@ msgstr "Dołącz opcjonalną informację"
 
 #
 msgid "Include settop information"
-msgstr ""
+msgstr "Dołącz informację tunera"
 
 #
 msgid "Increased voltage"
@@ -3914,7 +3965,7 @@ msgstr "Konfiguracja urządzenia wejściowego"
 
 #
 msgid "Input mount point path."
-msgstr ""
+msgstr "Wprowadź ścieżkę punktu montowania."
 
 #
 #, python-format
@@ -4047,7 +4098,7 @@ msgstr ""
 
 #
 msgid "Invalid WirelessLan Module.\n"
-msgstr ""
+msgstr "Nieprawidłowy moduł WLAN.\n"
 
 #
 msgid "Invalid beacon\n"
@@ -4290,7 +4341,7 @@ msgstr "Zablokuj:"
 
 #
 msgid "Locking Fail Error"
-msgstr ""
+msgstr "Blokowanie niepowodzenia błędu"
 
 #
 msgid "Log results to harddisk"
@@ -4334,7 +4385,7 @@ msgstr "MSA"
 
 #
 msgid "Mac address fail"
-msgstr ""
+msgstr "Adres MAC zawiódł"
 
 #
 msgid "Main menu"
@@ -4517,7 +4568,7 @@ msgstr ""
 
 #
 msgid "Mount Point"
-msgstr ""
+msgstr "Punkt montowania"
 
 #
 #, python-format
@@ -4756,7 +4807,7 @@ msgstr "Nowe"
 
 #
 msgid "New PIN"
-msgstr ""
+msgstr "Nowy PIN"
 
 #
 msgid "Next"
@@ -4850,6 +4901,8 @@ msgid ""
 "No partition list found on device.\n"
 "Please click BLUE key and do Initialize to use this device."
 msgstr ""
+"Nie znaleziono wykazu partycji na urządzeniu.\n"
+"Proszę kliknąć niebieski przycisk aby zainicjalizować to urządzenie."
 
 #
 msgid "No positioner capable frontend found."
@@ -5005,7 +5058,7 @@ msgstr ""
 
 #
 msgid "Not-Associated"
-msgstr ""
+msgstr "Niepowiązany"
 
 #
 msgid ""
@@ -5058,6 +5111,8 @@ msgid ""
 "One hdd test error\n"
 "Press 'EXIT' button!"
 msgstr ""
+"Błąd testu dysku HDD.\n"
+"Naciśnij przycisk EXIT!"
 
 #
 msgid "Only Free scan"
@@ -5077,7 +5132,7 @@ msgstr "Otwórz stronę"
 
 #
 msgid "Opera Browser"
-msgstr ""
+msgstr "Przeglądarka Opera"
 
 #
 msgid ""
@@ -5093,7 +5148,7 @@ msgstr "Przeglądarka Opera"
 
 #
 msgid "Opera Web Browser Plugin v1.0"
-msgstr ""
+msgstr "Przeglądarka Opera Web Plugin v1.0"
 
 #
 msgid "Orbital position"
@@ -5113,7 +5168,7 @@ msgstr "PAL"
 
 #
 msgid "PCR PID"
-msgstr ""
+msgstr "PCR PID"
 
 #
 msgid "PIDs"
@@ -5121,7 +5176,7 @@ msgstr "Pidy"
 
 #
 msgid "PIN :"
-msgstr ""
+msgstr "PIN :"
 
 #
 msgid "PLEASE READ THIS:"
@@ -5129,7 +5184,7 @@ msgstr "Proszę przeczytaj to:"
 
 #
 msgid "PMT PID"
-msgstr ""
+msgstr "PMT PID"
 
 #
 msgid "PWM value"
@@ -5260,6 +5315,8 @@ msgid ""
 "Place the USB-flash drive in the (front) USB-port and switch the receiver "
 "off and on with the powerswitch on the back of the receiver."
 msgstr ""
+"Umieść dysk USB w (przednim) porcie USB i wyłącz odbiornik przyciskiem z \n"
+"tyłu odbiornika."
 
 #
 msgid "Play"
@@ -5306,6 +5363,8 @@ msgid ""
 "Please be patient, a backup will now be made, because of the used filesystem "
 "the back-up will take about 5-7 minutes for this system."
 msgstr ""
+"Prosimy o cierpliwość, kopia zapasowa zostanie wykonana, z tym systemem \n"
+"plików wykonanie kopii zapasowej potrwa około 5-7."
 
 #
 msgid "Please change recording endtime"
@@ -5332,12 +5391,16 @@ msgid ""
 "Please check again.\n"
 "Start symbolrate must be between 2MHz and 45MHz."
 msgstr ""
+"Prosze sprawdź ponownie.\n"
+"Symbolrate musi zawierać sie w zakresie od 2MHz do 45MHz."
 
 #
 msgid ""
 "Please check again.\n"
 "Stop frequency must be between 950 and 2150."
 msgstr ""
+"Prosze sprawdź ponownie.\n"
+"Częstotliwość musi zawierać sie w zakresie od 950 do 2150."
 
 #
 msgid ""
@@ -5520,27 +5583,27 @@ msgstr "Ustaw Tuner D"
 
 #
 msgid "Please set up tuner E"
-msgstr ""
+msgstr "Ustaw Tuner E"
 
 #
 msgid "Please set up tuner F"
-msgstr ""
+msgstr "Ustaw Tuner F"
 
 #
 msgid "Please set up tuner G"
-msgstr ""
+msgstr "Ustaw Tuner G"
 
 #
 msgid "Please set up tuner H"
-msgstr ""
+msgstr "Ustaw Tuner H"
 
 #
 msgid "Please set up tuner I"
-msgstr ""
+msgstr "Ustaw Tuner I"
 
 #
 msgid "Please set up tuner J"
-msgstr ""
+msgstr "Ustaw Tuner J"
 
 #
 msgid "Please setup your tuner configuration."
@@ -6670,7 +6733,7 @@ msgstr "Informacje o kanale..."
 
 #
 msgid "Service EPGBar"
-msgstr ""
+msgstr "Informacja o EPG"
 
 #
 msgid "Service List"
@@ -6786,7 +6849,7 @@ msgstr "Nagrania"
 
 #
 msgid "Setup - Timeshift"
-msgstr ""
+msgstr "Ustawienia Timeshift"
 
 #
 msgid "Setup - Service List"
@@ -7740,6 +7803,8 @@ msgid ""
 "There is a valid USB-flashdrive detected in one of the USB-ports, therefore "
 "an extra copy of the back-up image will now be copied to that USB-flashdrive."
 msgstr ""
+"Wykryto pamięć USB w jednym z portów USB, zatem kopia zapasowa obrazu \n"
+"zostanie wykonana na tej pamięci USB."
 
 #
 msgid ""
@@ -8213,7 +8278,7 @@ msgstr "USALS"
 
 #
 msgid "USB Image created in: "
-msgstr ""
+msgstr "Obraz USB utworzono w:"
 
 #
 msgid "USB Stick"
@@ -8367,6 +8432,8 @@ msgid ""
 "Upgrade will take about 5 minutes to finish.\n"
 "Do you want to upgrade?"
 msgstr ""
+"Aktualizacja zajmie około 5 minut, do zakończenia.\n"
+"Czy chcesz uaktualnić?"
 
 #
 msgid "Upgrading"
@@ -8386,7 +8453,7 @@ msgstr "Użyj"
 
 #
 msgid "Use AP Mode"
-msgstr ""
+msgstr "Użyj trybu AP"
 
 #
 msgid "Use DHCP"
@@ -8775,7 +8842,7 @@ msgstr "WSS na 4:3"
 
 #
 msgid "Wait a moment"
-msgstr ""
+msgstr "Poczekaj chwilę"
 
 #
 msgid "Wait a moment..."
@@ -8862,7 +8929,7 @@ msgstr "Co chcesz skanować?"
 
 #
 msgid "Wheel RIGHT"
-msgstr ""
+msgstr "Koło w prawo"
 
 #
 msgid ""
@@ -9101,6 +9168,9 @@ msgid ""
 "\n"
 "Do you want to set the pin now?"
 msgstr ""
+"\"Musisz ustawić kod PIN i ukryć go przed swoimi dziećmi.\n"
+"\n"
+"Chcesz ustawić PIN teraz?"
 
 #
 msgid ""
@@ -9362,7 +9432,7 @@ msgstr "Sortuj alfabetycznie"
 
 #
 msgid "and there is made an extra copy in: "
-msgstr ""
+msgstr "i tam jest dodatkowa kopia w:"
 
 #
 msgid "assigned CAIds:"
@@ -10633,7 +10703,7 @@ msgstr "Pionowa (V)"
 
 #
 msgid "vfat - for USB flash memory"
-msgstr ""
+msgstr "vfat - dla pamięci USB"
 
 #
 msgid "video tune"
@@ -11258,11 +11328,11 @@ msgstr "Drugie okno"
 
 #
 msgid "Mini TV"
-msgstr ""
+msgstr "Mini TV"
 
 #
 msgid "Live TV"
-msgstr ""
+msgstr "Live TV"
 
 #
 msgid "Use extended PictureInGraphic (PiG + transparent skin)"
@@ -11925,6 +11995,8 @@ msgid ""
 "You can now choose your preferred skin.\n"
 "Do you want to change default skin?"
 msgstr ""
+"Teraz można wybrać preferowany skórę.\n"
+"Czy chcesz zmienić domyślną skórę?"
 
 #
 msgid "Chipset"
@@ -12104,19 +12176,19 @@ msgstr "5 sekund"
 
 #
 msgid "6 seconds"
-msgstr ""
+msgstr "6 sekund"
 
 #
 msgid "7 seconds"
-msgstr ""
+msgstr "7 sekund"
 
 #
 msgid "8 seconds"
-msgstr ""
+msgstr "8 sekund"
 
 #
 msgid "9 seconds"
-msgstr ""
+msgstr "9 sekund"
 
 #
 msgid "10 seconds"
@@ -12300,60 +12372,61 @@ msgstr "Nie zapisuj wydarzenia timeshift krótszego niż X minut"
 
 #
 msgid "Zap Up/Down"
-msgstr ""
+msgstr "Przełącz w górę/w dół"
 
 #
 msgid "History Prev/Next"
-msgstr ""
+msgstr "Historia poprzednia/następna"
 
 #
 msgid "Box or driver is not support FCC."
-msgstr ""
+msgstr "Tuner lub sterownik nie obsługuje FCC."
 
 #
 msgid "FCC enabled"
-msgstr ""
+msgstr "FCC włączone"
 
 #
 msgid "Max Channels"
-msgstr ""
+msgstr "Maksymalna liczba kanałów"
 
 #
 msgid "priority"
-msgstr ""
+msgstr "priorytet"
 
 #
 msgid "Disable FastChannelChange"
-msgstr ""
+msgstr "Wyłącz szybką zmianę kanałów"
 
 #
 msgid "Enable FastChannelChange"
-msgstr ""
+msgstr "Włącz szybką zmianę kanałów"
 
 #
 msgid "Fast Channel Change Setup"
-msgstr ""
+msgstr "Ustawienia szybkiej zmiany kanałów"
 
 #
 msgid "Disable FCC during recordings"
-msgstr ""
+msgstr "Wyłącz FCC podczas nagrywania"
 
 #
 msgid "FCCSetup"
-msgstr ""
+msgstr "Ustawienia FCC"
 
 #
 msgid "Display crash information on TV"
-msgstr ""
+msgstr "Wyświetlaj crashlog na ekranie telewizora"
 
 #
 msgid "Select packages to install"
-msgstr ""
+msgstr "Wybierz pakiety do instalacji"
 
 #
 msgid ""
 "Do you want timeshift to be actviated automatically (permanent timeshift) ?"
 msgstr ""
+"Czy chcesz aby timeshift był aktywowany automatycznie (stały timeshift)?"
 
 #
 msgid ""
@@ -12362,18 +12435,24 @@ msgid ""
 "You can now also use VTi BackupSuite to restore your previously saved "
 "settings, plugins or favourite bouquets ?"
 msgstr ""
+"Teraz możesz korzystać z VTI ZerO do usunięcia niektórych pakietów, "
+"których \n"
+"nie potrzebujesz.\n"
+"\n"
+"Możesz również użyć VTI BackupSuite aby przywrócić wcześniej zapisane \n"
+"ustawienia, wtyczki lub ulubione bukiety."
 
 #
 msgid "Next step"
-msgstr ""
+msgstr "Następny krok"
 
 #
 msgid "Remove not needed packages (VTi ZerO)"
-msgstr ""
+msgstr "Usuń niepotrzebne pakiety (VTi ZerO)"
 
 #
 msgid "Restore configuration (VTi BackupSuite)"
-msgstr ""
+msgstr "Przywracanie konfiguracji (VTi BackupSuite)"
 
 #
 msgid ""
@@ -12381,6 +12460,9 @@ msgid ""
 "\n"
 "Please configure timeshift options:"
 msgstr ""
+"Użyj lewego i prawego przycisku, aby zmienić opcję.\n"
+"\n"
+"Proszę skonfigurować opcje timeshift:"
 
 #
 msgid "Channel -"
@@ -12392,171 +12474,171 @@ msgstr "Kanał +"
 
 #
 msgid "Show favourite list with bouquet button"
-msgstr ""
+msgstr "Pokaż listę ulubionych za pomocą przycisku bukiet"
 
 #
 msgid "Use channel +/- buttons for channel zap"
-msgstr ""
+msgstr "Przełącz kanał za pomocą przycisku kanał +/-"
 
 #
 msgid "Please configure function for short keypress of Power button"
-msgstr ""
+msgstr "Proszę skonfigurować funkcję dla krótkiego naciśnięcia przycisku Power"
 
 #
 msgid "Please configure function for long keypress of Exit button"
-msgstr ""
+msgstr "Proszę skonfigurować funkcję dla długiego naciśnięcia przycisku Exit"
 
 #
 msgid "Please configure function for short keypress of REC button"
-msgstr ""
+msgstr "Proszę skonfigurować funkcję dla krótkiego naciśnięcia przycisku REC"
 
 #
 msgid "Please select your preferred EPG view"
-msgstr ""
+msgstr "Proszę wybrać preferowany widok EPG"
 
 #
 msgid "Do you want to change channels with Channel +/- buttons?"
-msgstr ""
+msgstr "Chcesz zmieniać kanały klawiszami kanałów +/-?"
 
 #
 msgid "Software Setup"
-msgstr ""
+msgstr "Konfiguracja oprogramowania"
 
 #
 msgid "Please press EPG/Info key for detailed error description"
-msgstr ""
+msgstr "Proszę nacisnąć przycisk EPG/Info dla szczegółowego opisu błędu"
 
 #
 msgid "Subtitle settings"
-msgstr ""
+msgstr "Ustawienia napisów"
 
 #
 msgid "Subtitle font color"
-msgstr ""
+msgstr "Kolor czcionki napisów"
 
 #
 msgid "Subtitle font size"
-msgstr ""
+msgstr "Rozmiar czcionki napisów"
 
 #
 msgid "Subtitle padding Y"
-msgstr ""
+msgstr "Wypełnienie napisów"
 
 #
 msgid "Background color"
-msgstr ""
+msgstr "Kolor tła"
 
 #
 msgid "Background transparency"
-msgstr ""
+msgstr "Przeźroczystość tła"
 
 #
 msgid "Character edge style"
-msgstr ""
+msgstr "Styl krawędzi liter"
 
 #
 msgid "Character style level"
-msgstr ""
+msgstr "Poziom stylu litery"
 
 #
 msgid "Subtitle text transparency"
-msgstr ""
+msgstr "Przejrzystość tekstu napisów"
 
 #
 msgid "Use original position"
-msgstr ""
+msgstr "Użyj oryginalnej pozycji"
 
 #
 msgid "Subtitle alignment"
-msgstr ""
+msgstr "Dostosowanie napisów"
 
 #
 msgid "Subtitle position"
-msgstr ""
+msgstr "Pozycja napisów"
 
 #
 msgid "Center DVB subtitles"
-msgstr ""
+msgstr "Wyrównaj napisy DVB"
 
 #
 msgid "Rewrap subtitles"
-msgstr ""
+msgstr "Zawijaj napisy"
 
 #
 msgid "Subtitle delay when timing lacks"
-msgstr ""
+msgstr "Opóźnienie napisów gdy brakuje czasu"
 
 #
 msgid "Subtitle delay when timing is bad"
-msgstr ""
+msgstr "Opóźnienie napisów gdy czas jest zły"
 
 #
 msgid "External subtitle switch fonts"
-msgstr ""
+msgstr "Czcionki napisów zewnętrznych"
 
 #
 msgid "External subtitle dialog colorisation"
-msgstr ""
+msgstr "Kolor napisów zewnętrznych"
 
 #
 msgid "Delay for external subtitles"
-msgstr ""
+msgstr "Kolor napisów zewnętrznych"
 
 #
 msgid "Set fps for external subtitles"
-msgstr ""
+msgstr "Ustaw FPS dla napisów zewnętrznych"
 
 #
 msgid "Automatically turn on external subtitles"
-msgstr ""
+msgstr "Włącz automatycznie dla napisów zewnętrznych"
 
 #
 msgid "Subtitle Quickmenu"
-msgstr ""
+msgstr "Menu podręczne napisów"
 
 #
 msgid "Force LNB Power"
-msgstr ""
+msgstr "Uruchom zasilanie LNB"
 
 #
 msgid "Force ToneBurst"
-msgstr ""
+msgstr "Uruchom ToneBurst"
 
 #
 msgid "DVB CI Delay"
-msgstr ""
+msgstr "Opóźnienie DVB CI"
 
 #
 msgid "Original"
-msgstr ""
+msgstr "Oryginalny"
 
 #
 msgid "No delay"
-msgstr ""
+msgstr "Brak opóźnienia"
 
 #
 msgid "center"
-msgstr ""
+msgstr "centralny"
 
 #
 msgid "No transparency"
-msgstr ""
+msgstr "Brak przejrzystości"
 
 #
 msgid "Depressed"
-msgstr ""
+msgstr "Wklęsły"
 
 #
 msgid "Raised"
-msgstr ""
+msgstr "Podniesiony"
 
 #
 msgid "Uniform"
-msgstr ""
+msgstr "Jednolity"
 
 #
 msgid "Full transparency"
-msgstr ""
+msgstr "Pełna przejrzystość"
 
 #
 msgid "magneta"
@@ -12564,125 +12646,129 @@ msgstr ""
 
 #
 msgid "Limit FCC to current bouquet"
-msgstr ""
+msgstr "Limit FCC dla aktualnego bukietu"
 
 #
 msgid "FCC restart"
-msgstr ""
+msgstr "Restart FCC"
 
 #
 msgid "Show build in SecondInfobar"
-msgstr ""
+msgstr "Pokaż build w SecondInfobar\""
 
 #
 msgid "SecondInfobar timeout"
-msgstr ""
+msgstr "Limit czasu dla SecondInfobar"
 
 #
 msgid "same as Infobar"
-msgstr ""
+msgstr "tak samo jak w Infobar"
 
 #
 msgid "Use cross left/right buttons for bouquet change in service list"
-msgstr ""
+msgstr "Użyj przycisków lewy/prawy dla zmiany bukietu w liście kanałów"
 
 #
 msgid "Use OK button for opening favourite list"
-msgstr ""
+msgstr "Użyj przycisku OK do otwierania listy ulubionych"
 
 #
 msgid "Timeout for double-click (ms)"
-msgstr ""
+msgstr "Limit czasu dla podwójnego kliknięcia (ms)"
 
 #
 msgid "Use double click for OK button"
-msgstr ""
+msgstr "Użyj podwójnego kliknięcia dla przycisku OK"
 
 #
 msgid "Enable advertisment detection (I-net is mandatory)"
-msgstr ""
+msgstr "Włącz wykrywanie reklam (I-net jest niezbędny)"
 
 #
 msgid "Show icons in service list at services with advertisment"
-msgstr ""
+msgstr "Pokaż ikony na liście kanałów z kanałami, z reklamą"
 
 #
 msgid "Exclude services with advertisment at left/right zapping"
-msgstr ""
+msgstr "Wyklucz kanały z reklamą przełączając lewy/prawy"
 
 #
 msgid "Set marker for advertisment during recording"
-msgstr ""
+msgstr "Ustaw marker dla reklamy w trakcie nagrywania"
 
 #
 msgid "Scan in background"
-msgstr ""
+msgstr "Skanuj w tle"
 
 #
 msgid "Show preview pictures in service list"
-msgstr ""
+msgstr "Pokazuj podgląd w liście kanałów"
 
 #
 msgid "Time in minutes before preview pictures will be updated"
-msgstr ""
+msgstr "Czas w minutach przed ponowną aktualizacją podglądu"
 
 #
 msgid "Include configuration file in crash log"
-msgstr ""
+msgstr "Dołącz plik konfiguracyjny w crashlogu"
 
 #
 msgid "Fast Scan"
-msgstr ""
+msgstr "Szybkie skanowanie"
 
 #
 msgid "Scanning %s..."
-msgstr ""
+msgstr "Skanuję %s..."
 
 #
 msgid "Scanning failed!"
-msgstr ""
+msgstr "Skanowanie nie powiodło się!"
 
 #
 msgid "List version %d, found %d channels"
-msgstr ""
+msgstr "Wersja listy %d, znaleziono %d kanałów"
 
 #
 msgid "HD list"
-msgstr ""
+msgstr "Lista HD"
 
 #
 msgid "Select your provider, and press OK to start the scan"
 msgstr ""
+"Wybierz dostawcę, a następnie naciśnij przycisk OK, aby rozpocząć skanowanie"
 
 #
 msgid "Use fastscan channel names"
-msgstr ""
+msgstr "Użyj nazw kanałów szybkiego skanowania"
 
 #
 msgid "Enable auto fast scan"
-msgstr ""
+msgstr "Włącz automatyczne szybkie skanowanie"
 
 #
 msgid "Enable auto fast scan for %s"
-msgstr ""
+msgstr "Włącz automatyczne szybkie skanowanie dla %s"
 
 #
 msgid ""
 "A recording is currently running. Please stop the recording before trying to "
 "scan."
 msgstr ""
+"Nagrywanie jest obecnie uruchomione, przed próbą skanowania proszę "
+"zatrzymać \n"
+"nagrywanie."
 
 #
 msgid "No suitable sat tuner found!"
-msgstr ""
+msgstr "Brak tunera!"
 
 #
 msgid "Automatic framerate detection"
-msgstr ""
+msgstr "Automatyczne wykrywanie ilości klatek"
 
 #
 msgid "Mode for framerate change"
-msgstr ""
+msgstr "Tryb dla zmiany ilości klatek"
 
 #
 msgid ""
@@ -12690,34 +12776,40 @@ msgid ""
 "Current framerate: %s\n"
 "New framerate: %s\n"
 msgstr ""
+"Zmiana ilości klatek dla bieżącego kanału?\n"
+"Aktualna ilość klatek: %s\n"
+"Nowy ilość klatek: %s\n"
+"\"\n"
 
 #
 msgid "automatically"
-msgstr ""
+msgstr "automatycznie"
 
 #
 msgid "manually"
-msgstr ""
+msgstr "ręcznie"
 
 #
 msgid "Hide Infobar when SecondInfobar is shown"
-msgstr ""
+msgstr "Ukryj Infobar, gdy wyświetlany jest SecondInfobar"
 
 #
 msgid "Can not find wireless lan devices that support AP mode."
 msgstr ""
+"Nie można odnaleźć urządzenia bezprzewodowego sieci LAN, które obsługuje\n"
+"tryb AP."
 
 #
 msgid "Use alternative service list (horizontal) mode"
-msgstr ""
+msgstr "Użyj trybu alternatywnej listy kanałów (poziomo)"
 
 #
 msgid "Do you want to install OScam as SoftCam for your smartcards?"
-msgstr ""
+msgstr "Czy chcesz zainstalować Oscam jako softcam dla Twojej karty kodowej?"
 
 #
 msgid "The SoftCam was installed successfully"
-msgstr ""
+msgstr "Softcam zaostał zainstalowany pomyślnie"
 
 #
 msgid "Autostart"
@@ -13289,175 +13381,175 @@ msgstr "Przycisk skrótu"
 
 #
 msgid "Stop Timeshift"
-msgstr ""
+msgstr "Zatrzymaj timeshift"
 
 #
 msgid "Timeshift switch to Live TV"
-msgstr ""
+msgstr "Zamień timeshift w nagranie"
 
 #
 msgid "Stop running recordings"
-msgstr ""
+msgstr "Wstrzymaj nagrania"
 
 #
 msgid "Previous timeshift event"
-msgstr ""
+msgstr "Poprzednie wydarzenie timeshift"
 
 #
 msgid "Next timeshift event"
-msgstr ""
+msgstr "Następne wydarzenie timeshift"
 
 #
 msgid "Select timeshift event"
-msgstr ""
+msgstr "Wybierz wydarzenie timeshift"
 
 #
 msgid "Select Buttons"
-msgstr ""
+msgstr "Wybierz przyciski"
 
 #
 msgid "MultiQuickButton button selection"
-msgstr ""
+msgstr "Wybór przycisków MultiQuickButton"
 
 #  msgid ""
 # msgstr ""
 msgid "Picon folder: "
-msgstr ""
+msgstr "Folder picon:"
 
 msgid "Reading Channels..."
-msgstr ""
+msgstr "Czytam kanały..."
 
 msgid "Loaded Picons: "
-msgstr ""
+msgstr "Załadowane picony:"
 
 msgid "Not found Picons: "
-msgstr ""
+msgstr "Nie znalezione picon:"
 
 msgid "Download progress: "
-msgstr ""
+msgstr "Postęp pobierania:"
 
 msgid "Show group: "
-msgstr ""
+msgstr "Pokaż grupę:"
 
 msgid "Standard picon: "
-msgstr ""
+msgstr "Standardowe kanały:"
 
 msgid "Select drive"
-msgstr ""
+msgstr "Wybierz napęd"
 
 msgid "More selections"
-msgstr ""
+msgstr "Inne pozycje"
 
 msgid "Download picons"
-msgstr ""
+msgstr "Pobierz picony"
 
 msgid "Select path"
-msgstr ""
+msgstr "Wybierz ścieżkę"
 
 msgid "Create folder"
-msgstr ""
+msgstr "Utwórz folder"
 
 msgid "Show random Picon"
-msgstr ""
+msgstr "Pokaż losową piconę"
 
 msgid "Next Group"
-msgstr ""
+msgstr "Następna grupa"
 
 msgid "Previous Group"
-msgstr ""
+msgstr "Poprzednia grupa"
 
 msgid "Set / clear standard Picon"
 msgstr "Setze / entferne Standardpicon"
 
 msgid "FreeSpace: Drive Not Found !"
-msgstr ""
+msgstr "Wolne miejsce: Napęd nie znaleziony!"
 
 msgid "FreeSpace: "
-msgstr ""
+msgstr "Wolne miejsce:"
 
 msgid "Enter Picon Dir:"
-msgstr ""
+msgstr "Wprowadź folder picon:"
 
 msgid "Download finished !"
-msgstr ""
+msgstr "Pobieranie zakończone!"
 
 msgid "Choose Picon folder"
-msgstr ""
+msgstr "Wybierz folder picon"
 
 msgid "FreeSpace:"
-msgstr ""
+msgstr "Wolne Miejsce:"
 
 msgid "Channels:"
-msgstr ""
+msgstr "Kanały:"
 
 msgid "Server temporarily unavailable"
-msgstr ""
+msgstr "Serwer tymczasowo niedostępny"
 
 msgid "PiconManagerMod - Settings"
-msgstr ""
+msgstr "Ustawienia PiconManagerMod"
 
 msgid "Select from list"
-msgstr ""
+msgstr "Wybierz z listy"
 
 msgid "OK and exit"
-msgstr ""
+msgstr "OK i wyjdź"
 
 msgid "Set Filter:"
-msgstr ""
+msgstr "Ustaw filtr:"
 
 msgid "Size"
-msgstr ""
+msgstr "Rozmiar"
 
 msgid "Creator"
-msgstr ""
+msgstr "Kreator"
 
 msgid "bit"
-msgstr ""
+msgstr "kawałek"
 
 msgid "Option:"
-msgstr ""
+msgstr "Opcja:"
 
 msgid "Remember permanently?"
-msgstr ""
+msgstr "Pamiętać na stałe?"
 
 msgid "Activate debug logging?"
-msgstr ""
+msgstr "Aktywować rejestrowanie debugowania?"
 
 msgid "Select Server:"
-msgstr ""
+msgstr "Wybierz serwer:"
 
 msgid "Previous picon creator"
-msgstr ""
+msgstr "Poprzedni kreator picon"
 
 msgid "Next picon creator"
-msgstr ""
+msgstr "Następny kreator picon"
 
 msgid "Previous picon size"
-msgstr ""
+msgstr "Poprzedni rozmiar picon"
 
 msgid "Next picon size"
-msgstr ""
+msgstr "Następny rozmiar picon"
 
 msgid "Previous color depth"
-msgstr ""
+msgstr "Poprzednia głębia kolorów"
 
 msgid "Next color depth"
-msgstr ""
+msgstr "Następna głębia kolorów"
 
 msgid "Size: "
-msgstr ""
+msgstr "Rozmiar:"
 
 msgid "Creator: "
-msgstr ""
+msgstr "Kreator:"
 
 msgid "Color depth: "
-msgstr ""
+msgstr "Głębia kolorów:"
 
 msgid "No search results, please change filter options ..."
-msgstr ""
+msgstr "Brak wyników wyszukiwania, zmień opcje filtrowania..."
 
 msgid "Loading, please wait..."
-msgstr ""
+msgstr "Ładowanie, proszę czekać..."
 
 #
 #: ../src/plugin.py:75
@@ -15274,7 +15366,7 @@ msgstr "Wprowadź hasło tutaj:"
 
 #
 msgid "Software Update"
-msgstr ""
+msgstr "Aktualizacja oprogramowania"
 
 #
 msgid "Manage your VU+ Team Image"
@@ -15359,12 +15451,14 @@ msgstr "Sprawdź aktualizacje"
 
 #
 msgid "It seems that your Internet connection is not ok, please check it"
-msgstr ""
+msgstr "Wygląda na to, że Twój internet nie działa, proszę sprawdź to"
 
 #
 msgid ""
 "The news file can not be analyzed, please be patient and try again later"
 msgstr ""
+"Plik wiadomości nie może być poddany analizie, prosimy o cierpliwość. \n"
+"Spróbuj ponownie później."
 
 #
 msgid "Upgradable Packages"
@@ -15382,6 +15476,10 @@ msgid ""
 "old version : %s \n"
 "new version : %s\n"
 msgstr ""
+"\n"
+"Pakiet : %s \n"
+"stara wersja : %s\n"
+"nowa wersja : %s\n"
 
 #
 msgid ""
@@ -15943,176 +16041,176 @@ msgstr "Edytuj czarną listę dla DVB EPG"
 
 #
 msgid "Please select location of software packages"
-msgstr ""
+msgstr "Proszę wybrać lokalizację pakietów oprogramowania"
 
 #
 msgid "Temporary folder (/tmp)"
-msgstr ""
+msgstr "Folder tymczasowy (/ tmp)"
 
 #: plugin.py:56
 msgid "Bouquet"
-msgstr ""
+msgstr "Bukiet"
 
 #: plugin.py:57
 msgid "Multi Sat"
-msgstr ""
+msgstr "Multi SAT"
 
 #: plugin.py:77
 msgid "Press ok or green button to install satellites.xml"
-msgstr ""
+msgstr "Naciśnij OK lub zielony przycisk, aby zainstalować satellites.xml"
 
 #: plugin.py:100 plugin.py:101 plugin.py:333 plugin.py:334
 msgid "Downloading satellites failed!"
-msgstr ""
+msgstr "Pobieranie satelitów nie powiodło się!"
 
 #: plugin.py:104
 msgid "satellites.xml is updated"
-msgstr ""
+msgstr "satellites.xml jest aktualizowane"
 
 #: plugin.py:104 plugin.py:199 plugin.py:321
 msgid "GUI needs a restart to apply changes."
-msgstr ""
+msgstr "GUI wymaga ponownego uruchomienia, aby zastosować zmiany."
 
 #: plugin.py:104 plugin.py:199 plugin.py:321
 msgid "Do you want to restart the GUI now?"
-msgstr ""
+msgstr "Czy chcesz ponownie uruchomić GUI teraz?"
 
 #: plugin.py:111 plugin.py:239 plugin.py:366
 msgid "GUI needs a restart."
-msgstr ""
+msgstr "GUI wymaga ponownego uruchomienia."
 
 #: plugin.py:199
 msgid "selected bouquets are installed"
-msgstr ""
+msgstr "wybrane bukiety są zainstalowane"
 
 #: plugin.py:203
 msgid "Please select at least one bouquet"
-msgstr ""
+msgstr "Proszę wybrać przynajmniej jeden bukiet"
 
 #: plugin.py:206 plugin.py:207
 msgid "Downloading bouquets failed!"
-msgstr ""
+msgstr "Pobieranie bukietów nie powiodło się!"
 
 #: plugin.py:210 plugin.py:337
 msgid "Downloading succesfull! Parsing ..."
-msgstr ""
+msgstr "Pobieranie udane! Analizuję..."
 
 #: plugin.py:229
 msgid "Press ok button to select bouquet"
-msgstr ""
+msgstr "Naciśnij przycisk OK, aby wybrać bukiet"
 
 #: plugin.py:233 plugin.py:360
 msgid "Parsing failed!"
-msgstr ""
+msgstr "Analizowanie nieudane!"
 
 #: plugin.py:281
 msgid "Source:"
-msgstr ""
+msgstr "Źródło:"
 
 #: plugin.py:297
 msgid "Download:"
-msgstr ""
+msgstr "Pobieranie:"
 
 #: plugin.py:321
 msgid "satellites.xml has been built."
-msgstr ""
+msgstr "satellites.xml został utworzony."
 
 #: plugin.py:324
 msgid "Please select at least one satellite"
-msgstr ""
+msgstr "Wybierz co najmniej jednego satelitę"
 
 #: plugin.py:356
 msgid "Press ok button to select satellite"
-msgstr ""
+msgstr "Naciśnij OK aby wtybrać satelitę"
 
 #: plugin.py:383 plugin.py:395
 msgid "Transponder selection"
-msgstr ""
+msgstr "Wybór transpondera"
 
 #: plugin.py:434
 msgid "Frequency:"
-msgstr ""
+msgstr "Częstotliwość:"
 
 #: plugin.py:434
 msgid "Symbol Rate:"
-msgstr ""
+msgstr "Przepływność:"
 
 #: plugin.py:458
 msgid "has been saved."
-msgstr ""
+msgstr "został zapisany."
 
 #: plugin.py:461
 msgid "Please select at least one transponder"
-msgstr ""
+msgstr "Wybierz co najmniej jeden transponder"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:45
 msgid "Configuration"
-msgstr ""
+msgstr "Konfiguracja"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:77
 msgid "Usage"
-msgstr ""
+msgstr "Użycie"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:85
 msgid "Enable InfoBarTunerState"
-msgstr ""
+msgstr "Włącz pasek informacyjny stanu tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:87
 msgid "Add to extension menu"
-msgstr ""
+msgstr "Dodaj do rozszerzenia menu"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:89
 msgid "Show and hide with InfoBar"
-msgstr ""
+msgstr "Pokaż i ukryj w pasku informacyjnym"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:90
 msgid "Show on events"
-msgstr ""
+msgstr "Pokaż w wydarzeniach"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:91
 msgid "MoviePlayer integration"
-msgstr ""
+msgstr "Integracja MoviePlayer"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:92
 msgid "Time format"
-msgstr ""
+msgstr "Format czasu"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:93
 msgid "Number of finished records in list"
-msgstr ""
+msgstr "Ilość zakończonych nagrań w wykazie"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:94
 msgid "Number of seconds for displaying finished records"
-msgstr ""
+msgstr "Ilość sekund dla wyświetlania zakończonych nagrań"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:100
 #, python-format
 msgid "Field %d content"
-msgstr ""
+msgstr "Pole treści %d"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:105
 msgid "Horizontal offset in pixel"
-msgstr ""
+msgstr "Poziome przesunięcie w pikselach"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:106
 msgid "Vertical offset in pixel"
-msgstr ""
+msgstr "Pionowe przesunięcie w pikselach"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:107
 msgid "Text padding offset in pixel"
-msgstr ""
+msgstr "Wypełnienie tekstu (przesunięcie w pikselach)"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:108
 msgid "Text spacing offset in pixel"
-msgstr ""
+msgstr "Rozstaw tekstu (przesunięcie w pikselach)"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:148
 msgid "Only one Icon field allowed:"
-msgstr ""
+msgstr "Tylko jedno pole paska postępu dozwolone:"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:153
 msgid "Only one Graphical Progress field allowed:"
-msgstr ""
+msgstr "Tylko jedno pole paska postępu dozwolone:"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:775
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:776
@@ -16155,83 +16253,83 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:37
 msgid "InfoBar Tuner State"
-msgstr ""
+msgstr "Pasek informacyjny stanu tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:38
 msgid "Show InfoBar Tuner State"
-msgstr ""
+msgstr "Pokaż pasek informacyjny tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:49
 msgid "Type (Icon)"
-msgstr ""
+msgstr "Typ (Ikona)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:50
 msgid "Type (Text)"
-msgstr ""
+msgstr "Typ (Tekst)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:52
 msgid "Tuner Type"
-msgstr ""
+msgstr "Typ tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:53
 msgid "Channel Number"
-msgstr ""
+msgstr "Numer kanału"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:54
 msgid "Channel Name"
-msgstr ""
+msgstr "Nazwa kanału"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:56
 msgid "Time Left / Duration"
-msgstr ""
+msgstr "Czas pozostały/trwania"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:57
 msgid "Time Left"
-msgstr ""
+msgstr "Pozostały czas"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:58
 msgid "Time Elapsed"
-msgstr ""
+msgstr "Czas trwania"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:59
 msgid "Begin"
-msgstr ""
+msgstr "Rozpocznij"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:60
 msgid "End"
-msgstr ""
+msgstr "Zakończ"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:61
 msgid "Duration"
-msgstr ""
+msgstr "Czas trwania"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:62
 msgid "Timer Progress (Graphical)"
-msgstr ""
+msgstr "Wskaźnik postępu (Graficzny)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:63
 msgid "Timer Progress (Text)"
-msgstr ""
+msgstr "Wskaźnik postępu (Tekst)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:64
 msgid "Destination"
-msgstr ""
+msgstr "Miejsce przeznaczenia"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:65
 msgid "Stream Client"
-msgstr ""
+msgstr "Klient strumieniowania"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:66
 msgid "Stream Client with Port"
-msgstr ""
+msgstr "Klient strumieniowania z portem"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:67
 msgid "Destination / Client"
-msgstr ""
+msgstr "Miejsce przeznaczenia/Klient"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:70
 msgid "File Size"
-msgstr ""
+msgstr "Rozmiar pliku"
 
 #
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:71
@@ -16276,66 +16374,66 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:141
 msgid "configuration"
-msgstr ""
+msgstr "konfiguracja"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:190
 msgid "Nothing running"
-msgstr ""
+msgstr "Brak programu"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:194
 msgid "InfoBarTunerState is disabled"
-msgstr ""
+msgstr "Pasek informacyjny stanu tunera jest wyłączony"
 
 msgid "MerlinMusicPlayer"
-msgstr ""
+msgstr "Odtwarzacz Merlin Music"
 
 msgid "Not easy way to start EasyMedia"
-msgstr ""
+msgstr "Mam problem z uruchomieniem EASYMEDIA"
 
 msgid "Music player:"
-msgstr ""
+msgstr "Odtwarzacz muzyki:"
 
 msgid "Files browser:"
-msgstr ""
+msgstr "Przeglądarka plików:"
 
 msgid "Show bookmarks:"
-msgstr ""
+msgstr "Pokaż zakładki:"
 
 msgid "YouTube player:"
-msgstr ""
+msgstr "YouTube:"
 
 msgid "VLC player:"
-msgstr ""
+msgstr "Odtwarzacz VLC:"
 
 msgid "DVD player:"
-msgstr ""
+msgstr "Odtwarzacz DVD:"
 
 msgid "Weather plugin:"
-msgstr ""
+msgstr "Wtyczka Pogoda:"
 
 msgid "NetRadio player:"
-msgstr ""
+msgstr "Odtwarzacz NetRadio:"
 
 msgid "Show Merlin-iDream:"
-msgstr ""
+msgstr "Pokaż Merlin-iDream:"
 
 msgid "ZDFmediathek player:"
-msgstr ""
+msgstr "Odtwarzacz ZDFmediathek:"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Obrazy"
 
 #
 # File: ../src/MyTubeSearch.py, line: 183
 # File: ../src/plugin.py, line: 71
 msgid "Music"
-msgstr ""
+msgstr "Muzyka"
 
 msgid "Weather"
-msgstr ""
+msgstr "Pogoda"
 
 msgid "Files"
-msgstr ""
+msgstr "Pliki"
 
 msgid "SHOUTcast"
 msgstr ""
@@ -16344,10 +16442,10 @@ msgid "iDream"
 msgstr ""
 
 msgid "MyTube Player"
-msgstr ""
+msgstr "Odtwarzacz MyTube"
 
 msgid "VLC Player"
-msgstr ""
+msgstr "Odtwarzacz VLC"
 
 msgid "ZDFmediathek"
 msgstr ""
@@ -16360,222 +16458,223 @@ msgid "DreamExplorer"
 msgstr ""
 
 msgid "Picture-player is not installed!"
-msgstr ""
+msgstr "Przeglądarka obrazów nie jest zainstalowana!"
 
 msgid "No Music-Player installed!"
-msgstr ""
+msgstr "Nie zainstalowano odtwarzacza muzyki!"
 
 msgid "No File-Manager installed!"
-msgstr ""
+msgstr "Nie zainstalowano menadżera plików!"
 
 msgid "Weather Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka pogodowa nie jest zainstalowana!"
 
 msgid "DVDPlayer Plugin is not installed!"
-msgstr ""
+msgstr "DVD Player nie jest zainstalowany!"
 
 msgid "MyTube Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka MyTube nie jest zainstalowana!"
 
 msgid "SHOUTcast Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka SHOUTcast nie jest zainstalowana!"
 
 msgid "ZDFmediathek Plugin is not installed!"
-msgstr ""
+msgstr "Wtyczka ZDFmediathek nie jest zainstalowana!"
 
 msgid "VLC Player is not installed!"
-msgstr ""
+msgstr "Odtwarzacz VLC nie jest zainstalowany!"
 
 msgid "Merlin iDream is not installed!"
-msgstr ""
+msgstr "Merlin iDream nie jest zainstalowany!"
 
 msgid "EasyMedia settings..."
-msgstr ""
+msgstr "Ustawienia EasyMedia..."
 
 msgid "Select bookmark..."
-msgstr ""
+msgstr "Wybierz zakładkę ..."
 
 msgid "Tv/Radio"
-msgstr ""
+msgstr "TV/Radio"
 
 msgid "Show tv/radio switch:"
-msgstr ""
+msgstr "Pokaż przełącznik TV/Radio:"
 
 msgid "TV-mode"
-msgstr ""
+msgstr "Tryb TV"
 
 msgid "Radio-mode"
-msgstr ""
+msgstr "Tryb RadiOdtwarzacz MyVideo nie jest zainstalowany!o"
 
 msgid "MyVideo Player is not installed!"
-msgstr ""
+msgstr "Odtwrzacz MyVideo nie jest zainstalowany!"
 
 msgid "MyVideo"
-msgstr ""
+msgstr "MyVideo"
 
 msgid "MyVideo player:"
-msgstr ""
+msgstr "Odtwarzacz MyVideo:"
 
 msgid "Add/remove plugin"
-msgstr ""
+msgstr "Dodaj/usuń wtyczki"
 
 msgid " removed from EasyMedia"
-msgstr ""
+msgstr "usunięty z EasyMedia"
 
 msgid " added to EasyMedia"
-msgstr ""
+msgstr "dodane do EasyMedia"
 
 msgid "VideoDB is not installed!"
-msgstr ""
+msgstr "Baza danych wideo nie jest zainstalowana!"
 
 msgid "PicturePlayer:"
-msgstr ""
+msgstr "Przeglądarka obrazów:"
 
 msgid "Video database:"
-msgstr ""
+msgstr "Baza danych wideo:"
 
 msgid "VideoDB"
-msgstr ""
+msgstr "Baza danych wideo"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:171
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:283
 msgid "Channel: "
-msgstr ""
+msgstr "Kanał: "
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:177
 #, python-format
 msgid "%s does not exist!"
-msgstr ""
+msgstr "%s nie istnieje!"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:298
 msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
 msgstr ""
+"Błąd podczas tworzenia zrzutu ekranu. Potrzebna jest wersja 0.8 lub wyższa!"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:311
 msgid "Countdown:"
-msgstr ""
+msgstr "Odliczanie:"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:368
 msgid "Mosaic"
-msgstr ""
+msgstr "Mozaika"
 
 #: ../src/plugin.py:442
 msgid " as "
-msgstr ""
+msgstr "jak"
 
 #: ../src/plugin.py:248
 msgid "Ambiguous results"
-msgstr ""
+msgstr "Niejednoznaczne wyniki"
 
 #: ../src/plugin.py:444
 msgid "Cast: "
-msgstr ""
+msgstr "Obsada:"
 
 #: ../src/plugin.py:321
 msgid "Could't get Eventname"
-msgstr ""
+msgstr "Nie mogłem uzyskać nazwy wydarzenia"
 
 #: ../src/plugin.py:253 ../src/plugin.py:399
 msgid "Details"
-msgstr ""
+msgstr "Detale"
 
 #: ../src/plugin.py:452
 #, python-format
 msgid "Downloading Movie Poster: %s..."
-msgstr ""
+msgstr "Pobieranie plakatu filmu: %s ..."
 
 #: ../src/plugin.py:471
 msgid "Extra Info"
-msgstr ""
+msgstr "Extra Info"
 
 #: ../src/plugin.py:400 ../src/plugin.py:476
 msgid "IMDb Details parsed"
-msgstr ""
+msgstr "Analiza detali IMDb"
 
 #: ../src/plugin.py:352
 msgid "IMDb Download completed"
-msgstr ""
+msgstr "Pobieranie IMDb zakończone"
 
 #: ../src/plugin.py:325
 msgid "IMDb Download failed"
-msgstr ""
+msgstr "Pobieranie IMDb zakończone niepowodzeniem"
 
 #: ../src/plugin.py:505
 msgid "IMDb Plugin"
-msgstr ""
+msgstr "Wtyczka IMDb"
 
 #: ../src/plugin.py:389
 msgid "IMDb Re-Download completed"
-msgstr ""
+msgstr "Ponowne pobranie IMDb zakończone"
 
 #: ../src/plugin.py:386
 msgid "IMDb query failed!"
-msgstr ""
+msgstr "Zapytanie IMDb nie powiodło się!"
 
 #: ../src/plugin.py:70
 msgid "Lookup"
-msgstr ""
+msgstr "Wyszukaj"
 
 #: ../src/plugin.py:373 ../src/plugin.py:374
 msgid "No IMDb match."
-msgstr ""
+msgstr "Brak odpowiednika w IMDb."
 
 #: ../src/plugin.py:446
 msgid "No cast list found in the database."
-msgstr ""
+msgstr "Brak obsady w bazie danych."
 
 #: ../src/plugin.py:397
 msgid "No details found."
-msgstr ""
+msgstr "Nie znaleziono żadnych szczegółów."
 
 #: ../src/plugin.py:249
 msgid "Please select the matching entry"
-msgstr ""
+msgstr "Proszę wybrać pasujący wpis"
 
 #: ../src/plugin.py:314
 #, python-format
 msgid "Query IMDb: %s..."
-msgstr ""
+msgstr "Zapytanie IMDb: %s..."
 
 #: ../src/plugin.py:517 ../src/plugin.py:522 ../src/plugin.py:529
 msgid "Query details from the Internet Movie Database"
-msgstr ""
+msgstr "Szczegóły zapytania z bazy danych Internet Movie"
 
 #: ../src/plugin.py:264 ../src/plugin.py:379
 #, python-format
 msgid "Re-Query IMDb: %s..."
-msgstr ""
+msgstr "Ponowne zapytanie IMDb: %s..."
 
 #: ../src/plugin.py:135
 msgid "The Internet Movie Database"
-msgstr ""
+msgstr "Baza danych Internet Movie"
 
 #: ../src/plugin.py:252
 msgid "Title Menu"
-msgstr ""
+msgstr "Menu"
 
 #: ../src/plugin.py:427
 msgid "no user rating yet"
-msgstr ""
+msgstr "brak ocen użytkowników jeszcze"
 
 #, python-format
 msgid "%(name)s (%(user)s@%(server)s)"
 msgstr ""
 
 msgid "Accounts list"
-msgstr ""
+msgstr "Lista kont"
 
 msgid "Attachments"
-msgstr ""
+msgstr "Załączniki"
 
 msgid "Bodys"
 msgstr ""
 
 msgid "Email Client"
-msgstr ""
+msgstr "Klient email"
 
 msgid "Email setup"
-msgstr ""
+msgstr "Konfiguracja poczty"
 
 #, python-format
 msgid ""
@@ -16583,6 +16682,9 @@ msgid ""
 "\n"
 "%(error)s"
 msgstr ""
+"Klient dla %(account)s:\n"
+"\n"
+"%(error)s"
 
 #
 # Header in Timspan-Summary-Screen
@@ -16591,23 +16693,25 @@ msgid "From"
 msgstr "Z"
 
 msgid "IMAP Port"
-msgstr ""
+msgstr "Port IMAP"
 
 msgid "IMAP Server"
-msgstr ""
+msgstr "Serwer IMAP"
 
 #, python-format
 msgid ""
 "New mail arrived for account %s:\n"
 "\n"
 msgstr ""
+"Otrzymałeś nowe wiadomości na konto %s:\n"
+"\n"
 
 #, python-format
 msgid "Really delete account %s?"
-msgstr ""
+msgstr "Czy na pewno usunąć konto %s?"
 
 msgid "Subject"
-msgstr ""
+msgstr "Temat"
 
 #, python-format
 msgid ""
@@ -16618,211 +16722,222 @@ msgid ""
 "# cbCapabilities: %(capa)s\n"
 "####################################################################################################\n"
 msgstr ""
+"[EmailAccount] %(name)s: _cbCapabilities:\n"
+"####################################################################################################\n"
+"# Jeśli masz problemy, aby zalogować się do swojego serwera IMAP, wyślij "
+"mi \n"
+"wprowadzenie z następujących linii\n"
+"# cbCapabilities: %(capa)s\n"
+"####################################################################################################\n"
 
 #, python-format
 msgid "account %s is not connected"
-msgstr ""
+msgstr "konto %s jest niepodłączone"
 
 msgid "account name"
-msgstr ""
+msgstr "nazwa konta"
 
 msgid "account not connected"
-msgstr ""
+msgstr "konto nie jest podłączone"
 
 msgid "add"
-msgstr ""
+msgstr "dodaj"
 
 msgid "cancel"
-msgstr ""
+msgstr "anuluj"
 
 msgid "cannot access inbox"
-msgstr ""
+msgstr "brak dostępu do skrzynki odbiorczej"
 
 msgid "cannot get headers of new messages"
-msgstr ""
+msgstr "nie mogę pobrać nagłówków nowej poczty"
 
 msgid "cannot get list of new messages"
-msgstr ""
+msgstr "nie mogę pobrać listy nowych wiadomości"
 
 msgid "connection failed - retrying"
-msgstr ""
+msgstr "połączenie nie powiodło się - liczba powtórzeń"
 
 msgid "display connection errors"
-msgstr ""
+msgstr "wyświetl błędy połączenia"
 
 msgid "display timeout (seconds)"
-msgstr ""
+msgstr "wyświetl limit czasu (sekundy)"
 
 msgid "edit"
-msgstr ""
+msgstr "edytuj"
 
 msgid "empty values - retry"
-msgstr ""
+msgstr "puste wartości - ponów"
 
 #, python-format
 msgid ""
 "error logging %(who)s in:\n"
 "%(failure)s"
 msgstr ""
+"błąd logowania %(who)s in:\n"
+"%(failure)s"
 
 msgid "failed to load message"
-msgstr ""
+msgstr "nie udało się załadować wiadomości"
 
 msgid "getting message ..."
-msgstr ""
+msgstr "otrzymuję wiadomość ..."
 
 #, python-format
 msgid "have %d messages"
-msgstr ""
+msgstr "masz %d wiadomości"
 
 msgid "have no messages"
-msgstr ""
+msgstr "nie masz żadnych wiadomości"
 
 msgid "headers loaded, now parsing ..."
-msgstr ""
+msgstr "nagłówki załadowane, analizuję..."
 
 #, python-format
 msgid "importing configurations from %s"
-msgstr ""
+msgstr "importuję konfigurację z %s"
 
 msgid "leave unread"
-msgstr ""
+msgstr "pozostaw nieprzeczytane"
 
 msgid "list all mailboxes"
-msgstr ""
+msgstr "wyświetl listę wszystkich skrzynek pocztowych"
 
 msgid "loading headers ..."
-msgstr ""
+msgstr "ładuję nagłówki ..."
 
 msgid "mail check interval (minutes)"
-msgstr ""
+msgstr "Przedział czasowy sprawdzania poczty (minuty)"
 
 msgid "maximum mail size to fetch"
-msgstr ""
+msgstr "Maksymalny rozmiar wiadomości do pobrania"
 
 msgid "message too large"
-msgstr ""
+msgstr "wiadomość zbyt duża"
 
 msgid "no account selected"
-msgstr ""
+msgstr "nie wybrano żadnego konta"
 
 msgid "no date"
-msgstr ""
+msgstr "brak daty"
 
 msgid "no filename"
-msgstr ""
+msgstr "brak nazwy pliku"
 
 msgid "no from"
-msgstr ""
+msgstr "brak odbiorcy"
 
 msgid "no mailbox?!?!"
-msgstr ""
+msgstr "brak skrzynki mailowej?!?!"
 
 msgid "no sender"
-msgstr ""
+msgstr "brak nadawcy"
 
 msgid "no subject"
-msgstr ""
+msgstr "brak tematu"
 
 msgid "ok"
-msgstr ""
+msgstr "ok"
 
 msgid "parsing message ..."
-msgstr ""
+msgstr "analizuję wiadomości..."
 
 msgid "password"
-msgstr ""
+msgstr "hasło"
 
 msgid "really delete mail?"
-msgstr ""
+msgstr "naprawdę usunąć pocztę?"
 
 msgid "really undelete mail?"
-msgstr ""
+msgstr "naprawdę przywrócić pocztę elektroniczną?"
 
 msgid "select Attachment"
-msgstr ""
+msgstr "wybierz załącznik"
 
 msgid "select Body"
-msgstr ""
+msgstr "wybierz treść"
 
 msgid "show deleted entries"
-msgstr ""
+msgstr "pokaż usunięte wpisy"
 
 msgid "undelete"
-msgstr ""
+msgstr "przywróć"
 
 msgid "user name"
-msgstr ""
+msgstr "nazwa użytkownika"
 
 msgid "view Emails via IMAP4"
-msgstr ""
+msgstr "przeglądaj e-maile za pośrednictwem protokołu IMAP4"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 #. TRANSLATORS: keep it short, this is a help text
 msgid "About FritzCall"
-msgstr ""
+msgstr "O FritzCall"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Activate WLAN guest access"
-msgstr ""
+msgstr "Aktywuj gościnny WLAN"
 
 #. TRANSLATORS: keep it short, this is a help text
 #. TRANSLATORS: this is a window title.
 msgid "Add entry to phonebook"
-msgstr ""
+msgstr "Dodaj wpis do książki telefonicznej"
 
 msgid "All calls"
-msgstr ""
+msgstr "Wszystkie połączenia"
 
 msgid "Append shortcut number"
-msgstr ""
+msgstr "Dołącz numer skrótu"
 
 msgid "Append type of number"
-msgstr ""
+msgstr "Dołącz typ numeru"
 
 msgid "Append vanity name"
-msgstr ""
+msgstr "Dołącz skróconą nazwę"
 
 msgid "Areacode to add to calls without one (if necessary)"
-msgstr ""
+msgstr "Dodaj kierunkowy do rozmów (kiedy potrzebny)"
 
 msgid "Austria"
-msgstr ""
+msgstr "Austria"
 
 msgid "Automatically add new Caller to PhoneBook"
-msgstr ""
+msgstr "Automatyczne dodaj nowego rozmówcę do książki telefonicznej"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Call"
-msgstr ""
+msgstr "Połączenie"
 
 msgid "Call monitoring"
-msgstr ""
+msgstr "Monitorowanie połączeń"
 
 msgid "Call redirection"
-msgstr ""
+msgstr "Przekierowanie połączeń"
 
 msgid "Call redirection active"
-msgstr ""
+msgstr "Przekierowanie połączeń aktywne"
 
 #, python-format
 msgid "Calling %s"
-msgstr ""
+msgstr "Wywołanie %s"
 
 msgid "Cannot get calls from FRITZ!Box"
-msgstr ""
+msgstr "Nie można uzyskać połączenia z routerem FRITZ! Box"
 
 msgid ""
 "Cannot get infos from FRITZ!Box yet\n"
 "Still initialising or wrong firmware version"
 msgstr ""
+"Nie można uzyskać informacji z FRITZ!Box jeszcze\n"
+"Wciąż inicjalizuję lub zła wersja firmware"
 
 msgid "Connected since"
-msgstr ""
+msgstr "Połączony od"
 
 msgid "Connected to FRITZ!Box!"
-msgstr ""
+msgstr "Podłączony do FRITZ!Box!"
 
 #, python-format
 msgid ""
@@ -16830,9 +16945,12 @@ msgid ""
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Połączenie do routera FRITZ! Box nie powiodło się\n"
+"(%s)\n"
+"Próbuję ponownie..."
 
 msgid "Connecting to FRITZ!Box..."
-msgstr ""
+msgstr "Łączę się z routerem FRITZ!Box..."
 
 #, python-format
 msgid ""
@@ -16840,58 +16958,61 @@ msgid ""
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Połączenie do routera FRITZ!Box! utracone\n"
+"(%s)\n"
+"Próbuję ponownie..."
 
 msgid "Could not get call list; wrong version?"
-msgstr ""
+msgstr "Nie udało się uzyskać listy połączeń; zła wersja?"
 
 msgid "Could not parse FRITZ!Box Phonebook entry"
-msgstr ""
+msgstr "Nie można przanalizować wpisu FRITZ! Box z książki telefonicznej"
 
 msgid "Could not read FRITZ!Box phonebook; wrong version?"
-msgstr ""
+msgstr "Nie można odczytać książki telefonicznej FRITZ!Box!; zła wersja?"
 
 msgid "Country"
-msgstr ""
+msgstr "Kraj"
 
 msgid "DECT inactive"
-msgstr ""
+msgstr "DECT nieaktywny"
 
 msgid "DECT phones registered"
-msgstr ""
+msgstr "Zarejestrowane telefony DECT"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Deactivate WLAN guest access"
-msgstr ""
+msgstr "Wyłącz gościnny WLAN "
 
 #
 msgid "Debug"
 msgstr "Debuguj"
 
 msgid "Display FRITZ!box-Fon calls on screen"
-msgstr ""
+msgstr "Wyświetl połaczenia FRITZ!Box na ekranie"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display all calls"
-msgstr ""
+msgstr "Pokaż wszystkie połączenia"
 
 msgid "Display connection infos"
-msgstr ""
+msgstr "Wyświetl szczegóły połączenia"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display incoming calls"
-msgstr ""
+msgstr "Wyświetlanie połączenia przychodzące"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display missed calls"
-msgstr ""
+msgstr "Wyświetl połaczenia nieodebrane"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display outgoing calls"
-msgstr ""
+msgstr "Wyświetlanie połączeń wychodzących"
 
 #. TRANSLATORS: this is a window title.
 msgid "Do what?"
-msgstr ""
+msgstr "Co zrobić?"
 
 #, python-format
 msgid ""
@@ -16901,25 +17022,30 @@ msgid ""
 "\n"
 "%(name)s?"
 msgstr ""
+"Czy na pewno chcesz usunąć wpis dla\n"
+"\n"
+"%(number)s\n"
+"\n"
+"%(name)s?"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Edit selected entry"
-msgstr ""
+msgstr "Edycja wybranego wpisu"
 
 msgid "Enter Search Terms"
-msgstr ""
+msgstr "Wprowadź wyszukiwane założenia"
 
 msgid "Entry incomplete."
-msgstr ""
+msgstr "Wprowadzenie niekompletne."
 
 msgid "Extended Search for faces"
-msgstr ""
+msgstr "Rozszerzone wyszukiwanie twarzy"
 
 msgid "Extended Search for names"
 msgstr ""
 
 msgid "Extension number to initiate call on"
-msgstr ""
+msgstr "Numer wewnętrzny, aby zainicjować połączenie"
 
 #, python-format
 msgid "FRITZ!Box - Could not load calls: %s"
@@ -16958,49 +17084,51 @@ msgstr ""
 
 #, python-format
 msgid "FRITZ!Box - Error logging out: %s"
-msgstr ""
+msgstr "FRITZ!Box - Błąd wylogowania: %s"
 
 #, python-format
 msgid "FRITZ!Box - Error resetting: %s"
-msgstr ""
+msgstr "FRITZ!Box - kasowanie błędu: %s"
 
 #, python-format
 msgid "FRITZ!Box - Failed changing GuestAccess: %s"
-msgstr ""
+msgstr "FRITZ!Box - Nie udało zmienić dostępu gościnneg: %s"
 
 #, python-format
 msgid "FRITZ!Box - Failed changing Mailbox: %s"
-msgstr ""
+msgstr "FRITZ!Box - Nie udało zmienić skrzynki pocztowej: %s"
 
 #, python-format
 msgid "FRITZ!Box - Failed changing WLAN: %s"
-msgstr ""
+msgstr "FRITZ!Box - Nie powiodła się zmiana WLAN: %s"
 
 msgid "FRITZ!Box FON address (Name or IP)"
-msgstr ""
+msgstr "FRITZ!Box Addres (Nazwa lub IP)"
 
 msgid "FRITZ!Box FON firmware version"
-msgstr ""
+msgstr "FRITZ!Box Wersja oprogramowania"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 #. TRANSLATORS: keep it short, this is a help text
 msgid "FRITZ!Box Fon Status"
-msgstr ""
+msgstr "Status telefonu FRITZ!Box "
 
 msgid "FRITZ!Box PhoneBook to read"
-msgstr ""
+msgstr "FRITZ!Box Książka telefoniczna do odczytu"
 
 msgid ""
 "FRITZ!Box firmware version not configured! Please set it in the "
 "configuration."
 msgstr ""
+"FRITZ!Box wersja oprogramowania nie została skonfigurowana! Proszę ją "
+"skonfigurować."
 
 msgid "FRITZ!Box not available for calling"
-msgstr ""
+msgstr "FRITZ!Box nie jest dostępny dla połączeń"
 
 msgid "Filter also list of calls"
-msgstr ""
+msgstr "Filtr również listy połączeń"
 
 #, python-format
 msgid ""
@@ -17010,47 +17138,52 @@ msgid ""
 "\n"
 "But did not load. Probably not PNG, 8-bit"
 msgstr ""
+"Znaleziony obraz\n"
+"\n"
+"%s\n"
+"\n"
+"Nie załadował się. Prawdopodobnie nie PNG, 8-bitowy"
 
 #
 # File: ../src/MyTubeSearch.py, line: 205
 # File: ../src/plugin.py, line: 93
 msgid "France"
-msgstr ""
+msgstr "Francja"
 
 #. TRANSLATORS: this is a window title.
 msgid "FritzCall Setup"
-msgstr ""
+msgstr "Ustawienia FritzCall "
 
 #
 # File: ../src/MyTubeSearch.py, line: 206
 # File: ../src/plugin.py, line: 94
 msgid "Germany"
-msgstr ""
+msgstr "Niemcy"
 
 msgid "Getting calls from FRITZ!Box..."
-msgstr ""
+msgstr "Uzyskanie połączenia z routerem FRITZ!Box..."
 
 msgid "Getting status from FRITZ!Box Fon..."
-msgstr ""
+msgstr "Pobieram status z FRITZ!Box Fon..."
 
 msgid "Guest access"
-msgstr ""
+msgstr "Dostęp gościnny"
 
 msgid "Guest access not active"
-msgstr ""
+msgstr "Dostęp gościnny nieaktywny"
 
 msgid "Guest access on "
-msgstr ""
+msgstr "Włączony dostęp gościnny"
 
 msgid "IP Address:"
-msgstr ""
+msgstr "Adres IP:"
 
 msgid "Ignore callers with no phone number"
-msgstr ""
+msgstr "Ignoruj dzwoniących bez prezentacji"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Incoming"
-msgstr ""
+msgstr "Przychodzące"
 
 #, python-format
 msgid ""
@@ -17063,47 +17196,47 @@ msgid ""
 msgstr ""
 
 msgid "Incoming calls"
-msgstr ""
+msgstr "Połączenia przychodzące"
 
 #
 # File: ../src/MyTubeSearch.py, line: 214
 # File: ../src/plugin.py, line: 102
 msgid "Italy"
-msgstr ""
+msgstr "Włochy"
 
 msgid "Last 10 calls:\n"
-msgstr ""
+msgstr "Ostatnie 10 połączeń:\n"
 
 msgid "MSN to show (separated by ,)"
-msgstr ""
+msgstr "MSN, do wyświetlenia (oddzielone ,)"
 
 msgid "Mailbox"
-msgstr ""
+msgstr "Skrzynka pocztowa"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Missed"
-msgstr ""
+msgstr "Nieodebrane"
 
 msgid "Missed calls"
-msgstr ""
+msgstr "Nieodebrane połączenia"
 
 msgid "Mute on call"
-msgstr ""
+msgstr "Wycisz rozmowę"
 
 msgid "Name of WLAN guest network"
-msgstr ""
+msgstr "Nazwa sieci gościnnej WLAN "
 
 msgid "New call"
-msgstr ""
+msgstr "Nowe połączenie"
 
 msgid "No DECT phone registered"
-msgstr ""
+msgstr "Brak zarejestrowanego telefonu DECT"
 
 msgid "No call redirection active"
 msgstr ""
 
 msgid "No entry selected"
-msgstr ""
+msgstr "Brak wybranego wpisu"
 
 msgid "No mailbox active"
 msgstr ""
@@ -17121,7 +17254,7 @@ msgid "No result from reverse lookup"
 msgstr ""
 
 msgid "Number"
-msgstr ""
+msgstr "Numer"
 
 msgid "One DECT phone registered"
 msgstr ""
@@ -17133,7 +17266,7 @@ msgid "One mailbox active"
 msgstr ""
 
 msgid "Others"
-msgstr ""
+msgstr "Pozostałe"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Outgoing"
@@ -17150,7 +17283,7 @@ msgid ""
 msgstr ""
 
 msgid "Outgoing calls"
-msgstr ""
+msgstr "Połączenia wychodzące"
 
 msgid "Password Accessing FRITZ!Box"
 msgstr ""
@@ -17161,7 +17294,7 @@ msgstr ""
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 msgid "Phone calls"
-msgstr ""
+msgstr "Rozmowy telefoniczne"
 
 msgid "PhoneBook and Faces Location"
 msgstr ""
@@ -17169,7 +17302,7 @@ msgstr ""
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 msgid "Phonebook"
-msgstr ""
+msgstr "Książka telefoniczna"
 
 msgid "Plugin not enabled"
 msgstr ""
@@ -17183,10 +17316,10 @@ msgstr ""
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Refresh status"
-msgstr ""
+msgstr "Odśwież status"
 
 msgid "Refreshing..."
-msgstr ""
+msgstr "Odświeżam..."
 
 msgid "Reload interval for phonebooks (hours)"
 msgstr ""
@@ -17210,7 +17343,7 @@ msgid "Search (case insensitive)"
 msgstr ""
 
 msgid "Search phonebook"
-msgstr ""
+msgstr "Szukaj książki telefonicznej"
 
 msgid "Searching in LDIF..."
 msgstr ""
@@ -17222,20 +17355,20 @@ msgid "Secure WLAN guest network"
 msgstr ""
 
 msgid "Setting..."
-msgstr ""
+msgstr "Ustawiam..."
 
 msgid "Shortcut"
-msgstr ""
+msgstr "Skrót"
 
 msgid "Show Outgoing Calls"
-msgstr ""
+msgstr "Pokaż połączenia wychodzące"
 
 msgid "Show after Standby"
 msgstr ""
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Show details of entry"
-msgstr ""
+msgstr "Pokaż szczegóły wpisu"
 
 msgid "Show only calls for specific MSN"
 msgstr ""
@@ -17247,16 +17380,16 @@ msgid "Software fax inactive"
 msgstr ""
 
 msgid "Status not available"
-msgstr ""
+msgstr "Status"
 
 msgid "Strip Leading 0"
 msgstr ""
 
 msgid "Switzerland"
-msgstr ""
+msgstr "Szwajcaria"
 
 msgid "The Netherlands"
-msgstr ""
+msgstr "Holandia"
 
 msgid "Timeout for Call Notifications (seconds)"
 msgstr ""
@@ -17268,44 +17401,44 @@ msgstr ""
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 1. mailbox"
-msgstr ""
+msgstr "Włącz 1. skrzynkę pocztową"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 2. mailbox"
-msgstr ""
+msgstr "Włącz 2. skrzynkę pocztową"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 3. mailbox"
-msgstr ""
+msgstr "Włącz 3. skrzynkę pocztową"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 4. mailbox"
-msgstr ""
+msgstr "Włącz 4. skrzynkę pocztową"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 5. mailbox"
-msgstr ""
+msgstr "Włącz 5. skrzynkę pocztową"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Toggle Mailbox"
-msgstr ""
+msgstr "Włącz skrzynkę pocztową"
 
 #. TRANSLATORS: keep it short, this is a button
 #. TRANSLATORS: keep it short, this is a help text
 #. TRANSLATORS: keep it short, this is a button
 msgid "Toggle WLAN"
-msgstr ""
+msgstr "Włącz WLAN"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle WLAN guest access"
-msgstr ""
+msgstr "Włącz dostęp gościnny WLAN"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle all mailboxes"
-msgstr ""
+msgstr "Włącz wszystkie skrzynki pocztowe"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "Nieznany"
 
 msgid "Use internal PhoneBook"
 msgstr ""
@@ -17337,23 +17470,23 @@ msgstr ""
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "display calls"
-msgstr ""
+msgstr "wyświetl połaczenia"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "display phonebook"
-msgstr ""
+msgstr "wyświetl książkę adresową"
 
 msgid "done"
-msgstr ""
+msgstr "zrobione"
 
 msgid "done, using last list"
 msgstr ""
 
 msgid "encrypted"
-msgstr ""
+msgstr "zakodowany"
 
 msgid "finishing"
-msgstr ""
+msgstr "kończę"
 
 msgid "home"
 msgstr ""
@@ -17365,7 +17498,7 @@ msgid "login ok"
 msgstr ""
 
 msgid "login verification"
-msgstr ""
+msgstr "weryfikacja logowania"
 
 msgid "mailboxes active"
 msgstr ""
@@ -17374,48 +17507,48 @@ msgid "mobile"
 msgstr ""
 
 msgid "no calls"
-msgstr ""
+msgstr "brak rozmów"
 
 msgid "no device active"
-msgstr ""
+msgstr "brak aktywnych urządzeń"
 
 msgid "not encrypted"
-msgstr ""
+msgstr "nie kodowany"
 
 msgid "not yet implemented"
-msgstr ""
+msgstr "jeszcze nie zaimplementowane"
 
 msgid "number suppressed"
 msgstr ""
 
 msgid "one device active"
-msgstr ""
+msgstr "jedno urządzenie aktywne"
 
 msgid "preparing"
-msgstr ""
+msgstr "przygotowuję"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "quit"
-msgstr ""
+msgstr "zrezygnuj"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "save and quit"
-msgstr ""
+msgstr "zapisz i wyjdź"
 
 msgid "show as list"
-msgstr ""
+msgstr "pokaż jako listę"
 
 msgid "show each call"
-msgstr ""
+msgstr "pokaż każdą rozmowę"
 
 msgid "show nothing"
 msgstr ""
 
 msgid "work"
-msgstr ""
+msgstr "zadanie"
 
 msgid "wrong user or password?"
-msgstr ""
+msgstr "niewłaściwy użytkownik lub hasło?"
 
 #: ../src/plugin.py:36
 msgid "immediately after recording"
@@ -17423,27 +17556,27 @@ msgstr ""
 
 #: ../src/plugin.py:36
 msgid "older than 1 day"
-msgstr ""
+msgstr "starsze niż 1 dzień"
 
 #: ../src/plugin.py:36
 msgid "older than 3 days"
-msgstr ""
+msgstr "starsze niż 3 dni"
 
 #: ../src/plugin.py:36
 msgid "older than 1 week"
-msgstr ""
+msgstr "starsze niż 2 tygodnie"
 
 #: ../src/plugin.py:36
 msgid "older than 2 weeks"
-msgstr ""
+msgstr "starsze niż 2 tygodnie"
 
 #: ../src/plugin.py:36
 msgid "older than 4 weeks"
-msgstr ""
+msgstr "starsze niż "
 
 #: ../src/plugin.py:36
 msgid "older than 6 weeks"
-msgstr ""
+msgstr "starsze niż 6 tygodni"
 
 #: ../src/plugin.py:49 ../src/plugin.py:125
 msgid "Automatic Timerlist Cleanup Setup"
@@ -17761,11 +17894,11 @@ msgstr "Naciśnij aby pokazać lub ukryć rozszerzony opis"
 
 #: src/WebComponents/Sources/Strings.py:94
 msgid "Show EPG for"
-msgstr ""
+msgstr "Pokaż EPG dla"
 
 #: src/WebComponents/Sources/Strings.py:95
 msgid "Stream Channel"
-msgstr ""
+msgstr "Strumieniuj kanał"
 
 #
 #: src/WebComponents/Sources/Strings.py:97
@@ -17789,11 +17922,11 @@ msgstr "Panel wskaźnika sygnału"
 
 #: src/WebComponents/Sources/Strings.py:101
 msgid "Zap to"
-msgstr ""
+msgstr "Przełącz na"
 
 #: src/WebComponents/Sources/Strings.py:102
 msgid "Open Multi-EPG for"
-msgstr ""
+msgstr "Otwórz Multi-EPG dla"
 
 #
 #: src/WebComponents/Sources/Strings.py:103
@@ -17802,7 +17935,7 @@ msgstr "Wczytaj bukiet"
 
 #: src/WebComponents/Sources/Strings.py:104
 msgid "Playlist for"
-msgstr ""
+msgstr "Lista odtwarzania dla"
 
 #
 #: src/WebComponents/Sources/Strings.py:105
@@ -18179,22 +18312,19 @@ msgid "List of Timers has been cleaned"
 msgstr "Lista Timerów została wyczyszczona"
 
 #
-#: src/WebComponents/Sources/Timer.py:79
-#: src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398
-#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
+#: src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Brakujący parametr: sRef"
 
 #
-#: src/WebComponents/Sources/Timer.py:84
-#: src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Brakujący parametr: początek"
 
 #
-#: src/WebComponents/Sources/Timer.py:89
-#: src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Brakujący parametr: koniec"
 
@@ -18348,8 +18478,7 @@ msgid "Movie '%s' deleted"
 msgstr "Nagranie '%s' usunięte"
 
 #
-#: src/WebComponents/Sources/Movie.py:61
-#: src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Niedozwolona wartość parametru: sRef - '%s'"
@@ -18627,11 +18756,11 @@ msgstr "Komenda RC '%s' została wydana"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:50
 msgid "Old password:"
-msgstr ""
+msgstr "Stare hasło:"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:51
 msgid "New password:"
-msgstr ""
+msgstr "Nowe hasło:"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:62
 msgid ""
@@ -18639,109 +18768,112 @@ msgid ""
 "Minimum length: 5\n"
 "Maximum length: 8"
 msgstr ""
+"Nieprawidłowe nowe hasło!\n"
+"Minimalna długość: 5\n"
+"Maksymalna długość: 8"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:137
 msgid "Could not log in!"
-msgstr ""
+msgstr "Nie udało się zalogować!"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:150
 msgid "Error while setting new password!"
-msgstr ""
+msgstr "Błąd podczas ustawiania nowego hasła!"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Password Changer"
-msgstr ""
+msgstr "Zmiana hasła"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Change your ftp and telnet password"
-msgstr ""
+msgstr "Zmień swoje hasło dla FTP i telnet"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:220
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:317
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:422
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:598
 msgid "Zap Statistic"
-msgstr ""
+msgstr "Statystyka przełączania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:227
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:325
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:451
 msgid "Sort (name+)"
-msgstr ""
+msgstr "Sortuj (nazwa+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:228
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:326
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:454
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:524
 msgid "Sort (name-)"
-msgstr ""
+msgstr "Sortuj (nazwa-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:229
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:327
 msgid "Sort (duration+)"
-msgstr ""
+msgstr "Sortuj (trwanie+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:230
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:328
 msgid "Sort (duration-)"
-msgstr ""
+msgstr "Sortuj (trwanie-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:434
 msgid "Durations"
-msgstr ""
+msgstr "Czas trwania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:452
 msgid "Sort (date+)"
-msgstr ""
+msgstr "Sortuj (data+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:456
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:539
 msgid "Sort (date-)"
-msgstr ""
+msgstr "Sortuj (data-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:561
 msgid "Play entry"
-msgstr ""
+msgstr "Odtwórz wpisy"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:563
 msgid "Delete all entries"
-msgstr ""
+msgstr "Usuń wszystkie wpisy"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:564
 msgid "Sort by name (ascending)"
-msgstr ""
+msgstr "Sortuj według nazwy (rosnąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:565
 msgid "Sort by name (descending)"
-msgstr ""
+msgstr "Sortuj według nazwy (malejąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:566
 msgid "Sort by date (ascending)"
-msgstr ""
+msgstr "Sortuj według daty (rosnąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:567
 msgid "Sort by date (descending)"
-msgstr ""
+msgstr "Według daty (malejąco)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:568
 msgid "Show duration window"
-msgstr ""
+msgstr "Pokaż okno trwania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:569
 msgid "Show combined duration window"
-msgstr ""
+msgstr "Pokaż połączone okna trwania"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:570
 msgid "Close plugin"
-msgstr ""
+msgstr "Zamknij wtyczkę"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:571
 msgid "Please choose a function..."
-msgstr ""
+msgstr "Proszę wybrać funkcję..."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:598
 msgid "Shows the watched services with some statistic"
-msgstr ""
+msgstr "Pokazuje statystykę oglądanych programów"
 
 #
 #: ../src/plugin.py:23
@@ -18914,79 +19046,81 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:50
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:401
 msgid "Name of DVD"
-msgstr ""
+msgstr "Nazwa DVD"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:143
 msgid "Could not find any file to backup!"
-msgstr ""
+msgstr "Nie można znaleźć żadnego pliku kopii zapasowej!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:146
 msgid "Could not read the DVD informations!"
-msgstr ""
+msgstr "Nie można odczytać informacji DVD!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:152
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:181
 msgid "Error while backup of DVD!"
-msgstr ""
+msgstr "Błąd podczas tworzenia kopii zapasowej DVD!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:186
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"
 msgstr ""
+"Generowanie pliku .iso wykonane.\n"
+"Skasować folder DVD?"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Backup of DVD finished."
-msgstr ""
+msgstr "Kopia zapasowa DVD zakończona."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Duration:"
-msgstr ""
+msgstr "Czas trwania:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Eject DVD?"
-msgstr ""
+msgstr "Wysunąć DVD?"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:322
 msgid "Progress"
-msgstr ""
+msgstr "Postęp"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:331
 msgid "Device:"
-msgstr ""
+msgstr "Urządzenie:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:332
 msgid "Directory:"
-msgstr ""
+msgstr "Katalog:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:333
 msgid "Name:"
-msgstr ""
+msgstr "Nazwa:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:334
 msgid "Log:"
-msgstr ""
+msgstr "Log:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:335
 msgid "Create iso:"
-msgstr ""
+msgstr "Tworzenie .iso:"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:421
 msgid "Installing..."
-msgstr ""
+msgstr "Instalacja..."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:427
 msgid "Could not install needed dvdbackup package!"
-msgstr ""
+msgstr "Nie można zainstalować potrzebnego pakietu dvdbackup!"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:443
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "DVD Backup"
-msgstr ""
+msgstr "Kopia zapasowa DVD"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "Backup your Video-DVD to your harddisk"
-msgstr ""
+msgstr "Kopia zapasowa Video-DVD na dysk twardy"
 
 #
 # File: src/plugin.py, line: 15
@@ -19302,50 +19436,52 @@ msgstr "Rozszerzenia"
 #: ../src/MediaDownloader.py:215
 #, python-format
 msgid "%d kb/s"
-msgstr ""
+msgstr "%d kb/s"
 
 #: ../src/MediaDownloader.py:148
 msgid "?? kb/s"
-msgstr ""
+msgstr "?? kb/s"
 
 #: ../src/MediaDownloader.py:245
 msgid "Do you want to try to open the downloaded file?"
-msgstr ""
+msgstr "Czy chcesz spróbować otworzyć pobrany plik?"
 
 #: ../src/plugin.py:83
 msgid "Download..."
-msgstr ""
+msgstr "Pobieranie..."
 
 #: ../src/MediaDownloader.py:214
 #, python-format
 msgid "ETA %d:%02d min"
-msgstr ""
+msgstr "ETA %d:%02d min"
 
 #: ../src/MediaDownloader.py:147
 msgid "ETA ??:?? h"
-msgstr ""
+msgstr "ETA ??:?? godz."
 
 #: ../src/MediaDownloader.py:262
 #, python-format
 msgid "Error while downloading file %s"
-msgstr ""
+msgstr "Błąd podczas pobierania pliku %s"
 
 #: ../src/MediaDownloader.py:228
 msgid "No suitable Viewer found!"
-msgstr ""
+msgstr "Brak odpowiedniej przeglądarki!"
 
 #: ../src/MediaDownloader.py:172
 msgid "Where to save?"
-msgstr ""
+msgstr "Gdzie chcesz zapisać?"
 
 #: ../src/plugin.py:58
 msgid "Which file do you want to download?"
-msgstr ""
+msgstr "Który plik chcesz pobrać?"
 
 msgid ""
 "Mounted/\n"
 "Unmounted"
 msgstr ""
+"Podmontowane/\n"
+"Odmontowane"
 
 #
 msgid "Mount informations"
@@ -19510,7 +19646,7 @@ msgid "Manage your network shares..."
 msgstr "Zarządzaj swoimi udziałami sieciowymi..."
 
 msgid "Mounts management"
-msgstr ""
+msgstr "Zarządzanie montowania"
 
 #
 msgid "Rescan"
@@ -19545,7 +19681,7 @@ msgid "Press OK to expand this host"
 msgstr "Wciśnij OK, aby rozszerzyć ten host"
 
 msgid "Do you want to enter a username and password for this host?\n"
-msgstr ""
+msgstr "Czy chcesz, aby wprowadzić nazwę użytkownika i hasło dla tego hosta?\n"
 
 #
 msgid "Scan NFS share"
@@ -19614,7 +19750,7 @@ msgid "Automatically refresh EPG"
 msgstr ""
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanały"
 
 msgid "Delay if not in standby (minutes)"
 msgstr ""
@@ -19711,7 +19847,7 @@ msgid "Refresh now"
 msgstr ""
 
 msgid "Refreshing"
-msgstr ""
+msgstr "Odświeżam"
 
 msgid "Run AutoTimer after refresh"
 msgstr ""
@@ -19787,7 +19923,7 @@ msgstr ""
 
 #: ..\src/plugin.py:86
 msgid "ask me"
-msgstr ""
+msgstr "zapytaj mnie"
 
 #: ..\src/plugin.py:169
 #, python-format
@@ -19796,7 +19932,7 @@ msgstr ""
 
 #: ..\src/plugin.py:254
 msgid "Delete this movie?"
-msgstr ""
+msgstr "Usunąć ten film?"
 
 #: ..\src/plugin.py:296
 msgid "Error getting movies"
@@ -19812,7 +19948,7 @@ msgstr ""
 
 #: ..\src/plugin.py:535
 msgid "Buffer:"
-msgstr ""
+msgstr "Bufor:"
 
 #: ..\src/plugin.py:536
 msgid "Buffer device:"
@@ -20929,7 +21065,7 @@ msgstr "Edytuj"
 # File: EPGSearchSetup.py, line: 39
 #: EPGSearchSetup.py:39
 msgid "Length of History"
-msgstr ""
+msgstr "Długość historii"
 
 #
 # File: EPGSearchSetup.py, line: 39
@@ -20938,12 +21074,14 @@ msgid ""
 "How many entries to keep in the search history at most. 0 disables history "
 "entirely!"
 msgstr ""
+"Ilość wpisów trzymanych w historii wyszukiwania. 0 wyłacza historię w "
+"całości!"
 
 #
 # File: EPGSearchSetup.py, line: 41
 #: EPGSearchSetup.py:41
 msgid "Add \"Search\" Button to EPG"
-msgstr ""
+msgstr "Dodaj przycisk \"Szukaj\" do EPG"
 
 #
 # File: EPGSearchSetup.py, line: 41
@@ -20952,99 +21090,101 @@ msgid ""
 "If this setting is enabled, the plugin adds a \"Search\" Button to the "
 "regular EPG."
 msgstr ""
+"Jeśli ta opcja jest włączona, wtyczka dodaje przycisk \"Szukaj\" do zwykłego "
+"EPG."
 
 #
 # File: EPGSearchSetup.py, line: 42
 #: EPGSearchSetup.py:42
 msgid "Default search type"
-msgstr ""
+msgstr "Domyślny typ wyszukiwania"
 
 #
 # File: EPGSearchSetup.py, line: 42
 #: EPGSearchSetup.py:42
 msgid "Configure EPG search type"
-msgstr ""
+msgstr "Skonfiguruj typ wyszukiwania EPG"
 
 #
 # File: EPGSearchSetup.py, line: 43
 #: EPGSearchSetup.py:43
 msgid "Case sensitive search"
-msgstr ""
+msgstr "Wyszukiwanie wrażliwych danych"
 
 #
 msgid "Perform case sensitive or case intensive EPG searches"
-msgstr ""
+msgstr "Wykonaj wyszukanie danych wrażliwych lub intensywne wyszukanie EPG"
 
 #
 # File: EPGSearchSetup.py, line: 33
 # File: EPGSearchSetup.py, line: 81
 #: EPGSearchSetup.py:33 EPGSearchSetup.py:81
 msgid "EPGSearch Setup"
-msgstr ""
+msgstr "Ustawienia wyszukiwanie EPG"
 
 #
 # File: __init__.py, line: 33
 # File: EPGSearch.py, line: 536
 #: __init__.py:33 EPGSearch.py:536
 msgid "Extended description"
-msgstr ""
+msgstr "Rozszerzony opis"
 
 #
 # File: __init__.py, line: 34
 # File: EPGSearch.py, line: 537
 #: __init__.py:34 EPGSearch.py:537
 msgid "Title, short and extended description"
-msgstr ""
+msgstr "Tytuł, krótki lub rozszerzony opis"
 
 #
 # File: __init__.py, line: 32
 # File: EPGSearch.py, line: 535
 #: __init__.py:32 EPGSearch.py:535
 msgid "Title and short description"
-msgstr ""
+msgstr "Tytuł i krótki opis"
 
 #
 # File: __init__.py, line: 31
 # File: EPGSearch.py, line: 534
 #: __init__.py:31 EPGSearch.py:534
 msgid "Short description"
-msgstr ""
+msgstr "Krótki opis"
 
 #
 # File: EPGSearch.py, line: 541
 #: EPGSearch.py:541
 msgid "Select EPG search typ"
-msgstr ""
+msgstr "Wybierz typ wyszukiwania EPG"
 
 #
 # File: __init__.py, line: 29
 #: __init__.py:29
 msgid "Ask before search"
-msgstr ""
+msgstr "Pytaj przed wyszukaniem"
 
 #
 # File: __init__.py, line: 42
 #: __init__.py:42
 msgid "any substring"
-msgstr ""
+msgstr "dowolny podciąg"
 
 #
 # File: __init__.py, line: 42
 #: __init__.py:42
 msgid "beginning of a word"
-msgstr ""
+msgstr "początek słowa"
 
 #
 # File: __init__.py, line: 42
 #: __init__.py:42
 msgid "exact match"
-msgstr ""
+msgstr "dokładne dopasowanie"
 
 #
 # File: EPGSearchSetup.py, line: 40
 #: EPGSearchSetup.py:40
 msgid "Save any search string in history"
-msgstr ""
+msgstr "Zapisz dowolny ciąg wyszukiwania w historii"
 
 #
 # File: EPGSearchSetup.py, line: 40
@@ -21084,14 +21224,14 @@ msgstr ""
 # File: EPGSearchSetup.py, line: 45
 #: EPGSearchSetup.py:45
 msgid "Choose how the search string should match the results."
-msgstr ""
+msgstr "Wybierz sposób wyszukiwania aby otrzymać zgodne wyniki."
 
 #
 # File: EPGSearchSetup.py, line: 46
 # File: EPGSearch.py, line: 352
 #: EPGSearchSetup.py:46 EPGSearch.py:352
 msgid "Show event short description"
-msgstr ""
+msgstr "Pokaż krótki opis zdarzenia"
 
 #
 # File: EPGSearchSetup.py, line: 46
@@ -21100,6 +21240,8 @@ msgid ""
 "Show the event short description in the result list. Useful when looking for "
 "a certain episode of a TV show."
 msgstr ""
+"Pokaż krótki opis zdarzenia na liście wyników. Przydatne przy poszukiwaniu "
+"określonego odcinka serialu."
 
 #
 # File: EPGSearch.py, line: 192
@@ -21111,7 +21253,7 @@ msgstr ""
 # File: EPGSearch.py, line: 193
 #: EPGSearch.py:193
 msgid "Remove Channel from result list"
-msgstr ""
+msgstr "Usuń kanał z listy wyników"
 
 #
 # File: EPGSearch.py, line: 194
@@ -21154,14 +21296,14 @@ msgstr ""
 # File: EPGSearch.py, line: 374
 #: EPGSearch.py:219 EPGSearch.py:374
 msgid "Search all channels"
-msgstr ""
+msgstr "Wyszukaj wszystkie kanały"
 
 #
 # File: EPGSearch.py, line: 221
 # File: EPGSearch.py, line: 376
 #: EPGSearch.py:221 EPGSearch.py:376
 msgid "Limit to bouquet"
-msgstr ""
+msgstr "Limit dla bukietu"
 
 #
 # File: EPGSearch.py, line: 223
@@ -21175,50 +21317,50 @@ msgstr ""
 # File: EPGSearch.py, line: 361
 #: EPGSearch.py:225 EPGSearch.py:361
 msgid "Match beginning of a word"
-msgstr ""
+msgstr "Dopasuj początek wyrazu"
 
 #
 # File: EPGSearch.py, line: 227
 # File: EPGSearch.py, line: 364
 #: EPGSearch.py:227 EPGSearch.py:364
 msgid "Match exactly"
-msgstr ""
+msgstr "Dopasuj dokładnie"
 
 #
 # File: EPGSearch.py, line: 263
 #: EPGSearch.py:263
 msgid "Open selected in IMDb"
-msgstr ""
+msgstr "Otwórz wybrane w IMDb"
 
 #
 # File: EPGSearch.py, line: 350
 #: EPGSearch.py:350
 msgid "Hide event short description"
-msgstr ""
+msgstr "Ukryj krótki opis wydarzenia"
 
 #
 # File: EPGSearch.py, line: 381
 #: EPGSearch.py:381
 msgid "Filter: remove"
-msgstr ""
+msgstr "Filtr: usuń"
 
 #
 # File: EPGSearch.py, line: 383
 #: EPGSearch.py:383
 msgid "Filter: keep"
-msgstr ""
+msgstr "Filtr: utrzymaj"
 
 #
 msgid "Removed all filters"
-msgstr ""
+msgstr "Usunięto wszystkie filtry"
 
 #
 msgid "event"
-msgstr ""
+msgstr "zdarzenie"
 
 #
 msgid "channel"
-msgstr ""
+msgstr "kanał"
 
 #
 msgid "Timeout for info pop up"
@@ -21226,7 +21368,7 @@ msgstr ""
 
 #
 msgid "Duration for showing additional information for search filters"
-msgstr ""
+msgstr "Czas do wyświetlania dodatkowych informacji o filtrach wyszukiwania"
 
 #
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:39
@@ -21267,49 +21409,49 @@ msgstr "Przełącz & Zamknij"
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:54
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Permanent Clock"
-msgstr ""
+msgstr "Stały zegar"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:178
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Deactivate permanent clock"
-msgstr ""
+msgstr "Wyłącz stały zegar"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:180
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Activate permanent clock"
-msgstr ""
+msgstr "Włącz stały zegar"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:181
 msgid "Change permanent clock position"
-msgstr ""
+msgstr "Zmień pozycję stałego zegara"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Shows the clock permanent on the screen"
-msgstr ""
+msgstr "Pokaż zegar na stałe na ekranie"
 
 #: ../src/plugin.py:69
 msgid "A video streaming solution based on VLC"
-msgstr ""
+msgstr "Rozwiązanie opiera się na video streamingu VLC"
 
 #: ../src/VlcServerConfig.py:318
 msgid "Audio Bitrate"
-msgstr ""
+msgstr "Bitrate dźwięku"
 
 #: ../src/VlcServerConfig.py:320
 msgid "Audio Channels"
-msgstr ""
+msgstr "Kanały audio"
 
 #: ../src/VlcServerConfig.py:317
 msgid "Audio Codec"
-msgstr ""
+msgstr "Kodek audio"
 
 #: ../src/VlcServerConfig.py:319
 msgid "Audio Samplerate"
-msgstr ""
+msgstr "Częstotliwość próbkowania audio"
 
 #: ../src/VlcServerConfig.py:306
 msgid "DVD Device (leave empty for default)"
-msgstr ""
+msgstr "Urządzenie DVD (pozostaw puste, domyślnie)"
 
 #: ../src/VlcServerConfig.py:301
 msgid "Enter VLC-Server as FQDN or IP-Address"
@@ -21353,7 +21495,7 @@ msgstr ""
 
 #: ../src/VlcMediaList.py:62
 msgid "Filelist"
-msgstr ""
+msgstr "Lista plików"
 
 #: ../src/VlcServerList.py:80
 msgid "List of known VLC-Server Profiles"
@@ -21361,15 +21503,15 @@ msgstr ""
 
 #: ../src/VlcServerConfig.py:305
 msgid "Movie Directory"
-msgstr ""
+msgstr "Katalog filmów"
 
 #: ../src/VlcPlayer.py:445
 msgid "No more files in this directory"
-msgstr ""
+msgstr "Brak plików w tym katalogu"
 
 #: ../src/VlcPlayer.py:472
 msgid "No previous file in this directory"
-msgstr ""
+msgstr "Brak poprzedniego pliku w tym katalogu"
 
 #: ../src/VlcPlayer.py:320
 msgid ""
@@ -21384,11 +21526,11 @@ msgstr ""
 
 #: ../src/VlcServerList.py:126
 msgid "Really delete this Server?"
-msgstr ""
+msgstr "Na pewno usunąć ten serwer?"
 
 #: ../src/VlcServerConfig.py:302
 msgid "Server Address"
-msgstr ""
+msgstr "Adres serwera"
 
 #: ../src/VlcServerConfig.py:300
 msgid "Server Profile Name"
@@ -21396,19 +21538,19 @@ msgstr ""
 
 #: ../src/VlcMediaList.py:57
 msgid "Serverlist"
-msgstr ""
+msgstr "Lista serwerów"
 
 #: ../src/VlcServerConfig.py:314
 msgid "Subtitle overlay"
-msgstr ""
+msgstr "Wygląd napisów"
 
 #: ../src/VlcServerConfig.py:316
 msgid "Transcode MPEG/DVD Audio"
-msgstr ""
+msgstr "Transkodouj MPEG / DVD Audio"
 
 #: ../src/VlcServerConfig.py:308
 msgid "Transcode MPEG/DVD Video"
-msgstr ""
+msgstr "Transcode MPEG/DVD Video"
 
 #: ../src/VlcServerConfig.py:310
 msgid "Video Bitrate"
@@ -21424,51 +21566,53 @@ msgstr ""
 
 #: ../src/VlcServerList.py:83
 msgid "add server"
-msgstr ""
+msgstr "dodaj serwer"
 
 #: ../src/VlcServerList.py:82
 msgid "delete server"
-msgstr ""
+msgstr "usuń serwer"
 
 #: ../src/VlcServerList.py:84
 msgid "edit server"
-msgstr ""
+msgstr "edycja serwera"
 
 #: ../src/VlcMediaList.py:55 ../src/VlcMediaList.py:119
 msgid "filter off"
-msgstr ""
+msgstr "filtr wyłączony"
 
 #: ../src/VlcMediaList.py:122
 msgid "filter on"
-msgstr ""
+msgstr "filtr włączony"
 
 #: ../src/VlcMediaList.py:58
 msgid "play DVD"
-msgstr ""
+msgstr "odtwórz DVD"
 
 #: ../src/VlcMediaList.py:56
 msgid "refresh"
-msgstr ""
+msgstr "odśwież"
 
 #: ../src/VlcServerList.py:85
 msgid "set default"
-msgstr ""
+msgstr "ustaw domyślne"
 
 #: ../src/plugin.py:251
 msgid "Add new tag..."
-msgstr ""
+msgstr "Dodaj nowy tag ..."
 
 #: ../src/plugin.py:255
 msgid "Delete all tags..."
-msgstr ""
+msgstr "Usuń wszystkie tagi ..."
 
 #: ../src/plugin.py:253
 msgid "Delete this tag..."
-msgstr ""
+msgstr "Usuń ten tag ..."
 
 #: ../src/plugin.py:254
 msgid "Delete unused tags"
 msgstr ""
+"18/5000\n"
+"Usuń nieużywane znaczniki"
 
 #: ../src/plugin.py:237
 msgid ""
@@ -21489,7 +21633,7 @@ msgstr ""
 
 #: ../src/plugin.py:252
 msgid "Rename this tag..."
-msgstr ""
+msgstr "Zmień nazwę tego tagu..."
 
 #: ../src/plugin.py:200
 #, python-format
@@ -21735,7 +21879,7 @@ msgid "Only on Service: %s"
 msgstr ""
 
 msgid "Timer type"
-msgstr ""
+msgstr "Rodzaj timera"
 
 msgid "Import AutoTimer"
 msgstr ""
@@ -21878,16 +22022,16 @@ msgid "Edit AutoTimer"
 msgstr ""
 
 msgid "edit filters"
-msgstr ""
+msgstr "edytuj filtry"
 
 msgid "add filters"
-msgstr ""
+msgstr "dodaj filtry"
 
 msgid "edit services"
-msgstr ""
+msgstr "edytuj usługi"
 
 msgid "add services"
-msgstr ""
+msgstr "dodaj usługi"
 
 msgid "Set this NO to disable this AutoTimer."
 msgstr ""
@@ -22032,7 +22176,7 @@ msgid "EPG encoding"
 msgstr ""
 
 msgid "Search type"
-msgstr ""
+msgstr "Typ wyszukiwania"
 
 msgid "Search strictness"
 msgstr ""
@@ -22044,10 +22188,10 @@ msgid "Restrict to events on certain dates"
 msgstr ""
 
 msgid "Not before"
-msgstr ""
+msgstr "Nie przed"
 
 msgid "Not after"
-msgstr ""
+msgstr "Nie po"
 
 msgid "Custom offset"
 msgstr ""
@@ -22089,13 +22233,13 @@ msgid "Check for uniqueness in"
 msgstr ""
 
 msgid "Use a custom location"
-msgstr ""
+msgstr "Użyj niestandardowej lokalizacji"
 
 msgid "Custom location"
-msgstr ""
+msgstr "Lokalizacja niestandardowa"
 
 msgid "Activate VPS"
-msgstr ""
+msgstr "Aktywuj VPS"
 
 msgid "Control recording completely by service"
 msgstr ""
@@ -22128,10 +22272,10 @@ msgid "Enable Filtering"
 msgstr ""
 
 msgid "Filter"
-msgstr ""
+msgstr "Filtr"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Wyklucz"
 
 msgid "Include"
 msgstr ""
@@ -22414,7 +22558,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:973
 msgid "Loading next page... please wait!"
-msgstr ""
+msgstr "Ładowanie następnej strony ... proszę czekać!"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1234
 msgid "Enter unrar password:"
@@ -22426,15 +22570,15 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1364
 msgid "Delete download"
-msgstr ""
+msgstr "Usuń pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1365
 msgid "Use search engine"
-msgstr ""
+msgstr "Zastosuj silnik wyszukiwania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1366
 msgid "Add downloads from txt files"
-msgstr ""
+msgstr "Dodaj pliki do pobrania z plików tekstowych"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1367
 msgid "Add files from container"
@@ -22442,44 +22586,44 @@ msgstr ""
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1368
 msgid "Delete failed downloads"
-msgstr ""
+msgstr "Usuń nieudane pobierania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1369
 msgid "Abort all downloads"
-msgstr ""
+msgstr "Przerwij wszystkie pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1370
 msgid "Restart failed downloads"
-msgstr ""
+msgstr "Wznów nieudane pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1371
 msgid "Clear finished downloads"
-msgstr ""
+msgstr "Wyczyść zakończone pobrania"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1372
 msgid "Show log"
-msgstr ""
+msgstr "Pokaż log"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1373
 msgid "Delete log"
-msgstr ""
+msgstr "Skauj log"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1375
 msgid "Open unrar Manager"
-msgstr ""
+msgstr "Otwórz menadżera unrar"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1377
 msgid "Install unrar"
-msgstr ""
+msgstr "Zainstaluj unrar..."
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1410
 msgid "Installing unrar..."
-msgstr ""
+msgstr "Instalacja unrar..."
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1426
 #, python-format
 msgid "Delete %s?"
-msgstr ""
+msgstr "Skasować %s?"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1435
 msgid "Search http://rapidshare-search-engine.com for:"
@@ -22488,25 +22632,25 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1498
 #, python-format
 msgid "Error while decrypting %s!"
-msgstr ""
+msgstr "Błąd podczas odszyfrowywania %s!"
 
 #: /home/aliabdul/dream/enigma2-plugins/rsdownloader/src/plugin.py:1519
 msgid "Download files from rapidshare"
-msgstr ""
+msgstr "Pobieraj pliki z Rapidshare"
 
 #: ../src/plugin.py:131
 msgid "Change or reset the root password of your dreambox"
-msgstr ""
+msgstr "Zmień lub zresetuj hasło roota swojego VU+"
 
 #: ../src/plugin.py:88
 msgid "Sucessfully changed password for root user to: "
-msgstr ""
+msgstr "Pomyślnie zmieniono hasło dla użytkownika root do:"
 
 #
 # File: ../src/MyTubeSearch.py, line: 309
 #: ../src/MyTubeSearch.py:309
 msgid " Results"
-msgstr ""
+msgstr "Wyniki"
 
 #
 # File: ../src/plugin.py, line: 1104
@@ -22520,20 +22664,20 @@ msgstr "Dodano: "
 # File: ../src/plugin.py, line: 56
 #: ../src/MyTubeSearch.py:168 ../src/plugin.py:56
 msgid "All Time"
-msgstr ""
+msgstr "Cały czas"
 
 #
 # File: ../src/plugin.py, line: 423
 #: ../src/plugin.py:423
 msgid "An error occured."
-msgstr ""
+msgstr "Wystąpił błąd."
 
 #
 # File: ../src/MyTubeSearch.py, line: 228
 # File: ../src/plugin.py, line: 116
 #: ../src/MyTubeSearch.py:228 ../src/plugin.py:116
 msgid "Ascending"
-msgstr ""
+msgstr "Rosnąco"
 
 #
 # File: ../src/MyTubeSearch.py, line: 201
@@ -22543,28 +22687,28 @@ msgstr ""
 #: ../src/MyTubeSearch.py:201 ../src/MyTubeSearch.py:208 ../src/plugin.py:89
 #: ../src/plugin.py:96
 msgid "Australia"
-msgstr ""
+msgstr "Australia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 182
 # File: ../src/plugin.py, line: 70
 #: ../src/MyTubeSearch.py:182 ../src/plugin.py:70
 msgid "Autos & Vehicles"
-msgstr ""
+msgstr "Samochody & Pojazdy"
 
 #
 # File: ../src/MyTubeSearch.py, line: 202
 # File: ../src/plugin.py, line: 90
 #: ../src/MyTubeSearch.py:202 ../src/plugin.py:90
 msgid "Brazil"
-msgstr ""
+msgstr "Brazylia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 203
 # File: ../src/plugin.py, line: 91
 #: ../src/MyTubeSearch.py:203 ../src/plugin.py:91
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 #
 # File: ../src/MyTubeSearch.py, line: 433
@@ -22577,21 +22721,21 @@ msgstr "Wyczyść historię przy wyjsciu:"
 # File: ../src/plugin.py, line: 77
 #: ../src/MyTubeSearch.py:189 ../src/plugin.py:77
 msgid "Comedy"
-msgstr ""
+msgstr "Komedia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 204
 # File: ../src/plugin.py, line: 92
 #: ../src/MyTubeSearch.py:204 ../src/plugin.py:92
 msgid "Czech Republic"
-msgstr ""
+msgstr "Republika Czaska"
 
 #
 # File: ../src/MyTubeSearch.py, line: 229
 # File: ../src/plugin.py, line: 117
 #: ../src/MyTubeSearch.py:229 ../src/plugin.py:117
 msgid "Descending"
-msgstr ""
+msgstr "Malejąco"
 
 #
 # File: ../src/MyTubeSearch.py, line: 414
@@ -22635,7 +22779,7 @@ msgstr "Trwanie: "
 # File: ../src/plugin.py, line: 81
 #: ../src/MyTubeSearch.py:193 ../src/plugin.py:81
 msgid "Education"
-msgstr ""
+msgstr "Edukacja"
 
 #
 # File: ../src/plugin.py, line: 526
@@ -22648,7 +22792,7 @@ msgstr "Wpisz wyraz do wyszukania..."
 # File: ../src/plugin.py, line: 80
 #: ../src/MyTubeSearch.py:192 ../src/plugin.py:80
 msgid "Entertainment"
-msgstr ""
+msgstr "Rozrywka"
 
 #
 # File: ../src/plugin.py, line: 371
@@ -22668,21 +22812,21 @@ msgstr "Wyszukiwanie wpisów YouTube..."
 # File: ../src/plugin.py, line: 69
 #: ../src/MyTubeSearch.py:181 ../src/plugin.py:69
 msgid "Film & Animation"
-msgstr ""
+msgstr "Film & Animacja"
 
 #
 # File: ../src/MyTubeSearch.py, line: 188
 # File: ../src/plugin.py, line: 76
 #: ../src/MyTubeSearch.py:188 ../src/plugin.py:76
 msgid "Gaming"
-msgstr ""
+msgstr "Gry"
 
 #
 # File: ../src/MyTubeSearch.py, line: 207
 # File: ../src/plugin.py, line: 95
 #: ../src/MyTubeSearch.py:207 ../src/plugin.py:95
 msgid "Great Britain"
-msgstr ""
+msgstr "Wielka Brytania"
 
 #
 # File: ../src/MyTubeSearch.py, line: 237
@@ -22697,49 +22841,49 @@ msgstr "Filmy HD"
 # File: ../src/plugin.py, line: 97
 #: ../src/MyTubeSearch.py:209 ../src/plugin.py:97
 msgid "Holland"
-msgstr ""
+msgstr "Holandia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 210
 # File: ../src/plugin.py, line: 98
 #: ../src/MyTubeSearch.py:210 ../src/plugin.py:98
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 #
 # File: ../src/MyTubeSearch.py, line: 194
 # File: ../src/plugin.py, line: 82
 #: ../src/MyTubeSearch.py:194 ../src/plugin.py:82
 msgid "Howto & Style"
-msgstr ""
+msgstr "Styl "
 
 #
 # File: ../src/MyTubeSearch.py, line: 211
 # File: ../src/plugin.py, line: 99
 #: ../src/MyTubeSearch.py:211 ../src/plugin.py:99
 msgid "India"
-msgstr ""
+msgstr "Indie"
 
 #
 # File: ../src/MyTubeSearch.py, line: 212
 # File: ../src/plugin.py, line: 100
 #: ../src/MyTubeSearch.py:212 ../src/plugin.py:100
 msgid "Ireland"
-msgstr ""
+msgstr "Irlandia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 213
 # File: ../src/plugin.py, line: 101
 #: ../src/MyTubeSearch.py:213 ../src/plugin.py:101
 msgid "Israel"
-msgstr ""
+msgstr "Izrael"
 
 #
 # File: ../src/MyTubeSearch.py, line: 215
 # File: ../src/plugin.py, line: 103
 #: ../src/MyTubeSearch.py:215 ../src/plugin.py:103
 msgid "Japan"
-msgstr ""
+msgstr "Japonia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 418
@@ -22752,13 +22896,13 @@ msgstr "Załaduj listę podczas startu:"
 # File: ../src/plugin.py, line: 104
 #: ../src/MyTubeSearch.py:216 ../src/plugin.py:104
 msgid "Mexico"
-msgstr ""
+msgstr "Meksyk"
 
 #
 # File: ../src/plugin.py, line: 929
 #: ../src/plugin.py:929
 msgid "More video entries."
-msgstr ""
+msgstr "Więcej wpisów wideo."
 
 #
 # File: ../src/MyTubeSearch.py, line: 241
@@ -22864,7 +23008,7 @@ msgstr ""
 # File: ../src/plugin.py, line: 105
 #: ../src/MyTubeSearch.py:217 ../src/plugin.py:105
 msgid "New Zealand"
-msgstr ""
+msgstr "Nowa Zelandia"
 
 #
 # File: ../src/MyTubeSearch.py, line: 191
@@ -22878,6 +23022,7 @@ msgstr ""
 #: ../src/plugin.py:1702
 msgid "No playable video found! Stop playing this movie?"
 msgstr ""
+"Nie odnaleziono wideo do odtwarzania! Zatrzymać odtwarzanie tego filmu?"
 
 #
 # File: ../src/plugin.py, line: 429
@@ -22961,7 +23106,7 @@ msgstr "Wybierz standardowy wpis lub powtórz wyszukiwanie"
 # File: ../src/plugin.py, line: 106
 #: ../src/MyTubeSearch.py:218 ../src/plugin.py:106
 msgid "Poland"
-msgstr ""
+msgstr "Polska"
 
 #
 # File: ../src/MyTubeSearch.py, line: 163
@@ -23001,7 +23146,7 @@ msgstr "Najczęściej zamieszczane"
 # File: ../src/plugin.py, line: 936
 #: ../src/plugin.py:936
 msgid "Related video entries."
-msgstr ""
+msgstr "Podobne wpisy wideo."
 
 #
 # File: ../src/MyTubeSearch.py, line: 161
@@ -23021,14 +23166,14 @@ msgstr ""
 # File: ../src/plugin.py, line: 107
 #: ../src/MyTubeSearch.py:219 ../src/plugin.py:107
 msgid "Russia"
-msgstr ""
+msgstr "Rosja"
 
 #
 # File: ../src/MyTubeSearch.py, line: 196
 # File: ../src/plugin.py, line: 84
 #: ../src/MyTubeSearch.py:196 ../src/plugin.py:84
 msgid "Science & Technology"
-msgstr ""
+msgstr "Nauka & Technologia"
 
 #
 # File: ../src/plugin.py, line: 388
@@ -23072,28 +23217,28 @@ msgstr "Wybierz jedną z opcji:"
 # File: ../src/plugin.py, line: 75
 #: ../src/MyTubeSearch.py:187 ../src/plugin.py:75
 msgid "Short Movies"
-msgstr ""
+msgstr "Krótkie filmy"
 
 #
 # File: ../src/MyTubeSearch.py, line: 220
 # File: ../src/plugin.py, line: 108
 #: ../src/MyTubeSearch.py:220 ../src/plugin.py:108
 msgid "South Korea"
-msgstr ""
+msgstr "Korea Południowa"
 
 #
 # File: ../src/MyTubeSearch.py, line: 221
 # File: ../src/plugin.py, line: 109
 #: ../src/MyTubeSearch.py:221 ../src/plugin.py:109
 msgid "Spain"
-msgstr ""
+msgstr "Hiszpania"
 
 #
 # File: ../src/MyTubeSearch.py, line: 185
 # File: ../src/plugin.py, line: 73
 #: ../src/MyTubeSearch.py:185 ../src/plugin.py:73
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 #
 # File: ../src/MyTubeSearch.py, line: 421
@@ -23112,46 +23257,47 @@ msgstr "Kategorie"
 # File: ../src/plugin.py, line: 110
 #: ../src/MyTubeSearch.py:222 ../src/plugin.py:110
 msgid "Sweden"
-msgstr ""
+msgstr "Szwecja"
 
 #
 # File: ../src/plugin.py, line: 1276
 #: ../src/plugin.py:1276
 msgid "Tags: "
-msgstr ""
+msgstr "Tagi:"
 
 #
 # File: ../src/MyTubeSearch.py, line: 223
 # File: ../src/plugin.py, line: 111
 #: ../src/MyTubeSearch.py:223 ../src/plugin.py:111
 msgid "Taiwan"
-msgstr ""
+msgstr "Tajwan"
 
 #
 # File: ../src/plugin.py, line: 423
 #: ../src/plugin.py:423
 msgid "There was an error getting the feed entries. Please try again."
 msgstr ""
+"Wystąpił błąd podczas pobierania wpisów z feed. Proszę spróbuj ponownie."
 
 #
 # File: ../src/MyTubeSearch.py, line: 169
 # File: ../src/plugin.py, line: 57
 #: ../src/MyTubeSearch.py:169 ../src/plugin.py:57
 msgid "This Month"
-msgstr ""
+msgstr "Ten miesiąc"
 
 #
 # File: ../src/MyTubeSearch.py, line: 170
 # File: ../src/plugin.py, line: 58
 #: ../src/MyTubeSearch.py:170 ../src/plugin.py:58
 msgid "This Week"
-msgstr ""
+msgstr "Ten tydzień"
 
 #
 # File: ../src/plugin.py, line: 1420
 #: ../src/plugin.py:1420
 msgid "This is the help screen. Feed me with something to display."
-msgstr ""
+msgstr "To jest ekran pomocy. Wprowdż tytuł pomocy do wyświetlenia."
 
 #
 # File: ../src/MyTubeSearch.py, line: 242
@@ -23174,7 +23320,7 @@ msgstr "Najlepiej oceniane"
 # File: ../src/plugin.py, line: 74
 #: ../src/MyTubeSearch.py:186 ../src/plugin.py:74
 msgid "Travel & Events"
-msgstr ""
+msgstr "Podróże"
 
 #
 # File: ../src/plugin.py, line: 371
@@ -23194,7 +23340,7 @@ msgstr "Pobieranie wyników wyszukiwania z YouTube"
 # File: ../src/plugin.py, line: 112
 #: ../src/MyTubeSearch.py:224 ../src/plugin.py:112
 msgid "United States"
-msgstr ""
+msgstr "Stany Zjednoczone"
 
 #
 # File: ../src/MyTubeSearch.py, line: 423
@@ -23324,7 +23470,7 @@ msgstr ""
 #: ../src/plugin.py:286
 #, python-format
 msgid "Successfully moved the movie %s"
-msgstr ""
+msgstr "Z powodzeniem przeniesiono film %s"
 
 #: ../src/plugin.py:126
 #, python-format
@@ -23344,7 +23490,7 @@ msgstr ""
 
 #: ../src/plugin.py:20
 msgid "change name..."
-msgstr ""
+msgstr "Zmień nazwę..."
 
 #: ../src/plugin.py:598
 msgid "(actual)"
@@ -23368,11 +23514,11 @@ msgstr ""
 
 #: ../src/plugin.py:54
 msgid "down"
-msgstr ""
+msgstr "dół"
 
 #: ../src/plugin.py:499
 msgid "not found"
-msgstr ""
+msgstr "nie znaleziono"
 
 #: ../src/plugin.py:537
 msgid "parser error"
@@ -23388,15 +23534,15 @@ msgstr ""
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:460
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:538
 msgid "Movielist Preview"
-msgstr ""
+msgstr "Podgląd listy filmów"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:343
 msgid "Preview created."
-msgstr ""
+msgstr "Podgląd utworzony."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:406
 msgid "Could not find any movie!"
-msgstr ""
+msgstr "Nie znaleziono żadnej filmu!"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:419
 #, python-format
@@ -23405,7 +23551,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:428
 msgid "Everything done ;)"
-msgstr ""
+msgstr "Wszystko zrobione."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:449
 msgid "Autocreate of previews aborted due user!"
@@ -23421,7 +23567,7 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:476
 msgid "Create preview"
-msgstr ""
+msgstr "Utwórz podgląd"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/movielistpreview/src/plugin.py:477
 msgid "Autocreate of missing previews"
@@ -23454,27 +23600,29 @@ msgid ""
 "A transfer is currently in progress.\n"
 "What do you want to do?"
 msgstr ""
+"Transfer jest obecnie w toku.\n"
+"Co chcesz robić?"
 
 #: ../src/FTPBrowser.py:719
 msgid "Abort transfer"
-msgstr ""
+msgstr "Przerwij transfer"
 
 #: ../src/FTPServerManager.py:150
 msgid "Address:"
-msgstr ""
+msgstr "Adres:"
 
 #: ../src/FTPBrowser.py:407
 #, python-format
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "Czy na pewno chcesz usunąć %s?"
 
 #: ../src/FTPServerManager.py:313
 msgid "Configuration saved."
-msgstr ""
+msgstr "Konfiguracja zapisana."
 
 #: ../src/plugin.py:101
 msgid "Connect to FTP..."
-msgstr ""
+msgstr "Połącz z FTP..."
 
 #: ../src/FTPBrowser.py:792
 msgid "Could not connect to ftp server!"
@@ -23508,11 +23656,11 @@ msgstr ""
 
 #: ../src/FTPBrowser.py:342
 msgid "Enter new filename:"
-msgstr ""
+msgstr "Wprowadź nazwę pliku"
 
 #: ../src/FTPBrowser.py:631 ../src/FTPBrowser.py:655
 msgid "Error during download."
-msgstr ""
+msgstr "Błąd podczas pobierania."
 
 #: ../src/FTPQueueManager.py:67
 msgid "FTP Queue Manager"
@@ -23528,23 +23676,23 @@ msgstr ""
 
 #: ../src/FTPBrowser.py:162
 msgid "Local"
-msgstr ""
+msgstr "Lokalny"
 
 #: ../src/FTPServerManager.py:153
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 #: ../src/FTPBrowser.py:241
 msgid "Queue Manager"
-msgstr ""
+msgstr "Menadżer kolejki"
 
 #: ../src/FTPBrowser.py:432
 msgid "Queue processed."
-msgstr ""
+msgstr "Przetwarzanie kolejki."
 
 #: ../src/FTPBrowser.py:781
 msgid "Remote"
-msgstr ""
+msgstr "Zdalny"
 
 #: ../src/FTPBrowser.py:164 ../src/FTPBrowser.py:746 ../src/FTPBrowser.py:789
 msgid "Remote (not connected)"
@@ -23553,58 +23701,60 @@ msgstr ""
 #: ../src/FTPBrowser.py:356 ../src/FTPBrowser.py:372
 #, python-format
 msgid "Removed %s."
-msgstr ""
+msgstr "Usunięto %s."
 
 #: ../src/FTPBrowser.py:382 ../src/FTPBrowser.py:395
 msgid "Removing directories is not supported."
-msgstr ""
+msgstr "Usuwanie katalogów nie jest obsługiwane."
 
 #: ../src/FTPBrowser.py:304 ../src/FTPBrowser.py:323
 #, python-format
 msgid "Renamed %s to %s."
-msgstr ""
+msgstr "Zmieniono nazwę %s na %s."
 
 #: ../src/FTPBrowser.py:718
 msgid "Run in Background"
-msgstr ""
+msgstr "Uruchom w tle"
 
 #: ../src/FTPBrowser.py:185
 msgid "Select local file list"
-msgstr ""
+msgstr "Wybierz lokalną listę plików"
 
 #: ../src/FTPBrowser.py:186
 msgid "Select remote file list"
-msgstr ""
+msgstr "Wybierz zdalną listę plików"
 
 #: ../src/FTPBrowser.py:240
 msgid "Server Manager"
-msgstr ""
+msgstr "Menadżer serwera"
 
 #: ../src/plugin.py:66
 msgid ""
 "There already is an active connection.\n"
 "Do you want to abort it?"
 msgstr ""
+"Jest już aktywne połączenie.\n"
+"Czy chcesz je przerwać?"
 
 #: ../src/FTPBrowser.py:556 ../src/FTPBrowser.py:580
 msgid "There already is an active transfer."
-msgstr ""
+msgstr "Jest już aktywny transfer."
 
 #: ../src/FTPBrowser.py:172 ../src/FTPBrowser.py:247
 msgid "Upload"
-msgstr ""
+msgstr "Wyślij"
 
 #: ../src/FTPBrowser.py:622
 msgid "Upload finished."
-msgstr ""
+msgstr "Wysyłanie zakończone."
 
 #: ../src/plugin.py:79
 msgid "Which server do you want to connect to?"
-msgstr ""
+msgstr "Z którym serwerem chcesz się połączyć?"
 
 #: ../src/FTPBrowser.py:179
 msgid "close"
-msgstr ""
+msgstr "zamknj"
 
 #: ../src/FTPBrowser.py:178
 msgid "enter directory/get file/put file"
@@ -23612,7 +23762,7 @@ msgstr ""
 
 #: ../src/FTPBrowser.py:180
 msgid "open menu"
-msgstr ""
+msgstr "otwórz menu"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:87
 msgid "Flash"
@@ -23620,7 +23770,7 @@ msgstr ""
 
 #: /home/dario/Plugins/ncidclient/plugin.py:89
 msgid "USB Device"
-msgstr ""
+msgstr "Urządzenie USB"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:94
 msgid "Media directory"
@@ -23648,7 +23798,7 @@ msgstr ""
 
 #: /home/dario/Plugins/ncidclient/plugin.py:795
 msgid "Plugin not active"
-msgstr ""
+msgstr "Wtyczka nie jest aktywna"
 
 #: /home/dario/Plugins/ncidclient/plugin.py:874
 #, python-format
@@ -23690,19 +23840,19 @@ msgstr ""
 
 #: ../src/plugin.py:37
 msgid "A/V-Color space settings"
-msgstr ""
+msgstr "Ustawiania głębi kolorów A/V"
 
 #: ../src/plugin.py:42 ../src/plugin.py:43 ../src/VideoColorSpace.py:86
 msgid "Color space setup"
-msgstr ""
+msgstr "Ustawiania głębi kolorów"
 
 #: ../src/plugin.py:42 ../src/plugin.py:43
 msgid "Setup color space for video"
-msgstr ""
+msgstr "Ustawiania głębi kolorów dla wideo"
 
 #: ../src/VideoColorSpace.py:71
 msgid "Mode:"
-msgstr ""
+msgstr "Tryb:"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:54
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:108
@@ -23718,35 +23868,35 @@ msgstr ""
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:253
 msgid "Description:"
-msgstr ""
+msgstr "Opis:"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/porncenter/src/plugin.py:381
 msgid "Error while getting video url!"
-msgstr ""
+msgstr "Błąd przy pobieraniu URL wideo!"
 
 #
 msgid "How to install new service lists..."
-msgstr ""
+msgstr "Jak zainstalować nowe listy usług..."
 
 #
 msgid "append to exisiting service lists"
-msgstr ""
+msgstr "dołączać do istniejących wykazów usług"
 
 #
 msgid "overwrite exisiting service lists"
-msgstr ""
+msgstr "nadpisz istniejące listy kanałów"
 
 #
 msgid "WakeOnWLan Enable"
-msgstr ""
+msgstr "Wake On WLAN włączony"
 
 #
 msgid "Wake on WLan disabled"
-msgstr ""
+msgstr "Wake on WLAN wyłączony"
 
 #
 msgid "Wake on Lan disabled"
-msgstr ""
+msgstr "Wake On LAN wyłączony"
 
 #
 msgid "HWaddr of %s is %s"
@@ -23758,31 +23908,31 @@ msgstr ""
 
 #
 msgid "Deep Standby with WoW"
-msgstr ""
+msgstr "Głębokie czuwanie z WoW"
 
 #
 msgid "Wake on WLan Setup"
-msgstr ""
+msgstr "Ustawienia Wake On WLAN"
 
 #
 msgid "Energy schedule"
-msgstr ""
+msgstr "Plan zasilania"
 
 #
 msgid "Power on"
-msgstr ""
+msgstr "Zasilanie włączone"
 
 #
 msgid "Event"
-msgstr ""
+msgstr "Zdarzenie"
 
 #
 msgid "Execution time"
-msgstr ""
+msgstr "Czas wykonania"
 
 #
 msgid "After power on"
-msgstr ""
+msgstr "Po włączeniu zasilania"
 
 #
 msgid ""
@@ -23790,6 +23940,9 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
+"Plan schematu zasilania chce przełączyć VU+ w tryb czuwania.\n"
+"\n"
+"Kontynuować?"
 
 #
 msgid ""
@@ -23797,14 +23950,17 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
+"Plan schematu zasilania chce wyłączyć VU+.\n"
+"\n"
+"Kontynuować?"
 
 #
 msgid "Ask before execution"
-msgstr ""
+msgstr "Pytaj przed wykonaniem"
 
 #
 msgid "Vertical EPG View"
-msgstr ""
+msgstr "Wyświetl pionowe EPG"
 
 #
 msgid "Vertical EPG view based on Vali Programm Guide"
@@ -23820,23 +23976,23 @@ msgstr ""
 
 #
 msgid "Zap with OK button (false=EventInfo):"
-msgstr ""
+msgstr "Przełącz przyciskiem OK "
 
 #
 msgid "No EPG data available"
-msgstr ""
+msgstr "Brak dostępnych danych EPG"
 
 #
 msgid "Primetime"
-msgstr ""
+msgstr "Primetime"
 
 #
 msgid "Now"
-msgstr ""
+msgstr "Teraz"
 
 #
 msgid "Full EPG"
-msgstr ""
+msgstr "Pełne EPG"
 
 #
 msgid "Select Info type..."
@@ -23844,127 +24000,127 @@ msgstr ""
 
 #
 msgid "Standard EPG info"
-msgstr ""
+msgstr "Standardowe EPG info"
 
 #
 msgid "IMDb info"
-msgstr ""
+msgstr "Info IMDb"
 
 #
 msgid "Select timer type..."
-msgstr ""
+msgstr "Wybierz typ timera..."
 
 #
 msgid "View AutoTimers"
-msgstr ""
+msgstr "Wyświetl auto timery"
 
 #
 msgid "Multi EPG column view"
-msgstr ""
+msgstr "Widok kolumn Multi EPG"
 
 #
 msgid "Next bouquet"
-msgstr ""
+msgstr "Następny bukiet"
 
 #
 msgid "Previous bouquet"
-msgstr ""
+msgstr "Poprzedni bukiet"
 
 #
 msgid "Next page"
-msgstr ""
+msgstr "Następna strona"
 
 #
 msgid "Previous page"
-msgstr ""
+msgstr "Poprzednia strona"
 
 #
 msgid "Add/remove timer"
-msgstr ""
+msgstr "Dodaj /usuń timer"
 
 #
 msgid "Now / Primetime / Full EPG"
-msgstr ""
+msgstr "Teraz / Primetime / P EPG"
 
 #
 msgid "Scroll up all"
-msgstr ""
+msgstr "Przewiń w górę wszystko"
 
 #
 msgid "Scroll down all"
-msgstr ""
+msgstr "Przewiń w dół wszystko"
 
 #
 msgid "Skip intervall in hours:"
-msgstr ""
+msgstr "Przeskocz przedział czasowy w godzinach:"
 
 #
 msgid "Primetime II (HH:MM):"
-msgstr ""
+msgstr "Primetime II (godz:min):"
 
 #
 msgid "Primetime III (HH:MM):"
-msgstr ""
+msgstr "Primetime III (godz:min):"
 
 #
 msgid "Show only Primetime"
-msgstr ""
+msgstr "Pokaż tylko Primetime"
 
 #
 msgid "Input date and time"
-msgstr ""
+msgstr "Wprowadź datę i czas"
 
 #
 msgid "Skip one day back"
-msgstr ""
+msgstr "Przejdź jeden dzień wstecz"
 
 #
 msgid "Skip one day forward"
-msgstr ""
+msgstr "Przejdź jeden dzień do przodu"
 
 #
 msgid "Picons loaded: "
-msgstr ""
+msgstr "Picony załadowane: "
 
 #
 msgid "Picons not found: "
-msgstr ""
+msgstr "Picony nie znalezione:"
 
 #
 msgid "loading"
-msgstr ""
+msgstr "ładuję"
 
 #
 msgid "Manage your Picons"
-msgstr ""
+msgstr "Zarządzaj swoimi piconami"
 
 #
 msgid "color depth: "
-msgstr ""
+msgstr "głębia koloru:"
 
 #
 msgid "Select service for preferred picon"
-msgstr ""
+msgstr "Wybierz kanał dla preferowanej pikony"
 
 #
 msgid "is not installed."
-msgstr ""
+msgstr "nie jest zainstalowany."
 
 #
 msgid "Clean up the directory"
-msgstr ""
+msgstr "Posprzątaj katalog"
 
 #
 msgid "Sorry, service is temporarily unavailable"
-msgstr ""
+msgstr "Niestety, usługa jest chwilowo niedostępna"
 
 #
 msgid "Not older than X days: "
-msgstr ""
+msgstr "Nie starsze niż X dni:"
 
 #
 msgid "Not older than X days:"
-msgstr ""
+msgstr "Nie starsze niż X dni:"
 
 #
 msgid "Show state message on non bluetooth setup screen."
@@ -23972,15 +24128,15 @@ msgstr ""
 
 #
 msgid "Try connect to last audio device on start enable"
-msgstr ""
+msgstr "Spróbuj połączyć się z ostatnim urządzeniem audio na początku"
 
 #
 msgid "Press red key to enable bluetooth."
-msgstr ""
+msgstr "Naciśnij czerwony przycisk, aby włączyć Bluetooth."
 
 #
 msgid "Device is enabled."
-msgstr ""
+msgstr "Urządzenie jest włączone."
 
 #
 msgid "Sink"
@@ -23992,47 +24148,47 @@ msgstr ""
 
 #
 msgid "Embedded subtitles"
-msgstr ""
+msgstr "Wbudowane napisy"
 
 #
 msgid "Turn on the embedded subtitles support."
-msgstr ""
+msgstr "Włącz wbudowane wsparcie napisów."
 
 #
 msgid "Buffer size"
-msgstr ""
+msgstr "Rozmiar bufora"
 
 #
 msgid "Set buffer size in kilobytes."
-msgstr ""
+msgstr "Ustaw rozmiar bufora w kilobajtach."
 
 #
 msgid "Buffer duration"
-msgstr ""
+msgstr "Czas buforu"
 
 #
 msgid "Set buffer duration in seconds."
-msgstr ""
+msgstr "Ustaw czas buforu w sekundach."
 
 #
 msgid "AAC software decoding"
-msgstr ""
+msgstr "Dekodowanie programowe AAC"
 
 #
 msgid "Turn on AAC software decoding."
-msgstr ""
+msgstr "Włącz dekodowanie programowe AAC."
 
 #
 msgid "DTS software decoding"
-msgstr ""
+msgstr "Dekodowanie programowe DTS "
 
 #
 msgid "Turn on DTS software decoding."
-msgstr ""
+msgstr "Włącz dekodowanie programowe DTS."
 
 #
 msgid "WMA software decoding"
-msgstr ""
+msgstr "Dekodowanie programowe WMA "
 
 #
 msgid "Turn on WMA1, WMA2, WMA/PRO software decoding."
@@ -24044,7 +24200,7 @@ msgstr ""
 
 #
 msgid "Turn on downmix to stereo, when software decoding is in use"
-msgstr ""
+msgstr "Włącz downmix do stereo, gdy dekodowanie programowe jest w użyciu"
 
 #
 msgid "LPCM injection"
@@ -24057,11 +24213,11 @@ msgstr ""
 
 #
 msgid "Auto turn on subtitles"
-msgstr ""
+msgstr "Automatycznie włącz napisy"
 
 #
 msgid "Automatically turn on subtitles if available."
-msgstr ""
+msgstr "Automatycznie włącz napisy jeśli są dostępne."
 
 #
 msgid "HLS Explorer"
@@ -24075,21 +24231,23 @@ msgstr ""
 
 #
 msgid "Auto select stream"
-msgstr ""
+msgstr "Automatycznie wybierz strumień"
 
 #
 msgid "Turn on auto-selection of streams according to set Connection speed."
-msgstr ""
+msgstr "Włacz automatyczny wybór strumienia zgodnie z prędkością połaczenia"
 
 #
 msgid "Connection speed"
-msgstr ""
+msgstr "Prędkość połączenia"
 
 #
 msgid ""
 "Set connection speed in kb/s, according to which you want to have streams "
 "auto-selected"
 msgstr ""
+"Ustaw szybkość połączenia w kb/s, zgodnie z którym chcesz mieć automatycznie "
+"dobrany strumień"
 
 #
 msgid "ExtEplayer3"
@@ -24101,20 +24259,22 @@ msgstr ""
 
 #
 msgid "Enigma2 playback system"
-msgstr ""
+msgstr "Sytsem odtwarzania Enigma2"
 
 #
 msgid "Select the player which will be used for Enigma2 playback."
-msgstr ""
+msgstr "Wybierz odtwarzacz, który będzie używany do odtwarzania w Enigma2."
 
 #
 msgid "Player"
-msgstr ""
+msgstr "Odtwarzacz"
 
 #
 msgid ""
 "Select the player which will be used in serviceapp for Enigma2 playback."
 msgstr ""
+"Wybierz odtwarzacz, który zostanie wykorzystany w celu odtwarzania "
+"serviceapp Enigma2."
 
 #
 msgid "ServiceMp3 (%s)"
@@ -24134,6 +24294,10 @@ msgid ""
 "\n"
 "Do you want to restart it now?"
 msgstr ""
+"System odtwarzania Enigma2 został zmieniony i wymaga ponownego "
+"uruchomienia.\n"
+"\n"
+"Czy chcesz uruchomić ponownie teraz?"
 
 #
 msgid "setup player framework"
@@ -24141,11 +24305,11 @@ msgstr ""
 
 #
 msgid "Play with ServiceExtEplayer3"
-msgstr ""
+msgstr "Odtwarzaj z ServiceExtEplayer3"
 
 #
 msgid "Play with ServiceGstPlayer"
-msgstr ""
+msgstr "Odtwarzaj z ServiceGstPlayer"
 
 #
 msgid "ServiceApp"
@@ -24153,107 +24317,107 @@ msgstr ""
 
 #
 msgid "Dolby Digital+ (AC3+) default"
-msgstr ""
+msgstr "Domyślnie Dolby Digital+ (AC3+)"
 
 #
 msgid "Automatic Audio/Subtitle track selection"
-msgstr ""
+msgstr "Automatyczny wybór ścieżki audio/napisów"
 
 #
 msgid "First audio language"
-msgstr ""
+msgstr "Pierwszy język audio"
 
 #
 msgid "Second audio language"
-msgstr ""
+msgstr "Drugi język audio"
 
 #
 msgid "Third audio language"
-msgstr ""
+msgstr "Trzeci język audio"
 
 #
 msgid "Fourth audio language"
-msgstr ""
+msgstr "Czwarty język audio"
 
 #
 msgid "Use selected audio track stored per service"
-msgstr ""
+msgstr "Użyj wybraną ścieżkę dźwiękową zapisaną dla kanału"
 
 #
 msgid "First subtitle language"
-msgstr ""
+msgstr "Pierwszy język napisów"
 
 #
 msgid "Second subtitle language"
-msgstr ""
+msgstr "Drugi język napisów"
 
 #
 msgid "Third subtitle language"
-msgstr ""
+msgstr "Trzeci język napisów"
 
 #
 msgid "Fourth subtitle language"
-msgstr ""
+msgstr "Czwarty język napisów"
 
 #
 msgid "Allow subtiles with same language as audio language"
-msgstr ""
+msgstr "Włącz napisy w tym samym języku, co język audio"
 
 #
 msgid "Allow auto select hearing impaired subtitles"
-msgstr ""
+msgstr "Pozwól na auto wybór napisów dla niedosłyszących "
 
 #
 msgid "Default auto select hearing impaired subtitles"
-msgstr ""
+msgstr "Domyślny auto wybór napisów dla niesłyszących"
 
 #
 msgid "Prefer DVB subtitles"
-msgstr ""
+msgstr "Preferuj napisy DVB"
 
 #
 msgid "Use selected subtitle track stored per service"
-msgstr ""
+msgstr "Użyj wybraną ścieżkę napisów zapisaną dla kanału"
 
 #
 msgid "Setup - Audio/Subtitle tracks"
-msgstr ""
+msgstr "Ustawienia - Audio/Napisy"
 
 #
 msgid "HDMI Colordepth"
-msgstr ""
+msgstr "Głębia koloru HDMI "
 
 #
 msgid "Set bluetooth audio delay."
-msgstr ""
+msgstr "Ustaw opóźnienie audio bluetooth."
 
 #
 msgid "Please enter a name for the HDMI IN service"
-msgstr ""
+msgstr "Proszę wprowadź nazwę dla usługi HDMI IN"
 
 #
 msgid "add HDMI IN to bouquet"
-msgstr ""
+msgstr "dodaj HDMI IN do bukietu"
 
 #
 msgid "add HDMI IN to favourites"
-msgstr ""
+msgstr "dodaj HDMI IN do ulubionych"
 
 #
 msgid "Ask for timer type when Autotimer is installed"
-msgstr ""
+msgstr "Zapytaj o rodzaj timera, gdy jest zainstalowany autotimer"
 
 #
 msgid "Enable HbbTV for streaming services"
-msgstr ""
+msgstr "Włącz HbbTV dla usługi transmisji strumieniowej"
 
 #
 msgid "Mount process"
-msgstr ""
+msgstr "Proces montowania"
 
 #
 msgid "Classic mount"
-msgstr ""
+msgstr "Klasyczne montowanie"
 
 #
 msgid "AutoFS"
@@ -24261,19 +24425,19 @@ msgstr ""
 
 #
 msgid "Disable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "Wyłącz HDMI-IN na ekranie głównym"
 
 #
 msgid "Enable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "Włącz HDMI-IN na ekranie głównym"
 
 #
 msgid "Disable HDMI-IN on PIP"
-msgstr ""
+msgstr "Wyłącz HDMI-IN w PIP"
 
 #
 msgid "Enable HDMI-IN on PIP"
-msgstr ""
+msgstr "Włącz HDMI-IN w PIP"
 
 #
 msgid "Use cross down for showing timeshift events"
@@ -24281,7 +24445,7 @@ msgstr ""
 
 #
 msgid "Driver is not supported."
-msgstr ""
+msgstr "Sterownik nie jest obsługiwany."
 
 #
 msgid "Vu+ %s Misc. Control"
@@ -24289,11 +24453,11 @@ msgstr ""
 
 #
 msgid "set Vu+ %s LNB Power and etc.."
-msgstr ""
+msgstr "ustaw %s zasilanie LNB VU+ itd. "
 
 #
 msgid "Scanning bluetooth devices"
-msgstr ""
+msgstr "Skanowanie urządzeń bluetooth"
 
 #
 msgid "Scanning BLE bluetooth devices"
@@ -24301,45 +24465,47 @@ msgstr ""
 
 #
 msgid "Start scan"
-msgstr ""
+msgstr "Rozpocznij skanowanie"
 
 #
 msgid "Press green key to connect device."
-msgstr ""
+msgstr "Naciśnij zielony przycisk, aby podłączyć urządzenie."
 
 #
 msgid "No nearby bluetooth devices were found."
-msgstr ""
+msgstr "Nie znaleziono w pobliżu urządzeń Bluetooth."
 
 #
 msgid "%s is connected."
-msgstr ""
+msgstr "%s jest podłączony."
 
 #
 msgid "Pairing fail"
-msgstr ""
+msgstr "Parowanie nie powiodło się"
 
 #
 msgid "Can't communicate with %s"
-msgstr ""
+msgstr "Brak komunikacji z %s"
 
 #
 msgid "Abort scan"
-msgstr ""
+msgstr "Przerwij skanowanie"
 
 #
 msgid ""
 "Pairing Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Parowanie nie powiodło się.\n"
+"Inne urządzenie audio jest podłączone. (%s)"
 
 #
 msgid "Pairing %s"
-msgstr ""
+msgstr "Paruję %s"
 
 #
 msgid "Pairing %s failed!!"
-msgstr ""
+msgstr "Parowanie %s nie powiodło się!!"
 
 #
 msgid "Discovery"
@@ -24347,73 +24513,75 @@ msgstr ""
 
 #
 msgid "Device is disabling..."
-msgstr ""
+msgstr "Urządzenie jest wyłączane..."
 
 #
 msgid "Device is enabling..."
-msgstr ""
+msgstr "Urządzenie jest włączane.."
 
 #
 msgid "disconnecting %s"
-msgstr ""
+msgstr "odłączanie %s"
 
 #
 msgid "disconnecting %s failed!!"
-msgstr ""
+msgstr "odłączenie %s nie powiodło się!!"
 
 #
 msgid ""
 "Connection Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Połączenie nieudane.\n"
+"Inne urządzenie audio jest podłączone. (%s)"
 
 #
 msgid "connecting %s failed!!"
-msgstr ""
+msgstr "połaczenie %s nie powiodło się!!"
 
 #
 msgid "connecting %s"
-msgstr ""
+msgstr "łączę %s"
 
 #
 msgid "remove %s failed!!"
-msgstr ""
+msgstr "usununięcie %s nie powiodło się!!"
 
 #
 msgid "%s is disconnected."
-msgstr ""
+msgstr "%s jest odłączony."
 
 #
 msgid "Bluetooth Setup"
-msgstr ""
+msgstr "Ustawienia Bluetooth "
 
 #
 msgid "Configure Bluetooth devices"
-msgstr ""
+msgstr "Konfigurowanie urządzeń Bluetooth"
 
 #
 msgid "type : %s"
-msgstr ""
+msgstr "typ : %s"
 
 #
 msgid "status : %s"
-msgstr ""
+msgstr "status : %s"
 
 #
 msgid "Connected"
-msgstr ""
+msgstr "Połączony"
 
 #
 msgid "Disconnected"
-msgstr ""
+msgstr "Niepowiązany"
 
 #
 msgid "is connected."
-msgstr ""
+msgstr "jest połączone."
 
 #
 msgid "is disconnected."
-msgstr ""
+msgstr "jest odłączony."
 
 #
 msgid "Bluetooth Discovery"
@@ -24421,7 +24589,7 @@ msgstr ""
 
 #
 msgid "Same behavior as current animation"
-msgstr ""
+msgstr "Zachowanie tak jak w aktualnej animacji"
 
 #
 msgid "Enable Focus Animation"
@@ -24429,52 +24597,52 @@ msgstr ""
 
 #
 msgid "Minimum amount of items before grouping"
-msgstr ""
+msgstr "Minimalna ilość pozycji przed grupowaniem"
 
 #
 msgid "Seperator for grouping items"
-msgstr ""
+msgstr "Separator dla pogrupowanych elementów"
 
 #
 msgid "Group items in folders by title"
-msgstr ""
+msgstr "Grupa elementów w folderach według tytułu"
 
 #
 msgid "Sort grouped folders like default items"
-msgstr ""
+msgstr "Sortuj foldery pogrupowane w domyślny sposób"
 
 msgid "VTI HDMI-CEC Configuration"
-msgstr ""
+msgstr "Konfiguracja VTI HDMI-CEC "
 
 msgid "VTI HDMI-CEC Plugin"
-msgstr ""
+msgstr "Wtyczka VTI HDMI-CEC "
 
 msgid "Scan"
-msgstr ""
+msgstr "Skanuj"
 
 msgid "Scan All"
-msgstr ""
+msgstr "Skanuj wszystkie"
 
 msgid "message"
-msgstr ""
+msgstr "wiadomość"
 
 msgid "Remote Control System Code Setting"
-msgstr ""
+msgstr "Ustawienie kodu pilota zdalnego sterowania"
 
 msgid "PiconManager (mod)"
-msgstr ""
+msgstr "Menadżer pikon"
 
 msgid "PiconManager"
-msgstr ""
+msgstr "Menadżer pikon "
 
 msgid "Fancontrol Settings in Standby mode"
-msgstr ""
+msgstr "Ustawienia wentylatora w trybie czuwania"
 
 msgid "wide"
-msgstr ""
+msgstr "szeroki"
 
 msgid "extrawide"
-msgstr ""
+msgstr "bardzo szeroki"
 
 msgid "VideoEnhancementSetup"
 msgstr ""
@@ -24483,55 +24651,55 @@ msgid "Scaler vertical dejagging"
 msgstr ""
 
 msgid "Smooth"
-msgstr ""
+msgstr "Gładki"
 
 msgid "VideoEnhancementPreview"
 msgstr ""
 
 msgid "Autoresolution"
-msgstr ""
+msgstr "Ustawienia rodzielczości"
 
 msgid "Autoresolution Switch"
-msgstr ""
+msgstr "Przełącznik Autoresolution"
 
 msgid "SD 25/50HZ Interlace Mode"
-msgstr ""
+msgstr "Tryb z przeplotem SD 25/50Hz "
 
 msgid "SD 30/60HZ Interlace Mode"
-msgstr ""
+msgstr "Tryb z przeplotem SD 30/60HZ"
 
 msgid "SD 25/50HZ Progressive Mode"
-msgstr ""
+msgstr "Tryb z przeplotem SD 30/60HZ"
 
 msgid "SD 30/60HZ Progressive Mode"
-msgstr ""
+msgstr "Tryb z przeplotem SD 30/60HZ"
 
 msgid "HD Interlace Mode"
-msgstr ""
+msgstr "HD Tryb z przeplotem "
 
 msgid "HD Progressive Mode"
-msgstr ""
+msgstr "HD Tryb progresywny"
 
 msgid "Enable 720p24 Mode"
-msgstr ""
+msgstr "Włącz tryb 720p24"
 
 msgid "Enable 1080p24 Mode"
-msgstr ""
+msgstr "Włącz tryb 1080p24"
 
 msgid "Enable 1080p25 Mode"
-msgstr ""
+msgstr "Włącz tryb 1080p25"
 
 msgid "Enable 1080p30 Mode"
-msgstr ""
+msgstr "Włącz tryb 1080p30"
 
 msgid "Enable 2160p24 Mode"
-msgstr ""
+msgstr "Włącz tryb 2160p24"
 
 msgid "Enable 2160p25 Mode"
-msgstr ""
+msgstr "Włącz tryb 2160p25"
 
 msgid "Enable 2160p30 Mode"
-msgstr ""
+msgstr "Włącz tryb 2160p30"
 
 msgid "bob"
 msgstr ""
@@ -24542,22 +24710,22 @@ msgid ""
 msgstr ""
 
 msgid "Autoresolution videomode setup"
-msgstr ""
+msgstr "Konfiguracja trybu wideo Autoresolution"
 
 msgid "Autoresolution settings"
-msgstr ""
+msgstr "Ustawienia Autoresolution"
 
 msgid "Enable Autoresolution"
-msgstr ""
+msgstr "Włącz Autoresolution"
 
 msgid "Show info screen"
-msgstr ""
+msgstr "Pokaż ekran informacyjny"
 
 msgid "Delay x seconds after service started"
-msgstr ""
+msgstr "Opóźnienie x sekund po rozpoczęciu usługi"
 
 msgid "Running in testmode"
-msgstr ""
+msgstr "Uruchamianie w trybie testowym"
 
 msgid "Deinterlacer mode for interlaced content"
 msgstr ""
@@ -24566,52 +24734,52 @@ msgid "Deinterlacer mode for progressive content"
 msgstr ""
 
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr ""
+msgstr "Ustawienie wyboru rodzielczości nie działa w trybie Scart"
 
 msgid "multi"
 msgstr ""
 
 msgid "System services"
-msgstr ""
+msgstr "Usługi systemowe"
 
 msgid "Debug options"
-msgstr ""
+msgstr "Opcje debugowania"
 
 msgid "Software packages"
-msgstr ""
+msgstr "Pakiety oprogramowania"
 
 msgid "SecondInfoBar"
 msgstr ""
 
 msgid "Common"
-msgstr ""
+msgstr "Wspólny"
 
 msgid "Creating Timers"
-msgstr ""
+msgstr "Tworzenie timerów"
 
 msgid "Buttons"
-msgstr ""
+msgstr "Przyciski"
 
 msgid "Timer List"
-msgstr ""
+msgstr "Lista timera"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Powiadomienia"
 
 msgid "GUI Setup"
-msgstr ""
+msgstr "Ustawienia GUI"
 
 msgid "Movie playback"
-msgstr ""
+msgstr "Odtwarzanie filmów"
 
 msgid "Begin / End of playback"
-msgstr ""
+msgstr "Rozpoczęcie / koniec odtwarzania"
 
 msgid "Advertisment detection"
-msgstr ""
+msgstr "Wykrywanie reklam"
 
 msgid "Setup - Buttons"
-msgstr ""
+msgstr "Ustawienia przycisków"
 
 msgid "Buttons setup"
-msgstr ""
+msgstr "konfiguracja przycisków"
