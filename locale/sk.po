@@ -20,7 +20,7 @@ msgid "No"
 msgstr "Nie"
 
 msgid "Yes (safe mode)"
-msgstr ""
+msgstr "Áno (bezpečný mód)"
 
 #
 msgid "Yes"
@@ -30,19 +30,19 @@ msgid "%d.%B %Y"
 msgstr ""
 
 msgid "Enable VPS"
-msgstr ""
+msgstr "Povoliť VPS"
 
 msgid "VPS-Time (date)"
-msgstr ""
+msgstr "Čas VPS (dátum)"
 
 msgid "VPS-Time (time)"
-msgstr ""
+msgstr "Čas VPS (čas)"
 
 msgid "always ask"
-msgstr ""
+msgstr "vždy sa opýtať"
 
 msgid "VPS Settings"
-msgstr ""
+msgstr "Nastavenie VPS"
 
 #
 msgid ""
@@ -51,58 +51,64 @@ msgstr ""
 "Aby sa mohol nahrať načasovaný program, preplo sa na nahrávanú stanicu!\n"
 
 msgid "VPS-Plugin checks if the channel supports VPS ..."
-msgstr ""
+msgstr "VPS-Modul kontroluje, či kanál podporuje VPS ..."
 
 msgid ""
 "The selected channel doesn't support VPS for manually programmed timers!\n"
 " Do you really want to enable VPS?"
-msgstr ""
+msgstr "Zvolený kanál nepodporuje VPS pre manuálne naprogramované časovače!\n"
+" Naozaj chcete povoliť VPS?"
 
 msgid ""
 "The VPS-Plugin couldn't check if the selected channel supports VPS for "
 "manually programmed timers!\n"
 " Do you really want to enable VPS?"
-msgstr ""
+msgstr "VPS-Modul nemôže zistiť, či zvolený kanál podporuje VPS pre "
+"manuálne naprogramované časovače!\n"
+" Naozaj chcete povoliť VPS?"
 
 msgid "Yes, don't ask again"
-msgstr ""
+msgstr "Áno, nepýtať sa znovu"
 
 msgid ""
 "VPS-Plugin couldn't check if the selected channel supports VPS.\n"
 " Do you really want to enable VPS?"
-msgstr ""
+msgstr "VPS-Modul nemôže zistiť, či zvolený kanál podporuje VPS.\n"
+" Naozaj chcete povoliť VPS?"
 
 msgid ""
 "The channel may support VPS\n"
 " Do you want to enable VPS?"
-msgstr ""
+msgstr "Kanál môže podporovať VPS"
+" Chcete povoliť VPS?"
 
 msgid ""
 "VPS-Plugin couldn't check if the channel supports VPS.\n"
 " Do you want to enable VPS anyway?"
-msgstr ""
+msgstr "VPS-Modul nemôže zistiť, či kanál podporuje VPS.\n"
+" Napriek tomu chcete povoliť VPS?"
 
 #, python-format
 msgid "VPS Setup Version %s"
-msgstr ""
+msgstr "VPS Nastavenie Verzie %s"
 
 msgid "Enable VPS-Plugin"
-msgstr ""
+msgstr "Povoliť VPS-Modul"
 
 msgid "Starting time"
-msgstr ""
+msgstr "Štartovací čas"
 
 msgid "Wakeup from Deep-Standby is allowed"
-msgstr ""
+msgstr "Zobudenie z vypnutia povolené"
 
 msgid "Seeking connected events"
-msgstr ""
+msgstr "Hľadám pripojené udalosti"
 
 msgid "VPS enabled by default"
-msgstr ""
+msgstr "VPS povolené predvolene"
 
 msgid "Enable VPS on instant records"
-msgstr ""
+msgstr "Povoliť VPS pre okamžité nahrávky"
 
 #
 msgid "Cancel"
@@ -188,13 +194,13 @@ msgid "Elektro Power Save"
 msgstr ""
 
 msgid "Automatically shut down to deep standby"
-msgstr ""
+msgstr "Automatický prechod do vypnutia"
 
 msgid "Extensions menu"
-msgstr ""
+msgstr "Menu rozšírení"
 
 msgid "Plugin menu"
-msgstr ""
+msgstr "Menu modulov"
 
 msgid "yes, Profile 1"
 msgstr ""
@@ -231,19 +237,19 @@ msgid "Sunday"
 msgstr "Nedeľa"
 
 msgid "no Name"
-msgstr ""
+msgstr "bez Mena"
 
 msgid "Connection Error"
-msgstr ""
+msgstr "Chyba spojenia"
 
 msgid "Ver."
 msgstr ""
 
 msgid "Wakeup"
-msgstr ""
+msgstr "Zobudenie"
 
 msgid "Sleep"
-msgstr ""
+msgstr "Uspanie"
 
 msgid "Next day starts at"
 msgstr ""
@@ -263,10 +269,10 @@ msgid "IP Address"
 msgstr "Adresa IP"
 
 msgid "please wait..."
-msgstr ""
+msgstr "čakajte prosím..."
 
 msgid "NAS/Server Name or IP"
-msgstr ""
+msgstr "Meno NAS/Servera alebo IP"
 
 #
 msgid "Username"
@@ -3706,7 +3712,7 @@ msgstr "Spracuje vysoký dátový tok"
 
 #
 msgid "Horizontal"
-msgstr "Vodorovná"
+msgstr "Horizontálna"
 
 #
 msgid "How many minutes do you want to record?"
@@ -8567,7 +8573,7 @@ msgstr "Verzia"
 
 #
 msgid "Vertical"
-msgstr "Zvislá"
+msgstr "Vertikálna"
 
 #
 msgid "Video Directory"
@@ -9774,7 +9780,7 @@ msgstr "Vysoké"
 
 #
 msgid "horizontal"
-msgstr "vodorovná"
+msgstr "horizontálna"
 
 #
 msgid "horizontal_vertical"
@@ -10606,7 +10612,7 @@ msgstr "užívateľsky definované"
 
 #
 msgid "vertical"
-msgstr "zvislá"
+msgstr "vertikálna"
 
 #
 msgid "vfat - for USB flash memory"
@@ -23109,7 +23115,7 @@ msgstr "Opýtať sa pred vykonaním"
 
 #
 msgid "Vertical EPG View"
-msgstr "Zvislá zobrazenie EPG"
+msgstr "Vertikálne zobrazenie EPG"
 
 #
 msgid "Vertical EPG view based on Vali Programm Guide"
@@ -23550,14 +23556,14 @@ msgstr "Opýtať sa na typ časovača, ak je nainštalovaný autočasovač"
 
 #
 msgid "Enable HbbTV for streaming services"
-msgstr ""
+msgstr "Povoliť HbbTV pre streamovacie služby"
 
 #
 msgid "Mount process"
-msgstr ""
+msgstr "Proces pripájania"
 
 msgid "Classic mount"
-msgstr ""
+msgstr "Klasické pripojenie"
 
 #
 msgid "AutoFS"
@@ -23589,46 +23595,46 @@ msgstr "Ovládač nie je podporovaný"
 
 #
 msgid "Vu+ %s Misc. Control"
-msgstr ""
+msgstr "Vu+ %s rôzne nastavenia"
 
 #
 msgid "set Vu+ %s LNB Power and etc.."
-msgstr ""
+msgstr "Nastaviť Vu+ %s napájanie LNB atď.."
 
 #
 msgid "Scanning bluetooth devices"
-msgstr ""
+msgstr "Vyhľadávanie bluetooth zariadení"
 
 #
 msgid "Scanning BLE bluetooth devices"
-msgstr ""
+msgstr "Vyhľadávanie BLE bluetooth zariadení"
 
 #
 msgid "Start scan"
-msgstr ""
+msgstr "Spustiť vyhľadávanie"
 
 #
 msgid "Press green key to connect device."
-msgstr ""
+msgstr "Stlačte zelené tlačidlo pre pripojenie zariadenia."
 
 #
 msgid "No nearby bluetooth devices were found."
-msgstr ""
+msgstr "Žiadne blízke bluetooth zariadenia neboli nájdené"
 
 #
 msgid "%s is connected."
-msgstr ""
+msgstr "%s je pripojené"
 
 #
 msgid "Pairing fail"
-msgstr ""
+msgstr "Párovanie zlyhalo"
 
 #
 msgid "Can't communicate with %s"
 msgstr "Nedá sa komunikovať s %s"
 
 msgid "Abort scan"
-msgstr ""
+msgstr "Zrušiť vyhľadávanie"
 
 #
 msgid ""
@@ -23648,14 +23654,14 @@ msgstr "Párovanie %s zlyhalo!!"
 
 #
 msgid "Discovery"
-msgstr ""
+msgstr "Vyhľadanie"
 
 msgid "Device is disabling..."
-msgstr ""
+msgstr "Zariadenie je zakázané..."
 
 #
 msgid "Device is enabling..."
-msgstr ""
+msgstr "Zariadenie je povolené..."
 
 #
 msgid "disconnecting %s"
@@ -23722,7 +23728,7 @@ msgstr "je odpojené"
 
 #
 msgid "Bluetooth Discovery"
-msgstr ""
+msgstr "Vyhľadanie Bluetooth"
 
 #
 msgid "Same behavior as current animation"
@@ -23749,94 +23755,94 @@ msgid "Sort grouped folders like default items"
 msgstr ""
 
 msgid "VTI HDMI-CEC Configuration"
-msgstr ""
+msgstr "Nastavenie VTI HDMI-CEC"
 
 msgid "VTI HDMI-CEC Plugin"
-msgstr ""
+msgstr "VTI HDMI-CEC Modul"
 
 msgid "Scan"
-msgstr ""
+msgstr "Vyhľadať"
 
 msgid "Scan All"
-msgstr ""
+msgstr "Vyhľadať všetko"
 
 msgid "message"
-msgstr ""
+msgstr "správa"
 
 msgid "Remote Control System Code Setting"
-msgstr ""
+msgstr "Nastavenie systém. kódu diaľk. ovládania"
 
 msgid "PiconManager (mod)"
-msgstr ""
+msgstr "ManažérPiconov (mód)"
 
 msgid "PiconManager"
-msgstr ""
+msgstr "ManažérPiconov"
 
 msgid "Fancontrol Settings in Standby mode"
-msgstr ""
+msgstr "Nastavenie ventilátora v pohotovost. režime"
 
 msgid "wide"
-msgstr ""
+msgstr "široký"
 
 msgid "extrawide"
-msgstr ""
+msgstr "extra široký"
 
 msgid "VideoEnhancementSetup"
-msgstr ""
+msgstr "NastavenieZlepšeniaVidea"
 
 msgid "Scaler vertical dejagging"
 msgstr ""
 
 msgid "Smooth"
-msgstr ""
+msgstr "Hladký"
 
 msgid "VideoEnhancementPreview"
-msgstr ""
+msgstr "UkážkaZlepšeniaVidea"
 
 msgid "Autoresolution"
-msgstr ""
+msgstr "Auto rozlíšenie"
 
 msgid "Autoresolution Switch"
-msgstr ""
+msgstr "Zmena auto rozlíšenia"
 
 msgid "SD 25/50HZ Interlace Mode"
-msgstr ""
+msgstr "Prekladaný SD 25/50HZ mód"
 
 msgid "SD 30/60HZ Interlace Mode"
-msgstr ""
+msgstr "Prekladaný SD 30/60HZ mód"
 
 msgid "SD 25/50HZ Progressive Mode"
-msgstr ""
+msgstr "Progresívny SD 25/50HZ mód"
 
 msgid "SD 30/60HZ Progressive Mode"
-msgstr ""
+msgstr "Progresívny SD 30/60HZ mód"
 
 msgid "HD Interlace Mode"
-msgstr ""
+msgstr "Prekladaný HD mód"
 
 msgid "HD Progressive Mode"
-msgstr ""
+msgstr "Progresívny HD mód"
 
 msgid "Enable 720p24 Mode"
-msgstr ""
+msgstr "Povoliť mód 720p24"
 
 msgid "Enable 1080p24 Mode"
-msgstr ""
+msgstr "Povoliť mód 1080p24"
 
 msgid "Enable 1080p25 Mode"
-msgstr ""
+msgstr "Povoliť mód 1080p25"
 
 msgid "Enable 1080p30 Mode"
-msgstr ""
+msgstr "Povoliť mód 1080p30"
 
 msgid "Enable 2160p24 Mode"
-msgstr ""
+msgstr "Povoliť mód 2160p24"
 
 msgid "Enable 2160p25 Mode"
-msgstr ""
+msgstr "Povoliť mód 2160p25"
 
 msgid "Enable 2160p30 Mode"
-msgstr ""
+msgstr "Povoliť mód 2160p30"
 
 msgid "bob"
 msgstr ""
@@ -23844,25 +23850,26 @@ msgstr ""
 msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
-msgstr ""
+msgstr "Test mód modulu Auto rozlíšenie:\n"
+"V %s poriadku?"
 
 msgid "Autoresolution videomode setup"
-msgstr ""
+msgstr "Nastavenie auto rozlíšenia video módu"
 
 msgid "Autoresolution settings"
-msgstr ""
+msgstr "Nastavenia auto rozlíšenia"
 
 msgid "Enable Autoresolution"
-msgstr ""
+msgstr "Povoliť Auto rozlíšenie"
 
 msgid "Show info screen"
-msgstr ""
+msgstr "Ukázať info obrazovku"
 
 msgid "Delay x seconds after service started"
-msgstr ""
+msgstr "Oneskorenie x sekúnd po spustení služby"
 
 msgid "Running in testmode"
-msgstr ""
+msgstr "Beží v testovacom móde"
 
 msgid "Deinterlacer mode for interlaced content"
 msgstr ""
@@ -23871,133 +23878,133 @@ msgid "Deinterlacer mode for progressive content"
 msgstr ""
 
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr ""
+msgstr "Auto rozlíšenie nepracuje v móde Scart/DVI-PC"
 
 msgid "multi"
 msgstr ""
 
 msgid "System services"
-msgstr ""
+msgstr "Systémové služby"
 
 msgid "Debug options"
-msgstr ""
+msgstr "Moznosti odladenia"
 
 msgid "Software packages"
-msgstr ""
+msgstr "Softvérové balíčky"
 
 msgid "SecondInfoBar"
-msgstr ""
+msgstr "DruháInfoLišta"
 
 msgid "Common"
-msgstr ""
+msgstr "Bežný"
 
 msgid "Creating Timers"
-msgstr ""
+msgstr "Vytvorenie časovačov"
 
 msgid "Buttons"
-msgstr ""
+msgstr "Tlačidlá"
 
 msgid "Timer List"
-msgstr ""
+msgstr "Zoznam časovačov"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Oznámenia"
 
 msgid "GUI Setup"
-msgstr ""
+msgstr "Nastavenie GUI"
 
 msgid "Movie playback"
-msgstr ""
+msgstr "Prehrávanie videa"
 
 msgid "Begin / End of playback"
-msgstr ""
+msgstr "Začiatok / Koniec prehrávania"
 
 msgid "Advertisment detection"
-msgstr ""
+msgstr "Detekovanie reklám"
 
 msgid "Setup - Buttons"
-msgstr ""
+msgstr "Nastavenie - Tlačidlá"
 
 msgid "Buttons setup"
-msgstr ""
+msgstr "Nastavenie tlačidiel"
 
 msgid "bottom"
-msgstr ""
+msgstr "spodok"
 
 msgid "OscamButler"
 msgstr ""
 
 msgid "Please note: The generated configuration files do not contain any keys"
-msgstr ""
+msgstr "Poznámka: Vygenerované konfiguračné súbory neobsahujú žiadne kľúče"
 
 msgid "Create configuration"
-msgstr ""
+msgstr "Vytvoriť konfiguračné súbory"
 
 msgid "Create configuration and open Cam Center"
-msgstr ""
+msgstr "Vytvoriť konfiguračné súbory a otvoriť Cam Centrum"
 
 msgid "Username for Oscam-client user:"
-msgstr ""
+msgstr "Meno pre užívateľa Oscam klienta "
 
 msgid "Password for Oscam-client user:"
-msgstr ""
+msgstr "Heslo pre užívateľa Oscam klienta"
 
 msgid "IP address of Oscam-server:"
-msgstr ""
+msgstr "IP adresa Oscam servera"
 
 msgid "Port of Oscam-server:"
-msgstr ""
+msgstr "Port Oscam servera"
 
 #, python-format
 msgid "Use internal reader 0%s:"
-msgstr ""
+msgstr "Použiť internú čítačku 0%s:"
 
 msgid "Smartcard type in internal reader 0:"
-msgstr ""
+msgstr "Typ smart karty v internej čítačke 0:"
 
 #, python-format
 msgid "Use internal reader 1%s:"
-msgstr ""
+msgstr "Použiť internú čítačku 1%s:"
 
 msgid "Smartcard type in internal reader 1:"
-msgstr ""
+msgstr "Typ smart karty v internej čítačke 1:"
 
 msgid "Use external reader 0:"
-msgstr ""
+msgstr "Použiť externú čítačku 0:"
 
 msgid "Smartcard type in external reader 0:"
-msgstr ""
+msgstr "Typ smart karty v externej čítačke 0:"
 
 msgid "Use external reader 1:"
-msgstr ""
+msgstr "Použiť externú čítačku 1:"
 
 msgid "Smartcard type in external reader 1:"
-msgstr ""
+msgstr "Typ smart karty v externej čítačke 1:"
 
 msgid "Connect to Oscam server:"
-msgstr ""
+msgstr "Pripojiť k Oscam serveru"
 
 msgid "Enable Oscam WebInterface (Port 83):"
-msgstr ""
+msgstr "Povoliť webové rozhranie Oscamu (Port 83)"
 
 msgid "Enable Oscam server (cs378x protocol) (Port 37800):"
-msgstr ""
+msgstr "Povoliť Oscam server (cs378x protocol) (Port 37800):"
 
 msgid "Add user for client connection"
-msgstr ""
+msgstr "Pridať užívateľa pre pripojenie klienta"
 
 msgid "Enable Oscam server (Cccam protocol) (Port 22209):"
-msgstr ""
+msgstr "Povoliť Oscam server (Cccam protokol) (Port 22209):"
 
 msgid "Oscam Butler"
 msgstr ""
 
 msgid "Please enter username:"
-msgstr ""
+msgstr "Prosím vložte meno užívateľa:"
 
 #, python-format
 msgid "Please enter password for user %s:"
-msgstr ""
+msgstr "Prosím vložte heslo pre uťívateľa %s:"
 
 msgid "create basic configuraton files for Oscam"
-msgstr ""
+msgstr "vytvoriť základné konfiguračné súbory pre Oscam"
