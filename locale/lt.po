@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: vti-po-catalog - enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-01-14 10:29+0200\n"
-"Last-Translator: plnick\n"
+"PO-Revision-Date: 2017-03-05 11:31+0200\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
 "Language: lt_LT\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.12\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "No"
@@ -3994,10 +3994,10 @@ msgstr ""
 "vietinio tinklo sąsają."
 
 msgid "No, but play video again"
-msgstr "Ne, bet rodyti įrašą vėl"
+msgstr "Ne. Bet rodyti įrašą iš naujo"
 
 msgid "No, but restart from begin"
-msgstr "Ne, bet pradėti filmą iš pradžių"
+msgstr "Ne. Bet pradėti filmą iš pradžių"
 
 msgid "No, do nothing."
 msgstr "Ne, nieko nedaryti."
@@ -7124,7 +7124,7 @@ msgid "Yes, delete this movie and go back to movie list"
 msgstr "Taip. Ir pašalinus šį filmą, grįžti į filmų sąrašą"
 
 msgid "Yes, backup my settings!"
-msgstr "Taip, padaryti nustatymų atsarginę kopiją!"
+msgstr "Taip, sukurti nustatymų atsarginę kopiją!"
 
 msgid "Yes, do a manual scan now"
 msgstr "Taip, atlikti rankinę paiešką"
@@ -8768,7 +8768,7 @@ msgid "Start next media file"
 msgstr "pradėti sekantį failą"
 
 msgid "Yes, and play next media file"
-msgstr "Taip, ir paleisti sekantį įrašą"
+msgstr "Taip. Ir rodyti sekantį įrašą"
 
 msgid "Play next media file in directory"
 msgstr "Atkurti sekantį šio katalogo medijos failą"
@@ -11371,7 +11371,7 @@ msgid "VTI Panel"
 msgstr "VTi valdymo langas"
 
 msgid "VTI Cam Center"
-msgstr "VTi Emu centras"
+msgstr "VTi Emu valdymas"
 
 msgid "select or install your favourite cam"
 msgstr ""
@@ -14669,20 +14669,17 @@ msgstr "Nežinoma funkcija: '%s'"
 msgid "List of Timers has been cleaned"
 msgstr "Laikmačių sąrašas išvalytas"
 
-#: src/WebComponents/Sources/Timer.py:79
-#: src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398
-#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
+#: src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Trūksta parametro: sRef"
 
-#: src/WebComponents/Sources/Timer.py:84
-#: src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Trūksta parametro: pradžia"
 
-#: src/WebComponents/Sources/Timer.py:89
-#: src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Trūksta parametro: pabaiga"
 
@@ -14809,8 +14806,7 @@ msgstr "Pašalinti '%s' įrašo nepavyko."
 msgid "Movie '%s' deleted"
 msgstr "Įrašas '%s' pašalintas"
 
-#: src/WebComponents/Sources/Movie.py:61
-#: src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Neteisinga parametro 'sRef' reikšmė: '%s'"
@@ -17733,11 +17729,13 @@ msgstr "Šis nustatymas nurodo elgseną, kai laikmatis atitinka surastą įvykį
 msgid "Guess existing timer based on begin/end"
 msgstr "Atspėti esamą laikmatį, remiantis pradžia/pabaiga"
 
-#, python-format
+# This is NOT a python format, as marked in *.pot. When marked #, python-format, it becomes _untranslatable_!!!
 msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80% of the it."
 msgstr ""
+"Pažymėjus čia, esamas laikmetis taip pat bus skaitomas įrašančiu įvykį, jei "
+"jis įrašo bent 80 procentų įvykio."
 
 msgid "Add similar timer on conflict"
 msgstr "Konflikto atveju, pridėti panašų laikmatį"
@@ -18997,11 +18995,11 @@ msgstr "Nėra rodytinų įrašų"
 
 #: ../src/plugin.py:572
 msgid "No, but switch to video entries."
-msgstr "Ne, bet rodyti įrašų pasirinkimą."
+msgstr "Ne. Bet rodyti įrašų pasirinkimą."
 
 #: ../src/plugin.py:578
 msgid "No, but switch to video search."
-msgstr "Ne, bet perjungti į įrašų paiešką."
+msgstr "Ne. Bet perjungti į įrašų paiešką."
 
 #: ../src/MyTubeSearch.py:195 ../src/plugin.py:83
 msgid "Nonprofits & Activism"
@@ -19262,11 +19260,11 @@ msgstr ""
 
 #: ../src/plugin.py:1696
 msgid "Yes, but play next video"
-msgstr "Taip, bet žiūrėti sekantį įrašą"
+msgstr "Taip. Bet rodyti sekantį įrašą"
 
 #: ../src/plugin.py:1697
 msgid "Yes, but play previous video"
-msgstr "Taip, bet žiūrėti ankstesnį įrašą"
+msgstr "Taip. Bet rodyti ankstesnį įrašą"
 
 msgid "Auto paginate on last entry:"
 msgstr "Numeruoti automatiškai nuo paskutinio įrašo:"
@@ -20519,82 +20517,83 @@ msgid "Buttons setup"
 msgstr "Mygtukų sąranka"
 
 msgid "bottom"
-msgstr ""
+msgstr "apačia"
 
 msgid "OscamButler"
-msgstr ""
+msgstr "OscamButler"
 
 msgid "Please note: The generated configuration files do not contain any keys"
 msgstr ""
+"Atkreipkite dėmesį: sugeneruotuose konfigūracijos failuose nėra jokių raktų"
 
 msgid "Create configuration"
-msgstr ""
+msgstr "Sukurti konfigūraciją"
 
 msgid "Create configuration and open Cam Center"
-msgstr ""
+msgstr "Sukurti konfigūraciją ir atverti Emu valdymą"
 
 msgid "Username for Oscam-client user:"
-msgstr ""
+msgstr "Oscam kliento vartotojo vardas:"
 
 msgid "Password for Oscam-client user:"
-msgstr ""
+msgstr "Oscam kliento vartotojo slaptažodis:"
 
 msgid "IP address of Oscam-server:"
-msgstr ""
+msgstr "Oscam serverio IP adresas:"
 
 msgid "Port of Oscam-server:"
-msgstr ""
+msgstr "Oscam serverio prievadas:"
 
 #, python-format
 msgid "Use internal reader 0%s:"
-msgstr ""
+msgstr "Naudoti vidinį nuskaitymą 0%s:"
 
 msgid "Smartcard type in internal reader 0:"
-msgstr ""
+msgstr "Vidinio nuskaitymo 0 kortelės tipas:"
 
 #, python-format
 msgid "Use internal reader 1%s:"
-msgstr ""
+msgstr "Naudoti vidinį nuskaitymą 1%s:"
 
 msgid "Smartcard type in internal reader 1:"
-msgstr ""
+msgstr "Vidinio nuskaitymo 1 kortelės tipas:"
 
 msgid "Use external reader 0:"
-msgstr ""
+msgstr "Naudoti išorinį nuskaitymą 0:"
 
 msgid "Smartcard type in external reader 0:"
-msgstr ""
+msgstr "Išorinio nuskaitymo 0 kortelės tipas:"
 
 msgid "Use external reader 1:"
-msgstr ""
+msgstr "Naudoti išorinį nuskaitymą 1:"
 
 msgid "Smartcard type in external reader 1:"
-msgstr ""
+msgstr "Išorinio nuskaitymo 1 kortelės tipas:"
 
 msgid "Connect to Oscam server:"
-msgstr ""
+msgstr "Jungtis prie Oscam serverio:"
 
 msgid "Enable Oscam WebInterface (Port 83):"
-msgstr ""
+msgstr "Įjungti Oscam internetinę sąsają (83 prievadu):"
 
 msgid "Enable Oscam server (cs378x protocol) (Port 37800):"
-msgstr ""
+msgstr "Įjungti Oscam serverį (cs378x protokolu) (37800 prievadu):"
 
 msgid "Add user for client connection"
-msgstr ""
+msgstr "Pridėti kliento prisijungimo vartotoją"
 
 msgid "Enable Oscam server (Cccam protocol) (Port 22209):"
-msgstr ""
+msgstr "Įjungti Oscam serverį (CCcam protokolu) (22209 prievadu):"
 
 msgid "Oscam Butler"
-msgstr ""
+msgstr "Oscam Butler"
 
 msgid "Please enter username:"
-msgstr ""
+msgstr "Įveskite vartotojo vardą:"
 
 #, python-format
 msgid "Please enter password for user %s:"
-msgstr ""
+msgstr "Įveskite vartotojo %s slaptažodį:"
 
 msgid "create basic configuraton files for Oscam"
-msgstr ""
+msgstr "sukurkite pagrindinius Oscam konfigūracijos failus"
