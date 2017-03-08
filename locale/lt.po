@@ -14669,17 +14669,20 @@ msgstr "Nežinoma funkcija: '%s'"
 msgid "List of Timers has been cleaned"
 msgstr "Laikmačių sąrašas išvalytas"
 
-#: src/WebComponents/Sources/Timer.py:79 src/WebComponents/Sources/Timer.py:225
-#: src/WebComponents/Sources/Timer.py:398 src/WebComponents/Sources/Movie.py:40
-#: src/WebComponents/Sources/Movie.py:67
+#: src/WebComponents/Sources/Timer.py:79
+#: src/WebComponents/Sources/Timer.py:225
+#: src/WebComponents/Sources/Timer.py:398
+#: src/WebComponents/Sources/Movie.py:40 src/WebComponents/Sources/Movie.py:67
 msgid "Missing Parameter: sRef"
 msgstr "Trūksta parametro: sRef"
 
-#: src/WebComponents/Sources/Timer.py:84 src/WebComponents/Sources/Timer.py:231
+#: src/WebComponents/Sources/Timer.py:84
+#: src/WebComponents/Sources/Timer.py:231
 msgid "Missing Parameter: begin"
 msgstr "Trūksta parametro: pradžia"
 
-#: src/WebComponents/Sources/Timer.py:89 src/WebComponents/Sources/Timer.py:235
+#: src/WebComponents/Sources/Timer.py:89
+#: src/WebComponents/Sources/Timer.py:235
 msgid "Missing Parameter: end"
 msgstr "Trūksta parametro: pabaiga"
 
@@ -14806,7 +14809,8 @@ msgstr "Pašalinti '%s' įrašo nepavyko."
 msgid "Movie '%s' deleted"
 msgstr "Įrašas '%s' pašalintas"
 
-#: src/WebComponents/Sources/Movie.py:61 src/WebComponents/Sources/Movie.py:154
+#: src/WebComponents/Sources/Movie.py:61
+#: src/WebComponents/Sources/Movie.py:154
 #, python-format
 msgid "Illegal Parameter Value: sRef - '%s'"
 msgstr "Neteisinga parametro 'sRef' reikšmė: '%s'"
@@ -17730,6 +17734,7 @@ msgid "Guess existing timer based on begin/end"
 msgstr "Atspėti esamą laikmatį, remiantis pradžia/pabaiga"
 
 # This is NOT a python format, as marked in *.pot. When marked #, python-format, it becomes _untranslatable_!!!
+#, fuzzy, python-format
 msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80% of the it."
