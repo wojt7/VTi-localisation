@@ -23343,9 +23343,28 @@ msgstr ""
 msgid "Please enter username:"
 msgstr ""
 
-#, python-format
 msgid "Please enter password for user %s:"
 msgstr ""
 
 msgid "create basic configuraton files for Oscam"
+msgstr ""
+
+msgid "Always include ECM in recordings"
+msgstr ""
+
+msgid ""
+"Always include ECM messages in recordings. This overrides the individual "
+"timer settings globally. It allows recordings to be always decrypted "
+"afterwards (sometimes called offline decoding), if supported by your "
+"receiver. Default: off."
+msgstr ""
+
+msgid "Never decrypt while recording"
+msgstr ""
+
+msgid ""
+"Never decrypt the content while recording. This overrides the individual "
+"timer settings globally. If enabled, recordings are stored in crypted "
+"presentation and must be decrypted afterwards (sometimes called offline "
+"decoding). Default: off."
 msgstr ""

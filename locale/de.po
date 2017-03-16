@@ -27196,9 +27196,28 @@ msgstr "Oscam Butler"
 msgid "Please enter username:"
 msgstr "Bitte Benutzernamen eingeben:"
 
-#, python-format
 msgid "Please enter password for user %s:"
 msgstr "Bitte Passwort für Benutzer %s eingeben:"
 
 msgid "create basic configuraton files for Oscam"
 msgstr "erzeuge grundlegende Konfigurationsdateien für Oscam"
+
+msgid "Always include ECM in recordings"
+msgstr "ECM Informationen immer in Aufnahmen speichern"
+
+msgid ""
+"Always include ECM messages in recordings. This overrides the individual "
+"timer settings globally. It allows recordings to be always decrypted "
+"afterwards (sometimes called offline decoding), if supported by your "
+"receiver. Default: off."
+msgstr "Dies überschreibt die Einstellungen pro Timer global. Diese Option ermöglicht es verschlüsselt abgespeicherte  Aufnahmen später zu entschlüsseln. Standard: aus"
+
+msgid "Never decrypt while recording"
+msgstr "Aufnahmen immer verschlüsselt abspeichern"
+
+msgid ""
+"Never decrypt the content while recording. This overrides the individual "
+"timer settings globally. If enabled, recordings are stored in crypted "
+"presentation and must be decrypted afterwards (sometimes called offline "
+"decoding). Default: off."
+msgstr "Dies überschreibt die Einstellungen pro Timer global. Diese Option aktiviert die Funktion Aufnahmen verschlüsselt abzuspeichern um sie später zu entschlüsseln. Standard: aus"
