@@ -428,7 +428,9 @@ msgstr ""
 msgid ""
 "\n"
 "Do you want to exit?"
-msgstr "Çıkmak istediğinizden emin misiniz?"
+msgstr ""
+"\n"
+"Çıkmak istediğinizden emin misiniz?"
 
 msgid ""
 "\n"
@@ -2151,7 +2153,7 @@ msgid "Do you want to reboot your STB?"
 msgstr "Cihazinizi reboot etmek istermisiniz?"
 
 msgid "Do you want to remove binary data?"
-msgstr "Seçilen paketi kaldırmak istiyor musunuz?:\n"
+msgstr "Seçilen paketi kaldırmak istiyor musunuz?:"
 
 msgid "Do you want to remove the package:\n"
 msgstr "Seçilen paketi kaldırmak istiyor musunuz?:\n"
@@ -3065,10 +3067,10 @@ msgid "Invalid WirelessLan Module.\n"
 msgstr ""
 
 msgid "Invalid beacon\n"
-msgstr "Geçersiz seçim"
+msgstr "Geçersiz seçim\n"
 
 msgid "Invalid channel\n"
-msgstr "Geçersiz Konum"
+msgstr "Geçersiz Konum\n"
 
 msgid "Invalid directory selected: %s"
 msgstr "Seçilen klasör geçersiz: %s"
@@ -4199,7 +4201,7 @@ msgid "Please wait during download."
 msgstr "Lütfen bekleyin... Liste yükleniyor..."
 
 msgid "Please wait for AP Configuration....\n"
-msgstr "Ağ Yapılandırması..."
+msgstr "Ağ Yapılandırması...\n"
 
 msgid "Please wait for activation of your network configuration..."
 msgstr "Ağ yapılandırmanızın etkinleştirilmesi için lütfen bekleyin..."
@@ -4936,7 +4938,7 @@ msgid "Select Network Adapter"
 msgstr "Ağ Donanımını Seç"
 
 msgid "Select Wireless Lan module. \n"
-msgstr "Kablosuz ağ seç"
+msgstr "Kablosuz ağ seç\n"
 
 msgid "Select a movie"
 msgstr "Bir film seçin"
