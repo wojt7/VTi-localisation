@@ -18239,3 +18239,35 @@ msgstr ""
 
 msgid "Device %s wrong pin code."
 msgstr ""
+
+msgid ""
+"\"Wit.ai speech to text Setup\" gets the speech data from VUPLUS-BLE-RCU and "
+"converts it to text using wit.ai.\n"
+"\n"
+msgstr ""
+
+msgid "1. Sign up for wit.ai (https://wit.ai)\n"
+msgstr ""
+
+msgid "2. Enter \"server access token\" under the settings menu to below.\n"
+msgstr ""
+
+msgid "Wit.ai Speech to Text Setup"
+msgstr ""
+
+msgid "Input server access token"
+msgstr ""
+
+msgid "Open browser and search with google"
+msgstr ""
+
+msgid "Converting speech to text using wit.ai server..."
+msgstr ""
+
+msgid ""
+"Conversion of speech to text failed.\n"
+"Please try again"
+msgstr ""
+
+msgid "Speech to text using Wit.ai for VUPLUS-BLE-RCU."
+msgstr ""
