@@ -2219,15 +2219,15 @@ msgstr "A felvétel nem tud elindulni időzítés ütközés miatt: %s"
 #
 #, python-format
 msgid "Couldn't record due to invalid service %s"
-msgstr ""
+msgstr "Az %s érvénytelen csatorna miatt a felvétel nem lehetséges"
 
 #
 msgid "Crashlog Reporting"
-msgstr ""
+msgstr "Hibanapló küldése"
 
 #
 msgid "CrashlogReport setting"
-msgstr ""
+msgstr "Hibanapló beállítások"
 
 #
 msgid "CrashlogReportSetting"
@@ -2239,7 +2239,7 @@ msgstr "DVD képfájl készítés"
 
 #
 msgid "Create directory"
-msgstr ""
+msgstr "Mappa létrehozása"
 
 #
 #, python-format
@@ -2247,10 +2247,12 @@ msgid ""
 "Create directory failed!\n"
 "%s"
 msgstr ""
+"A mappa létrehozása nem sikerült.\n"
+"%s"
 
 #
 msgid "Create filesystem, please wait ..."
-msgstr ""
+msgstr "Fájlrendszer létrehozása, kérem várjon"
 
 #
 msgid "Create movie folder failed"
@@ -2258,11 +2260,11 @@ msgstr "Felvételek mappájának létrehozása nem sikerült"
 
 #
 msgid "Create: kerneldump"
-msgstr ""
+msgstr "Létrehozás: kerneldump"
 
 #
 msgid "Create: root.ubifs"
-msgstr ""
+msgstr "Létrehozás: root.ubifs"
 
 #
 #, python-format
@@ -2271,7 +2273,7 @@ msgstr "A %s mappa létrehozása nem sikerült."
 
 #
 msgid "Creating filesystem Error"
-msgstr ""
+msgstr "Partíció létrehozása Hiba"
 
 #
 msgid "Creating partition failed"
@@ -2283,7 +2285,7 @@ msgstr "Horvát"
 
 #
 msgid "Current Page"
-msgstr ""
+msgstr "Aktuális oldal"
 
 #
 msgid "Current Transponder"
@@ -2295,11 +2297,11 @@ msgstr "Aktuális eszköz: "
 
 #
 msgid "Current page is already exist."
-msgstr ""
+msgstr "Az aktuális oldal már létezik."
 
 #
 msgid "Current settings (interface : br0)"
-msgstr ""
+msgstr "Jelenlegi beállítás (interfész: br0)"
 
 #
 msgid "Current settings:"
@@ -2311,7 +2313,7 @@ msgstr "Aktuális érték: "
 
 #
 msgid "Currentpage(Bookmark)"
-msgstr ""
+msgstr "Aktuális oldal(Kedvencek)"
 
 #
 msgid "Custom skip time for '1'/'3'-keys"
@@ -2355,7 +2357,7 @@ msgstr "DHCP"
 
 #
 msgid "DLNA/uPnP Browser"
-msgstr ""
+msgstr "DLNA/uPnP böngésző"
 
 #
 msgid "DUAL LAYER DVD"
@@ -2363,7 +2365,7 @@ msgstr "Kétréteges DVD"
 
 #
 msgid "DVB subtitle transparency"
-msgstr ""
+msgstr "DVB felirat átlátszóság"
 
 #
 msgid "DVB-S"
@@ -2375,7 +2377,7 @@ msgstr "DVB-S2"
 
 #
 msgid "DVD Drive"
-msgstr ""
+msgstr "DVD meghajtó"
 
 #
 msgid "DVD File Browser"
@@ -2407,11 +2409,11 @@ msgstr "Mély-készenlét"
 
 #
 msgid "Deep Standby with WOL"
-msgstr ""
+msgstr "Mély-készenlét WOL-lal"
 
 #
 msgid "DeepStandby"
-msgstr ""
+msgstr "Mély-készenlét"
 
 #
 msgid "Default"
@@ -2419,7 +2421,7 @@ msgstr "Alapértelmezett"
 
 #
 msgid "Default EPG view (EPG button)"
-msgstr ""
+msgstr "Alapértelmezett EPG nézet (EPG gomb)"
 
 #
 msgid "Default Settings"
@@ -2447,12 +2449,16 @@ msgid ""
 "Delete directory failed!\n"
 "%s"
 msgstr ""
+"Mappa törlése sikertelen!\n"
+"%s"
 
 #
 msgid ""
 "Delete directory failed!\n"
 "Maybe directory is not empty."
 msgstr ""
+"Mappa törlése sikertelen!\n"
+"Lehet, hogy a könyvtár nem üres.
 
 #
 msgid "Delete entry"
@@ -2473,7 +2479,7 @@ msgstr ""
 
 #
 msgid "Depth"
-msgstr ""
+msgstr "Mélység"
 
 #
 msgid "Deselect"
@@ -2493,27 +2499,27 @@ msgstr "Tuner-ek:"
 
 #
 msgid "Device Initialization finished sucessfully!"
-msgstr ""
+msgstr "Az eszköz inicializálása sikeresen befejeződött!"
 
 #
 msgid "Device not found."
-msgstr ""
+msgstr "Eszköz nem található."
 
 #
 msgid "DeviceList Refresh Interval"
-msgstr ""
+msgstr "Eszközlista frissítési időköz"
 
 #
 msgid "DeviceManager"
-msgstr ""
+msgstr "Eszközkezelő"
 
 #
 msgid "DeviceManager configuration"
-msgstr ""
+msgstr "Eszközkezelő beállítások"
 
 #
 msgid "Devices"
-msgstr ""
+msgstr "Eszközök"
 
 #
 msgid "DiSEqC"
@@ -2549,15 +2555,15 @@ msgstr "Digitális körvonal-eltávolítás"
 
 #
 msgid "Direct Input"
-msgstr ""
+msgstr "Közvetlen bevitel"
 
 #
 msgid "Direct Input(Bookmark)"
-msgstr ""
+msgstr "Közvetlen bevitel(Kedvencek)"
 
 #
 msgid "Direct Input(Category)"
-msgstr ""
+msgstr "Közvetlen bevitel(Kategória)"
 
 #
 msgid "Direct playback of linked titles without menu"
@@ -2582,15 +2588,15 @@ msgstr "Kép-a-Képben kikapcsolása"
 
 #
 msgid "Disable Subtitles"
-msgstr ""
+msgstr "Feliratok letiltása"
 
 #
 msgid "Disable auto update of channel list"
-msgstr ""
+msgstr "Csatornalista aut. frissítésének letiltása"
 
 #
 msgid "Disable infobar timeout for ok button"
-msgstr ""
+msgstr "Információs sáv megjelenítési idejének letiltása OK gomb lenyomásakor"
 
 #
 msgid "Disable timer"
@@ -2598,7 +2604,7 @@ msgstr "Időzítés tiltása"
 
 #
 msgid "Disable tuner failure popup"
-msgstr ""
+msgstr "Tuner hiba figyelmeztetés letiltása"
 
 #
 msgid "Disabled"
@@ -2622,7 +2628,7 @@ msgstr "Képernyő és felhasználói felület"
 
 #
 msgid "Do not zap to not available services"
-msgstr ""
+msgstr "Ne váltson nem elérhető csatornákra"
 
 #
 #, python-format
@@ -2664,6 +2670,8 @@ msgid ""
 "Do you really want to initialize the device?\n"
 "All data on the device will be lost!"
 msgstr ""
+"Biztos benne, hogy inicializálni szeretné a háttértárolót?\n"
+"Annak összes adata el fog veszni!"
 
 #
 msgid ""
@@ -2690,19 +2698,19 @@ msgstr "Fel szeretné írni ezt a gyűjteményt a DVD lemezre?"
 
 #
 msgid "Do you want to delete recording files of stopped timer ?"
-msgstr ""
+msgstr "Szeretné törölni a felvételi fájlokat a megállított időzítőnél"
 
 #
 msgid "Do you want to delete the bookmark?"
-msgstr ""
+msgstr "Szeretné törölni a könyvjelzőt?"
 
 #
 msgid "Do you want to delete the category and the bookmarks?"
-msgstr ""
+msgstr "Szeretné törölni a kategóriát és a könyvjelzőket?"
 
 #
 msgid "Do you want to disconnect?"
-msgstr ""
+msgstr "Biztosan megszakítja a kapcsolatot?"
 
 #
 msgid "Do you want to do a service scan?"
@@ -2714,7 +2722,7 @@ msgstr "Szeretne most egy másik kézi keresést lefuttatni?"
 
 #
 msgid "Do you want to enable the parental control feature on your STB?"
-msgstr ""
+msgstr "Szeretné engedélyezni a szülői felügyelet funkciót a készüléken?"
 
 #
 msgid "Do you want to install default sat lists?"
@@ -2733,6 +2741,11 @@ msgid ""
 "\n"
 "Make sure you first insert an USB flash drive before you select Yes."
 msgstr ""
+"Létre szeretne hozni egy mentést egy USB meghajtóra?\n"
+"\n"
+"Ez eltarthat néhány percig és teljesen automatikus.\n"
+"Bizonyosodjon meg róla, hogy csatlakoztatott egy USB meghajtót és\n"
+"válassza az Igent."
 
 #
 msgid ""
@@ -2740,6 +2753,9 @@ msgid ""
 "\n"
 "This only takes a few minutes and is fully automatic.\n"
 msgstr ""
+"Létre szeretne hozni egy USB mentési képet a HDD-n? \n"
+"\n"
+"Ez eltarthat néhány percig és teljesen automatikus.\n"
 
 #
 msgid "Do you want to play DVD in drive?"
@@ -2755,7 +2771,7 @@ msgstr "Szeretnéd újraindítani az STB-t?"
 
 #
 msgid "Do you want to remove binary data?"
-msgstr ""
+msgstr "El akarja távolítani a bináris adatot?"
 
 #
 msgid "Do you want to remove the package:\n"
@@ -2771,21 +2787,23 @@ msgstr "Szeretné folytatni a lejátszást?"
 
 #
 msgid "Do you want to set selected url to the Startpage?"
-msgstr ""
+msgstr "A kiválasztott URL-t szeretné használni Kezdőlapnak?"
 
 #
 msgid "Do you want to shut down?"
-msgstr ""
+msgstr "Szeretné leállítani?"
 
 #
 msgid "Do you want to update your STB?"
-msgstr ""
+msgstr "Szeretné frissíteni a készülékét?"
 
 #
 msgid ""
 "Do you want to update your STB?\n"
 "After pressing OK, please wait!"
 msgstr ""
+"Szeretné frissíteni a készülékét?"
+"Az OK megnyomása után, kérem várjon!"
 
 #
 msgid "Do you want to upgrade the package:\n"
@@ -2796,11 +2814,14 @@ msgid ""
 "Do you want to use VTi BackupSuite to restore your settings, plugins or "
 "favourite bouquets ?"
 msgstr ""
+"Szeretné a VTi BackupSuite-ot használni a beállításai, moduljai vagy a"
+"kedvencei visszaállítására?"
 
 #
 msgid ""
 "Do you want to use VTi ZerO to remove some packages which you do not need ?"
 msgstr ""
+"Szeretné a Vti Zer0-t használni a nem használt csomagok eltávolítására?"
 
 #
 msgid "Do you want to view a tutorial?"
@@ -2856,7 +2877,7 @@ msgstr "Letölthető pluginek"
 
 #
 msgid "Downloaded "
-msgstr ""
+msgstr "Letöltve "
 
 #
 #, python-format
@@ -2864,6 +2885,8 @@ msgid ""
 "Downloaded : %s\n"
 "Press OK to select, Press Cancel to exit."
 msgstr ""
+"Letöltve : %s\n"
+"Nyomja meg az OK gombot a kiválasztáshoz, Mégse gombot a kilépéshez."
 
 #
 msgid "Downloading"
@@ -2875,11 +2898,11 @@ msgstr "Plugin-lista letöltése. Kérem, várjon..."
 
 #
 msgid "Downloading..."
-msgstr ""
+msgstr "Letöltés..."
 
 #
 msgid "Duo/Solo was not support."
-msgstr ""
+msgstr "Duo/Solo nem támogatja."
 
 #
 msgid "Dutch"
@@ -2932,11 +2955,11 @@ msgstr "Beállítások módosítása"
 
 #
 msgid "Edit the Nameserver configuration of your STB.\n"
-msgstr ""
+msgstr "A készülék névszerver beállításainak módosítása.\n"
 
 #
 msgid "Edit the network configuration of your STB.\n"
-msgstr ""
+msgstr "A készülék hálózati beállításainak módosítása.\n"
 
 #
 msgid "Edit title"
@@ -2972,31 +2995,31 @@ msgstr ""
 
 #
 msgid "Enable Autostart for DLNA Server"
-msgstr ""
+msgstr "DLNA szerver automatikus indítása"
 
 #
 msgid "Enable Logging"
-msgstr ""
+msgstr "Naplózás engedélyezése"
 
 #
 msgid "Enable Standby Settings"
-msgstr ""
+msgstr "Készenlét beállításainak engedélyezése"
 
 #
 msgid "Enable TeleText caching"
-msgstr ""
+msgstr "TeleText cache-elésének engedélyezése"
 
 #
 msgid "Enable autostart for HbbTV browser"
-msgstr ""
+msgstr "HbbTV böngésző automatikus indítása"
 
 #
 msgid "Enable mount automatically while start"
-msgstr ""
+msgstr "Csatlakozások engedélyezése indítás közben"
 
 #
 msgid "Enable mount check for HDD : "
-msgstr ""
+msgstr "Csatlakozás ellenőrzésének engedélyezése HDD:"
 
 #
 msgid "Enable multiple bouquets"
@@ -3016,7 +3039,7 @@ msgstr "Engedélyezve"
 
 #
 msgid "Encrypt"
-msgstr ""
+msgstr "Kódolás"
 
 #
 msgid "Encrypted: "
@@ -3059,10 +3082,14 @@ msgid ""
 "\n"
 " 2006 - Stephan Reichholf"
 msgstr ""
+"Ha bármi hibát észlelsz, kérlek jelezd\n"
+"stephan@reichholf.net\n"
+"\n"
+" 2006 - Stephan Reichholf"
 
 #
 msgid "Enter Key"
-msgstr ""
+msgstr "Írja be a kulcsot: "
 
 #
 msgid "Enter main menu..."
@@ -3086,7 +3113,7 @@ msgstr "Hiba"
 
 #
 msgid "Error checking disk. The disk or filesystem may be damaged"
-msgstr ""
+msgstr "Lemez ellenőrzés sikertelen. A lemez, vagy a fájlrendszer sérült."
 
 #
 #, python-format
@@ -3103,6 +3130,8 @@ msgid ""
 "Error[%d] : %s.\n"
 "Press OK to exit."
 msgstr ""
+"Hiba[%d] : %s.\n"
+"Nyomja meg az OK-t a kilépéshez."
 
 #
 msgid "Estonian"
@@ -3110,11 +3139,11 @@ msgstr "Észt"
 
 #
 msgid "Ethernet network interface"
-msgstr ""
+msgstr "Ethernet hálózati eszköz"
 
 #
 msgid "Event Description"
-msgstr ""
+msgstr "Esemény leírása"
 
 #
 msgid "Eventview"
@@ -3158,7 +3187,7 @@ msgstr "Kilépés a Hálózati Varázslóból"
 
 #
 msgid "Exit the Opera browser."
-msgstr ""
+msgstr "Kilépés az Opera böngészőből."
 
 #
 msgid "Exit the wizard"
@@ -3206,11 +3235,11 @@ msgstr "FEC"
 
 #
 msgid "FILE NOT EXIST : /proc/stb/fp/remote_code"
-msgstr ""
+msgstr "FÁJL NEM LÉTEZIK : /proc/stb/fp/remote_code"
 
 #
 msgid "FLASH IS BROKEN"
-msgstr ""
+msgstr "A FLASH SÉRÜLT"
 
 #
 msgid "FPGA"
@@ -3218,7 +3247,7 @@ msgstr ""
 
 #
 msgid "FPGA Upgrade"
-msgstr ""
+msgstr "FPGA Frissítés"
 
 #
 msgid "FRAGM Threshold (256~2346)"
@@ -3234,24 +3263,27 @@ msgstr "Gyári alapbeállítások"
 
 #
 msgid "Factory reset fail"
-msgstr ""
+msgstr "Gyári visszaállítás sikertlen"
 
 #
 msgid "Fail to download."
-msgstr ""
+msgstr "Letöltés sikertelen."
 
 #
 msgid "Fail to update!!"
-msgstr ""
+msgstr "Frissítés sikertelen!! "
 
 #
 msgid "Fail to upgrade!! Retry!!"
-msgstr ""
+msgstr "Frissítés sikertelen! Újra!!"
 
 #
 msgid ""
 "Fail to upgrade.\n"
 "Cause : "
+msgstr ""
+"Frissítés sikertelen.\n"
+"Ok : "
 msgstr ""
 
 #
@@ -3260,6 +3292,9 @@ msgid ""
 "Cause : Can't found device.\n"
 "Do you want to exit?"
 msgstr ""
+"Frissítés sikertelen.\n"
+"OK : Eszköz nem található.\n"
+"Ki akar lépni?"
 
 #
 #, python-format
@@ -3268,6 +3303,9 @@ msgid ""
 "file[%s]\n"
 "md5[%s]"
 msgstr ""
+"Adatfájl ellenőrzése sikertelen. \n"
+"fájl[%s]\n"
+"md5[%s]"
 
 #
 msgid "Failed"
@@ -3275,7 +3313,7 @@ msgstr "Sikertelen"
 
 #
 msgid "Fallback to default skin at skin errors"
-msgstr ""
+msgstr "Skin hiba esetén, váltson vissza az alap témára"
 
 #
 #, python-format
@@ -3284,27 +3322,27 @@ msgstr "Ventilátor %d"
 
 #
 msgid "Fan Control"
-msgstr ""
+msgstr "Ventilátor kezelése"
 
 #
 msgid "Fan basic action"
-msgstr ""
+msgstr "Ventilátor alap művelet"
 
 #
 msgid "Fan control"
-msgstr ""
+msgstr "Ventilátor kezelése"
 
 #
 msgid "Fan off duration time"
-msgstr ""
+msgstr "Ventilátor KI időtartam"
 
 #
 msgid "Fan on duration time"
-msgstr ""
+msgstr "Ventilátor BE időtartam"
 
 #
 msgid "FanOFF InStanby"
-msgstr ""
+msgstr "VentKI készenlétben"
 
 #
 msgid "Fast"
@@ -3328,21 +3366,24 @@ msgstr "Kedvencek"
 
 #
 msgid "File"
-msgstr ""
+msgstr "Fájl"
 
 #
 msgid ""
 "File not Found!\n"
 "/proc/bus/nim_sockets"
 msgstr ""
+"Fájl nem található!\n"
+"/proc/bus/nim_sockets"
+msgstr ""
 
 #
 msgid "File not found"
-msgstr ""
+msgstr "Fájl nem található"
 
 #
 msgid "File transfer was cancelled by user"
-msgstr ""
+msgstr "Fájlátvitel megszakítva a felhasználó által"
 
 #
 msgid "Filesystem Check"
@@ -3350,7 +3391,7 @@ msgstr "Fájlrendszer ellenőrzés"
 
 #
 msgid "Filesystem check finished sucessfully"
-msgstr ""
+msgstr "Fájlrendszer ellenőrzése sikeres"
 
 #
 msgid "Filesystem contains uncorrectable errors"
@@ -3378,19 +3419,19 @@ msgstr "Finn"
 
 #
 msgid "Firmware"
-msgstr ""
+msgstr "Firmware"
 
 #
 msgid "Firmware Upgrade"
-msgstr ""
+msgstr "Firmware frissítés"
 
 #
 msgid "Firmware does not exist."
-msgstr ""
+msgstr "Firmware nem létezik."
 
 #
 msgid "Follow the instructions on the front-display."
-msgstr ""
+msgstr "Kövesse az utasításokat az elülső kijelzőn."
 
 #
 msgid "Following tasks will be done after you press OK!"
@@ -3398,7 +3439,7 @@ msgstr "Végrehajtás az OK gomb lenyomása után történik"
 
 #
 msgid "For use this plugin, you must update the kernel version to 3.1 or later"
-msgstr ""
+msgstr "Ennek a modulnak a használatáhot, frissítse a kernelt 3.1 vagy későbbi verzióra"
 
 #
 msgid "Format"
@@ -3406,11 +3447,11 @@ msgstr "Formázás"
 
 #
 msgid "Format filesystem, please wait ..."
-msgstr ""
+msgstr "Fájlrendszer formázása, kérem várjon ..."
 
 #
 msgid "Format finished sucessfully."
-msgstr ""
+msgstr "Formázás sikeres."
 
 #
 msgid "Frame size in full view"
@@ -3423,7 +3464,7 @@ msgstr ""
 #
 #, python-format
 msgid "Free : %s"
-msgstr ""
+msgstr "Szabad : %s"
 
 #
 msgid "French"
@@ -3455,7 +3496,7 @@ msgstr "Fríz"
 
 #
 msgid "Front LED OK?"
-msgstr ""
+msgstr "Elülső LED OK?"
 
 #
 msgid ""
@@ -3464,14 +3505,18 @@ msgid ""
 "yes-ok\n"
 "no-exit"
 msgstr ""
+"Elülső LED OK?\n"
+"\n"
+"igen-ok\n"
+"nem-exit"
 
 #
 msgid "Front Processor"
-msgstr ""
+msgstr "Főprocesszor"
 
 #
 msgid "Front USB Slot"
-msgstr ""
+msgstr "Elülső USB nyílás"
 
 #
 #, python-format
@@ -3484,31 +3529,31 @@ msgstr "Fsck sikertelen"
 
 #
 msgid "Full 1:1 back-up direct on USB"
-msgstr ""
+msgstr "Teljes 1:1-ben mentés közvetlenül USB-re"
 
 #
 msgid "Full 1:1 back-up in USB format"
-msgstr ""
+msgstr "Teljes 1:1-ben mentés USB formátumban"
 
 #
 msgid "Full back-up direct to USB"
-msgstr ""
+msgstr "Teljes mentés közvetlenül USB-re"
 
 #
 msgid "Full back-up on HDD"
-msgstr ""
+msgstr "Teljes mentés HDD-re"
 
 #
 msgid "Full back-up on HDD/USB"
-msgstr ""
+msgstr "Teljes mentés HDD/USB-re"
 
 #
 msgid "Full back-up to USB"
-msgstr ""
+msgstr "Teljes mentés USB-re"
 
 #
 msgid "Full back-up to the harddisk"
-msgstr ""
+msgstr "Teljes mentés merevlemezre"
 
 #
 msgid "G"
@@ -3524,7 +3569,7 @@ msgstr ""
 
 #
 msgid "GUI restart now, press 'OK' button."
-msgstr ""
+msgstr "Felület újraindítása most, nyomja meg az OK gombot."
 
 #
 msgid "Gateway"
@@ -3532,7 +3577,7 @@ msgstr "Átjáró IP címe"
 
 #
 msgid "General Dolby Digital delay (ms)"
-msgstr ""
+msgstr "Általános Dolby Digital készleltetés (ms)"
 
 #
 msgid "General PCM delay (ms)"
@@ -3556,11 +3601,11 @@ msgstr ""
 
 #
 msgid "Go to next page."
-msgstr ""
+msgstr "Ugrás a következő lapra."
 
 #
 msgid "Go to previous page."
-msgstr ""
+msgstr "Ugrás a előző lapra "
 
 #
 msgid "Goto 0"
@@ -3596,7 +3641,7 @@ msgstr ""
 
 #
 msgid "HDMI CEC enabled:"
-msgstr ""
+msgstr "HDMI CEC engedélyezve:"
 
 #
 msgid "HDMI-CEC"
@@ -3620,25 +3665,27 @@ msgstr "Merevlemez leállítása megadott idö után"
 
 #
 msgid "Harddisk standby after : "
-msgstr ""
+msgstr "Merevlemez leállítása megadott idö után"
 
 #
 msgid "HbbTV Applications"
-msgstr ""
+msgstr "HbbTV Alkalmazások"
 
 #
 msgid ""
 "HbbTV Browser was not running.\n"
 "Please running browser before start HbbTV Application."
 msgstr ""
+"HbbTV böngésző nem fut.\n"
+"Kérem futtassa, mielőtt elindítja a HbbTV Alkalmazásokat"
 
 #
 msgid "HbbTV Plugin"
-msgstr ""
+msgstr "HbbTV Modul"
 
 #
 msgid "Hidden network"
-msgstr ""
+msgstr "Rejtett hálózat"
 
 #
 msgid "Hierarchy info"
@@ -3658,7 +3705,7 @@ msgstr "Hány percet szeretne felvenni?"
 
 #
 msgid "How many partitions do you want?(1-4)"
-msgstr ""
+msgstr "Mennyi partíciót szeretne?(1-4)"
 
 #
 msgid "Hue"
@@ -3690,6 +3737,9 @@ msgid ""
 "ErP Standby Power Regulation (<0.5W at standby) cannot be met.\n"
 "Proceed?"
 msgstr ""
+"Ha a WOL engedélyezve van, a fogyasztás 2W körül lesz.\n"
+"Az ErP Standby Power Regulation (<0.5W készenlétkor) nem lesz teljesítve.\n"
+"Folytatja?"
 
 #
 msgid ""
@@ -12083,15 +12133,15 @@ msgstr ""
 
 #
 msgid "Disable FastChannelChange"
-msgstr ""
+msgstr "GyorsCsatornaVáltás tiltása"
 
 #
 msgid "Enable FastChannelChange"
-msgstr ""
+msgstr "GyorsCsatornaVáltás engedélyezése"
 
 #
 msgid "Fast Channel Change Setup"
-msgstr ""
+msgstr "Gyors Csatorna Váltás Beállítás"
 
 #
 msgid "Disable FCC during recordings"
