@@ -19220,3 +19220,9 @@ msgstr ""
 
 msgid "Speech to text using Wit.ai for VUPLUS-BLE-RCU."
 msgstr ""
+
+msgid "enable grouped folders in: %s"
+msgstr ""
+
+msgid "disable grouped folders in: %s"
+msgstr ""
