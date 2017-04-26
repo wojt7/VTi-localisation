@@ -1466,7 +1466,9 @@ msgstr ""
 msgid ""
 "Are you sure you want to setup your AP?\n"
 "\n"
-msgstr "Biztos benne, hogy szeretné beállítani az AP-ját"
+msgstr "" 
+"Biztos benne, hogy szeretné beállítani az AP-ját\n"
+"\n"
 
 #
 msgid "Artist"
@@ -1807,7 +1809,7 @@ msgstr "Nem lehet megnyitni 'fan_pwm'"
 
 #
 msgid "Can not setup WirelessLan Module in 'AP Mode'\n"
-msgstr "AP módban nem lehet beállítani a WiFi modult"
+msgstr "AP módban nem lehet beállítani a WiFi modult\n"
 
 #
 #, python-format
