@@ -18233,7 +18233,13 @@ msgid ""
 "receiver. Default: off."
 msgstr ""
 
-msgid "Never decrypt while recording"
+msgid "Never decrypt while recording CI services"
+msgstr ""
+
+msgid "mark as scrambled : %s"
+msgstr ""
+
+msgid "mark as descrambled : %s"
 msgstr ""
 
 msgid ""

@@ -19073,8 +19073,14 @@ msgstr ""
 "ermöglicht es verschlüsselt abgespeicherte  Aufnahmen später zu "
 "entschlüsseln. Standard: aus"
 
-msgid "Never decrypt while recording"
-msgstr "Aufnahmen immer verschlüsselt abspeichern"
+msgid "Never decrypt while recording CI services"
+msgstr "Aufnahmen von CI Sendern verschlüsselt abspeichern"
+
+msgid "mark as scrambled : %s"
+msgstr "markiere als verschlüsselt : %s"
+
+msgid "mark as descrambled : %s"
+msgstr "markiere als unverschlüsselt : %s"
 
 msgid ""
 "Never decrypt the content while recording. This overrides the individual "
