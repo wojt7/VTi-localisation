@@ -18715,3 +18715,12 @@ msgstr ""
 
 msgid "disable grouped folders in: %s"
 msgstr ""
+
+msgid "Enable descrambling in standby"
+msgstr ""
+
+msgid "Begin of time intervall for descrambling in standby"
+msgstr ""
+
+msgid "End of time intervall for descrambling in standby"
+msgstr ""

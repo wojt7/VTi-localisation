@@ -19317,3 +19317,12 @@ msgstr "Gruppierte Ordner an für: %s"
 
 msgid "disable grouped folders in: %s"
 msgstr "Gruppierte Ordner aus für: %s"
+
+msgid "Enable descrambling in standby"
+msgstr "Entschlüsselung im Standby aktivieren"
+
+msgid "Begin of time intervall for descrambling in standby"
+msgstr "Startzeit für Entschlüsselung im Standby"
+
+msgid "End of time intervall for descrambling in standby"
+msgstr "Endzeit für Entschlüsselung im Standby"
