@@ -18313,3 +18313,8 @@ msgstr ""
 
 msgid "End of time intervall for descrambling in standby"
 msgstr ""
+
+msgid ""
+"A PVR descramble converting is finished.\n"
+"%s"
+msgstr ""

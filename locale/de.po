@@ -19326,3 +19326,9 @@ msgstr "Startzeit für Entschlüsselung im Standby"
 
 msgid "End of time intervall for descrambling in standby"
 msgstr "Endzeit für Entschlüsselung im Standby"
+
+msgid ""
+"A PVR descramble converting is finished.\n"
+"%s"
+msgstr "Eine verschlüsselte Aufnahme wurde entschlüsselt.\n\n%s"
+
