@@ -19401,7 +19401,7 @@ msgid ""
 "3. Reconnect the VUPLUS-BLE-RCU.\n"
 "\n"
 msgstr ""
-"3. Verbindung erneut verbinden\n"
+"3. Fernbedienung erneut verbinden\n"
 "\n"
 
 msgid "New firmware detected for VUPLUS-BLE-RCU. (old: %d new: %d)"
