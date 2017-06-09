@@ -19246,3 +19246,86 @@ msgid ""
 "A PVR descramble converting is finished.\n"
 "%s"
 msgstr ""
+
+msgid "Skip firmware update of VUPLUS-BLE-RCU (version : %d)"
+msgstr ""
+
+msgid "Current FW version : %d"
+msgstr ""
+
+msgid "New FW version : %d"
+msgstr ""
+
+msgid ""
+"New firmware detected for VUPLUS-BLE-RCU.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"While the update is progress, RCU can not be used and other bluetooth device "
+"must be disconnected.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Current FW version : %d\n"
+"New FW version : %d"
+msgstr ""
+
+msgid "Upgrade now"
+msgstr ""
+
+msgid "Remind Me later"
+msgstr ""
+
+msgid "Skip this version"
+msgstr ""
+
+msgid "VUPLUS-BLE-RCU is disconnected. Please connect and select again."
+msgstr ""
+
+msgid ""
+"If you want to update this firmware version, follow belows.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"1. Move to Bluetooth Setup Options.\n"
+"(press MENU key in BluetoothSetup)\n"
+msgstr ""
+
+msgid "2. Change 'Skip firmware update of VUPLUS-BLE-RCU' option to 'no'\n"
+msgstr ""
+
+msgid ""
+"3. Reconnect the VUPLUS-BLE-RCU.\n"
+"\n"
+msgstr ""
+
+msgid "New firmware detected for VUPLUS-BLE-RCU. (old: %d new: %d)"
+msgstr ""
+
+msgid "Enable automatic CI assignment"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"<Code set manual>"
+msgstr ""
+
+msgid ""
+"\n"
+"1. Press <OK> and <STB> simultaneously for 3 seconds. After 3 seconds LED "
+"turns on. "
+msgstr ""
+
+msgid ""
+"\n"
+"2. Enter a 5 digit code(ex. code 2 is '00002')"
+msgstr ""
+
+msgid ""
+"\n"
+"3. Press the <OK> key. LED is blinked and turns on."
+msgstr ""
