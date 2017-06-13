@@ -12637,140 +12637,142 @@ msgstr "Stejně jako hl.info-panel"
 
 #
 msgid "Use cross left/right buttons for bouquet change in service list"
-msgstr ""
+msgstr "Šipky vlevo / vpravo pro změnu seznamu kanálů"
 
 #
 msgid "Use OK button for opening favourite list"
-msgstr ""
+msgstr "OK -> pro otevření oblíbeného seznamu"
 
 #
 msgid "Timeout for double-click (ms)"
-msgstr ""
+msgstr "Čas.odstup pro dvojklik (ms)"
 
 #
 msgid "Use double click for OK button"
-msgstr ""
+msgstr "Použít dvojklik pro OK tlačítko"
 
 #
 msgid "Enable advertisment detection (I-net is mandatory)"
-msgstr ""
+msgstr "Povolit detekci reklany (I-net je nutný)"
 
 #
 msgid "Show icons in service list at services with advertisment"
-msgstr ""
+msgstr "Zobrazit v seznamu kanálů ikony s reklamou"
 
 #
 msgid "Exclude services with advertisment at left/right zapping"
-msgstr ""
+msgstr "Vyloučit kanály s reklamou zapnutím vlevo / vpravo"
 
 #
 msgid "Set marker for advertisment during recording"
-msgstr ""
+msgstr "Nastavit značky pro reklamu při nahrávání"
 
 #
 msgid "Scan in background"
-msgstr ""
+msgstr "Procházet na pozadí"
 
 #
 msgid "Show preview pictures in service list"
-msgstr ""
+msgstr "Zobrazit v seznamu kanálů náhled obrázků"
 
 #
 msgid "Time in minutes before preview pictures will be updated"
-msgstr ""
+msgstr "Čas v min. před aktualizací náhledu obrázků"
 
 #
 msgid "Include configuration file in crash log"
-msgstr ""
+msgstr "Včetně konfig.souboru v chyb.protokolu"
 
 #
 msgid "Fast Scan"
-msgstr ""
+msgstr "Rychlé prohledání"
 
 #
 msgid "Scanning %s..."
-msgstr ""
+msgstr "Skenovat %s..."
 
 #
 msgid "Scanning failed!"
-msgstr ""
+msgstr "Skenování selhalo !"
 
 #
 msgid "List version %d, found %d channels"
-msgstr ""
+msgstr "Seznam verzí %d, nalezeno %d kanálů"
 
 #
 msgid "HD list"
-msgstr ""
+msgstr "seznam HD"
 
 #
 msgid "Select your provider, and press OK to start the scan"
-msgstr ""
+msgstr "Vyberte operátora. OK -> spustit skenování..."
 
 #
 msgid "Use fastscan channel names"
-msgstr ""
+msgstr "Použít rychlé procházení názvů kanálů"
 
 #
 msgid "Enable auto fast scan"
-msgstr ""
+msgstr "Použít aut.rychlé procházení"
 
 #
 msgid "Enable auto fast scan for %s"
-msgstr ""
+msgstr "Použít aut.rychlé procházení pro %s"
 
 #
 msgid ""
 "A recording is currently running. Please stop the recording before trying to "
 "scan."
-msgstr ""
+msgstr "Aktuálně běží nahrávání. Zastavte ho před pokusem "
 
 #
 msgid "No suitable sat tuner found!"
-msgstr ""
+msgstr "Nebyl nalezený žádný vhodný tuner !"
 
 #
 msgid "Automatic framerate detection"
-msgstr ""
+msgstr "Aut.detekování obnov.kmitočtu"
 
 #
 msgid "Mode for framerate change"
-msgstr ""
+msgstr "Mód pro změnu obnov.kmitočtu"
 
 #
 msgid ""
 "Changing framerate for current service?\n"
 "Current framerate: %s\n"
 "New framerate: %s\n"
-msgstr ""
+msgstr "Změnit obnov.kmitočet akt.kanálu ?"
+"Aktuální obnov.kmitočet: %s\n"
+"Nový obnov.kmitočet: %s\n"
 
 #
 msgid "automatically"
-msgstr ""
+msgstr "automaticky"
 
 #
 msgid "manually"
-msgstr ""
+msgstr "manuálně"
 
 #
 msgid "Hide Infobar when SecondInfobar is shown"
-msgstr ""
+msgstr "Skrýt hl.info-panel při zobrazení 2.info-panelu"
 
 #
 msgid "Can not find wireless lan devices that support AP mode."
-msgstr ""
+msgstr "Nenalezeny body v bezdrátové síti s podporou AP módu"
 
 #
 msgid "Use alternative service list (horizontal) mode"
-msgstr ""
+msgstr "Použít akternativní seznam kanálů (vodorovný)"
 
 #
 msgid "Do you want to install OScam as SoftCam for your smartcards?"
-msgstr ""
+msgstr "Chcete nainstalovat OScam jako SoftCam pro kartu ?"
 
 #
 msgid "The SoftCam was installed successfully"
-msgstr ""
+msgstr "SoftCam byl v pořádku nainstalovaný"
 
 #
 msgid "Autostart"
@@ -16039,99 +16041,99 @@ msgstr "Dočasná složka (/tmp)"
 
 #: plugin.py:56
 msgid "Bouquet"
-msgstr ""
+msgstr "Sada kanálů"
 
 #: plugin.py:57
 msgid "Multi Sat"
-msgstr ""
+msgstr "Multi sat."
 
 #: plugin.py:77
 msgid "Press ok or green button to install satellites.xml"
-msgstr ""
+msgstr "OK nebo zelené tl. -> instalovat satellites.xml"
 
 #: plugin.py:100 plugin.py:101 plugin.py:333 plugin.py:334
 msgid "Downloading satellites failed!"
-msgstr ""
+msgstr "Načtení satelitů selhalo !"
 
 #: plugin.py:104
 msgid "satellites.xml is updated"
-msgstr ""
+msgstr "satellites.xml byl aktualizovaný"
 
 #: plugin.py:104 plugin.py:199 plugin.py:321
 msgid "GUI needs a restart to apply changes."
-msgstr ""
+msgstr "Změny si vyžadují restart Enigmy2 !"
 
 #: plugin.py:104 plugin.py:199 plugin.py:321
 msgid "Do you want to restart the GUI now?"
-msgstr ""
+msgstr "Restartovat Enigmu2 nyní ?"
 
 #: plugin.py:111 plugin.py:239 plugin.py:366
 msgid "GUI needs a restart."
-msgstr ""
+msgstr "Změny si vyžadují restart Enigmy2 !"
 
 #: plugin.py:199
 msgid "selected bouquets are installed"
-msgstr ""
+msgstr "vybraná sada kanálů je nainstalována"
 
 #: plugin.py:203
 msgid "Please select at least one bouquet"
-msgstr ""
+msgstr "Vyberte alespoň jednu sadu kanálů"
 
 #: plugin.py:206 plugin.py:207
 msgid "Downloading bouquets failed!"
-msgstr ""
+msgstr "Načtení sady kanálů selhalo !"
 
 #: plugin.py:210 plugin.py:337
 msgid "Downloading succesfull! Parsing ..."
-msgstr ""
+msgstr "Načtení je hotové. Analýza..."
 
 #: plugin.py:229
 msgid "Press ok button to select bouquet"
-msgstr ""
+msgstr "OK -> vybrat sadu kanálů..."
 
 #: plugin.py:233 plugin.py:360
 msgid "Parsing failed!"
-msgstr ""
+msgstr "Analýza selhala !"
 
 #: plugin.py:281
 msgid "Source:"
-msgstr ""
+msgstr "zdroj : "
 
 #: plugin.py:297
 msgid "Download:"
-msgstr ""
+msgstr "stahování : "
 
 #: plugin.py:321
 msgid "satellites.xml has been built."
-msgstr ""
+msgstr "satellites.xml byl sestavený"
 
 #: plugin.py:324
 msgid "Please select at least one satellite"
-msgstr ""
+msgstr "Vyberte alespoň jeden satelit"
 
 #: plugin.py:356
 msgid "Press ok button to select satellite"
-msgstr ""
+msgstr "OK -> vybrat satelit..."
 
 #: plugin.py:383 plugin.py:395
 msgid "Transponder selection"
-msgstr ""
+msgstr "výběr transpondéru"
 
 #: plugin.py:434
 msgid "Frequency:"
-msgstr ""
+msgstr "frekvence : "
 
 #: plugin.py:434
 msgid "Symbol Rate:"
-msgstr ""
+msgstr "přenos.rychlost : "
 
 #: plugin.py:458
 msgid "has been saved."
-msgstr ""
+msgstr "bylo uloženo"
 
 #: plugin.py:461
 msgid "Please select at least one transponder"
-msgstr ""
+msgstr "Vyberte alespoň jeden transpondér"
 
 #
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:45
@@ -16150,7 +16152,7 @@ msgstr "Povolit info-panel nahrávání"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:87
 msgid "Add to extension menu"
-msgstr ""
+msgstr "Přidat do rozšířeného menu"
 
 #
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:89
@@ -16190,7 +16192,7 @@ msgstr "Obsah pole %d"
 
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:105
 msgid "Horizontal offset in pixel"
-msgstr ""
+msgstr "vodorovné odsazení (pixely)"
 
 #
 #: .../enigma2-plugins/infobartunerstate/src/IBTSConfiguration.py:106
@@ -16264,11 +16266,11 @@ msgstr "%d GB"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:37
 msgid "InfoBar Tuner State"
-msgstr ""
+msgstr "Info-panel - stav tuneru"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:38
 msgid "Show InfoBar Tuner State"
-msgstr ""
+msgstr "zobrazit v info-panelu stav tuneru"
 
 #
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:49
@@ -16426,264 +16428,264 @@ msgid "InfoBarTunerState is disabled"
 msgstr "InfoBarTunerState je vypnutý"
 
 msgid "MerlinMusicPlayer"
-msgstr ""
+msgstr "MerlinMusicPlayer"
 
 msgid "Not easy way to start EasyMedia"
-msgstr ""
+msgstr "Není snadné spustit EasyMedia"
 
 msgid "Music player:"
-msgstr ""
+msgstr "Music player:"
 
 msgid "Files browser:"
-msgstr ""
+msgstr "Správce souborů : "
 
 msgid "Show bookmarks:"
-msgstr ""
+msgstr "Zobrazit záložky : "
 
 msgid "YouTube player:"
-msgstr ""
+msgstr "Přehrávač YouTube : "
 
 msgid "VLC player:"
-msgstr ""
+msgstr "Přehrávač VLC : "
 
 msgid "DVD player:"
-msgstr ""
+msgstr "Přehrávač DVD : "
 
 msgid "Weather plugin:"
-msgstr ""
+msgstr "Počasí : "
 
 msgid "NetRadio player:"
-msgstr ""
+msgstr "NetRadio : "
 
 msgid "Show Merlin-iDream:"
-msgstr ""
+msgstr "Merlin-iDream : "
 
 msgid "ZDFmediathek player:"
-msgstr ""
+msgstr "Přehrávač ZDFmediathek : "
 
 msgid "Pictures"
-msgstr ""
+msgstr "obrázky"
 
 #
 # File: ../src/MyTubeSearch.py, line: 183
 # File: ../src/plugin.py, line: 71
 msgid "Music"
-msgstr ""
+msgstr "audio"
 
 msgid "Weather"
-msgstr ""
+msgstr "počasí"
 
 msgid "Files"
-msgstr ""
+msgstr "soubory"
 
 msgid "SHOUTcast"
-msgstr ""
+msgstr "SHOUTcast"
 
 msgid "iDream"
-msgstr ""
+msgstr "iDream"
 
 msgid "MyTube Player"
-msgstr ""
+msgstr "Přehrávač MyTube"
 
 msgid "VLC Player"
-msgstr ""
+msgstr "Přehrávač VLC"
 
 msgid "ZDFmediathek"
-msgstr ""
+msgstr "ZDFmediathek"
 
 #
 msgid "Filebrowser"
 msgstr "Správce souborů"
 
 msgid "DreamExplorer"
-msgstr ""
+msgstr "DreamExplorer"
 
 msgid "Picture-player is not installed!"
-msgstr ""
+msgstr "Picture-player není nainstalovaný !"
 
 msgid "No Music-Player installed!"
-msgstr ""
+msgstr "Music-Player není nainstalovaný !"
 
 msgid "No File-Manager installed!"
-msgstr ""
+msgstr "File-Manager není nainstalovaný !"
 
 msgid "Weather Plugin is not installed!"
-msgstr ""
+msgstr "Weather není nainstalovaný !"
 
 msgid "DVDPlayer Plugin is not installed!"
-msgstr ""
+msgstr "DVDPlayer není nainstalovaný !"
 
 msgid "MyTube Plugin is not installed!"
-msgstr ""
+msgstr "MyTube není nainstalovaný !"
 
 msgid "SHOUTcast Plugin is not installed!"
-msgstr ""
+msgstr "SHOUTcast není nainstalovaný !"
 
 msgid "ZDFmediathek Plugin is not installed!"
-msgstr ""
+msgstr "ZDFmediathek není nainstalovaný !"
 
 msgid "VLC Player is not installed!"
-msgstr ""
+msgstr "VLC Player není nainstalovaný !"
 
 msgid "Merlin iDream is not installed!"
-msgstr ""
+msgstr "Merlin iDream není nainstalovaný !"
 
 msgid "EasyMedia settings..."
-msgstr ""
+msgstr "EasyMedia - nastavení..."
 
 msgid "Select bookmark..."
-msgstr ""
+msgstr "Výběr záložek..."
 
 msgid "Tv/Radio"
-msgstr ""
+msgstr "TV/Rádio"
 
 msgid "Show tv/radio switch:"
-msgstr ""
+msgstr "Zobrazit TV/Rádio : "
 
 msgid "TV-mode"
-msgstr ""
+msgstr "TV mód"
 
 msgid "Radio-mode"
-msgstr ""
+msgstr "Rádio mód"
 
 msgid "MyVideo Player is not installed!"
-msgstr ""
+msgstr "MyVideo není nainstalovaný !"
 
 msgid "MyVideo"
-msgstr ""
+msgstr "MyVideo"
 
 msgid "MyVideo player:"
-msgstr ""
+msgstr "Přehrávač MyVideo : "
 
 msgid "Add/remove plugin"
-msgstr ""
+msgstr "Přidat / odebrat modul"
 
 msgid " removed from EasyMedia"
-msgstr ""
+msgstr "odebrat z EasyMedia"
 
 msgid " added to EasyMedia"
-msgstr ""
+msgstr "přidat do EasyMedia"
 
 msgid "VideoDB is not installed!"
-msgstr ""
+msgstr "VideoDB není nainstalované !"
 
 msgid "PicturePlayer:"
-msgstr ""
+msgstr "PicturePlayer : "
 
 msgid "Video database:"
-msgstr ""
+msgstr "databáze videa : "
 
 msgid "VideoDB"
-msgstr ""
+msgstr "VideoDB"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:171
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:283
 msgid "Channel: "
-msgstr ""
+msgstr "kanál : "
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:177
 #, python-format
 msgid "%s does not exist!"
-msgstr ""
+msgstr "%s neexistuje !"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:298
 msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
-msgstr ""
+msgstr "Chyba sejmutí obrázku ! Grab ver.musí být 0.8 nebo vyšší."
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:311
 msgid "Countdown:"
-msgstr ""
+msgstr "odpočet : "
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:368
 msgid "Mosaic"
-msgstr ""
+msgstr "mozaika"
 
 #: ../src/plugin.py:442
 msgid " as "
-msgstr ""
+msgstr " jako "
 
 #: ../src/plugin.py:248
 msgid "Ambiguous results"
-msgstr ""
+msgstr "nejednoznačný výsledek"
 
 #: ../src/plugin.py:444
 msgid "Cast: "
-msgstr ""
+msgstr "obsazení : "
 
 #: ../src/plugin.py:321
 msgid "Could't get Eventname"
-msgstr ""
+msgstr "Nelze načíst program !"
 
 #: ../src/plugin.py:253 ../src/plugin.py:399
 msgid "Details"
-msgstr ""
+msgstr "deteily"
 
 #: ../src/plugin.py:452
 #, python-format
 msgid "Downloading Movie Poster: %s..."
-msgstr ""
+msgstr "Stahování potisku videa : %s..."
 
 #: ../src/plugin.py:471
 msgid "Extra Info"
-msgstr ""
+msgstr "Extra info"
 
 #: ../src/plugin.py:400 ../src/plugin.py:476
 msgid "IMDb Details parsed"
-msgstr ""
+msgstr "IMDb deteily"
 
 #: ../src/plugin.py:352
 msgid "IMDb Download completed"
-msgstr ""
+msgstr "stahování z IMDb je hotové"
 
 #: ../src/plugin.py:325
 msgid "IMDb Download failed"
-msgstr ""
+msgstr "Stahování z IMDb selhalo !"
 
 #: ../src/plugin.py:505
 msgid "IMDb Plugin"
-msgstr ""
+msgstr "IMDb modul"
 
 #: ../src/plugin.py:389
 msgid "IMDb Re-Download completed"
-msgstr ""
+msgstr "Nové stažení z IMDb je kompletní"
 
 #: ../src/plugin.py:386
 msgid "IMDb query failed!"
-msgstr ""
+msgstr "Dotaz do IMDb selhal !"
 
 #: ../src/plugin.py:70
 msgid "Lookup"
-msgstr ""
+msgstr "vyhledání"
 
 #: ../src/plugin.py:373 ../src/plugin.py:374
 msgid "No IMDb match."
-msgstr ""
+msgstr "Nenalezeno v IMDb !"
 
 #: ../src/plugin.py:446
 msgid "No cast list found in the database."
-msgstr ""
+msgstr "V databázi seznam není !"
 
 #: ../src/plugin.py:397
 msgid "No details found."
-msgstr ""
+msgstr "Chybí deteily !"
 
 #: ../src/plugin.py:249
 msgid "Please select the matching entry"
-msgstr ""
+msgstr "Vyberte odpovídající zadání"
 
 #: ../src/plugin.py:314
 #, python-format
 msgid "Query IMDb: %s..."
-msgstr ""
+msgstr "Dotaz IMDb: %s..."
 
 #: ../src/plugin.py:517 ../src/plugin.py:522 ../src/plugin.py:529
 msgid "Query details from the Internet Movie Database"
-msgstr ""
+msgstr "Dotaz na detaily z Internet Movie databáze"
 
 #: ../src/plugin.py:264 ../src/plugin.py:379
 #, python-format
 msgid "Re-Query IMDb: %s..."
-msgstr ""
+msgstr "Nový dotaz v IMDb: %s..."
 
 #: ../src/plugin.py:135
 msgid "The Internet Movie Database"
