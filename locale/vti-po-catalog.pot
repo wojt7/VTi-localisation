@@ -18172,3 +18172,6 @@ msgstr ""
 
 msgid "\n3. Press the <OK> key. LED is blinked and turns on."
 msgstr ""
+
+msgid "Keep Bluetooth enabled in standby"
+msgstr ""
