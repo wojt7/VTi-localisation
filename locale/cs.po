@@ -16693,30 +16693,30 @@ msgstr ""
 
 #: ../src/plugin.py:252
 msgid "Title Menu"
-msgstr ""
+msgstr "název menu"
 
 #: ../src/plugin.py:427
 msgid "no user rating yet"
-msgstr ""
+msgstr "ještě nikdo nehodnotil"
 
 #, python-format
 msgid "%(name)s (%(user)s@%(server)s)"
-msgstr ""
+msgstr "%(name)s (%(user)s@%(server)s)"
 
 msgid "Accounts list"
-msgstr ""
+msgstr "seznam účtů"
 
 msgid "Attachments"
-msgstr ""
+msgstr "přílohy"
 
 msgid "Bodys"
-msgstr ""
+msgstr "základny"
 
 msgid "Email Client"
-msgstr ""
+msgstr "E-mail klient"
 
 msgid "Email setup"
-msgstr ""
+msgstr "E-mail - nastavení"
 
 #, python-format
 msgid ""
@@ -16724,28 +16724,33 @@ msgid ""
 "\n"
 "%(error)s"
 msgstr ""
+"E-mail klient pro %(account)s:\n"
+"\n"
+"%(error)s"
 
 msgid "From"
-msgstr ""
+msgstr " od "
 
 msgid "IMAP Port"
-msgstr ""
+msgstr "IMAP port"
 
 msgid "IMAP Server"
-msgstr ""
+msgstr "IMAP server"
 
 #, python-format
 msgid ""
 "New mail arrived for account %s:\n"
 "\n"
 msgstr ""
+"Přijatý nový mail pro %s:\n"
+"\n"
 
 #, python-format
 msgid "Really delete account %s?"
-msgstr ""
+msgstr "Odstranit účet %s ?"
 
 msgid "Subject"
-msgstr ""
+msgstr "subjekt"
 
 #, python-format
 msgid ""
@@ -16756,211 +16761,221 @@ msgid ""
 "# cbCapabilities: %(capa)s\n"
 "####################################################################################################\n"
 msgstr ""
+"[EmailAccount] %(name)s: _cbCapabilities:\n"
+"####################################################################################################\n"
+"# Pokud máte problémy se zápisem na imap-server, odešlete nám výstup "
+"z následujících řádků\n"
+"# cbCapabilities: %(capa)s\n"
+"####################################################################################################\n"
 
 #, python-format
 msgid "account %s is not connected"
-msgstr ""
+msgstr "účet %s není připojený"
 
 msgid "account name"
-msgstr ""
+msgstr "název účtu"
 
 msgid "account not connected"
-msgstr ""
+msgstr "účet není připojený"
 
 msgid "add"
-msgstr ""
+msgstr "přidat"
 
 msgid "cancel"
-msgstr ""
+msgstr "storno"
 
 msgid "cannot access inbox"
-msgstr ""
+msgstr "chybí přístup do inboxu"
 
 msgid "cannot get headers of new messages"
-msgstr ""
+msgstr "Nelze načíst hlavičku hlášení !"
 
 msgid "cannot get list of new messages"
-msgstr ""
+msgstr "Nelze načíst seznam hlášení"
 
 msgid "connection failed - retrying"
-msgstr ""
+msgstr "připojení selhalo, zkuste to znovu"
 
 msgid "display connection errors"
-msgstr ""
+msgstr "připojení obrazu selhalo"
 
 msgid "display timeout (seconds)"
-msgstr ""
+msgstr "čas.limit zobrazení (sek.)"
 
 msgid "edit"
-msgstr ""
+msgstr "upravit"
 
 msgid "empty values - retry"
-msgstr ""
+msgstr "prázdná hodnota - opakujte"
 
 #, python-format
 msgid ""
 "error logging %(who)s in:\n"
 "%(failure)s"
 msgstr ""
+"chyba přihlášení %(who)s v :\n"
+"%(failure)s"
 
 msgid "failed to load message"
-msgstr ""
+msgstr "selhalo načtení hlášení"
 
 msgid "getting message ..."
-msgstr ""
+msgstr "načítám hlášení..."
 
 #, python-format
 msgid "have %d messages"
-msgstr ""
+msgstr "máte %d hlášení"
 
 msgid "have no messages"
-msgstr ""
+msgstr "nemáte hlášení"
 
 msgid "headers loaded, now parsing ..."
-msgstr ""
+msgstr "načtené hlavičky se analyzují..."
 
 #, python-format
 msgid "importing configurations from %s"
-msgstr ""
+msgstr "import konfigurace z %s"
 
 msgid "leave unread"
-msgstr ""
+msgstr "opustit nepřečtené"
 
 msgid "list all mailboxes"
-msgstr ""
+msgstr "seznam všech mail boxů"
 
 msgid "loading headers ..."
-msgstr ""
+msgstr "načítám hlavičky..."
 
 msgid "mail check interval (minutes)"
-msgstr ""
+msgstr "interval kontroly mailů (min.)"
 
 msgid "maximum mail size to fetch"
-msgstr ""
+msgstr "max.velikost mailu pro přenos"
 
 msgid "message too large"
-msgstr ""
+msgstr "hlášení je příliš dlouhé !"
 
 msgid "no account selected"
-msgstr ""
+msgstr "účet není vybraný !"
 
 msgid "no date"
-msgstr ""
+msgstr "chybí datum"
 
 msgid "no filename"
-msgstr ""
+msgstr "chybí název souboru !"
 
 msgid "no from"
-msgstr ""
+msgstr "ne z "
 
 msgid "no mailbox?!?!"
-msgstr ""
+msgstr "chybí mail box?!?!"
 
 msgid "no sender"
-msgstr ""
+msgstr "chybí odesílatel"
 
 msgid "no subject"
-msgstr ""
+msgstr "chybí subjekt"
 
 msgid "ok"
-msgstr ""
+msgstr "OK"
 
 msgid "parsing message ..."
-msgstr ""
+msgstr "anylyzuji hlášení..."
 
 msgid "password"
-msgstr ""
+msgstr "heslo"
 
 msgid "really delete mail?"
-msgstr ""
+msgstr "odstranit mail ?"
 
 msgid "really undelete mail?"
-msgstr ""
+msgstr "obnovit mail ?"
 
 msgid "select Attachment"
-msgstr ""
+msgstr "vybrat přílohu"
 
 msgid "select Body"
-msgstr ""
+msgstr "vybrat základ"
 
 msgid "show deleted entries"
-msgstr ""
+msgstr "zobrazit odebírané položky"
 
 msgid "undelete"
-msgstr ""
+msgstr "obnovit"
 
 msgid "user name"
-msgstr ""
+msgstr "uživatel"
 
 msgid "view Emails via IMAP4"
-msgstr ""
+msgstr "zobrazit E-mail přes IMAP4"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 #. TRANSLATORS: keep it short, this is a help text
 msgid "About FritzCall"
-msgstr ""
+msgstr "o prg.FritzCall..."
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Activate WLAN guest access"
-msgstr ""
+msgstr "aktivovat přístup uživatele ve WLAN"
 
 #. TRANSLATORS: keep it short, this is a help text
 #. TRANSLATORS: this is a window title.
 msgid "Add entry to phonebook"
-msgstr ""
+msgstr "přidat zadání do telefonu"
 
 msgid "All calls"
-msgstr ""
+msgstr "všechna volání"
 
 msgid "Append shortcut number"
-msgstr ""
+msgstr "přidat čísla příkazů"
 
 msgid "Append type of number"
-msgstr ""
+msgstr "přidat typ a číslo"
 
 msgid "Append vanity name"
-msgstr ""
+msgstr "přidat uvažovaný název"
 
 msgid "Areacode to add to calls without one (if necessary)"
-msgstr ""
+msgstr "kód oblasti pro přidání volání bez jednoho"
 
 msgid "Austria"
-msgstr ""
+msgstr "Rakousko"
 
 msgid "Automatically add new Caller to PhoneBook"
-msgstr ""
+msgstr "aut.přidat volajícího do telefonu"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Call"
-msgstr ""
+msgstr "volat"
 
 msgid "Call monitoring"
-msgstr ""
+msgstr "monitoring volání"
 
 msgid "Call redirection"
-msgstr ""
+msgstr "přesměrovat volání"
 
 msgid "Call redirection active"
-msgstr ""
+msgstr "aktivní přesměrování volání"
 
 #, python-format
 msgid "Calling %s"
-msgstr ""
+msgstr "volat %s"
 
 msgid "Cannot get calls from FRITZ!Box"
-msgstr ""
+msgstr "Nelze načíst volání z FRITZ!Boxu"
 
 msgid ""
 "Cannot get infos from FRITZ!Box yet\n"
 "Still initialising or wrong firmware version"
 msgstr ""
+"Nelze načíst info z FRITZ!Boxu \n"
+"Chybí inicializace nebo chybná verze firmware"
 
 msgid "Connected since"
-msgstr ""
+msgstr "připojení od "
 
 msgid "Connected to FRITZ!Box!"
-msgstr ""
+msgstr "připojení na FRITZ!Box!"
 
 #, python-format
 msgid ""
@@ -16968,9 +16983,12 @@ msgid ""
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Připojení na FRITZ!Box selhalo\n"
+" (%s)\n"
+" opakuji..."
 
 msgid "Connecting to FRITZ!Box..."
-msgstr ""
+msgstr "připojení na FRITZ!Box..."
 
 #, python-format
 msgid ""
@@ -16978,57 +16996,60 @@ msgid ""
 " (%s)\n"
 "retrying..."
 msgstr ""
+"připojení na FRITZ!Box! je ztraceno\n"
+" (%s)\n"
+" opakuji..."
 
 msgid "Could not get call list; wrong version?"
-msgstr ""
+msgstr "Nelze načíst seznam volání; chybná verze ?"
 
 msgid "Could not parse FRITZ!Box Phonebook entry"
-msgstr ""
+msgstr "Nelze analýzovat FRITZ!Box v telefonu !"
 
 msgid "Could not read FRITZ!Box phonebook; wrong version?"
-msgstr ""
+msgstr "Nelze načíst FRITZ!Box v telefonu; chybná verze ?"
 
 msgid "Country"
-msgstr ""
+msgstr "země"
 
 msgid "DECT inactive"
-msgstr ""
+msgstr "neaktivní DECT"
 
 msgid "DECT phones registered"
-msgstr ""
+msgstr "DECT - registrace telefonu"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Deactivate WLAN guest access"
-msgstr ""
+msgstr "deaktivovat přístup uživatele WLAN"
 
 msgid "Debug"
-msgstr ""
+msgstr "ladění"
 
 msgid "Display FRITZ!box-Fon calls on screen"
-msgstr ""
+msgstr "zobrazit volání FRITZ!box-fon na obrazovce"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display all calls"
-msgstr ""
+msgstr "zobrazit všechna volání"
 
 msgid "Display connection infos"
-msgstr ""
+msgstr "zobrazit info volání"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display incoming calls"
-msgstr ""
+msgstr "zobrazit přicházející volání"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display missed calls"
-msgstr ""
+msgstr "zobrazit zmeškaná volání"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Display outgoing calls"
-msgstr ""
+msgstr "zobrazit odchozí volání"
 
 #. TRANSLATORS: this is a window title.
 msgid "Do what?"
-msgstr ""
+msgstr "co udělat ?"
 
 #, python-format
 msgid ""
@@ -17038,106 +17059,116 @@ msgid ""
 "\n"
 "%(name)s?"
 msgstr ""
+"Chcete odebrat zadání pro\n"
+"\n"
+"%(číslo)\n"
+"\n"
+"%(název) ?"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Edit selected entry"
-msgstr ""
+msgstr "upravit vybrané zadání"
 
 msgid "Enter Search Terms"
-msgstr ""
+msgstr "zadat hledání"
 
 msgid "Entry incomplete."
-msgstr ""
+msgstr "zadání není kompletní"
 
 msgid "Extended Search for faces"
-msgstr ""
+msgstr "rozšířené hledání pro stránky"
 
 msgid "Extended Search for names"
-msgstr ""
+msgstr "rozšířené hledání názvů"
 
 msgid "Extension number to initiate call on"
-msgstr ""
+msgstr "rozšíření čísla pro volání"
 
 #, python-format
 msgid "FRITZ!Box - Could not load calls: %s"
-msgstr ""
+msgstr "FRITZ!Box - nelze načíst volání : %s"
 
 #, python-format
 msgid "FRITZ!Box - Could not load phonebook: %s"
-msgstr ""
+msgstr "FRITZ!Box - nelze načíst telefon : %s"
 
 #, python-format
 msgid "FRITZ!Box - Dialling failed: %s"
-msgstr ""
+msgstr "FRITZ!Box - selhalo vytáčení : %s"
 
 #, python-format
 msgid "FRITZ!Box - Error getting blacklist: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba načtení blacklistu : %s"
 
 #, python-format
 msgid "FRITZ!Box - Error getting status: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba načtení stavu : %s"
 
 msgid ""
 "FRITZ!Box - Error logging in\n"
 "\n"
 msgstr ""
+"FRITZ!Box - chyba přihlášení do\n"
+"\n"
 
 #, python-format
 msgid "FRITZ!Box - Error logging in: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba přihlášení do : %s"
 
 #, python-format
 msgid ""
 "FRITZ!Box - Error logging in: %s\n"
 "Disabling plugin."
 msgstr ""
+"FRITZ!Box - chyba přihlášení do : %s\n"
+"zrušeno připojení."
 
 #, python-format
 msgid "FRITZ!Box - Error logging out: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba odhlášení : %s"
 
 #, python-format
 msgid "FRITZ!Box - Error resetting: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba resetování : %s"
 
 #, python-format
 msgid "FRITZ!Box - Failed changing GuestAccess: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba změny přístupu uživatele : %s"
 
 #, python-format
 msgid "FRITZ!Box - Failed changing Mailbox: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba změny Mail-boxu : %s"
 
 #, python-format
 msgid "FRITZ!Box - Failed changing WLAN: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba změny WLAN : %s"
 
 msgid "FRITZ!Box FON address (Name or IP)"
-msgstr ""
+msgstr "FRITZ!Box FON adresa (název nebo IP)"
 
 msgid "FRITZ!Box FON firmware version"
-msgstr ""
+msgstr "FRITZ!Box FON firmware verze"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 #. TRANSLATORS: keep it short, this is a help text
 msgid "FRITZ!Box Fon Status"
-msgstr ""
+msgstr "FRITZ!Box Fon status"
 
 msgid "FRITZ!Box PhoneBook to read"
-msgstr ""
+msgstr "FRITZ!Box PhoneBook pro čtení"
 
 msgid ""
 "FRITZ!Box firmware version not configured! Please set it in the "
 "configuration."
 msgstr ""
+"FRITZ!Box firmware verze není nakonfigurována !"
 
 msgid "FRITZ!Box not available for calling"
-msgstr ""
+msgstr "FRITZ!Box není dostupný pro volání"
 
 msgid "Filter also list of calls"
-msgstr ""
+msgstr "filtr pro seznam volání"
 
 #, python-format
 msgid ""
@@ -17147,47 +17178,52 @@ msgid ""
 "\n"
 "But did not load. Probably not PNG, 8-bit"
 msgstr ""
+"Nalezeny obrázky\n"
+"\n"
+"%s\n"
+"\n"
+"Nejdou ale načíst. Pravděpodobně to není PNG, 8-bit"
 
 #
 # File: ../src/MyTubeSearch.py, line: 205
 # File: ../src/plugin.py, line: 93
 msgid "France"
-msgstr ""
+msgstr "Francie"
 
 #. TRANSLATORS: this is a window title.
 msgid "FritzCall Setup"
-msgstr ""
+msgstr "FritzCall nastavení"
 
 #
 # File: ../src/MyTubeSearch.py, line: 206
 # File: ../src/plugin.py, line: 94
 msgid "Germany"
-msgstr ""
+msgstr "Německo"
 
 msgid "Getting calls from FRITZ!Box..."
-msgstr ""
+msgstr "načítám volání z FRITZ!Box..."
 
 msgid "Getting status from FRITZ!Box Fon..."
-msgstr ""
+msgstr "načítám stav z FRITZ!Box Fon..."
 
 msgid "Guest access"
-msgstr ""
+msgstr "přístup uživatele"
 
 msgid "Guest access not active"
-msgstr ""
+msgstr "přístup uživatele není aktivní"
 
 msgid "Guest access on "
-msgstr ""
+msgstr "přístup uživatele do "
 
 msgid "IP Address:"
-msgstr ""
+msgstr "IP adresa : "
 
 msgid "Ignore callers with no phone number"
-msgstr ""
+msgstr "ignorovat volání z čísla "
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Incoming"
-msgstr ""
+msgstr "přicházející"
 
 #, python-format
 msgid ""
@@ -17198,9 +17234,15 @@ msgid ""
 "---------------------------------------------\n"
 "to: %(phone)s"
 msgstr ""
+"Příchozí volání z %(date)s v %(time)s z \n"
+"---------------------------------------------\n"
+"%(number)s\n"
+"%(caller)s\n"
+"---------------------------------------------\n"
+"to: %(phone)s"
 
 msgid "Incoming calls"
-msgstr ""
+msgstr "příchozí volání"
 
 #
 # File: ../src/MyTubeSearch.py, line: 214
