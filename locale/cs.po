@@ -17248,75 +17248,75 @@ msgstr "příchozí volání"
 # File: ../src/MyTubeSearch.py, line: 214
 # File: ../src/plugin.py, line: 102
 msgid "Italy"
-msgstr ""
+msgstr "Itálie"
 
 msgid "Last 10 calls:\n"
-msgstr ""
+msgstr "posledních 10 volání :\n"
 
 msgid "MSN to show (separated by ,)"
-msgstr ""
+msgstr "MSN pro zobrazení (oddělené ,)"
 
 msgid "Mailbox"
-msgstr ""
+msgstr "Mail-box"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Missed"
-msgstr ""
+msgstr "zmeškané"
 
 msgid "Missed calls"
-msgstr ""
+msgstr "zmeškaná volání"
 
 msgid "Mute on call"
-msgstr ""
+msgstr "potlačená volání"
 
 msgid "Name of WLAN guest network"
-msgstr ""
+msgstr "název WLAN uživ.sítě"
 
 msgid "New call"
-msgstr ""
+msgstr "nová volání"
 
 msgid "No DECT phone registered"
-msgstr ""
+msgstr "neregistrovaný DECT telefon "
 
 msgid "No call redirection active"
-msgstr ""
+msgstr "volání není přesměrované"
 
 msgid "No entry selected"
-msgstr ""
+msgstr "zadání není vybrané"
 
 msgid "No mailbox active"
-msgstr ""
+msgstr "mailbox není aktivní"
 
 msgid "No phonebook"
-msgstr ""
+msgstr "chybí telefon"
 
 msgid "No result from LDIF"
-msgstr ""
+msgstr "chybí výsledek z LDIF"
 
 msgid "No result from Outlook export"
-msgstr ""
+msgstr "chybí výsledek z Outlooku"
 
 msgid "No result from reverse lookup"
-msgstr ""
+msgstr "chybí výsledek z obrácené smyčky"
 
 msgid "Number"
-msgstr ""
+msgstr "počet"
 
 msgid "One DECT phone registered"
-msgstr ""
+msgstr "jeden registrovaný DECT telefon"
 
 msgid "One call redirection active"
-msgstr ""
+msgstr "jedno aktivní přesměrování volání"
 
 msgid "One mailbox active"
-msgstr ""
+msgstr "jeden aktivní mailbox"
 
 msgid "Others"
-msgstr ""
+msgstr "další"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Outgoing"
-msgstr ""
+msgstr "odeslané"
 
 #, python-format
 msgid ""
@@ -17327,172 +17327,178 @@ msgid ""
 "---------------------------------------------\n"
 "from: %(phone)s"
 msgstr ""
+"Odchozí volání v %(date)s v %(time)s do\n"
+"---------------------------------------------\n"
+"%(number)s\n"
+"%(caller)s\n"
+"---------------------------------------------\n"
+"od: %(phone)s"
 
 msgid "Outgoing calls"
-msgstr ""
+msgstr "odchozí volání"
 
 msgid "Password Accessing FRITZ!Box"
-msgstr ""
+msgstr "přístupové heslo pro FRITZ!Box"
 
 msgid "Password of WLAN guest network"
-msgstr ""
+msgstr "heslo pro WLAN uživ.sítě"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 msgid "Phone calls"
-msgstr ""
+msgstr "telefonní volání"
 
 msgid "PhoneBook and Faces Location"
-msgstr ""
+msgstr "PhoneBook a Faces místo"
 
 #. TRANSLATORS: this is a window title.
 #. TRANSLATORS: keep it short, this is a button
 msgid "Phonebook"
-msgstr ""
+msgstr "tel.seznam"
 
 msgid "Plugin not enabled"
-msgstr ""
+msgstr "modul není aktivovaný"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Quit"
-msgstr ""
+msgstr "Konec"
 
 msgid "Read PhoneBook from FRITZ!Box"
-msgstr ""
+msgstr "načíst tel.seznam z FRITZ!Boxu"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Refresh status"
-msgstr ""
+msgstr "obnovit stav"
 
 msgid "Refreshing..."
-msgstr ""
+msgstr "obnovuji..."
 
 msgid "Reload interval for phonebooks (hours)"
-msgstr ""
+msgstr "obnovit interval pro tel.seznam (hod.)"
 
 msgid "Reverse Lookup Caller ID (select country below)"
-msgstr ""
+msgstr "ID volání ve zpětné smyčce (země dole)"
 
 msgid "Reverse searching..."
-msgstr ""
+msgstr "hledání vrácených..."
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Search"
-msgstr ""
+msgstr "hledat"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Search (case insensitive)"
-msgstr ""
+msgstr "hledat (rozliš.vel.písmen)"
 
 msgid "Search phonebook"
-msgstr ""
+msgstr "hledat tel.seznam"
 
 msgid "Searching in LDIF..."
-msgstr ""
+msgstr "hledám v LDIF..."
 
 msgid "Searching in Outlook export..."
-msgstr ""
+msgstr "hledám v Outlook exportu..."
 
 msgid "Secure WLAN guest network"
-msgstr ""
+msgstr "zabezpečení WLAN uživ.sítě"
 
 msgid "Setting..."
-msgstr ""
+msgstr "nastavuji..."
 
 msgid "Shortcut"
-msgstr ""
+msgstr "kl.zkratka"
 
 msgid "Show Outgoing Calls"
-msgstr ""
+msgstr "zobrazit odchozí volání"
 
 msgid "Show after Standby"
-msgstr ""
+msgstr "zobrazit po režimu spánku"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Show details of entry"
-msgstr ""
+msgstr "zobrazit detaily položky"
 
 msgid "Show only calls for specific MSN"
-msgstr ""
+msgstr "zobrazit pouze volání pro specif.MSN"
 
 msgid "Software fax active"
-msgstr ""
+msgstr "aktivní fax software"
 
 msgid "Software fax inactive"
-msgstr ""
+msgstr "neaktivní fax software"
 
 msgid "Status not available"
-msgstr ""
+msgstr "status není dostupný"
 
 msgid "Strip Leading 0"
-msgstr ""
+msgstr "pásek průběhu 0"
 
 msgid "Switzerland"
-msgstr ""
+msgstr "Švýcarsko"
 
 msgid "The Netherlands"
-msgstr ""
+msgstr "Nizozemí"
 
 msgid "Timeout for Call Notifications (seconds)"
-msgstr ""
+msgstr "překročený čas pro oznámení volání (sek.)"
 
 msgid ""
 "To enjoy more functionalities of your FRITZ!Box, configure the firmware "
 "version!"
-msgstr ""
+msgstr "Pro více funkcí !Boxu nakonfigurujte verzi firmware"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 1. mailbox"
-msgstr ""
+msgstr "přepnout 1. mailbox"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 2. mailbox"
-msgstr ""
+msgstr "přepnout 2. mailbox"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 3. mailbox"
-msgstr ""
+msgstr "přepnout 3. mailbox"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 4. mailbox"
-msgstr ""
+msgstr "přepnout 4. mailbox"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle 5. mailbox"
-msgstr ""
+msgstr "přepnout 5. mailbox"
 
 #. TRANSLATORS: keep it short, this is a button
 msgid "Toggle Mailbox"
-msgstr ""
+msgstr "přepnout mailbox"
 
 #. TRANSLATORS: keep it short, this is a button
 #. TRANSLATORS: keep it short, this is a help text
 #. TRANSLATORS: keep it short, this is a button
 msgid "Toggle WLAN"
-msgstr ""
+msgstr "přepnout WLAN"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle WLAN guest access"
-msgstr ""
+msgstr "přepnout WLAN uživ.sítě"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "Toggle all mailboxes"
-msgstr ""
+msgstr "přepnout všechny mailboxy"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "neznámé"
 
 msgid "Use internal PhoneBook"
-msgstr ""
+msgstr "použít interní PhoneBook"
 
 msgid "User name Accessing FRITZ!Box"
-msgstr ""
+msgstr "uživ.přístup pro FRITZ!Box"
 
 msgid "Vanity"
-msgstr ""
+msgstr "malichernost"
 
 msgid "You need to enable the monitoring on your FRITZ!Box by dialing #96*5*!"
-msgstr ""
+msgstr "Můžete aktivovat monitorování pro vytáčené FRITZ!Box #96*5*!"
 
 msgid ""
 "You need to set the password of the FRITZ!Box\n"
@@ -17500,172 +17506,176 @@ msgid ""
 "\n"
 "It could be a communication issue, just try again."
 msgstr ""
+"Potřebujete nastavit heslo pro FRITZ!Box\n"
+"v dialogu konfigurace volání.\n"
+"\n"
+"Pokud nekomunikuje, zkuste to znovu."
 
 msgid "before 05.27"
-msgstr ""
+msgstr "před 05.27"
 
 msgid "call redirections active"
-msgstr ""
+msgstr "aktivní přesměrování volání"
 
 msgid "devices active"
-msgstr ""
+msgstr "aktivní zařízení"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "display calls"
-msgstr ""
+msgstr "zobrazit volání"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "display phonebook"
-msgstr ""
+msgstr "zobrazit tel.seznam"
 
 msgid "done"
-msgstr ""
+msgstr "hotovo"
 
 msgid "done, using last list"
-msgstr ""
+msgstr "hotovo, použit poslední seznam"
 
 msgid "encrypted"
-msgstr ""
+msgstr "šifrováno"
 
 msgid "finishing"
-msgstr ""
+msgstr "dokončení"
 
 msgid "home"
-msgstr ""
+msgstr "domů"
 
 msgid "login"
-msgstr ""
+msgstr "přihlášení"
 
 msgid "login ok"
-msgstr ""
+msgstr "přihlášení je OK"
 
 msgid "login verification"
-msgstr ""
+msgstr "verifikace přihlášení"
 
 msgid "mailboxes active"
-msgstr ""
+msgstr "aktivace mailboxu"
 
 msgid "mobile"
-msgstr ""
+msgstr "mobil"
 
 msgid "no calls"
-msgstr ""
+msgstr "není volání"
 
 msgid "no device active"
-msgstr ""
+msgstr "zařízení není aktivní"
 
 msgid "not encrypted"
-msgstr ""
+msgstr "není šifrováno"
 
 msgid "not yet implemented"
-msgstr ""
+msgstr "není implementováno"
 
 msgid "number suppressed"
-msgstr ""
+msgstr "počet potlačení"
 
 msgid "one device active"
-msgstr ""
+msgstr "jedno zařízení aktivní"
 
 msgid "preparing"
-msgstr ""
+msgstr "příprava"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "quit"
-msgstr ""
+msgstr "konec"
 
 #. TRANSLATORS: keep it short, this is a help text
 msgid "save and quit"
-msgstr ""
+msgstr "uložit a ukončit"
 
 msgid "show as list"
-msgstr ""
+msgstr "zobrazit jako seznam"
 
 msgid "show each call"
-msgstr ""
+msgstr "zobrazit každé volání"
 
 msgid "show nothing"
-msgstr ""
+msgstr "nezobrazovat"
 
 msgid "work"
-msgstr ""
+msgstr "zpracovat"
 
 msgid "wrong user or password?"
-msgstr ""
+msgstr "chybný uživatel nebo heslo ?"
 
 #
 # File: ../src/plugin.py, line: 36
 #: ../src/plugin.py:36
 msgid "immediately after recording"
-msgstr ""
+msgstr "okamžitě po nahrávání"
 
 #
 # File: ../src/plugin.py, line: 36
 #: ../src/plugin.py:36
 msgid "older than 1 day"
-msgstr ""
+msgstr "starší než 1 den"
 
 #
 # File: ../src/plugin.py, line: 36
 #: ../src/plugin.py:36
 msgid "older than 3 days"
-msgstr ""
+msgstr "starší než 3 dny"
 
 #
 # File: ../src/plugin.py, line: 36
 #: ../src/plugin.py:36
 msgid "older than 1 week"
-msgstr ""
+msgstr "starší než týden"
 
 #
 # File: ../src/plugin.py, line: 36
 #: ../src/plugin.py:36
 msgid "older than 2 weeks"
-msgstr ""
+msgstr "starší než 2 týdny"
 
 #
 # File: ../src/plugin.py, line: 36
 #: ../src/plugin.py:36
 msgid "older than 4 weeks"
-msgstr ""
+msgstr "starší než 4 týdny"
 
 #
 # File: ../src/plugin.py, line: 36
 #: ../src/plugin.py:36
 msgid "older than 6 weeks"
-msgstr ""
+msgstr "starší než 6 týdnů"
 
 #
 # File: ../src/plugin.py, line: 49
 # File: ../src/plugin.py, line: 125
 #: ../src/plugin.py:49 ../src/plugin.py:125
 msgid "Automatic Timerlist Cleanup Setup"
-msgstr ""
+msgstr "nastavit aut.vyčištění časovačů"
 
 #
 # File: ../src/plugin.py, line: 122
 # File: ../src/plugin.py, line: 125
 #: ../src/plugin.py:122 ../src/plugin.py:125
 msgid "Timerlist Cleanup Setup"
-msgstr ""
+msgstr "nastavit vyčištění časovačů"
 
 #
 # File: ../src/plugin.py, line: 56
 #: ../src/plugin.py:56
 msgid "Cleanup timerlist-entries"
-msgstr ""
+msgstr "vyčistit časovače"
 
 #
 msgid "UHD Interlace Mode"
-msgstr ""
+msgstr "UHD prokládaný mód"
 
 #
 msgid "UHD Progressive Mode"
-msgstr ""
+msgstr "UHD progresivní mód"
 
 #
 #: src/plugin.py:516
 msgid "Webinterface"
-msgstr "Webinterface"
+msgstr "webové rozhraní"
 
 #
 #: src/plugin.py:516 src/plugin.py:519
@@ -17685,27 +17695,27 @@ msgstr "Zobrazit nastavení v rozšířeném menu"
 #
 #: src/WebIfConfig.py:62
 msgid "Enable /media"
-msgstr "Povolit /media"
+msgstr "povolit /media"
 
 #
 #: src/WebIfConfig.py:63
 msgid "Allow zapping via Webinterface"
-msgstr "Povolit přepínání přes webové rozhraní"
+msgstr "povolit přepínání přes webové rozhraní"
 
 #
 #: src/WebIfConfig.py:64
 msgid "Autowrite timer"
-msgstr "Časovač s aut.zápisem"
+msgstr "časovač s aut.zápisem"
 
 #
 #: src/WebIfConfig.py:65
 msgid "Load movie-length"
-msgstr "Načíst délku videa"
+msgstr "načíst délku videa"
 
 #
 #: src/WebIfConfig.py:66
 msgid "Enable HTTP Access"
-msgstr "Povolit HTTP přístup"
+msgstr "povolit HTTP přístup"
 
 #
 #: src/WebIfConfig.py:71
@@ -17984,11 +17994,11 @@ msgstr "Panel signálů"
 
 #: src/WebComponents/Sources/Strings.py:101
 msgid "Zap to"
-msgstr ""
+msgstr "zapnout na "
 
 #: src/WebComponents/Sources/Strings.py:102
 msgid "Open Multi-EPG for"
-msgstr ""
+msgstr "otevřít Multi-EPG pro "
 
 #
 #: src/WebComponents/Sources/Strings.py:103
@@ -17997,12 +18007,12 @@ msgstr "Otevřít sadu kanálů..."
 
 #: src/WebComponents/Sources/Strings.py:104
 msgid "Playlist for"
-msgstr ""
+msgstr "seznam pro "
 
 #
 #: src/WebComponents/Sources/Strings.py:105
 msgid "Lookup on IMDb.com"
-msgstr "Hledat v IMDb.com"
+msgstr "hledat v IMDb.com"
 
 #
 #: src/WebComponents/Sources/Strings.py:106
@@ -18116,7 +18126,7 @@ msgstr "Širokoúhlý"
 
 #: src/WebComponents/Sources/Strings.py:138
 msgid "Text PID"
-msgstr ""
+msgstr "PID textu "
 
 #
 #: src/WebComponents/Sources/Strings.py:142
@@ -18819,121 +18829,121 @@ msgstr "RC příkaz '%s' byl spuštěný"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:50
 msgid "Old password:"
-msgstr ""
+msgstr "pův.heslo : "
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:51
 msgid "New password:"
-msgstr ""
+msgstr "nové heslo : "
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:62
 msgid ""
 "Incorrect new password!\n"
 "Minimum length: 5\n"
 "Maximum length: 8"
-msgstr ""
+msgstr "max.délka : 8"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:137
 msgid "Could not log in!"
-msgstr ""
+msgstr "nelze se přihlásit !"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:150
 msgid "Error while setting new password!"
-msgstr ""
+msgstr "Chyba při nastavení nového hesla !"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Password Changer"
-msgstr ""
+msgstr "změnit heslo"
 
 #: /home/aliabdul/dream/enigma2-plugins/passwordchanger/src/plugin.py:163
 msgid "Change your ftp and telnet password"
-msgstr ""
+msgstr "změnit heslo pro FTP a telnet"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:220
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:317
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:422
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:598
 msgid "Zap Statistic"
-msgstr ""
+msgstr "zapnout statistiku"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:227
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:325
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:451
 msgid "Sort (name+)"
-msgstr ""
+msgstr "seřadit (název+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:228
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:326
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:454
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:524
 msgid "Sort (name-)"
-msgstr ""
+msgstr "seřadit (název-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:229
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:327
 msgid "Sort (duration+)"
-msgstr ""
+msgstr "seřadit (délka+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:230
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:328
 msgid "Sort (duration-)"
-msgstr ""
+msgstr "seřadit (délka-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:434
 msgid "Durations"
-msgstr ""
+msgstr "délka"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:452
 msgid "Sort (date+)"
-msgstr ""
+msgstr "seřadit (datum+)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:456
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:539
 msgid "Sort (date-)"
-msgstr ""
+msgstr "seřadit (datum-)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:561
 msgid "Play entry"
-msgstr ""
+msgstr "přehráv vybrané"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:563
 msgid "Delete all entries"
-msgstr ""
+msgstr "odebrat všechna zadání"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:564
 msgid "Sort by name (ascending)"
-msgstr ""
+msgstr "seřadit podle názvu (vzestupně)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:565
 msgid "Sort by name (descending)"
-msgstr ""
+msgstr "seřadit podle názvu (sestupně)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:566
 msgid "Sort by date (ascending)"
-msgstr ""
+msgstr "seřadit podle datumu (vzestupně)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:567
 msgid "Sort by date (descending)"
-msgstr ""
+msgstr "seřadit podle datumu (sestupně)"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:568
 msgid "Show duration window"
-msgstr ""
+msgstr "zobrazit dobu okna"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:569
 msgid "Show combined duration window"
-msgstr ""
+msgstr "zobrazit kombinovanou dobu okna"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:570
 msgid "Close plugin"
-msgstr ""
+msgstr "zavřít modul"
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:571
 msgid "Please choose a function..."
-msgstr ""
+msgstr "vyberte funkci..."
 
 #: /home/aliabdul/dream/ltteam/trunk/additions/plugins/zapstatistic/src/plugin.py:598
 msgid "Shows the watched services with some statistic"
-msgstr ""
+msgstr "zobrazit sledovaný kanál se statistikou"
 
 #
 #: ../src/plugin.py:23
@@ -19121,122 +19131,124 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:50
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:401
 msgid "Name of DVD"
-msgstr ""
+msgstr "název DVD"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:143
 msgid "Could not find any file to backup!"
-msgstr ""
+msgstr "Nelze najít soubor zálohy !"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:146
 msgid "Could not read the DVD informations!"
-msgstr ""
+msgstr "Nelze načíst info DVD !"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:152
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:181
 msgid "Error while backup of DVD!"
-msgstr ""
+msgstr "Chyba při zálohování DVD !"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:186
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"
 msgstr ""
+"image je hotové.\n"
+"odebrat DVD složku ?"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Backup of DVD finished."
-msgstr ""
+msgstr "záloha z DVD je dokončena"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Duration:"
-msgstr ""
+msgstr "délka : "
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:201
 msgid "Eject DVD?"
-msgstr ""
+msgstr "vysunout DVD ?"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:322
 msgid "Progress"
-msgstr ""
+msgstr "průběh"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:331
 msgid "Device:"
-msgstr ""
+msgstr "zařízení : "
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:332
 msgid "Directory:"
-msgstr ""
+msgstr "složka : "
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:333
 msgid "Name:"
-msgstr ""
+msgstr "název : "
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:334
 msgid "Log:"
-msgstr ""
+msgstr "přihlášení : "
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:335
 msgid "Create iso:"
-msgstr ""
+msgstr "sestavit ISO : "
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:421
 msgid "Installing..."
-msgstr ""
+msgstr "instaluji..."
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:427
 msgid "Could not install needed dvdbackup package!"
-msgstr ""
+msgstr "Nelze nainstalovat dvdbackup balíček !"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:443
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "DVD Backup"
-msgstr ""
+msgstr "DVD záloha"
 
 #: /home/aliabdul/dream/enigma2-plugins/dvdbackup/src/plugin.py:446
 msgid "Backup your Video-DVD to your harddisk"
-msgstr ""
+msgstr "záloha video DVD na harddisk"
 
 #: src/plugin.py:15
 msgid "after restart"
-msgstr ""
+msgstr "po restartu"
 
 #: src/plugin.py:15
 msgid "after standby"
-msgstr ""
+msgstr "po režimu spánku"
 
 #: src/plugin.py:15
 msgid "after restart/standby"
-msgstr ""
+msgstr "po restartu / režimu spánku"
 
 #: src/plugin.py:93 src/plugin.py:144
 msgid "Restart audio"
-msgstr ""
+msgstr "restart audio"
 
 #: src/plugin.py:94
 msgid "Restart audio delay (in sec)"
-msgstr ""
+msgstr "restart audio s odkladem (v sek.)"
 
 #: src/plugin.py:104
 #, python-format
 msgid "Plugin: %(plugin)s , Version: %(version)s"
-msgstr ""
+msgstr "modul : %(plugin)s , verze : %(version)s"
 
 #: src/plugin.py:142
 msgid "Audio restart Setup"
-msgstr ""
+msgstr "AudioRestart - nastavení"
 
 #: src/plugin.py:142
 msgid "Setup for the AudioRestart Plugin"
-msgstr ""
+msgstr "nastavení pro AudioRestart"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:51
 msgid "Timespans"
-msgstr ""
+msgstr "časové rozpětí"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:88
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:414
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:122
 msgid "Advanced HDMI-Cec Setup"
-msgstr ""
+msgstr "pokročilé nastavení HDMI-Cec"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:93
 msgid ""
@@ -19244,136 +19256,140 @@ msgid ""
 "It can be prevented only the signals that are sent from the Dreambox. "
 "Signals received by the Dreambox will not be prevented."
 msgstr ""
+"Částečně deaktivovat HDMI-Cec ?\n"
+"To může být prevence pouze pro signály odeslané z Dreamboxu. "
+"Signál z Dreamboxu nebude omezený."
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:93
 msgid "partially disable HdmiCec"
-msgstr ""
+msgstr "částečně deaktivovat HDMI-CEC"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:95
 msgid "Should HDMI-Cec be disabled when GUI service startup?"
-msgstr ""
+msgstr "má se HDMI-CEC vypnout při startu grafiky kanálu ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:95
 msgid "disable at GUI-start"
-msgstr ""
+msgstr "vypnout při startu grafiky"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:97
 msgid ""
 "Should HDMI-Cec be disabled when the commands are sent from the web "
 "interface?"
 msgstr ""
+"vypnout HDMI-CEC při odeslání příkazů z web.rozhraní ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:97
 msgid "disable from webinterface"
-msgstr ""
+msgstr "zakázat z web.rozhraní"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:98
 msgid "Should HDMI-Cec be send on Power On?"
-msgstr ""
+msgstr "odeslat na HDMI-CEC při zapnutí ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:98
 msgid "enable Power On"
-msgstr ""
+msgstr "povolit zapnutí"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:99
 msgid "Should HDMI-Cec be send on Power Off?"
-msgstr ""
+msgstr "odeslat na HDMI-CEC při vypnutí ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:99
 msgid "enable Power Off"
-msgstr ""
+msgstr "povolit vypnutí"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:100
 msgid "Schould debugmessages be printed?"
-msgstr ""
+msgstr "má se zpráva o ladění vytisknout ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:100
 msgid "enable debug"
-msgstr ""
+msgstr "povolit ladění"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:101
 msgid "Where should this setup be displayed?"
-msgstr ""
+msgstr "kde bude nastavení zobrazeno ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:101
 msgid "show in"
-msgstr ""
+msgstr "zobrazit v "
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:138
 msgid "Advanced HDMI-Cec Control"
-msgstr ""
+msgstr "rozšířené ovládání HDMI-CEC"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:139
 msgid "Version: "
-msgstr ""
+msgstr "verze : "
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:141
 msgid "Registered HDMI-Cec-Hooks:"
-msgstr ""
+msgstr "registrace HDMI-CEC : "
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:143
 msgid "Hook"
-msgstr ""
+msgstr "zachycení"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:146
 msgid "No HDMI-Cec-Hooks are registered!"
-msgstr ""
+msgstr "zachycení HDMI-CEC není registrováno !"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:252
 msgid "From WD"
-msgstr ""
+msgstr "z WD"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:253
 msgid "To WD"
-msgstr ""
+msgstr "do WD"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:255
 msgid "To"
-msgstr ""
+msgstr "do "
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:280
 msgid "Disable HDMI-CEC chronologically"
-msgstr ""
+msgstr "vypínat HDMI-CEC chronologicky"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:307
 msgid "Really delete this HDMI-Cec-Timespan Entry?"
-msgstr ""
+msgstr "odebrat časový zorsah pro HDMI-CEC "
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:360
 msgid "From which day of the week, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "který den v týdnu HDMI-CEC vypnout ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:360
 msgid "from weekday"
-msgstr ""
+msgstr "v pracovní dny"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:361
 msgid "To what day of the week, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "který den v týdnu HDMI-CEC vypnout ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:361
 msgid "to weekday"
-msgstr ""
+msgstr "ve všední den"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:362
 msgid "At which time, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "v jaký čas HDMI-CEC vypnout ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:362
 msgid "from (HH:MI)"
-msgstr ""
+msgstr "z (HH:MI)""
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:363
 msgid "Until the time at which, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "do jakého času HDMI-CEC vypnout ?"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:363
 msgid "to (HH:MI)"
-msgstr ""
+msgstr "do (HH:MI)"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:376
 msgid "Edit HDMI-Cec-Timespan"
-msgstr ""
+msgstr "upravit čas.rozsah HDMI-CEC"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:428
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:435
@@ -19382,62 +19398,62 @@ msgstr ""
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:143
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:151
 msgid "manage when HDMI Cec is enabled"
-msgstr ""
+msgstr "správa spuštěného HDMI-CEC"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:45
 msgid "systemmenue"
-msgstr ""
+msgstr "syst.seznam"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:46
 msgid "pluginmenue"
-msgstr ""
+msgstr "seznam modulů"
 
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/plugin.py:47
 msgid "extensions"
-msgstr ""
+msgstr "rozšíření"
 
 #: ../src/MediaDownloader.py:215
 #, python-format
 msgid "%d kb/s"
-msgstr ""
+msgstr "%d kb/s"
 
 #: ../src/MediaDownloader.py:148
 msgid "?? kb/s"
-msgstr ""
+msgstr "?? kb/s"
 
 #: ../src/MediaDownloader.py:245
 msgid "Do you want to try to open the downloaded file?"
-msgstr ""
+msgstr "chcete zkusit otevřít stažený soubor ?"
 
 #: ../src/plugin.py:83
 msgid "Download..."
-msgstr ""
+msgstr "stahuji..."
 
 #: ../src/MediaDownloader.py:214
 #, python-format
 msgid "ETA %d:%02d min"
-msgstr ""
+msgstr "ETA %d:%02d min."
 
 #: ../src/MediaDownloader.py:147
 msgid "ETA ??:?? h"
-msgstr ""
+msgstr "ETA ??:?? h"
 
 #: ../src/MediaDownloader.py:262
 #, python-format
 msgid "Error while downloading file %s"
-msgstr ""
+msgstr "chyba při stahování souboru %s"
 
 #: ../src/MediaDownloader.py:228
 msgid "No suitable Viewer found!"
-msgstr ""
+msgstr "vhodný prohlížeč není k dispozici !"
 
 #: ../src/MediaDownloader.py:172
 msgid "Where to save?"
-msgstr ""
+msgstr "kam uložit ?"
 
 #: ../src/plugin.py:58
 msgid "Which file do you want to download?"
-msgstr ""
+msgstr "který soubor chcete stáhnout ?"
 
 #
 msgid ""
@@ -19460,7 +19476,7 @@ msgstr ""
 "neaktivní"
 
 msgid "Delete mount"
-msgstr ""
+msgstr "zrušit připojení"
 
 #
 msgid "Manage network shares"
@@ -19633,26 +19649,26 @@ msgid "No network devices found!"
 msgstr "Chybí zařízení v síti !"
 
 msgid "Press OK to mount this share!"
-msgstr ""
+msgstr "OK -> připojit sdílení..."
 
 msgid "Press OK to collapse this host"
-msgstr ""
+msgstr "OK -> sbalit hosta..."
 
 msgid "Press OK to expand this host"
-msgstr ""
+msgstr "OK -> rozbalit hosta..."
 
 #
 msgid "Do you want to enter a username and password for this host?\n"
 msgstr "Chcete zadat uživatele a heslo pro toto přihlášení ?\n"
 
 msgid "Scan NFS share"
-msgstr ""
+msgstr "prohledat NFS sdílení"
 
 msgid "Scan range"
-msgstr ""
+msgstr "rozsah prohledávání"
 
 msgid "Enter IP to scan..."
-msgstr ""
+msgstr "zadání IP pro hledání..."
 
 #
 msgid "Press OK to select."
@@ -19663,14 +19679,14 @@ msgid "Add new network mount point"
 msgstr "Přidat nový přípojný bod v síti"
 
 msgid "Add a new NFS or CIFS mount point to your STB."
-msgstr ""
+msgstr "přidat nový přípojný bod NFS nebo CIFS "
 
 #
 msgid "Mountpoints management"
 msgstr "Správa přípojných bodů"
 
 msgid "View, edit or delete mountpoints on your STB."
-msgstr ""
+msgstr "zobrazit, upravit nebo odebrat přípojný bod"
 
 #
 msgid "User management"
@@ -19685,10 +19701,10 @@ msgid "Change hostname"
 msgstr "Název přijímače v síti"
 
 msgid "Change the hostname of your STB."
-msgstr ""
+msgstr "změnit název hosta pro přihlášení"
 
 msgid "Enter new hostname for your STB"
-msgstr ""
+msgstr "zadat název hosta pro přihlášení"
 
 #
 msgid ""
@@ -19948,56 +19964,56 @@ msgstr ""
 
 #: ..\src/plugin.py:86
 msgid "keep on device"
-msgstr ""
+msgstr "ponechat v zařízení"
 
 #: ..\src/plugin.py:86
 msgid "ask me"
-msgstr ""
+msgstr "dotaz..."
 
 #: ..\src/plugin.py:169
 #, python-format
 msgid "Downloading movie: %s"
-msgstr ""
+msgstr "stáhnout video : %s"
 
 #: ..\src/plugin.py:254
 msgid "Delete this movie?"
-msgstr ""
+msgstr "odebrat toto video ?"
 
 #: ..\src/plugin.py:296
 msgid "Error getting movies"
-msgstr ""
+msgstr "chyba při načtení videa"
 
 #: ..\src/plugin.py:304
 msgid "Length"
-msgstr ""
+msgstr "délka"
 
 #: ..\src/plugin.py:430
 msgid "No Feedly configuration"
-msgstr ""
+msgstr "konfigurace není dostupná"
 
 #: ..\src/plugin.py:535
 msgid "Buffer:"
-msgstr ""
+msgstr "buffer : "
 
 #: ..\src/plugin.py:536
 msgid "Buffer device:"
-msgstr ""
+msgstr "buffer zařízení : "
 
 #: ..\src/plugin.py:537
 msgid "Buffer file handling:"
-msgstr ""
+msgstr "soubor v bufferu : "
 
 #: ..\src/plugin.py:590 ..\src/plugin.py:596
 msgid "from xml"
-msgstr ""
+msgstr "ze .xml"
 
 #: ..\src/plugin.py:591 ..\src/plugin.py:598
 msgid "Feedly OPML"
-msgstr ""
+msgstr "Feedly OPML"
 
 #: ..\src/KTmain.py:40 ..\src/KTmain.py:42
 msgid "??:??"
-msgstr ""
+msgstr "??:??"
 
 #: ..\src/KTmain.py:172
 msgid ""
@@ -20005,42 +20021,45 @@ msgid ""
 "Box has not been shudown correctly. \n"
 "Remaining time was set to 0."
 msgstr ""
+"Detekovaný pokus o podvod. \n"
+"Box nebyl korektně vypnutý. \n"
+"Zbývající čas byl nastavený na 0."
 
 #: ..\src/KTmain.py:185
 msgid "Do you want to start the kiddytimer- plugin now."
-msgstr ""
+msgstr "chcete nyní spustit modul kiddytimer"
 
 #: ..\src/KTmain.py:325
 msgid "Stop KiddyTimer (this session only)"
-msgstr ""
+msgstr "zastavit kiddytimer (pouze zde)"
 
 #: ..\src/KTmain.py:326
 msgid "Increase remaining time"
-msgstr ""
+msgstr "zvýšit zbývající čas"
 
 #: ..\src/KTmain.py:327
 msgid "Decrease remaining time"
-msgstr ""
+msgstr "snížit zbývající čas"
 
 #: ..\src/KTmain.py:328
 msgid "Set remaining time"
-msgstr ""
+msgstr "nastavit zbývající čas"
 
 #: ..\src/KTmain.py:329
 msgid "Reset todays remaining time"
-msgstr ""
+msgstr "reset dnešního zbývajícího času"
 
 #: ..\src/KTmain.py:331
 msgid "Start KiddyTimer"
-msgstr ""
+msgstr "start KiddyTimer"
 
 #: ..\src/KTmain.py:332 ..\src/KTmain.py:336
 msgid "Enable KiddyTimer for x minutes"
-msgstr ""
+msgstr "povolit KiddyTimer po x minut"
 
 #: ..\src/KTmain.py:333
 msgid "Disable KiddyTimer"
-msgstr ""
+msgstr "vypnout KiddyTimer"
 
 #: ..\src/KTmain.py:335
 msgid "Enable KiddyTimer"
@@ -20048,404 +20067,408 @@ msgstr ""
 
 #: ..\src/KTmain.py:337
 msgid "Please select your KiddyTimer- option"
-msgstr ""
+msgstr "vyberte volbu KiddyTimer"
 
 #: ..\src/KTmain.py:353
 msgid "Invalid selection"
-msgstr ""
+msgstr "chybný výběr"
 
 #: ..\src/KTpositioner.py:19 ..\src/KTpositioner.py:21 ..\src/KTsetup.py:147
 #: ..\src/KTsetup.py:149
 msgid "01:00"
-msgstr ""
+msgstr "01:00"
 
 #: ..\src/KTsetup.py:52
 msgid "PIN"
-msgstr ""
+msgstr "pin"
 
 #: ..\src/KTsetup.py:53
 msgid "Don't monitor TV started before"
-msgstr ""
+msgstr "nemonitorovat TV před spuštěním"
 
 #: ..\src/KTsetup.py:54
 msgid "Don't monitor TV started after"
-msgstr ""
+msgstr "nemonitorovat TV po spuštění"
 
 #: ..\src/KTsetup.py:55
 msgid "Style of timer"
-msgstr ""
+msgstr "styl časovače"
 
 #: ..\src/KTsetup.py:56
 msgid "Timeout for activation dialog"
-msgstr ""
+msgstr "překročení čas.limitu dialogu"
 
 #: ..\src/KTsetup.py:78 ..\src/KTsetup.py:116
 #, python-format
 msgid "Remaining time: %s"
-msgstr ""
+msgstr "zbývající čas : %s"
 
 #: ..\src/KTsetup.py:79
 #, python-format
 msgid "Last day started: %s"
-msgstr ""
+msgstr "poslední den spuštění : %s"
 
 #: ..\src/KTsetup.py:84
 msgid "Reset clock"
-msgstr ""
+msgstr "reset hodin"
 
 #: ..\src/KTsetup.py:85
 msgid "Move clock"
-msgstr ""
+msgstr "přesunout hodiny"
 
 #: ..\src/MovableScreen.py:17 ..\src/MovableScreen.py:24
 msgid "Save values and close screen"
-msgstr ""
+msgstr "uložit hodnoty a zavřít obraz"
 
 #: ..\src/MovableScreen.py:18 ..\src/MovableScreen.py:23
 msgid "Discard changes and close screen"
-msgstr ""
+msgstr "zrušit změny a zavřít obraz"
 
 #: ..\src/MovableScreen.py:19
 msgid "Move screen to the left"
-msgstr ""
+msgstr "posunout obraz vlevo"
 
 #: ..\src/MovableScreen.py:20
 msgid "Move screen to the right"
-msgstr ""
+msgstr "posunout obraz vpravo"
 
 #: ..\src/MovableScreen.py:21
 msgid "Move screen up"
-msgstr ""
+msgstr "posunout obraz nahoru"
 
 #: ..\src/MovableScreen.py:22
 msgid "Move screen down"
-msgstr ""
+msgstr "posunout obraz dolů"
 
 #: ..\src/MovableScreen.py:25
 msgid "Move screen to the upper left corner"
-msgstr ""
+msgstr "posunout obraz do horního levého rohu"
 
 #: ..\src/MovableScreen.py:26
 msgid "Center screen at the upper border"
-msgstr ""
+msgstr "obraz na střed horního rámečku"
 
 #: ..\src/MovableScreen.py:27
 msgid "Move screen to the upper right corner"
-msgstr ""
+msgstr "posunout obraz do horního pravého rohu"
 
 #: ..\src/MovableScreen.py:28
 msgid "Move screen to the middle of the left border"
-msgstr ""
+msgstr "obraz na střed levého rámečku"
 
 #: ..\src/MovableScreen.py:29
 msgid "Move screen to the center of your TV"
-msgstr ""
+msgstr "obraz na střed TV"
 
 #: ..\src/MovableScreen.py:30
 msgid "Move screen to the middle of the right border"
-msgstr ""
+msgstr "obraz na střed pravého rámečku"
 
 #: ..\src/MovableScreen.py:31
 msgid "Move screen to the lower left corner"
-msgstr ""
+msgstr "posunout obraz do spodního levého rohu"
 
 #: ..\src/MovableScreen.py:32
 msgid "Center screen at the lower border"
-msgstr ""
+msgstr "obraz na střed spodního rámečku"
 
 #: ..\src/MovableScreen.py:33
 msgid "Move screen to the lower right corner"
-msgstr ""
+msgstr "posunout obraz do spodního pravého rohu"
 
 #: ..\src/MovableScreen.py:34
 msgid "Reset saved position"
-msgstr ""
+msgstr "reset uložené pozice"
 
 #: ..\src/plugin.py:16
 msgid "Clock"
-msgstr ""
+msgstr "hodiny"
 
 #: ..\src/plugin.py:16
 msgid "Smiley"
-msgstr ""
+msgstr "smiley"
 
 #: ..\src/plugin.py:54 ..\src/plugin.py:55
 msgid "KiddyTimer"
-msgstr ""
+msgstr "KiddyTimer"
 
 #: ..\src/plugin.py:55
 msgid "Allows to controls your kids' daily TV usage"
-msgstr ""
+msgstr "povolit ovládání pro děti"
 
 #: ../src/CurlyTx.py:82
 msgid "Scroll page contents up"
-msgstr ""
+msgstr "posunout o stránku nahoru"
 
 #: ../src/CurlyTx.py:85
 msgid "Scroll page contents down"
-msgstr ""
+msgstr "posunout o stránku dolů"
 
 #: ../src/CurlyTx.py:88
 msgid "Show HTTP response headers"
-msgstr ""
+msgstr "zobrazit HTTP odezvu záhlaví"
 
 #: ../src/CurlyTx.py:91
 msgid "Show program settings"
-msgstr ""
+msgstr "zobrazit nastavení programu"
 
 #: ../src/CurlyTx.py:94
 msgid "Reload current page URL"
-msgstr ""
+msgstr "znovu načíst akt.stránku URL"
 
 #: ../src/CurlyTx.py:97
 msgid "Switch to next configured page URL"
-msgstr ""
+msgstr "přepnout na další konfig.stránku URL"
 
 #: ../src/CurlyTx.py:100
 msgid "Switch to previous configured page URL"
-msgstr ""
+msgstr "přepnout na předchozí konfig.stránku URL"
 
 #: ../src/CurlyTx.py:103 ../src/CurlyTx.py:106
 msgid "Close window"
-msgstr ""
+msgstr "zavřít okno"
 
 #: ../src/CurlyTx.py:109
 msgid "Show this help screen"
-msgstr ""
+msgstr "zobrazit nápovědu"
 
 #: ../src/CurlyTx.py:168
 msgid "Invalid page"
-msgstr ""
+msgstr "chybná stránka"
 
 #: ../src/CurlyTx.py:183
 msgid "Loading ..."
-msgstr ""
+msgstr "načítám..."
 
 #: ../src/CurlyTx.py:196
 msgid "Error fetching URL:"
-msgstr ""
+msgstr "chyba stránky URL : "
 
 #: ../src/CurlyTx.py:201
 msgid "Go and add a page in the settings"
-msgstr ""
+msgstr "přejít na stránku a uložit ji"
 
 #: ../src/CurlyTx.py:209
 msgid "HTTP response headers for"
-msgstr ""
+msgstr "odezva HTTP hlavičky pro "
 
 #: ../src/CurlyTxSettings.py:64
 msgid "Page:"
-msgstr ""
+msgstr "stránka : "
 
 #: ../src/CurlyTxSettings.py:68
 msgid "Default page"
-msgstr ""
+msgstr "předvolená stránky"
 
 #: ../src/CurlyTxSettings.py:69
 msgid "Show in main menu"
-msgstr ""
+msgstr "zobrazit v hl.menu"
 
 #: ../src/CurlyTxSettings.py:70
 msgid "Show in extensions menu"
-msgstr ""
+msgstr "zobrazit v rozšířeném menu"
 
 #: ../src/CurlyTxSettings.py:71
 msgid "Menu title"
-msgstr ""
+msgstr "záhlaví menu"
 
 #: ../src/CurlyTxSettings.py:72
 msgid "Page feed URL"
-msgstr ""
+msgstr "URL stránka zásobníku"
 
 #: ../src/CurlyTxSettings.py:78
 msgid "Dismiss all setting changes"
-msgstr ""
+msgstr "zrušit všechny změny v nastavení"
 
 #: ../src/CurlyTxSettings.py:81
 msgid "Save settings and close screen"
-msgstr ""
+msgstr "uložit nastavení a zavřít okno"
 
 #: ../src/CurlyTxSettings.py:84
 msgid "Edit selected page"
-msgstr ""
+msgstr "upravit vybranou stránku"
 
 #: ../src/CurlyTxSettings.py:87
 msgid "Load pages from feed"
-msgstr ""
+msgstr "načíst stránku ze zásobníku"
 
 #: ../src/CurlyTxSettings.py:90
 msgid "Add new page"
-msgstr ""
+msgstr "přidat novou stránku"
 
 #: ../src/CurlyTxSettings.py:93
 msgid "Delete selected page"
-msgstr ""
+msgstr "odebrat vybranou stránku"
 
 #: ../src/CurlyTxSettings.py:110
 msgid ""
 "Really delete this page?\n"
 "It cannot be recovered!"
 msgstr ""
+"chcete stránku odebrat ?\n"
+"nepůjde ale obnovit !"
 
 #: ../src/CurlyTxSettings.py:143
 msgid "No page feed URL defined"
-msgstr ""
+msgstr "URL stránka není z zásobníku defonována"
 
 #: ../src/CurlyTxSettings.py:173
 msgid "Error loading page feed:"
-msgstr ""
+msgstr "chyba načtení strínky : "
 
 #: ../src/CurlyTxSettings.py:221
 msgid "Page URL"
-msgstr ""
+msgstr "URL stránka"
 
 #: ../src/CurlyTxSettings.py:223
 msgid "Font size"
-msgstr ""
+msgstr "velikost fontu"
 
 #: ../src/plugin.py:36 ../src/plugin.py:43
 msgid "View remote text files"
-msgstr ""
+msgstr "zobrazit vzdálené txt soubory"
 
 #: ../src/plugin.py:28
 msgid "Automatically zaps back to current service after given Time"
-msgstr ""
+msgstr "aut.přepnout zpět na aktuální kanál po zadaném času"
 
 #: ../src/WerbeZapper.py:55
 msgid "Custom"
-msgstr ""
+msgstr "uživatelský"
 
 #: ../src/WerbeZapper.py:81
 msgid "How many minutes to wait until zapping back?"
-msgstr ""
+msgstr "kolik min.čekat před přepnutím zpět ?"
 
 #: ../src/WerbeZapper.py:38
 msgid ""
 "Timer already running.\n"
 "Stop it?"
 msgstr ""
+"čas již běží.\n"
+"zastavit ho ?"
 
 #: ../src/WerbeZapper.py:47
 msgid "When to Zap back?"
-msgstr ""
+msgstr "kdy se vrátit zpět ?"
 
 #: ../src/WerbeZapper.py:104
 #, python-format
 msgid "Zapping back in %d Minutes"
-msgstr ""
+msgstr "přepnout zpět za %d min."
 
 #: ../src/InternetRadioSetup.py:50
 msgid "Show in extension menu:"
-msgstr ""
+msgstr "zobrazit v rozšířeném menu : "
 
 #: ../src/InternetRadioSetup.py:51
 msgid "Visualization"
-msgstr ""
+msgstr "vizualizace"
 
 #: ../src/InternetRadioSetup.py:52
 msgid "Fullscreen Layout"
-msgstr ""
+msgstr "přes celou obrazovku"
 
 #: ../src/InternetRadioSetup.py:53
 msgid "Fullscreen auto activation"
-msgstr ""
+msgstr "aut.aktivovat celou obrazovku"
 
 #: ../src/InternetRadioSetup.py:54
 msgid "Show cover arts"
-msgstr ""
+msgstr "zobrazit potisk"
 
 #: ../src/InternetRadioSetup.py:55
 msgid "Rip to single file, name is timestamped"
-msgstr ""
+msgstr "zkopírovat do jednoho souboru, do názvu časové razítko"
 
 #: ../src/InternetRadioSetup.py:56
 msgid "Create a directory for each stream"
-msgstr ""
+msgstr "založit složku pro každé sdílení"
 
 #: ../src/InternetRadioSetup.py:57
 msgid "Add sequence number to output file"
-msgstr ""
+msgstr "přidat pořadové číslo k výstup.souboru"
 
 #: ../src/InternetRadioSetup.py:59
 msgid "Recording location:"
-msgstr ""
+msgstr "složka pro nahrávání : "
 
 #: ../src/plugin.py:34 ../src/InternetRadioList.py:50
 #: ../src/InternetRadioScreen.py:312 ../src/InternetRadioScreen.py:570
 #: ../src/InternetRadioScreen.py:605 ../src/InternetRadioScreen.py:678
 #: ../src/InternetRadioScreen.py:783 ../src/InternetRadioScreen.py:855
 msgid "Countries"
-msgstr ""
+msgstr "země"
 
 #: ../src/plugin.py:38
 msgid "Screen and OLED"
-msgstr ""
+msgstr "obraz a OLED"
 
 #: ../src/plugin.py:38
 msgid "OLED only"
-msgstr ""
+msgstr "pouze OLED"
 
 #: ../src/plugin.py:38
 msgid "Screen only"
-msgstr ""
+msgstr "pouze obraz"
 
 #: ../src/plugin.py:42
 msgid "1 minutes"
-msgstr ""
+msgstr "1 minuta"
 
 #: ../src/plugin.py:42
 msgid "3 minutes"
-msgstr ""
+msgstr "3 minuty"
 
 #: ../src/plugin.py:43
 msgid "Visualization and Text"
-msgstr ""
+msgstr "vizualizace a text"
 
 #: ../src/plugin.py:43
 msgid "Text only"
-msgstr ""
+msgstr "pouze text"
 
 #: ../src/plugin.py:43
 msgid "Blank"
-msgstr ""
+msgstr "prázdné"
 
 #: ../src/plugin.py:70 ../src/plugin.py:72
 msgid "listen to internet-radio"
-msgstr ""
+msgstr "poslouchat internetové rádio"
 
 #: ../src/InternetRadioList.py:48 ../src/InternetRadioScreen.py:312
 #: ../src/InternetRadioScreen.py:676
 msgid "Genres"
-msgstr ""
+msgstr "žánry"
 
 #: ../src/InternetRadioList.py:51
 msgid "Filter:"
-msgstr ""
+msgstr "filtr : "
 
 #: ../src/InternetRadioInformationScreen.py:70
 msgid "Streaming Information"
-msgstr ""
+msgstr "info sdílení"
 
 #: ../src/InternetRadioScreen.py:253
 msgid "Stations"
-msgstr ""
+msgstr "stanice"
 
 #: ../src/InternetRadioScreen.py:254
 msgid "Favorites"
-msgstr ""
+msgstr "favorit"
 
 #: ../src/InternetRadioScreen.py:339 ../src/InternetRadioScreen.py:533
 msgid "Stop record"
-msgstr ""
+msgstr "zastavit nahrávání"
 
 #: ../src/InternetRadioScreen.py:341
 msgid "Recording stream station"
-msgstr ""
+msgstr "stanice pro nahrávání"
 
 #: ../src/InternetRadioScreen.py:405 ../src/InternetRadioScreen.py:696
 #, python-format
 msgid "Getting streaming data from %s"
-msgstr ""
+msgstr "získat sdílená data z %s"
 
 #: ../src/InternetRadioScreen.py:474
 #, python-format
@@ -20453,199 +20476,201 @@ msgid ""
 "Getting streaming data from\n"
 "%s"
 msgstr ""
+"získat sdílená data z \n"
+" %s"
 
 #: ../src/InternetRadioScreen.py:541
 msgid "Do you really want to stop the recording?"
-msgstr ""
+msgstr "zastavit nahrávání ?"
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Recording length"
-msgstr ""
+msgstr "délka nahrávání"
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Enter in minutes (0 means unlimited)"
-msgstr ""
+msgstr "zadání v min. (0=bez limitu) "
 
 #: ../src/InternetRadioScreen.py:546
 msgid "Only running streamings can be recorded!"
-msgstr ""
+msgstr "nahrát pouze běžící záznamy !"
 
 #: ../src/InternetRadioScreen.py:552 ../src/InternetRadioScreen.py:601
 #, python-format
 msgid "InternetRadio filter list (%s)"
-msgstr ""
+msgstr "InternetRadio - filtr seznamu (%s)"
 
 #: ../src/InternetRadioScreen.py:571 ../src/InternetRadioScreen.py:641
 #: ../src/InternetRadioScreen.py:782
 msgid "All Countries"
-msgstr ""
+msgstr "všechny země"
 
 #: ../src/InternetRadioScreen.py:573 ../src/InternetRadioScreen.py:629
 #: ../src/InternetRadioScreen.py:782
 msgid "All Genres"
-msgstr ""
+msgstr "všechny žánry"
 
 #: ../src/InternetRadioScreen.py:581
 msgid "Favorite list"
-msgstr ""
+msgstr "seznam oblíbených"
 
 #: ../src/InternetRadioScreen.py:589
 #, python-format
 msgid "Getting InternetRadio %s list..."
-msgstr ""
+msgstr "načíst InternetRadio ze %s seznamu..."
 
 #: ../src/InternetRadioScreen.py:616
 #, python-format
 msgid "%s..."
-msgstr ""
+msgstr "%s..."
 
 #: ../src/InternetRadioScreen.py:749
 msgid "No streaming data found..."
-msgstr ""
+msgstr "data pro sdílení nejsou dostupná..."
 
 #: ../src/InternetRadioScreen.py:752
 #, python-format
 msgid "InternetRadio station list for filter: %s"
-msgstr ""
+msgstr "InternetRadio stanice, filtr : %s"
 
 #: ../src/InternetRadioScreen.py:754
 #, python-format
 msgid "Getting %s"
-msgstr ""
+msgstr "načíst %s"
 
 #: ../src/InternetRadioScreen.py:804
 msgid "Config"
-msgstr ""
+msgstr "konfigurace"
 
 #: ../src/InternetRadioScreen.py:806
 msgid "rename current selected favorite"
-msgstr ""
+msgstr "přejmenovat aktuálního favorita"
 
 #: ../src/InternetRadioScreen.py:807
 msgid "remove current selected favorite"
-msgstr ""
+msgstr "přejmenovat aktuálně vybraného favorita"
 
 #: ../src/InternetRadioScreen.py:809
 msgid "do not play a service on startup"
-msgstr ""
+msgstr "nespouštět kanál po startu"
 
 #: ../src/InternetRadioScreen.py:811
 msgid "play current selected favorite on startup"
-msgstr ""
+msgstr "přehrát aktuálně vybraného favorita po startu"
 
 #: ../src/InternetRadioScreen.py:813
 msgid "Add current selected genre to favorite"
-msgstr ""
+msgstr "přidat aktuálně vybraný žánr k oblíbeným"
 
 #: ../src/InternetRadioScreen.py:815
 msgid "Add current selected station to favorite"
-msgstr ""
+msgstr "přidat aktuálně vybranou stanici k oblíbeným"
 
 #: ../src/InternetRadioScreen.py:817
 msgid "Add current playing stream to favorite"
-msgstr ""
+msgstr "přidat aktuálně spuštěné sdílení k oblíbeným""
 
 #: ../src/InternetRadioScreen.py:818
 msgid "Fullscreen"
-msgstr ""
+msgstr "na celou obrazovku"
 
 #: ../src/InternetRadioScreen.py:820
 msgid "Show TV"
-msgstr ""
+msgstr "zobrazit TV"
 
 #: ../src/InternetRadioScreen.py:872
 msgid "Enter new name for favorite item"
-msgstr ""
+msgstr "zadat nový oblíbený název"
 
 #: ../src/InternetRadioScreen.py:890
 msgid "Enter text to search for"
-msgstr ""
+msgstr "zadat text pro hledání"
 
 #: ../src/InternetRadioScreen.py:894
 #, python-format
 msgid "InternetRadio station list for search-criteria: %s"
-msgstr ""
+msgstr "stanice InternetRadia, kritéria hledání : %s"
 
 #: ../src/InternetRadioScreen.py:896
 #, python-format
 msgid "Searching InternetRadio for %s..."
-msgstr ""
+msgstr "hledat InternetRadio pro %s..."
 
 #: ../src/InternetRadioScreen.py:913
 #, python-format
 msgid "%s ..."
-msgstr ""
+msgstr "%s ..."
 
 #: ../src/InternetRadioScreen.py:964
 msgid "Title: n/a"
-msgstr ""
+msgstr "titulek : n/a"
 
 #: ../src/InternetRadioScreen.py:999
 msgid "nothing playing..."
-msgstr ""
+msgstr "nic se nepřehrává..."
 
 #: ../src/InternetRadioOledDisplay.py:123
 msgid "Internet Radio"
-msgstr ""
+msgstr "internet Radio"
 
 #: ../src/plugin.py:383 ../src/plugin.py:384
 msgid "No OFDb match."
-msgstr ""
+msgstr "OFDb není dostupné"
 
 #: ../src/plugin.py:400 ../src/plugin.py:469
 msgid "OFDb Details parsed"
-msgstr ""
+msgstr "detaily z OFDb"
 
 #: ../src/plugin.py:358
 msgid "OFDb Download completed"
-msgstr ""
+msgstr "načtení z OFDb je kompletní"
 
 #: ../src/plugin.py:331
 msgid "OFDb Download failed"
-msgstr ""
+msgstr "načtení z OFDb selhalo"
 
 #: ../src/plugin.py:498
 msgid "OFDb Plugin"
-msgstr ""
+msgstr "modul OFDb"
 
 #: ../src/plugin.py:389
 msgid "OFDb Re-Download completed"
-msgstr ""
+msgstr "nové načtení z OFDb je kompletní"
 
 #: ../src/plugin.py:386
 msgid "OFDb query failed!"
-msgstr ""
+msgstr "dotaz do OFDb selhal !"
 
 #: ../src/plugin.py:317
 #, python-format
 msgid "Query OFDb: %s..."
-msgstr ""
+msgstr "dotaz OFDb: %s..."
 
 #: ../src/plugin.py:510 ../src/plugin.py:515 ../src/plugin.py:522
 msgid "Query details from the Online-Filmdatenbank"
-msgstr ""
+msgstr "dotaz na detaily z Online-film.databanky"
 
 #: ../src/plugin.py:255
 #, python-format
 msgid "Re-Query OFDb: %s..."
-msgstr ""
+msgstr "dotaz OFDb : %s..."
 
 #: ../src/plugin.py:131
 msgid "The Online-Filmdatenbank"
-msgstr ""
+msgstr "Online-film.databanka"
 
 #: ../src/plugin.py:10
 msgid "eParted"
-msgstr ""
+msgstr "eParted"
 
 #: ../src/plugin.py:10
 msgid "creating and manipulating partition tables"
-msgstr ""
+msgstr "založení a úprava partition tabulky"
 
 #: ../src/eparted.py:102
 #, python-format
 msgid "Error command '%s'"
-msgstr ""
+msgstr "chybný příkaz '%s'"
 
 #: ../src/eparted.py:172
 msgid "partition(s)"
@@ -20653,61 +20678,61 @@ msgstr ""
 
 #: ../src/eparted.py:190
 msgid "add partition"
-msgstr ""
+msgstr "partition"
 
 #: ../src/eparted.py:214
 #, python-format
 msgid "size in %s (max %d %s):"
-msgstr ""
+msgstr "velikost v %s (max. %d %s):"
 
 #: ../src/eparted.py:215
 msgid "filesystem:"
-msgstr ""
+msgstr "soub.systém : "
 
 #: ../src/eparted.py:310
 msgid "Nr"
-msgstr ""
+msgstr "počet"
 
 #: ../src/eparted.py:428
 #, python-format
 msgid "create partition %s"
-msgstr ""
+msgstr "založit partition %s"
 
 #: ../src/eparted.py:444
 #, python-format
 msgid "make filesystem '%s' on partition %s (%d %s)"
-msgstr ""
+msgstr "založit soub.systém '%s' s partition %s (%d %s)"
 
 #: ../src/eparted.py:453
 #, python-format
 msgid "delete partition %s"
-msgstr ""
+msgstr "odebrat partition %s"
 
 #: ../src/eparted.py:486 ../src/eparted.py:518
 msgid "execute"
-msgstr ""
+msgstr "provést"
 
 #: ../src/eparted.py:594
 msgid "Please Wait"
-msgstr ""
+msgstr "čekejte..."
 
 #: src/AC3main.py:57
 msgid "Service delay"
-msgstr ""
+msgstr "zpoždění kanálu"
 
 #: src/AC3main.py:58
 msgid "Global delay"
-msgstr ""
+msgstr "globální zpoždění"
 
 #: src/AC3main.py:62 src/AC3main.py:146 src/AC3main.py:236 src/AC3main.py:240
 #: src/AC3main.py:241
 #, python-format
 msgid "%i ms"
-msgstr ""
+msgstr "%i ms"
 
 #: src/AC3main.py:65
 msgid "Channel audio:"
-msgstr ""
+msgstr "audio kanál : "
 
 #: src/AC3main.py:72
 msgid "Switch audio"
