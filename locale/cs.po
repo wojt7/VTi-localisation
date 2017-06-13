@@ -235,22 +235,22 @@ msgstr ""
 "časovače prázdný!"
 
 msgid "Elektro Power Save"
-msgstr ""
+msgstr "Uložení Elektro Power"
 
 msgid "Automatically shut down to deep standby"
-msgstr ""
+msgstr "Automaticky vypnout"
 
 msgid "Extensions menu"
-msgstr ""
+msgstr "Rozšířené menu"
 
 msgid "Plugin menu"
-msgstr ""
+msgstr "Seznam modulů"
 
 msgid "yes, Profile 1"
-msgstr ""
+msgstr "ano, profil 1"
 
 msgid "yes, Profile 2"
-msgstr ""
+msgstr "ano, profil 2"
 
 #
 msgid "Monday"
@@ -281,28 +281,29 @@ msgid "Sunday"
 msgstr "neděle"
 
 msgid "no Name"
-msgstr ""
+msgstr "bez názvu"
 
 msgid "Connection Error"
-msgstr ""
+msgstr "Chyba připojení"
 
 msgid "Ver."
-msgstr ""
+msgstr "ver."
 
 msgid "Wakeup"
-msgstr ""
+msgstr "Vzbudit"
 
 msgid "Sleep"
-msgstr ""
+msgstr "Uspat"
 
 msgid "Next day starts at"
-msgstr ""
+msgstr "Další den spustit v "
 
 msgid ""
 "If the box is supposed to enter deep standby e.g. monday night at 1 AM, it "
 "actually is already tuesday. To enable this anyway, differing next day start "
 "time can be specified here."
-msgstr ""
+msgstr "Pokud potřebujete box vypnout, např. v pondělí v 1 hod. v noci, "
+"což je už v úterý. Specifikaci času upravíte zde."
 
 #
 msgid "Ok"
@@ -313,10 +314,10 @@ msgid "IP Address"
 msgstr "Adresa IP: "
 
 msgid "please wait..."
-msgstr ""
+msgstr "čekejte..."
 
 msgid "NAS/Server Name or IP"
-msgstr ""
+msgstr "Název NASu/serveru nebo IP"
 
 #
 msgid "Username"
@@ -327,144 +328,151 @@ msgid "Password"
 msgstr "Heslo"
 
 msgid "Command [poweroff, shutdown -h,...]"
-msgstr ""
+msgstr "Příkaz [vypnout, spánek -h,...]"
 
 msgid "Telnet Port"
-msgstr ""
+msgstr "Telnet port"
 
 msgid "Waiting until poweroff"
-msgstr ""
+msgstr "Počkat do vypnutí"
 
 msgid "Run"
-msgstr ""
+msgstr "Spustit"
 
 msgid "Active Time Profile"
-msgstr ""
+msgstr "Aktivní čas.profil"
 
 msgid "The active Time Profile is (1 or 2)."
-msgstr ""
+msgstr "Aktivní čas.profil je (1 nebo 2)"
 
 msgid "Enable Elektro Power Save"
-msgstr ""
+msgstr "Povolit uložení Elektro Power"
 
 msgid "Unless this is enabled, this plugin won't run automatically."
-msgstr ""
+msgstr "Pokud je to povoleno, nebude se modul spouštět automaticky"
 
 msgid "Use both profiles alternately"
-msgstr ""
+msgstr "Použít oba profily střídavě"
 
 msgid ""
 "Both profiles are used alternately. When shutting down the other profile is "
 "enabled. This allows two time cycles per day. Do not overlap the times."
-msgstr ""
+msgstr "Oba profily jsou používány střídavě. Po vypnutí je použit další profil."
+"Povoleny jsou dva cykly za den. Časy nepřekrývat !"
 
 msgid "Standby on boot"
-msgstr ""
+msgstr "Režim spánku po nabootování"
 
 msgid "Puts the box in standby mode after boot."
-msgstr ""
+msgstr "Po nabootování přepne box do režimu spánku"
 
 msgid "Standby on manual boot"
-msgstr ""
+msgstr "Režim spánku po manuálním nabootování"
 
 msgid ""
 "Whether to put the box in standby when booted manually. On manual boot the "
 "box will not go to standby before the next deep standby interval starts, "
 "even if this option is set. This option is only active if 'Standby on boot' "
 "option is set, too."
-msgstr ""
+msgstr "Pokud je box uvedený do spánku po ručním nabootování, nepůjde box"
+"do režimu spánku před dalším intervalem pro vypnutí."
 
 msgid "Standby on boot screen timeout"
-msgstr ""
+msgstr "Do režimu spánku po uplynutí určeného času"
 
 msgid ""
 "Specify how long to show the standby query on boot screen. This value can be "
 "set to ensure the box does not shut down to deep standby again too fast when "
 "in standby mode."
-msgstr ""
+msgstr "Specifikuje, jak dlouho bude zobrazený dotaz na bootování. Hodnota zajišťuje "
+"vypnutí boxu se zpožděním."
 
 msgid "Force sleep (even when not in standby)"
-msgstr ""
+msgstr "Vynucený režim spánku"
 
 msgid ""
 "Forces deep standby, even when not in standby mode. Scheduled recordings "
 "remain unaffected."
-msgstr ""
+msgstr "Vnutit režim spánku, pokud tam není. Naplánované nahrávání tím dotčeno nebude."
 
 msgid "Avoid deep standby when HDD is active, e.g. for FTP"
-msgstr ""
+msgstr "Nepřepínat do režimu spánku, pokud je HDD aktivní - např. FTP"
 
 msgid ""
 "Wait for the HDD to enter sleep mode. Depending on the configuration this "
 "can prevent the box entirely from entering deep standby mode."
-msgstr ""
+msgstr "Počká až se HDD zastaví. V konfiguraci boxu lze vypnutí zakázat."
 
 msgid "Check IPs (press OK to edit)"
-msgstr ""
+msgstr "Kontrola IP (OK -> upravit...)"
 
 msgid ""
 "This list of IP addresses is checked. Elektro waits until addresses no "
 "longer responds to ping."
-msgstr ""
+msgstr "Tento seznam IP adres je kontrolovaný. Elektro čeká, až adresy"
+"nereagují na ping"
 
 msgid "NAS Poweroff (press OK to edit)"
-msgstr ""
+msgstr "Vypnutí NASu (OK -> upravit...)"
 
 msgid "A NAS/Server can be shut down. Is required activated Telnet."
-msgstr ""
+msgstr "NAS/server může být vypnutý. Je nutný aktivní Telnet."
 
 msgid "Don't wake up"
-msgstr ""
+msgstr "Neprobouzet"
 
 msgid "Do not wake up at the end of next deep standby interval."
-msgstr ""
+msgstr "Nebudit na konci dalšího intervalu pro režim spánku"
 
 msgid "Holiday mode (experimental)"
-msgstr ""
+msgstr "Prázdninový mód (experimentální)"
 
 msgid "The box always enters deep standby mode, except for recording."
-msgstr ""
+msgstr "Box se vždy vypne, mimo režim nahrávání"
 
 msgid "Show in"
-msgstr ""
+msgstr "Zobrazit v "
 
 msgid ""
 "Specify whether plugin shall show up in plugin menu or extensions menu "
 "(needs GUI restart)"
-msgstr ""
+msgstr "Specifikuje, zda se modul zobrazí v hl.menu nebo v rozšířeném menu"
+"nutný restart Enigmy2)"
 
 #
 msgid "Name"
 msgstr "Název"
 
 msgid "Specify plugin name to be used in menu (needs GUI restart)."
-msgstr ""
+msgstr "Specifikace názvu moduly použitého v hl.menu"
+"(nutný restart Enigmy2)"
 
 #
 msgid "Description"
 msgstr "Popis"
 
 msgid "Specify plugin description to be used in menu (needs GUI restart)."
-msgstr ""
+msgstr "Specifikace popisu moduly použitého v hl.menu"
+"(nutný restart Enigmy2)"
 
 #
 msgid "Help"
 msgstr "Nápověda"
 
 msgid "Times"
-msgstr ""
+msgstr "Časovače"
 
 msgid "Showing Elektro readme.txt"
-msgstr ""
+msgstr "Zobrazit Elektro readme.txt"
 
 msgid "readme.txt"
-msgstr ""
+msgstr "readme.txt"
 
 msgid "Go to Standby now?"
-msgstr ""
+msgstr "Přepnout do režimu spánku ?"
 
 msgid "Go to sleep now?"
-msgstr ""
+msgstr "Uspat nyní ?"
 
 #
 msgid ""
@@ -5559,27 +5567,27 @@ msgstr "Nastavte tuner \"D\" "
 
 #
 msgid "Please set up tuner E"
-msgstr ""
+msgstr "Nastavte tuner \"E\" "
 
 #
 msgid "Please set up tuner F"
-msgstr ""
+msgstr "Nastavte tuner \"F\" "
 
 #
 msgid "Please set up tuner G"
-msgstr ""
+msgstr "Nastavte tuner \"G\" "
 
 #
 msgid "Please set up tuner H"
-msgstr ""
+msgstr "Nastavte tuner \"H\" "
 
 #
 msgid "Please set up tuner I"
-msgstr ""
+msgstr "Nastavte tuner \"I\" "
 
 #
 msgid "Please set up tuner J"
-msgstr ""
+msgstr "Nastavte tuner \"J\" "
 
 #
 msgid "Please setup your tuner configuration."
@@ -6826,7 +6834,7 @@ msgstr "Nastavení - časovače nahrávání"
 
 #
 msgid "Setup - Timeshift"
-msgstr ""
+msgstr "Nastavení - Timeshift"
 
 #
 msgid "Setup - Service List"
@@ -7411,7 +7419,7 @@ msgstr "Zelené uživ.tlačítko (seznam programů)"
 
 #
 msgid "Subservices"
-msgstr "Programy"
+msgstr "Pod-kanály"
 
 #
 msgid "Subtitle selection"
@@ -12140,19 +12148,19 @@ msgstr "5 sek."
 
 #
 msgid "6 seconds"
-msgstr ""
+msgstr "6 sek."
 
 #
 msgid "7 seconds"
-msgstr ""
+msgstr "7 sek."
 
 #
 msgid "8 seconds"
-msgstr ""
+msgstr "8 sek."
 
 #
 msgid "9 seconds"
-msgstr ""
+msgstr "9 sek."
 
 #
 msgid "10 seconds"
@@ -12617,15 +12625,15 @@ msgstr "Restart FCC"
 
 #
 msgid "Show build in SecondInfobar"
-msgstr ""
+msgstr "Zobrazit sestavu v SecondInfobaru"
 
 #
 msgid "SecondInfobar timeout"
-msgstr ""
+msgstr "SecondInfobar - čas zobrazení"
 
 #
 msgid "same as Infobar"
-msgstr ""
+msgstr "Stejně jako hl.info-panel"
 
 #
 msgid "Use cross left/right buttons for bouquet change in service list"
