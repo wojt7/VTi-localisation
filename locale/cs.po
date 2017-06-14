@@ -20736,240 +20736,242 @@ msgstr "audio kanál : "
 
 #: src/AC3main.py:72
 msgid "Switch audio"
-msgstr ""
+msgstr "přepnout audio"
 
 #: src/AC3main.py:73
 msgid "Save to key"
-msgstr ""
+msgstr "uložit tlačítko"
 
 #: src/AC3main.py:78
 msgid "Open plugin menu"
-msgstr ""
+msgstr "otevřít menu modulu"
 
 #: src/AC3main.py:79 src/AC3main.py:86
 msgid "Save values and close plugin"
-msgstr ""
+msgstr "uložit data a zavřít modul"
 
 #: src/AC3main.py:80 src/AC3main.py:85
 msgid "Discard changes and close plugin"
-msgstr ""
+msgstr "zrušit změny a zavřít modul"
 
 #: src/AC3main.py:81 src/AC3main.py:82
 msgid "Change active delay"
-msgstr ""
+msgstr "změnit aktivní zpoždění"
 
 #: src/AC3main.py:83
 msgid "Increase delay"
-msgstr ""
+msgstr "zvýšit zpoždní"
 
 #: src/AC3main.py:84
 msgid "Decrease delay"
-msgstr ""
+msgstr "snížit zpoždění"
 
 #: src/AC3main.py:87
 msgid "Select channel audio"
-msgstr ""
+msgstr "vybrat audio kanál"
 
 #: src/AC3main.py:88
 msgid "Save current delay to key"
-msgstr ""
+msgstr "uložit akt.zpoždění pod tlačítko"
 
 #: src/AC3main.py:89 src/AC3main.py:91 src/AC3main.py:93
 #, python-format
 msgid "Decrease delay by %i ms (can be set)"
-msgstr ""
+msgstr "snížit zpoždění o %i ms"
 
 #: src/AC3main.py:90 src/AC3main.py:92 src/AC3main.py:94
 #, python-format
 msgid "Increase delay by %i ms (can be set)"
-msgstr ""
+msgstr "zvýšit zpoždění o %i ms"
 
 #: src/AC3main.py:95 src/AC3main.py:96 src/AC3main.py:97 src/AC3main.py:98
 #, python-format
 msgid "Set delay to %i ms (can be set)"
-msgstr ""
+msgstr "nastavit zpoždění na %i ms"
 
 #: src/AC3main.py:211
 msgid "Move plugin screen"
-msgstr ""
+msgstr "modul pro posun obrazu"
 
 #: src/AC3main.py:257
 #, python-format
 msgid "Select the key you want to set to %i ms"
-msgstr ""
+msgstr "vybrat tlačítko pro nastavení na %i ms"
 
 #: src/AC3main.py:263
 #, python-format
 msgid "Key %(key)s (current value: %(value)i ms)"
-msgstr ""
+msgstr "tl. %(key)s (akt.hodnota: %(value)i ms)"
 
 #: src/AC3main.py:268
 msgid "Setting key canceled"
-msgstr ""
+msgstr "nastavit tl.pro storno"
 
 #: src/AC3main.py:280
 #, python-format
 msgid "Key %(Key)s successfully set to %(delay)i ms"
-msgstr ""
+msgstr "tl. %(Key)s úspěšně nastaveno na %(delay)i ms"
 
 #: src/AC3setup.py:42
 msgid "Outer Bound (+/-)"
-msgstr ""
+msgstr "vnější hranice (+/-)"
 
 #: src/AC3setup.py:43
 msgid "Step in ms for arrow keys"
-msgstr ""
+msgstr "krok v ms pro šipky"
 
 #: src/AC3setup.py:44
 msgid "Wait time in ms before activation:"
-msgstr ""
+msgstr "čas čekání v ms před aktivací : "
 
 #: src/AC3setup.py:45 src/AC3setup.py:46 src/AC3setup.py:47
 #, python-format
 msgid "Step in ms for keys '%s'"
-msgstr ""
+msgstr "krok v ms pro tl. '%s'"
 
 #: src/AC3setup.py:48 src/AC3setup.py:49 src/AC3setup.py:50
 #, python-format
 msgid "Step in ms for key %i"
-msgstr ""
+msgstr "krok v ms pro tl. %i"
 
 #: src/plugin.py:30 src/plugin.py:36 src/plugin.py:38
 msgid "Audio Sync"
-msgstr ""
+msgstr "synchr.audia"
 
 #: src/plugin.py:36 src/plugin.py:38
 msgid "sets the Audio Delay (LipSync)"
-msgstr ""
+msgstr "nastavit zpozdění audia (LipSync)"
 
 #: src/plugin.py:37
 msgid "Audio Sync Setup"
-msgstr ""
+msgstr "nastavit synchr.audia "
 
 #: src/plugin.py:37
 msgid "Setup for the Audio Sync Plugin"
-msgstr ""
+msgstr "nastavit modul pro synchr.audia"
 
 #: ../src/plugin.py:98
 #, python-format
 msgid "%d Feed(s) were added to configuration."
-msgstr ""
+msgstr "%d Feed(s) bylo přidáno do konfigurace"
 
 #: ../src/plugin.py:130
 msgid "A simple to use RSS reader"
-msgstr ""
+msgstr "jednoduché použití RSS čtečky"
 
 #: ../src/RSSSetup.py:27
 msgid "Autoupdate"
-msgstr ""
+msgstr "aut.aktualizace"
 
 #: ../src/RSSScreens.py:97 ../src/RSSScreens.py:172
 msgid "Enclosures"
-msgstr ""
+msgstr "závěry"
 
 #: ../src/RSSScreens.py:361 ../src/RSSScreens.py:387
 msgid "Entries"
-msgstr ""
+msgstr "položky"
 
 #: ../src/RSSScreens.py:92 ../src/RSSScreens.py:167 ../src/RSSScreens.py:271
 #, python-format
 msgid "Entry %s/%s"
-msgstr ""
+msgstr "zadání %s/%s"
 
 #: ../src/RSSScreens.py:28
 msgid ""
 "Error while parsing Feed, this usually means there is something wrong with "
 "it."
-msgstr ""
+msgstr "chyba při kontrole zásobníku, je tam něco špatně s "
 
 #: ../src/RSSPoller.py:82
 msgid "Failed to get subscriptions from Google Reader."
-msgstr ""
+msgstr "selhalo načtení sekce čtečky Google "
 
 #: ../src/RSSPoller.py:64
 msgid "Failed to login to Google Reader."
-msgstr ""
+msgstr "selhalo přihlášení do sekce čtečky Google"
 
 #: ../src/RSSSetup.py:105
 msgid "Feed"
-msgstr ""
+msgstr "zásobník"
 
 #: ../src/RSSScreens.py:362 ../src/RSSScreens.py:388
 #, python-format
 msgid "Feed %s/%s"
-msgstr ""
+msgstr "zásobník %s/%s"
 
 #: ../src/RSSSetup.py:28
 msgid "Feed URI"
-msgstr ""
+msgstr URI zásobníku""
 
 #: ../src/RSSScreens.py:273
 msgid "Feed is empty."
-msgstr ""
+msgstr "zásobník je prázdný"
 
 #: ../src/RSSSetup.py:120
 msgid "Fetch feeds from Google Reader?"
-msgstr ""
+msgstr "cesta k zásobníku čtečky Google"
 
 #: ../src/RSSScreens.py:69
 msgid "Found no Enclosure we can display."
-msgstr ""
+msgstr "žádná uzávěra pro zobrazení"
 
 #: ../src/RSSSetup.py:126
 msgid "Google Password"
-msgstr ""
+msgstr "heslo Google"
 
 #: ../src/RSSSetup.py:125
 msgid "Google Username"
-msgstr ""
+msgstr "uživatel Google"
 
 #: ../src/RSSSetup.py:112
 msgid "Keep running in background"
-msgstr ""
+msgstr "ponechat spuštěné na pozadí"
 
 #: ../src/RSSPoller.py:36
 msgid "New Items"
-msgstr ""
+msgstr "nové položky"
 
 #: ../src/RSSPoller.py:37
 msgid "New Items since last Auto-Update"
-msgstr ""
+msgstr "nové položky z poslední aut.aktualizace"
 
 #: ../src/RSSScreens.py:174
 msgid "No such Item."
-msgstr ""
+msgstr "položka nenalezena"
 
 #: ../src/plugin.py:13
 msgid "Notification"
-msgstr ""
+msgstr "zpráva"
 
 #: ../src/RSSSetup.py:141
 msgid ""
 "Really delete this entry?\n"
 "It cannot be recovered!"
 msgstr ""
+"odebrat položku ?\n"
+"nepůjde to vrátit !"
 
 #: ../src/RSSPoller.py:194
 #, python-format
 msgid "Received %d new news item(s)."
-msgstr ""
+msgstr "přijato %d nových položek"
 
 #: ../src/RSSSetup.py:118
 msgid "Show new Messages as"
-msgstr ""
+msgstr "zobrazit nové hlášení jako "
 
 #: ../src/RSSScreens.py:370
 msgid "Simple RSS Reader"
-msgstr ""
+msgstr "jednoduchá RSS čtečka"
 
 #: ../src/RSSSetup.py:47 ../src/RSSSetup.py:98
 msgid "Simple RSS Reader Setup"
-msgstr ""
+msgstr "nastavení jednoduché RSS čtečky"
 
 #: ../src/RSSScreens.py:117 ../src/RSSScreens.py:263
 #, python-format
 msgid "Simple RSS Reader: %s"
-msgstr ""
+msgstr "jednoduchá RSS čtečka : %s"
 
 #: ../src/RSSPoller.py:125
 #, python-format
@@ -20977,376 +20979,385 @@ msgid ""
 "Sorry, this type of feed is unsupported:\n"
 "%s"
 msgstr ""
+"Sorry, tento typ zásobníku není podporovaný :\n"
+"%s"
 
 #: ../src/RSSSetup.py:109
 msgid "Start automatically with Enigma2"
-msgstr ""
+msgstr "aut.start Enigmy2"
 
 #: ../src/plugin.py:120
 msgid "Subscribe Newsfeed..."
-msgstr ""
+msgstr "podepsat zásobník..."
 
 #: ../src/RSSScreens.py:396
 msgid "Update Feed"
-msgstr ""
+msgstr "zásobník aktualizací"
 
 #: ../src/RSSSetup.py:119
 msgid "Update Interval (min)"
-msgstr ""
+msgstr "interval aktualizací (min.)"
 
 #: ../src/RSSScreens.py:54
 msgid ""
 "Update is being done in Background.\n"
 "Contents will automatically be updated when it's done."
 msgstr ""
+"aktualizace na pozadí,\n"
+"obsah bude aktualizovaný automaticky, pokud je"
 
 #: ../src/plugin.py:139
 msgid "View RSS..."
-msgstr ""
+msgstr "zobrazit RSS..."
 
 #: ../src/RSSScreens.py:409
 msgid "What to do?"
-msgstr ""
+msgstr "jak dál ?"
 
 #: ../src/EPGSearch.py:257 EPGSearch.py:466
 #, python-format
 msgid "Could not read AutoTimer timer list: %s"
-msgstr ""
+msgstr "nelze načíst seznam časovačů : %s"
 
 #: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179 EPGSearch.py:207
 msgid "EPG Search"
-msgstr ""
+msgstr "hledat EPG"
 
 #: ../src/EPGSearch.py:216 EPGSearch.py:260
 msgid "Export selected as AutoTimer"
-msgstr ""
+msgstr "export výběru jako AutoTimer"
 
 #
 # File: ../src/plugin.py, line: 271
 #: ../src/EPGSearch.py:135 EPGSearch.py:146
 msgid "History"
-msgstr ""
+msgstr "historie"
 
 #: ../src/EPGSearch.py:214 EPGSearch.py:258
 msgid "Import from AutoTimer"
-msgstr ""
+msgstr "import z AutoTimer"
 
 #: ../src/EPGSearch.py:209 EPGSearch.py:253
 msgid "Import from EPG"
-msgstr ""
+msgstr "import z EPG"
 
 #: ../src/EPGSearch.py:208 EPGSearch.py:252
 msgid "Import from Timer"
-msgstr ""
+msgstr "import z časovače"
 
 #: ../src/EPGSearch.py:134 EPGSearch.py:145
 msgid "New Search"
-msgstr ""
+msgstr "nové hledání"
 
 #: ../src/EPGSearch.py:298 EPGSearch.py:520
 msgid "No history"
-msgstr ""
+msgstr "chybí historie"
 
 #: ../src/EPGSearch.py:215 EPGSearch.py:259
 msgid "Save search as AutoTimer"
-msgstr ""
+msgstr "uložit hledání jako AutoTimer"
 
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
-msgstr ""
+msgstr "vybrat časovač pro vyhledání"
 
 #: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292 EPGSearch.py:477
 #: EPGSearch.py:514
 msgid "Select text to search for"
-msgstr ""
+msgstr "vybrat text pro vyhledání"
 
 #: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
-msgstr ""
+msgstr "hledám v EPG..."
 
 #: EPGSearch.py:153
 msgid "Edit Search"
-msgstr ""
+msgstr "upravit hledání"
 
 #: EPGSearchSetup.py:39
 msgid "Length of History"
-msgstr ""
+msgstr "délka historie"
 
 #: EPGSearchSetup.py:39
 msgid ""
 "How many entries to keep in the search history at most. 0 disables history "
 "entirely!"
 msgstr ""
+"Max.ponechaných položek historie, 0=zákaz historie !"
 
 #: EPGSearchSetup.py:41
 msgid "Add \"Search\" Button to EPG"
-msgstr ""
+msgstr "přidat tl. \"Hledat\" do EPG"
 
 #: EPGSearchSetup.py:41
 msgid ""
 "If this setting is enabled, the plugin adds a \"Search\" Button to the "
 "regular EPG."
 msgstr ""
+"pokud je povoleno, modul přidá tl. \"Hledat\" k EPG"
 
 #: EPGSearchSetup.py:42
 msgid "Default search type"
-msgstr ""
+msgstr "předvolený typ hledání"
 
 #: EPGSearchSetup.py:42
 msgid "Configure EPG search type"
-msgstr ""
+msgstr "konfigurace typ hledání EPG"
 
 #: EPGSearchSetup.py:43
 msgid "Case sensitive search"
-msgstr ""
+msgstr "rozlišovat velikost písma"
 
 msgid "Perform case sensitive or case intensive EPG searches"
-msgstr ""
+msgstr "rozlišovat velikost písma při hledání v EPG"
 
 #: EPGSearchSetup.py:33 EPGSearchSetup.py:81
 msgid "EPGSearch Setup"
-msgstr ""
+msgstr "nastavit EPGSearch"
 
 #: __init__.py:33 EPGSearch.py:536
 msgid "Extended description"
-msgstr ""
+msgstr "rozšířený popis"
 
 #: __init__.py:34 EPGSearch.py:537
 msgid "Title, short and extended description"
-msgstr ""
+msgstr "krátký titulek a rozšířený popis"
 
 #: __init__.py:32 EPGSearch.py:535
 msgid "Title and short description"
-msgstr ""
+msgstr "titulek a krátký popis"
 
 #: __init__.py:31 EPGSearch.py:534
 msgid "Short description"
-msgstr ""
+msgstr "krátký popis"
 
 #: EPGSearch.py:541
 msgid "Select EPG search typ"
-msgstr ""
+msgstr "vybrat typ hledání v EPG"
 
 #: __init__.py:29
 msgid "Ask before search"
-msgstr ""
+msgstr "jako v předchozím hledání"
 
 #: __init__.py:42
 msgid "any substring"
-msgstr ""
+msgstr "nějaký pod-řetězec"
 
 #: __init__.py:42
 msgid "beginning of a word"
-msgstr ""
+msgstr "začátek slova"
 
 #: __init__.py:42
 msgid "exact match"
-msgstr ""
+msgstr "přesná shoda"
 
 #: EPGSearchSetup.py:40
 msgid "Save any search string in history"
-msgstr ""
+msgstr "uložit hledání do historie"
 
 #: EPGSearchSetup.py:40
 msgid ""
 "Save any search string in history (e.g. searches started via EPG) or only "
 "manually entered/edited search strings."
 msgstr ""
+"uložit hledaný řetězec do historie (např. začátek hledání v EPG) nebo pouze "
+"man. zadání / úprava řetězce"
 
 #: EPGSearchSetup.py:43
 msgid "Perform case sensitive or case insensitive EPG searches"
-msgstr ""
+msgstr "rozlišovat velikost písma nebo ne při hledání v EPG"
 
 #: EPGSearchSetup.py:44
 msgid "Limit \"Search\" to Channels from Bouquet (TV or Radio)"
-msgstr ""
+msgstr "limit \"hledání\" pro kanály ze sady (TV / Radio)"
 
 #: EPGSearchSetup.py:44
 msgid ""
-"If enabled, only search results for Channels within a Bouquet are shown "
-"(either TV or Radio Bouquets)."
+"hledá pouze výsledky pro kanály uvnitř sady kanálů (TV / Radio)"
 msgstr ""
 
 #: EPGSearchSetup.py:45
 msgid "Type of match for search string"
-msgstr ""
+msgstr "typ shody při hledání"
 
 #: EPGSearchSetup.py:45
 msgid "Choose how the search string should match the results."
-msgstr ""
+msgstr "vyberte, jak hledat shodu hledání"
 
 #: EPGSearchSetup.py:46 EPGSearch.py:352
 msgid "Show event short description"
-msgstr ""
+msgstr "zobrazit krátký popis"
 
 #: EPGSearchSetup.py:46
 msgid ""
 "Show the event short description in the result list. Useful when looking for "
 "a certain episode of a TV show."
 msgstr ""
+"zobrazit krátký popis události v seznamu. Užitečné při hledání "
+"určité epizody z TV"
 
 #: EPGSearch.py:192
 msgid "Reset search result list"
-msgstr ""
+msgstr "reset hledání v seznamu"
 
 #: EPGSearch.py:193
 msgid "Remove Channel from result list"
-msgstr ""
+msgstr "odebrat kanály ze seznamu"
 
 #: EPGSearch.py:194
 msgid "Keep only this Channel in result list"
-msgstr ""
+msgstr "ponechat v seznamu pouze kanály "
 
 #: EPGSearch.py:195
 msgid "Remove Event from result list"
-msgstr ""
+msgstr "odebrat události ze seznamu"
 
 #: EPGSearch.py:196
 msgid "Toggle: show event short description in result list"
-msgstr ""
+msgstr "přepnout : stručný popis události v seznamu"
 
 #: EPGSearch.py:197
 msgid "Keep only this Event in result list"
-msgstr ""
+msgstr "ponechat v seznamu pouze tuto událost"
 
 #: EPGSearch.py:198
 msgid "Match of search string: exact, from begin or any substring"
-msgstr ""
+msgstr "shoda ve vyhledání řetězce na začátku"
 
 #: EPGSearch.py:199
 msgid "Toggle: search all Channels or only Channels in Bouquet"
-msgstr ""
+msgstr "přepnout : hledat ve všech kanálech nebo pouze v sadě kanálů"
 
 #: EPGSearch.py:219 EPGSearch.py:374
 msgid "Search all channels"
-msgstr ""
+msgstr "hledat ve všech kanálech"
 
 #: EPGSearch.py:221 EPGSearch.py:376
 msgid "Limit to bouquet"
-msgstr ""
+msgstr "omezení na sadu kanálů"
 
 #: EPGSearch.py:223 EPGSearch.py:367
 msgid "Match any substring"
-msgstr ""
+msgstr "srovnání nějakého řetězce"
 
 #: EPGSearch.py:225 EPGSearch.py:361
 msgid "Match beginning of a word"
-msgstr ""
+msgstr "srovnat záčátek slova"
 
 #: EPGSearch.py:227 EPGSearch.py:364
 msgid "Match exactly"
-msgstr ""
+msgstr "přesná shoda"
 
 #: EPGSearch.py:263
 msgid "Open selected in IMDb"
-msgstr ""
+msgstr "otevřít vybrané v IMDb"
 
 #: EPGSearch.py:350
 msgid "Hide event short description"
-msgstr ""
+msgstr "skrýt krátký popis události"
 
 #: EPGSearch.py:381
 msgid "Filter: remove"
-msgstr ""
+msgstr "filtr : odebrat"
 
 #: EPGSearch.py:383
-msgid "Filter: keep"
-msgstr ""
+msgid "Filter: ponechat"
+msgstr "filtr : "
 
 msgid "Removed all filters"
-msgstr ""
+msgstr "odebrat všechny filtry"
 
 msgid "event"
-msgstr ""
+msgstr "událost"
 
 msgid "channel"
-msgstr ""
+msgstr "kanál"
 
 msgid "Timeout for info pop up"
-msgstr ""
+msgstr "překročení čas.limitu pro info"
 
 msgid "Duration for showing additional information for search filters"
-msgstr ""
+msgstr "délka zobrazení dalších informací pro filtr hledání"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:39
 msgid "disabled at parental lock"
-msgstr ""
+msgstr "deaktivovat rodič.kontrolu"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:72
 msgid "Zap-History Configurator"
-msgstr ""
+msgstr "zap.konfigurátor historie"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:79
 msgid "Enable zap history:"
-msgstr ""
+msgstr "zapnout historii : "
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:80
 msgid "Maximum zap history entries:"
-msgstr ""
+msgstr "max.poče položek historie : "
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:123
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:217
 msgid "Zap-History Browser"
-msgstr ""
+msgstr "procházet historii"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:133
 msgid "Clear"
-msgstr ""
+msgstr "vyčistit"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:135
 msgid "Zap & Close"
-msgstr ""
+msgstr "zap./zavřít"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:54
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Permanent Clock"
-msgstr ""
+msgstr "pevné hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:178
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Deactivate permanent clock"
-msgstr ""
+msgstr "deaktivovat pevné hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:180
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Activate permanent clock"
-msgstr ""
+msgstr "aktivovat pevné hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:181
 msgid "Change permanent clock position"
-msgstr ""
+msgstr "změnit pozici pevných hodin"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Shows the clock permanent on the screen"
-msgstr ""
+msgstr "zobrazit pevné hodiny na obrazovce"
 
 #: ../src/plugin.py:69
 msgid "A video streaming solution based on VLC"
-msgstr ""
+msgstr "sdílení videa přes VLC"
 
 #: ../src/VlcServerConfig.py:318
 msgid "Audio Bitrate"
-msgstr ""
+msgstr "bit.tok audia"
 
 #: ../src/VlcServerConfig.py:320
 msgid "Audio Channels"
-msgstr ""
+msgstr "audio kanály"
 
 #: ../src/VlcServerConfig.py:317
 msgid "Audio Codec"
-msgstr ""
+msgstr "audio kodek"
 
 #: ../src/VlcServerConfig.py:319
 msgid "Audio Samplerate"
-msgstr ""
+msgstr "vzorkovací kmitočet audia"
 
 #: ../src/VlcServerConfig.py:306
 msgid "DVD Device (leave empty for default)"
-msgstr ""
+msgstr "DVD jednotka (předvolena prázdná)"
 
 #: ../src/VlcServerConfig.py:301
 msgid "Enter VLC-Server as FQDN or IP-Address"
-msgstr ""
+msgstr "zadat VLC server jako FQDN nebo IP-adresu"
 
 #: ../src/VlcMediaList.py:186
 #, python-format
@@ -21354,6 +21365,8 @@ msgid ""
 "Error loading filelist into server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"chybné načtení seznamu souborů do serveru %(server)s:\n"
+"%(error)s"
 
 #: ../src/VlcMediaList.py:164
 #, python-format
@@ -21361,6 +21374,8 @@ msgid ""
 "Error loading playlist %(media)s into server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"chybné načtení seznamu přehrávek %(media)s do serveru %(server)s:\n"
+"%(error)s"
 
 #: ../src/VlcMediaList.py:180 ../src/VlcMediaList.py:196
 #: ../src/VlcMediaList.py:201
@@ -21369,6 +21384,8 @@ msgid ""
 "Error loading playlist into server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"chybné načtení seznamu přehrávek do serveru %(server)s:\n"
+"%(error)s"
 
 #: ../src/VlcMediaList.py:127
 #, python-format
@@ -21376,6 +21393,8 @@ msgid ""
 "Error updating filelist from server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"chybná aktualizace seznamu souborů ze serveru %(server)s:\n"
+"%(error)s"
 
 #: ../src/VlcPlayer.py:330 ../src/VlcPlayer.py:365 ../src/VlcPlayer.py:393
 #, python-format
@@ -21383,131 +21402,135 @@ msgid ""
 "Error with VLC server:\n"
 "%s"
 msgstr ""
+"chyba VLC serveru :\n"
+"%s"
 
 #: ../src/VlcMediaList.py:62
 msgid "Filelist"
-msgstr ""
+msgstr "seznam souborů"
 
 #: ../src/VlcServerList.py:80
 msgid "List of known VLC-Server Profiles"
-msgstr ""
+msgstr "seznam známých profilů VLC serveru"
 
 #: ../src/VlcServerConfig.py:305
 msgid "Movie Directory"
-msgstr ""
+msgstr "složka videa"
 
 #: ../src/VlcPlayer.py:445
 msgid "No more files in this directory"
-msgstr ""
+msgstr "ve složce nejsou další soubory"
 
 #: ../src/VlcPlayer.py:472
 msgid "No previous file in this directory"
-msgstr ""
+msgstr "předchozí soubor ve složce není"
 
 #: ../src/VlcPlayer.py:320
 msgid ""
 "No valid Enigma-Service to play a VLC-Stream\n"
 "Check your installation and try again!"
-msgstr ""
+msgstr "zkuste znovu kontrolu instalace"
 
 #: ../src/VlcServerConfig.py:312
 #, python-format
 msgid "Overscan Correction [in %(percentsign)s of Video width]"
-msgstr ""
+msgstr "přeskočit korekci [v %(percentsign)s šířky videa]"
 
 #: ../src/VlcServerList.py:126
 msgid "Really delete this Server?"
-msgstr ""
+msgstr "chcete odebrat server ?"
 
 #: ../src/VlcServerConfig.py:302
 msgid "Server Address"
-msgstr ""
+msgstr "adresa serveru"
 
 #: ../src/VlcServerConfig.py:300
 msgid "Server Profile Name"
-msgstr ""
+msgstr "název profilu serveru"
 
 #: ../src/VlcMediaList.py:57
 msgid "Serverlist"
-msgstr ""
+msgstr "seznam serveru"
 
 #: ../src/VlcServerConfig.py:314
 msgid "Subtitle overlay"
-msgstr ""
+msgstr "překrytí titulků"
 
 #: ../src/VlcServerConfig.py:316
 msgid "Transcode MPEG/DVD Audio"
-msgstr ""
+msgstr "Transcode MPEG/DVD Audio"
 
 #: ../src/VlcServerConfig.py:308
 msgid "Transcode MPEG/DVD Video"
-msgstr ""
+msgstr "překódovat vodeo MPEG/DVD"
 
 #: ../src/VlcServerConfig.py:310
 msgid "Video Bitrate"
-msgstr ""
+msgstr "bit.tok videa"
 
 #: ../src/VlcServerConfig.py:309
 msgid "Video Codec"
-msgstr ""
+msgstr "kodek videa"
 
 #: ../src/VlcServerConfig.py:311
 msgid "Video Norm"
-msgstr ""
+msgstr "norma videa"
 
 #: ../src/VlcServerList.py:83
 msgid "add server"
-msgstr ""
+msgstr "přidat server"
 
 #: ../src/VlcServerList.py:82
 msgid "delete server"
-msgstr ""
+msgstr "odebrat server"
 
 #: ../src/VlcServerList.py:84
 msgid "edit server"
-msgstr ""
+msgstr "upravit server"
 
 #: ../src/VlcMediaList.py:55 ../src/VlcMediaList.py:119
 msgid "filter off"
-msgstr ""
+msgstr "vyp.filtr"
 
 #: ../src/VlcMediaList.py:122
 msgid "filter on"
-msgstr ""
+msgstr "zap.filtr"
 
 #: ../src/VlcMediaList.py:58
 msgid "play DVD"
-msgstr ""
+msgstr "přehrát DVD"
 
 #: ../src/VlcMediaList.py:56
 msgid "refresh"
-msgstr ""
+msgstr "obnovit"
 
 #: ../src/VlcServerList.py:85
 msgid "set default"
-msgstr ""
+msgstr "nastavit předvolbu"
 
 #: ../src/plugin.py:251
 msgid "Add new tag..."
-msgstr ""
+msgstr "přidat novou záložku..."
 
 #: ../src/plugin.py:255
 msgid "Delete all tags..."
-msgstr ""
+msgstr "odebrat všechny záložky..."
 
 #: ../src/plugin.py:253
 msgid "Delete this tag..."
-msgstr ""
+msgstr "odebrat tuto záložku..."
 
 #: ../src/plugin.py:254
 msgid "Delete unused tags"
-msgstr ""
+msgstr "odebrat nepoužité záložky"
 
 #: ../src/plugin.py:237
 msgid ""
 "Do you really want to delete all tags everywhere?\n"
 "(Note that 'Cancel' will not undo this!)"
 msgstr ""
+"odebrat všude všechny záložky ?\n"
+"(nepůjde to vrátit !)"
 
 #: ../src/plugin.py:220
 #, python-format
@@ -21515,14 +21538,16 @@ msgid ""
 "Do you really want to delete tag \"%s\" everywhere?\n"
 "(Note that 'Cancel' will not undo this!)"
 msgstr ""
+"odebrat všude záložky \"%s\" ?\n"
+"(nepůjde to vrátit !)"
 
 #: ../src/plugin.py:77
 msgid "Please enter the new tag"
-msgstr ""
+msgstr "zadejte novou záložku"
 
 #: ../src/plugin.py:252
 msgid "Rename this tag..."
-msgstr ""
+msgstr "přejmenovat záložku..."
 
 #: ../src/plugin.py:200
 #, python-format
@@ -21530,95 +21555,103 @@ msgid ""
 "Replace tag \"%s\" everywhere with:   (Note that 'Cancel' will not undo "
 "this!)"
 msgstr ""
+"nahradit záložku \"%s\" všude s :   (nepůjde to vrátit !)"
 
 #: ../src/plugin.py:25
 msgid "edit tags..."
-msgstr ""
+msgstr "upravit záložky..."
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:81
 msgid "Jump x minutes forward:"
-msgstr ""
+msgstr "skočit x min. dopředu : "
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:83
 msgid "Jump x minutes back:"
-msgstr ""
+msgstr "skočit x min. zpět : "
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:86
 msgid "Go to position:"
-msgstr ""
+msgstr "přejít na pozici : "
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:87
 msgid "Sensibility:"
-msgstr ""
+msgstr "citlivost : "
 
 #: /home/aliabdul/dream/lt/ltteam/trunk/additions/plugins/seekbar/src/plugin.py:88
 msgid "Overwrite left and right buttons:"
-msgstr ""
+msgstr "přepis tl.vlevo / vpravo : "
 
 msgid "AutoTimer Settings"
-msgstr ""
+msgstr "AutoTimer - nastavení"
 
 msgid "Poll automatically"
-msgstr ""
+msgstr "volby aut."
 
 msgid ""
 "Unless this is enabled AutoTimer will NOT automatically look for events "
 "matching your AutoTimers but only when you leave the GUI with the green "
 "button."
 msgstr ""
+"Pokud to není povoleno, nebude AutoTimer aut.hledat shodu událostí "
+"pro AutoTimer, ale až po opuštění grafiky zeleným tlačítkem"
 
 msgid "Startup delay (in min)"
-msgstr ""
+msgstr "zpoždění startu (v min.)"
 
 msgid ""
 "This is the delay in minutes that the AutoTimer will wait on initial launch "
 "to not delay enigma2 startup time."
 msgstr ""
+"Zpoždění před spuštěním časovače v min. Neovlivní to spuštění Enigmy2."
 
 msgid "Poll Interval (in h)"
-msgstr ""
+msgstr "interval volby (v hod.)"
 
 msgid ""
 "This is the delay in hours that the AutoTimer will wait after a search to "
 "search the EPG again."
 msgstr ""
+"zpoždění časovače v hod., kdy čeká na nové hledání v EPG"
 
 msgid "Timeout (in min)"
-msgstr ""
+msgstr "čas.limit (v min.)"
 
 msgid "This is the duration in minutes that the AutoTimer is allowed to run."
-msgstr ""
+msgstr "délka povoleného běhu AutoTimeru"
 
 msgid "Only add timer for next x days"
-msgstr ""
+msgstr "pouze přidat časovač pro x dalších dnů"
 
 msgid ""
 "You can control for how many days in the future timers are added. Set this "
 "to 0 to disable this feature."
 msgstr ""
+"Můžete nastavit, na kolik dnů budou časovače přidány. 0=zablokování"
 
 msgid ""
 "Enable this to be able to access the AutoTimer Overview from within the "
 "extension menu."
 msgstr ""
+"umožní přístup k AutoTimeru z rozšířeného menu"
 
 msgid "Modify existing timers"
-msgstr ""
+msgstr "upravit existující časovače"
 
 msgid "This setting controls the behavior when a timer matches a found event."
-msgstr ""
+msgstr "nastavení způsobu odezvy časovače na nalezené události"
 
 msgid "Guess existing timer based on begin/end"
-msgstr ""
+msgstr "odhad časovače podle začátku / konce"
 
 #, python-format
 msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80% of the it."
 msgstr ""
+"volba umožní považovat záznam události za hotový, je-li již z 80% nahraný"
 
 msgid "Add similar timer on conflict"
-msgstr ""
+msgstr "při konfliktu přidat podobný časovač"
 
 msgid ""
 "If a timer conflict occurs, AutoTimer will search outside the timespan for a "
