@@ -20084,19 +20084,19 @@ msgstr "pin"
 
 #: ..\src/KTsetup.py:53
 msgid "Don't monitor TV started before"
-msgstr "nemonitorovat TV před spuštěním"
+msgstr "nehlídat TV spuštěnou předtím"
 
 #: ..\src/KTsetup.py:54
 msgid "Don't monitor TV started after"
-msgstr "nemonitorovat TV po spuštění"
+msgstr "nehlídat TV spuštěnou později "
 
 #: ..\src/KTsetup.py:55
 msgid "Style of timer"
-msgstr "styl časovače"
+msgstr "vzhled časovačů"
 
 #: ..\src/KTsetup.py:56
 msgid "Timeout for activation dialog"
-msgstr "překročení čas.limitu dialogu"
+msgstr "doba zobrazení pro dialog aktivace"
 
 #: ..\src/KTsetup.py:78 ..\src/KTsetup.py:116
 #, python-format
@@ -20106,7 +20106,7 @@ msgstr "zbývající čas : %s"
 #: ..\src/KTsetup.py:79
 #, python-format
 msgid "Last day started: %s"
-msgstr "poslední den spuštění : %s"
+msgstr "naposledy spuštěno : %s"
 
 #: ..\src/KTsetup.py:84
 msgid "Reset clock"
@@ -20118,63 +20118,63 @@ msgstr "přesunout hodiny"
 
 #: ..\src/MovableScreen.py:17 ..\src/MovableScreen.py:24
 msgid "Save values and close screen"
-msgstr "uložit hodnoty a zavřít obraz"
+msgstr "uložit a zavřít okno"
 
 #: ..\src/MovableScreen.py:18 ..\src/MovableScreen.py:23
 msgid "Discard changes and close screen"
-msgstr "zrušit změny a zavřít obraz"
+msgstr "zrušit změny a okno zavřít"
 
 #: ..\src/MovableScreen.py:19
 msgid "Move screen to the left"
-msgstr "posunout obraz vlevo"
+msgstr "posunout panel vlevo"
 
 #: ..\src/MovableScreen.py:20
 msgid "Move screen to the right"
-msgstr "posunout obraz vpravo"
+msgstr "posunout panel doprava"
 
 #: ..\src/MovableScreen.py:21
 msgid "Move screen up"
-msgstr "posunout obraz nahoru"
+msgstr "posunout panel nahoru"
 
 #: ..\src/MovableScreen.py:22
 msgid "Move screen down"
-msgstr "posunout obraz dolů"
+msgstr "posunout panel dolů"
 
 #: ..\src/MovableScreen.py:25
 msgid "Move screen to the upper left corner"
-msgstr "posunout obraz do horního levého rohu"
+msgstr "posunout panel na horní levý roh"
 
 #: ..\src/MovableScreen.py:26
 msgid "Center screen at the upper border"
-msgstr "obraz na střed horního rámečku"
+msgstr "na střed obrazovky a horní hranu"
 
 #: ..\src/MovableScreen.py:27
 msgid "Move screen to the upper right corner"
-msgstr "posunout obraz do horního pravého rohu"
+msgstr "posunout panel na horní pravý roh"
 
 #: ..\src/MovableScreen.py:28
 msgid "Move screen to the middle of the left border"
-msgstr "obraz na střed levého rámečku"
+msgstr "posunout panel na střed levého okraje"
 
 #: ..\src/MovableScreen.py:29
 msgid "Move screen to the center of your TV"
-msgstr "obraz na střed TV"
+msgstr "posunout panel na střed TV"
 
 #: ..\src/MovableScreen.py:30
 msgid "Move screen to the middle of the right border"
-msgstr "obraz na střed pravého rámečku"
+msgstr "posunout panel na střed pravého okraje"
 
 #: ..\src/MovableScreen.py:31
 msgid "Move screen to the lower left corner"
-msgstr "posunout obraz do spodního levého rohu"
+msgstr "posunout panel na spodní levý roh"
 
 #: ..\src/MovableScreen.py:32
 msgid "Center screen at the lower border"
-msgstr "obraz na střed spodního rámečku"
+msgstr "na střed obrazovky a spodní hranu"
 
 #: ..\src/MovableScreen.py:33
 msgid "Move screen to the lower right corner"
-msgstr "posunout obraz do spodního pravého rohu"
+msgstr "posunout panel na spodní pravý roh"
 
 #: ..\src/MovableScreen.py:34
 msgid "Reset saved position"
@@ -20198,15 +20198,15 @@ msgstr "povolit ovládání pro děti"
 
 #: ../src/CurlyTx.py:82
 msgid "Scroll page contents up"
-msgstr "posunout o stránku nahoru"
+msgstr "o stránku obsahu nahoru"
 
 #: ../src/CurlyTx.py:85
 msgid "Scroll page contents down"
-msgstr "posunout o stránku dolů"
+msgstr "o stránku obsahu dolů"
 
 #: ../src/CurlyTx.py:88
 msgid "Show HTTP response headers"
-msgstr "zobrazit HTTP odezvu záhlaví"
+msgstr "zobrazit HTTP odezvu"
 
 #: ../src/CurlyTx.py:91
 msgid "Show program settings"
@@ -20214,15 +20214,15 @@ msgstr "zobrazit nastavení programu"
 
 #: ../src/CurlyTx.py:94
 msgid "Reload current page URL"
-msgstr "znovu načíst akt.stránku URL"
+msgstr "obnovit aktuální stránku"
 
 #: ../src/CurlyTx.py:97
 msgid "Switch to next configured page URL"
-msgstr "přepnout na další konfig.stránku URL"
+msgstr "přejít na další stránku konfigurace URL"
 
 #: ../src/CurlyTx.py:100
 msgid "Switch to previous configured page URL"
-msgstr "přepnout na předchozí konfig.stránku URL"
+msgstr "přejít na předchozí stránku konfigurace URL"
 
 #: ../src/CurlyTx.py:103 ../src/CurlyTx.py:106
 msgid "Close window"
@@ -20246,11 +20246,11 @@ msgstr "chyba stránky URL : "
 
 #: ../src/CurlyTx.py:201
 msgid "Go and add a page in the settings"
-msgstr "přejít na stránku a uložit ji"
+msgstr "přejít a přidat stránku v nastavení"
 
 #: ../src/CurlyTx.py:209
 msgid "HTTP response headers for"
-msgstr "odezva HTTP hlavičky pro "
+msgstr "HTTP- odpověď pro "
 
 #: ../src/CurlyTxSettings.py:64
 msgid "Page:"
@@ -20262,7 +20262,7 @@ msgstr "předvolená stránky"
 
 #: ../src/CurlyTxSettings.py:69
 msgid "Show in main menu"
-msgstr "zobrazit v hl.menu"
+msgstr "zobrazit v hlavním menu"
 
 #: ../src/CurlyTxSettings.py:70
 msgid "Show in extensions menu"
@@ -20270,19 +20270,19 @@ msgstr "zobrazit v rozšířeném menu"
 
 #: ../src/CurlyTxSettings.py:71
 msgid "Menu title"
-msgstr "záhlaví menu"
+msgstr "název menu"
 
 #: ../src/CurlyTxSettings.py:72
 msgid "Page feed URL"
-msgstr "URL stránka zásobníku"
+msgstr "stránka zásobníku na netu URL"
 
 #: ../src/CurlyTxSettings.py:78
 msgid "Dismiss all setting changes"
-msgstr "zrušit všechny změny v nastavení"
+msgstr "zrušit všechny nastavené změny"
 
 #: ../src/CurlyTxSettings.py:81
 msgid "Save settings and close screen"
-msgstr "uložit nastavení a zavřít okno"
+msgstr "uložit nastavení a okno zavřít"
 
 #: ../src/CurlyTxSettings.py:84
 msgid "Edit selected page"
@@ -20290,7 +20290,7 @@ msgstr "upravit vybranou stránku"
 
 #: ../src/CurlyTxSettings.py:87
 msgid "Load pages from feed"
-msgstr "načíst stránku ze zásobníku"
+msgstr "načíst stránky z web.zásobníku"
 
 #: ../src/CurlyTxSettings.py:90
 msgid "Add new page"
@@ -20298,27 +20298,27 @@ msgstr "přidat novou stránku"
 
 #: ../src/CurlyTxSettings.py:93
 msgid "Delete selected page"
-msgstr "odebrat vybranou stránku"
+msgstr "odstranit vybranou stránku"
 
 #: ../src/CurlyTxSettings.py:110
 msgid ""
 "Really delete this page?\n"
 "It cannot be recovered!"
 msgstr ""
-"chcete stránku odebrat ?\n"
-"nepůjde ale obnovit !"
+"Odstranit stránku ?\n"
+"Nepůjde to pak vrátit !"
 
 #: ../src/CurlyTxSettings.py:143
 msgid "No page feed URL defined"
-msgstr "URL stránka není z zásobníku defonována"
+msgstr "Stránka zásobníku na webu není definována"
 
 #: ../src/CurlyTxSettings.py:173
 msgid "Error loading page feed:"
-msgstr "chyba načtení strínky : "
+msgstr "Chyba načítání zásobníku z netu :"
 
 #: ../src/CurlyTxSettings.py:221
 msgid "Page URL"
-msgstr "URL stránka"
+msgstr "URL stránky"
 
 #: ../src/CurlyTxSettings.py:223
 msgid "Font size"
@@ -20326,11 +20326,11 @@ msgstr "velikost fontu"
 
 #: ../src/plugin.py:36 ../src/plugin.py:43
 msgid "View remote text files"
-msgstr "zobrazit vzdálené txt soubory"
+msgstr "zobrazit vzdálené textové soubory"
 
 #: ../src/plugin.py:28
 msgid "Automatically zaps back to current service after given Time"
-msgstr "aut.přepnout zpět na aktuální kanál po zadaném času"
+msgstr "aut.přepnout zpět na kanál po uplynutí zadaného času"
 
 #: ../src/WerbeZapper.py:55
 msgid "Custom"
@@ -20338,7 +20338,7 @@ msgstr "uživatelský"
 
 #: ../src/WerbeZapper.py:81
 msgid "How many minutes to wait until zapping back?"
-msgstr "kolik min.čekat před přepnutím zpět ?"
+msgstr "Kolik minut počkat, aby seřazení vrátilo ?"
 
 #: ../src/WerbeZapper.py:38
 msgid ""
@@ -20350,7 +20350,7 @@ msgstr ""
 
 #: ../src/WerbeZapper.py:47
 msgid "When to Zap back?"
-msgstr "kdy se vrátit zpět ?"
+msgstr "Kdy přepnout zpět ?"
 
 #: ../src/WerbeZapper.py:104
 #, python-format
@@ -20363,15 +20363,15 @@ msgstr "zobrazit v rozšířeném menu : "
 
 #: ../src/InternetRadioSetup.py:51
 msgid "Visualization"
-msgstr "vizualizace"
+msgstr "zobrazit..."
 
 #: ../src/InternetRadioSetup.py:52
 msgid "Fullscreen Layout"
-msgstr "přes celou obrazovku"
+msgstr "návrh obrazu"
 
 #: ../src/InternetRadioSetup.py:53
 msgid "Fullscreen auto activation"
-msgstr "aut.aktivovat celou obrazovku"
+msgstr "aut.rozšířit na celou obrazovku"
 
 #: ../src/InternetRadioSetup.py:54
 msgid "Show cover arts"
@@ -20379,19 +20379,19 @@ msgstr "zobrazit potisk"
 
 #: ../src/InternetRadioSetup.py:55
 msgid "Rip to single file, name is timestamped"
-msgstr "zkopírovat do jednoho souboru, do názvu časové razítko"
+msgstr "stažené uložit do jednoho souboru, název s časem"
 
 #: ../src/InternetRadioSetup.py:56
 msgid "Create a directory for each stream"
-msgstr "založit složku pro každé sdílení"
+msgstr "založit složku pro každý stream "
 
 #: ../src/InternetRadioSetup.py:57
 msgid "Add sequence number to output file"
-msgstr "přidat pořadové číslo k výstup.souboru"
+msgstr "přidat pořadí do výst.souboru"
 
 #: ../src/InternetRadioSetup.py:59
 msgid "Recording location:"
-msgstr "složka pro nahrávání : "
+msgstr "složka pro záznamy..."
 
 #: ../src/plugin.py:34 ../src/InternetRadioList.py:50
 #: ../src/InternetRadioScreen.py:312 ../src/InternetRadioScreen.py:570
@@ -20402,7 +20402,7 @@ msgstr "země"
 
 #: ../src/plugin.py:38
 msgid "Screen and OLED"
-msgstr "obraz a OLED"
+msgstr "obrazovku a OLED"
 
 #: ../src/plugin.py:38
 msgid "OLED only"
@@ -20410,19 +20410,19 @@ msgstr "pouze OLED"
 
 #: ../src/plugin.py:38
 msgid "Screen only"
-msgstr "pouze obraz"
+msgstr "pouze obrazovku"
 
 #: ../src/plugin.py:42
 msgid "1 minutes"
-msgstr "1 minuta"
+msgstr "1 min."
 
 #: ../src/plugin.py:42
 msgid "3 minutes"
-msgstr "3 minuty"
+msgstr "3 min."
 
 #: ../src/plugin.py:43
 msgid "Visualization and Text"
-msgstr "vizualizace a text"
+msgstr "zobrazení a text"
 
 #: ../src/plugin.py:43
 msgid "Text only"
@@ -20434,12 +20434,12 @@ msgstr "prázdné"
 
 #: ../src/plugin.py:70 ../src/plugin.py:72
 msgid "listen to internet-radio"
-msgstr "poslouchat internetové rádio"
+msgstr "-- poslouchat internet.rádio"
 
 #: ../src/InternetRadioList.py:48 ../src/InternetRadioScreen.py:312
 #: ../src/InternetRadioScreen.py:676
 msgid "Genres"
-msgstr "žánry"
+msgstr "kategorie"
 
 #: ../src/InternetRadioList.py:51
 msgid "Filter:"
@@ -20447,7 +20447,7 @@ msgstr "filtr : "
 
 #: ../src/InternetRadioInformationScreen.py:70
 msgid "Streaming Information"
-msgstr "info sdílení"
+msgstr "Informace o sdílení..."
 
 #: ../src/InternetRadioScreen.py:253
 msgid "Stations"
@@ -20455,20 +20455,20 @@ msgstr "stanice"
 
 #: ../src/InternetRadioScreen.py:254
 msgid "Favorites"
-msgstr "favorit"
+msgstr "oblíbené"
 
 #: ../src/InternetRadioScreen.py:339 ../src/InternetRadioScreen.py:533
 msgid "Stop record"
-msgstr "zastavit nahrávání"
+msgstr "zastavit záznam"
 
 #: ../src/InternetRadioScreen.py:341
 msgid "Recording stream station"
-msgstr "stanice pro nahrávání"
+msgstr "nahrát sdílení ze stanice"
 
 #: ../src/InternetRadioScreen.py:405 ../src/InternetRadioScreen.py:696
 #, python-format
 msgid "Getting streaming data from %s"
-msgstr "získat sdílená data z %s"
+msgstr "načíst sdílená data z %s"
 
 #: ../src/InternetRadioScreen.py:474
 #, python-format
@@ -20476,12 +20476,12 @@ msgid ""
 "Getting streaming data from\n"
 "%s"
 msgstr ""
-"získat sdílená data z \n"
+"stáhnout sdílená data z :\n"
 " %s"
 
 #: ../src/InternetRadioScreen.py:541
 msgid "Do you really want to stop the recording?"
-msgstr "zastavit nahrávání ?"
+msgstr "Chcete zastavit nahrávání ?"
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Recording length"
@@ -20489,11 +20489,13 @@ msgstr "délka nahrávání"
 
 #: ../src/InternetRadioScreen.py:544
 msgid "Enter in minutes (0 means unlimited)"
-msgstr "zadání v min. (0=bez limitu) "
+msgstr "zadejte v min. (0 = bez omezení)"
 
 #: ../src/InternetRadioScreen.py:546
 msgid "Only running streamings can be recorded!"
-msgstr "nahrát pouze běžící záznamy !"
+msgstr ""
+"Žádná rozhlasová stanice není spuštěna !\n"
+"Není co nahrávat..."
 
 #: ../src/InternetRadioScreen.py:552 ../src/InternetRadioScreen.py:601
 #, python-format
@@ -20517,7 +20519,7 @@ msgstr "seznam oblíbených"
 #: ../src/InternetRadioScreen.py:589
 #, python-format
 msgid "Getting InternetRadio %s list..."
-msgstr "načíst InternetRadio ze %s seznamu..."
+msgstr "Stáhnout seznam pro InternetRadio %s ..."
 
 #: ../src/InternetRadioScreen.py:616
 #, python-format
@@ -20526,49 +20528,49 @@ msgstr "%s..."
 
 #: ../src/InternetRadioScreen.py:749
 msgid "No streaming data found..."
-msgstr "data pro sdílení nejsou dostupná..."
+msgstr "Sdílená data nenalezena..."
 
 #: ../src/InternetRadioScreen.py:752
 #, python-format
 msgid "InternetRadio station list for filter: %s"
-msgstr "InternetRadio stanice, filtr : %s"
+msgstr "InternetRadio - seznam stanic pro filtr : %s"
 
 #: ../src/InternetRadioScreen.py:754
 #, python-format
 msgid "Getting %s"
-msgstr "načíst %s"
+msgstr "stáhnout %s"
 
 #: ../src/InternetRadioScreen.py:804
 msgid "Config"
-msgstr "konfigurace"
+msgstr "nastavení ..."
 
 #: ../src/InternetRadioScreen.py:806
 msgid "rename current selected favorite"
-msgstr "přejmenovat aktuálního favorita"
+msgstr "přejmenovat oblíbené"
 
 #: ../src/InternetRadioScreen.py:807
 msgid "remove current selected favorite"
-msgstr "přejmenovat aktuálně vybraného favorita"
+msgstr "odebrat oblíbené"
 
 #: ../src/InternetRadioScreen.py:809
 msgid "do not play a service on startup"
-msgstr "nespouštět kanál po startu"
+msgstr "nepřehrávat při spuštěném programu"
 
 #: ../src/InternetRadioScreen.py:811
 msgid "play current selected favorite on startup"
-msgstr "přehrát aktuálně vybraného favorita po startu"
+msgstr "Spustit aktuální výběr"
 
 #: ../src/InternetRadioScreen.py:813
 msgid "Add current selected genre to favorite"
-msgstr "přidat aktuálně vybraný žánr k oblíbeným"
+msgstr "přidat aktuální žánr do oblíbených"
 
 #: ../src/InternetRadioScreen.py:815
 msgid "Add current selected station to favorite"
-msgstr "přidat aktuálně vybranou stanici k oblíbeným"
+msgstr "přidat aktuální stanici do oblíbených"
 
 #: ../src/InternetRadioScreen.py:817
 msgid "Add current playing stream to favorite"
-msgstr "přidat aktuálně spuštěné sdílení k oblíbeným""
+msgstr "přidat aktuálně spuštěný stream do oblíbených"
 
 #: ../src/InternetRadioScreen.py:818
 msgid "Fullscreen"
@@ -20580,21 +20582,21 @@ msgstr "zobrazit TV"
 
 #: ../src/InternetRadioScreen.py:872
 msgid "Enter new name for favorite item"
-msgstr "zadat nový oblíbený název"
+msgstr "Nový název pro oblíbenou položku"
 
 #: ../src/InternetRadioScreen.py:890
 msgid "Enter text to search for"
-msgstr "zadat text pro hledání"
+msgstr "-zadejte text pro vyhledání-"
 
 #: ../src/InternetRadioScreen.py:894
 #, python-format
 msgid "InternetRadio station list for search-criteria: %s"
-msgstr "stanice InternetRadia, kritéria hledání : %s"
+msgstr "InternetRadio - seznam stanic pro kritéria hledání : %s"
 
 #: ../src/InternetRadioScreen.py:896
 #, python-format
 msgid "Searching InternetRadio for %s..."
-msgstr "hledat InternetRadio pro %s..."
+msgstr "Hledat InternetRadio pro  %s..."
 
 #: ../src/InternetRadioScreen.py:913
 #, python-format
@@ -20603,11 +20605,11 @@ msgstr "%s ..."
 
 #: ../src/InternetRadioScreen.py:964
 msgid "Title: n/a"
-msgstr "titulek : n/a"
+msgstr "Titulek : není..."
 
 #: ../src/InternetRadioScreen.py:999
 msgid "nothing playing..."
-msgstr "nic se nepřehrává..."
+msgstr "Nic nelze přehrát..."
 
 #: ../src/InternetRadioOledDisplay.py:123
 msgid "Internet Radio"
@@ -20615,19 +20617,19 @@ msgstr "internet Radio"
 
 #: ../src/plugin.py:383 ../src/plugin.py:384
 msgid "No OFDb match."
-msgstr "OFDb není dostupné"
+msgstr "Žádná shoda s OFDb "
 
 #: ../src/plugin.py:400 ../src/plugin.py:469
 msgid "OFDb Details parsed"
-msgstr "detaily z OFDb"
+msgstr "OFDb detaily jsou k dispozici"
 
 #: ../src/plugin.py:358
 msgid "OFDb Download completed"
-msgstr "načtení z OFDb je kompletní"
+msgstr "Stažení z OFDb bylo dokončeno"
 
 #: ../src/plugin.py:331
 msgid "OFDb Download failed"
-msgstr "načtení z OFDb selhalo"
+msgstr "Stažení z OFDb selhalo"
 
 #: ../src/plugin.py:498
 msgid "OFDb Plugin"
@@ -20635,29 +20637,29 @@ msgstr "modul OFDb"
 
 #: ../src/plugin.py:389
 msgid "OFDb Re-Download completed"
-msgstr "nové načtení z OFDb je kompletní"
+msgstr "Obnovené stahování z OFDb bylo dokončeno"
 
 #: ../src/plugin.py:386
 msgid "OFDb query failed!"
-msgstr "dotaz do OFDb selhal !"
+msgstr "Dotaz do OFDb nebyl úspěšný !"
 
 #: ../src/plugin.py:317
 #, python-format
 msgid "Query OFDb: %s..."
-msgstr "dotaz OFDb: %s..."
+msgstr "dotaz do OFDb na : %s..."
 
 #: ../src/plugin.py:510 ../src/plugin.py:515 ../src/plugin.py:522
 msgid "Query details from the Online-Filmdatenbank"
-msgstr "dotaz na detaily z Online-film.databanky"
+msgstr "-- dotaz na detaily z Online filmové databáze OFRb"
 
 #: ../src/plugin.py:255
 #, python-format
 msgid "Re-Query OFDb: %s..."
-msgstr "dotaz OFDb : %s..."
+msgstr "obnovený dotaz do OFDb na : %s..."
 
 #: ../src/plugin.py:131
 msgid "The Online-Filmdatenbank"
-msgstr "Online-film.databanka"
+msgstr "online - filmová databanka"
 
 #: ../src/plugin.py:10
 msgid "eParted"
@@ -20665,7 +20667,7 @@ msgstr "eParted"
 
 #: ../src/plugin.py:10
 msgid "creating and manipulating partition tables"
-msgstr "založení a úprava partition tabulky"
+msgstr "založit a upravit tabulku partition"
 
 #: ../src/eparted.py:102
 #, python-format
@@ -20674,11 +20676,11 @@ msgstr "chybný příkaz '%s'"
 
 #: ../src/eparted.py:172
 msgid "partition(s)"
-msgstr ""
+msgstr "disk.oddíl"
 
 #: ../src/eparted.py:190
 msgid "add partition"
-msgstr "partition"
+msgstr "přidat partition"
 
 #: ../src/eparted.py:214
 #, python-format
@@ -20691,7 +20693,7 @@ msgstr "soub.systém : "
 
 #: ../src/eparted.py:310
 msgid "Nr"
-msgstr "počet"
+msgstr "číslo"
 
 #: ../src/eparted.py:428
 #, python-format
@@ -20701,12 +20703,12 @@ msgstr "založit partition %s"
 #: ../src/eparted.py:444
 #, python-format
 msgid "make filesystem '%s' on partition %s (%d %s)"
-msgstr "založit soub.systém '%s' s partition %s (%d %s)"
+msgstr "soub.systém  '%s' v partition %s sestava (%d %s)"
 
 #: ../src/eparted.py:453
 #, python-format
 msgid "delete partition %s"
-msgstr "odebrat partition %s"
+msgstr "odstranit partition %s "
 
 #: ../src/eparted.py:486 ../src/eparted.py:518
 msgid "execute"
@@ -20718,11 +20720,11 @@ msgstr "čekejte..."
 
 #: src/AC3main.py:57
 msgid "Service delay"
-msgstr "zpoždění kanálu"
+msgstr ">zpoždění<"
 
 #: src/AC3main.py:58
 msgid "Global delay"
-msgstr "globální zpoždění"
+msgstr "základní zpoždění"
 
 #: src/AC3main.py:62 src/AC3main.py:146 src/AC3main.py:236 src/AC3main.py:240
 #: src/AC3main.py:241
@@ -20732,15 +20734,15 @@ msgstr "%i ms"
 
 #: src/AC3main.py:65
 msgid "Channel audio:"
-msgstr "audio kanál : "
+msgstr ">audio kanál<"
 
 #: src/AC3main.py:72
 msgid "Switch audio"
-msgstr "přepnout audio"
+msgstr "audio stopa..."
 
 #: src/AC3main.py:73
 msgid "Save to key"
-msgstr "uložit tlačítko"
+msgstr "uložit pod tlačítko"
 
 #: src/AC3main.py:78
 msgid "Open plugin menu"
@@ -20752,7 +20754,7 @@ msgstr "uložit data a zavřít modul"
 
 #: src/AC3main.py:80 src/AC3main.py:85
 msgid "Discard changes and close plugin"
-msgstr "zrušit změny a zavřít modul"
+msgstr "zrušit změny a modul zavřít"
 
 #: src/AC3main.py:81 src/AC3main.py:82
 msgid "Change active delay"
@@ -20772,7 +20774,7 @@ msgstr "vybrat audio kanál"
 
 #: src/AC3main.py:88
 msgid "Save current delay to key"
-msgstr "uložit akt.zpoždění pod tlačítko"
+msgstr "uložit akt.prodlevu tlačítka"
 
 #: src/AC3main.py:89 src/AC3main.py:91 src/AC3main.py:93
 #, python-format
@@ -20791,26 +20793,26 @@ msgstr "nastavit zpoždění na %i ms"
 
 #: src/AC3main.py:211
 msgid "Move plugin screen"
-msgstr "modul pro posun obrazu"
+msgstr "přesun okna"
 
 #: src/AC3main.py:257
 #, python-format
 msgid "Select the key you want to set to %i ms"
-msgstr "vybrat tlačítko pro nastavení na %i ms"
+msgstr ">vyberte tlačítko, kam nastavit %i ms<"
 
 #: src/AC3main.py:263
 #, python-format
 msgid "Key %(key)s (current value: %(value)i ms)"
-msgstr "tl. %(key)s (akt.hodnota: %(value)i ms)"
+msgstr "tlačítko %(key)s (akt.hodnota: %(value)i  v ms)"
 
 #: src/AC3main.py:268
 msgid "Setting key canceled"
-msgstr "nastavit tl.pro storno"
+msgstr "Nastavení tlačítka bylo zrušeno !"
 
 #: src/AC3main.py:280
 #, python-format
 msgid "Key %(Key)s successfully set to %(delay)i ms"
-msgstr "tl. %(Key)s úspěšně nastaveno na %(delay)i ms"
+msgstr "Tlačítko %(Key)s bylo úspěšně nastaveno na %(delay)i ms"
 
 #: src/AC3setup.py:42
 msgid "Outer Bound (+/-)"
@@ -20818,25 +20820,25 @@ msgstr "vnější hranice (+/-)"
 
 #: src/AC3setup.py:43
 msgid "Step in ms for arrow keys"
-msgstr "krok v ms pro šipky"
+msgstr "-- krok v ms pro kurzorová tlačítka..."
 
 #: src/AC3setup.py:44
 msgid "Wait time in ms before activation:"
-msgstr "čas čekání v ms před aktivací : "
+msgstr "prodleva před aktivací (ms) :"
 
 #: src/AC3setup.py:45 src/AC3setup.py:46 src/AC3setup.py:47
 #, python-format
 msgid "Step in ms for keys '%s'"
-msgstr "krok v ms pro tl. '%s'"
+msgstr "-- krok v ms pro tlačítko : '%s'"
 
 #: src/AC3setup.py:48 src/AC3setup.py:49 src/AC3setup.py:50
 #, python-format
 msgid "Step in ms for key %i"
-msgstr "krok v ms pro tl. %i"
+msgstr "-- krok v ms pro tlačítko : %i"
 
 #: src/plugin.py:30 src/plugin.py:36 src/plugin.py:38
 msgid "Audio Sync"
-msgstr "synchr.audia"
+msgstr ">synchronizace audia<"
 
 #: src/plugin.py:36 src/plugin.py:38
 msgid "sets the Audio Delay (LipSync)"
@@ -20844,20 +20846,20 @@ msgstr "nastavit zpozdění audia (LipSync)"
 
 #: src/plugin.py:37
 msgid "Audio Sync Setup"
-msgstr "nastavit synchr.audia "
+msgstr "audio Sync Setup"
 
 #: src/plugin.py:37
 msgid "Setup for the Audio Sync Plugin"
-msgstr "nastavit modul pro synchr.audia"
+msgstr "-- nastavení synchronizace zvuku"
 
 #: ../src/plugin.py:98
 #, python-format
 msgid "%d Feed(s) were added to configuration."
-msgstr "%d Feed(s) bylo přidáno do konfigurace"
+msgstr "%d kanálů bylo přidáno do konfigurace"
 
 #: ../src/plugin.py:130
 msgid "A simple to use RSS reader"
-msgstr "jednoduché použití RSS čtečky"
+msgstr "jednoduché použití čtečky RSS zpráv"
 
 #: ../src/RSSSetup.py:27
 msgid "Autoupdate"
@@ -20865,7 +20867,7 @@ msgstr "aut.aktualizace"
 
 #: ../src/RSSScreens.py:97 ../src/RSSScreens.py:172
 msgid "Enclosures"
-msgstr "závěry"
+msgstr "dodatky"
 
 #: ../src/RSSScreens.py:361 ../src/RSSScreens.py:387
 msgid "Entries"
@@ -20880,40 +20882,40 @@ msgstr "zadání %s/%s"
 msgid ""
 "Error while parsing Feed, this usually means there is something wrong with "
 "it."
-msgstr "chyba při kontrole zásobníku, je tam něco špatně s "
+msgstr "Chyba při kontrole zásobníku na netu ! "
 
 #: ../src/RSSPoller.py:82
 msgid "Failed to get subscriptions from Google Reader."
-msgstr "selhalo načtení sekce čtečky Google "
+msgstr "Selhalo stahování příspěvků přes Google Reader"
 
 #: ../src/RSSPoller.py:64
 msgid "Failed to login to Google Reader."
-msgstr "selhalo přihlášení do sekce čtečky Google"
+msgstr "Selhalo přihlášení na Google Reader"
 
 #: ../src/RSSSetup.py:105
 msgid "Feed"
-msgstr "zásobník"
+msgstr ">kanál< "
 
 #: ../src/RSSScreens.py:362 ../src/RSSScreens.py:388
 #, python-format
 msgid "Feed %s/%s"
-msgstr "zásobník %s/%s"
+msgstr "kanál %s/%s"
 
 #: ../src/RSSSetup.py:28
 msgid "Feed URI"
-msgstr URI zásobníku""
+msgstr "adresa URI"
 
 #: ../src/RSSScreens.py:273
 msgid "Feed is empty."
-msgstr "zásobník je prázdný"
+msgstr "Kanál je prázdný !"
 
 #: ../src/RSSSetup.py:120
 msgid "Fetch feeds from Google Reader?"
-msgstr "cesta k zásobníku čtečky Google"
+msgstr "Stáhnout data pro Google Reader ?"
 
 #: ../src/RSSScreens.py:69
 msgid "Found no Enclosure we can display."
-msgstr "žádná uzávěra pro zobrazení"
+msgstr "Není co zobrazit, dodatky nebyly nalezeny..."
 
 #: ../src/RSSSetup.py:126
 msgid "Google Password"
@@ -20929,11 +20931,11 @@ msgstr "ponechat spuštěné na pozadí"
 
 #: ../src/RSSPoller.py:36
 msgid "New Items"
-msgstr "nové položky"
+msgstr "nová položka"
 
 #: ../src/RSSPoller.py:37
 msgid "New Items since last Auto-Update"
-msgstr "nové položky z poslední aut.aktualizace"
+msgstr "nové položky od poslední aut.aktualizace"
 
 #: ../src/RSSScreens.py:174
 msgid "No such Item."
@@ -20948,8 +20950,8 @@ msgid ""
 "Really delete this entry?\n"
 "It cannot be recovered!"
 msgstr ""
-"odebrat položku ?\n"
-"nepůjde to vrátit !"
+"Odstranit zadání ?\n"
+"Nepůjde to pak vrátit !"
 
 #: ../src/RSSPoller.py:194
 #, python-format
@@ -20958,7 +20960,7 @@ msgstr "přijato %d nových položek"
 
 #: ../src/RSSSetup.py:118
 msgid "Show new Messages as"
-msgstr "zobrazit nové hlášení jako "
+msgstr "Zobrazit nová hlášení jako..."
 
 #: ../src/RSSScreens.py:370
 msgid "Simple RSS Reader"
@@ -20966,7 +20968,7 @@ msgstr "jednoduchá RSS čtečka"
 
 #: ../src/RSSSetup.py:47 ../src/RSSSetup.py:98
 msgid "Simple RSS Reader Setup"
-msgstr "nastavení jednoduché RSS čtečky"
+msgstr "Jednoduchá RSS čtečka - nastavení"
 
 #: ../src/RSSScreens.py:117 ../src/RSSScreens.py:263
 #, python-format
@@ -20979,20 +20981,20 @@ msgid ""
 "Sorry, this type of feed is unsupported:\n"
 "%s"
 msgstr ""
-"Sorry, tento typ zásobníku není podporovaný :\n"
+"Sorry, tyto kanály nejsou podporovány  :\n"
 "%s"
 
 #: ../src/RSSSetup.py:109
 msgid "Start automatically with Enigma2"
-msgstr "aut.start Enigmy2"
+msgstr "aut.spustit se startem Enigmy2 "
 
 #: ../src/plugin.py:120
 msgid "Subscribe Newsfeed..."
-msgstr "podepsat zásobník..."
+msgstr "Předplatné sdíleného kanálu..."
 
 #: ../src/RSSScreens.py:396
 msgid "Update Feed"
-msgstr "zásobník aktualizací"
+msgstr "aktualizace kanálu"
 
 #: ../src/RSSSetup.py:119
 msgid "Update Interval (min)"
@@ -21003,29 +21005,29 @@ msgid ""
 "Update is being done in Background.\n"
 "Contents will automatically be updated when it's done."
 msgstr ""
-"aktualizace na pozadí,\n"
-"obsah bude aktualizovaný automaticky, pokud je"
+"Aktualizace bude na pozadí.\n"
+"Obsah bude aut.aktualizovaný ..."
 
 #: ../src/plugin.py:139
 msgid "View RSS..."
-msgstr "zobrazit RSS..."
+msgstr "Zobrazit info RSS ..."
 
 #: ../src/RSSScreens.py:409
 msgid "What to do?"
-msgstr "jak dál ?"
+msgstr "Co udělat ?"
 
 #: ../src/EPGSearch.py:257 EPGSearch.py:466
 #, python-format
 msgid "Could not read AutoTimer timer list: %s"
-msgstr "nelze načíst seznam časovačů : %s"
+msgstr "Nelze načíst seznam časovačů z AutoTimer : %s"
 
 #: ../src/EPGSearch.py:69 ../src/EPGSearch.py:179 EPGSearch.py:207
 msgid "EPG Search"
-msgstr "hledat EPG"
+msgstr "-podobné prg."
 
 #: ../src/EPGSearch.py:216 EPGSearch.py:260
 msgid "Export selected as AutoTimer"
-msgstr "export výběru jako AutoTimer"
+msgstr "exportovat vybrané jako  AutoTimer"
 
 #
 # File: ../src/plugin.py, line: 271
@@ -21039,7 +21041,7 @@ msgstr "import z AutoTimer"
 
 #: ../src/EPGSearch.py:209 EPGSearch.py:253
 msgid "Import from EPG"
-msgstr "import z EPG"
+msgstr "import ze seznamu programů"
 
 #: ../src/EPGSearch.py:208 EPGSearch.py:252
 msgid "Import from Timer"
@@ -21047,28 +21049,28 @@ msgstr "import z časovače"
 
 #: ../src/EPGSearch.py:134 EPGSearch.py:145
 msgid "New Search"
-msgstr "nové hledání"
+msgstr "man.vyhledat"
 
 #: ../src/EPGSearch.py:298 EPGSearch.py:520
 msgid "No history"
-msgstr "chybí historie"
+msgstr "Historie je prázdná..."
 
 #: ../src/EPGSearch.py:215 EPGSearch.py:259
 msgid "Save search as AutoTimer"
-msgstr "uložit hledání jako AutoTimer"
+msgstr "uložit vyhledané jako AutoTimer"
 
 #: ../src/EPGSearch.py:364 EPGSearch.py:636
 msgid "Select a timer to search"
-msgstr "vybrat časovač pro vyhledání"
+msgstr "zvolit časovač pro hledání"
 
 #: ../src/EPGSearch.py:268 ../src/EPGSearch.py:292 EPGSearch.py:477
 #: EPGSearch.py:514
 msgid "Select text to search for"
-msgstr "vybrat text pro vyhledání"
+msgstr "vyberte text pro hledání "
 
 #: ../src/plugin.py:63 ../src/plugin.py:69
 msgid "search EPG..."
-msgstr "hledám v EPG..."
+msgstr "programy kanálu"
 
 #: EPGSearch.py:153
 msgid "Edit Search"
@@ -21076,25 +21078,23 @@ msgstr "upravit hledání"
 
 #: EPGSearchSetup.py:39
 msgid "Length of History"
-msgstr "délka historie"
+msgstr "limit pro historii"
 
 #: EPGSearchSetup.py:39
 msgid ""
 "How many entries to keep in the search history at most. 0 disables history "
 "entirely!"
-msgstr ""
-"Max.ponechaných položek historie, 0=zákaz historie !"
+msgstr "Max.počet položek v historii - nastavení na \"0\" funkci vypne_"
 
 #: EPGSearchSetup.py:41
 msgid "Add \"Search\" Button to EPG"
-msgstr "přidat tl. \"Hledat\" do EPG"
+msgstr "přidat tlačítko \"hledat\" do programů"
 
 #: EPGSearchSetup.py:41
 msgid ""
 "If this setting is enabled, the plugin adds a \"Search\" Button to the "
 "regular EPG."
-msgstr ""
-"pokud je povoleno, modul přidá tl. \"Hledat\" k EPG"
+msgstr "Aktivace umožní modulu přidat tlačítko \"Hledat\" do std.seznamu programů_"
 
 #: EPGSearchSetup.py:42
 msgid "Default search type"
@@ -21113,7 +21113,7 @@ msgstr "rozlišovat velikost písma při hledání v EPG"
 
 #: EPGSearchSetup.py:33 EPGSearchSetup.py:81
 msgid "EPGSearch Setup"
-msgstr "nastavit EPGSearch"
+msgstr "nastavení EPGSearch..."
 
 #: __init__.py:33 EPGSearch.py:536
 msgid "Extended description"
@@ -21250,7 +21250,7 @@ msgstr "přesná shoda"
 
 #: EPGSearch.py:263
 msgid "Open selected in IMDb"
-msgstr "otevřít vybrané v IMDb"
+msgstr "vybrané zadání otevřít v IMDb"
 
 #: EPGSearch.py:350
 msgid "Hide event short description"
@@ -21261,7 +21261,7 @@ msgid "Filter: remove"
 msgstr "filtr : odebrat"
 
 #: EPGSearch.py:383
-msgid "Filter: ponechat"
+msgid "Filter:"
 msgstr "filtr : "
 
 msgid "Removed all filters"
@@ -21285,11 +21285,11 @@ msgstr "deaktivovat rodič.kontrolu"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:72
 msgid "Zap-History Configurator"
-msgstr "zap.konfigurátor historie"
+msgstr "zapnout konfigurátor historie"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:79
 msgid "Enable zap history:"
-msgstr "zapnout historii : "
+msgstr "aktivovat historii :"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:80
 msgid "Maximum zap history entries:"
@@ -21306,34 +21306,34 @@ msgstr "vyčistit"
 
 #: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src/plugin.py:135
 msgid "Zap & Close"
-msgstr "zap./zavřít"
+msgstr "přepnout + konec"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:54
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Permanent Clock"
-msgstr "pevné hodiny"
+msgstr "permanentní hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:178
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Deactivate permanent clock"
-msgstr "deaktivovat pevné hodiny"
+msgstr "deaktivovat permanentní hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:180
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:186
 msgid "Activate permanent clock"
-msgstr "aktivovat pevné hodiny"
+msgstr "aktivovat permanentní hodiny"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:181
 msgid "Change permanent clock position"
-msgstr "změnit pozici pevných hodin"
+msgstr "změnit pozici permanentních hodin"
 
 #: /home/aliabdul/dream/enigma2-plugins/permanentclock/src/plugin.py:210
 msgid "Shows the clock permanent on the screen"
-msgstr "zobrazit pevné hodiny na obrazovce"
+msgstr "Zobrazit na obrazovce permanentní hodiny"
 
 #: ../src/plugin.py:69
 msgid "A video streaming solution based on VLC"
-msgstr "sdílení videa přes VLC"
+msgstr "-- sdílení videa z PC pomocí VLC"
 
 #: ../src/VlcServerConfig.py:318
 msgid "Audio Bitrate"
@@ -21349,11 +21349,11 @@ msgstr "audio kodek"
 
 #: ../src/VlcServerConfig.py:319
 msgid "Audio Samplerate"
-msgstr "vzorkovací kmitočet audia"
+msgstr "audio - vzorkovací kmitočet"
 
 #: ../src/VlcServerConfig.py:306
 msgid "DVD Device (leave empty for default)"
-msgstr "DVD jednotka (předvolena prázdná)"
+msgstr "jednotka DVD (prázdná=předvoleno)"
 
 #: ../src/VlcServerConfig.py:301
 msgid "Enter VLC-Server as FQDN or IP-Address"
@@ -21365,7 +21365,7 @@ msgid ""
 "Error loading filelist into server %(server)s:\n"
 "%(error)s"
 msgstr ""
-"chybné načtení seznamu souborů do serveru %(server)s:\n"
+"Chyba při načítání seznamu souborů ze serveru  %(server)s :\n"
 "%(error)s"
 
 #: ../src/VlcMediaList.py:164
@@ -21374,7 +21374,7 @@ msgid ""
 "Error loading playlist %(media)s into server %(server)s:\n"
 "%(error)s"
 msgstr ""
-"chybné načtení seznamu přehrávek %(media)s do serveru %(server)s:\n"
+"Chyba při stahování seznamu souborů  %(media)s  ze serveru  %(server)s:\n"
 "%(error)s"
 
 #: ../src/VlcMediaList.py:180 ../src/VlcMediaList.py:196
@@ -21384,7 +21384,7 @@ msgid ""
 "Error loading playlist into server %(server)s:\n"
 "%(error)s"
 msgstr ""
-"chybné načtení seznamu přehrávek do serveru %(server)s:\n"
+"Chyba při stahování seznamu souborů ze serveru  %(server)s:\n"
 "%(error)s"
 
 #: ../src/VlcMediaList.py:127
@@ -21393,7 +21393,7 @@ msgid ""
 "Error updating filelist from server %(server)s:\n"
 "%(error)s"
 msgstr ""
-"chybná aktualizace seznamu souborů ze serveru %(server)s:\n"
+"Chyba při aktualizaci seznamu souborů ze serveru  %(server)s :\n"
 "%(error)s"
 
 #: ../src/VlcPlayer.py:330 ../src/VlcPlayer.py:365 ../src/VlcPlayer.py:393
@@ -21402,7 +21402,7 @@ msgid ""
 "Error with VLC server:\n"
 "%s"
 msgstr ""
-"chyba VLC serveru :\n"
+"Chyba na VLC serveru :\n"
 "%s"
 
 #: ../src/VlcMediaList.py:62
