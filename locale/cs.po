@@ -24409,473 +24409,479 @@ msgstr "nastavit  zpoždění bluetooth audio stopy"
 
 #
 msgid "Please enter a name for the HDMI IN service"
-msgstr ""
+msgstr "zadejte název služby HDMI IN"
 
 #
 msgid "add HDMI IN to bouquet"
-msgstr ""
+msgstr "přidat HDMI IN do sady kanálů"
 
 #
 msgid "add HDMI IN to favourites"
-msgstr ""
+msgstr "přidat HDMI IN do oblíbených"
 
 #
 msgid "Ask for timer type when Autotimer is installed"
-msgstr ""
+msgstr "dotaz na typ časovače, pokud je Autotimer nainstalovaný"
 
 #
 msgid "Enable HbbTV for streaming services"
-msgstr ""
+msgstr "povolit HbbTV pro sdílení kanálů"
 
 #
 msgid "Mount process"
-msgstr ""
+msgstr "připojování"
 
 #
 msgid "Classic mount"
-msgstr ""
+msgstr "klasické připojení"
 
 #
 msgid "AutoFS"
-msgstr ""
+msgstr "AutoFS"
 
 #
 msgid "Disable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "zakázat HDMI-IN na hl.obrazovce"
 
 #
 msgid "Enable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "povolit HDMI-IN na hl.obrazovce"
 
 #
 msgid "Disable HDMI-IN on PIP"
-msgstr ""
+msgstr "zakázat HDMI-IN v PIP"
 
 #
 msgid "Enable HDMI-IN on PIP"
-msgstr ""
+msgstr "povolit HDMI-IN v PIP"
 
 #
 msgid "Use cross down for showing timeshift events"
-msgstr ""
+msgstr "kurzorový kříž dolů pro události timeshiftu"
 
 #
 msgid "Driver is not supported."
-msgstr ""
+msgstr "zařízení není podporované"
 
 #
 msgid "Vu+ %s Misc. Control"
-msgstr ""
+msgstr "Vu+ %s různé ovládání"
 
 #
 msgid "set Vu+ %s LNB Power and etc.."
-msgstr ""
+msgstr "nastavit Vu+ %s LNB zdroj atd..."
 
 #
 msgid "Scanning bluetooth devices"
-msgstr ""
+msgstr "prohledat bluetooth zařízení"
 
 #
 msgid "Scanning BLE bluetooth devices"
-msgstr ""
+msgstr "prohledat BLE bluetooth zařízení"
 
 #
 msgid "Start scan"
-msgstr ""
+msgstr "spustit prohledávání"
 
 #
 msgid "Press green key to connect device."
-msgstr ""
+msgstr "zelené tl. -> připojit zařízení..."
 
 #
 msgid "No nearby bluetooth devices were found."
-msgstr ""
+msgstr "nenalezeno žádné bluetooth zařízení"
 
 #
 msgid "%s is connected."
-msgstr ""
+msgstr "%s je připojeno"
 
 #
 msgid "Pairing fail"
-msgstr ""
+msgstr "párování selhalo"
 
 #
 msgid "Can't communicate with %s"
-msgstr ""
+msgstr "nelze komunikovat s %s"
 
 #
 msgid "Abort scan"
-msgstr ""
+msgstr "přerušit hledání"
 
 #
 msgid ""
 "Pairing Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"párování selhalo !\n"
+"je připojeno jiné audio zařízení : (%s)"
 
 #
 msgid "Pairing %s"
-msgstr ""
+msgstr "párování %s"
 
 #
 msgid "Pairing %s failed!!"
-msgstr ""
+msgstr "párování  %s selhalo !"
 
 #
 msgid "Discovery"
-msgstr ""
+msgstr "detekce"
 
 #
 msgid "Device is disabling..."
-msgstr ""
+msgstr "zařízení je deaktivováno..."
 
 #
 msgid "Device is enabling..."
-msgstr ""
+msgstr "zařízení je aktivováno..."
 
 #
 msgid "disconnecting %s"
-msgstr ""
+msgstr "odpojení %s"
 
 #
 msgid "disconnecting %s failed!!"
-msgstr ""
+msgstr "odpojení %s selhalo !"
 
 #
 msgid ""
 "Connection Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"připojení selhalo !\n"
+"je připojeno jiné audio zařízení : (%s)"
 
 #
 msgid "connecting %s failed!!"
-msgstr ""
+msgstr "připojení %s selhalo"
 
 #
 msgid "connecting %s"
-msgstr ""
+msgstr "připojení %s"
 
 #
 msgid "remove %s failed!!"
-msgstr ""
+msgstr "odebrání %s selhalo !"
 
 #
 msgid "%s is disconnected."
-msgstr ""
+msgstr "%s je odpojeno"
 
 #
 msgid "Bluetooth Setup"
-msgstr ""
+msgstr "nastavení bluetooth"
 
 #
 msgid "Configure Bluetooth devices"
-msgstr ""
+msgstr "konfigurace bluetooth zařízení"
 
 #
 msgid "type : %s"
-msgstr ""
+msgstr "typ : %s"
 
 #
 msgid "status : %s"
-msgstr ""
+msgstr "status : %s"
 
 #
 msgid "Connected"
-msgstr ""
+msgstr "připojeno"
 
 #
 msgid "Disconnected"
-msgstr ""
+msgstr "odpojeno"
 
 #
 msgid "is connected."
-msgstr ""
+msgstr "je připojeno"
 
 #
 msgid "is disconnected."
-msgstr ""
+msgstr "je odpojeno"
 
 #
 msgid "Bluetooth Discovery"
-msgstr ""
+msgstr "detekováno bluetooth"
 
 #
 msgid "Same behavior as current animation"
-msgstr ""
+msgstr "stejné chování jako akt.animace"
 
 #
 msgid "Enable Focus Animation"
-msgstr ""
+msgstr "aktivovat animaci zaostření"
 
 #
 msgid "Minimum amount of items before grouping"
-msgstr ""
+msgstr "min.počet položek před seskupením"
 
 #
 msgid "Seperator for grouping items"
-msgstr ""
+msgstr "oddělovač pro seskupování položek"
 
 #
 msgid "Group items in folders by title"
-msgstr ""
+msgstr "položky skupiny ve složce podle titulků"
 
 #
 msgid "Sort grouped folders like default items"
-msgstr ""
+msgstr "seřadit seskupení složek podle předvolby"
 
 msgid "VTI HDMI-CEC Configuration"
-msgstr ""
+msgstr "konfigurace VTI HDMI-CEC"
 
 msgid "VTI HDMI-CEC Plugin"
-msgstr ""
+msgstr "modul VTI HDMI-CEC"
 
 msgid "Scan"
-msgstr ""
+msgstr "hledat"
 
 msgid "Scan All"
-msgstr ""
+msgstr "vyhledat vše"
 
 msgid "message"
-msgstr ""
+msgstr "hlášení"
 
 msgid "Remote Control System Code Setting"
-msgstr ""
+msgstr "nastavit syst.kódování dálk.ovladače"
 
 msgid "PiconManager (mod)"
-msgstr ""
+msgstr "PiconManager (mod)"
 
 msgid "PiconManager"
-msgstr ""
+msgstr "PiconManager"
 
 msgid "Fancontrol Settings in Standby mode"
-msgstr ""
+msgstr "nastavení Fancontrol v režimu spánku"
 
 msgid "wide"
-msgstr ""
+msgstr "široký"
 
 msgid "extrawide"
-msgstr ""
+msgstr "extra široký"
 
 msgid "VideoEnhancementSetup"
-msgstr ""
+msgstr "VideoEnhancementSetup"
 
 msgid "Scaler vertical dejagging"
-msgstr ""
+msgstr "vertikální měřítko dejaggingu"
 
 msgid "Smooth"
-msgstr ""
+msgstr "vyhladit"
 
 msgid "VideoEnhancementPreview"
-msgstr ""
+msgstr "VideoEnhancementPreview"
 
 msgid "Autoresolution"
-msgstr ""
+msgstr "Autoresolution"
 
 msgid "Autoresolution Switch"
-msgstr ""
+msgstr "přepnout Autoresolution"
 
 msgid "SD 25/50HZ Interlace Mode"
-msgstr ""
+msgstr "SD 25/50HZ prokládaný mód"
 
 msgid "SD 30/60HZ Interlace Mode"
-msgstr ""
+msgstr "SD 30/60HZ prokládaný mód"
 
 msgid "SD 25/50HZ Progressive Mode"
-msgstr ""
+msgstr "SD 25/50HZ prograsivní mód"
 
 msgid "SD 30/60HZ Progressive Mode"
-msgstr ""
+msgstr "SD 30/60HZ prograsivní mód"
 
 msgid "HD Interlace Mode"
-msgstr ""
+msgstr "HD prokládaný mód"
 
 msgid "HD Progressive Mode"
-msgstr ""
+msgstr "HD prograsivní mód"
 
 msgid "Enable 720p24 Mode"
-msgstr ""
+msgstr "aktivovat 720p24 mód"
 
 msgid "Enable 1080p24 Mode"
-msgstr ""
+msgstr "aktivovat 1080p24 mód"
 
 msgid "Enable 1080p25 Mode"
-msgstr ""
+msgstr "aktivovat 1080p25 mód"
 
 msgid "Enable 1080p30 Mode"
-msgstr ""
+msgstr "aktivovat 1080p30 mód"
 
 msgid "Enable 2160p24 Mode"
-msgstr ""
+msgstr "aktivovat 2160p24 mód"
 
 msgid "Enable 2160p25 Mode"
-msgstr ""
+msgstr "aktivovat 2160p25 mód"
 
 msgid "Enable 2160p30 Mode"
-msgstr ""
+msgstr "aktivovat 2160p30 mód"
 
 msgid "bob"
-msgstr ""
+msgstr "bob"
 
 msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
 msgstr ""
+"Testovací režim modulu Autoresolution :\n"
+"Je %s OK ?"
 
 msgid "Autoresolution videomode setup"
-msgstr ""
+msgstr "nastavit mód videa pro aut.rozlišení"
 
 msgid "Autoresolution settings"
-msgstr ""
+msgstr "nastavit aut.rozlišení"
 
 msgid "Enable Autoresolution"
-msgstr ""
+msgstr "aktivovat Autoresolution"
 
 msgid "Show info screen"
-msgstr ""
+msgstr "zobrazit info "
 
 msgid "Delay x seconds after service started"
-msgstr ""
+msgstr "zpoždění x sekund po spuštění kanálu"
 
 msgid "Running in testmode"
-msgstr ""
+msgstr "spustit v testovacím módu"
 
 msgid "Deinterlacer mode for interlaced content"
-msgstr ""
+msgstr "neprokládaný mód pro prokládaný obsah"
 
 msgid "Deinterlacer mode for progressive content"
-msgstr ""
+msgstr "neprokládaný mód pro progresivní obsah"
 
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr ""
+msgstr "Aut.rozlišení nefunguje v Scart/DVI-PC módu"
 
 msgid "multi"
-msgstr ""
+msgstr "multi"
 
 msgid "System services"
-msgstr ""
+msgstr "syst.služby"
 
 msgid "Debug options"
-msgstr ""
+msgstr "volby ladění"
 
 msgid "Software packages"
-msgstr ""
+msgstr "software balíčky"
 
 msgid "SecondInfoBar"
-msgstr ""
+msgstr "SecondInfoBar"
 
 msgid "Common"
-msgstr ""
+msgstr "obecné"
 
 msgid "Creating Timers"
-msgstr ""
+msgstr "zakládání časovačů"
 
 msgid "Buttons"
-msgstr ""
+msgstr "tlačítka"
 
 msgid "Timer List"
-msgstr ""
+msgstr "seznam časovačů"
 
 msgid "Notifications"
-msgstr ""
+msgstr "hlášení"
 
 msgid "GUI Setup"
-msgstr ""
+msgstr "nastavení Enigmy2"
 
 msgid "Movie playback"
-msgstr ""
+msgstr "přehrát video"
 
 msgid "Begin / End of playback"
-msgstr ""
+msgstr "začátek / konec přehrávání"
 
 msgid "Advertisment detection"
-msgstr ""
+msgstr "detekce reklamy"
 
 msgid "Setup - Buttons"
-msgstr ""
+msgstr "tlačítka - nastavení "
 
 msgid "Buttons setup"
-msgstr ""
+msgstr "nastavení tlačítek"
 
 msgid "bottom"
-msgstr ""
+msgstr "dole"
 
 msgid "OscamButler"
-msgstr ""
+msgstr "OscamButler"
 
 msgid "Please note: The generated configuration files do not contain any keys"
-msgstr ""
+msgstr "Poznámka : generované konfig.soubory neobsahují tlačítka"
 
 msgid "Create configuration"
-msgstr ""
+msgstr "generování konfigurace"
 
 msgid "Create configuration and open Cam Center"
-msgstr ""
+msgstr "generování konfigurace a otevření správy Cam"
 
 msgid "Username for Oscam-client user:"
-msgstr ""
+msgstr "uživatel pro Oscam klienta :"
 
 msgid "Password for Oscam-client user:"
-msgstr ""
+msgstr "heslo pro Oscam klienta :""
 
 msgid "IP address of Oscam-server:"
-msgstr ""
+msgstr "IP adresa pro Oscam server : "
 
 msgid "Port of Oscam-server:"
-msgstr ""
+msgstr "port pro Oscam server : "
 
 #, python-format
 msgid "Use internal reader 0%s:"
-msgstr ""
+msgstr "použít interní čtečku 0%s : "
 
 msgid "Smartcard type in internal reader 0:"
-msgstr ""
+msgstr "typ smart-karty v interní čtečce 0 : "
 
 #, python-format
 msgid "Use internal reader 1%s:"
-msgstr ""
+msgstr "použít interní čtečku 1%s : "
 
 msgid "Smartcard type in internal reader 1:"
-msgstr ""
+msgstr "typ smart-karty v int.čtečce 1 : "
 
 msgid "Use external reader 0:"
-msgstr ""
+msgstr "použít interní čtečku 0 : "
 
 msgid "Smartcard type in external reader 0:"
-msgstr ""
+msgstr "typ smart-karty v ext.čtečce 0 : "
 
 msgid "Use external reader 1:"
-msgstr ""
+msgstr "použít interní čtečku 1 : "
 
 msgid "Smartcard type in external reader 1:"
-msgstr ""
+msgstr "typ smart-karty v ext.čtečce 1 : "
 
 msgid "Connect to Oscam server:"
-msgstr ""
+msgstr "připojeno na Oscam server : "
 
 msgid "Enable Oscam WebInterface (Port 83):"
-msgstr ""
+msgstr "aktivovat Oscam WebInterface (port 83):"
 
 msgid "Enable Oscam server (cs378x protocol) (Port 37800):"
-msgstr ""
+msgstr "aktivovat Oscam server (cs378x protocol) (port 37800):"
 
 msgid "Add user for client connection"
-msgstr ""
+msgstr "přidat uživatele pro připojení klienta"
 
 msgid "Enable Oscam server (Cccam protocol) (Port 22209):"
-msgstr ""
+msgstr "aktivovat Oscam server (Cccam protocol) (port 22209):"
 
 msgid "Oscam Butler"
-msgstr ""
+msgstr "Oscam Butler"
 
 msgid "Please enter username:"
-msgstr ""
+msgstr "zadejte uživatele : "
 
 #, python-format
 msgid "Please enter password for user %s:"
-msgstr ""
+msgstr "zadejte heslo pro uživatele %s :"
 
 msgid "create basic configuraton files for Oscam"
-msgstr ""
+msgstr "sestavit základní konfig.soubory pro Oscam"
 
 #~ msgid "Recording controlled by channel"
 #~ msgstr "Nahrávání řízené vysíláním"
