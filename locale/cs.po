@@ -23968,336 +23968,342 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
+"Je naplánováno vypnutí Vu+ boxu !\n"
+"\n"
+"Pokračovat ?"
 
 #
 msgid "Ask before execution"
-msgstr ""
+msgstr "dotaz před provedením"
 
 #
 msgid "Vertical EPG View"
-msgstr ""
+msgstr "vertikální náhled EPG"
 
 #
 msgid "Vertical EPG view based on Vali Programm Guide"
-msgstr ""
+msgstr "vertikální náhled EPG od Vali Programm Guide"
 
 #
 msgid "Main Primetime (HH:MM):"
-msgstr ""
+msgstr "hl.vys.čas (HH:MM):"
 
 #
 msgid "Primetime at start:"
-msgstr ""
+msgstr "hl.vys.čas začíná v :"
 
 #
 msgid "Zap with OK button (false=EventInfo):"
-msgstr ""
+msgstr "OK -> zapnout (ne = EventInfo)"
 
 #
 msgid "No EPG data available"
-msgstr ""
+msgstr "data EPG nejsou dostupná"
 
 #
 msgid "Primetime"
-msgstr ""
+msgstr "hl.vys.čas"
 
 #
 msgid "Now"
-msgstr ""
+msgstr "nyní"
 
 #
 msgid "Full EPG"
-msgstr ""
+msgstr "plné EPG"
 
 #
 msgid "Select Info type..."
-msgstr ""
+msgstr "Info - volba typu..."
 
 #
 msgid "Standard EPG info"
-msgstr ""
+msgstr "standardní info EPG"
 
 #
 msgid "IMDb info"
-msgstr ""
+msgstr "IMDb - info"
 
 #
 msgid "Select timer type..."
-msgstr ""
+msgstr "Volba typu časovače..."
 
 #
 msgid "View AutoTimers"
-msgstr ""
+msgstr "AutoTimer - zobrazení"
 
 #
 msgid "Multi EPG column view"
-msgstr ""
+msgstr "náhled EPG ve sloupcích"
 
 #
 msgid "Next bouquet"
-msgstr ""
+msgstr "nová sada kanálů"
 
 #
 msgid "Previous bouquet"
-msgstr ""
+msgstr "předchozí sada nástrojů"
 
 #
 msgid "Next page"
-msgstr ""
+msgstr "další stránka"
 
 #
 msgid "Previous page"
-msgstr ""
+msgstr "předchozí stránka"
 
 #
 msgid "Add/remove timer"
-msgstr ""
+msgstr "přidat / odebrat časovač"
 
 #
 msgid "Now / Primetime / Full EPG"
-msgstr ""
+msgstr "naní / hl.vys.čas / plné EPG"
 
 #
 msgid "Scroll up all"
-msgstr ""
+msgstr "odrolovat nahoru"
 
 #
 msgid "Scroll down all"
-msgstr ""
+msgstr "odrolovat dolů"
 
 #
 msgid "Skip intervall in hours:"
-msgstr ""
+msgstr "interval skoku v hod.: "
 
 #
 msgid "Primetime II (HH:MM):"
-msgstr ""
+msgstr "hl.vys.čas II (HH:MM):"
 
 #
 msgid "Primetime III (HH:MM):"
-msgstr ""
+msgstr "hl.vys.čas III (HH:MM):"
 
 #
 msgid "Show only Primetime"
-msgstr ""
+msgstr "zobrazit pouze hl.vys.čas"
 
 #
 msgid "Input date and time"
-msgstr ""
+msgstr "vstup datumu a času"
 
 #
 msgid "Skip one day back"
-msgstr ""
+msgstr "skok o jeden den zpět"
 
 #
 msgid "Skip one day forward"
-msgstr ""
+msgstr "skok o jeden den dopředu"
 
 #
 msgid "Picons loaded: "
-msgstr ""
+msgstr "stáhnout picovy : "
 
 #
 msgid "Picons not found: "
-msgstr ""
+msgstr "nenalezené picony : "
 
 #
 msgid "loading"
-msgstr ""
+msgstr "načtení"
 
 #
 msgid "Manage your Picons"
-msgstr ""
+msgstr "správa picon"
 
 #
 msgid "color depth: "
-msgstr ""
+msgstr "barevná hloubka : "
 
 #
 msgid "Select service for preferred picon"
-msgstr ""
+msgstr "vyberte kanál pro preferovanou piconu"
 
 #
 msgid "is not installed."
-msgstr ""
+msgstr "není nainstalovaný"
 
 #
 msgid "Clean up the directory"
-msgstr ""
+msgstr "vyčistit složku"
 
 #
 msgid "Sorry, service is temporarily unavailable"
-msgstr ""
+msgstr "Sorry, kanál není aktuálně dostupný"
 
 #
 msgid "Not older than X days: "
-msgstr ""
+msgstr "ne starší než x dnů : "
 
 #
 msgid "Not older than X days:"
-msgstr ""
+msgstr "ne starší než x dnů : "
 
 #
 msgid "Show state message on non bluetooth setup screen."
-msgstr ""
+msgstr "zobrazit stavovou zprávu bez bluetooth"
 
 #
 msgid "Try connect to last audio device on start enable"
-msgstr ""
+msgstr "po startu připojit poslední audio"
 
 #
 msgid "Press red key to enable bluetooth."
-msgstr ""
+msgstr "červené tl. -> povolit bluetooth..."
 
 #
 msgid "Device is enabled."
-msgstr ""
+msgstr "zařízení je aktivováno"
 
 #
 msgid "Sink"
-msgstr ""
+msgstr "snížit"
 
 #
 msgid "Select sink which you want to use."
-msgstr ""
+msgstr "vyberte použitelné snížení"
 
 #
 msgid "Embedded subtitles"
-msgstr ""
+msgstr "vložené titulky"
 
 #
 msgid "Turn on the embedded subtitles support."
-msgstr ""
+msgstr "zapnout podporu vložených titulků"
 
 #
 msgid "Buffer size"
-msgstr ""
+msgstr "velikost bufferu"
 
 #
 msgid "Set buffer size in kilobytes."
-msgstr ""
+msgstr "nastavit velikost bufferu v kb"
 
 #
 msgid "Buffer duration"
-msgstr ""
+msgstr "doba pro buffer"
 
 #
 msgid "Set buffer duration in seconds."
-msgstr ""
+msgstr "nastavit dobu pro buffer v sek."
 
 #
 msgid "AAC software decoding"
-msgstr ""
+msgstr "dekódování AAC softwaru"
 
 #
 msgid "Turn on AAC software decoding."
-msgstr ""
+msgstr "zapnout dekódování AAC softwaru"
 
 #
 msgid "DTS software decoding"
-msgstr ""
+msgstr "dekódování DTS softwaru"
 
 #
 msgid "Turn on DTS software decoding."
-msgstr ""
+msgstr "zapnout dekódování DTS softwaru"
 
 #
 msgid "WMA software decoding"
-msgstr ""
+msgstr "dekódování WMA softwaru"
 
 #
 msgid "Turn on WMA1, WMA2, WMA/PRO software decoding."
-msgstr ""
+msgstr "zapnout dekódování WMA1, WMA2, WMA/PRO softwaru"
 
 #
 msgid "Stereo downmix"
-msgstr ""
+msgstr "stereo downmix"
 
 #
 msgid "Turn on downmix to stereo, when software decoding is in use"
-msgstr ""
+msgstr "při software dekódování přepnout downmix na stereo"
 
 #
 msgid "LPCM injection"
-msgstr ""
+msgstr "použít LPCM"
 
 #
 msgid ""
 "Software decoder use LPCM for injection (otherwise wav PCM will be used)"
-msgstr ""
+msgstr "softwareový dekodér používá LPCM (jinak se použije WAW PCM)"
 
 #
 msgid "Auto turn on subtitles"
-msgstr ""
+msgstr "aut.zapnout titulky"
 
 #
 msgid "Automatically turn on subtitles if available."
-msgstr ""
+msgstr "aut.zapnout titulky, pokud jsou dostupné"
 
 #
 msgid "HLS Explorer"
-msgstr ""
+msgstr "průzkumník HLS"
 
 #
 msgid ""
 "Turn on explorer to retrieve different quality streams from HLS variant "
 "playlist and select them via subservices."
 msgstr ""
+"zapnout průzkumníka HLS, pokud potřebujete rozdílnou kvalitu řetězců "
+"a vybrat přes pod-kanály"
 
 #
 msgid "Auto select stream"
-msgstr ""
+msgstr "aut.výběr řetězce"
 
 #
 msgid "Turn on auto-selection of streams according to set Connection speed."
-msgstr ""
+msgstr "zapnout aut.výběr řetězců podle nastavené rychlosti připojení"
 
 #
 msgid "Connection speed"
-msgstr ""
+msgstr "rychlosti připojení"
 
 #
 msgid ""
 "Set connection speed in kb/s, according to which you want to have streams "
 "auto-selected"
 msgstr ""
+"nastavit rychlost připojení v kb/s, podle které chcete řetězce aut.vybrat"
 
 #
 msgid "ExtEplayer3"
-msgstr ""
+msgstr "ExtEplayer3"
 
 #
 msgid "GstPlayer"
-msgstr ""
+msgstr "GstPlayer"
 
 #
 msgid "Enigma2 playback system"
-msgstr ""
+msgstr "systém přehrávání v Enigmě2"
 
 #
 msgid "Select the player which will be used for Enigma2 playback."
-msgstr ""
+msgstr "vyberte přehrávač, který bude použitý pro přehrávání v Enigmě2"
 
 #
 msgid "Player"
-msgstr ""
+msgstr "přehrávač"
 
 #
 msgid ""
 "Select the player which will be used in serviceapp for Enigma2 playback."
-msgstr ""
+msgstr "vyberte přehrávač, který bude použitý v serviceapp pro přehrávání v Enigmě2"
 
 #
 msgid "ServiceMp3 (%s)"
-msgstr ""
+msgstr "ServiceMp3 (%s)"
 
 #
 msgid "ServiceGstPlayer (%s)"
-msgstr ""
+msgstr "ServiceGstPlayer (%s)"
 
 #
 msgid "ServiceExtEplayer3 (%s)"
-msgstr ""
+msgstr "ServiceExtEplayer3 (%s)"
 
 #
 msgid ""
@@ -24305,98 +24311,101 @@ msgid ""
 "\n"
 "Do you want to restart it now?"
 msgstr ""
+"Systém přehrávání Enigmy2 byl změněný a Enigma2 by měla být restartována !\n"
+"\n"
+"Chcete restartovat nyní ?"
 
 #
 msgid "setup player framework"
-msgstr ""
+msgstr "nastavit rámce přehrávače"
 
 #
 msgid "Play with ServiceExtEplayer3"
-msgstr ""
+msgstr "přehrát přes ServiceExtEplayer3"
 
 #
 msgid "Play with ServiceGstPlayer"
-msgstr ""
+msgstr "přehrát přes ServiceGstPlayer"
 
 #
 msgid "ServiceApp"
-msgstr ""
+msgstr "ServiceApp"
 
 #
 msgid "Dolby Digital+ (AC3+) default"
-msgstr ""
+msgstr "Dolby Digital+ (AC3+) předvoleno"
 
 #
 msgid "Automatic Audio/Subtitle track selection"
-msgstr ""
+msgstr "aut.vybrat audio / titulky"
 
 #
 msgid "First audio language"
-msgstr ""
+msgstr "první audio jazyk"
 
 #
 msgid "Second audio language"
-msgstr ""
+msgstr "druhý audio jazyk"
 
 #
 msgid "Third audio language"
-msgstr ""
+msgstr "třetí audio jazyk"
 
 #
 msgid "Fourth audio language"
-msgstr ""
+msgstr "čtvrtý audio jazyk"
 
 #
 msgid "Use selected audio track stored per service"
-msgstr ""
+msgstr "použít vybranou audio stopu uloženou v každém kanálu"
 
 #
 msgid "First subtitle language"
-msgstr ""
+msgstr "první jazyk titulků"
 
 #
 msgid "Second subtitle language"
-msgstr ""
+msgstr "druhý jazyk titulků"
 
 #
 msgid "Third subtitle language"
-msgstr ""
+msgstr "třetí jazyk titulků"
 
 #
 msgid "Fourth subtitle language"
-msgstr ""
+msgstr "čtvrtý jazyk titulků"
 
 #
 msgid "Allow subtiles with same language as audio language"
-msgstr ""
+msgstr "sesouhlasit jazyk titulků a audia"
 
 #
 msgid "Allow auto select hearing impaired subtitles"
-msgstr ""
+msgstr "aut.výběr titulků pro sluchově postižené"
 
 #
 msgid "Default auto select hearing impaired subtitles"
-msgstr ""
+msgstr "výchozí aut.výběr titulků pro sluchově postižené"
 
 #
 msgid "Prefer DVB subtitles"
-msgstr ""
+msgstr "preferované DVB titulky"
 
 #
 msgid "Use selected subtitle track stored per service"
-msgstr ""
+msgstr "použít vybranou stopu titulků uloženou v každém kanálu"
 
 #
 msgid "Setup - Audio/Subtitle tracks"
-msgstr ""
+msgstr "nastavit stopu audio / titulků"
 
 #
 msgid "HDMI Colordepth"
-msgstr ""
+msgstr "barevná hloubka HDMI"
 
 #
 msgid "Set bluetooth audio delay."
-msgstr ""
+msgstr "nastavit  zpoždění bluetooth audio stopy"
 
 #
 msgid "Please enter a name for the HDMI IN service"
