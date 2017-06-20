@@ -14687,7 +14687,7 @@ msgid "At which time, HDMI-Cec should be disabled?"
 msgstr "v jaký čas HDMI-CEC vypnout ?"
 
 msgid "from (HH:MI)"
-msgstr "z (HH:MI)""
+msgstr "z (HH:MI)"
 
 msgid "Until the time at which, HDMI-Cec should be disabled?"
 msgstr "do jakého času HDMI-CEC vypnout ?"
@@ -15498,9 +15498,6 @@ msgstr "-- poslouchat internet.rádio"
 
 msgid "Genres"
 msgstr "kategorie"
-
-msgid "Filter:"
-msgstr "filtr : "
 
 msgid "Streaming Information"
 msgstr "Informace o sdílení..."
@@ -16493,7 +16490,7 @@ msgid "If enabled, the polling will be skipped if the Dreambox is recording."
 msgstr "Vyhledávání během nahrávání bude přerušeno !"
 
 msgid "Configure AutoTimer behavior"
-msgstr ""Konfigurace časovačů..."
+msgstr "Konfigurace časovačů..."
 
 msgid "Edit selected AutoTimer"
 msgstr "upravit vybraný časovač"
@@ -18772,7 +18769,7 @@ msgid "Username for Oscam-client user:"
 msgstr "uživatel pro Oscam klienta :"
 
 msgid "Password for Oscam-client user:"
-msgstr "heslo pro Oscam klienta :""
+msgstr "heslo pro Oscam klienta :"
 
 msgid "IP address of Oscam-server:"
 msgstr "IP adresa pro Oscam server : "
