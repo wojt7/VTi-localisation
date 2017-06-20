@@ -224,22 +224,22 @@ msgstr ""
 "časovače prázdný!"
 
 msgid "Elektro Power Save"
-msgstr ""
+msgstr "Uložení Elektro Power"
 
 msgid "Automatically shut down to deep standby"
-msgstr ""
+msgstr "Automaticky vypnout"
 
 msgid "Extensions menu"
-msgstr ""
+msgstr "Rozšířené menu"
 
 msgid "Plugin menu"
-msgstr ""
+msgstr "Seznam modulů"
 
 msgid "yes, Profile 1"
-msgstr ""
+msgstr "ano, profil 1"
 
 msgid "yes, Profile 2"
-msgstr ""
+msgstr "ano, profil 2"
 
 msgid "Monday"
 msgstr "pondělí"
@@ -263,28 +263,29 @@ msgid "Sunday"
 msgstr "neděle"
 
 msgid "no Name"
-msgstr ""
+msgstr "bez názvu"
 
 msgid "Connection Error"
-msgstr ""
+msgstr "Chyba připojení"
 
 msgid "Ver."
-msgstr ""
+msgstr "ver."
 
 msgid "Wakeup"
-msgstr ""
+msgstr "Vzbudit"
 
 msgid "Sleep"
-msgstr ""
+msgstr "Uspat"
 
 msgid "Next day starts at"
-msgstr ""
+msgstr "Další den spustit v "
 
 msgid ""
 "If the box is supposed to enter deep standby e.g. monday night at 1 AM, it "
 "actually is already tuesday. To enable this anyway, differing next day start "
 "time can be specified here."
-msgstr ""
+msgstr "Pokud potřebujete box vypnout, např. v pondělí v 1 hod. v noci, "
+"což je už v úterý. Specifikaci času upravíte zde."
 
 msgid "Ok"
 msgstr "OK"
@@ -293,10 +294,10 @@ msgid "IP Address"
 msgstr "Adresa IP: "
 
 msgid "please wait..."
-msgstr ""
+msgstr "čekejte..."
 
 msgid "NAS/Server Name or IP"
-msgstr ""
+msgstr "Název NASu/serveru nebo IP"
 
 msgid "Username"
 msgstr "Uživatel"
@@ -305,141 +306,148 @@ msgid "Password"
 msgstr "Heslo"
 
 msgid "Command [poweroff, shutdown -h,...]"
-msgstr ""
+msgstr "Příkaz [vypnout, spánek -h,...]"
 
 msgid "Telnet Port"
-msgstr ""
+msgstr "Telnet port"
 
 msgid "Waiting until poweroff"
-msgstr ""
+msgstr "Počkat do vypnutí"
 
 msgid "Run"
-msgstr ""
+msgstr "Spustit"
 
 msgid "Active Time Profile"
-msgstr ""
+msgstr "Aktivní čas.profil"
 
 msgid "The active Time Profile is (1 or 2)."
-msgstr ""
+msgstr "Aktivní čas.profil je (1 nebo 2)"
 
 msgid "Enable Elektro Power Save"
-msgstr ""
+msgstr "Povolit uložení Elektro Power"
 
 msgid "Unless this is enabled, this plugin won't run automatically."
-msgstr ""
+msgstr "Pokud je to povoleno, nebude se modul spouštět automaticky"
 
 msgid "Use both profiles alternately"
-msgstr ""
+msgstr "Použít oba profily střídavě"
 
 msgid ""
 "Both profiles are used alternately. When shutting down the other profile is "
 "enabled. This allows two time cycles per day. Do not overlap the times."
-msgstr ""
+msgstr "Oba profily jsou používány střídavě. Po vypnutí je použit další profil."
+"Povoleny jsou dva cykly za den. Časy nepřekrývat !"
 
 msgid "Standby on boot"
-msgstr ""
+msgstr "Režim spánku po nabootování"
 
 msgid "Puts the box in standby mode after boot."
-msgstr ""
+msgstr "Po nabootování přepne box do režimu spánku"
 
 msgid "Standby on manual boot"
-msgstr ""
+msgstr "Režim spánku po manuálním nabootování"
 
 msgid ""
 "Whether to put the box in standby when booted manually. On manual boot the "
 "box will not go to standby before the next deep standby interval starts, "
 "even if this option is set. This option is only active if 'Standby on boot' "
 "option is set, too."
-msgstr ""
+msgstr "Pokud je box uvedený do spánku po ručním nabootování, nepůjde box"
+"do režimu spánku před dalším intervalem pro vypnutí."
 
 msgid "Standby on boot screen timeout"
-msgstr ""
+msgstr "Do režimu spánku po uplynutí určeného času"
 
 msgid ""
 "Specify how long to show the standby query on boot screen. This value can be "
 "set to ensure the box does not shut down to deep standby again too fast when "
 "in standby mode."
-msgstr ""
+msgstr "Specifikuje, jak dlouho bude zobrazený dotaz na bootování. Hodnota zajišťuje "
+"vypnutí boxu se zpožděním."
 
 msgid "Force sleep (even when not in standby)"
-msgstr ""
+msgstr "Vynucený režim spánku"
 
 msgid ""
 "Forces deep standby, even when not in standby mode. Scheduled recordings "
 "remain unaffected."
-msgstr ""
+msgstr "Vnutit režim spánku, pokud tam není. Naplánované nahrávání tím dotčeno nebude."
 
 msgid "Avoid deep standby when HDD is active, e.g. for FTP"
-msgstr ""
+msgstr "Nepřepínat do režimu spánku, pokud je HDD aktivní - např. FTP"
 
 msgid ""
 "Wait for the HDD to enter sleep mode. Depending on the configuration this "
 "can prevent the box entirely from entering deep standby mode."
-msgstr ""
+msgstr "Počká až se HDD zastaví. V konfiguraci boxu lze vypnutí zakázat."
 
 msgid "Check IPs (press OK to edit)"
-msgstr ""
+msgstr "Kontrola IP (OK -> upravit...)"
 
 msgid ""
 "This list of IP addresses is checked. Elektro waits until addresses no "
 "longer responds to ping."
-msgstr ""
+msgstr "Tento seznam IP adres je kontrolovaný. Elektro čeká, až adresy"
+"nereagují na ping"
 
 msgid "NAS Poweroff (press OK to edit)"
-msgstr ""
+msgstr "Vypnutí NASu (OK -> upravit...)"
 
 msgid "A NAS/Server can be shut down. Is required activated Telnet."
-msgstr ""
+msgstr "NAS/server může být vypnutý. Je nutný aktivní Telnet."
 
 msgid "Don't wake up"
-msgstr ""
+msgstr "Neprobouzet"
 
 msgid "Do not wake up at the end of next deep standby interval."
-msgstr ""
+msgstr "Nebudit na konci dalšího intervalu pro režim spánku"
 
 msgid "Holiday mode (experimental)"
-msgstr ""
+msgstr "Prázdninový mód (experimentální)"
 
 msgid "The box always enters deep standby mode, except for recording."
-msgstr ""
+msgstr "Box se vždy vypne, mimo režim nahrávání"
 
 msgid "Show in"
-msgstr ""
+msgstr "Zobrazit v "
 
 msgid ""
 "Specify whether plugin shall show up in plugin menu or extensions menu "
 "(needs GUI restart)"
-msgstr ""
+msgstr "Specifikuje, zda se modul zobrazí v hl.menu nebo v rozšířeném menu"
+"nutný restart Enigmy2)"
 
 msgid "Name"
 msgstr "Název"
 
 msgid "Specify plugin name to be used in menu (needs GUI restart)."
-msgstr ""
+msgstr "Specifikace názvu moduly použitého v hl.menu"
+"(nutný restart Enigmy2)"
 
 msgid "Description"
 msgstr "Popis"
 
 msgid "Specify plugin description to be used in menu (needs GUI restart)."
-msgstr ""
+msgstr "Specifikace popisu moduly použitého v hl.menu"
+"(nutný restart Enigmy2)"
 
 msgid "Help"
 msgstr "Nápověda"
 
 msgid "Times"
-msgstr ""
+msgstr "Časovače"
 
 msgid "Showing Elektro readme.txt"
-msgstr ""
+msgstr "Zobrazit Elektro readme.txt"
 
 msgid "readme.txt"
-msgstr ""
+msgstr "readme.txt"
 
 msgid "Go to Standby now?"
-msgstr ""
+msgstr "Přepnout do režimu spánku ?"
 
 msgid "Go to sleep now?"
-msgstr ""
+msgstr "Uspat nyní ?"
 
 msgid ""
 "\n"
@@ -4354,22 +4362,22 @@ msgid "Please set up tuner D"
 msgstr "Nastavte tuner \"D\" "
 
 msgid "Please set up tuner E"
-msgstr ""
+msgstr "Nastavte tuner \"E\" "
 
 msgid "Please set up tuner F"
-msgstr ""
+msgstr "Nastavte tuner \"F\" "
 
 msgid "Please set up tuner G"
-msgstr ""
+msgstr "Nastavte tuner \"G\" "
 
 msgid "Please set up tuner H"
-msgstr ""
+msgstr "Nastavte tuner \"H\" "
 
 msgid "Please set up tuner I"
-msgstr ""
+msgstr "Nastavte tuner \"I\" "
 
 msgid "Please set up tuner J"
-msgstr ""
+msgstr "Nastavte tuner \"J\" "
 
 msgid "Please setup your tuner configuration."
 msgstr "Prosím, upravte konfiguraci tuneru"
@@ -5306,7 +5314,7 @@ msgid "Setup - Timer"
 msgstr "Nastavení - časovače nahrávání"
 
 msgid "Setup - Timeshift"
-msgstr ""
+msgstr "Nastavení - Timeshift"
 
 msgid "Setup - Service List"
 msgstr "Nastavení - seznam kanálů"
@@ -5744,7 +5752,7 @@ msgid "Subservice list..."
 msgstr "Zelené uživ.tlačítko (seznam programů)"
 
 msgid "Subservices"
-msgstr "Programy"
+msgstr "Pod-kanály"
 
 msgid "Subtitle selection"
 msgstr "Výběr titulků..."
@@ -9370,16 +9378,16 @@ msgid "5 seconds"
 msgstr "5 sek."
 
 msgid "6 seconds"
-msgstr ""
+msgstr "6 sek."
 
 msgid "7 seconds"
-msgstr ""
+msgstr "7 sek."
 
 msgid "8 seconds"
-msgstr ""
+msgstr "8 sek."
 
 msgid "9 seconds"
-msgstr ""
+msgstr "9 sek."
 
 msgid "10 seconds"
 msgstr "10 sek."
@@ -9732,117 +9740,119 @@ msgid "FCC restart"
 msgstr "Restart FCC"
 
 msgid "Show build in SecondInfobar"
-msgstr ""
+msgstr "Zobrazit sestavu v SecondInfobaru"
 
 msgid "SecondInfobar timeout"
-msgstr ""
+msgstr "SecondInfobar - čas zobrazení"
 
 msgid "same as Infobar"
-msgstr ""
+msgstr "Stejně jako hl.info-panel"
 
 msgid "Use cross left/right buttons for bouquet change in service list"
-msgstr ""
+msgstr "Šipky vlevo / vpravo pro změnu seznamu kanálů"
 
 msgid "Use OK button for opening favourite list"
-msgstr ""
+msgstr "OK -> pro otevření oblíbeného seznamu"
 
 msgid "Timeout for double-click (ms)"
-msgstr ""
+msgstr "Čas.odstup pro dvojklik (ms)"
 
 msgid "Use double click for OK button"
-msgstr ""
+msgstr "Použít dvojklik pro OK tlačítko"
 
 msgid "Enable advertisment detection (I-net is mandatory)"
-msgstr ""
+msgstr "Povolit detekci reklany (I-net je nutný)"
 
 msgid "Show icons in service list at services with advertisment"
-msgstr ""
+msgstr "Zobrazit v seznamu kanálů ikony s reklamou"
 
 msgid "Exclude services with advertisment at left/right zapping"
-msgstr ""
+msgstr "Vyloučit kanály s reklamou zapnutím vlevo / vpravo"
 
 msgid "Set marker for advertisment during recording"
-msgstr ""
+msgstr "Nastavit značky pro reklamu při nahrávání"
 
 msgid "Scan in background"
-msgstr ""
+msgstr "Procházet na pozadí"
 
 msgid "Show preview pictures in service list"
-msgstr ""
+msgstr "Zobrazit v seznamu kanálů náhled obrázků"
 
 msgid "Time in minutes before preview pictures will be updated"
-msgstr ""
+msgstr "Čas v min. před aktualizací náhledu obrázků"
 
 msgid "Include configuration file in crash log"
-msgstr ""
+msgstr "Včetně konfig.souboru v chyb.protokolu"
 
 msgid "Fast Scan"
-msgstr ""
+msgstr "Rychlé prohledání"
 
 msgid "Scanning %s..."
-msgstr ""
+msgstr "Skenovat %s..."
 
 msgid "Scanning failed!"
-msgstr ""
+msgstr "Skenování selhalo !"
 
 msgid "List version %d, found %d channels"
-msgstr ""
+msgstr "Seznam verzí %d, nalezeno %d kanálů"
 
 msgid "HD list"
-msgstr ""
+msgstr "seznam HD"
 
 msgid "Select your provider, and press OK to start the scan"
-msgstr ""
+msgstr "Vyberte operátora. OK -> spustit skenování..."
 
 msgid "Use fastscan channel names"
-msgstr ""
+msgstr "Použít rychlé procházení názvů kanálů"
 
 msgid "Enable auto fast scan"
-msgstr ""
+msgstr "Použít aut.rychlé procházení"
 
 msgid "Enable auto fast scan for %s"
-msgstr ""
+msgstr "Použít aut.rychlé procházení pro %s"
 
 msgid ""
 "A recording is currently running. Please stop the recording before trying to "
 "scan."
-msgstr ""
+msgstr "Aktuálně běží nahrávání. Zastavte ho před pokusem "
 
 msgid "No suitable sat tuner found!"
-msgstr ""
+msgstr "Nebyl nalezený žádný vhodný tuner !"
 
 msgid "Automatic framerate detection"
-msgstr ""
+msgstr "Aut.detekování obnov.kmitočtu"
 
 msgid "Mode for framerate change"
-msgstr ""
+msgstr "Mód pro změnu obnov.kmitočtu"
 
 msgid ""
 "Changing framerate for current service?\n"
 "Current framerate: %s\n"
 "New framerate: %s\n"
-msgstr ""
+msgstr "Změnit obnov.kmitočet akt.kanálu ?"
+"Aktuální obnov.kmitočet: %s\n"
+"Nový obnov.kmitočet: %s\n"
 
 msgid "automatically"
-msgstr ""
+msgstr "automaticky"
 
 msgid "manually"
-msgstr ""
+msgstr "manuálně"
 
 msgid "Hide Infobar when SecondInfobar is shown"
-msgstr ""
+msgstr "Skrýt hl.info-panel při zobrazení 2.info-panelu"
 
 msgid "Can not find wireless lan devices that support AP mode."
-msgstr ""
+msgstr "Nenalezeny body v bezdrátové síti s podporou AP módu"
 
 msgid "Use alternative service list (horizontal) mode"
-msgstr ""
+msgstr "Použít akternativní seznam kanálů (vodorovný)"
 
 msgid "Do you want to install OScam as SoftCam for your smartcards?"
-msgstr ""
+msgstr "Chcete nainstalovat OScam jako SoftCam pro kartu ?"
 
 msgid "The SoftCam was installed successfully"
-msgstr ""
+msgstr "SoftCam byl v pořádku nainstalovaný"
 
 msgid "Autostart"
 msgstr "Aut.start"
@@ -12302,76 +12312,76 @@ msgid "Temporary folder (/tmp)"
 msgstr "Dočasná složka (/tmp)"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Sada kanálů"
 
 msgid "Multi Sat"
-msgstr ""
+msgstr "Multi sat."
 
 msgid "Press ok or green button to install satellites.xml"
-msgstr ""
+msgstr "OK nebo zelené tl. -> instalovat satellites.xml"
 
 msgid "Downloading satellites failed!"
-msgstr ""
+msgstr "Načtení satelitů selhalo !"
 
 msgid "satellites.xml is updated"
-msgstr ""
+msgstr "satellites.xml byl aktualizovaný"
 
 msgid "GUI needs a restart to apply changes."
-msgstr ""
+msgstr "Změny si vyžadují restart Enigmy2 !"
 
 msgid "Do you want to restart the GUI now?"
-msgstr ""
+msgstr "Restartovat Enigmu2 nyní ?"
 
 msgid "GUI needs a restart."
-msgstr ""
+msgstr "Změny si vyžadují restart Enigmy2 !"
 
 msgid "selected bouquets are installed"
-msgstr ""
+msgstr "vybraná sada kanálů je nainstalována"
 
 msgid "Please select at least one bouquet"
-msgstr ""
+msgstr "Vyberte alespoň jednu sadu kanálů"
 
 msgid "Downloading bouquets failed!"
-msgstr ""
+msgstr "Načtení sady kanálů selhalo !"
 
 msgid "Downloading succesfull! Parsing ..."
-msgstr ""
+msgstr "Načtení je hotové. Analýza..."
 
 msgid "Press ok button to select bouquet"
-msgstr ""
+msgstr "OK -> vybrat sadu kanálů..."
 
 msgid "Parsing failed!"
-msgstr ""
+msgstr "Analýza selhala !"
 
 msgid "Source:"
-msgstr ""
+msgstr "zdroj : "
 
 msgid "Download:"
-msgstr ""
+msgstr "stahování : "
 
 msgid "satellites.xml has been built."
-msgstr ""
+msgstr "satellites.xml byl sestavený"
 
 msgid "Please select at least one satellite"
-msgstr ""
+msgstr "Vyberte alespoň jeden satelit"
 
 msgid "Press ok button to select satellite"
-msgstr ""
+msgstr "OK -> vybrat satelit..."
 
 msgid "Transponder selection"
-msgstr ""
+msgstr "výběr transpondéru"
 
 msgid "Frequency:"
-msgstr ""
+msgstr "frekvence : "
 
 msgid "Symbol Rate:"
-msgstr ""
+msgstr "přenos.rychlost : "
 
 msgid "has been saved."
-msgstr ""
+msgstr "bylo uloženo"
 
 msgid "Please select at least one transponder"
-msgstr ""
+msgstr "Vyberte alespoň jeden transpondér"
 
 msgid "Configuration"
 msgstr "- konfigurace"
@@ -12383,7 +12393,7 @@ msgid "Enable InfoBarTunerState"
 msgstr "Povolit info-panel nahrávání"
 
 msgid "Add to extension menu"
-msgstr ""
+msgstr "Přidat do rozšířeného menu"
 
 msgid "Show and hide with InfoBar"
 msgstr "InfoBarTunerState - zobrazit"
@@ -12407,7 +12417,7 @@ msgid "Field %d content"
 msgstr "Obsah pole %d"
 
 msgid "Horizontal offset in pixel"
-msgstr ""
+msgstr "vodorovné odsazení (pixely)"
 
 msgid "Vertical offset in pixel"
 msgstr "Svislé odsazení shora (pixely)"
@@ -12446,10 +12456,10 @@ msgid "%d GB"
 msgstr "%d GB"
 
 msgid "InfoBar Tuner State"
-msgstr ""
+msgstr "Info-panel - stav tuneru"
 
 msgid "Show InfoBar Tuner State"
-msgstr ""
+msgstr "zobrazit v info-panelu stav tuneru"
 
 msgid "Type (Icon)"
 msgstr "ikona"
@@ -12545,282 +12555,287 @@ msgid "InfoBarTunerState is disabled"
 msgstr "InfoBarTunerState je vypnutý"
 
 msgid "MerlinMusicPlayer"
-msgstr ""
+msgstr "MerlinMusicPlayer"
 
 msgid "Not easy way to start EasyMedia"
-msgstr ""
+msgstr "Není snadné spustit EasyMedia"
 
 msgid "Music player:"
-msgstr ""
+msgstr "Music player:"
 
 msgid "Files browser:"
-msgstr ""
+msgstr "Správce souborů : "
 
 msgid "Show bookmarks:"
-msgstr ""
+msgstr "Zobrazit záložky : "
 
 msgid "YouTube player:"
-msgstr ""
+msgstr "Přehrávač YouTube : "
 
 msgid "VLC player:"
-msgstr ""
+msgstr "Přehrávač VLC : "
 
 msgid "DVD player:"
-msgstr ""
+msgstr "Přehrávač DVD : "
 
 msgid "Weather plugin:"
-msgstr ""
+msgstr "Počasí : "
 
 msgid "NetRadio player:"
-msgstr ""
+msgstr "NetRadio : "
 
 msgid "Show Merlin-iDream:"
-msgstr ""
+msgstr "Merlin-iDream : "
 
 msgid "ZDFmediathek player:"
-msgstr ""
+msgstr "Přehrávač ZDFmediathek : "
 
 msgid "Pictures"
-msgstr ""
+msgstr "obrázky"
 
 msgid "Music"
-msgstr ""
+msgstr "audio"
 
 msgid "Weather"
-msgstr ""
+msgstr "počasí"
 
 msgid "Files"
-msgstr ""
+msgstr "soubory"
 
 msgid "SHOUTcast"
-msgstr ""
+msgstr "SHOUTcast"
 
 msgid "iDream"
-msgstr ""
+msgstr "iDream"
 
 msgid "MyTube Player"
-msgstr ""
+msgstr "Přehrávač MyTube"
 
 msgid "VLC Player"
-msgstr ""
+msgstr "Přehrávač VLC"
 
 msgid "ZDFmediathek"
-msgstr ""
+msgstr "ZDFmediathek"
 
 msgid "Filebrowser"
 msgstr "Správce souborů"
 
 msgid "DreamExplorer"
-msgstr ""
+msgstr "DreamExplorer"
 
 msgid "Picture-player is not installed!"
-msgstr ""
+msgstr "Picture-player není nainstalovaný !"
 
 msgid "No Music-Player installed!"
-msgstr ""
+msgstr "Music-Player není nainstalovaný !"
 
 msgid "No File-Manager installed!"
-msgstr ""
+msgstr "File-Manager není nainstalovaný !"
 
 msgid "Weather Plugin is not installed!"
-msgstr ""
+msgstr "Weather není nainstalovaný !"
 
 msgid "DVDPlayer Plugin is not installed!"
-msgstr ""
+msgstr "DVDPlayer není nainstalovaný !"
 
 msgid "MyTube Plugin is not installed!"
-msgstr ""
+msgstr "MyTube není nainstalovaný !"
 
 msgid "SHOUTcast Plugin is not installed!"
-msgstr ""
+msgstr "SHOUTcast není nainstalovaný !"
 
 msgid "ZDFmediathek Plugin is not installed!"
-msgstr ""
+msgstr "ZDFmediathek není nainstalovaný !"
 
 msgid "VLC Player is not installed!"
-msgstr ""
+msgstr "VLC Player není nainstalovaný !"
 
 msgid "Merlin iDream is not installed!"
-msgstr ""
+msgstr "Merlin iDream není nainstalovaný !"
 
 msgid "EasyMedia settings..."
-msgstr ""
+msgstr "EasyMedia - nastavení..."
 
 msgid "Select bookmark..."
-msgstr ""
+msgstr "Výběr záložek..."
 
 msgid "Tv/Radio"
-msgstr ""
+msgstr "TV/Rádio"
 
 msgid "Show tv/radio switch:"
-msgstr ""
+msgstr "Zobrazit TV/Rádio : "
 
 msgid "TV-mode"
-msgstr ""
+msgstr "TV mód"
 
 msgid "Radio-mode"
-msgstr ""
+msgstr "Rádio mód"
 
 msgid "MyVideo Player is not installed!"
-msgstr ""
+msgstr "MyVideo není nainstalovaný !"
 
 msgid "MyVideo"
-msgstr ""
+msgstr "MyVideo"
 
 msgid "MyVideo player:"
-msgstr ""
+msgstr "Přehrávač MyVideo : "
 
 msgid "Add/remove plugin"
-msgstr ""
+msgstr "Přidat / odebrat modul"
 
 msgid " removed from EasyMedia"
-msgstr ""
+msgstr "odebrat z EasyMedia"
 
 msgid " added to EasyMedia"
-msgstr ""
+msgstr "přidat do EasyMedia"
 
 msgid "VideoDB is not installed!"
-msgstr ""
+msgstr "VideoDB není nainstalované !"
 
 msgid "PicturePlayer:"
-msgstr ""
+msgstr "PicturePlayer : "
 
 msgid "Video database:"
-msgstr ""
+msgstr "databáze videa : "
 
 msgid "VideoDB"
-msgstr ""
+msgstr "VideoDB"
 
 msgid "Channel: "
-msgstr ""
+msgstr "kanál : "
 
 msgid "%s does not exist!"
-msgstr ""
+msgstr "%s neexistuje !"
 
 msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
-msgstr ""
+msgstr "Chyba sejmutí obrázku ! Grab ver.musí být 0.8 nebo vyšší."
 
 msgid "Countdown:"
-msgstr ""
+msgstr "odpočet : "
 
 msgid "Mosaic"
-msgstr ""
+msgstr "mozaika"
 
 msgid " as "
-msgstr ""
+msgstr " jako "
 
 msgid "Ambiguous results"
-msgstr ""
+msgstr "nejednoznačný výsledek"
 
 msgid "Cast: "
-msgstr ""
+msgstr "obsazení : "
 
 msgid "Could't get Eventname"
-msgstr ""
+msgstr "Nelze načíst program !"
 
 msgid "Details"
-msgstr ""
+msgstr "deteily"
 
 msgid "Downloading Movie Poster: %s..."
-msgstr ""
+msgstr "Stahování potisku videa : %s..."
 
 msgid "Extra Info"
-msgstr ""
+msgstr "Extra info"
 
 msgid "IMDb Details parsed"
-msgstr ""
+msgstr "IMDb deteily"
 
 msgid "IMDb Download completed"
-msgstr ""
+msgstr "stahování z IMDb je hotové"
 
 msgid "IMDb Download failed"
-msgstr ""
+msgstr "Stahování z IMDb selhalo !"
 
 msgid "IMDb Plugin"
-msgstr ""
+msgstr "IMDb modul"
 
 msgid "IMDb Re-Download completed"
-msgstr ""
+msgstr "Nové stažení z IMDb je kompletní"
 
 msgid "IMDb query failed!"
-msgstr ""
+msgstr "Dotaz do IMDb selhal !"
 
 msgid "Lookup"
-msgstr ""
+msgstr "vyhledání"
 
 msgid "No IMDb match."
-msgstr ""
+msgstr "Nenalezeno v IMDb !"
 
 msgid "No cast list found in the database."
-msgstr ""
+msgstr "V databázi seznam není !"
 
 msgid "No details found."
-msgstr ""
+msgstr "Chybí deteily !"
 
 msgid "Please select the matching entry"
-msgstr ""
+msgstr "Vyberte odpovídající zadání"
 
 msgid "Query IMDb: %s..."
-msgstr ""
+msgstr "Dotaz IMDb: %s..."
 
 msgid "Query details from the Internet Movie Database"
-msgstr ""
+msgstr "Dotaz na detaily z Internet Movie databáze"
 
 msgid "Re-Query IMDb: %s..."
-msgstr ""
+msgstr "Nový dotaz v IMDb: %s..."
 
 msgid "The Internet Movie Database"
 msgstr ""
 
 msgid "Title Menu"
-msgstr ""
+msgstr "název menu"
 
 msgid "no user rating yet"
-msgstr ""
+msgstr "ještě nikdo nehodnotil"
 
 msgid "%(name)s (%(user)s@%(server)s)"
-msgstr ""
+msgstr "%(name)s (%(user)s@%(server)s)"
 
 msgid "Accounts list"
-msgstr ""
+msgstr "seznam účtů"
 
 msgid "Attachments"
-msgstr ""
+msgstr "přílohy"
 
 msgid "Bodys"
-msgstr ""
+msgstr "základny"
 
 msgid "Email Client"
-msgstr ""
+msgstr "E-mail klient"
 
 msgid "Email setup"
-msgstr ""
+msgstr "E-mail - nastavení"
 
 msgid ""
 "EmailClient for %(account)s:\n"
 "\n"
 "%(error)s"
 msgstr ""
+"E-mail klient pro %(account)s:\n"
+"\n"
+"%(error)s"
 
 msgid "From"
-msgstr ""
+msgstr " od "
 
 msgid "IMAP Port"
-msgstr ""
+msgstr "IMAP port"
 
 msgid "IMAP Server"
-msgstr ""
+msgstr "IMAP server"
 
 msgid ""
 "New mail arrived for account %s:\n"
 "\n"
 msgstr ""
+"Přijatý nový mail pro %s:\n"
+"\n"
 
 msgid "Really delete account %s?"
-msgstr ""
+msgstr "Odstranit účet %s ?"
 
 msgid "Subject"
-msgstr ""
+msgstr "subjekt"
 
 msgid ""
 "[EmailAccount] %(name)s: _cbCapabilities:\n"
@@ -12830,259 +12845,275 @@ msgid ""
 "# cbCapabilities: %(capa)s\n"
 "####################################################################################################\n"
 msgstr ""
+"[EmailAccount] %(name)s: _cbCapabilities:\n"
+"####################################################################################################\n"
+"# Pokud máte problémy se zápisem na imap-server, odešlete nám výstup "
+"z následujících řádků\n"
+"# cbCapabilities: %(capa)s\n"
+"####################################################################################################\n"
 
 msgid "account %s is not connected"
-msgstr ""
+msgstr "účet %s není připojený"
 
 msgid "account name"
-msgstr ""
+msgstr "název účtu"
 
 msgid "account not connected"
-msgstr ""
+msgstr "účet není připojený"
 
 msgid "add"
-msgstr ""
+msgstr "přidat"
 
 msgid "cancel"
-msgstr ""
+msgstr "storno"
 
 msgid "cannot access inbox"
-msgstr ""
+msgstr "chybí přístup do inboxu"
 
 msgid "cannot get headers of new messages"
-msgstr ""
+msgstr "Nelze načíst hlavičku hlášení !"
 
 msgid "cannot get list of new messages"
-msgstr ""
+msgstr "Nelze načíst seznam hlášení"
 
 msgid "connection failed - retrying"
-msgstr ""
+msgstr "připojení selhalo, zkuste to znovu"
 
 msgid "display connection errors"
-msgstr ""
+msgstr "připojení obrazu selhalo"
 
 msgid "display timeout (seconds)"
-msgstr ""
+msgstr "čas.limit zobrazení (sek.)"
 
 msgid "edit"
-msgstr ""
+msgstr "upravit"
 
 msgid "empty values - retry"
-msgstr ""
+msgstr "prázdná hodnota - opakujte"
 
 msgid ""
 "error logging %(who)s in:\n"
 "%(failure)s"
 msgstr ""
+"chyba přihlášení %(who)s v :\n"
+"%(failure)s"
 
 msgid "failed to load message"
-msgstr ""
+msgstr "selhalo načtení hlášení"
 
 msgid "getting message ..."
-msgstr ""
+msgstr "načítám hlášení..."
 
 msgid "have %d messages"
-msgstr ""
+msgstr "máte %d hlášení"
 
 msgid "have no messages"
-msgstr ""
+msgstr "nemáte hlášení"
 
 msgid "headers loaded, now parsing ..."
-msgstr ""
+msgstr "načtené hlavičky se analyzují..."
 
 msgid "importing configurations from %s"
-msgstr ""
+msgstr "import konfigurace z %s"
 
 msgid "leave unread"
-msgstr ""
+msgstr "opustit nepřečtené"
 
 msgid "list all mailboxes"
-msgstr ""
+msgstr "seznam všech mail boxů"
 
 msgid "loading headers ..."
-msgstr ""
+msgstr "načítám hlavičky..."
 
 msgid "mail check interval (minutes)"
-msgstr ""
+msgstr "interval kontroly mailů (min.)"
 
 msgid "maximum mail size to fetch"
-msgstr ""
+msgstr "max.velikost mailu pro přenos"
 
 msgid "message too large"
-msgstr ""
+msgstr "hlášení je příliš dlouhé !"
 
 msgid "no account selected"
-msgstr ""
+msgstr "účet není vybraný !"
 
 msgid "no date"
-msgstr ""
+msgstr "chybí datum"
 
 msgid "no filename"
-msgstr ""
+msgstr "chybí název souboru !"
 
 msgid "no from"
-msgstr ""
+msgstr "ne z "
 
 msgid "no mailbox?!?!"
-msgstr ""
+msgstr "chybí mail box?!?!"
 
 msgid "no sender"
-msgstr ""
+msgstr "chybí odesílatel"
 
 msgid "no subject"
-msgstr ""
+msgstr "chybí subjekt"
 
 msgid "ok"
-msgstr ""
+msgstr "OK"
 
 msgid "parsing message ..."
-msgstr ""
+msgstr "anylyzuji hlášení..."
 
 msgid "password"
-msgstr ""
+msgstr "heslo"
 
 msgid "really delete mail?"
-msgstr ""
+msgstr "odstranit mail ?"
 
 msgid "really undelete mail?"
-msgstr ""
+msgstr "obnovit mail ?"
 
 msgid "select Attachment"
-msgstr ""
+msgstr "vybrat přílohu"
 
 msgid "select Body"
-msgstr ""
+msgstr "vybrat základ"
 
 msgid "show deleted entries"
-msgstr ""
+msgstr "zobrazit odebírané položky"
 
 msgid "undelete"
-msgstr ""
+msgstr "obnovit"
 
 msgid "user name"
-msgstr ""
+msgstr "uživatel"
 
 msgid "view Emails via IMAP4"
-msgstr ""
+msgstr "zobrazit E-mail přes IMAP4"
 
 msgid "About FritzCall"
-msgstr ""
+msgstr "o prg.FritzCall..."
 
 msgid "Activate WLAN guest access"
-msgstr ""
+msgstr "aktivovat přístup uživatele ve WLAN"
 
 msgid "Add entry to phonebook"
-msgstr ""
+msgstr "přidat zadání do telefonu"
 
 msgid "All calls"
-msgstr ""
+msgstr "všechna volání"
 
 msgid "Append shortcut number"
-msgstr ""
+msgstr "přidat čísla příkazů"
 
 msgid "Append type of number"
-msgstr ""
+msgstr "přidat typ a číslo"
 
 msgid "Append vanity name"
-msgstr ""
+msgstr "přidat uvažovaný název"
 
 msgid "Areacode to add to calls without one (if necessary)"
-msgstr ""
+msgstr "kód oblasti pro přidání volání bez jednoho"
 
 msgid "Austria"
-msgstr ""
+msgstr "Rakousko"
 
 msgid "Automatically add new Caller to PhoneBook"
-msgstr ""
+msgstr "aut.přidat volajícího do telefonu"
 
 msgid "Call"
-msgstr ""
+msgstr "volat"
 
 msgid "Call monitoring"
-msgstr ""
+msgstr "monitoring volání"
 
 msgid "Call redirection"
-msgstr ""
+msgstr "přesměrovat volání"
 
 msgid "Call redirection active"
-msgstr ""
+msgstr "aktivní přesměrování volání"
 
 msgid "Calling %s"
-msgstr ""
+msgstr "volat %s"
 
 msgid "Cannot get calls from FRITZ!Box"
-msgstr ""
+msgstr "Nelze načíst volání z FRITZ!Boxu"
 
 msgid ""
 "Cannot get infos from FRITZ!Box yet\n"
 "Still initialising or wrong firmware version"
 msgstr ""
+"Nelze načíst info z FRITZ!Boxu \n"
+"Chybí inicializace nebo chybná verze firmware"
 
 msgid "Connected since"
-msgstr ""
+msgstr "připojení od "
 
 msgid "Connected to FRITZ!Box!"
-msgstr ""
+msgstr "připojení na FRITZ!Box!"
 
 msgid ""
 "Connecting to FRITZ!Box failed\n"
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Připojení na FRITZ!Box selhalo\n"
+" (%s)\n"
+" opakuji..."
 
 msgid "Connecting to FRITZ!Box..."
-msgstr ""
+msgstr "připojení na FRITZ!Box..."
 
 msgid ""
 "Connection to FRITZ!Box! lost\n"
 " (%s)\n"
 "retrying..."
 msgstr ""
+"připojení na FRITZ!Box! je ztraceno\n"
+" (%s)\n"
+" opakuji..."
 
 msgid "Could not get call list; wrong version?"
-msgstr ""
+msgstr "Nelze načíst seznam volání; chybná verze ?"
 
 msgid "Could not parse FRITZ!Box Phonebook entry"
-msgstr ""
+msgstr "Nelze analýzovat FRITZ!Box v telefonu !"
 
 msgid "Could not read FRITZ!Box phonebook; wrong version?"
-msgstr ""
+msgstr "Nelze načíst FRITZ!Box v telefonu; chybná verze ?"
 
 msgid "Country"
-msgstr ""
+msgstr "země"
 
 msgid "DECT inactive"
-msgstr ""
+msgstr "neaktivní DECT"
 
 msgid "DECT phones registered"
-msgstr ""
+msgstr "DECT - registrace telefonu"
 
 msgid "Deactivate WLAN guest access"
-msgstr ""
+msgstr "deaktivovat přístup uživatele WLAN"
 
 msgid "Debug"
-msgstr ""
+msgstr "ladění"
 
 msgid "Display FRITZ!box-Fon calls on screen"
-msgstr ""
+msgstr "zobrazit volání FRITZ!box-fon na obrazovce"
 
 msgid "Display all calls"
-msgstr ""
+msgstr "zobrazit všechna volání"
 
 msgid "Display connection infos"
-msgstr ""
+msgstr "zobrazit info volání"
 
 msgid "Display incoming calls"
-msgstr ""
+msgstr "zobrazit přicházející volání"
 
 msgid "Display missed calls"
-msgstr ""
+msgstr "zobrazit zmeškaná volání"
 
 msgid "Display outgoing calls"
-msgstr ""
+msgstr "zobrazit odchozí volání"
 
 msgid "Do what?"
-msgstr ""
+msgstr "co udělat ?"
 
 msgid ""
 "Do you really want to delete entry for\n"
@@ -13091,90 +13122,100 @@ msgid ""
 "\n"
 "%(name)s?"
 msgstr ""
+"Chcete odebrat zadání pro\n"
+"\n"
+"%(číslo)\n"
+"\n"
+"%(název) ?"
 
 msgid "Edit selected entry"
-msgstr ""
+msgstr "upravit vybrané zadání"
 
 msgid "Enter Search Terms"
-msgstr ""
+msgstr "zadat hledání"
 
 msgid "Entry incomplete."
-msgstr ""
+msgstr "zadání není kompletní"
 
 msgid "Extended Search for faces"
-msgstr ""
+msgstr "rozšířené hledání pro stránky"
 
 msgid "Extended Search for names"
-msgstr ""
+msgstr "rozšířené hledání názvů"
 
 msgid "Extension number to initiate call on"
-msgstr ""
+msgstr "rozšíření čísla pro volání"
 
 msgid "FRITZ!Box - Could not load calls: %s"
-msgstr ""
+msgstr "FRITZ!Box - nelze načíst volání : %s"
 
 msgid "FRITZ!Box - Could not load phonebook: %s"
-msgstr ""
+msgstr "FRITZ!Box - nelze načíst telefon : %s"
 
 msgid "FRITZ!Box - Dialling failed: %s"
-msgstr ""
+msgstr "FRITZ!Box - selhalo vytáčení : %s"
 
 msgid "FRITZ!Box - Error getting blacklist: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba načtení blacklistu : %s"
 
 msgid "FRITZ!Box - Error getting status: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba načtení stavu : %s"
 
 msgid ""
 "FRITZ!Box - Error logging in\n"
 "\n"
 msgstr ""
+"FRITZ!Box - chyba přihlášení do\n"
+"\n"
 
 msgid "FRITZ!Box - Error logging in: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba přihlášení do : %s"
 
 msgid ""
 "FRITZ!Box - Error logging in: %s\n"
 "Disabling plugin."
 msgstr ""
+"FRITZ!Box - chyba přihlášení do : %s\n"
+"zrušeno připojení."
 
 msgid "FRITZ!Box - Error logging out: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba odhlášení : %s"
 
 msgid "FRITZ!Box - Error resetting: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba resetování : %s"
 
 msgid "FRITZ!Box - Failed changing GuestAccess: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba změny přístupu uživatele : %s"
 
 msgid "FRITZ!Box - Failed changing Mailbox: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba změny Mail-boxu : %s"
 
 msgid "FRITZ!Box - Failed changing WLAN: %s"
-msgstr ""
+msgstr "FRITZ!Box - chyba změny WLAN : %s"
 
 msgid "FRITZ!Box FON address (Name or IP)"
-msgstr ""
+msgstr "FRITZ!Box FON adresa (název nebo IP)"
 
 msgid "FRITZ!Box FON firmware version"
-msgstr ""
+msgstr "FRITZ!Box FON firmware verze"
 
 msgid "FRITZ!Box Fon Status"
-msgstr ""
+msgstr "FRITZ!Box Fon status"
 
 msgid "FRITZ!Box PhoneBook to read"
-msgstr ""
+msgstr "FRITZ!Box PhoneBook pro čtení"
 
 msgid ""
 "FRITZ!Box firmware version not configured! Please set it in the "
 "configuration."
 msgstr ""
+"FRITZ!Box firmware verze není nakonfigurována !"
 
 msgid "FRITZ!Box not available for calling"
-msgstr ""
+msgstr "FRITZ!Box není dostupný pro volání"
 
 msgid "Filter also list of calls"
-msgstr ""
+msgstr "filtr pro seznam volání"
 
 msgid ""
 "Found picture\n"
@@ -13183,39 +13224,44 @@ msgid ""
 "\n"
 "But did not load. Probably not PNG, 8-bit"
 msgstr ""
+"Nalezeny obrázky\n"
+"\n"
+"%s\n"
+"\n"
+"Nejdou ale načíst. Pravděpodobně to není PNG, 8-bit"
 
 msgid "France"
-msgstr ""
+msgstr "Francie"
 
 msgid "FritzCall Setup"
-msgstr ""
+msgstr "FritzCall nastavení"
 
 msgid "Germany"
-msgstr ""
+msgstr "Německo"
 
 msgid "Getting calls from FRITZ!Box..."
-msgstr ""
+msgstr "načítám volání z FRITZ!Box..."
 
 msgid "Getting status from FRITZ!Box Fon..."
-msgstr ""
+msgstr "načítám stav z FRITZ!Box Fon..."
 
 msgid "Guest access"
-msgstr ""
+msgstr "přístup uživatele"
 
 msgid "Guest access not active"
-msgstr ""
+msgstr "přístup uživatele není aktivní"
 
 msgid "Guest access on "
-msgstr ""
+msgstr "přístup uživatele do "
 
 msgid "IP Address:"
-msgstr ""
+msgstr "IP adresa : "
 
 msgid "Ignore callers with no phone number"
-msgstr ""
+msgstr "ignorovat volání z čísla "
 
 msgid "Incoming"
-msgstr ""
+msgstr "přicházející"
 
 msgid ""
 "Incoming Call on %(date)s at %(time)s from\n"
@@ -13225,78 +13271,84 @@ msgid ""
 "---------------------------------------------\n"
 "to: %(phone)s"
 msgstr ""
+"Příchozí volání z %(date)s v %(time)s z \n"
+"---------------------------------------------\n"
+"%(number)s\n"
+"%(caller)s\n"
+"---------------------------------------------\n"
+"to: %(phone)s"
 
 msgid "Incoming calls"
-msgstr ""
+msgstr "příchozí volání"
 
 msgid "Italy"
-msgstr ""
+msgstr "Itálie"
 
 msgid "Last 10 calls:\n"
-msgstr ""
+msgstr "posledních 10 volání :\n"
 
 msgid "MSN to show (separated by ,)"
-msgstr ""
+msgstr "MSN pro zobrazení (oddělené ,)"
 
 msgid "Mailbox"
-msgstr ""
+msgstr "Mail-box"
 
 msgid "Missed"
-msgstr ""
+msgstr "zmeškané"
 
 msgid "Missed calls"
-msgstr ""
+msgstr "zmeškaná volání"
 
 msgid "Mute on call"
-msgstr ""
+msgstr "potlačená volání"
 
 msgid "Name of WLAN guest network"
-msgstr ""
+msgstr "název WLAN uživ.sítě"
 
 msgid "New call"
-msgstr ""
+msgstr "nová volání"
 
 msgid "No DECT phone registered"
-msgstr ""
+msgstr "neregistrovaný DECT telefon "
 
 msgid "No call redirection active"
-msgstr ""
+msgstr "volání není přesměrované"
 
 msgid "No entry selected"
-msgstr ""
+msgstr "zadání není vybrané"
 
 msgid "No mailbox active"
-msgstr ""
+msgstr "mailbox není aktivní"
 
 msgid "No phonebook"
-msgstr ""
+msgstr "chybí telefon"
 
 msgid "No result from LDIF"
-msgstr ""
+msgstr "chybí výsledek z LDIF"
 
 msgid "No result from Outlook export"
-msgstr ""
+msgstr "chybí výsledek z Outlooku"
 
 msgid "No result from reverse lookup"
-msgstr ""
+msgstr "chybí výsledek z obrácené smyčky"
 
 msgid "Number"
-msgstr ""
+msgstr "počet"
 
 msgid "One DECT phone registered"
-msgstr ""
+msgstr "jeden registrovaný DECT telefon"
 
 msgid "One call redirection active"
-msgstr ""
+msgstr "jedno aktivní přesměrování volání"
 
 msgid "One mailbox active"
-msgstr ""
+msgstr "jeden aktivní mailbox"
 
 msgid "Others"
-msgstr ""
+msgstr "další"
 
 msgid "Outgoing"
-msgstr ""
+msgstr "odeslané"
 
 msgid ""
 "Outgoing Call on %(date)s at %(time)s to\n"
@@ -13306,152 +13358,158 @@ msgid ""
 "---------------------------------------------\n"
 "from: %(phone)s"
 msgstr ""
+"Odchozí volání v %(date)s v %(time)s do\n"
+"---------------------------------------------\n"
+"%(number)s\n"
+"%(caller)s\n"
+"---------------------------------------------\n"
+"od: %(phone)s"
 
 msgid "Outgoing calls"
-msgstr ""
+msgstr "odchozí volání"
 
 msgid "Password Accessing FRITZ!Box"
-msgstr ""
+msgstr "přístupové heslo pro FRITZ!Box"
 
 msgid "Password of WLAN guest network"
-msgstr ""
+msgstr "heslo pro WLAN uživ.sítě"
 
 msgid "Phone calls"
-msgstr ""
+msgstr "telefonní volání"
 
 msgid "PhoneBook and Faces Location"
-msgstr ""
+msgstr "PhoneBook a Faces místo"
 
 msgid "Phonebook"
-msgstr ""
+msgstr "tel.seznam"
 
 msgid "Plugin not enabled"
-msgstr ""
+msgstr "modul není aktivovaný"
 
 msgid "Quit"
-msgstr ""
+msgstr "Konec"
 
 msgid "Read PhoneBook from FRITZ!Box"
-msgstr ""
+msgstr "načíst tel.seznam z FRITZ!Boxu"
 
 msgid "Refresh status"
-msgstr ""
+msgstr "obnovit stav"
 
 msgid "Refreshing..."
-msgstr ""
+msgstr "obnovuji..."
 
 msgid "Reload interval for phonebooks (hours)"
-msgstr ""
+msgstr "obnovit interval pro tel.seznam (hod.)"
 
 msgid "Reverse Lookup Caller ID (select country below)"
-msgstr ""
+msgstr "ID volání ve zpětné smyčce (země dole)"
 
 msgid "Reverse searching..."
-msgstr ""
+msgstr "hledání vrácených..."
 
 msgid "Search"
-msgstr ""
+msgstr "hledat"
 
 msgid "Search (case insensitive)"
-msgstr ""
+msgstr "hledat (rozliš.vel.písmen)"
 
 msgid "Search phonebook"
-msgstr ""
+msgstr "hledat tel.seznam"
 
 msgid "Searching in LDIF..."
-msgstr ""
+msgstr "hledám v LDIF..."
 
 msgid "Searching in Outlook export..."
-msgstr ""
+msgstr "hledám v Outlook exportu..."
 
 msgid "Secure WLAN guest network"
-msgstr ""
+msgstr "zabezpečení WLAN uživ.sítě"
 
 msgid "Setting..."
-msgstr ""
+msgstr "nastavuji..."
 
 msgid "Shortcut"
-msgstr ""
+msgstr "kl.zkratka"
 
 msgid "Show Outgoing Calls"
-msgstr ""
+msgstr "zobrazit odchozí volání"
 
 msgid "Show after Standby"
-msgstr ""
+msgstr "zobrazit po režimu spánku"
 
 msgid "Show details of entry"
-msgstr ""
+msgstr "zobrazit detaily položky"
 
 msgid "Show only calls for specific MSN"
-msgstr ""
+msgstr "zobrazit pouze volání pro specif.MSN"
 
 msgid "Software fax active"
-msgstr ""
+msgstr "aktivní fax software"
 
 msgid "Software fax inactive"
-msgstr ""
+msgstr "neaktivní fax software"
 
 msgid "Status not available"
-msgstr ""
+msgstr "status není dostupný"
 
 msgid "Strip Leading 0"
-msgstr ""
+msgstr "pásek průběhu 0"
 
 msgid "Switzerland"
-msgstr ""
+msgstr "Švýcarsko"
 
 msgid "The Netherlands"
-msgstr ""
+msgstr "Nizozemí"
 
 msgid "Timeout for Call Notifications (seconds)"
-msgstr ""
+msgstr "překročený čas pro oznámení volání (sek.)"
 
 msgid ""
 "To enjoy more functionalities of your FRITZ!Box, configure the firmware "
 "version!"
-msgstr ""
+msgstr "Pro více funkcí !Boxu nakonfigurujte verzi firmware"
 
 msgid "Toggle 1. mailbox"
-msgstr ""
+msgstr "přepnout 1. mailbox"
 
 msgid "Toggle 2. mailbox"
-msgstr ""
+msgstr "přepnout 2. mailbox"
 
 msgid "Toggle 3. mailbox"
-msgstr ""
+msgstr "přepnout 3. mailbox"
 
 msgid "Toggle 4. mailbox"
-msgstr ""
+msgstr "přepnout 4. mailbox"
 
 msgid "Toggle 5. mailbox"
-msgstr ""
+msgstr "přepnout 5. mailbox"
 
 msgid "Toggle Mailbox"
-msgstr ""
+msgstr "přepnout mailbox"
 
 msgid "Toggle WLAN"
-msgstr ""
+msgstr "přepnout WLAN"
 
 msgid "Toggle WLAN guest access"
-msgstr ""
+msgstr "přepnout WLAN uživ.sítě"
 
 msgid "Toggle all mailboxes"
-msgstr ""
+msgstr "přepnout všechny mailboxy"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "neznámé"
 
 msgid "Use internal PhoneBook"
-msgstr ""
+msgstr "použít interní PhoneBook"
 
 msgid "User name Accessing FRITZ!Box"
-msgstr ""
+msgstr "uživ.přístup pro FRITZ!Box"
 
 msgid "Vanity"
-msgstr ""
+msgstr "malichernost"
 
 msgid "You need to enable the monitoring on your FRITZ!Box by dialing #96*5*!"
-msgstr ""
+msgstr "Můžete aktivovat monitorování pro vytáčené FRITZ!Box #96*5*!"
 
 msgid ""
 "You need to set the password of the FRITZ!Box\n"
@@ -13459,132 +13517,136 @@ msgid ""
 "\n"
 "It could be a communication issue, just try again."
 msgstr ""
+"Potřebujete nastavit heslo pro FRITZ!Box\n"
+"v dialogu konfigurace volání.\n"
+"\n"
+"Pokud nekomunikuje, zkuste to znovu."
 
 msgid "before 05.27"
-msgstr ""
+msgstr "před 05.27"
 
 msgid "call redirections active"
-msgstr ""
+msgstr "aktivní přesměrování volání"
 
 msgid "devices active"
-msgstr ""
+msgstr "aktivní zařízení"
 
 msgid "display calls"
-msgstr ""
+msgstr "zobrazit volání"
 
 msgid "display phonebook"
-msgstr ""
+msgstr "zobrazit tel.seznam"
 
 msgid "done"
-msgstr ""
+msgstr "hotovo"
 
 msgid "done, using last list"
-msgstr ""
+msgstr "hotovo, použit poslední seznam"
 
 msgid "encrypted"
-msgstr ""
+msgstr "šifrováno"
 
 msgid "finishing"
-msgstr ""
+msgstr "dokončení"
 
 msgid "home"
-msgstr ""
+msgstr "domů"
 
 msgid "login"
-msgstr ""
+msgstr "přihlášení"
 
 msgid "login ok"
-msgstr ""
+msgstr "přihlášení je OK"
 
 msgid "login verification"
-msgstr ""
+msgstr "verifikace přihlášení"
 
 msgid "mailboxes active"
-msgstr ""
+msgstr "aktivace mailboxu"
 
 msgid "mobile"
-msgstr ""
+msgstr "mobil"
 
 msgid "no calls"
-msgstr ""
+msgstr "není volání"
 
 msgid "no device active"
-msgstr ""
+msgstr "zařízení není aktivní"
 
 msgid "not encrypted"
-msgstr ""
+msgstr "není šifrováno"
 
 msgid "not yet implemented"
-msgstr ""
+msgstr "není implementováno"
 
 msgid "number suppressed"
-msgstr ""
+msgstr "počet potlačení"
 
 msgid "one device active"
-msgstr ""
+msgstr "jedno zařízení aktivní"
 
 msgid "preparing"
-msgstr ""
+msgstr "příprava"
 
 msgid "quit"
-msgstr ""
+msgstr "konec"
 
 msgid "save and quit"
-msgstr ""
+msgstr "uložit a ukončit"
 
 msgid "show as list"
-msgstr ""
+msgstr "zobrazit jako seznam"
 
 msgid "show each call"
-msgstr ""
+msgstr "zobrazit každé volání"
 
 msgid "show nothing"
-msgstr ""
+msgstr "nezobrazovat"
 
 msgid "work"
-msgstr ""
+msgstr "zpracovat"
 
 msgid "wrong user or password?"
-msgstr ""
+msgstr "chybný uživatel nebo heslo ?"
 
 msgid "immediately after recording"
-msgstr ""
+msgstr "okamžitě po nahrávání"
 
 msgid "older than 1 day"
-msgstr ""
+msgstr "starší než 1 den"
 
 msgid "older than 3 days"
-msgstr ""
+msgstr "starší než 3 dny"
 
 msgid "older than 1 week"
-msgstr ""
+msgstr "starší než týden"
 
 msgid "older than 2 weeks"
-msgstr ""
+msgstr "starší než 2 týdny"
 
 msgid "older than 4 weeks"
-msgstr ""
+msgstr "starší než 4 týdny"
 
 msgid "older than 6 weeks"
-msgstr ""
+msgstr "starší než 6 týdnů"
 
 msgid "Automatic Timerlist Cleanup Setup"
-msgstr ""
+msgstr "nastavit aut.vyčištění časovačů"
 
 msgid "Timerlist Cleanup Setup"
-msgstr ""
+msgstr "nastavit vyčištění časovačů"
 
 msgid "Cleanup timerlist-entries"
-msgstr ""
+msgstr "vyčistit časovače"
 
 msgid "UHD Interlace Mode"
-msgstr ""
+msgstr "UHD prokládaný mód"
 
 msgid "UHD Progressive Mode"
-msgstr ""
+msgstr "UHD progresivní mód"
 
 msgid "Webinterface"
-msgstr "Webinterface"
+msgstr "webové rozhraní"
 
 msgid "Configuration for the Webinterface"
 msgstr "-- konfigurace webového rozhraní"
@@ -13596,19 +13658,19 @@ msgid "Show Setup in Extensions menu"
 msgstr "Zobrazit nastavení v rozšířeném menu"
 
 msgid "Enable /media"
-msgstr "Povolit /media"
+msgstr "povolit /media"
 
 msgid "Allow zapping via Webinterface"
-msgstr "Povolit přepínání přes webové rozhraní"
+msgstr "povolit přepínání přes webové rozhraní"
 
 msgid "Autowrite timer"
-msgstr "Časovač s aut.zápisem"
+msgstr "časovač s aut.zápisem"
 
 msgid "Load movie-length"
-msgstr "Načíst délku videa"
+msgstr "načíst délku videa"
 
 msgid "Enable HTTP Access"
-msgstr "Povolit HTTP přístup"
+msgstr "povolit HTTP přístup"
 
 msgid "HTTP Port"
 msgstr "HTTP port"
@@ -13776,19 +13838,19 @@ msgid "Open Signal Panel"
 msgstr "Panel signálů"
 
 msgid "Zap to"
-msgstr ""
+msgstr "zapnout na "
 
 msgid "Open Multi-EPG for"
-msgstr ""
+msgstr "otevřít Multi-EPG pro "
 
 msgid "Load Bouquet"
 msgstr "Otevřít sadu kanálů..."
 
 msgid "Playlist for"
-msgstr ""
+msgstr "seznam pro "
 
 msgid "Lookup on IMDb.com"
-msgstr "Hledat v IMDb.com"
+msgstr "hledat v IMDb.com"
 
 msgid "Add Timer"
 msgstr "Přidat tento časovač"
@@ -13857,7 +13919,7 @@ msgid "Widescreen"
 msgstr "Širokoúhlý"
 
 msgid "Text PID"
-msgstr ""
+msgstr "PID textu "
 
 msgid "Nothing running..."
 msgstr "Nebylo nic spuštěno..."
@@ -14248,85 +14310,85 @@ msgid "RC command '%s' has been issued"
 msgstr "RC příkaz '%s' byl spuštěný"
 
 msgid "Old password:"
-msgstr ""
+msgstr "pův.heslo : "
 
 msgid "New password:"
-msgstr ""
+msgstr "nové heslo : "
 
 msgid ""
 "Incorrect new password!\n"
 "Minimum length: 5\n"
 "Maximum length: 8"
-msgstr ""
+msgstr "max.délka : 8"
 
 msgid "Could not log in!"
-msgstr ""
+msgstr "nelze se přihlásit !"
 
 msgid "Error while setting new password!"
-msgstr ""
+msgstr "Chyba při nastavení nového hesla !"
 
 msgid "Password Changer"
-msgstr ""
+msgstr "změnit heslo"
 
 msgid "Change your ftp and telnet password"
-msgstr ""
+msgstr "změnit heslo pro FTP a telnet"
 
 msgid "Zap Statistic"
-msgstr ""
+msgstr "zapnout statistiku"
 
 msgid "Sort (name+)"
-msgstr ""
+msgstr "seřadit (název+)"
 
 msgid "Sort (name-)"
-msgstr ""
+msgstr "seřadit (název-)"
 
 msgid "Sort (duration+)"
-msgstr ""
+msgstr "seřadit (délka+)"
 
 msgid "Sort (duration-)"
-msgstr ""
+msgstr "seřadit (délka-)"
 
 msgid "Durations"
-msgstr ""
+msgstr "délka"
 
 msgid "Sort (date+)"
-msgstr ""
+msgstr "seřadit (datum+)"
 
 msgid "Sort (date-)"
-msgstr ""
+msgstr "seřadit (datum-)"
 
 msgid "Play entry"
-msgstr ""
+msgstr "přehráv vybrané"
 
 msgid "Delete all entries"
-msgstr ""
+msgstr "odebrat všechna zadání"
 
 msgid "Sort by name (ascending)"
-msgstr ""
+msgstr "seřadit podle názvu (vzestupně)"
 
 msgid "Sort by name (descending)"
-msgstr ""
+msgstr "seřadit podle názvu (sestupně)"
 
 msgid "Sort by date (ascending)"
-msgstr ""
+msgstr "seřadit podle datumu (vzestupně)"
 
 msgid "Sort by date (descending)"
-msgstr ""
+msgstr "seřadit podle datumu (sestupně)"
 
 msgid "Show duration window"
-msgstr ""
+msgstr "zobrazit dobu okna"
 
 msgid "Show combined duration window"
-msgstr ""
+msgstr "zobrazit kombinovanou dobu okna"
 
 msgid "Close plugin"
-msgstr ""
+msgstr "zavřít modul"
 
 msgid "Please choose a function..."
-msgstr ""
+msgstr "vyberte funkci..."
 
 msgid "Shows the watched services with some statistic"
-msgstr ""
+msgstr "zobrazit sledovaný kanál se statistikou"
 
 msgid "Execute cuts..."
 msgstr "Střih filmu - ořezat podle značek ..."
@@ -14441,236 +14503,242 @@ msgstr ""
 "...bude vystříháno následně (na pozadí) ..."
 
 msgid "Name of DVD"
-msgstr ""
+msgstr "název DVD"
 
 msgid "Could not find any file to backup!"
-msgstr ""
+msgstr "Nelze najít soubor zálohy !"
 
 msgid "Could not read the DVD informations!"
-msgstr ""
+msgstr "Nelze načíst info DVD !"
 
 msgid "Error while backup of DVD!"
-msgstr ""
+msgstr "Chyba při zálohování DVD !"
 
 msgid ""
 "genisoimage job done.\n"
 "Delete DVD directory?"
 msgstr ""
+"image je hotové.\n"
+"odebrat DVD složku ?"
 
 msgid "Backup of DVD finished."
-msgstr ""
+msgstr "záloha z DVD je dokončena"
 
 msgid "Duration:"
-msgstr ""
+msgstr "délka : "
 
 msgid "Eject DVD?"
-msgstr ""
+msgstr "vysunout DVD ?"
 
 msgid "Progress"
-msgstr ""
+msgstr "průběh"
 
 msgid "Device:"
-msgstr ""
+msgstr "zařízení : "
 
 msgid "Directory:"
-msgstr ""
+msgstr "složka : "
 
 msgid "Name:"
-msgstr ""
+msgstr "název : "
 
 msgid "Log:"
-msgstr ""
+msgstr "přihlášení : "
 
 msgid "Create iso:"
-msgstr ""
+msgstr "sestavit ISO : "
 
 msgid "Installing..."
-msgstr ""
+msgstr "instaluji..."
 
 msgid "Could not install needed dvdbackup package!"
-msgstr ""
+msgstr "Nelze nainstalovat dvdbackup balíček !"
 
 msgid "DVD Backup"
-msgstr ""
+msgstr "DVD záloha"
 
 msgid "Backup your Video-DVD to your harddisk"
-msgstr ""
+msgstr "záloha video DVD na harddisk"
 
 msgid "after restart"
-msgstr ""
+msgstr "po restartu"
 
 msgid "after standby"
-msgstr ""
+msgstr "po režimu spánku"
 
 msgid "after restart/standby"
-msgstr ""
+msgstr "po restartu / režimu spánku"
 
 msgid "Restart audio"
-msgstr ""
+msgstr "restart audio"
 
 msgid "Restart audio delay (in sec)"
-msgstr ""
+msgstr "restart audio s odkladem (v sek.)"
 
 msgid "Plugin: %(plugin)s , Version: %(version)s"
-msgstr ""
+msgstr "modul : %(plugin)s , verze : %(version)s"
 
 msgid "Audio restart Setup"
-msgstr ""
+msgstr "AudioRestart - nastavení"
 
 msgid "Setup for the AudioRestart Plugin"
-msgstr ""
+msgstr "nastavení pro AudioRestart"
 
 msgid "Timespans"
-msgstr ""
+msgstr "časové rozpětí"
 
 msgid "Advanced HDMI-Cec Setup"
-msgstr ""
+msgstr "pokročilé nastavení HDMI-Cec"
 
 msgid ""
 "Partially disable HDMI-Cec?\n"
 "It can be prevented only the signals that are sent from the Dreambox. "
 "Signals received by the Dreambox will not be prevented."
 msgstr ""
+"Částečně deaktivovat HDMI-Cec ?\n"
+"To může být prevence pouze pro signály odeslané z Dreamboxu. "
+"Signál z Dreamboxu nebude omezený."
 
 msgid "partially disable HdmiCec"
-msgstr ""
+msgstr "částečně deaktivovat HDMI-CEC"
 
 msgid "Should HDMI-Cec be disabled when GUI service startup?"
-msgstr ""
+msgstr "má se HDMI-CEC vypnout při startu grafiky kanálu ?"
 
 msgid "disable at GUI-start"
-msgstr ""
+msgstr "vypnout při startu grafiky"
 
 msgid ""
 "Should HDMI-Cec be disabled when the commands are sent from the web "
 "interface?"
 msgstr ""
+"vypnout HDMI-CEC při odeslání příkazů z web.rozhraní ?"
 
 msgid "disable from webinterface"
-msgstr ""
+msgstr "zakázat z web.rozhraní"
 
 msgid "Should HDMI-Cec be send on Power On?"
-msgstr ""
+msgstr "odeslat na HDMI-CEC při zapnutí ?"
 
 msgid "enable Power On"
-msgstr ""
+msgstr "povolit zapnutí"
 
 msgid "Should HDMI-Cec be send on Power Off?"
-msgstr ""
+msgstr "odeslat na HDMI-CEC při vypnutí ?"
 
 msgid "enable Power Off"
-msgstr ""
+msgstr "povolit vypnutí"
 
 msgid "Schould debugmessages be printed?"
-msgstr ""
+msgstr "má se zpráva o ladění vytisknout ?"
 
 msgid "enable debug"
-msgstr ""
+msgstr "povolit ladění"
 
 msgid "Where should this setup be displayed?"
-msgstr ""
+msgstr "kde bude nastavení zobrazeno ?"
 
 msgid "show in"
-msgstr ""
+msgstr "zobrazit v "
 
 msgid "Advanced HDMI-Cec Control"
-msgstr ""
+msgstr "rozšířené ovládání HDMI-CEC"
 
 msgid "Version: "
-msgstr ""
+msgstr "verze : "
 
 msgid "Registered HDMI-Cec-Hooks:"
-msgstr ""
+msgstr "registrace HDMI-CEC : "
 
 msgid "Hook"
-msgstr ""
+msgstr "zachycení"
 
 msgid "No HDMI-Cec-Hooks are registered!"
-msgstr ""
+msgstr "zachycení HDMI-CEC není registrováno !"
 
 msgid "From WD"
-msgstr ""
+msgstr "z WD"
 
 msgid "To WD"
-msgstr ""
+msgstr "do WD"
 
 msgid "To"
-msgstr ""
+msgstr "do "
 
 msgid "Disable HDMI-CEC chronologically"
-msgstr ""
+msgstr "vypínat HDMI-CEC chronologicky"
 
 msgid "Really delete this HDMI-Cec-Timespan Entry?"
-msgstr ""
+msgstr "odebrat časový zorsah pro HDMI-CEC "
 
 msgid "From which day of the week, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "který den v týdnu HDMI-CEC vypnout ?"
 
 msgid "from weekday"
-msgstr ""
+msgstr "v pracovní dny"
 
 msgid "To what day of the week, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "který den v týdnu HDMI-CEC vypnout ?"
 
 msgid "to weekday"
-msgstr ""
+msgstr "ve všední den"
 
 msgid "At which time, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "v jaký čas HDMI-CEC vypnout ?"
 
 msgid "from (HH:MI)"
-msgstr ""
+msgstr "z (HH:MI)""
 
 msgid "Until the time at which, HDMI-Cec should be disabled?"
-msgstr ""
+msgstr "do jakého času HDMI-CEC vypnout ?"
 
 msgid "to (HH:MI)"
-msgstr ""
+msgstr "do (HH:MI)"
 
 msgid "Edit HDMI-Cec-Timespan"
-msgstr ""
+msgstr "upravit čas.rozsah HDMI-CEC"
 
 msgid "manage when HDMI Cec is enabled"
-msgstr ""
+msgstr "správa spuštěného HDMI-CEC"
 
 msgid "systemmenue"
-msgstr ""
+msgstr "syst.seznam"
 
 msgid "pluginmenue"
-msgstr ""
+msgstr "seznam modulů"
 
 msgid "extensions"
-msgstr ""
+msgstr "rozšíření"
 
 msgid "%d kb/s"
-msgstr ""
+msgstr "%d kb/s"
 
 msgid "?? kb/s"
-msgstr ""
+msgstr "?? kb/s"
 
 msgid "Do you want to try to open the downloaded file?"
-msgstr ""
+msgstr "chcete zkusit otevřít stažený soubor ?"
 
 msgid "Download..."
-msgstr ""
+msgstr "stahuji..."
 
 msgid "ETA %d:%02d min"
-msgstr ""
+msgstr "ETA %d:%02d min."
 
 msgid "ETA ??:?? h"
-msgstr ""
+msgstr "ETA ??:?? h"
 
 msgid "Error while downloading file %s"
-msgstr ""
+msgstr "chyba při stahování souboru %s"
 
 msgid "No suitable Viewer found!"
-msgstr ""
+msgstr "vhodný prohlížeč není k dispozici !"
 
 msgid "Where to save?"
-msgstr ""
+msgstr "kam uložit ?"
 
 msgid "Which file do you want to download?"
-msgstr ""
+msgstr "který soubor chcete stáhnout ?"
 
 msgid ""
 "Mounted/\n"
@@ -14690,7 +14758,7 @@ msgstr ""
 "neaktivní"
 
 msgid "Delete mount"
-msgstr ""
+msgstr "zrušit připojení"
 
 msgid "Manage network shares"
 msgstr "Spravovat síťové sdílení..."
@@ -14824,25 +14892,25 @@ msgid "No network devices found!"
 msgstr "Chybí zařízení v síti !"
 
 msgid "Press OK to mount this share!"
-msgstr ""
+msgstr "OK -> připojit sdílení..."
 
 msgid "Press OK to collapse this host"
-msgstr ""
+msgstr "OK -> sbalit hosta..."
 
 msgid "Press OK to expand this host"
-msgstr ""
+msgstr "OK -> rozbalit hosta..."
 
 msgid "Do you want to enter a username and password for this host?\n"
 msgstr "Chcete zadat uživatele a heslo pro toto přihlášení ?\n"
 
 msgid "Scan NFS share"
-msgstr ""
+msgstr "prohledat NFS sdílení"
 
 msgid "Scan range"
-msgstr ""
+msgstr "rozsah prohledávání"
 
 msgid "Enter IP to scan..."
-msgstr ""
+msgstr "zadání IP pro hledání..."
 
 msgid "Press OK to select."
 msgstr "OK -> potvrdit výběr..."
@@ -14851,13 +14919,13 @@ msgid "Add new network mount point"
 msgstr "Přidat nový přípojný bod v síti"
 
 msgid "Add a new NFS or CIFS mount point to your STB."
-msgstr ""
+msgstr "přidat nový přípojný bod NFS nebo CIFS "
 
 msgid "Mountpoints management"
 msgstr "Správa přípojných bodů"
 
 msgid "View, edit or delete mountpoints on your STB."
-msgstr ""
+msgstr "zobrazit, upravit nebo odebrat přípojný bod"
 
 msgid "User management"
 msgstr "Správa uživatele"
@@ -14869,10 +14937,10 @@ msgid "Change hostname"
 msgstr "Název přijímače v síti"
 
 msgid "Change the hostname of your STB."
-msgstr ""
+msgstr "změnit název hosta pro přihlášení"
 
 msgid "Enter new hostname for your STB"
-msgstr ""
+msgstr "zadat název hosta pro přihlášení"
 
 msgid ""
 "After a successful refresh the AutoTimer will automatically search for new "
@@ -15076,1385 +15144,1450 @@ msgid "Podcast"
 msgstr ""
 
 msgid "keep on device"
-msgstr ""
+msgstr "ponechat v zařízení"
 
 msgid "ask me"
-msgstr ""
+msgstr "dotaz..."
 
 msgid "Downloading movie: %s"
-msgstr ""
+msgstr "stáhnout video : %s"
 
 msgid "Delete this movie?"
-msgstr ""
+msgstr "odebrat toto video ?"
 
 msgid "Error getting movies"
-msgstr ""
+msgstr "chyba při načtení videa"
 
 msgid "Length"
-msgstr ""
+msgstr "délka"
 
 msgid "No Feedly configuration"
-msgstr ""
+msgstr "konfigurace není dostupná"
 
 msgid "Buffer:"
-msgstr ""
+msgstr "buffer : "
 
 msgid "Buffer device:"
-msgstr ""
+msgstr "buffer zařízení : "
 
 msgid "Buffer file handling:"
-msgstr ""
+msgstr "soubor v bufferu : "
 
 msgid "from xml"
-msgstr ""
+msgstr "ze .xml"
 
 msgid "Feedly OPML"
-msgstr ""
+msgstr "Feedly OPML"
 
 msgid "??:??"
-msgstr ""
+msgstr "??:??"
 
 msgid ""
 "Cheat attempt detected. \n"
 "Box has not been shudown correctly. \n"
 "Remaining time was set to 0."
 msgstr ""
+"Detekovaný pokus o podvod. \n"
+"Box nebyl korektně vypnutý. \n"
+"Zbývající čas byl nastavený na 0."
 
 msgid "Do you want to start the kiddytimer- plugin now."
-msgstr ""
+msgstr "chcete nyní spustit modul kiddytimer"
 
 msgid "Stop KiddyTimer (this session only)"
-msgstr ""
+msgstr "zastavit kiddytimer (pouze zde)"
 
 msgid "Increase remaining time"
-msgstr ""
+msgstr "zvýšit zbývající čas"
 
 msgid "Decrease remaining time"
-msgstr ""
+msgstr "snížit zbývající čas"
 
 msgid "Set remaining time"
-msgstr ""
+msgstr "nastavit zbývající čas"
 
 msgid "Reset todays remaining time"
-msgstr ""
+msgstr "reset dnešního zbývajícího času"
 
 msgid "Start KiddyTimer"
-msgstr ""
+msgstr "start KiddyTimer"
 
 msgid "Enable KiddyTimer for x minutes"
-msgstr ""
+msgstr "povolit KiddyTimer po x minut"
 
 msgid "Disable KiddyTimer"
-msgstr ""
+msgstr "vypnout KiddyTimer"
 
 msgid "Enable KiddyTimer"
 msgstr ""
 
 msgid "Please select your KiddyTimer- option"
-msgstr ""
+msgstr "vyberte volbu KiddyTimer"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "chybný výběr"
 
 msgid "01:00"
-msgstr ""
+msgstr "01:00"
 
 msgid "PIN"
-msgstr ""
+msgstr "pin"
 
 msgid "Don't monitor TV started before"
-msgstr ""
+msgstr "nehlídat TV spuštěnou předtím"
 
 msgid "Don't monitor TV started after"
-msgstr ""
+msgstr "nehlídat TV spuštěnou později "
 
 msgid "Style of timer"
-msgstr ""
+msgstr "vzhled časovačů"
 
 msgid "Timeout for activation dialog"
-msgstr ""
+msgstr "doba zobrazení pro dialog aktivace"
 
 msgid "Remaining time: %s"
-msgstr ""
+msgstr "zbývající čas : %s"
 
 msgid "Last day started: %s"
-msgstr ""
+msgstr "naposledy spuštěno : %s"
 
 msgid "Reset clock"
-msgstr ""
+msgstr "reset hodin"
 
 msgid "Move clock"
-msgstr ""
+msgstr "přesunout hodiny"
 
 msgid "Save values and close screen"
-msgstr ""
+msgstr "uložit a zavřít okno"
 
 msgid "Discard changes and close screen"
-msgstr ""
+msgstr "zrušit změny a okno zavřít"
 
 msgid "Move screen to the left"
-msgstr ""
+msgstr "posunout panel vlevo"
 
 msgid "Move screen to the right"
-msgstr ""
+msgstr "posunout panel doprava"
 
 msgid "Move screen up"
-msgstr ""
+msgstr "posunout panel nahoru"
 
 msgid "Move screen down"
-msgstr ""
+msgstr "posunout panel dolů"
 
 msgid "Move screen to the upper left corner"
-msgstr ""
+msgstr "posunout panel na horní levý roh"
 
 msgid "Center screen at the upper border"
-msgstr ""
+msgstr "na střed obrazovky a horní hranu"
 
 msgid "Move screen to the upper right corner"
-msgstr ""
+msgstr "posunout panel na horní pravý roh"
 
 msgid "Move screen to the middle of the left border"
-msgstr ""
+msgstr "posunout panel na střed levého okraje"
 
 msgid "Move screen to the center of your TV"
-msgstr ""
+msgstr "posunout panel na střed TV"
 
 msgid "Move screen to the middle of the right border"
-msgstr ""
+msgstr "posunout panel na střed pravého okraje"
 
 msgid "Move screen to the lower left corner"
-msgstr ""
+msgstr "posunout panel na spodní levý roh"
 
 msgid "Center screen at the lower border"
-msgstr ""
+msgstr "na střed obrazovky a spodní hranu"
 
 msgid "Move screen to the lower right corner"
-msgstr ""
+msgstr "posunout panel na spodní pravý roh"
 
 msgid "Reset saved position"
-msgstr ""
+msgstr "reset uložené pozice"
 
 msgid "Clock"
-msgstr ""
+msgstr "hodiny"
 
 msgid "Smiley"
-msgstr ""
+msgstr "smiley"
 
 msgid "KiddyTimer"
-msgstr ""
+msgstr "KiddyTimer"
 
 msgid "Allows to controls your kids' daily TV usage"
-msgstr ""
+msgstr "povolit ovládání pro děti"
 
 msgid "Scroll page contents up"
-msgstr ""
+msgstr "o stránku obsahu nahoru"
 
 msgid "Scroll page contents down"
-msgstr ""
+msgstr "o stránku obsahu dolů"
 
 msgid "Show HTTP response headers"
-msgstr ""
+msgstr "zobrazit HTTP odezvu"
 
 msgid "Show program settings"
-msgstr ""
+msgstr "zobrazit nastavení programu"
 
 msgid "Reload current page URL"
-msgstr ""
+msgstr "obnovit aktuální stránku"
 
 msgid "Switch to next configured page URL"
-msgstr ""
+msgstr "přejít na další stránku konfigurace URL"
 
 msgid "Switch to previous configured page URL"
-msgstr ""
+msgstr "přejít na předchozí stránku konfigurace URL"
 
 msgid "Close window"
-msgstr ""
+msgstr "zavřít okno"
 
 msgid "Show this help screen"
-msgstr ""
+msgstr "zobrazit nápovědu"
 
 msgid "Invalid page"
-msgstr ""
+msgstr "chybná stránka"
 
 msgid "Loading ..."
-msgstr ""
+msgstr "načítám..."
 
 msgid "Error fetching URL:"
-msgstr ""
+msgstr "chyba stránky URL : "
 
 msgid "Go and add a page in the settings"
-msgstr ""
+msgstr "přejít a přidat stránku v nastavení"
 
 msgid "HTTP response headers for"
-msgstr ""
+msgstr "HTTP- odpověď pro "
 
 msgid "Page:"
-msgstr ""
+msgstr "stránka : "
 
 msgid "Default page"
-msgstr ""
+msgstr "předvolená stránky"
 
 msgid "Show in main menu"
-msgstr ""
+msgstr "zobrazit v hlavním menu"
 
 msgid "Show in extensions menu"
-msgstr ""
+msgstr "zobrazit v rozšířeném menu"
 
 msgid "Menu title"
-msgstr ""
+msgstr "název menu"
 
 msgid "Page feed URL"
-msgstr ""
+msgstr "stránka zásobníku na netu URL"
 
 msgid "Dismiss all setting changes"
-msgstr ""
+msgstr "zrušit všechny nastavené změny"
 
 msgid "Save settings and close screen"
-msgstr ""
+msgstr "uložit nastavení a okno zavřít"
 
 msgid "Edit selected page"
-msgstr ""
+msgstr "upravit vybranou stránku"
 
 msgid "Load pages from feed"
-msgstr ""
+msgstr "načíst stránky z web.zásobníku"
 
 msgid "Add new page"
-msgstr ""
+msgstr "přidat novou stránku"
 
 msgid "Delete selected page"
-msgstr ""
+msgstr "odstranit vybranou stránku"
 
 msgid ""
 "Really delete this page?\n"
 "It cannot be recovered!"
 msgstr ""
+"Odstranit stránku ?\n"
+"Nepůjde to pak vrátit !"
 
 msgid "No page feed URL defined"
-msgstr ""
+msgstr "Stránka zásobníku na webu není definována"
 
 msgid "Error loading page feed:"
-msgstr ""
+msgstr "Chyba načítání zásobníku z netu :"
 
 msgid "Page URL"
-msgstr ""
+msgstr "URL stránky"
 
 msgid "Font size"
-msgstr ""
+msgstr "velikost fontu"
 
 msgid "View remote text files"
-msgstr ""
+msgstr "zobrazit vzdálené textové soubory"
 
 msgid "Automatically zaps back to current service after given Time"
-msgstr ""
+msgstr "aut.přepnout zpět na kanál po uplynutí zadaného času"
 
 msgid "Custom"
-msgstr ""
+msgstr "uživatelský"
 
 msgid "How many minutes to wait until zapping back?"
-msgstr ""
+msgstr "Kolik minut počkat, aby seřazení vrátilo ?"
 
 msgid ""
 "Timer already running.\n"
 "Stop it?"
 msgstr ""
+"čas již běží.\n"
+"zastavit ho ?"
 
 msgid "When to Zap back?"
-msgstr ""
+msgstr "Kdy přepnout zpět ?"
 
 msgid "Zapping back in %d Minutes"
-msgstr ""
+msgstr "přepnout zpět za %d min."
 
 msgid "Show in extension menu:"
-msgstr ""
+msgstr "zobrazit v rozšířeném menu : "
 
 msgid "Visualization"
-msgstr ""
+msgstr "zobrazit..."
 
 msgid "Fullscreen Layout"
-msgstr ""
+msgstr "návrh obrazu"
 
 msgid "Fullscreen auto activation"
-msgstr ""
+msgstr "aut.rozšířit na celou obrazovku"
 
 msgid "Show cover arts"
-msgstr ""
+msgstr "zobrazit potisk"
 
 msgid "Rip to single file, name is timestamped"
-msgstr ""
+msgstr "stažené uložit do jednoho souboru, název s časem"
 
 msgid "Create a directory for each stream"
-msgstr ""
+msgstr "založit složku pro každý stream "
 
 msgid "Add sequence number to output file"
-msgstr ""
+msgstr "přidat pořadí do výst.souboru"
 
 msgid "Recording location:"
-msgstr ""
+msgstr "složka pro záznamy..."
 
 msgid "Countries"
-msgstr ""
+msgstr "země"
 
 msgid "Screen and OLED"
-msgstr ""
+msgstr "obrazovku a OLED"
 
 msgid "OLED only"
-msgstr ""
+msgstr "pouze OLED"
 
 msgid "Screen only"
-msgstr ""
+msgstr "pouze obrazovku"
 
 msgid "1 minutes"
-msgstr ""
+msgstr "1 min."
 
 msgid "3 minutes"
-msgstr ""
+msgstr "3 min."
 
 msgid "Visualization and Text"
-msgstr ""
+msgstr "zobrazení a text"
 
 msgid "Text only"
-msgstr ""
+msgstr "pouze text"
 
 msgid "Blank"
-msgstr ""
+msgstr "prázdné"
 
 msgid "listen to internet-radio"
-msgstr ""
+msgstr "-- poslouchat internet.rádio"
 
 msgid "Genres"
-msgstr ""
+msgstr "kategorie"
 
 msgid "Filter:"
-msgstr ""
+msgstr "filtr : "
 
 msgid "Streaming Information"
-msgstr ""
+msgstr "Informace o sdílení..."
 
 msgid "Stations"
-msgstr ""
+msgstr "stanice"
 
 msgid "Favorites"
-msgstr ""
+msgstr "oblíbené"
 
 msgid "Stop record"
-msgstr ""
+msgstr "zastavit záznam"
 
 msgid "Recording stream station"
-msgstr ""
+msgstr "nahrát sdílení ze stanice"
 
 msgid "Getting streaming data from %s"
-msgstr ""
+msgstr "načíst sdílená data z %s"
 
 msgid ""
 "Getting streaming data from\n"
 "%s"
 msgstr ""
+"stáhnout sdílená data z :\n"
+" %s"
 
 msgid "Do you really want to stop the recording?"
-msgstr ""
+msgstr "Chcete zastavit nahrávání ?"
 
 msgid "Recording length"
-msgstr ""
+msgstr "délka nahrávání"
 
 msgid "Enter in minutes (0 means unlimited)"
-msgstr ""
+msgstr "zadejte v min. (0 = bez omezení)"
 
 msgid "Only running streamings can be recorded!"
 msgstr ""
+"Žádná rozhlasová stanice není spuštěna !\n"
+"Není co nahrávat..."
 
 msgid "InternetRadio filter list (%s)"
-msgstr ""
+msgstr "InternetRadio - filtr seznamu (%s)"
 
 msgid "All Countries"
-msgstr ""
+msgstr "všechny země"
 
 msgid "All Genres"
-msgstr ""
+msgstr "všechny žánry"
 
 msgid "Favorite list"
-msgstr ""
+msgstr "seznam oblíbených"
 
 msgid "Getting InternetRadio %s list..."
-msgstr ""
+msgstr "Stáhnout seznam pro InternetRadio %s ..."
 
 msgid "%s..."
-msgstr ""
+msgstr "%s..."
 
 msgid "No streaming data found..."
-msgstr ""
+msgstr "Sdílená data nenalezena..."
 
 msgid "InternetRadio station list for filter: %s"
-msgstr ""
+msgstr "InternetRadio - seznam stanic pro filtr : %s"
 
 msgid "Getting %s"
-msgstr ""
+msgstr "stáhnout %s"
 
 msgid "Config"
-msgstr ""
+msgstr "nastavení ..."
 
 msgid "rename current selected favorite"
-msgstr ""
+msgstr "přejmenovat oblíbené"
 
 msgid "remove current selected favorite"
-msgstr ""
+msgstr "odebrat oblíbené"
 
 msgid "do not play a service on startup"
-msgstr ""
+msgstr "nepřehrávat při spuštěném programu"
 
 msgid "play current selected favorite on startup"
-msgstr ""
+msgstr "Spustit aktuální výběr"
 
 msgid "Add current selected genre to favorite"
-msgstr ""
+msgstr "přidat aktuální žánr do oblíbených"
 
 msgid "Add current selected station to favorite"
-msgstr ""
+msgstr "přidat aktuální stanici do oblíbených"
 
 msgid "Add current playing stream to favorite"
-msgstr ""
+msgstr "přidat aktuálně spuštěný stream do oblíbených"
 
 msgid "Fullscreen"
-msgstr ""
+msgstr "na celou obrazovku"
 
 msgid "Show TV"
-msgstr ""
+msgstr "zobrazit TV"
 
 msgid "Enter new name for favorite item"
-msgstr ""
+msgstr "Nový název pro oblíbenou položku"
 
 msgid "Enter text to search for"
-msgstr ""
+msgstr "-zadejte text pro vyhledání-"
 
 msgid "InternetRadio station list for search-criteria: %s"
-msgstr ""
+msgstr "InternetRadio - seznam stanic pro kritéria hledání : %s"
 
 msgid "Searching InternetRadio for %s..."
-msgstr ""
+msgstr "Hledat InternetRadio pro  %s..."
 
 msgid "%s ..."
-msgstr ""
+msgstr "%s ..."
 
 msgid "Title: n/a"
-msgstr ""
+msgstr "Titulek : není..."
 
 msgid "nothing playing..."
-msgstr ""
+msgstr "Nic nelze přehrát..."
 
 msgid "Internet Radio"
-msgstr ""
+msgstr "internet Radio"
 
 msgid "No OFDb match."
-msgstr ""
+msgstr "Žádná shoda s OFDb "
 
 msgid "OFDb Details parsed"
-msgstr ""
+msgstr "OFDb detaily jsou k dispozici"
 
 msgid "OFDb Download completed"
-msgstr ""
+msgstr "Stažení z OFDb bylo dokončeno"
 
 msgid "OFDb Download failed"
-msgstr ""
+msgstr "Stažení z OFDb selhalo"
 
 msgid "OFDb Plugin"
-msgstr ""
+msgstr "modul OFDb"
 
 msgid "OFDb Re-Download completed"
-msgstr ""
+msgstr "Obnovené stahování z OFDb bylo dokončeno"
 
 msgid "OFDb query failed!"
-msgstr ""
+msgstr "Dotaz do OFDb nebyl úspěšný !"
 
 msgid "Query OFDb: %s..."
-msgstr ""
+msgstr "dotaz do OFDb na : %s..."
 
 msgid "Query details from the Online-Filmdatenbank"
-msgstr ""
+msgstr "-- dotaz na detaily z Online filmové databáze OFRb"
 
 msgid "Re-Query OFDb: %s..."
-msgstr ""
+msgstr "obnovený dotaz do OFDb na : %s..."
 
 msgid "The Online-Filmdatenbank"
-msgstr ""
+msgstr "online - filmová databanka"
 
 msgid "eParted"
-msgstr ""
+msgstr "eParted"
 
 msgid "creating and manipulating partition tables"
-msgstr ""
+msgstr "založit a upravit tabulku partition"
 
 msgid "Error command '%s'"
-msgstr ""
+msgstr "chybný příkaz '%s'"
 
 msgid "partition(s)"
-msgstr ""
+msgstr "disk.oddíl"
 
 msgid "add partition"
-msgstr ""
+msgstr "přidat partition"
 
 msgid "size in %s (max %d %s):"
-msgstr ""
+msgstr "velikost v %s (max. %d %s):"
 
 msgid "filesystem:"
-msgstr ""
+msgstr "soub.systém : "
 
 msgid "Nr"
-msgstr ""
+msgstr "číslo"
 
 msgid "create partition %s"
-msgstr ""
+msgstr "založit partition %s"
 
 msgid "make filesystem '%s' on partition %s (%d %s)"
-msgstr ""
+msgstr "soub.systém  '%s' v partition %s sestava (%d %s)"
 
 msgid "delete partition %s"
-msgstr ""
+msgstr "odstranit partition %s "
 
 msgid "execute"
-msgstr ""
+msgstr "provést"
 
 msgid "Please Wait"
-msgstr ""
+msgstr "čekejte..."
 
 msgid "Service delay"
-msgstr ""
+msgstr ">zpoždění<"
 
 msgid "Global delay"
-msgstr ""
+msgstr "základní zpoždění"
 
 msgid "%i ms"
-msgstr ""
+msgstr "%i ms"
 
 msgid "Channel audio:"
-msgstr ""
+msgstr ">audio kanál<"
 
 msgid "Switch audio"
-msgstr ""
+msgstr "audio stopa..."
 
 msgid "Save to key"
-msgstr ""
+msgstr "uložit pod tlačítko"
 
 msgid "Open plugin menu"
-msgstr ""
+msgstr "otevřít menu modulu"
 
 msgid "Save values and close plugin"
-msgstr ""
+msgstr "uložit data a zavřít modul"
 
 msgid "Discard changes and close plugin"
-msgstr ""
+msgstr "zrušit změny a modul zavřít"
 
 msgid "Change active delay"
-msgstr ""
+msgstr "změnit aktivní zpoždění"
 
 msgid "Increase delay"
-msgstr ""
+msgstr "zvýšit zpoždní"
 
 msgid "Decrease delay"
-msgstr ""
+msgstr "snížit zpoždění"
 
 msgid "Select channel audio"
-msgstr ""
+msgstr "vybrat audio kanál"
 
 msgid "Save current delay to key"
-msgstr ""
+msgstr "uložit akt.prodlevu tlačítka"
 
 msgid "Decrease delay by %i ms (can be set)"
-msgstr ""
+msgstr "snížit zpoždění o %i ms"
 
 msgid "Increase delay by %i ms (can be set)"
-msgstr ""
+msgstr "zvýšit zpoždění o %i ms"
 
 msgid "Set delay to %i ms (can be set)"
-msgstr ""
+msgstr "nastavit zpoždění na %i ms"
 
 msgid "Move plugin screen"
-msgstr ""
+msgstr "přesun okna"
 
 msgid "Select the key you want to set to %i ms"
-msgstr ""
+msgstr ">vyberte tlačítko, kam nastavit %i ms<"
 
 msgid "Key %(key)s (current value: %(value)i ms)"
-msgstr ""
+msgstr "tlačítko %(key)s (akt.hodnota: %(value)i  v ms)"
 
 msgid "Setting key canceled"
-msgstr ""
+msgstr "Nastavení tlačítka bylo zrušeno !"
 
 msgid "Key %(Key)s successfully set to %(delay)i ms"
-msgstr ""
+msgstr "Tlačítko %(Key)s bylo úspěšně nastaveno na %(delay)i ms"
 
 msgid "Outer Bound (+/-)"
-msgstr ""
+msgstr "vnější hranice (+/-)"
 
 msgid "Step in ms for arrow keys"
-msgstr ""
+msgstr "-- krok v ms pro kurzorová tlačítka..."
 
 msgid "Wait time in ms before activation:"
-msgstr ""
+msgstr "prodleva před aktivací (ms) :"
 
 msgid "Step in ms for keys '%s'"
-msgstr ""
+msgstr "-- krok v ms pro tlačítko : '%s'"
 
 msgid "Step in ms for key %i"
-msgstr ""
+msgstr "-- krok v ms pro tlačítko : %i"
 
 msgid "Audio Sync"
-msgstr ""
+msgstr ">synchronizace audia<"
 
 msgid "sets the Audio Delay (LipSync)"
-msgstr ""
+msgstr "nastavit zpozdění audia (LipSync)"
 
 msgid "Audio Sync Setup"
-msgstr ""
+msgstr "audio Sync Setup"
 
 msgid "Setup for the Audio Sync Plugin"
-msgstr ""
+msgstr "-- nastavení synchronizace zvuku"
 
 msgid "%d Feed(s) were added to configuration."
-msgstr ""
+msgstr "%d kanálů bylo přidáno do konfigurace"
 
 msgid "A simple to use RSS reader"
-msgstr ""
+msgstr "jednoduché použití čtečky RSS zpráv"
 
 msgid "Autoupdate"
-msgstr ""
+msgstr "aut.aktualizace"
 
 msgid "Enclosures"
-msgstr ""
+msgstr "dodatky"
 
 msgid "Entries"
-msgstr ""
+msgstr "položky"
 
 msgid "Entry %s/%s"
-msgstr ""
+msgstr "zadání %s/%s"
 
 msgid ""
 "Error while parsing Feed, this usually means there is something wrong with "
 "it."
-msgstr ""
+msgstr "Chyba při kontrole zásobníku na netu ! "
 
 msgid "Failed to get subscriptions from Google Reader."
-msgstr ""
+msgstr "Selhalo stahování příspěvků přes Google Reader"
 
 msgid "Failed to login to Google Reader."
-msgstr ""
+msgstr "Selhalo přihlášení na Google Reader"
 
 msgid "Feed"
-msgstr ""
+msgstr ">kanál< "
 
 msgid "Feed %s/%s"
-msgstr ""
+msgstr "kanál %s/%s"
 
 msgid "Feed URI"
-msgstr ""
+msgstr "adresa URI"
 
 msgid "Feed is empty."
-msgstr ""
+msgstr "Kanál je prázdný !"
 
 msgid "Fetch feeds from Google Reader?"
-msgstr ""
+msgstr "Stáhnout data pro Google Reader ?"
 
 msgid "Found no Enclosure we can display."
-msgstr ""
+msgstr "Není co zobrazit, dodatky nebyly nalezeny..."
 
 msgid "Google Password"
-msgstr ""
+msgstr "heslo Google"
 
 msgid "Google Username"
-msgstr ""
+msgstr "uživatel Google"
 
 msgid "Keep running in background"
-msgstr ""
+msgstr "ponechat spuštěné na pozadí"
 
 msgid "New Items"
-msgstr ""
+msgstr "nová položka"
 
 msgid "New Items since last Auto-Update"
-msgstr ""
+msgstr "nové položky od poslední aut.aktualizace"
 
 msgid "No such Item."
-msgstr ""
+msgstr "položka nenalezena"
 
 msgid "Notification"
-msgstr ""
+msgstr "zpráva"
 
 msgid ""
 "Really delete this entry?\n"
 "It cannot be recovered!"
 msgstr ""
+"Odstranit zadání ?\n"
+"Nepůjde to pak vrátit !"
 
 msgid "Received %d new news item(s)."
-msgstr ""
+msgstr "přijato %d nových položek"
 
 msgid "Show new Messages as"
-msgstr ""
+msgstr "Zobrazit nová hlášení jako..."
 
 msgid "Simple RSS Reader"
-msgstr ""
+msgstr "jednoduchá RSS čtečka"
 
 msgid "Simple RSS Reader Setup"
-msgstr ""
+msgstr "Jednoduchá RSS čtečka - nastavení"
 
 msgid "Simple RSS Reader: %s"
-msgstr ""
+msgstr "jednoduchá RSS čtečka : %s"
 
 msgid ""
 "Sorry, this type of feed is unsupported:\n"
 "%s"
 msgstr ""
+"Sorry, tyto kanály nejsou podporovány  :\n"
+"%s"
 
 msgid "Start automatically with Enigma2"
-msgstr ""
+msgstr "aut.spustit se startem Enigmy2 "
 
 msgid "Subscribe Newsfeed..."
-msgstr ""
+msgstr "Předplatné sdíleného kanálu..."
 
 msgid "Update Feed"
-msgstr ""
+msgstr "aktualizace kanálu"
 
 msgid "Update Interval (min)"
-msgstr ""
+msgstr "interval aktualizací (min.)"
 
 msgid ""
 "Update is being done in Background.\n"
 "Contents will automatically be updated when it's done."
 msgstr ""
+"Aktualizace bude na pozadí.\n"
+"Obsah bude aut.aktualizovaný ..."
 
 msgid "View RSS..."
-msgstr ""
+msgstr "Zobrazit info RSS ..."
 
 msgid "What to do?"
-msgstr ""
+msgstr "Co udělat ?"
 
 msgid "Could not read AutoTimer timer list: %s"
-msgstr ""
+msgstr "Nelze načíst seznam časovačů z AutoTimer : %s"
 
 msgid "EPG Search"
-msgstr ""
+msgstr "-podobné prg."
 
 msgid "Export selected as AutoTimer"
-msgstr ""
+msgstr "exportovat vybrané jako  AutoTimer"
 
 msgid "History"
-msgstr ""
+msgstr "historie"
 
 msgid "Import from AutoTimer"
-msgstr ""
+msgstr "import z AutoTimer"
 
 msgid "Import from EPG"
-msgstr ""
+msgstr "import ze seznamu programů"
 
 msgid "Import from Timer"
-msgstr ""
+msgstr "import z časovače"
 
 msgid "New Search"
-msgstr ""
+msgstr "man.vyhledat"
 
 msgid "No history"
-msgstr ""
+msgstr "Historie je prázdná..."
 
 msgid "Save search as AutoTimer"
-msgstr ""
+msgstr "uložit vyhledané jako AutoTimer"
 
 msgid "Select a timer to search"
-msgstr ""
+msgstr "zvolit časovač pro hledání"
 
 msgid "Select text to search for"
-msgstr ""
+msgstr "vyberte text pro hledání "
 
 msgid "search EPG..."
-msgstr ""
+msgstr "programy kanálu"
 
 msgid "Edit Search"
-msgstr ""
+msgstr "upravit hledání"
 
 msgid "Length of History"
-msgstr ""
+msgstr "limit pro historii"
 
 msgid ""
 "How many entries to keep in the search history at most. 0 disables history "
 "entirely!"
-msgstr ""
+msgstr "Max.počet položek v historii - nastavení na \"0\" funkci vypne_"
 
 msgid "Add \"Search\" Button to EPG"
-msgstr ""
+msgstr "přidat tlačítko \"hledat\" do programů"
 
 msgid ""
 "If this setting is enabled, the plugin adds a \"Search\" Button to the "
 "regular EPG."
-msgstr ""
+msgstr "Aktivace umožní modulu přidat tlačítko \"Hledat\" do std.seznamu programů_"
 
 msgid "Default search type"
-msgstr ""
+msgstr "předvolený typ hledání"
 
 msgid "Configure EPG search type"
-msgstr ""
+msgstr "konfigurace typ hledání EPG"
 
 msgid "Case sensitive search"
-msgstr ""
+msgstr "rozlišovat velikost písma"
 
 msgid "Perform case sensitive or case intensive EPG searches"
-msgstr ""
+msgstr "rozlišovat velikost písma při hledání v EPG"
 
 msgid "EPGSearch Setup"
-msgstr ""
+msgstr "nastavení EPGSearch..."
 
 msgid "Extended description"
-msgstr ""
+msgstr "rozšířený popis"
 
 msgid "Title, short and extended description"
-msgstr ""
+msgstr "krátký titulek a rozšířený popis"
 
 msgid "Title and short description"
-msgstr ""
+msgstr "titulek a krátký popis"
 
 msgid "Short description"
-msgstr ""
+msgstr "krátký popis"
 
 msgid "Select EPG search typ"
-msgstr ""
+msgstr "vybrat typ hledání v EPG"
 
 msgid "Ask before search"
-msgstr ""
+msgstr "jako v předchozím hledání"
 
 msgid "any substring"
-msgstr ""
+msgstr "nějaký pod-řetězec"
 
 msgid "beginning of a word"
-msgstr ""
+msgstr "začátek slova"
 
 msgid "exact match"
-msgstr ""
+msgstr "přesná shoda"
 
 msgid "Save any search string in history"
-msgstr ""
+msgstr "uložit hledání do historie"
 
 msgid ""
 "Save any search string in history (e.g. searches started via EPG) or only "
 "manually entered/edited search strings."
 msgstr ""
+"uložit hledaný řetězec do historie (např. začátek hledání v EPG) nebo pouze "
+"man. zadání / úprava řetězce"
 
 msgid "Perform case sensitive or case insensitive EPG searches"
-msgstr ""
+msgstr "rozlišovat velikost písma nebo ne při hledání v EPG"
 
 msgid "Limit \"Search\" to Channels from Bouquet (TV or Radio)"
-msgstr ""
+msgstr "limit \"hledání\" pro kanály ze sady (TV / Radio)"
 
 msgid ""
-"If enabled, only search results for Channels within a Bouquet are shown "
-"(either TV or Radio Bouquets)."
+"hledá pouze výsledky pro kanály uvnitř sady kanálů (TV / Radio)"
 msgstr ""
 
 msgid "Type of match for search string"
-msgstr ""
+msgstr "typ shody při hledání"
 
 msgid "Choose how the search string should match the results."
-msgstr ""
+msgstr "vyberte, jak hledat shodu hledání"
 
 msgid "Show event short description"
-msgstr ""
+msgstr "zobrazit krátký popis"
 
 msgid ""
 "Show the event short description in the result list. Useful when looking for "
 "a certain episode of a TV show."
 msgstr ""
+"zobrazit krátký popis události v seznamu. Užitečné při hledání "
+"určité epizody z TV"
 
 msgid "Reset search result list"
-msgstr ""
+msgstr "reset hledání v seznamu"
 
 msgid "Remove Channel from result list"
-msgstr ""
+msgstr "odebrat kanály ze seznamu"
 
 msgid "Keep only this Channel in result list"
-msgstr ""
+msgstr "ponechat v seznamu pouze kanály "
 
 msgid "Remove Event from result list"
-msgstr ""
+msgstr "odebrat události ze seznamu"
 
 msgid "Toggle: show event short description in result list"
-msgstr ""
+msgstr "přepnout : stručný popis události v seznamu"
 
 msgid "Keep only this Event in result list"
-msgstr ""
+msgstr "ponechat v seznamu pouze tuto událost"
 
 msgid "Match of search string: exact, from begin or any substring"
-msgstr ""
+msgstr "shoda ve vyhledání řetězce na začátku"
 
 msgid "Toggle: search all Channels or only Channels in Bouquet"
-msgstr ""
+msgstr "přepnout : hledat ve všech kanálech nebo pouze v sadě kanálů"
 
 msgid "Search all channels"
-msgstr ""
+msgstr "hledat ve všech kanálech"
 
 msgid "Limit to bouquet"
-msgstr ""
+msgstr "omezení na sadu kanálů"
 
 msgid "Match any substring"
-msgstr ""
+msgstr "srovnání nějakého řetězce"
 
 msgid "Match beginning of a word"
-msgstr ""
+msgstr "srovnat záčátek slova"
 
 msgid "Match exactly"
-msgstr ""
+msgstr "přesná shoda"
 
 msgid "Open selected in IMDb"
-msgstr ""
+msgstr "vybrané zadání otevřít v IMDb"
 
 msgid "Hide event short description"
-msgstr ""
+msgstr "skrýt krátký popis události"
 
 msgid "Filter: remove"
-msgstr ""
+msgstr "filtr : odebrat"
+
 
 msgid "Filter: keep"
 msgstr ""
 
+#: EPGSearch.py:383
+msgid "Filter:"
+msgstr "filtr : "
+
 msgid "Removed all filters"
-msgstr ""
+msgstr "odebrat všechny filtry"
 
 msgid "event"
-msgstr ""
+msgstr "událost"
 
 msgid "channel"
-msgstr ""
+msgstr "kanál"
 
 msgid "Timeout for info pop up"
-msgstr ""
+msgstr "překročení čas.limitu pro info"
 
 msgid "Duration for showing additional information for search filters"
-msgstr ""
+msgstr "délka zobrazení dalších informací pro filtr hledání"
 
 msgid "disabled at parental lock"
-msgstr ""
+msgstr "deaktivovat rodič.kontrolu"
 
 msgid "Zap-History Configurator"
-msgstr ""
+msgstr "zapnout konfigurátor historie"
 
 msgid "Enable zap history:"
-msgstr ""
+msgstr "aktivovat historii :"
 
 msgid "Maximum zap history entries:"
-msgstr ""
+msgstr "max.poče položek historie : "
 
 msgid "Zap-History Browser"
-msgstr ""
+msgstr "procházet historii"
 
 msgid "Clear"
-msgstr ""
+msgstr "vyčistit"
 
 msgid "Zap & Close"
-msgstr ""
+msgstr "přepnout + konec"
 
 msgid "Permanent Clock"
-msgstr ""
+msgstr "permanentní hodiny"
 
 msgid "Deactivate permanent clock"
-msgstr ""
+msgstr "deaktivovat permanentní hodiny"
 
 msgid "Activate permanent clock"
-msgstr ""
+msgstr "aktivovat permanentní hodiny"
 
 msgid "Change permanent clock position"
-msgstr ""
+msgstr "změnit pozici permanentních hodin"
 
 msgid "Shows the clock permanent on the screen"
-msgstr ""
+msgstr "Zobrazit na obrazovce permanentní hodiny"
 
 msgid "A video streaming solution based on VLC"
-msgstr ""
+msgstr "-- sdílení videa z PC pomocí VLC"
 
 msgid "Audio Bitrate"
-msgstr ""
+msgstr "bit.tok audia"
 
 msgid "Audio Channels"
-msgstr ""
+msgstr "audio kanály"
 
 msgid "Audio Codec"
-msgstr ""
+msgstr "audio kodek"
 
 msgid "Audio Samplerate"
-msgstr ""
+msgstr "audio - vzorkovací kmitočet"
 
 msgid "DVD Device (leave empty for default)"
-msgstr ""
+msgstr "jednotka DVD (prázdná=předvoleno)"
 
 msgid "Enter VLC-Server as FQDN or IP-Address"
-msgstr ""
+msgstr "zadat VLC server jako FQDN nebo IP-adresu"
 
 msgid ""
 "Error loading filelist into server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"Chyba při načítání seznamu souborů ze serveru  %(server)s :\n"
+"%(error)s"
 
 msgid ""
 "Error loading playlist %(media)s into server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"Chyba při stahování seznamu souborů  %(media)s  ze serveru  %(server)s:\n"
+"%(error)s"
 
 msgid ""
 "Error loading playlist into server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"Chyba při stahování seznamu souborů ze serveru  %(server)s:\n"
+"%(error)s"
 
 msgid ""
 "Error updating filelist from server %(server)s:\n"
 "%(error)s"
 msgstr ""
+"Chyba při aktualizaci seznamu souborů ze serveru  %(server)s :\n"
+"%(error)s"
 
 msgid ""
 "Error with VLC server:\n"
 "%s"
 msgstr ""
+"Chyba na VLC serveru :\n"
+"%s"
 
 msgid "Filelist"
-msgstr ""
+msgstr "seznam souborů"
 
 msgid "List of known VLC-Server Profiles"
-msgstr ""
+msgstr "seznam známých profilů VLC serveru"
 
 msgid "Movie Directory"
-msgstr ""
+msgstr "složka videa"
 
 msgid "No more files in this directory"
-msgstr ""
+msgstr "ve složce nejsou další soubory"
 
 msgid "No previous file in this directory"
-msgstr ""
+msgstr "předchozí soubor ve složce není"
 
 msgid ""
 "No valid Enigma-Service to play a VLC-Stream\n"
 "Check your installation and try again!"
-msgstr ""
+msgstr "zkuste znovu kontrolu instalace"
 
 msgid "Overscan Correction [in %(percentsign)s of Video width]"
-msgstr ""
+msgstr "přeskočit korekci [v %(percentsign)s šířky videa]"
 
 msgid "Really delete this Server?"
-msgstr ""
+msgstr "chcete odebrat server ?"
 
 msgid "Server Address"
-msgstr ""
+msgstr "adresa serveru"
 
 msgid "Server Profile Name"
-msgstr ""
+msgstr "název profilu serveru"
 
 msgid "Serverlist"
-msgstr ""
+msgstr "seznam serveru"
 
 msgid "Subtitle overlay"
-msgstr ""
+msgstr "překrytí titulků"
 
 msgid "Transcode MPEG/DVD Audio"
-msgstr ""
+msgstr "Transcode MPEG/DVD Audio"
 
 msgid "Transcode MPEG/DVD Video"
-msgstr ""
+msgstr "překódovat vodeo MPEG/DVD"
 
 msgid "Video Bitrate"
-msgstr ""
+msgstr "bit.tok videa"
 
 msgid "Video Codec"
-msgstr ""
+msgstr "kodek videa"
 
 msgid "Video Norm"
-msgstr ""
+msgstr "norma videa"
 
 msgid "add server"
-msgstr ""
+msgstr "přidat server"
 
 msgid "delete server"
-msgstr ""
+msgstr "odebrat server"
 
 msgid "edit server"
-msgstr ""
+msgstr "upravit server"
 
 msgid "filter off"
-msgstr ""
+msgstr "vyp.filtr"
 
 msgid "filter on"
-msgstr ""
+msgstr "zap.filtr"
 
 msgid "play DVD"
-msgstr ""
+msgstr "přehrát DVD"
 
 msgid "refresh"
-msgstr ""
+msgstr "obnovit"
 
 msgid "set default"
-msgstr ""
+msgstr "nastavit předvolbu"
 
 msgid "Add new tag..."
-msgstr ""
+msgstr "přidat novou záložku..."
 
 msgid "Delete all tags..."
-msgstr ""
+msgstr "odebrat všechny záložky..."
 
 msgid "Delete this tag..."
-msgstr ""
+msgstr "odebrat tuto záložku..."
 
 msgid "Delete unused tags"
-msgstr ""
+msgstr "odebrat nepoužité záložky"
 
 msgid ""
 "Do you really want to delete all tags everywhere?\n"
 "(Note that 'Cancel' will not undo this!)"
 msgstr ""
+"odebrat všude všechny záložky ?\n"
+"(nepůjde to vrátit !)"
 
 msgid ""
 "Do you really want to delete tag \"%s\" everywhere?\n"
 "(Note that 'Cancel' will not undo this!)"
 msgstr ""
+"odebrat všude záložky \"%s\" ?\n"
+"(nepůjde to vrátit !)"
 
 msgid "Please enter the new tag"
-msgstr ""
+msgstr "zadejte novou záložku"
 
 msgid "Rename this tag..."
-msgstr ""
+msgstr "přejmenovat záložku..."
 
 msgid ""
 "Replace tag \"%s\" everywhere with:   (Note that 'Cancel' will not undo "
 "this!)"
 msgstr ""
+"nahradit záložku \"%s\" všude s :   (nepůjde to vrátit !)"
 
 msgid "edit tags..."
-msgstr ""
+msgstr "upravit záložky..."
 
 msgid "Jump x minutes forward:"
-msgstr ""
+msgstr "skočit x min. dopředu : "
 
 msgid "Jump x minutes back:"
-msgstr ""
+msgstr "skočit x min. zpět : "
 
 msgid "Go to position:"
-msgstr ""
+msgstr "přejít na pozici : "
 
 msgid "Sensibility:"
-msgstr ""
+msgstr "citlivost : "
 
 msgid "Overwrite left and right buttons:"
-msgstr ""
+msgstr "přepis tl.vlevo / vpravo : "
 
 msgid "AutoTimer Settings"
-msgstr ""
+msgstr "AutoTimer - nastavení"
 
 msgid "Poll automatically"
-msgstr ""
+msgstr "volby aut."
 
 msgid ""
 "Unless this is enabled AutoTimer will NOT automatically look for events "
 "matching your AutoTimers but only when you leave the GUI with the green "
 "button."
 msgstr ""
+"Pokud to není povoleno, nebude AutoTimer aut.hledat shodu událostí "
+"pro AutoTimer, ale až po opuštění grafiky zeleným tlačítkem"
 
 msgid "Startup delay (in min)"
-msgstr ""
+msgstr "zpoždění startu (v min.)"
 
 msgid ""
 "This is the delay in minutes that the AutoTimer will wait on initial launch "
 "to not delay enigma2 startup time."
 msgstr ""
+"Zpoždění před spuštěním časovače v min. Neovlivní to spuštění Enigmy2."
 
 msgid "Poll Interval (in h)"
-msgstr ""
+msgstr "interval volby (v hod.)"
 
 msgid ""
 "This is the delay in hours that the AutoTimer will wait after a search to "
 "search the EPG again."
 msgstr ""
+"zpoždění časovače v hod., kdy čeká na nové hledání v EPG"
 
 msgid "Timeout (in min)"
-msgstr ""
+msgstr "čas.limit (v min.)"
 
 msgid "This is the duration in minutes that the AutoTimer is allowed to run."
-msgstr ""
+msgstr "délka povoleného běhu AutoTimeru"
 
 msgid "Only add timer for next x days"
-msgstr ""
+msgstr "pouze přidat časovač pro x dalších dnů"
 
 msgid ""
 "You can control for how many days in the future timers are added. Set this "
 "to 0 to disable this feature."
 msgstr ""
+"Můžete nastavit, na kolik dnů budou časovače přidány. 0=zablokování"
 
 msgid ""
 "Enable this to be able to access the AutoTimer Overview from within the "
 "extension menu."
 msgstr ""
+"umožní přístup k AutoTimeru z rozšířeného menu"
 
 msgid "Modify existing timers"
-msgstr ""
+msgstr "upravit existující časovače"
 
 msgid "This setting controls the behavior when a timer matches a found event."
-msgstr ""
+msgstr "nastavení způsobu odezvy časovače na nalezené události"
 
 msgid "Guess existing timer based on begin/end"
-msgstr ""
+msgstr "odhad časovače podle začátku / konce"
 
 msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80 percent of the it."
 msgstr ""
+"volba umožní považovat záznam události za hotový, je-li již z 80% nahraný"
 
 msgid "Add similar timer on conflict"
-msgstr ""
+msgstr "při konfliktu přidat podobný časovač"
 
 msgid ""
 "If a timer conflict occurs, AutoTimer will search outside the timespan for a "
 "similar event and add it."
-msgstr ""
+msgstr "při konfliktu časovače bude AutoTimer hledat podobné i mimo čas.rozsah"
 
 msgid "Add timer as disabled on conflict"
-msgstr ""
+msgstr "při konfliktu časovač přidat, bude ale vypnutý"
 
 msgid ""
 "This toggles the behavior on timer conflicts. If an AutoTimer matches an "
 "event that conflicts with an existing timer it will not ignore this event "
 "but add it disabled."
 msgstr ""
+"chování časovačů při konfliktu se stejným časovačem. AutoTimer časovač "
+"přidá, bude ale vypnutý."
 
 msgid "Include \"AutoTimer\" in tags"
-msgstr ""
+msgstr "všetně \"AutoTimer\" v záložkách"
 
 msgid ""
 "If this is selected, the tag \"AutoTimer\" will be given to timers created "
 "by this plugin."
 msgstr ""
+"pokud je to vybraná záložka pro \"AutoTimer\" založí se časovače tímto modulem"
 
 msgid "Include AutoTimer name in tags"
-msgstr ""
+msgstr "včetně názvu v záložce AutoTimeru"
 
 msgid ""
 "If this is selected, the name of the respective AutoTimer will be added as a "
 "tag to timers created by this plugin."
 msgstr ""
+"pokud je toto vybrané, bude do názvu časovače přidaný čas sestavení "
 
 msgid "Show notification on conflicts"
-msgstr ""
+msgstr "zobrazit zprávu o konfliktech"
 
 msgid ""
 "By enabling this you will be notified about timer conflicts found during "
 "automated polling. There is no intelligence involved, so it might bother you "
 "about the same conflict over and over."
 msgstr ""
+"budete informováni o konfliktech nalezených během aut.dotazování."
+"automated polling. opakující se dotazy ale mohou rušit."
 
 msgid "Show notification on similars"
-msgstr ""
+msgstr "zobrazit hlášení o podobnosti"
 
 msgid ""
 "By enabling this you will be notified about similar timers added during "
 "automated polling. There is no intelligence involved, so it might bother you "
 "about the same conflict over and over."
-msgstr ""
+msgstr "Informace o přidaných alternativních časovačích. Nemá žádnou inteligenci, hlášení se bude opakovat._"
 
 msgid "Editor for new AutoTimers"
-msgstr ""
+msgstr "editor pro nový časovač"
 
 msgid ""
 "The editor to be used for new AutoTimers. This can either be the Wizard or "
 "the classic editor."
 msgstr ""
+"Editor pro nový časovač. Může to být průvodce \n"
+"nebo klasický editor._"
 
 msgid "Support \"Fast Scan\"?"
-msgstr ""
+msgstr "podporuje \"Fast Scan\"?"
 
 msgid ""
 "When supporting \"Fast Scan\" the service type is ignored. You don't need to "
 "enable this unless your Image supports \"Fast Scan\" and you are using it."
 msgstr ""
+"Pokud Image podporuje \"Fast Scan\", typ kanálu \n"
+"nepotřebujete, bude ignorovaný._"
 
 msgid "Skip poll during records"
-msgstr ""
+msgstr "přeskočit aktualizace při nahrávání"
 
 msgid "If enabled, the polling will be skipped if the Dreambox is recording."
-msgstr ""
+msgstr "Vyhledávání během nahrávání bude přerušeno !"
 
 msgid "Configure AutoTimer behavior"
-msgstr ""
+msgstr ""Konfigurace časovačů..."
 
 msgid "Edit selected AutoTimer"
-msgstr ""
+msgstr "upravit vybraný časovač"
 
 msgid "Close and forget changes"
-msgstr ""
+msgstr "zavřít kanály a změny neukládat"
 
 msgid "Open Context Menu"
-msgstr ""
+msgstr "otevřít kontextové menu"
 
 msgid "Close and save changes"
-msgstr ""
+msgstr "zavřít kanály a změny uložit"
 
 msgid "Remove selected AutoTimer"
-msgstr ""
+msgstr "odstranit vybraný aut.časovač"
 
 msgid "Add new AutoTimer"
-msgstr ""
+msgstr "přidat nový časovač"
 
 msgid "AutoTimer overview"
-msgstr ""
+msgstr "přehled aut.časovačů"
 
 msgid "Import existing Timer"
-msgstr ""
+msgstr "import existujícího časovače"
 
 msgid "Edit new timer defaults"
-msgstr ""
+msgstr "upravit předvolby pro nové časovače"
 
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "často kladené dotazy"
 
 msgid "Create a new timer using the classic editor"
-msgstr ""
+msgstr "založit nový časovač přes klasický editor"
 
 msgid "Create a new timer using the wizard"
-msgstr ""
+msgstr "založit nový časovač přes průvodce"
 
 msgid ""
 "%d conflict(s) encountered when trying to add new timers:\n"
 "%s"
 msgstr ""
+"%d Konflikt při přidání nového časovače :\n"
+"%s"
 
 msgid "%s: %s at %s"
-msgstr ""
+msgstr "%s: %s vše %s"
 
 msgid ""
 "%d conflict(s) solved with similar timer(s):\n"
 "%s"
 msgstr ""
+"%d konflikt byl vyřešený alternativním časovačem :\n"
+"%s"
 
 msgid "Select a timer to import"
-msgstr ""
+msgstr "vybrat časovač pro import"
 
 msgid "Match title: %s"
-msgstr ""
+msgstr "hledat v titulku : %s"
 
 msgid "Exact match"
-msgstr ""
+msgstr "přesná shoda"
 
 msgid "Match Timespan: %02d:%02d - %02d:%02d"
-msgstr ""
+msgstr "hledat čas.interval : %02d:%02d - %02d:%02d"
 
 msgid "Only on Weekday: %s"
-msgstr ""
+msgstr "pouze v tento den : %s"
 
 msgid "Only on Service: %s"
-msgstr ""
+msgstr "pouze kanál : %s"
 
 msgid "Timer type"
-msgstr ""
+msgstr "typ časovače"
 
 msgid "Import AutoTimer"
-msgstr ""
+msgstr "Sestavení aut.časovače..."
 
 msgid ""
 "You entered \"%s\" as Text to match.\n"
 "Do you want to remove trailing whitespaces?"
 msgstr ""
+"Zadaný text \"%s\" pro vyhledání shody.\n"
+"Chcete odebrat prázdné mezery ?"
 
 msgid "Please provide a Text to match"
-msgstr ""
+msgstr "-zadejte text pro hledání-"
 
 msgid ""
 "Your config file is not well-formed:\n"
 "%s"
 msgstr ""
+"Vadný konfig.soubor :\n"
+"%s"
 
 msgid ""
 "Found a total of %d matching Events.\n"
@@ -16463,148 +16596,155 @@ msgid ""
 "%d conflicts encountered,\n"
 "%d similars added."
 msgstr ""
+"%d odpovídajících událostí celkem\n"
+"%d přidaných časovačů \n"
+"%d upraveno,\n"
+"%d nalezených konfliktů,\n"
+"%d přidaných alternativních časovačů"
 
 msgid "Edit Timers and scan for new Events"
-msgstr ""
+msgstr "-- časovače nahrávání a vyhledání událostí"
 
 msgid "add AutoTimer"
-msgstr ""
+msgstr "přidat časovač"
 
 msgid "add AutoTimer..."
-msgstr ""
+msgstr "přidat časovač..."
 
 msgid "Preview AutoTimer"
-msgstr ""
+msgstr "zobrazit časovače"
 
 msgid "Sort AutoTimer"
-msgstr ""
+msgstr "seřadit aut.časovače"
 
 msgid "Only match during timespan"
-msgstr ""
+msgstr "hledat pouze v časovém úseku"
 
 msgid "Begin of timespan"
-msgstr ""
+msgstr "začátek časového úseku"
 
 msgid "End of timespan"
-msgstr ""
+msgstr "konec čas.úseku"
 
 msgid "Match title"
-msgstr ""
+msgstr "hledat v titulku"
 
 msgid "AutoTimer was removed"
-msgstr ""
+msgstr "Časovač byl odebraný"
 
 msgid "missing parameter \"id\""
-msgstr ""
+msgstr "chybí parametr: \"id\" "
 
 msgid "unable to find timer with id %i"
-msgstr ""
+msgstr "Nelze najít časovač podle ID %i "
 
 msgid "autotimers need a match attribute"
-msgstr ""
+msgstr "AutoTimer potřebuje text pro hledání"
 
 msgid "AutoTimer was added successfully"
-msgstr ""
+msgstr "Aut.časovač byl úspěšně přidaný"
 
 msgid "AutoTimer was changed successfully"
-msgstr ""
+msgstr "Aut.časovač byl úspěšně změněný"
 
 msgid "config changed."
-msgstr ""
+msgstr "změněná konfigurace "
 
 msgid "Only AutoTimers created during this session"
-msgstr ""
+msgstr "jen aut.časovače vytvořené v této sekci"
 
 msgid "All non-repeating timers"
-msgstr ""
+msgstr "všechny neopakované časovače"
 
 msgid "Classic"
-msgstr ""
+msgstr "standardní"
 
 msgid "Wizard"
-msgstr ""
+msgstr "průvodce"
 
 msgid "Weekend"
-msgstr ""
+msgstr "víkend"
 
 msgid "partial match"
-msgstr ""
+msgstr "částečná shoda"
 
 msgid "description match"
-msgstr ""
+msgstr "shoda popisu"
 
 msgid "case-sensitive search"
-msgstr ""
+msgstr "rozlišovat velikost písma při hledání"
 
 msgid "case-insensitive search"
-msgstr ""
+msgstr "nerozlišovat malá a velká písmena"
 
 msgid "Never"
-msgstr ""
+msgstr "nikdy"
 
 msgid "Monthly"
-msgstr ""
+msgstr "měsíčně"
 
 msgid "Weekly (Sunday)"
-msgstr ""
+msgstr "týdně (od neděle)"
 
 msgid "Weekly (Monday)"
-msgstr ""
+msgstr "týdně (od pondělí)"
 
 msgid "Custom (%s)"
-msgstr ""
+msgstr "uživatelský (%s)"
 
 msgid "On same service"
-msgstr ""
+msgstr "na stejném kanálu"
 
 msgid "On any service"
-msgstr ""
+msgstr "na některém kanálu"
 
 msgid "Any service/recording"
-msgstr ""
+msgstr "jakýkoliv kanál nebo záznam"
 
 msgid "Title and Short description"
-msgstr ""
+msgstr "název a krátký popis"
 
 msgid "Title and all descriptions"
-msgstr ""
+msgstr "názvy a všechny popisy"
 
 msgid "AutoTimer Editor"
-msgstr ""
+msgstr "editor aut.časovačů"
 
 msgid "Edit AutoTimer"
-msgstr ""
+msgstr "upravit časovač"
 
 msgid "edit filters"
-msgstr ""
+msgstr "upravit filtr"
 
 msgid "add filters"
-msgstr ""
+msgstr "přidat filtr"
 
 msgid "edit services"
-msgstr ""
+msgstr "upravit kanál"
 
 msgid "add services"
-msgstr ""
+msgstr "přidat kanály"
 
 msgid "Set this NO to disable this AutoTimer."
-msgstr ""
+msgstr "Ne -> deaktivovat časovač..."
 
 msgid ""
 "This is a name you can give the AutoTimer. It will be shown in the Overview "
 "and the Preview."
-msgstr ""
+msgstr "Tento název můžete dát do aut.časovače. Bude takto zobrazený v přehledu. "
 
 msgid ""
 "This is what will be looked for in event titles. Note that looking for e.g. "
 "german umlauts can be tricky as you have to know the encoding the channel "
 "uses."
-msgstr ""
+msgstr "Takto to bude vypadat v titulcích. Zobrazení - např. v češtině může být "
+"zkomolené. Potřebujete znát použitou kódovací tabulku. "
 
 msgid ""
 "Encoding the channel uses for it's EPG data. You only need to change this if "
 "you're searching for special characters like the german umlauts."
-msgstr ""
+msgstr "Je použito kódování kanálů pro seznam programů. "
+"Je to třeba pouze pro zvláštní znaky některých jazyků."
 
 msgid ""
 "Select \"exact match\" to enforce \"Match title\" to match exactly, "
@@ -16612,254 +16752,263 @@ msgid ""
 "or \"description match\" if you only want to search for a part of the event "
 "description or \"title and description match\" if you want to search for a "
 "part of the title or event description"
-msgstr ""
+msgstr "Zvolte \"Přesnou shodu\" pro \"Hledat v titulku\" nebo \"Částečnou shodu\" "
+"nebo také \"Shoda v popisu\", pokud vycházíte z části textu."
+
 
 msgid "Select whether or not you want to enforce case correctness."
-msgstr ""
+msgstr "volba velkých nebo malých znaků pro \"Hledání v titulku\" "
 
 msgid "Add zap timer instead of record timer?"
-msgstr ""
+msgstr "přidat časovač - místo přepnutí na časovače nahrávání ?"
 
 msgid ""
 "Set an end time for the timer. If you do, the timespan of the event might be "
 "blocked for recordings."
-msgstr ""
+msgstr "Nastavení konce záznamu časovače. Pokud to provedete, bude "
+"to platit i pro další záznamy v tomto rozsahu."
 
 msgid ""
 "With this option enabled the channel to record on can be changed to a "
 "alternative service it is restricted to."
-msgstr ""
+msgstr "S touto volbou může být kanál pro záznam změněný na alternativní kanál"
 
 msgid "Should this AutoTimer be restricted to a timespan?"
-msgstr ""
+msgstr "Omezit aut.časovač na určitý časový úsek ?"
 
 msgid ""
 "Lower bound of timespan. Nothing before this time will be matched. Offsets "
 "are not taken into account!"
-msgstr ""
+msgstr "Dolní hranice časového úseku. Nic před tím nebude použito. "
+"Časové rezervy se nepočítají."
 
 msgid ""
 "Upper bound of timespan. Nothing after this time will be matched. Offsets "
 "are not taken into account!"
-msgstr ""
+msgstr "Horní hranice časového rozsahu. Pak již nebude porovnávat. "
+"Přidaný čas se v úvahu nebere !"
 
 msgid ""
 "By enabling this events will not be matched if they don't occur on certain "
 "dates."
-msgstr ""
+msgstr "Po zapnutí této funkce se hledají programy jen v určitém časovém úseku"
 
 msgid ""
 "First day to match events. No event that begins before this date will be "
 "matched."
-msgstr ""
+msgstr "První den odpovídající události. Událost před tímto dnem bude ignorována."
 
 msgid ""
 "Last day to match events. Events have to begin before this date to be "
 "matched."
-msgstr ""
+msgstr "Poslední den pro shodu událostí. Za tímto dnem je vše ignorováno."
 
 msgid "Change default recording offset?"
-msgstr ""
+msgstr "změnit předvolený posun nahrávání ?"
 
 msgid "Time in minutes to prepend to recording."
-msgstr ""
+msgstr "čas.rezerva před záznamem (min.)"
 
 msgid "Time in minutes to append to recording."
-msgstr ""
+msgstr "časová rezerva za záznam (min.)"
 
 msgid "Should this AutoTimer only match up to a certain event duration?"
-msgstr ""
+msgstr "Omezit aut.časovač na konkrétní dobu události ?"
 
 msgid ""
 "Maximum event duration to match. If an event is longer than this amount of "
 "time (without offset) it won't be matched."
-msgstr ""
+msgstr "Maximální délka události se shodou. Jestliže je událost delší "
+"(bez rezervy), nebude shoda uznána. "
 
 msgid ""
 "Power state to change to after recordings. Select \"standard\" to not change "
 "the default behavior of enigma2 or values changed by yourself."
-msgstr ""
+msgstr "Stav napájení po záznamu. Zvolte \"standardní\", pokud nechcete změnit "
+"předvolené chování Enigmy2 a ani vlastní hodnoty."
 
 msgid "Restrict \"after event\" to a certain timespan?"
-msgstr ""
+msgstr "Omezit \"po události\" na určitý časový úsek ?"
 
 msgid "Lower bound of timespan."
-msgstr ""
+msgstr "dolní hranice časového úseku"
 
 msgid "Upper bound of timespan."
-msgstr ""
+msgstr "horní hranice časového rozsahu"
 
 msgid ""
 "With this option you can restrict the AutoTimer to a certain amount of "
 "scheduled recordings. Set this to 0 to disable this functionality."
-msgstr ""
+msgstr "Touto volbou omezíte aut.časovač na určitý počet záznamů. "
+"Nastavením na 0 tuto funkci zrušíte."
 
 msgid "Number of scheduled recordings left."
-msgstr ""
+msgstr "vlevo počet naplánovaných záznamů"
 
 msgid ""
 "The counter can automatically be reset to the limit at certain intervals."
-msgstr ""
+msgstr "Počítadlo může být aut.resetováno v určitých časových intervalech"
 
 msgid ""
 "When this option is enabled the AutoTimer won't match events where another "
 "timer with the same description already exists in the timer list."
-msgstr ""
+msgstr "S touto volbou aut.časovač nebude dál srovnávat události, když "
+"již budou existovat časovače se shodným popisem."
 
 msgid ""
 "Defines where to search for duplicates (only title, short description or "
 "even extended description)"
-msgstr ""
+msgstr "Určuje, kde hledat duplicity (jen název, krátký popis nebo rozšířený popis)"
 
 msgid ""
 "Should timers created by this AutoTimer be recorded to a custom location?"
-msgstr ""
+msgstr "Uložit nové aut.časovače do uživatelského umístění ?"
 
 msgid "Select the location to save the recording to."
-msgstr ""
+msgstr "vybrat složku, kam uložit záznam"
 
 msgid "Tags the Timer/Recording will have."
-msgstr ""
+msgstr "použít značky pro časovač/záznam"
 
 msgid ""
 "Label Timers with season, episode and title, according to the SeriesPlugin "
 "settings."
-msgstr ""
+msgstr "Označení časovačů podle epizody a titulku série Pluginu"
 
 msgid "EPG encoding"
-msgstr ""
+msgstr "kódování seznamu programů"
 
 msgid "Search type"
-msgstr ""
+msgstr "typ hledání"
 
 msgid "Search strictness"
-msgstr ""
+msgstr "vyhledat shodu"
 
 msgid "Override found with alternative service"
-msgstr ""
+msgstr "nahradit alternativním kanálem"
 
 msgid "Restrict to events on certain dates"
-msgstr ""
+msgstr "omezit se na programy podle určitého data"
 
 msgid "Not before"
-msgstr ""
+msgstr "ne před..."
 
 msgid "Not after"
-msgstr ""
+msgstr "ne po..."
 
 msgid "Custom offset"
-msgstr ""
+msgstr "uživatelská kompenzace"
 
 msgid "Offset before recording (in m)"
-msgstr ""
+msgstr "čas.rezerva před záznamem (min.)"
 
 msgid "Offset after recording (in m)"
-msgstr ""
+msgstr "čas.rezerva po záznamu (min.)"
 
 msgid "Set maximum duration"
-msgstr ""
+msgstr "nastavit maximální délku"
 
 msgid "Maximum duration (in m)"
-msgstr ""
+msgstr "max.délka (v min.)"
 
 msgid "Execute \"after event\" during timespan"
-msgstr ""
+msgstr "spustit v časovém úseku \"po události\" "
 
 msgid "Begin of \"after event\" timespan"
-msgstr ""
+msgstr "Začátek časového úseku \"po události\""
 
 msgid "End of \"after event\" timespan"
-msgstr ""
+msgstr "konec čas.úseku \"po události\" "
 
 msgid "Record a maximum of x times"
-msgstr ""
+msgstr "nahrát maximálně x -krát"
 
 msgid "Amount of recordings left"
-msgstr ""
+msgstr "počet zbývajících záznamů"
 
 msgid "Reset count"
-msgstr ""
+msgstr "vynulovat počet"
 
 msgid "Require description to be unique"
-msgstr ""
+msgstr "popis musí být jednoznačný"
 
 msgid "Check for uniqueness in"
-msgstr ""
+msgstr "kontrola jedinečnosti v "
 
 msgid "Use a custom location"
-msgstr ""
+msgstr "použít uživatelské umístění"
 
 msgid "Custom location"
-msgstr ""
+msgstr "uživatelské umístění"
 
 msgid "Activate VPS"
-msgstr ""
+msgstr "aktivovat VPS"
 
 msgid "Control recording completely by service"
-msgstr ""
+msgstr "nastavit nahrávky z kanálu"
 
 msgid "Label series"
-msgstr ""
+msgstr "označení série"
 
 msgid "The match attribute is mandatory."
-msgstr ""
+msgstr "Atribut pro shodu je povinný !"
 
 msgid "AutoTimer Filters"
-msgstr ""
+msgstr "filtry aut.časovačů"
 
 msgid "in Title"
-msgstr ""
+msgstr "v titulku"
 
 msgid "in Shortdescription"
-msgstr ""
+msgstr "v krátkém popisu"
 
 msgid "in Description"
-msgstr ""
+msgstr "v popisu"
 
 msgid "on Weekday"
-msgstr ""
+msgstr "v pracovní den"
 
 msgid "Edit AutoTimer filters"
-msgstr ""
+msgstr "upravit filtr aut.časovačů"
 
 msgid "Enable Filtering"
-msgstr ""
+msgstr "aktivovat filtr"
 
 msgid "Filter"
-msgstr ""
+msgstr "filtr"
 
 msgid "Exclude"
-msgstr ""
+msgstr "vyjmout"
 
 msgid "Include"
-msgstr ""
+msgstr "včetně"
 
 msgid "Select type of Filter"
-msgstr ""
+msgstr "vybrat typ filtru"
 
 msgid "AutoTimer Services"
-msgstr ""
+msgstr "kanály aut.časovače"
 
 msgid "Edit AutoTimer services"
-msgstr ""
+msgstr "upravit kanály aut.časovačů"
 
 msgid "Enable Service Restriction"
-msgstr ""
+msgstr "filtrování kanálů"
 
 msgid "Record on"
-msgstr ""
+msgstr "nahrávka z"
 
 msgid "Select channel to record on"
-msgstr ""
+msgstr "Vybrat kanál pro záznam na..."
 
 msgid "Select bouquet to record on"
-msgstr ""
+msgstr "vybrat sadu kanálů pro záznam na "
 
 msgid "Abort this Wizard."
-msgstr ""
+msgstr "přerušit průvodce"
 
 msgid "Create a new AutoTimer."
-msgstr ""
+msgstr "založit nový časovač"
 
 msgid ""
 "Filters are another powerful tool when matching events. An AutoTimer can be "
@@ -16867,6 +17016,9 @@ msgid ""
 "it's Description.\n"
 "Press BLUE to add a new restriction and YELLOW to remove the selected one."
 msgstr ""
+"Filtr je dalším silným nástrojem pro vyhledávání událostí. AutoTimer může "
+"být omezený na určité pracovní dny nebo vyhledá text uvnitř popisu. \n"
+"Modrým tlačítkem filtr přidáte, žlutým zase odeberete."
 
 msgid ""
 "It's possible to restrict an AutoTimer to certain Services or Bouquets or to "
@@ -16875,26 +17027,34 @@ msgid ""
 "Service (inside a Bouquet).\n"
 "Press BLUE to add a new restriction and YELLOW to remove the selected one."
 msgstr ""
+"Můžete omezit aut.časovač na určité kanály, sady nebo některé vyloučit.\n"
+"Program bude vyhovovat aut.časovačům, jen pokud nebude kanál zakázaný (v rámci sady).\n"
+"Stisknutím modrého tlačítka přidáte omezení, stisknutím žlutého ho zrušíte. "
 
 msgid "No, remove them."
-msgstr ""
+msgstr "ne, odstranit..."
 
 msgid ""
 "Thank you for using the wizard. Your new AutoTimer has been added to the "
 "List.\n"
 "Please press OK to continue."
 msgstr ""
+"Nový časovač byl přidaný do seznamu.\n"
+"OK -> pokračovat..."
 
 msgid ""
 "The Timer will not be added to the List.\n"
 "Please press OK to close this Wizard."
 msgstr ""
+"Časovač nebude přidaný do seznamu.\n"
+"OK -> ukončit průvodce..."
 
 msgid ""
 "The Timespan of an AutoTimer is the first 'advanced' attribute. If a "
 "timespan is specified an event will only match this AutoTimer if it lies "
 "inside of this timespan."
-msgstr ""
+msgstr "Časový rozsah pro aut.časovač je pokročilý atribut. Pokud je "
+"specifikovaný, událost se bude pouze kontrolovat uvnitř tohoto rozsahu."
 
 msgid ""
 "Welcome.\n"
@@ -16902,21 +17062,28 @@ msgid ""
 "This Wizard will help you to create a new AutoTimer by providing "
 "descriptions for common settings."
 msgstr ""
+"Vítejte...\n"
+"\n"
+"Průvodce vám pomůže sestavit nový časovač s popisem pro základní nastavení."
 
 msgid "Yes, keep them."
-msgstr ""
+msgstr "ano a ponechat"
 
 msgid ""
 "You can set the basic properties of an AutoTimer here.\n"
 "While 'Name' is just a human-readable name displayed in the Overview, 'Match "
 "in title' is what is looked for in the EPG."
 msgstr ""
+"Základní parametry pro aut.časovač.\n"
+"\"Název\" může být pro člověka čitelný, ale 'shoda v titulku' pro systém může být jiná..."
 
 msgid ""
 "You did not provide a valid 'Match in title' Attribute for your new "
 "AutoTimer.\n"
 "As this is a mandatory Attribute you cannot continue without doing so."
 msgstr ""
+"Nemáte vyplněný atribut pro příkaz \"Hledat v titulku\". \n"
+"Je to povinný atribut, nelze bez něho pokračovat."
 
 msgid ""
 "You successfully configured a new AutoTimer. Do you want to add it to the "
@@ -16924,539 +17091,550 @@ msgid ""
 "\n"
 "You can go back a step by pressing EXIT on your remote."
 msgstr ""
+"Máte úspěšně nakonfigurovaný AutoTimer. Chcet to přidat do seznamu ?\n"
+"\n"
+"Vrátit se zpět můžete tlačítkem \"Exit\" na dálk.ovladači."
 
 msgid ""
 "Your 'Match in title' Attribute ends with a Whitespace.\n"
 "Please confirm if this was intentional, if not they will be removed."
 msgstr ""
+"Použitý text titulu končí prázdným znakem.\n"
+"Je to úmysl nebo to můžeme odstranit ?"
 
 msgid "title or description match"
-msgstr ""
+msgstr "shoda v titulku nebo popisu"
 
 msgid "title or short description match"
-msgstr ""
+msgstr "shoda v titulku nebo v krátkém popisu"
 
 msgid "short description match"
-msgstr ""
+msgstr "shoda v popisu"
 
 msgid "fritz.Box"
-msgstr ""
+msgstr "fritz.Box"
 
 msgid "No reconnect"
-msgstr ""
+msgstr "Není nové spojení"
 
 msgid "Checking"
-msgstr ""
+msgstr "kontrola"
 
 msgid "RS Downloader"
-msgstr ""
+msgstr "stahování RS"
 
 msgid "Download in the background:"
-msgstr ""
+msgstr "stahovat na pozadí :"
 
 msgid "Username:"
-msgstr ""
+msgstr "uživatel : "
 
 msgid "Password:"
-msgstr ""
+msgstr "heslo : "
 
 msgid "Username (netload.in):"
-msgstr ""
+msgstr "uživatel (netload.in) :"
 
 msgid "Password (netload.in):"
-msgstr ""
+msgstr "heslo (netload.in) :"
 
 msgid "Username (uploaded.to):"
-msgstr ""
+msgstr "uživatel (uploaded.to) :"
 
 msgid "Password (uploaded.to):"
-msgstr ""
+msgstr "heslo (uploaded.to):"
 
 msgid "Lists directory:"
-msgstr ""
+msgstr "složka v seznamu :"
 
 msgid "Downloads directory:"
-msgstr ""
+msgstr "složka pro stahování :"
 
 msgid "Ignore download times:"
-msgstr ""
+msgstr "Ignorovat čas stahování :"
 
 msgid "Allow downloading on monday:"
-msgstr ""
+msgstr "povolit stahování v pondělí :"
 
 msgid "Allow downloading on tuesday:"
-msgstr ""
+msgstr "povolit stahování v úterý :"
 
 msgid "Allow downloading on wednesday:"
-msgstr ""
+msgstr "povolit stahování ve středu :"
 
 msgid "Allow downloading on thursday:"
-msgstr ""
+msgstr "povolit stahování ve čtvrtek :"
 
 msgid "Allow downloading on friday:"
-msgstr ""
+msgstr "povolit stahování v pátek :"
 
 msgid "Allow downloading on saturday:"
-msgstr ""
+msgstr "povolit stahování v sobotu :"
 
 msgid "Allow downloading on sunday:"
-msgstr ""
+msgstr "povolit stahování v neděli :"
 
 msgid "Don't download before:"
-msgstr ""
+msgstr "nestahovat před :"
 
 msgid "Don't download after:"
-msgstr ""
+msgstr "nestahovat po :"
 
 msgid "Maximal downloads:"
-msgstr ""
+msgstr "max. stahování :"
 
 msgid "Take x downloads to list:"
-msgstr ""
+msgstr "převzít x stahování do seznamu :"
 
 msgid "Write log:"
-msgstr ""
+msgstr "zapsat Log :"
 
 msgid "Reconnect type:"
-msgstr ""
+msgstr "typ nového připojení Internetu :"
 
 msgid "Choose reconnect script:"
-msgstr ""
+msgstr "volba skriptu pro nové připojení :"
 
 msgid "Don't reconnect before:"
-msgstr ""
+msgstr "znovu nepřipojovat před :"
 
 msgid "Don't reconnect after:"
-msgstr ""
+msgstr "znovu nepřipojovat po :"
 
 msgid "Restart failed after 10 minutes:"
-msgstr ""
+msgstr "restart po 10 min. selhání :"
 
 msgid "Mark files < 1 MB as failed:"
-msgstr ""
+msgstr "soubory < 1MB označit jako neúspěšné : "
 
 msgid "Added %s to the download-list."
-msgstr ""
+msgstr "%s přidáno do seznamu stahování"
 
 msgid "Error while adding %s to the download-list!"
-msgstr ""
+msgstr "Chyba při přidání  %s do seznamu stahování !"
 
 msgid ""
 "Error while searching http://rapidshare-search-engine.com!\n"
 "\n"
 "Error: Nothing found, sorry."
 msgstr ""
+"Chyba při hledání na http://rapidshare-search-engine.com!\n"
+"\n"
+"Chyba : %s"
 
 msgid "Nothing found, sorry."
-msgstr ""
+msgstr "Nic nenalezeno, sorry..."
 
 msgid "Page %d / %d. Push < > to switch the page..."
-msgstr ""
+msgstr "Stránka %d / %d. stiskněte < > pro přepínání stránky..."
 
 msgid ""
 "Error while searching http://rapidshare-search-engine.com!\n"
 "\n"
 "Error: %s"
 msgstr ""
+"Chyba při hledání na http://rapidshare-search-engine.com!\n"
+"\n"
+"Chyba : %s"
 
 msgid "Loading previous page... please wait!"
-msgstr ""
+msgstr "Načítám předchozí stránku, čekejte ..."
 
 msgid "Loading next page... please wait!"
-msgstr ""
+msgstr "Načítám další stránku, čekejte ..."
 
 msgid "Enter unrar password:"
-msgstr ""
+msgstr "heslo pro rozbalení rar :"
 
 msgid "Unrar is already working!"
-msgstr ""
+msgstr "UnRaR již běží !"
 
 msgid "Delete download"
-msgstr ""
+msgstr "odstranit stahování"
 
 msgid "Use search engine"
-msgstr ""
+msgstr "použít vyhledávací stroj"
 
 msgid "Add downloads from txt files"
-msgstr ""
+msgstr "přidat stažené z txt souborů"
 
 msgid "Add files from container"
-msgstr ""
+msgstr "přidat soubor z kontejneru"
 
 msgid "Delete failed downloads"
-msgstr ""
+msgstr "odstranit chybné stahování"
 
 msgid "Abort all downloads"
-msgstr ""
+msgstr "zrušit stahování ?"
 
 msgid "Restart failed downloads"
-msgstr ""
+msgstr "restart po selhání stahování"
 
 msgid "Clear finished downloads"
-msgstr ""
+msgstr "aut.odebrání dokončených časovačů"
 
 msgid "Show log"
-msgstr ""
+msgstr "zobrazit protokol"
 
 msgid "Delete log"
-msgstr ""
+msgstr "odstranit protokol"
 
 msgid "Open unrar Manager"
-msgstr ""
+msgstr "otevřít unRaR správce"
 
 msgid "Install unrar"
-msgstr ""
+msgstr "nainstalovat UnRaR"
 
 msgid "Installing unrar..."
-msgstr ""
+msgstr "nainstalovat UnRaR..."
 
 msgid "Delete %s?"
-msgstr ""
+msgstr "odstranit %s ?"
 
 msgid "Search http://rapidshare-search-engine.com for:"
-msgstr ""
+msgstr "hledat http://rapidshare-search-engine.com pro :"
 
 msgid "Error while decrypting %s!"
-msgstr ""
+msgstr "Chyba při dekódování  %s!"
 
 msgid "Download files from rapidshare"
-msgstr ""
+msgstr "stáhnout soubory z rapidshare"
 
 msgid "Change or reset the root password of your dreambox"
-msgstr ""
+msgstr "Změnit nebo resetovat root heslo Dreamboxu_"
 
 msgid "Sucessfully changed password for root user to: "
-msgstr ""
+msgstr "Heslo pro root uživatele bylo úspěšně změněno : "
 
 msgid " Results"
-msgstr ""
+msgstr " výsledek"
 
 msgid "Added: "
-msgstr ""
+msgstr "přidáno : "
 
 msgid "All Time"
-msgstr ""
+msgstr "všechny časovače"
 
 msgid "An error occured."
-msgstr ""
+msgstr "Vyskytla se chyba !"
 
 msgid "Ascending"
-msgstr ""
+msgstr "vzestupně"
 
 msgid "Australia"
-msgstr ""
+msgstr "Austrálie"
 
 msgid "Autos & Vehicles"
-msgstr ""
+msgstr "vozidla"
 
 msgid "Brazil"
-msgstr ""
+msgstr "Brazílie"
 
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 msgid "Clear history on Exit:"
-msgstr ""
+msgstr "Po dokončení vymazat historii :"
 
 msgid "Comedy"
-msgstr ""
+msgstr "komedie"
 
 msgid "Czech Republic"
-msgstr ""
+msgstr "Česká republika"
 
 msgid "Descending"
-msgstr ""
+msgstr "sestupně"
 
 msgid "Display search results by:"
-msgstr ""
+msgstr "Zobrazení výsledků hledání :"
 
 msgid "Do you want to see more entries?"
-msgstr ""
+msgstr "Chcete zobrazit další položky ?"
 
 msgid "Download Video"
-msgstr ""
+msgstr "načíst video"
 
 msgid "Download location"
-msgstr ""
+msgstr "složka pro stahovaná data"
 
 msgid "Downloading screenshots. Please wait..."
-msgstr ""
+msgstr "Stahuji snímek obrazovky, čekejte..."
 
 msgid "Duration: "
-msgstr ""
+msgstr "délka : "
 
 msgid "Education"
-msgstr ""
+msgstr "instruktáž"
 
 msgid "Enter your search term(s)"
-msgstr ""
+msgstr "zadejte data pro hledání"
 
 msgid "Entertainment"
-msgstr ""
+msgstr "kultura"
 
 msgid "Fetching feed entries"
-msgstr ""
+msgstr "zobrazit \"feed\" - zásobník na netu"
 
 msgid "Fetching search entries"
-msgstr ""
+msgstr "hledání oblíbených položek"
 
 msgid "Film & Animation"
-msgstr ""
+msgstr "film a animace"
 
 msgid "Gaming"
-msgstr ""
+msgstr "hry"
 
 msgid "Great Britain"
-msgstr ""
+msgstr "Velká Británie"
 
 msgid "HD videos"
-msgstr ""
+msgstr "HD video"
 
 msgid "Holland"
-msgstr ""
+msgstr "Holandsko"
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 msgid "Howto & Style"
-msgstr ""
+msgstr "móda a styl"
 
 msgid "India"
-msgstr ""
+msgstr "Indie"
 
 msgid "Ireland"
-msgstr ""
+msgstr "Irsko"
 
 msgid "Israel"
-msgstr ""
+msgstr "Izrael"
 
 msgid "Japan"
-msgstr ""
+msgstr "Japonsko"
 
 msgid "Load feed on startup:"
-msgstr ""
+msgstr "načíst obsah zásobníku při spuštění :"
 
 msgid "Mexico"
-msgstr ""
+msgstr "Mexiko"
 
 msgid "More video entries."
-msgstr ""
+msgstr "další zadání videa"
 
 msgid "Most discussed"
-msgstr ""
+msgstr "nejvíce diskutované"
 
 msgid "Most linked"
-msgstr ""
+msgstr "nejčastěji napojené"
 
 msgid "Most popular"
-msgstr ""
+msgstr "nejoblíbenější"
 
 msgid "Most recent"
-msgstr ""
+msgstr "nejnovější"
 
 msgid "Most responded"
-msgstr ""
+msgstr "většina odpovězena"
 
 msgid "Most viewed"
-msgstr ""
+msgstr "nejsledovanější"
 
 msgid "My TubePlayer"
-msgstr ""
+msgstr "My TubePlayer"
 
 msgid "MyTube Settings"
-msgstr ""
+msgstr "My TubePlayer - nastavení"
 
 msgid "MyTubePlayer"
-msgstr ""
+msgstr "MyTubePlayer"
 
 msgid "MyTubePlayer Help"
-msgstr ""
+msgstr "My TubePlayer - nápověda"
 
 msgid "MyTubePlayer active video downloads"
-msgstr ""
+msgstr "MyTubePlayer - stažená videa"
 
 msgid "MyTubePlayer settings"
-msgstr ""
+msgstr "MyTubePlayer - nastavení"
 
 msgid "MyTubeVideoInfoScreen"
-msgstr ""
+msgstr "MyTubeVideo - info okno"
 
 msgid "MyTubeVideohelpScreen"
-msgstr ""
+msgstr "MyTubeVideo - info okno"
 
 msgid "New Zealand"
-msgstr ""
+msgstr "Nový Zéland"
 
 msgid "News & Politics"
-msgstr ""
+msgstr "novinky a politika"
 
 msgid "No playable video found! Stop playing this movie?"
-msgstr ""
+msgstr "není přehratelné video ! zastavit přehrávač ?"
 
 msgid "No videos to display"
-msgstr ""
+msgstr "Chybí video pro přehrávání !"
 
 msgid "No, but switch to video entries."
-msgstr ""
+msgstr "ne, ale přepnout na video"
 
 msgid "No, but switch to video search."
-msgstr ""
+msgstr "ne, ale přepnout na vyhledávání videa"
 
 msgid "Nonprofits & Activism"
-msgstr ""
+msgstr "neziskové a aktivity"
 
 msgid "Not fetching feed entries"
-msgstr ""
+msgstr "Nelze použít obsah položky"
 
 msgid "People & Blogs"
-msgstr ""
+msgstr "lidé a blogy"
 
 msgid "Pets & Animals"
-msgstr ""
+msgstr "příroda"
 
 msgid "Play YouTube movies"
-msgstr ""
+msgstr "-- přehrát soubory videa"
 
 msgid "Play next video"
-msgstr ""
+msgstr "přehrát další video"
 
 msgid "Play video again"
-msgstr ""
+msgstr "přehrát video znovu"
 
 msgid "Please enter your search term."
-msgstr ""
+msgstr "vložte text pro vyhledání"
 
 msgid "Please select a standard feed or try searching for videos."
-msgstr ""
+msgstr "Vyberte standardní zásobník nebo zkuste video vyhledat"
 
 msgid "Poland"
-msgstr ""
+msgstr "Polsko"
 
 msgid "Published"
-msgstr ""
+msgstr "vydavatel"
 
 msgid "Rating"
-msgstr ""
+msgstr "hodnocení"
 
 msgid "Ratings: "
-msgstr ""
+msgstr "hodnocení :"
 
 msgid "Really quit MyTube Player?"
-msgstr ""
+msgstr "Ukončit MyTube Player ?"
 
 msgid "Recently featured"
-msgstr ""
+msgstr "nedávno představené"
 
 msgid "Related video entries."
-msgstr ""
+msgstr "související videa"
 
 msgid "Relevance"
-msgstr ""
+msgstr "důležitost"
 
 msgid "Response video entries."
-msgstr ""
+msgstr "odezva videa"
 
 msgid "Russia"
-msgstr ""
+msgstr "Rusko"
 
 msgid "Science & Technology"
-msgstr ""
+msgstr "věda a technologie"
 
 msgid "Search Term(s)"
-msgstr ""
+msgstr "vyhledat výraz..."
 
 msgid "Search category:"
-msgstr ""
+msgstr "kategorie hledání : "
 
 msgid "Search region:"
-msgstr ""
+msgstr "vyhledat region :"
 
 msgid "Search restricted content:"
-msgstr ""
+msgstr "vyhledat omezený obsah : "
 
 msgid "Select new feed to view."
-msgstr ""
+msgstr "vybrat nový obsah pro zobrazení"
 
 msgid "Select your choice."
-msgstr ""
+msgstr "zadejte svou volbu"
 
 msgid "Short Movies"
-msgstr ""
+msgstr "krátké video"
 
 msgid "South Korea"
-msgstr ""
+msgstr "Jižní Korea"
 
 msgid "Spain"
-msgstr ""
+msgstr "Španělsko"
 
 msgid "Sports"
-msgstr ""
+msgstr "sport"
 
 msgid "Start with following feed:"
-msgstr ""
+msgstr "spustit s následujícím obsahem :"
 
 msgid "Std. Feeds"
-msgstr ""
+msgstr "std.obsah zásobníku"
 
 msgid "Sweden"
-msgstr ""
+msgstr "Švédsko"
 
 msgid "Tags: "
-msgstr ""
+msgstr "záložky : "
 
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 msgid "There was an error getting the feed entries. Please try again."
-msgstr ""
+msgstr "Vyskytla se chyba v obsahu položky ! Opakujte akci."
 
 msgid "This Month"
-msgstr ""
+msgstr "Tento měsíc"
 
 msgid "This Week"
-msgstr ""
+msgstr "tento týden"
 
 msgid "This is the help screen. Feed me with something to display."
-msgstr ""
+msgstr "Pomocná nápověda..."
 
 msgid "Top favorites"
-msgstr ""
+msgstr "nejoblíbenější"
 
 msgid "Top rated"
-msgstr ""
+msgstr "nejlépe hodnocené"
 
 msgid "Travel & Events"
-msgstr ""
+msgstr "cestování"
 
 msgid "Trying to download the Youtube feed entries. Please wait..."
-msgstr ""
+msgstr "Pokouším se stáhnout video z Youtube, čekejte..."
 
 msgid "Trying to download the Youtube search results. Please wait..."
-msgstr ""
+msgstr "Pokouším se stáhnout video z Youtube, čekejte..."
 
 msgid "United States"
-msgstr ""
+msgstr "Spojené státy"
 
 msgid "Videobrowser exit behavior:"
-msgstr ""
+msgstr "Chování při ukončení video přehrávače :"
 
 msgid "Videoplayer stop/exit behavior:"
-msgstr ""
+msgstr "Chování přehrávače po stop/exit : "
 
 msgid "View Count"
-msgstr ""
+msgstr "zobrazit počet"
 
 msgid "View active downloads"
-msgstr ""
+msgstr "Zobrazit aktivní stahování"
 
 msgid "View related videos"
-msgstr ""
+msgstr "zobrazit podobná videa"
 
 msgid "View response videos"
-msgstr ""
+msgstr "zobrazit odezvy videa"
 
 msgid "Views: "
-msgstr ""
+msgstr "názory : "
 
 msgid ""
 "Welcome to the MyTube Youtube Player.\n"
@@ -17472,6 +17650,17 @@ msgid ""
 "\n"
 "The Help button shows this help again."
 msgstr ""
+"MyTube Youtube Player...\n"
+"\n"
+"Kanál+ -> navigace ve vyhledávacím poli | Kanál- -> navigace ve videu\n"
+"\n"
+"OK -> přehrát video \n"
+"\n"
+"INFO -> popis videa \n"
+"\n"
+"MENU -> další volby \n"
+"\n"
+"HELP -> znovu vyvolat nápovědu..."
 
 msgid ""
 "Welcome to the MyTube Youtube Player.\n"
@@ -17484,74 +17673,83 @@ msgid ""
 "\n"
 "Press exit to get back to the input field."
 msgstr ""
+"Vítejte v přehrávači MyTube YouTube.\n"
+"\n"
+"Při vkládání textu pro hledání budete dostávat možné návrhy. \n"
+"\n"
+"Tlačítky nahoru a dolů na ovladači si zvolte odpovídající položku. OK -> start hledání...\n"
+"\n"
+"Exit -> vrátit se na začátek..."
 
 msgid "Yes, but play next video"
-msgstr ""
+msgstr "ano, ale přehrát další video"
 
 msgid "Yes, but play previous video"
-msgstr ""
+msgstr "ano, ale přehrát předchozí video"
 
 msgid "Auto paginate on last entry:"
-msgstr ""
+msgstr "po posledním záznamu aut.přetočit list :"
 
 msgid "Reset tv-screen after playback:"
-msgstr ""
+msgstr "po přehrání videa spustit TV :"
 
 msgid "Max search results:"
-msgstr ""
+msgstr "max.počet hledání : "
 
 msgid "Failed to move the movie %s to %s in the background"
-msgstr ""
+msgstr "Přesun videa na pozadí z  %s do  %s selhal !"
 
 msgid "Filename"
-msgstr ""
+msgstr ".soubor"
 
 msgid "Name and Description Input"
-msgstr ""
+msgstr "zadání názvu a popisu"
 
 msgid "Successfully moved the movie %s"
-msgstr ""
+msgstr "Video %s  bylo úspěšně přesunuto"
 
 msgid ""
 "Target file %s.ts already exist.\n"
 "Do you want to replace it?"
 msgstr ""
+"Cílový soubor %s.ts již existuje.\n"
+"Chcete ho přepsat ?"
 
 msgid "The movie is moved in the background from %s to %s."
-msgstr ""
+msgstr "Video bylo na pozadí přesunuto z  %s do %s "
 
 msgid "The target directory is not found. The file is not renamed."
-msgstr ""
+msgstr "Cílová složka není k dispozici ! Soubor nebyl přejmenovaný."
 
 msgid "change name..."
-msgstr ""
+msgstr "Změna názvu ..."
 
 msgid "(actual)"
-msgstr ""
+msgstr "(aktuální)"
 
 msgid "(offline!)"
-msgstr ""
+msgstr "(nepřipojeno!)"
 
 msgid "(online)"
-msgstr ""
+msgstr "(online)"
 
 msgid "(set point)"
-msgstr ""
+msgstr "(má být)"
 
 msgid "Visualization for European Installation Bus"
-msgstr ""
+msgstr "zobrazení pro Evropskou inst.sběrnici"
 
 msgid "down"
-msgstr ""
+msgstr "dolů"
 
 msgid "not found"
-msgstr ""
+msgstr "není k dispozici"
 
 msgid "parser error"
-msgstr ""
+msgstr "Chybná analýza"
 
 msgid "up"
-msgstr ""
+msgstr "nahoru"
 
 msgid "Movielist Preview"
 msgstr "Náhled videa"
@@ -17587,165 +17785,173 @@ msgid "Change Movielist Preview position"
 msgstr "Změnit pozici okna náhledu"
 
 msgid "A basic FTP client"
-msgstr ""
+msgstr "-- klient FTP pro Dreambox"
 
 msgid ""
 "A file with this name (%s) already exists locally.\n"
 "Do you want to overwrite it?"
 msgstr ""
+"Soubor s názvem %s již existuje v lokálním umístění.\n"
+"Chcete ho přepsat ?"
 
 msgid ""
 "A file with this name (%s) already exists on the remote host.\n"
 "Do you want to overwrite it?"
 msgstr ""
+"Soubor s názvem %s již existuje ve vzdáleném umístění.\n"
+"Chcete ho přepsat ?"
 
 msgid ""
 "A transfer is currently in progress.\n"
 "What do you want to do?"
 msgstr ""
+"Transfer právě probíhá.\n"
+"Co chcete udělat ?"
 
 msgid "Abort transfer"
-msgstr ""
+msgstr "přerušit transfer"
 
 msgid "Address:"
-msgstr ""
+msgstr "adresa :"
 
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "Chcete odstranit %s ?"
 
 msgid "Configuration saved."
-msgstr ""
+msgstr "Konfigurace byla uložena"
 
 msgid "Connect to FTP..."
-msgstr ""
+msgstr "Připojeno přes FTP..."
 
 msgid "Could not connect to ftp server!"
-msgstr ""
+msgstr "Nelze se připojit na FTP server !"
 
 msgid "Could not delete %s."
-msgstr ""
+msgstr "%s nelze odstranit !"
 
 msgid "Could not obtain list of files."
-msgstr ""
+msgstr "Nemohu získat seznam souborů !"
 
 msgid "Could not rename %s."
-msgstr ""
+msgstr "%s nelze přejmenovat !"
 
 msgid "Download finished."
-msgstr ""
+msgstr "stahování bylo dokončeno"
 
 msgid "Enter URI"
-msgstr ""
+msgstr "zadejte URI "
 
 msgid "Enter URI of FTP Server:"
-msgstr ""
+msgstr "zadejte URI pro FTP server :"
 
 msgid "Enter new filename:"
-msgstr ""
+msgstr "název nového souboru :"
 
 msgid "Error during download."
-msgstr ""
+msgstr "Chyba při stahování"
 
 msgid "FTP Queue Manager"
-msgstr ""
+msgstr "FTP - správa fronty"
 
 msgid "FTP Server Editor"
-msgstr ""
+msgstr "FTP-server editor"
 
 msgid "FTP Server Manager"
-msgstr ""
+msgstr "FTP-správce serveru"
 
 msgid "Local"
-msgstr ""
+msgstr "lokální"
 
 msgid "Port:"
-msgstr ""
+msgstr "port :"
 
 msgid "Queue Manager"
-msgstr ""
+msgstr "správce fronty"
 
 msgid "Queue processed."
-msgstr ""
+msgstr "zpracování fronty"
 
 msgid "Remote"
-msgstr ""
+msgstr "vzdálený"
 
 msgid "Remote (not connected)"
-msgstr ""
+msgstr "FTP (není připojeno)"
 
 msgid "Removed %s."
-msgstr ""
+msgstr "odebrat %s "
 
 msgid "Removing directories is not supported."
-msgstr ""
+msgstr "Odstranění složky není podporováno !"
 
 msgid "Renamed %s to %s."
-msgstr ""
+msgstr "přejmenovat %s v %s "
 
 msgid "Run in Background"
-msgstr ""
+msgstr "spustit modul na pozadí"
 
 msgid "Select local file list"
-msgstr ""
+msgstr "vyberte složku pro seznam souborů"
 
 msgid "Select remote file list"
-msgstr ""
+msgstr "vybrat vzdálený seznam souborů"
 
 msgid "Server Manager"
-msgstr ""
+msgstr "správa serveru"
 
 msgid ""
 "There already is an active connection.\n"
 "Do you want to abort it?"
 msgstr ""
+"Již existuje aktivní napojení.\n"
+"Chcete ho přerušit ?"
 
 msgid "There already is an active transfer."
-msgstr ""
+msgstr "Je tam již aktivní transfer"
 
 msgid "Upload"
-msgstr ""
+msgstr "načíst"
 
 msgid "Upload finished."
-msgstr ""
+msgstr "načtení bylo dokončeno"
 
 msgid "Which server do you want to connect to?"
-msgstr ""
+msgstr "Na který server se připojit ?"
 
 msgid "close"
-msgstr ""
+msgstr "zavřít"
 
 msgid "enter directory/get file/put file"
-msgstr ""
+msgstr "Složka vstupů / stahování souborů / odesílání souborů"
 
 msgid "open menu"
-msgstr ""
+msgstr "Otevřít menu"
 
 msgid "Flash"
-msgstr ""
+msgstr "flash"
 
 msgid "USB Device"
-msgstr ""
+msgstr "USB disk"
 
 msgid "Media directory"
-msgstr ""
+msgstr "složka pro videa"
 
 msgid "Network mount"
-msgstr ""
+msgstr "síťový přístup"
 
 msgid "NCID Client - Setup"
-msgstr ""
+msgstr "NCID Client - nastavení"
 
 msgid "NCID server (Name or IP)"
-msgstr ""
+msgstr "NCID server (název nebo IP)"
 
 msgid "NCID server listening port (1-65535)"
-msgstr ""
+msgstr "NCID server port (1-65535)"
 
 msgid "Show connection information popups"
-msgstr ""
+msgstr "zobrazit info spojení v rolovacím menu"
 
 msgid "Plugin not active"
-msgstr ""
+msgstr "Modul není aktivní"
 
 msgid ""
 "Incoming Call on %s from\n"
@@ -17754,846 +17960,876 @@ msgid ""
 "%s\n"
 "---------------------------------------------"
 msgstr ""
+"Příchozí volání na %s od :\n"
+"---------------------------------------------\n"
+"%s\n"
+"%s\n"
+"---------------------------------------------"
 
 msgid "Connecting to NCID Server..."
-msgstr ""
+msgstr "Připojeno na NCID server..."
 
 msgid "Connected to NCID Server"
-msgstr ""
+msgstr "Připojeno na NCID server"
 
 msgid ""
 "Connection to NCID Server lost\n"
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Připojení na NCID server bylo přerušeno !\n"
+" (%s)\n"
+"...opakuji..."
 
 msgid ""
 "Connecting to NCID Server failed\n"
 " (%s)\n"
 "retrying..."
 msgstr ""
+"Připojení na NCID Server selhalo\n"
+"(%s)\n"
+"...opakuji..."
 
 msgid "Display Fon calls on screen"
-msgstr ""
+msgstr "zobrazit volání telefonu"
 
 msgid "A/V-Color space settings"
-msgstr ""
+msgstr "nastavení barevného prostoru A/V"
 
 msgid "Color space setup"
-msgstr ""
+msgstr "nastavit barevný prostor"
 
 msgid "Setup color space for video"
-msgstr ""
+msgstr "nastavit barvy pro video"
 
 msgid "Mode:"
-msgstr ""
+msgstr "režim :"
 
 msgid "Porn Center"
-msgstr ""
+msgstr "porn centrum"
 
 msgid "Adult streaming plugins for dm800/dm8000"
-msgstr ""
+msgstr "filmy pro dospělé na Dreamboxu"
 
 msgid "Description:"
-msgstr ""
+msgstr "popis :"
 
 msgid "Error while getting video url!"
-msgstr ""
+msgstr "Chyba při načítání URL adresy videa !"
 
 msgid "How to install new service lists..."
-msgstr ""
+msgstr "Jak nainstalovat nové kanály..."
 
 msgid "append to exisiting service lists"
-msgstr ""
+msgstr "připojit ke stávajícímu seznamu"
 
 msgid "overwrite exisiting service lists"
-msgstr ""
+msgstr "přepsat existující seznam"
 
 msgid "WakeOnWLan Enable"
-msgstr ""
+msgstr "WakeOnWLan povolit"
 
 msgid "Wake on WLan disabled"
-msgstr ""
+msgstr "Wake on WLan deaktivovat"
 
 msgid "Wake on Lan disabled"
-msgstr ""
+msgstr "Wake on Lan deaktivovat"
 
 msgid "HWaddr of %s is %s"
-msgstr ""
+msgstr "HWaddr z %s je %s"
 
 msgid "Use only for Wake on WLan (WoW)"
-msgstr ""
+msgstr "použít pouze pro Wake on WLan (WoW)"
 
 msgid "Deep Standby with WoW"
-msgstr ""
+msgstr "vypnout s WoW"
 
 msgid "Wake on WLan Setup"
-msgstr ""
+msgstr "Wake on WLan nastavení"
 
 msgid "Energy schedule"
-msgstr ""
+msgstr "Energy plán"
 
 msgid "Power on"
-msgstr ""
+msgstr "vypnout"
 
 msgid "Event"
-msgstr ""
+msgstr "událost"
 
 msgid "Execution time"
-msgstr ""
+msgstr "doba provedení"
 
 msgid "After power on"
-msgstr ""
+msgstr "po zapnutí"
 
 msgid ""
 "An energy schedule task wants to set your Vu+ STB to standby\n"
 "\n"
 "Continue?"
 msgstr ""
+"Podle plánu se má Vu+ box uspat\n"
+"\n"
+"Pokračovat ?"
 
 msgid ""
 "An energy schedule task wants to power off your Vu+ STB\n"
 "\n"
 "Continue?"
 msgstr ""
+"Je naplánováno vypnutí Vu+ boxu !\n"
+"\n"
+"Pokračovat ?"
 
 msgid "Ask before execution"
-msgstr ""
+msgstr "dotaz před provedením"
 
 msgid "Vertical EPG View"
-msgstr ""
+msgstr "vertikální náhled EPG"
 
 msgid "Vertical EPG view based on Vali Programm Guide"
-msgstr ""
+msgstr "vertikální náhled EPG od Vali Programm Guide"
 
 msgid "Main Primetime (HH:MM):"
-msgstr ""
+msgstr "hl.vys.čas (HH:MM):"
 
 msgid "Primetime at start:"
-msgstr ""
+msgstr "hl.vys.čas začíná v :"
 
 msgid "Zap with OK button (false=EventInfo):"
-msgstr ""
+msgstr "OK -> zapnout (ne = EventInfo)"
 
 msgid "No EPG data available"
-msgstr ""
+msgstr "data EPG nejsou dostupná"
 
 msgid "Primetime"
-msgstr ""
+msgstr "hl.vys.čas"
 
 msgid "Now"
-msgstr ""
+msgstr "nyní"
 
 msgid "Full EPG"
-msgstr ""
+msgstr "plné EPG"
 
 msgid "Select Info type..."
-msgstr ""
+msgstr "Info - volba typu..."
 
 msgid "Standard EPG info"
-msgstr ""
+msgstr "standardní info EPG"
 
 msgid "IMDb info"
-msgstr ""
+msgstr "IMDb - info"
 
 msgid "Select timer type..."
-msgstr ""
+msgstr "Volba typu časovače..."
 
 msgid "View AutoTimers"
-msgstr ""
+msgstr "AutoTimer - zobrazení"
 
 msgid "Multi EPG column view"
-msgstr ""
+msgstr "náhled EPG ve sloupcích"
 
 msgid "Next bouquet"
-msgstr ""
+msgstr "nová sada kanálů"
 
 msgid "Previous bouquet"
-msgstr ""
+msgstr "předchozí sada nástrojů"
 
 msgid "Next page"
-msgstr ""
+msgstr "další stránka"
 
 msgid "Previous page"
-msgstr ""
+msgstr "předchozí stránka"
 
 msgid "Add/remove timer"
-msgstr ""
+msgstr "přidat / odebrat časovač"
 
 msgid "Now / Primetime / Full EPG"
-msgstr ""
+msgstr "naní / hl.vys.čas / plné EPG"
 
 msgid "Scroll up all"
-msgstr ""
+msgstr "odrolovat nahoru"
 
 msgid "Scroll down all"
-msgstr ""
+msgstr "odrolovat dolů"
 
 msgid "Skip intervall in hours:"
-msgstr ""
+msgstr "interval skoku v hod.: "
 
 msgid "Primetime II (HH:MM):"
-msgstr ""
+msgstr "hl.vys.čas II (HH:MM):"
 
 msgid "Primetime III (HH:MM):"
-msgstr ""
+msgstr "hl.vys.čas III (HH:MM):"
 
 msgid "Show only Primetime"
-msgstr ""
+msgstr "zobrazit pouze hl.vys.čas"
 
 msgid "Input date and time"
-msgstr ""
+msgstr "vstup datumu a času"
 
 msgid "Skip one day back"
-msgstr ""
+msgstr "skok o jeden den zpět"
 
 msgid "Skip one day forward"
-msgstr ""
+msgstr "skok o jeden den dopředu"
 
 msgid "Picons loaded: "
-msgstr ""
+msgstr "stáhnout picovy : "
 
 msgid "Picons not found: "
-msgstr ""
+msgstr "nenalezené picony : "
 
 msgid "loading"
-msgstr ""
+msgstr "načtení"
 
 msgid "Manage your Picons"
-msgstr ""
+msgstr "správa picon"
 
 msgid "color depth: "
-msgstr ""
+msgstr "barevná hloubka : "
 
 msgid "Select service for preferred picon"
-msgstr ""
+msgstr "vyberte kanál pro preferovanou piconu"
 
 msgid "is not installed."
-msgstr ""
+msgstr "není nainstalovaný"
 
 msgid "Clean up the directory"
-msgstr ""
+msgstr "vyčistit složku"
 
 msgid "Sorry, service is temporarily unavailable"
-msgstr ""
+msgstr "Sorry, kanál není aktuálně dostupný"
 
 msgid "Not older than X days: "
-msgstr ""
+msgstr "ne starší než x dnů : "
 
 msgid "Not older than X days:"
-msgstr ""
+msgstr "ne starší než x dnů : "
 
 msgid "Show state message on non bluetooth setup screen."
-msgstr ""
+msgstr "zobrazit stavovou zprávu bez bluetooth"
 
 msgid "Try connect to last audio device on start enable"
-msgstr ""
+msgstr "po startu připojit poslední audio"
 
 msgid "Press red key to enable bluetooth."
-msgstr ""
+msgstr "červené tl. -> povolit bluetooth..."
 
 msgid "Device is enabled."
-msgstr ""
+msgstr "zařízení je aktivováno"
 
 msgid "Sink"
-msgstr ""
+msgstr "snížit"
 
 msgid "Select sink which you want to use."
-msgstr ""
+msgstr "vyberte použitelné snížení"
 
 msgid "Embedded subtitles"
-msgstr ""
+msgstr "vložené titulky"
 
 msgid "Turn on the embedded subtitles support."
-msgstr ""
+msgstr "zapnout podporu vložených titulků"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "velikost bufferu"
 
 msgid "Set buffer size in kilobytes."
-msgstr ""
+msgstr "nastavit velikost bufferu v kb"
 
 msgid "Buffer duration"
-msgstr ""
+msgstr "doba pro buffer"
 
 msgid "Set buffer duration in seconds."
-msgstr ""
+msgstr "nastavit dobu pro buffer v sek."
 
 msgid "AAC software decoding"
-msgstr ""
+msgstr "dekódování AAC softwaru"
 
 msgid "Turn on AAC software decoding."
-msgstr ""
+msgstr "zapnout dekódování AAC softwaru"
 
 msgid "DTS software decoding"
-msgstr ""
+msgstr "dekódování DTS softwaru"
 
 msgid "Turn on DTS software decoding."
-msgstr ""
+msgstr "zapnout dekódování DTS softwaru"
 
 msgid "WMA software decoding"
-msgstr ""
+msgstr "dekódování WMA softwaru"
 
 msgid "Turn on WMA1, WMA2, WMA/PRO software decoding."
-msgstr ""
+msgstr "zapnout dekódování WMA1, WMA2, WMA/PRO softwaru"
 
 msgid "Stereo downmix"
-msgstr ""
+msgstr "stereo downmix"
 
 msgid "Turn on downmix to stereo, when software decoding is in use"
-msgstr ""
+msgstr "při software dekódování přepnout downmix na stereo"
 
 msgid "LPCM injection"
-msgstr ""
+msgstr "použít LPCM"
 
 msgid ""
 "Software decoder use LPCM for injection (otherwise wav PCM will be used)"
-msgstr ""
+msgstr "softwareový dekodér používá LPCM (jinak se použije WAW PCM)"
 
 msgid "Auto turn on subtitles"
-msgstr ""
+msgstr "aut.zapnout titulky"
 
 msgid "Automatically turn on subtitles if available."
-msgstr ""
+msgstr "aut.zapnout titulky, pokud jsou dostupné"
 
 msgid "HLS Explorer"
-msgstr ""
+msgstr "průzkumník HLS"
 
 msgid ""
 "Turn on explorer to retrieve different quality streams from HLS variant "
 "playlist and select them via subservices."
 msgstr ""
+"zapnout průzkumníka HLS, pokud potřebujete rozdílnou kvalitu řetězců "
+"a vybrat přes pod-kanály"
 
 msgid "Auto select stream"
-msgstr ""
+msgstr "aut.výběr řetězce"
 
 msgid "Turn on auto-selection of streams according to set Connection speed."
-msgstr ""
+msgstr "zapnout aut.výběr řetězců podle nastavené rychlosti připojení"
 
 msgid "Connection speed"
-msgstr ""
+msgstr "rychlosti připojení"
 
 msgid ""
 "Set connection speed in kb/s, according to which you want to have streams "
 "auto-selected"
 msgstr ""
+"nastavit rychlost připojení v kb/s, podle které chcete řetězce aut.vybrat"
 
 msgid "ExtEplayer3"
-msgstr ""
+msgstr "ExtEplayer3"
 
 msgid "GstPlayer"
-msgstr ""
+msgstr "GstPlayer"
 
 msgid "Enigma2 playback system"
-msgstr ""
+msgstr "systém přehrávání v Enigmě2"
 
 msgid "Select the player which will be used for Enigma2 playback."
-msgstr ""
+msgstr "vyberte přehrávač, který bude použitý pro přehrávání v Enigmě2"
 
 msgid "Player"
-msgstr ""
+msgstr "přehrávač"
 
 msgid ""
 "Select the player which will be used in serviceapp for Enigma2 playback."
-msgstr ""
+msgstr "vyberte přehrávač, který bude použitý v serviceapp pro přehrávání v Enigmě2"
 
 msgid "ServiceMp3 (%s)"
-msgstr ""
+msgstr "ServiceMp3 (%s)"
 
 msgid "ServiceGstPlayer (%s)"
-msgstr ""
+msgstr "ServiceGstPlayer (%s)"
 
 msgid "ServiceExtEplayer3 (%s)"
-msgstr ""
+msgstr "ServiceExtEplayer3 (%s)"
 
 msgid ""
 "Enigma2 playback system was changed and Enigma2 should be restarted\n"
 "\n"
 "Do you want to restart it now?"
 msgstr ""
+"Systém přehrávání Enigmy2 byl změněný a Enigma2 by měla být restartována !\n"
+"\n"
+"Chcete restartovat nyní ?"
 
 msgid "setup player framework"
-msgstr ""
+msgstr "nastavit rámce přehrávače"
 
 msgid "Play with ServiceExtEplayer3"
-msgstr ""
+msgstr "přehrát přes ServiceExtEplayer3"
 
 msgid "Play with ServiceGstPlayer"
-msgstr ""
+msgstr "přehrát přes ServiceGstPlayer"
 
 msgid "ServiceApp"
-msgstr ""
+msgstr "ServiceApp"
 
 msgid "Dolby Digital+ (AC3+) default"
-msgstr ""
+msgstr "Dolby Digital+ (AC3+) předvoleno"
 
 msgid "Automatic Audio/Subtitle track selection"
-msgstr ""
+msgstr "aut.vybrat audio / titulky"
 
 msgid "First audio language"
-msgstr ""
+msgstr "první audio jazyk"
 
 msgid "Second audio language"
-msgstr ""
+msgstr "druhý audio jazyk"
 
 msgid "Third audio language"
-msgstr ""
+msgstr "třetí audio jazyk"
 
 msgid "Fourth audio language"
-msgstr ""
+msgstr "čtvrtý audio jazyk"
 
 msgid "Use selected audio track stored per service"
-msgstr ""
+msgstr "použít vybranou audio stopu uloženou v každém kanálu"
 
 msgid "First subtitle language"
-msgstr ""
+msgstr "první jazyk titulků"
 
 msgid "Second subtitle language"
-msgstr ""
+msgstr "druhý jazyk titulků"
 
 msgid "Third subtitle language"
-msgstr ""
+msgstr "třetí jazyk titulků"
 
 msgid "Fourth subtitle language"
-msgstr ""
+msgstr "čtvrtý jazyk titulků"
 
 msgid "Allow subtiles with same language as audio language"
-msgstr ""
+msgstr "sesouhlasit jazyk titulků a audia"
 
 msgid "Allow auto select hearing impaired subtitles"
-msgstr ""
+msgstr "aut.výběr titulků pro sluchově postižené"
 
 msgid "Default auto select hearing impaired subtitles"
-msgstr ""
+msgstr "výchozí aut.výběr titulků pro sluchově postižené"
 
 msgid "Prefer DVB subtitles"
-msgstr ""
+msgstr "preferované DVB titulky"
 
 msgid "Use selected subtitle track stored per service"
-msgstr ""
+msgstr "použít vybranou stopu titulků uloženou v každém kanálu"
 
 msgid "Setup - Audio/Subtitle tracks"
-msgstr ""
+msgstr "nastavit stopu audio / titulků"
 
 msgid "HDMI Colordepth"
-msgstr ""
+msgstr "barevná hloubka HDMI"
 
 msgid "Set bluetooth audio delay."
-msgstr ""
+msgstr "nastavit  zpoždění bluetooth audio stopy"
 
 msgid "Please enter a name for the HDMI IN service"
-msgstr ""
+msgstr "zadejte název služby HDMI IN"
 
 msgid "add HDMI IN to bouquet"
-msgstr ""
+msgstr "přidat HDMI IN do sady kanálů"
 
 msgid "add HDMI IN to favourites"
-msgstr ""
+msgstr "přidat HDMI IN do oblíbených"
 
 msgid "Ask for timer type when Autotimer is installed"
-msgstr ""
+msgstr "dotaz na typ časovače, pokud je Autotimer nainstalovaný"
 
 msgid "Enable HbbTV for streaming services"
-msgstr ""
+msgstr "povolit HbbTV pro sdílení kanálů"
 
 msgid "Mount process"
-msgstr ""
+msgstr "připojování"
 
 msgid "Classic mount"
-msgstr ""
+msgstr "klasické připojení"
 
 msgid "AutoFS"
-msgstr ""
+msgstr "AutoFS"
 
 msgid "Disable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "zakázat HDMI-IN na hl.obrazovce"
 
 msgid "Enable HDMI-IN on Main Screen"
-msgstr ""
+msgstr "povolit HDMI-IN na hl.obrazovce"
 
 msgid "Disable HDMI-IN on PIP"
-msgstr ""
+msgstr "zakázat HDMI-IN v PIP"
 
 msgid "Enable HDMI-IN on PIP"
-msgstr ""
+msgstr "povolit HDMI-IN v PIP"
 
 msgid "Use cross down for showing timeshift events"
-msgstr ""
+msgstr "kurzorový kříž dolů pro události timeshiftu"
 
 msgid "Driver is not supported."
-msgstr ""
+msgstr "zařízení není podporované"
 
 msgid "Vu+ %s Misc. Control"
-msgstr ""
+msgstr "Vu+ %s různé ovládání"
 
 msgid "set Vu+ %s LNB Power and etc.."
-msgstr ""
+msgstr "nastavit Vu+ %s LNB zdroj atd..."
 
 msgid "Scanning bluetooth devices"
-msgstr ""
+msgstr "prohledat bluetooth zařízení"
 
 msgid "Scanning BLE bluetooth devices"
-msgstr ""
+msgstr "prohledat BLE bluetooth zařízení"
 
 msgid "Start scan"
-msgstr ""
+msgstr "spustit prohledávání"
 
 msgid "Press green key to connect device."
-msgstr ""
+msgstr "zelené tl. -> připojit zařízení..."
 
 msgid "No nearby bluetooth devices were found."
-msgstr ""
+msgstr "nenalezeno žádné bluetooth zařízení"
+
 
 msgid "Device %s is connected."
 msgstr ""
 
 msgid "Pairing fail"
-msgstr ""
+msgstr "párování selhalo"
 
 msgid "Can't communicate with %s"
-msgstr ""
+msgstr "nelze komunikovat s %s"
 
 msgid "Abort scan"
-msgstr ""
+msgstr "přerušit hledání"
 
 msgid ""
 "Pairing Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"párování selhalo !\n"
+"je připojeno jiné audio zařízení : (%s)"
 
 msgid "Pairing %s"
-msgstr ""
+msgstr "párování %s"
 
 msgid "Pairing %s failed!!"
-msgstr ""
+msgstr "párování  %s selhalo !"
 
 msgid "Discovery"
-msgstr ""
+msgstr "detekce"
 
 msgid "Device is disabling..."
-msgstr ""
+msgstr "zařízení je deaktivováno..."
 
 msgid "Device is enabling..."
-msgstr ""
+msgstr "zařízení je aktivováno..."
 
 msgid "disconnecting %s"
-msgstr ""
+msgstr "odpojení %s"
 
 msgid "disconnecting %s failed!!"
-msgstr ""
+msgstr "odpojení %s selhalo !"
 
 msgid ""
 "Connection Failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"připojení selhalo !\n"
+"je připojeno jiné audio zařízení : (%s)"
 
 msgid "connecting %s failed!!"
-msgstr ""
+msgstr "připojení %s selhalo"
 
 msgid "connecting %s"
-msgstr ""
+msgstr "připojení %s"
 
 msgid "remove %s failed!!"
-msgstr ""
+msgstr "odebrání %s selhalo !"
 
 msgid "Device %s is disconnected."
 msgstr ""
 
 msgid "Bluetooth Setup"
-msgstr ""
+msgstr "nastavení bluetooth"
 
 msgid "Configure Bluetooth devices"
-msgstr ""
+msgstr "konfigurace bluetooth zařízení"
 
 msgid "type : %s"
-msgstr ""
+msgstr "typ : %s"
 
 msgid "status : %s"
-msgstr ""
+msgstr "status : %s"
 
 msgid "Connected"
-msgstr ""
+msgstr "připojeno"
 
 msgid "Disconnected"
-msgstr ""
+msgstr "odpojeno"
 
 msgid "is connected."
-msgstr ""
+msgstr "je připojeno"
 
 msgid "is disconnected."
-msgstr ""
+msgstr "je odpojeno"
 
 msgid "Bluetooth Discovery"
-msgstr ""
+msgstr "detekováno bluetooth"
 
 msgid "Same behavior as current animation"
-msgstr ""
+msgstr "stejné chování jako akt.animace"
 
 msgid "Enable Focus Animation"
-msgstr ""
+msgstr "aktivovat animaci zaostření"
 
 msgid "Minimum amount of items before grouping"
-msgstr ""
+msgstr "min.počet položek před seskupením"
 
 msgid "Seperator for grouping items"
-msgstr ""
+msgstr "oddělovač pro seskupování položek"
 
 msgid "Group items in folders by title"
-msgstr ""
+msgstr "položky skupiny ve složce podle titulků"
 
 msgid "Sort grouped folders like default items"
-msgstr ""
+msgstr "seřadit seskupení složek podle předvolby"
 
 msgid "VTI HDMI-CEC Configuration"
-msgstr ""
+msgstr "konfigurace VTI HDMI-CEC"
 
 msgid "VTI HDMI-CEC Plugin"
-msgstr ""
+msgstr "modul VTI HDMI-CEC"
 
 msgid "Scan"
-msgstr ""
+msgstr "hledat"
 
 msgid "Scan All"
-msgstr ""
+msgstr "vyhledat vše"
 
 msgid "message"
-msgstr ""
+msgstr "hlášení"
 
 msgid "Remote Control System Code Setting"
-msgstr ""
+msgstr "nastavit syst.kódování dálk.ovladače"
 
 msgid "PiconManager (mod)"
-msgstr ""
+msgstr "PiconManager (mod)"
 
 msgid "PiconManager"
-msgstr ""
+msgstr "PiconManager"
 
 msgid "Fancontrol Settings in Standby mode"
-msgstr ""
+msgstr "nastavení Fancontrol v režimu spánku"
 
 msgid "wide"
-msgstr ""
+msgstr "široký"
 
 msgid "extrawide"
-msgstr ""
+msgstr "extra široký"
 
 msgid "VideoEnhancementSetup"
-msgstr ""
+msgstr "VideoEnhancementSetup"
 
 msgid "Scaler vertical dejagging"
-msgstr ""
+msgstr "vertikální měřítko dejaggingu"
 
 msgid "Smooth"
-msgstr ""
+msgstr "vyhladit"
 
 msgid "VideoEnhancementPreview"
-msgstr ""
+msgstr "VideoEnhancementPreview"
 
 msgid "Autoresolution"
-msgstr ""
+msgstr "Autoresolution"
 
 msgid "Autoresolution Switch"
-msgstr ""
+msgstr "přepnout Autoresolution"
 
 msgid "SD 25/50HZ Interlace Mode"
-msgstr ""
+msgstr "SD 25/50HZ prokládaný mód"
 
 msgid "SD 30/60HZ Interlace Mode"
-msgstr ""
+msgstr "SD 30/60HZ prokládaný mód"
 
 msgid "SD 25/50HZ Progressive Mode"
-msgstr ""
+msgstr "SD 25/50HZ prograsivní mód"
 
 msgid "SD 30/60HZ Progressive Mode"
-msgstr ""
+msgstr "SD 30/60HZ prograsivní mód"
 
 msgid "HD Interlace Mode"
-msgstr ""
+msgstr "HD prokládaný mód"
 
 msgid "HD Progressive Mode"
-msgstr ""
+msgstr "HD prograsivní mód"
 
 msgid "Enable 720p24 Mode"
-msgstr ""
+msgstr "aktivovat 720p24 mód"
 
 msgid "Enable 1080p24 Mode"
-msgstr ""
+msgstr "aktivovat 1080p24 mód"
 
 msgid "Enable 1080p25 Mode"
-msgstr ""
+msgstr "aktivovat 1080p25 mód"
 
 msgid "Enable 1080p30 Mode"
-msgstr ""
+msgstr "aktivovat 1080p30 mód"
 
 msgid "Enable 2160p24 Mode"
-msgstr ""
+msgstr "aktivovat 2160p24 mód"
 
 msgid "Enable 2160p25 Mode"
-msgstr ""
+msgstr "aktivovat 2160p25 mód"
 
 msgid "Enable 2160p30 Mode"
-msgstr ""
+msgstr "aktivovat 2160p30 mód"
 
 msgid "bob"
-msgstr ""
+msgstr "bob"
 
 msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
 msgstr ""
+"Testovací režim modulu Autoresolution :\n"
+"Je %s OK ?"
 
 msgid "Autoresolution videomode setup"
-msgstr ""
+msgstr "nastavit mód videa pro aut.rozlišení"
 
 msgid "Autoresolution settings"
-msgstr ""
+msgstr "nastavit aut.rozlišení"
 
 msgid "Enable Autoresolution"
-msgstr ""
+msgstr "aktivovat Autoresolution"
 
 msgid "Show info screen"
-msgstr ""
+msgstr "zobrazit info "
 
 msgid "Delay x seconds after service started"
-msgstr ""
+msgstr "zpoždění x sekund po spuštění kanálu"
 
 msgid "Running in testmode"
-msgstr ""
+msgstr "spustit v testovacím módu"
 
 msgid "Deinterlacer mode for interlaced content"
-msgstr ""
+msgstr "neprokládaný mód pro prokládaný obsah"
 
 msgid "Deinterlacer mode for progressive content"
-msgstr ""
+msgstr "neprokládaný mód pro progresivní obsah"
 
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr ""
+msgstr "Aut.rozlišení nefunguje v Scart/DVI-PC módu"
 
 msgid "multi"
-msgstr ""
+msgstr "multi"
 
 msgid "System services"
-msgstr ""
+msgstr "syst.služby"
 
 msgid "Debug options"
-msgstr ""
+msgstr "volby ladění"
 
 msgid "Software packages"
-msgstr ""
+msgstr "software balíčky"
 
 msgid "SecondInfoBar"
-msgstr ""
+msgstr "SecondInfoBar"
 
 msgid "Common"
-msgstr ""
+msgstr "obecné"
 
 msgid "Creating Timers"
-msgstr ""
+msgstr "zakládání časovačů"
 
 msgid "Buttons"
-msgstr ""
+msgstr "tlačítka"
 
 msgid "Timer List"
-msgstr ""
+msgstr "seznam časovačů"
 
 msgid "Notifications"
-msgstr ""
+msgstr "hlášení"
 
 msgid "GUI Setup"
-msgstr ""
+msgstr "nastavení Enigmy2"
 
 msgid "Movie playback"
-msgstr ""
+msgstr "přehrát video"
 
 msgid "Begin / End of playback"
-msgstr ""
+msgstr "začátek / konec přehrávání"
 
 msgid "Advertisment detection"
-msgstr ""
+msgstr "detekce reklamy"
 
 msgid "Setup - Buttons"
-msgstr ""
+msgstr "tlačítka - nastavení "
 
 msgid "Buttons setup"
-msgstr ""
+msgstr "nastavení tlačítek"
 
 msgid "bottom"
-msgstr ""
+msgstr "dole"
 
 msgid "OscamButler"
-msgstr ""
+msgstr "OscamButler"
 
 msgid "Please note: The generated configuration files do not contain any keys"
-msgstr ""
+msgstr "Poznámka : generované konfig.soubory neobsahují tlačítka"
 
 msgid "Create configuration"
-msgstr ""
+msgstr "generování konfigurace"
 
 msgid "Create configuration and open Cam Center"
-msgstr ""
+msgstr "generování konfigurace a otevření správy Cam"
 
 msgid "Username for Oscam-client user:"
-msgstr ""
+msgstr "uživatel pro Oscam klienta :"
 
 msgid "Password for Oscam-client user:"
-msgstr ""
+msgstr "heslo pro Oscam klienta :""
 
 msgid "IP address of Oscam-server:"
-msgstr ""
+msgstr "IP adresa pro Oscam server : "
 
 msgid "Port of Oscam-server:"
-msgstr ""
+msgstr "port pro Oscam server : "
 
 msgid "Use internal reader 0%s:"
-msgstr ""
+msgstr "použít interní čtečku 0%s : "
 
 msgid "Smartcard type in internal reader 0:"
-msgstr ""
+msgstr "typ smart-karty v interní čtečce 0 : "
 
 msgid "Use internal reader 1%s:"
-msgstr ""
+msgstr "použít interní čtečku 1%s : "
 
 msgid "Smartcard type in internal reader 1:"
-msgstr ""
+msgstr "typ smart-karty v int.čtečce 1 : "
 
 msgid "Use external reader 0:"
-msgstr ""
+msgstr "použít interní čtečku 0 : "
 
 msgid "Smartcard type in external reader 0:"
-msgstr ""
+msgstr "typ smart-karty v ext.čtečce 0 : "
 
 msgid "Use external reader 1:"
-msgstr ""
+msgstr "použít interní čtečku 1 : "
 
 msgid "Smartcard type in external reader 1:"
-msgstr ""
+msgstr "typ smart-karty v ext.čtečce 1 : "
 
 msgid "Connect to Oscam server:"
-msgstr ""
+msgstr "připojeno na Oscam server : "
 
 msgid "Enable Oscam WebInterface (Port 83):"
-msgstr ""
+msgstr "aktivovat Oscam WebInterface (port 83):"
 
 msgid "Enable Oscam server (cs378x protocol) (Port 37800):"
-msgstr ""
+msgstr "aktivovat Oscam server (cs378x protocol) (port 37800):"
 
 msgid "Add user for client connection"
-msgstr ""
+msgstr "přidat uživatele pro připojení klienta"
 
 msgid "Enable Oscam server (Cccam protocol) (Port 22209):"
-msgstr ""
+msgstr "aktivovat Oscam server (Cccam protocol) (port 22209):"
 
 msgid "Oscam Butler"
-msgstr ""
+msgstr "Oscam Butler"
 
 msgid "Please enter username:"
-msgstr ""
+msgstr "zadejte uživatele : "
 
 msgid "Please enter password for user %s:"
-msgstr ""
+msgstr "zadejte heslo pro uživatele %s :"
 
 msgid "create basic configuraton files for Oscam"
-msgstr ""
+msgstr "sestavit základní konfig.soubory pro Oscam"
 
 msgid "Always include ECM in recordings"
 msgstr ""
