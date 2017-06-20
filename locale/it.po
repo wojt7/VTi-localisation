@@ -19190,3 +19190,9 @@ msgstr ""
 
 msgid "Keep Bluetooth enabled in standby"
 msgstr ""
+
+msgid "Use standby before shutdown when scrambled records are detected"
+msgstr ""
+
+msgid "There are unscrambled movies, which will be unscrambled in standby"
+msgstr ""
