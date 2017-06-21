@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: vti-po-catalog - enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-03-05 11:31+0200\n"
+"PO-Revision-Date: 2017-06-21 13:16+0300\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
 "Language: lt_LT\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "No"
@@ -16476,6 +16476,8 @@ msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80 percent of the it."
 msgstr ""
+"Pažymėjus čia, esamas laikmatis taip pat bus skaitomas įrašančiu įvykį, jei "
+"jis įrašo bent 80 procentų įvykio."
 
 msgid "Add similar timer on conflict"
 msgstr "Konflikto atveju, pridėti panašų laikmatį"
@@ -18602,7 +18604,7 @@ msgid "No nearby bluetooth devices were found."
 msgstr "Netoliese Bluetooth įrenginių nerasta."
 
 msgid "Device %s is connected."
-msgstr ""
+msgstr "%s pajungtas."
 
 msgid "Pairing fail"
 msgstr "Siejimas nepavyko"
@@ -18658,7 +18660,7 @@ msgid "remove %s failed!!"
 msgstr "%s prijungti nepavyko!"
 
 msgid "Device %s is disconnected."
-msgstr ""
+msgstr "%s atjungtas."
 
 msgid "Bluetooth Setup"
 msgstr "Bluetooth sąranka"
@@ -18960,7 +18962,7 @@ msgid "create basic configuraton files for Oscam"
 msgstr "sukurkite pagrindinius Oscam konfigūracijos failus"
 
 msgid "Always include ECM in recordings"
-msgstr ""
+msgstr "Į įrašus visada įtraukti ECM"
 
 msgid ""
 "Always include ECM messages in recordings. This overrides the individual "
@@ -18968,15 +18970,19 @@ msgid ""
 "afterwards (sometimes called offline decoding), if supported by your "
 "receiver. Default: off."
 msgstr ""
+"Į įrašus visada įtraukti ECM pranešimus. Tai atšaukia bendruosius visų "
+"laikmačių nustatymus. Tai leidžia įrašus visada vėliau iššifruoti (tai "
+"kartais vadimama iškodavimu atsijungus), jei tą palaiko jūsų imtuvas. "
+"Numatytasis: 'Ne'."
 
 msgid "Never decrypt while recording CI services"
-msgstr ""
+msgstr "Įrašinėjant CI kanalus, niekada neiššifruoti"
 
 msgid "mark as scrambled : %s"
-msgstr ""
+msgstr "pažymėti kaip šifruotą: %s"
 
 msgid "mark as descrambled : %s"
-msgstr ""
+msgstr "pažymėti kaip iššifruotą : %s"
 
 msgid ""
 "Never decrypt the content while recording. This overrides the individual "
@@ -18984,320 +18990,374 @@ msgid ""
 "presentation and must be decrypted afterwards (sometimes called offline "
 "decoding). Default: off."
 msgstr ""
+"Niekada neiššifruoti įrašomo turinio. Tai atšaukia bendruosius visų "
+"laikmačių nustatymus. Jei įjungta, įrašai saugomi šifruoti ir vėliau turi "
+"būti iššifruojami (tai kartais vadimama iškodavimu atsijungus). Numatytasis: "
+"'Ne'."
 
 msgid "Please select firmware file"
-msgstr ""
+msgstr "Pasirinkite aparatinės mikroprogramos failą"
 
 msgid "Battery level for OTA : "
-msgstr ""
+msgstr "Akumuliatoriaus įkrovos lygis: "
 
 msgid "Current app version : "
-msgstr ""
+msgstr "Dabartinė programos versija: "
 
 msgid "New app version : "
-msgstr ""
+msgstr "Nauja programos versija: "
 
 msgid "Updateing %d %%"
-msgstr ""
+msgstr "Atnaujinama %d %%"
 
 msgid "Battery level for OTA : %s"
-msgstr ""
+msgstr "Akumuliatoriaus įkrovos lygis: %s"
 
 msgid "Current app version : %d"
-msgstr ""
+msgstr "Dabartinė programos versija: %d"
 
 msgid "New app version : %d"
-msgstr ""
+msgstr "Nauja programos versija: %d"
 
 msgid "New app version : N/A"
-msgstr ""
+msgstr "Nauja programos versija: N/D"
 
 msgid "Event %d"
-msgstr ""
+msgstr "Įvykis %d"
 
 msgid "Selected : %s"
-msgstr ""
+msgstr "Pasirinkta: %s"
 
 msgid "Please exit and try again."
-msgstr ""
+msgstr "Užverkite ir bandykite dar kartą."
 
 msgid "Not enough battery level for OTA update."
-msgstr ""
+msgstr "Atnaujinimui pritruks akumuliatoriaus įkrovos."
 
 msgid "Invalid firmware file."
-msgstr ""
+msgstr "Neteisingas mikroprogramos failas."
 
 msgid ""
 "NOTE : The selected firmware version is not higher than existing one.\n"
 "\n"
 msgstr ""
+"PASTABA: pasirinkta mikroprogramos versija neaukštesnė už esamą.\n"
+"\n"
 
 msgid ""
 "While the update is progress, RCU can not be used and other bluetooth device "
 "must be disconnected .\n"
 "Do you want update?"
 msgstr ""
+"Atnaujinimo metu negalima naudotis RCU ir kita bluetooth įranga turi būti "
+"atjungta.\n"
+"Ar norite atnaujinti?"
 
 msgid "disconnect to %s failed!!"
-msgstr ""
+msgstr "Atsijungti nuo %s nepavyko!"
 
 msgid ""
 "Battery is low. Suggest to prepare replacement batteries for using properly "
 "%s."
 msgstr ""
+"Senka akumuliatorius. Kad tinkamai naudotis %s, paruoškite atsargines "
+"baterijas."
 
 msgid "Bluetooth Setup Options"
-msgstr ""
+msgstr "Bluetooth sąrankos parinktys"
 
 msgid "Set bluetooth audio delay (msec)"
-msgstr ""
+msgstr "Nustatykite bluetooth garso delsą (ms)"
 
 msgid "Show state message on infobar notification"
-msgstr ""
+msgstr "Infojuostoje rodyti stovio pranešimą"
 
 msgid "Show battery low message on infobar notification"
-msgstr ""
+msgstr "Infojuostoje rodyti \"Senka akumuliatorius\" pranešimą"
 
 msgid "Scan failed! try again."
-msgstr ""
+msgstr "Paieška nepavyko! Bandykite iš naujo."
 
 msgid "Disconnecting %s"
-msgstr ""
+msgstr "%s atjungiamas"
 
 msgid "Disconnect %s failed!!"
-msgstr ""
+msgstr "Atjungti %s nepavyko!"
 
 msgid "Bluetooth Scan"
-msgstr ""
+msgstr "Bluetooth paieška"
 
 msgid "Stop scan"
-msgstr ""
+msgstr "Nutraukti paiešką"
 
 msgid "Scanning VUPLUS BLE RCU"
-msgstr ""
+msgstr "Ieškoma VUPLUS BLE RCU"
 
 msgid "Device %s is not found."
-msgstr ""
+msgstr "Įrenginio %s nerasta."
 
 msgid "Vu+ Bluetooth RCU Setup"
-msgstr ""
+msgstr "VU+ Bluetooth pulto sąranka"
 
 msgid ""
 "Press and hold the buttons <MENU+AUDIO>\n"
 " for five seconds to start."
 msgstr ""
+"Kad paleistumėte, laikykite nuspaudę 5 sek.\n"
+"vienu metu mygtukus 'MENU'+'AUDIO'"
 
 msgid ""
 "Scan failed. Please try again VUPLUS BLE RCU setup.\n"
 "(AUDIO+MENU buttons)"
 msgstr ""
+"Paieška nepavyko! Atlikite VUPLUS BLE RCU sąranką iš naujo.\n"
+"('MENU'+'AUDIO' mygtukais)"
 
 msgid ""
 "Connection failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Prijungti nepavyko.\n"
+"Pajungtas kitas garso įrenginys (%s)"
 
 msgid "connect to %s failed!!"
-msgstr ""
+msgstr "prisijungti prie %s nepavyko!"
 
 msgid "Can't communicate with %s."
-msgstr ""
+msgstr "Su %s užmegzti ryšio nepavyksta."
 
 msgid ""
 "\n"
 "Please repair Vu+ RCU. (by AUDIO+MENU)"
 msgstr ""
+"\n"
+"Pertvarkykite Vu+ nuot. pultą (su 'MENU'+'AUDIO')"
 
 msgid "Connect/Disconnect selected device"
-msgstr ""
+msgstr "Prijungti/atjungti pasirinktą įrenginį"
 
 msgid "Exit bluetooth setup"
-msgstr ""
+msgstr "Užverti Bluetooth sąranką"
 
 msgid "Enable/Disable bluetooth"
-msgstr ""
+msgstr "Įjungti/išjungti Bluetooth"
 
 msgid "Remove selected device"
-msgstr ""
+msgstr "Pašalinti pasirinktą įrenginį"
 
 msgid "Start Scan / Setup VUPLUS BLE RCU"
-msgstr ""
+msgstr "Pradėti VUPLUS BLE RCU paiešką/sąranką"
 
 msgid "Setup bluetooth options"
-msgstr ""
+msgstr "Bluetooth sąrankos parinktys"
 
 msgid "OTA update for VUPLUS BLE RCU"
-msgstr ""
+msgstr "VUPLUS BLE RCU OTA atnaujinimas"
 
 msgid ""
 "Please enable bluetooth \n"
 "before pairing the VUPLUS-BLE-RCU."
 msgstr ""
+"Prieš suporuodami VUPLUS-BLE-RCU,\n"
+"įjunkite Bluetooth."
 
 msgid "Removing VUPLUS-BLE-RCU..."
-msgstr ""
+msgstr "Šalinamas VUPLUS-BLE-RCU..."
 
 msgid "Please connect VUPLUS-BLE-RCU."
-msgstr ""
+msgstr "Prijunkite VUPLUS-BLE-RCU."
 
 msgid "Scan and setup Vu+ Bluetooth RCU"
-msgstr ""
+msgstr "VU+ Bluetooth pulto paieška ir sąranka"
 
 msgid "Scan other bluetooth 3.0 device (A2DP, HID)"
-msgstr ""
+msgstr "Ieškoti kitų Bluetooth 3.0 įrenginių (A2DP, HID)"
 
 msgid "Please select scan mode."
-msgstr ""
+msgstr "Pasirinkite paieškos režimą."
 
 msgid "BluetoothSetup"
-msgstr ""
+msgstr "Bluetooth sąranka"
 
 msgid "Device %s Pairing fail"
-msgstr ""
+msgstr "Prietaiso %s suporuoti nepavyko"
 
 msgid "Device %s wrong pin code."
-msgstr ""
+msgstr "Neteisingas įrenginio %s PIN kodas."
 
 msgid ""
 "\"Wit.ai speech to text Setup\" gets the speech data from VUPLUS-BLE-RCU and "
 "converts it to text using wit.ai.\n"
 "\n"
 msgstr ""
+"\"Wit.ai kalbos vertimo tekstu sąranka\" ima kalbos duomenis iš VUPLUS-BLE-"
+"RCU ir paverčia tekstu, naudodama wit.ai.\n"
+"\n"
 
 msgid "1. Sign up for wit.ai (https://wit.ai)\n"
-msgstr ""
+msgstr "1. Užsiregistruoti wit.ai (https://wit.ai)\n"
 
 msgid "2. Enter \"server access token\" under the settings menu to below.\n"
 msgstr ""
+"2. Įveskite \"serverio prieigos raktą\" apačioje, po nustatymų meniu.\n"
 
 msgid "Wit.ai Speech to Text Setup"
-msgstr ""
+msgstr "Wit.ai kalbos vertimo tekstu sąranka"
 
 msgid "Input server access token"
-msgstr ""
+msgstr "Serverio prieigos raktas"
 
 msgid "Open browser and search with google"
-msgstr ""
+msgstr "Averkite naršyklę ir ieškokite su Google"
 
 msgid "Converting speech to text using wit.ai server..."
-msgstr ""
+msgstr "Kalba verčiama tekstu, naudojant wit.ai serverį ..."
 
 msgid ""
 "Conversion of speech to text failed.\n"
 "Please try again"
 msgstr ""
+"Kalbos vertimas tekstu nepavyko.\n"
+"Bandykite dar kartą"
 
 msgid "Speech to text using Wit.ai for VUPLUS-BLE-RCU."
-msgstr ""
+msgstr "VUPLUS-BLE-NVP kalbos vertimas tekstu, naudojant Wit.ai."
 
 msgid "enable grouped folders in: %s"
-msgstr ""
+msgstr "leisti katalogų grupavimą: %s"
 
 msgid "disable grouped folders in: %s"
-msgstr ""
+msgstr "išjungti katalogų grupavimą: %s"
 
 msgid "Enable descrambling in standby"
-msgstr ""
+msgstr "Įjungti iškodavimą budėjimo režime"
 
 msgid "Begin of time intervall for descrambling in standby"
-msgstr ""
+msgstr "Iškodavimo budėjimo režime laiko iintervalo pradžia"
 
 msgid "End of time intervall for descrambling in standby"
-msgstr ""
+msgstr "Iškodavimo budėjimo režime laiko iintervalo pabaiga"
 
 msgid ""
 "A PVR descramble converting is finished.\n"
 "%s"
 msgstr ""
+"Iškodavimo konvertavimas baigtas.\n"
+"%s"
 
 msgid "Skip firmware update of VUPLUS-BLE-RCU (version : %d)"
-msgstr ""
+msgstr "Praleisti VUPLUS-BLE-NVP mikroprogramos atnaujinimą (vers.: %d)"
 
 msgid "Current FW version : %d"
-msgstr ""
+msgstr "Mikroprogramos versija: %d"
 
 msgid "New FW version : %d"
-msgstr ""
+msgstr "Nauja mikroprogramos versija: %d"
 
 msgid ""
 "New firmware detected for VUPLUS-BLE-RCU.\n"
 "\n"
 msgstr ""
+"Aptikta nauja VUPLUS-BLE-RCU mikroprograma.\n"
+"\n"
 
 msgid ""
 "While the update is progress, RCU can not be used and other bluetooth device "
 "must be disconnected.\n"
 "\n"
 msgstr ""
+"Atnaujinimo metu negalima naudotis RCU ir kita bluetooth įranga turi būti "
+"atjungta.\n"
+"\n"
 
 msgid ""
 "Current FW version : %d\n"
 "New FW version : %d"
 msgstr ""
+"Dabartinė versija: %d\n"
+"Nauja versija: %d"
 
 msgid "Upgrade now"
-msgstr ""
+msgstr "Atnaujinti dabar"
 
 msgid "Remind Me later"
-msgstr ""
+msgstr "Priminti vėliau"
 
 msgid "Skip this version"
-msgstr ""
+msgstr "Praleisti šią versiją"
 
 msgid "VUPLUS-BLE-RCU is disconnected. Please connect and select again."
-msgstr ""
+msgstr "VUPLUS-BLE-RCU atjungtas. Prijunkite ir pasirinkite dar kartą."
 
 msgid ""
 "If you want to update this firmware version, follow belows.\n"
 "\n"
 msgstr ""
+"Jei norite atnaujinti mikroprogramos versiją, žiūrėkite žemiau.\n"
+"\n"
 
 msgid ""
 "1. Move to Bluetooth Setup Options.\n"
 "(press MENU key in BluetoothSetup)\n"
 msgstr ""
+"1. Eikite į Bluetooth sąrankos parinktis.\n"
+"(spauskite 'MENU' klavišą Bluetooth sąrankoje)\n"
 
 msgid "2. Change 'Skip firmware update of VUPLUS-BLE-RCU' option to 'no'\n"
 msgstr ""
+"Pakeiskite 'Praleisti VUPLUS-BLE-NVP mikroprogramos atnaujinimą' į 'ne'\n"
 
 msgid ""
 "3. Reconnect the VUPLUS-BLE-RCU.\n"
 "\n"
 msgstr ""
+"3. Pakartotinai prijunkite VUPLUS-BLE-RCU.\n"
+"\n"
 
 msgid "New firmware detected for VUPLUS-BLE-RCU. (old: %d new: %d)"
-msgstr ""
+msgstr "Aptikta nauja VUPLUS-BLE-NVP mikroprograma. (sena: %d nauja: %d)"
 
 msgid "Enable automatic CI assignment"
-msgstr ""
+msgstr "Įjungti automatinį CI priskyrimą"
 
 msgid ""
 "\n"
 "\n"
 "<Code set manual>"
 msgstr ""
+"\n"
+"\n"
+"<Kodas įvestas ranka>"
 
 msgid ""
 "\n"
 "1. Press <OK> and <STB> simultaneously for 3 seconds. After 3 seconds LED "
 "turns on. "
 msgstr ""
+"\n"
+"1. Spauskite 'OK' ir 'STB' tuo pat metu 3 sekundes. Po 3 sek. užsidegs LED "
+"indikatorius. "
 
 msgid ""
 "\n"
 "2. Enter a 5 digit code(ex. code 2 is '00002')"
 msgstr ""
+"\n"
+"2. Įveskite 5 skaitmenų kodą (pvz., kodas 2 yra '00002')"
 
 msgid ""
 "\n"
 "3. Press the <OK> key. LED is blinked and turns on."
 msgstr ""
+"\n"
+"3. Paspauskite 'OK'. LED mirktels ir įsijungs."
 
 msgid "Keep Bluetooth enabled in standby"
-msgstr ""
+msgstr "Budėjimo režime Bluetooth įjungtas"
 
 msgid "Use standby before shutdown when scrambled records are detected"
-msgstr ""
+msgstr "Esant šifruotiems įrašams, prieš išjungiant, pereiti į budėjimą"
 
+# May be "There are scrambled movies, which will be unscrambled in standby"?
 msgid "There are unscrambled movies, which will be unscrambled in standby"
-msgstr ""
+msgstr "Yra šifruotų įrašų, kurie bus iššifruoti budėjimo būsenoje"
