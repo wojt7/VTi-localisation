@@ -19445,7 +19445,7 @@ msgid "Keep Bluetooth enabled in standby"
 msgstr "Bluetooth im Standby aktiviert lassen"
 
 msgid "Use standby before shutdown when scrambled records are detected"
-msgstr "Standby Vor dem Ausschalten wenn verschlüsselte Aufnahmen existieren"
+msgstr "Standby vor dem Ausschalten wenn verschlüsselte Aufnahmen existieren"
 
 msgid "There are unscrambled movies, which will be unscrambled in standby"
-msgstr "Es nicht entschlüsselte Aufnahmen, diese werden im Standby entschlüsselt"
+msgstr "Es gibt nicht entschlüsselte Aufnahmen, diese werden im Standby entschlüsselt"
