@@ -18920,3 +18920,6 @@ msgstr ""
 
 msgid "Password for streaming with authentication"
 msgstr ""
+
+msgid "no Services selected"
+msgstr ""

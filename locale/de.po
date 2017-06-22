@@ -19474,3 +19474,6 @@ msgstr "Benutzer für Streaming mit Authentifizierung"
 
 msgid "Password for streaming with authentication"
 msgstr "Passwort für Streaming mit Authentifizierung"
+
+msgid "no Services selected"
+msgstr "keine Sender ausgewählt"
