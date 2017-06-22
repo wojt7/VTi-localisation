@@ -18684,3 +18684,27 @@ msgstr ""
 
 msgid "There are unscrambled movies, which will be unscrambled in standby"
 msgstr ""
+
+msgid "Streaming service assignment"
+msgstr ""
+
+msgid "Streaming service assignment setup"
+msgstr ""
+
+msgid "Services assigned to: %s"
+msgstr ""
+
+msgid "Enable streaming service assignment"
+msgstr ""
+
+msgid "IP of remote Vu+"
+msgstr ""
+
+msgid "Streaming port of remote Vu+"
+msgstr ""
+
+msgid "User for streaming with authentication"
+msgstr ""
+
+msgid "Password for streaming with authentication"
+msgstr ""

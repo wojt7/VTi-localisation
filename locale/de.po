@@ -19448,4 +19448,29 @@ msgid "Use standby before shutdown when scrambled records are detected"
 msgstr "Standby vor dem Ausschalten wenn verschlüsselte Aufnahmen existieren"
 
 msgid "There are unscrambled movies, which will be unscrambled in standby"
-msgstr "Es gibt nicht entschlüsselte Aufnahmen, diese werden im Standby entschlüsselt"
+msgstr ""
+"Es gibt nicht entschlüsselte Aufnahmen, diese werden im Standby entschlüsselt"
+
+msgid "Streaming service assignment"
+msgstr "Streaming-Senderzuweisung"
+
+msgid "Streaming service assignment setup"
+msgstr "Streaming-Senderzuweisung Einstellungen"
+
+msgid "Services assigned to: %s"
+msgstr "Sender zugewiesen an : %s"
+
+msgid "Enable streaming service assignment"
+msgstr "Streaming-Senderzuweisung aktivieren"
+
+msgid "IP of remote Vu+"
+msgstr "IP-Adresse der entfernten Vu+ Box"
+
+msgid "Streaming port of remote Vu+"
+msgstr "Streaming-Port der entfernten Vu+ Box"
+
+msgid "User for streaming with authentication"
+msgstr "Benutzer für Streaming mit Authentifizierung"
+
+msgid "Password for streaming with authentication"
+msgstr "Passwort für Streaming mit Authentifizierung"
