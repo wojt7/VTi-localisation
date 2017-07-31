@@ -19488,7 +19488,7 @@ msgid "Database update was finished"
 msgstr "Die Aktualisierung der Datenbank wurde beendet"
 
 msgid "Database update was cancelled"
-msgstr "Die Aktualisierung der  Datenbank wurde abgebrochen"
+msgstr "Die Aktualisierung der Datenbank wurde abgebrochen"
 
 msgid "Update Database"
 msgstr "Datenbank aktualisieren"
@@ -19500,10 +19500,10 @@ msgid "Path for SQL database"
 msgstr "Pfad für SQL Datenbank"
 
 msgid "update movie database (full)"
-msgstr "Filmdatenbank aktualisieren (vollstädnig)"
+msgstr "Filmdatenbank aktualisieren (komplett)"
 
 msgid "update movie database for: %s"
-msgstr "Filmdatenbank aktualisierenfür : %s"
+msgstr "Filmdatenbank aktualisieren für : %s"
 
 msgid "cleanup movie database"
 msgstr "Filmdatenbank bereinigen"
@@ -19513,3 +19513,6 @@ msgstr "Keine Spracheingabe erkannt"
 
 msgid "Put your voice close to the remote control..."
 msgstr "Bitte in das Mikrofon der Fernbedienung sprechen ..."
+
+msgid "search movie"
+msgstr "Filme suchen"

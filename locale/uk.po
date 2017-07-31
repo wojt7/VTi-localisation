@@ -18483,3 +18483,6 @@ msgstr ""
 
 msgid "Put your voice close to the remote control..."
 msgstr ""
+
+msgid "search movie"
+msgstr ""
