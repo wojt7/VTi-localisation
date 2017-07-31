@@ -19477,3 +19477,39 @@ msgstr "Passwort für Streaming mit Authentifizierung"
 
 msgid "no Services selected"
 msgstr "keine Sender ausgewählt"
+
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+msgid "search for movies"
+msgstr "Filme suchen"
+
+msgid "Database update was finished"
+msgstr "Die Aktualisierung der Datenbank wurde beendet"
+
+msgid "Database update was cancelled"
+msgstr "Die Aktualisierung der  Datenbank wurde abgebrochen"
+
+msgid "Update Database"
+msgstr "Datenbank aktualisieren"
+
+msgid "Database Cleanup"
+msgstr "Datenbank bereinigen"
+
+msgid "Path for SQL database"
+msgstr "Pfad für SQL Datenbank"
+
+msgid "update movie database (full)"
+msgstr "Filmdatenbank aktualisieren (vollstädnig)"
+
+msgid "update movie database for: %s"
+msgstr "Filmdatenbank aktualisierenfür : %s"
+
+msgid "cleanup movie database"
+msgstr "Filmdatenbank bereinigen"
+
+msgid "There is no voice signal."
+msgstr "Keine Spracheingabe erkannt"
+
+msgid "Put your voice close to the remote control..."
+msgstr "Bitte in das Mikrofon der Fernbedienung sprechen ..."

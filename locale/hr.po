@@ -18293,3 +18293,39 @@ msgstr ""
 
 msgid "no Services selected"
 msgstr ""
+
+msgid "Search results"
+msgstr ""
+
+msgid "search for movies"
+msgstr ""
+
+msgid "Database update was finished"
+msgstr ""
+
+msgid "Database update was cancelled"
+msgstr ""
+
+msgid "Update Database"
+msgstr ""
+
+msgid "Database Cleanup"
+msgstr ""
+
+msgid "Path for SQL database"
+msgstr ""
+
+msgid "update movie database (full)"
+msgstr ""
+
+msgid "update movie database for: %s"
+msgstr ""
+
+msgid "cleanup movie database"
+msgstr ""
+
+msgid "There is no voice signal."
+msgstr ""
+
+msgid "Put your voice close to the remote control..."
+msgstr ""
