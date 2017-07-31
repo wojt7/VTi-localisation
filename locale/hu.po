@@ -22422,6 +22422,12 @@ msgstr ""
 msgid "search movie"
 msgstr ""
 
+msgid "Please enter search string"
+msgstr ""
+
+msgid "Please select type of search..."
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"

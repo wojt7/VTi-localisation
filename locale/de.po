@@ -19516,3 +19516,9 @@ msgstr "Bitte in das Mikrofon der Fernbedienung sprechen ..."
 
 msgid "search movie"
 msgstr "Filme suchen"
+
+msgid "Please enter search string"
+msgstr "Bitte Suchbegriff eingeben"
+
+msgid "Please select type of search..."
+msgstr "Bitte Suchtyp auswählen..."
