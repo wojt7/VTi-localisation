@@ -18477,3 +18477,95 @@ msgstr ""
 
 msgid "Please select type of search..."
 msgstr ""
+
+msgid "Error during committing changes"
+msgstr ""
+
+msgid "Error at closing database"
+msgstr ""
+
+msgid "Error during database transaction"
+msgstr ""
+
+msgid "<No Channel>"
+msgstr ""
+
+msgid "Multiple PIP channel"
+msgstr ""
+
+msgid "Input channel name."
+msgstr ""
+
+msgid ""
+"EPG key : Switch to multiple pip entry\n"
+"Ok key : Add to new entry\n"
+"PVR key : Input channel name\n"
+"Exit key : Finish channel edit"
+msgstr ""
+
+msgid ""
+"EPG key : Switch to channel list\n"
+"Ok key : Remove selected channel\n"
+"PVR key : Input channel name\n"
+"Exit key : Finish channel edit"
+msgstr ""
+
+msgid "<empty>"
+msgstr ""
+
+msgid "Choice where to put \"%s\""
+msgstr ""
+
+msgid "Multiple Pip Channel Selection"
+msgstr ""
+
+msgid "Select Multiple Channels"
+msgstr ""
+
+msgid "Add New Multiple Channel Entry"
+msgstr ""
+
+msgid "Remove Multiple Channel Entry"
+msgstr ""
+
+msgid "Edit Multiple Channel Entry"
+msgstr ""
+
+msgid "Exit Multiple Channel Selection"
+msgstr ""
+
+msgid "Multiple Pip Screen"
+msgstr ""
+
+msgid "Exit multiple pip"
+msgstr ""
+
+msgid "Zap focused channel on full screen"
+msgstr ""
+
+msgid "Show channel selection"
+msgstr ""
+
+msgid "Prev multiple pip channel"
+msgstr ""
+
+msgid "Next multiple pip channel"
+msgstr ""
+
+msgid "Show/Hide focus bar"
+msgstr ""
+
+msgid "  Red key : Show/Hide focus bar"
+msgstr ""
+
+msgid "  Menu key : Select multiple channel"
+msgstr ""
+
+msgid "Box or driver is not support Multiple PiP."
+msgstr ""
+
+msgid "Enable Multiple PIP"
+msgstr ""
+
+msgid "current channel"
+msgstr ""
