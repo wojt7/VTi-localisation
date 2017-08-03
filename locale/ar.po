@@ -18569,3 +18569,6 @@ msgstr ""
 
 msgid "current channel"
 msgstr ""
+
+msgid "  Red key : Zap focused channel on full screen"
+msgstr ""

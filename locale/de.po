@@ -19622,3 +19622,6 @@ msgstr "Multi-PiP aktivieren"
 
 msgid "current channel"
 msgstr "aktiver Kanal"
+
+msgid "  Red key : Zap focused channel on full screen"
+msgstr "  Rote Taste : Umschalten auf markierten Sender (Vollbild)"
