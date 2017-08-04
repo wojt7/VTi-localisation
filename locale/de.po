@@ -19625,3 +19625,11 @@ msgstr "aktiver Kanal"
 
 msgid "  Red key : Zap focused channel on full screen"
 msgstr "  Rote Taste : Umschalten auf markierten Sender (Vollbild)"
+
+msgid "Search results for:"
+msgstr "Suchergebnisse für:"
+
+msgid ""
+"The database is currently used by another Vu+ STB, please try again later"
+msgstr "Die Datenbank ist gerade durch einen anderen Vu+ Receiver in Verwendung, bitte versuchen Sie es später noch einmal"
+

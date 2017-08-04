@@ -18519,3 +18519,10 @@ msgstr ""
 
 msgid "  Red key : Zap focused channel on full screen"
 msgstr ""
+
+msgid "Search results for:"
+msgstr ""
+
+msgid ""
+"The database is currently used by another Vu+ STB, please try again later"
+msgstr ""
