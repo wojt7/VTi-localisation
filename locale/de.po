@@ -19631,5 +19631,51 @@ msgstr "Suchergebnisse für:"
 
 msgid ""
 "The database is currently used by another Vu+ STB, please try again later"
-msgstr "Die Datenbank ist gerade durch einen anderen Vu+ Receiver in Verwendung, bitte versuchen Sie es später noch einmal"
+msgstr ""
+"Die Datenbank ist gerade durch einen anderen Vu+ Receiver in Verwendung, "
+"bitte versuchen Sie es später noch einmal"
 
+msgid "last 24 hours"
+msgstr "letzten 24 Stunden"
+
+msgid "last 3 days"
+msgstr "letzten 3 Tage"
+
+msgid "last week"
+msgstr "letzte Woche"
+
+msgid "last month"
+msgstr "letztes Monat"
+
+msgid "last 6 months"
+msgstr "letzten 6 Monate"
+
+msgid "last year"
+msgstr "letztes Jahr"
+
+msgid "last %s days"
+msgstr "letzten %s Tage"
+
+msgid "older than 6 months"
+msgstr "älter als 6 Monate"
+
+msgid "older than 1 year"
+msgstr "älter als ein Jahr"
+
+msgid "older than %s days"
+msgstr "älter als %s Tage"
+
+msgid "Select movies by date"
+msgstr "Filme nach Datum auswählen"
+
+msgid "Select Autotag"
+msgstr "Autotag auswählen"
+
+msgid "Please enter days"
+msgstr "Bitte Tage eingeben"
+
+msgid "find movies by AutoTag"
+msgstr "Filme nach AutoTag"
+
+msgid "find movies by date"
+msgstr "Filme nach Datum"

@@ -18612,3 +18612,48 @@ msgstr ""
 msgid ""
 "The database is currently used by another Vu+ STB, please try again later"
 msgstr ""
+
+msgid "last 24 hours"
+msgstr ""
+
+msgid "last 3 days"
+msgstr ""
+
+msgid "last week"
+msgstr ""
+
+msgid "last month"
+msgstr ""
+
+msgid "last 6 months"
+msgstr ""
+
+msgid "last year"
+msgstr ""
+
+msgid "last %s days"
+msgstr ""
+
+msgid "older than 6 months"
+msgstr ""
+
+msgid "older than 1 year"
+msgstr ""
+
+msgid "older than %s days"
+msgstr ""
+
+msgid "Select movies by date"
+msgstr ""
+
+msgid "Select Autotag"
+msgstr ""
+
+msgid "Please enter days"
+msgstr ""
+
+msgid "find movies by AutoTag"
+msgstr ""
+
+msgid "find movies by date"
+msgstr ""
