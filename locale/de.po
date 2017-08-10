@@ -19679,3 +19679,6 @@ msgstr "Filme nach AutoTag"
 
 msgid "find movies by date"
 msgstr "Filme nach Datum"
+
+msgid "Debug type"
+msgstr "Debug-Typ"

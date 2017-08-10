@@ -18681,3 +18681,6 @@ msgstr ""
 
 msgid "find movies by date"
 msgstr ""
+
+msgid "Debug type"
+msgstr ""

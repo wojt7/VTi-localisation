@@ -22575,6 +22575,9 @@ msgstr ""
 msgid "find movies by date"
 msgstr ""
 
+msgid "Debug type"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"
