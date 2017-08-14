@@ -19682,3 +19682,13 @@ msgstr "Filme nach Datum"
 
 msgid "Debug type"
 msgstr "Debug-Typ"
+
+msgid ""
+"Debugging is enabled.\n"
+"It should be enabled only when debug informations are needed.\n"
+"Please disable debugging\n"
+"MENU->VTi->VTi-System Setup"
+msgstr "Die Protokollierung ist aktiviert, dies sollte nur eingeschaltet sein wenn Sie es wirklich benötigen.\nBitte deaktivieren Sie das Debugging unter:\nMENÜ->VTi->Einstellungen System"
+
+msgid "Can not delete file which are currently recording at another Vu+ STB"
+msgstr "Dateien die gerade mit anderen Vu+ Receiveren aufgenommen werden können nicht gelöscht werden."

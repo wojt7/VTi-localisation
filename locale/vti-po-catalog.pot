@@ -18402,3 +18402,9 @@ msgstr ""
 
 msgid "Debug type"
 msgstr ""
+
+msgid "Debugging is enabled.\nIt should be enabled only when debug informations are needed.\nPlease disable debugging\nMENU->VTi->VTi-System Setup"
+msgstr ""
+
+msgid "Can not delete file which are currently recording at another Vu+ STB"
+msgstr ""
