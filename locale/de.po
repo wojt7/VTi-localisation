@@ -19688,7 +19688,33 @@ msgid ""
 "It should be enabled only when debug informations are needed.\n"
 "Please disable debugging\n"
 "MENU->VTi->VTi-System Setup"
-msgstr "Die Protokollierung ist aktiviert, dies sollte nur eingeschaltet sein wenn Sie es wirklich benötigen.\nBitte deaktivieren Sie das Debugging unter:\nMENÜ->VTi->Einstellungen System"
+msgstr ""
+"Die Protokollierung ist aktiviert, dies sollte nur eingeschaltet sein wenn "
+"Sie es wirklich benötigen.\n"
+"Bitte deaktivieren Sie das Debugging unter:\n"
+"MENÜ->VTi->Einstellungen System"
 
 msgid "Can not delete file which are currently recording at another Vu+ STB"
-msgstr "Dateien die gerade mit anderen Vu+ Receiveren aufgenommen werden können nicht gelöscht werden."
+msgstr ""
+"Dateien die gerade mit anderen Vu+ Receiveren aufgenommen werden können "
+"nicht gelöscht werden."
+
+msgid ""
+"Delete failed, because folder is not empty !\n"
+"Disable movie trash in configuration to delete this item"
+msgstr ""
+
+msgid "restore selected items"
+msgstr "Ausgewählte Einträge wiederherstellen"
+
+msgid "restore : %s"
+msgstr "Wiederherstellen: %s"
+
+msgid "Use database for movie trash"
+msgstr "Verwende Datenbank basierten Papierkorb"
+
+msgid "Delete movies in trash older than X days (0 = off)"
+msgstr "Lösche Filme im Papierkorb die älter sind als X Tage (0 = aus)"
+
+msgid "Show service path in movie list"
+msgstr "Zeige Dateipfad in Filmliste"

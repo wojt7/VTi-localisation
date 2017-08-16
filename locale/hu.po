@@ -22588,6 +22588,26 @@ msgstr ""
 msgid "Can not delete file which are currently recording at another Vu+ STB"
 msgstr ""
 
+msgid ""
+"Delete failed, because folder is not empty !\n"
+"Disable movie trash in configuration to delete this item"
+msgstr ""
+
+msgid "restore selected items"
+msgstr ""
+
+msgid "restore : %s"
+msgstr ""
+
+msgid "Use database for movie trash"
+msgstr ""
+
+msgid "Delete movies in trash older than X days (0 = off)"
+msgstr ""
+
+msgid "Show service path in movie list"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"
