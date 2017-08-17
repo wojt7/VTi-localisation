@@ -18669,3 +18669,15 @@ msgstr ""
 
 msgid "Show service path in movie list"
 msgstr ""
+
+msgid "Delete movies which are in trash for more than Y days (0 = off)"
+msgstr ""
+
+msgid "Associate days X and Y with:"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "and"
+msgstr ""

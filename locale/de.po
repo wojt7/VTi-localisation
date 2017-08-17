@@ -19702,7 +19702,7 @@ msgstr ""
 msgid ""
 "Delete failed, because folder is not empty !\n"
 "Disable movie trash in configuration to delete this item"
-msgstr ""
+msgstr "Das Löschen is nicht möglich, da der Ordner nicht leer ist.\nBitte deaktivieren Sie den Papierkorb zum Löschen dieses Ordners"
 
 msgid "restore selected items"
 msgstr "Ausgewählte Einträge wiederherstellen"
@@ -19718,3 +19718,16 @@ msgstr "Lösche Filme im Papierkorb die älter sind als X Tage (0 = aus)"
 
 msgid "Show service path in movie list"
 msgstr "Zeige Dateipfad in Filmliste"
+
+msgid "Delete movies which are in trash for more than Y days (0 = off)"
+msgstr "Lösche Filme die länger als Y Tage im Papierkorb sind (0 = aus)"
+
+msgid "Associate days X and Y with:"
+msgstr "Verknüpfe die Bedingungen X und Y Tage mit:"
+
+msgid "or"
+msgstr "oder"
+
+msgid "and"
+msgstr "und"
+
