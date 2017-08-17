@@ -22620,6 +22620,9 @@ msgstr ""
 msgid "and"
 msgstr ""
 
+msgid "Cancelled upon user request"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"

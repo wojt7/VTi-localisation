@@ -18438,3 +18438,7 @@ msgstr ""
 
 msgid "and"
 msgstr ""
+
+msgid "Cancelled upon user request"
+msgstr ""
+
