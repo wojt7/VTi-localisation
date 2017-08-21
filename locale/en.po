@@ -18502,14 +18502,17 @@ msgstr ""
 msgid "<No Channel>"
 msgstr ""
 
-msgid "Multiple PIP channel"
+msgid "No channel"
+msgstr ""
+
+msgid "Quad PIP channel"
 msgstr ""
 
 msgid "Input channel name."
 msgstr ""
 
 msgid ""
-"EPG key : Switch to multiple pip entry\n"
+"EPG key : Switch to quad PiP entry\n"
 "Ok key : Add to new entry\n"
 "PVR key : Input channel name\n"
 "Exit key : Finish channel edit"
@@ -18528,28 +18531,28 @@ msgstr ""
 msgid "Choice where to put \"%s\""
 msgstr ""
 
-msgid "Multiple Pip Channel Selection"
+msgid "Quad PiP Channel Selection"
 msgstr ""
 
-msgid "Select Multiple Channels"
+msgid "Select Quad Channels"
 msgstr ""
 
-msgid "Add New Multiple Channel Entry"
+msgid "Add New Quad Channel Entry"
 msgstr ""
 
-msgid "Remove Multiple Channel Entry"
+msgid "Remove Quad Channel Entry"
 msgstr ""
 
-msgid "Edit Multiple Channel Entry"
+msgid "Edit Quad Channel Entry"
 msgstr ""
 
-msgid "Exit Multiple Channel Selection"
+msgid "Exit Quad Channel Selection"
 msgstr ""
 
-msgid "Multiple Pip Screen"
+msgid "Quad Pip Screen"
 msgstr ""
 
-msgid "Exit multiple pip"
+msgid "Exit quad PiP"
 msgstr ""
 
 msgid "Zap focused channel on full screen"
@@ -18558,10 +18561,10 @@ msgstr ""
 msgid "Show channel selection"
 msgstr ""
 
-msgid "Prev multiple pip channel"
+msgid "Prev quad PiP channel"
 msgstr ""
 
-msgid "Next multiple pip channel"
+msgid "Next quad PiP channel"
 msgstr ""
 
 msgid "Show/Hide focus bar"
@@ -18570,13 +18573,13 @@ msgstr ""
 msgid "  Red key : Show/Hide focus bar"
 msgstr ""
 
-msgid "  Menu key : Select multiple channel"
+msgid "  Menu key : Select quad channel"
 msgstr ""
 
-msgid "Box or driver is not support Multiple PiP."
+msgid "Box or driver is not support Quad PiP."
 msgstr ""
 
-msgid "Enable Multiple PIP"
+msgid "Enable Quad PIP"
 msgstr ""
 
 msgid "current channel"

@@ -19535,19 +19535,22 @@ msgstr "Fehler während der Datenbanktranskation"
 msgid "<No Channel>"
 msgstr "<Kein Sender>"
 
-msgid "Multiple PIP channel"
-msgstr "Multi-PiP Kanal"
+msgid "No channel"
+msgstr "Kein Sender"
+
+msgid "Quad PIP channel"
+msgstr "Quad-PiP Kanal"
 
 msgid "Input channel name."
 msgstr "Kanalnamen eingeben"
 
 msgid ""
-"EPG key : Switch to multiple pip entry\n"
+"EPG key : Switch to quad PiP entry\n"
 "Ok key : Add to new entry\n"
 "PVR key : Input channel name\n"
 "Exit key : Finish channel edit"
 msgstr ""
-"EPG Taste : Zur Multi-PiP Liste wechseln\n"
+"EPG Taste : Zur Quad-PiP Liste wechseln\n"
 "OK Taste : Eintrag hinzufügen\n"
 "VIDEO Taste : Kanalnamen eingeben\n"
 "EXIT Taste : Kanalbearbeitung beenden"
@@ -19567,43 +19570,43 @@ msgid "<empty>"
 msgstr "<leer>"
 
 msgid "Choice where to put \"%s\""
-msgstr "Multi-PiP Position für \"%s\""
+msgstr "Quad-PiP Position für \"%s\""
 
-msgid "Multiple Pip Channel Selection"
-msgstr "Multi-PiP Senderauswahl"
+msgid "Quad PiP Channel Selection"
+msgstr "Quad-PiP Senderauswahl"
 
-msgid "Select Multiple Channels"
-msgstr "Multi-PiP Kanal auswählen"
+msgid "Select Quad Channels"
+msgstr "Quad-PiP Kanal auswählen"
 
-msgid "Add New Multiple Channel Entry"
-msgstr "Neuen Multi-PiP Kanal erstellen"
+msgid "Add New Quad Channel Entry"
+msgstr "Neuen Quad-PiP Kanal erstellen"
 
-msgid "Remove Multiple Channel Entry"
-msgstr "Multi-PiP Kanal entfernen"
+msgid "Remove Quad Channel Entry"
+msgstr "Quad-PiP Kanal entfernen"
 
-msgid "Edit Multiple Channel Entry"
-msgstr "Multi-PiP Kanal bearbeiten"
+msgid "Edit Quad Channel Entry"
+msgstr "Quad-PiP Kanal bearbeiten"
 
-msgid "Exit Multiple Channel Selection"
-msgstr "Multi-PiP Kanalauswahl verlassen"
+msgid "Exit Quad Channel Selection"
+msgstr "Quad-PiP Kanalauswahl verlassen"
 
-msgid "Multiple Pip Screen"
-msgstr "Multi-PiP Fenster"
+msgid "Quad Pip Screen"
+msgstr "Quad-PiP Fenster"
 
-msgid "Exit multiple pip"
-msgstr "Multi-PiP beenden"
+msgid "Exit quad PiP"
+msgstr "Quad-PiP beenden"
 
 msgid "Zap focused channel on full screen"
 msgstr "Zum markierten Sender wechseln (Vollbildschirm)"
 
 msgid "Show channel selection"
-msgstr "Multi-PiP Kanalauswahl öffnen"
+msgstr "Quad-PiP Kanalauswahl öffnen"
 
-msgid "Prev multiple pip channel"
-msgstr "Vorheriger Mulit-PiP Kanal"
+msgid "Prev quad PiP channel"
+msgstr "Vorheriger Quad-PiP Kanal"
 
-msgid "Next multiple pip channel"
-msgstr "Nächster Multi-PiP Kanal"
+msgid "Next quad PiP channel"
+msgstr "Nächster Quad-PiP Kanal"
 
 msgid "Show/Hide focus bar"
 msgstr "Informationen ein/ausblenden"
@@ -19611,14 +19614,14 @@ msgstr "Informationen ein/ausblenden"
 msgid "  Red key : Show/Hide focus bar"
 msgstr "ROTE Taste : Informationen ein/ausblenden"
 
-msgid "  Menu key : Select multiple channel"
-msgstr "MENU Taste : Multi-PiP Kanal auswählen"
+msgid "  Menu key : Select quad channel"
+msgstr "MENU Taste : Quad-PiP Kanal auswählen"
 
-msgid "Box or driver is not support Multiple PiP."
-msgstr "Box oder Treiber unterstützen kein Multi-PiP"
+msgid "Box or driver is not support Quad PiP."
+msgstr "Box oder Treiber unterstützen kein Quad-PiP"
 
-msgid "Enable Multiple PIP"
-msgstr "Multi-PiP aktivieren"
+msgid "Enable Quad PIP"
+msgstr "Quad-PiP aktivieren"
 
 msgid "current channel"
 msgstr "aktiver Kanal"
