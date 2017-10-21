@@ -18829,344 +18829,395 @@ msgid "create basic configuraton files for Oscam"
 msgstr "sestavit základní konfig.soubory pro Oscam"
 
 msgid "Always include ECM in recordings"
-msgstr ""
+msgstr "Vždy včetně ECM v záznamech"
 
 msgid ""
 "Always include ECM messages in recordings. This overrides the individual "
 "timer settings globally. It allows recordings to be always decrypted "
 "afterwards (sometimes called offline decoding), if supported by your "
 "receiver. Default: off."
-msgstr ""
+msgstr "Vždy včetně ECM hlášení v záznamech. Přepíše to globální nastavení "
+"časovače. Umožní pozdější dekódování záznamu (offline dekódování),"
+"pokud to váš box podporuje. Předvolba je : vyp."
 
 msgid "Never decrypt while recording CI services"
-msgstr ""
+msgstr "Nikdy nedekódovat během záznamu přes CI služby"
 
 msgid "mark as scrambled : %s"
-msgstr ""
+msgstr "označit jako zakódované : %s"
 
 msgid "mark as descrambled : %s"
-msgstr ""
+msgstr "označit jako rozkódované : %s"
 
 msgid ""
 "Never decrypt the content while recording. This overrides the individual "
 "timer settings globally. If enabled, recordings are stored in crypted "
 "presentation and must be decrypted afterwards (sometimes called offline "
 "decoding). Default: off."
-msgstr ""
+msgstr "Nikdy nedekódovat během záznamu ! Přepíše to globální nastavení "
+"časovače. Pokud je to povoleno, budou záznamy uloženy v zakódovaném stavu "
+"a musí být dekódovány později (offline dekódování). Předvolba je : vyp."
 
 msgid "Please select firmware file"
-msgstr ""
+msgstr "Vyberte soubor firmware"
 
 msgid "Battery level for OTA : "
-msgstr ""
+msgstr "Úroveň baterie pro OTA : "
 
 msgid "Current app version : "
-msgstr ""
+msgstr "Aktuální verze aplikace : "
 
 msgid "New app version : "
-msgstr ""
+msgstr "Nová verze aplikace : "
 
 msgid "Updateing %d %%"
-msgstr ""
+msgstr "Aktualizace %d %%"
 
 msgid "Battery level for OTA : %s"
-msgstr ""
+msgstr "Úroveň baterie pro OTA : %s"
 
 msgid "Current app version : %d"
-msgstr ""
+msgstr "Aktuální verze aplikace : %d"
 
 msgid "New app version : %d"
-msgstr ""
+msgstr "Nová verze aplikace : %d"
 
 msgid "New app version : N/A"
-msgstr ""
+msgstr "Nová verze aplikace : ne"
 
 msgid "Event %d"
-msgstr ""
+msgstr "Událost %d"
 
 msgid "Selected : %s"
-msgstr ""
+msgstr "Vybráno : %s"
 
 msgid "Please exit and try again."
-msgstr ""
+msgstr "Ukončete to a spusťte znovu"
 
 msgid "Not enough battery level for OTA update."
-msgstr ""
+msgstr "Není dostatek výkonu baterie pro OTA aktualizaci !"
 
 msgid "Invalid firmware file."
-msgstr ""
+msgstr "Chybný soubor firmware !"
 
 msgid ""
 "NOTE : The selected firmware version is not higher than existing one.\n"
 "\n"
 msgstr ""
+"Upozornění : vybraná verze firmware není novější než máte.\n"
+"\n"
 
 msgid ""
 "While the update is progress, RCU can not be used and other bluetooth device "
 "must be disconnected .\n"
 "Do you want update?"
 msgstr ""
+"Během aktualizace nelze používat RCU a ostatní bluetooth zařízení "
+"musí být odpojené !\n"
+"Chcete aktualizovat ?"
 
 msgid "disconnect to %s failed!!"
-msgstr ""
+msgstr "odpojení %s selhalo !"
 
 msgid ""
 "Battery is low. Suggest to prepare replacement batteries for using properly "
 "%s."
 msgstr ""
+"Baterie je na nízké úrovni ! Doporučujeme si připravit náhradní baterie "
+"%s."
 
 msgid "Bluetooth Setup Options"
-msgstr ""
+msgstr "Možnosti nastavení Bluetooth"
 
 msgid "Set bluetooth audio delay (msec)"
-msgstr ""
+msgstr "Nastavení audio prodlevy pro bluetooth (msek.)"
 
 msgid "Show state message on infobar notification"
-msgstr ""
+msgstr "Zobrazit stavové hlášení v info-panelu"
 
 msgid "Show battery low message on infobar notification"
-msgstr ""
+msgstr "Zobrazit vybití baterie v info-panelu"
 
 msgid "Scan failed! try again."
-msgstr ""
+msgstr "Skenování selhalo ! Zkuste to znovu."
 
 msgid "Disconnecting %s"
-msgstr ""
+msgstr "Odpojení %s"
 
 msgid "Disconnect %s failed!!"
-msgstr ""
+msgstr "Odpojení %s selhalo !"
 
 msgid "Bluetooth Scan"
-msgstr ""
+msgstr "Skenování Bluetooth"
 
 msgid "Stop scan"
-msgstr ""
+msgstr "Zastavit skenování"
 
 msgid "Scanning VUPLUS BLE RCU"
-msgstr ""
+msgstr "Skenování VUPLUS BLE RCU"
 
 msgid "Device %s is not found."
-msgstr ""
+msgstr "Zařízení %s není k dispozici !"
 
 msgid "Vu+ Bluetooth RCU Setup"
-msgstr ""
+msgstr "Nastavení Vu+ Bluetooth RCU"
 
 msgid ""
 "Press and hold the buttons <MENU+AUDIO>\n"
 " for five seconds to start."
 msgstr ""
+"Stiskněte a držte tlačítka <MENU+AUDIO>\n"
+" pět sekund pro start"
 
 msgid ""
 "Scan failed. Please try again VUPLUS BLE RCU setup.\n"
 "(AUDIO+MENU buttons)"
 msgstr ""
+"Skenování selhalo ! Zkuste znovu nastavení VUPLUS BLE RCU.\n"
+"(AUDIO+MENU tlačítka)"
 
 msgid ""
 "Connection failed.\n"
 "Another audio device is connected. (%s)"
 msgstr ""
+"Připojení selhalo !\n"
+"Je připojeno jiné audio zařízení. (%s)"
 
 msgid "connect to %s failed!!"
-msgstr ""
+msgstr "připojení na %s selhalo !"
 
 msgid "Can't communicate with %s."
-msgstr ""
+msgstr "S %s nelze komunikovat !"
 
 msgid ""
 "\n"
 "Please repair Vu+ RCU. (by AUDIO+MENU)"
 msgstr ""
+"\n"
+"Opravte Vu+ RCU. (v AUDIO+MENU)"
 
 msgid "Connect/Disconnect selected device"
-msgstr ""
+msgstr "Připojení / odpojení vybraného zařízení"
 
 msgid "Exit bluetooth setup"
-msgstr ""
+msgstr "Ukončit nastavení bluetooth"
 
 msgid "Enable/Disable bluetooth"
-msgstr ""
+msgstr "Povolit / zakázat bluetooth"
 
 msgid "Remove selected device"
-msgstr ""
+msgstr "Odebrat vybrané zařízení"
 
 msgid "Start Scan / Setup VUPLUS BLE RCU"
-msgstr ""
+msgstr "Start skenování / nastavení VUPLUS BLE RCU"
 
 msgid "Setup bluetooth options"
-msgstr ""
+msgstr "Volby nastavení pro bluetooth"
 
 msgid "OTA update for VUPLUS BLE RCU"
-msgstr ""
+msgstr "OTA aktualizace pro VUPLUS BLE RCU"
 
 msgid ""
 "Please enable bluetooth \n"
 "before pairing the VUPLUS-BLE-RCU."
 msgstr ""
+"Aktivujte bluetooth \n"
+"před spárováním s VUPLUS-BLE-RCU !"
 
 msgid "Removing VUPLUS-BLE-RCU..."
-msgstr ""
+msgstr "Odebírám VUPLUS-BLE-RCU..."
 
 msgid "Please connect VUPLUS-BLE-RCU."
-msgstr ""
+msgstr "Připojte VUPLUS-BLE-RCU"
 
 msgid "Scan and setup Vu+ Bluetooth RCU"
-msgstr ""
+msgstr "Skenování a nastavení Vu+ Bluetooth RCU"
 
 msgid "Scan other bluetooth 3.0 device (A2DP, HID)"
-msgstr ""
+msgstr "Skenování dalšího bluetooth 3.0 zařízení (A2DP, HID)"
 
 msgid "Please select scan mode."
-msgstr ""
+msgstr "Vyberte mód skenování"
 
 msgid "BluetoothSetup"
-msgstr ""
+msgstr "BluetoothSetup"
 
 msgid "Device %s Pairing fail"
-msgstr ""
+msgstr "Párování zařízení %s selhalo !"
 
 msgid "Device %s wrong pin code."
-msgstr ""
+msgstr "Zařízení %s vrací chybný pin kód !"
 
 msgid ""
 "\"Wit.ai speech to text Setup\" gets the speech data from VUPLUS-BLE-RCU and "
 "converts it to text using wit.ai.\n"
 "\n"
 msgstr ""
+"\"Wit.ai obsahuje jazyk pro nastavený text\" získává data pro řeč z VUPLUS-BLE-RCU a "
+"konvertuje na text přes wit.ai.\n"
+"\n"
 
 msgid "1. Sign up for wit.ai (https://wit.ai)\n"
-msgstr ""
+msgstr "1. zapsat do wit.ai (https://wit.ai)\n"
 
 msgid "2. Enter \"server access token\" under the settings menu to below.\n"
-msgstr ""
+msgstr "2. zadání \"označení přístupu serveru\" v menu nastavení dole\n"
 
 msgid "Wit.ai Speech to Text Setup"
-msgstr ""
+msgstr "Nastavení jazyka Wit.ai pro text"
 
 msgid "Input server access token"
-msgstr ""
+msgstr "Označit přístup k serveru"
 
 msgid "Open browser and search with google"
-msgstr ""
+msgstr "Otevřít prohlížeč a hledat na google"
 
 msgid "Converting speech to text using wit.ai server..."
-msgstr ""
+msgstr "Konverze řeči na text s použitím wit.ai serveru..."
 
 msgid ""
 "Conversion of speech to text failed.\n"
 "Please try again"
 msgstr ""
+"Konverze řeči na text selhala !\n"
+"Zkuste to znovu."
 
 msgid "Speech to text using Wit.ai for VUPLUS-BLE-RCU."
-msgstr ""
+msgstr "Řeč na text přes Wit.ai pro VUPLUS-BLE-RCU"
 
 msgid "enable grouped folders in: %s"
-msgstr ""
+msgstr "povolit seskupení složek v : %s"
 
 msgid "disable grouped folders in: %s"
-msgstr ""
+msgstr "zakázat seskupení složek v : %s"
 
 msgid "Enable descrambling in standby"
-msgstr ""
+msgstr "Povolit dekódování v režimu spánku"
 
 msgid "Begin of time intervall for descrambling in standby"
-msgstr ""
+msgstr "Čas spuštění dekódování v režimu spánku"
 
 msgid "End of time intervall for descrambling in standby"
-msgstr ""
+msgstr "Čas ukončení dekódování v režimu spánku"
 
 msgid ""
 "A PVR descramble converting is finished.\n"
 "%s"
 msgstr ""
+"PVR dekódování je dokončeno \n"
+"%s"
 
 msgid "Skip firmware update of VUPLUS-BLE-RCU (version : %d)"
-msgstr ""
+msgstr "Přeskočit aktualizaci firmware pro VUPLUS-BLE-RCU (verze : %d)"
 
 msgid "Current FW version : %d"
-msgstr ""
+msgstr "Aktuální verze FW : %d"
 
 msgid "New FW version : %d"
-msgstr ""
+msgstr "Nová verze FW : %d"
 
 msgid ""
 "New firmware detected for VUPLUS-BLE-RCU.\n"
 "\n"
 msgstr ""
+"Byl detekovaný nový firmware pro VUPLUS-BLE-RCU\n"
+"\n"
 
 msgid ""
 "While the update is progress, RCU can not be used and other bluetooth device "
 "must be disconnected.\n"
 "\n"
 msgstr ""
+"Během aktualizace RCU nemůže používat další bluetooth zařízení, "
+"musí být odpojeno !\n"
+"\n"
 
 msgid ""
 "Current FW version : %d\n"
 "New FW version : %d"
 msgstr ""
+"aktuální verze FW : %d\n"
+"nová verze FW : %d"
 
 msgid "Upgrade now"
-msgstr ""
+msgstr "Aktualizovat nyní"
 
 msgid "Remind Me later"
-msgstr ""
+msgstr "Připomenout později..."
 
 msgid "Skip this version"
-msgstr ""
+msgstr "Přeskočit tuto verzi"
 
 msgid "VUPLUS-BLE-RCU is disconnected. Please connect and select again."
-msgstr ""
+msgstr "VUPLUS-BLE-RCU je odpojený ! Připojte ho a vyberte znovu."
 
 msgid ""
 "If you want to update this firmware version, follow belows.\n"
 "\n"
 msgstr ""
+"Pokud chcete aktualizovat na tuto verzi firmware, pokračujte dole.\n"
+"\n"
 
 msgid ""
 "1. Move to Bluetooth Setup Options.\n"
 "(press MENU key in BluetoothSetup)\n"
 msgstr ""
+"1. přesun na volby nastavení Bluetooth.\n"
+"(stiskněte tl. MENU v BluetoothSetup)\n"
 
 msgid "2. Change 'Skip firmware update of VUPLUS-BLE-RCU' option to 'no'\n"
-msgstr ""
+msgstr "2. změnit volbu 'Přeskočit aktualizaci firmware pro VUPLUS-BLE-RCU' na 'ne'\n"
 
 msgid ""
 "3. Reconnect the VUPLUS-BLE-RCU.\n"
 "\n"
 msgstr ""
+"3. Obnovit připojení VUPLUS-BLE-RCU\n"
+"\n"
 
 msgid "New firmware detected for VUPLUS-BLE-RCU. (old: %d new: %d)"
-msgstr ""
+msgstr "Je k dispozici nový firmware pro VUPLUS-BLE-RCU. (pův.: %d nový: %d)"
 
 msgid "Enable automatic CI assignment"
-msgstr ""
+msgstr "Povolit automatické CI ověření"
 
 msgid ""
 "\n"
 "\n"
 "<Code set manual>"
 msgstr ""
+"\n"
+"\n"
+"<nastavit kód manuálně>"
 
 msgid ""
 "\n"
 "1. Press <OK> and <STB> simultaneously for 3 seconds. After 3 seconds LED "
 "turns on. "
 msgstr ""
+"\n"
+"1. stiskněte současně <OK> a <STB> na 3 sekundy. Po 3 sek.se LED "
+"rozsvítí "
 
 msgid ""
 "\n"
 "2. Enter a 5 digit code(ex. code 2 is '00002')"
 msgstr ""
+"\n"
+"2. zadejte 5 čísel pro kód (pův.kód 2 je '00002')"
 
 msgid ""
 "\n"
 "3. Press the <OK> key. LED is blinked and turns on."
 msgstr ""
+"\n"
+"3. stiskněte tl. <OK>. LED zabliká a rozsvítí se"
 
 msgid "Keep Bluetooth enabled in standby"
-msgstr ""
+msgstr "Ponechat povolení Bluetooth v režimu spánku"
 
 msgid "Use standby before shutdown when scrambled records are detected"
-msgstr ""
+msgstr "Použít režim spánku před vypnutím, pokud je detekovaný zakódovaný záznam"
 
 msgid "There are unscrambled movies, which will be unscrambled in standby"
-msgstr ""
+msgstr "Jsou zde ozn.nekódovaná videa, která mají být dekódovaná v režimu spánku"
