@@ -19738,3 +19738,21 @@ msgstr "und"
 
 msgid "Cancelled upon user request"
 msgstr "Durch Benutzer abgebrochen"
+
+msgid "No, cancel"
+msgstr "Nein, abbrechen"
+
+msgid "Yes, delete it"
+msgstr "Ja, löschen"
+
+msgid "Cancelled"
+msgstr "Abgebrochen"
+
+msgid "Deleted"
+msgstr "Gelöscht"
+
+msgid "You need to write something!"
+msgstr "Sie müssen etwas eingeben"
+
+msgid "Use new design"
+msgstr "Verwende neues Design"

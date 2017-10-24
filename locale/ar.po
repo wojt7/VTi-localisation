@@ -18675,3 +18675,21 @@ msgstr ""
 
 msgid "Cancelled upon user request"
 msgstr ""
+
+msgid "No, cancel"
+msgstr ""
+
+msgid "Yes, delete it"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "You need to write something!"
+msgstr ""
+
+msgid "Use new design"
+msgstr ""
