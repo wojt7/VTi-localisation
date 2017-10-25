@@ -19756,3 +19756,12 @@ msgstr "Sie müssen etwas eingeben"
 
 msgid "Use new design"
 msgstr "Verwende neues Design"
+
+msgid "Common Settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Minimal movie list"
+msgstr "Minimale Filmliste"
+
+msgid "Minimal timer list"
+msgstr "Minimale Timer-Liste"

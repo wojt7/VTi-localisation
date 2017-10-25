@@ -22644,6 +22644,15 @@ msgstr ""
 msgid "Use new design"
 msgstr ""
 
+msgid "Common Settings"
+msgstr ""
+
+msgid "Minimal movie list"
+msgstr ""
+
+msgid "Minimal timer list"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"
