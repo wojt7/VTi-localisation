@@ -19765,3 +19765,10 @@ msgstr "Minimale Filmliste"
 
 msgid "Minimal timer list"
 msgstr "Minimale Timer-Liste"
+
+msgid "Minimal EPG list"
+msgstr "Minimale EPG Liste"
+
+msgid "Really rename the recording"
+msgstr "Aufnahme wirklich umbenennen"
+

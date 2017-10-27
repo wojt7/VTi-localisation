@@ -18714,3 +18714,9 @@ msgstr ""
 
 msgid "Minimal timer list"
 msgstr ""
+
+msgid "Minimal EPG list"
+msgstr ""
+
+msgid "Really rename the recording"
+msgstr ""
