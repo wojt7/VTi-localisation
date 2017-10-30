@@ -18713,3 +18713,27 @@ msgstr ""
 
 msgid "Really rename the recording"
 msgstr ""
+
+msgid "Remove Package"
+msgstr ""
+
+msgid "Update Package"
+msgstr ""
+
+msgid "Install Package"
+msgstr ""
+
+msgid "Packages"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Update from Feed"
+msgstr ""
+
+msgid "Upgrade all Packages"
+msgstr ""

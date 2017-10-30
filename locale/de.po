@@ -19772,3 +19772,27 @@ msgstr "Minimale EPG Liste"
 msgid "Really rename the recording"
 msgstr "Aufnahme wirklich umbenennen"
 
+msgid "Remove Package"
+msgstr "Paket entfernen"
+
+msgid "Update Package"
+msgstr "Paket aktualisieren"
+
+msgid "Install Package"
+msgstr "Paket installieren"
+
+msgid "Packages"
+msgstr "Paketverwaltung"
+
+msgid "Installed"
+msgstr "Installiert"
+
+msgid "More"
+msgstr "Mehr"
+
+msgid "Update from Feed"
+msgstr "Update Paketinformationen"
+
+msgid "Upgrade all Packages"
+msgstr "Alle Pakete aktualisieren"
+
