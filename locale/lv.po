@@ -18716,3 +18716,15 @@ msgstr ""
 
 msgid "Upgrade all Packages"
 msgstr ""
+
+msgid "Include short description"
+msgstr ""
+
+msgid "Include extended description"
+msgstr ""
+
+msgid "Movie search"
+msgstr ""
+
+msgid "START TYPING"
+msgstr ""

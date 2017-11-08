@@ -19796,3 +19796,15 @@ msgstr "Update Paketinformationen"
 msgid "Upgrade all Packages"
 msgstr "Alle Pakete aktualisieren"
 
+msgid "Include short description"
+msgstr "Kurzbeschreibung einbeziehen"
+
+msgid "Include extended description"
+msgstr "Langbeschreibung einbeziehen"
+
+msgid "Movie search"
+msgstr "Film-Suche"
+
+msgid "START TYPING"
+msgstr "Suchtext eingeben"
+
