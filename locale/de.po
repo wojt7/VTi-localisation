@@ -19808,3 +19808,5 @@ msgstr "Film-Suche"
 msgid "START TYPING"
 msgstr "Suchtext eingeben"
 
+msgid "Update movie database automatically in Standby"
+msgstr "Filmdatenbank automatisch im Standby aktualisieren"

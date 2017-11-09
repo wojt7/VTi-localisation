@@ -22695,6 +22695,9 @@ msgstr ""
 msgid "START TYPING"
 msgstr ""
 
+msgid "Update movie database automatically in Standby"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"
