@@ -19677,8 +19677,8 @@ msgstr "Autotag auswählen"
 msgid "Please enter days"
 msgstr "Bitte Tage eingeben"
 
-msgid "find movies by AutoTag"
-msgstr "Filme nach AutoTag"
+msgid "find movies by AutoTag/Tag"
+msgstr "Filme nach AutoTag/Tag"
 
 msgid "find movies by date"
 msgstr "Filme nach Datum"
@@ -19810,3 +19810,9 @@ msgstr "Suchtext eingeben"
 
 msgid "Update movie database automatically in Standby"
 msgstr "Filmdatenbank automatisch im Standby aktualisieren"
+
+msgid "Edit Tags"
+msgstr "Tags bearbeiten"
+
+msgid "edit tags"
+msgstr "Tags bearbeiten"

@@ -19555,7 +19555,7 @@ msgstr ""
 msgid "Please enter days"
 msgstr ""
 
-msgid "find movies by AutoTag"
+msgid "find movies by AutoTag/Tag"
 msgstr ""
 
 msgid "find movies by date"
@@ -19679,4 +19679,10 @@ msgid "START TYPING"
 msgstr ""
 
 msgid "Update movie database automatically in Standby"
+msgstr ""
+
+msgid "Edit Tags"
+msgstr ""
+
+msgid "edit tags"
 msgstr ""
