@@ -19816,3 +19816,16 @@ msgstr "Tags bearbeiten"
 
 msgid "edit tags"
 msgstr "Tags bearbeiten"
+
+msgid "Select IPK File for Upload"
+msgstr "IPK Datei hochladen"
+
+msgid "Uploaded Files"
+msgstr "Hochgeladene Dateien"
+
+msgid "Upload package"
+msgstr "Paket hochladen"
+
+msgid "Upload File Error"
+msgstr "Fehler beim Hochladen"
+

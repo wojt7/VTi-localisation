@@ -22704,6 +22704,18 @@ msgstr ""
 msgid "edit tags"
 msgstr ""
 
+msgid "Select IPK File for Upload"
+msgstr ""
+
+msgid "Uploaded Files"
+msgstr ""
+
+msgid "Upload package"
+msgstr ""
+
+msgid "Upload File Error"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"
