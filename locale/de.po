@@ -19829,3 +19829,6 @@ msgstr "Paket hochladen"
 msgid "Upload File Error"
 msgstr "Fehler beim Hochladen"
 
+msgid "Allow IPK Upload"
+msgstr "IPK hochladen aktivieren"
+

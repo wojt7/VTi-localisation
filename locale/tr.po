@@ -19044,3 +19044,6 @@ msgstr ""
 
 msgid "Upload File Error"
 msgstr ""
+
+msgid "Allow IPK Upload"
+msgstr ""
