@@ -19832,3 +19832,5 @@ msgstr "Fehler beim Hochladen"
 msgid "Allow IPK Upload"
 msgstr "IPK hochladen aktivieren"
 
+msgid "Full remote"
+msgstr "Vollständige Fernbedienung"

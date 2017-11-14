@@ -19047,3 +19047,6 @@ msgstr ""
 
 msgid "Allow IPK Upload"
 msgstr ""
+
+msgid "Full remote"
+msgstr ""
