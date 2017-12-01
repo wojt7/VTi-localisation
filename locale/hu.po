@@ -22722,6 +22722,9 @@ msgstr ""
 msgid "Full remote"
 msgstr ""
 
+msgid "Enable SQL database"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"

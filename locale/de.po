@@ -19834,3 +19834,6 @@ msgstr "IPK hochladen aktivieren"
 
 msgid "Full remote"
 msgstr "Vollständige Fernbedienung"
+
+msgid "Enable SQL database"
+msgstr "SQL Datenbank aktivieren"

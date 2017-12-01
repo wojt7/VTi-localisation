@@ -18738,3 +18738,6 @@ msgstr ""
 
 msgid "Full remote"
 msgstr ""
+
+msgid "Enable SQL database"
+msgstr ""
