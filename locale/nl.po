@@ -19190,3 +19190,518 @@ msgstr ""
 
 msgid "Enable SQL database"
 msgstr ""
+
+msgid "[ General Settings ]"
+msgstr ""
+
+msgid "- Type of EnigmaLight binary:"
+msgstr ""
+
+msgid "- Configuration File"
+msgstr ""
+
+msgid "- Run EnigmaLight as server when lights are off:"
+msgstr ""
+
+msgid "- Check for update, press OK"
+msgstr ""
+
+msgid "- Show message when turn on/off lights:"
+msgstr ""
+
+msgid "- Enable lights on boot:"
+msgstr ""
+
+msgid "- Cluster Leds:"
+msgstr ""
+
+msgid "- Delay:"
+msgstr ""
+
+msgid "- Interval:"
+msgstr ""
+
+msgid "- 3D Mode:"
+msgstr ""
+
+msgid "- Default lightmode:"
+msgstr ""
+
+msgid "- Standby Mode:"
+msgstr ""
+
+msgid "- Color order:"
+msgstr ""
+
+msgid "[ Blackbars ]"
+msgstr ""
+
+msgid "- Remove Blackbars top and bottom:"
+msgstr ""
+
+msgid "- Remove Blackbars left and right:"
+msgstr ""
+
+msgid "- Delay before remove:"
+msgstr ""
+
+msgid "Switch on/off lights when TV turns on/off:"
+msgstr ""
+
+msgid "[ Network Settings ]"
+msgstr ""
+
+msgid "- Enable network mode (connect with other daemon):"
+msgstr ""
+
+msgid "- Host ipaddress:"
+msgstr ""
+
+msgid "- Daemon port:"
+msgstr ""
+
+msgid "[ Timer Settings ]"
+msgstr ""
+
+msgid "- Use Timer:"
+msgstr ""
+
+msgid "- Don't turn lights off/on in standby:"
+msgstr ""
+
+msgid "- Enable lights:"
+msgstr ""
+
+msgid "- Disable lights:"
+msgstr ""
+
+msgid "[ Remote ]"
+msgstr ""
+
+msgid "- Use remoteserver:"
+msgstr ""
+
+msgid "- Remoteserver Port:"
+msgstr ""
+
+msgid "[ Misc ]"
+msgstr ""
+
+msgid "- Show statusbar on bottom of screen:"
+msgstr ""
+
+msgid "- Remove statusbar from tuningscreen:"
+msgstr ""
+
+msgid "- Show errormessages:"
+msgstr ""
+
+msgid "- Debug-Logging > /tmp/enigmalight_gui.log:"
+msgstr ""
+
+msgid "Do you want to (re)start the client ?"
+msgstr ""
+
+msgid "To reload the configfile EnigmaLight needs a restart, restart now ?"
+msgstr ""
+
+msgid "Reload configfile ?"
+msgstr ""
+
+msgid "Ip address %s is not accepted, check your input and try again."
+msgstr ""
+
+msgid ""
+"Enigmalight can't connect with %s:%s,\n"
+"check your input and try again."
+msgstr ""
+
+msgid "Test Connection with %s:%s, succesfull!"
+msgstr ""
+
+msgid "Do you want to (re)start the client and connect with %s:%s ?"
+msgstr ""
+
+msgid "(Re)start client ?"
+msgstr ""
+
+msgid "Type of enigmalight has changed, Start this type of Enigmalight ?"
+msgstr ""
+
+msgid "Turn lights on"
+msgstr ""
+
+msgid "Lights off"
+msgstr ""
+
+msgid "Switch to dynamic mode"
+msgstr ""
+
+msgid "Switch to moodlamp mode"
+msgstr ""
+
+msgid "Busy...."
+msgstr ""
+
+msgid "Tuning"
+msgstr ""
+
+msgid "Moodlamp"
+msgstr ""
+
+msgid "Config Editor"
+msgstr ""
+
+msgid "Box Info & About"
+msgstr ""
+
+msgid "Can't switch mode, Lights are disabled."
+msgstr ""
+
+msgid "Static color:"
+msgstr ""
+
+msgid "Moodlamp configuration"
+msgstr ""
+
+msgid "- Standby mode:"
+msgstr ""
+
+msgid "- Moodlamp Mode:"
+msgstr ""
+
+msgid "- Color RED\t: %s"
+msgstr ""
+
+msgid "- Color GREEN\t: %s"
+msgstr ""
+
+msgid "- Color BLUE\t: %s"
+msgstr ""
+
+msgid "- Fader brightness : %s\t"
+msgstr ""
+
+msgid "RGB Test"
+msgstr ""
+
+msgid "Blackbar Test (horizontal)"
+msgstr ""
+
+msgid "Blackbar Test (vertical)"
+msgstr ""
+
+msgid "Blue wallpaper"
+msgstr ""
+
+msgid "Bars Test"
+msgstr ""
+
+msgid "Solid: White"
+msgstr ""
+
+msgid "Solid: Aquamarine"
+msgstr ""
+
+msgid "Solid: Blue"
+msgstr ""
+
+msgid "Solid: Royalblue"
+msgstr ""
+
+msgid "Solid: Red"
+msgstr ""
+
+msgid "Solid: Green"
+msgstr ""
+
+msgid "Solid: Gray"
+msgstr ""
+
+msgid "Solid: Lightgray"
+msgstr ""
+
+msgid "Solid: Magenta"
+msgstr ""
+
+msgid "Solid: Yellow"
+msgstr ""
+
+msgid "Solid: Dark yellow"
+msgstr ""
+
+msgid "Circles"
+msgstr ""
+
+msgid "Rose"
+msgstr ""
+
+msgid "Enigmalight with fpu support"
+msgstr ""
+
+msgid "Enigmalight softfloat"
+msgstr ""
+
+msgid "Debug -> Console"
+msgstr ""
+
+msgid "Debug -> Console + Logfile"
+msgstr ""
+
+msgid "Dynamic"
+msgstr ""
+
+msgid "Static color"
+msgstr ""
+
+msgid "RGBTest"
+msgstr ""
+
+msgid "Color fader"
+msgstr ""
+
+msgid "Rainbow"
+msgstr ""
+
+msgid "Start server on boot"
+msgstr ""
+
+msgid "Start Dynamic on boot"
+msgstr ""
+
+msgid "Start Moodlamp on boot"
+msgstr ""
+
+msgid "Custom Profile 0"
+msgstr ""
+
+msgid "Custom Profile 1"
+msgstr ""
+
+msgid "Custom Profile 2"
+msgstr ""
+
+msgid "Custom Profile 3"
+msgstr ""
+
+msgid "Custom Profile 4"
+msgstr ""
+
+msgid "Custom Profile 5"
+msgstr ""
+
+msgid "Custom Profile 6"
+msgstr ""
+
+msgid "[ Color Tuning ]"
+msgstr ""
+
+msgid "- Profile:"
+msgstr ""
+
+msgid "- Led speed:"
+msgstr ""
+
+msgid "- Auto speed:"
+msgstr ""
+
+msgid "- Brightness:"
+msgstr ""
+
+msgid "- Minimal Brightness:"
+msgstr ""
+
+msgid "- Maximal Brightness:"
+msgstr ""
+
+msgid "- Saturation 0-20:"
+msgstr ""
+
+msgid "- Minimal Saturation 0.00-1.00:"
+msgstr ""
+
+msgid "- Maximal Saturation 0.00-1.00:"
+msgstr ""
+
+msgid "- Gamma correction 1-10:"
+msgstr ""
+
+msgid "- Threshold:"
+msgstr ""
+
+msgid "[ Color Adjustment, only local ]"
+msgstr ""
+
+msgid "- Use ColorAdjust Settings:"
+msgstr ""
+
+msgid "- Adjust RED "
+msgstr ""
+
+msgid "- Adjust GREEN "
+msgstr ""
+
+msgid "- Adjust BLUE "
+msgstr ""
+
+msgid "- Show sample pictures:"
+msgstr ""
+
+msgid "- Sample picture:"
+msgstr ""
+
+msgid "[ Blackbar detection ]"
+msgstr ""
+
+msgid "[ Device ]"
+msgstr ""
+
+msgid "- Device type:"
+msgstr ""
+
+msgid "- Bus:"
+msgstr ""
+
+msgid "- Address:"
+msgstr ""
+
+msgid "- Serial:"
+msgstr ""
+
+msgid "- NodeMCU IP:"
+msgstr ""
+
+msgid "- NodeMCU PORT:"
+msgstr ""
+
+msgid "- Device output:"
+msgstr ""
+
+msgid "- Device rate:"
+msgstr ""
+
+msgid "- Ambioder precision:"
+msgstr ""
+
+msgid "[ Lights ]"
+msgstr ""
+
+msgid "- With (floor) stand:"
+msgstr ""
+
+msgid "-- How many lights Bottom-left:"
+msgstr ""
+
+msgid "-- Bottom center (how many places are empty):"
+msgstr ""
+
+msgid "-- How many lights Bottom-right:"
+msgstr ""
+
+msgid "- How many lights Bottom:"
+msgstr ""
+
+msgid "- How many lights Top:"
+msgstr ""
+
+msgid "- How many lights Left:"
+msgstr ""
+
+msgid "- How many lights Right:"
+msgstr ""
+
+msgid "- Where starts led 1:"
+msgstr ""
+
+msgid "- Clockwise or Backwards:"
+msgstr ""
+
+msgid "- Scan depth Left:"
+msgstr ""
+
+msgid "- Scan depth Right:"
+msgstr ""
+
+msgid "- Scan depth Top:"
+msgstr ""
+
+msgid "- Scan depth Bottom:"
+msgstr ""
+
+msgid "[ WifiLight ]"
+msgstr ""
+
+msgid "- WifiLight IP:"
+msgstr ""
+
+msgid "- WifiLight PORT:"
+msgstr ""
+
+msgid "[ Color ]"
+msgstr ""
+
+msgid "- Red Adjust:"
+msgstr ""
+
+msgid "- Red Gamma:"
+msgstr ""
+
+msgid "- Red Blacklevel:"
+msgstr ""
+
+msgid "- Green Adjust:"
+msgstr ""
+
+msgid "- Green Gamma:"
+msgstr ""
+
+msgid "- Green Blacklevel:"
+msgstr ""
+
+msgid "- Blue Adjust:"
+msgstr ""
+
+msgid "- Blue Gamma:"
+msgstr ""
+
+msgid "- Blue Blacklevel:"
+msgstr ""
+
+msgid "Create configfile"
+msgstr ""
+
+msgid "Create and Test this config with [RGB Test]"
+msgstr ""
+
+msgid "LEFT [bottom]"
+msgstr ""
+
+msgid "TOP [left]"
+msgstr ""
+
+msgid "RIGHT [top]"
+msgstr ""
+
+msgid "BOTTOM [right]"
+msgstr ""
+
+msgid "BOTTOM [middle]"
+msgstr ""
+
+msgid "BOTTOM [left]"
+msgstr ""
+
+msgid "RIGHT [bottom]"
+msgstr ""
+
+msgid "TOP [right]"
+msgstr ""
+
+msgid "LEFT [top]"
+msgstr ""
+
+msgid "Clockwise"
+msgstr ""
+
+msgid "Backwards"
+msgstr ""
