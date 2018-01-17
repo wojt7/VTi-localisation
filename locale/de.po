@@ -19838,8 +19838,8 @@ msgstr "Vollständige Fernbedienung"
 msgid "Enable SQL database"
 msgstr "SQL Datenbank aktivieren"
 
-msgid "[ General Settings ]"
-msgstr "[ Allgemeine Einstellungen ]"
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
 
 msgid "- Type of EnigmaLight binary:"
 msgstr "- Typ der ausführbaren Datei"
@@ -19880,8 +19880,8 @@ msgstr "- Modus im Standby"
 msgid "- Color order:"
 msgstr "- Farbformat"
 
-msgid "[ Blackbars ]"
-msgstr "[ Schwarze Balken ]"
+msgid "Blackbars"
+msgstr "Schwarze Balken"
 
 msgid "- Remove Blackbars top and bottom:"
 msgstr "- Schwarze Balken oben und unten entfernen"
@@ -19895,8 +19895,8 @@ msgstr "- Verzögerung vor dem Entfernen"
 msgid "Switch on/off lights when TV turns on/off:"
 msgstr "Lichter aus/ein wenn TV aus-/eingeschaltet wird"
 
-msgid "[ Network Settings ]"
-msgstr "[ Netzwerkeinstellungen ]"
+msgid "Network Settings"
+msgstr "Netzwerkeinstellungen"
 
 msgid "- Enable network mode (connect with other daemon):"
 msgstr "- Aktiviere Netzwerkmodus (verbinde zu externen Server)"
@@ -19907,8 +19907,8 @@ msgstr "- Host IP-Adresse"
 msgid "- Daemon port:"
 msgstr "- Server Port:"
 
-msgid "[ Timer Settings ]"
-msgstr "[ Timer Einstellungen ]"
+msgid "Timer Settings"
+msgstr "Timer Einstellungen"
 
 msgid "- Use Timer:"
 msgstr "- Verwende Timer"
@@ -19922,17 +19922,14 @@ msgstr "-  Lichter ein"
 msgid "- Disable lights:"
 msgstr "- Lichter aus"
 
-msgid "[ Remote ]"
-msgstr "[ Server für externe Verbindungen]"
+msgid "- Use webinterface:"
+msgstr "- Aktiviere Webinterface"
 
-msgid "- Use remoteserver:"
-msgstr "- Aktiviere externen Server"
+msgid "- Webinterface port:"
+msgstr "- Webinterface Port"
 
-msgid "- Remoteserver Port:"
-msgstr "- Externer Serverport"
-
-msgid "[ Misc ]"
-msgstr "[ Verschiedenes ]"
+msgid "Misc"
+msgstr "Verschiedenes"
 
 msgid "- Show statusbar on bottom of screen:"
 msgstr "- Zeige Status am unteren Rand"
@@ -20144,8 +20141,8 @@ msgstr "Benutzerprofil 5"
 msgid "Custom Profile 6"
 msgstr "Benutzerprofil 6"
 
-msgid "[ Color Tuning ]"
-msgstr "[ Feineinstellung Farbe ]"
+msgid "Color Tuning"
+msgstr "Feineinstellung Farbe"
 
 msgid "- Profile:"
 msgstr "- Profile"
@@ -20180,8 +20177,8 @@ msgstr "- Gammakorrektur 1-10"
 msgid "- Threshold:"
 msgstr "Ansprechwert"
 
-msgid "[ Color Adjustment, only local ]"
-msgstr "[ Farbanpassung (lokal) ]"
+msgid "Color Adjustment, only local"
+msgstr "Farbanpassung (lokal)"
 
 msgid "- Use ColorAdjust Settings:"
 msgstr "- Verwende Farbanpassung"
@@ -20201,11 +20198,11 @@ msgstr "- Zeige Testbilder"
 msgid "- Sample picture:"
 msgstr "- Testbild"
 
-msgid "[ Blackbar detection ]"
-msgstr "[ Erkennung schwarze Balken ]"
+msgid "Blackbar detection"
+msgstr "Erkennung schwarze Balken"
 
-msgid "[ Device ]"
-msgstr "[ Gerät ]"
+msgid "Device"
+msgstr "Gerät"
 
 msgid "- Device type:"
 msgstr "- Gerätetyp"
@@ -20234,8 +20231,8 @@ msgstr "- Übertragungsrate"
 msgid "- Ambioder precision:"
 msgstr "- Ambioder Präzision"
 
-msgid "[ Lights ]"
-msgstr "[ Lichter ]"
+msgid "Lights"
+msgstr "Lichter"
 
 msgid "- With (floor) stand:"
 msgstr "- mit Standfuß"
@@ -20279,8 +20276,8 @@ msgstr "- Auswertungstiefe oben"
 msgid "- Scan depth Bottom:"
 msgstr "- Auswertungstiefe unten"
 
-msgid "[ WifiLight ]"
-msgstr "[ WifiLight ]"
+msgid "WifiLight"
+msgstr "WifiLight"
 
 msgid "- WifiLight IP:"
 msgstr "- WifiLight IP"
@@ -20288,8 +20285,8 @@ msgstr "- WifiLight IP"
 msgid "- WifiLight PORT:"
 msgstr "- WifiLight Port"
 
-msgid "[ Color ]"
-msgstr "[ Farbe ]"
+msgid "Color"
+msgstr "Farbe"
 
 msgid "- Red Adjust:"
 msgstr "- ROT"
@@ -20356,3 +20353,192 @@ msgstr "Uhrzeigersinn"
 
 msgid "Backwards"
 msgstr "Gegenuhrzeigersinn"
+
+msgid "EnigmaLight | on/off"
+msgstr "Enigmalight | ein/aus"
+
+msgid "EnigmaLight | Settings"
+msgstr "Enigmalight | Einstellungen"
+
+msgid "TV backlight"
+msgstr "TV Hintergrundbeleuchtung"
+
+msgid "Enigmalight Configuration"
+msgstr "Enigmalight Konfiguration"
+
+msgid "EnigmaLight ConfigEditor"
+msgstr "Konfigurationseditor"
+
+msgid "Select your configfile, default /etc/enigmalight.conf will be used "
+msgstr ""
+"Konfigurationsdatei auswählen, als Standard wird /etc/enigmalight.conf "
+"verwendet."
+
+msgid "Run EnigmaLight as Server for Boblight or other clients "
+msgstr "Verwende Enigmalight als Server für Boblight oder andere Clients"
+
+msgid "Show a messagebox when you turn on/off the lights "
+msgstr ""
+"Zeigt eine Nachricht am TV wenn die Lichter an- oder ausgeschaltet werden."
+
+msgid "Automatic turn on lights on boot "
+msgstr "Einstellung was passieren soll wenn der Reciever gestartet wird."
+
+msgid ""
+"Cluster [X] Leds as one led.\n"
+"Default each led had is own color, with this option you can bundle/cluster "
+"this to 2 -> 10 leds."
+msgstr ""
+"Verbinde [X] LED's als eine LED. Im Standard hat jede LED eine eigene "
+"Farbe.\n"
+"Mit dieser Einstellungen können 2 bis 10 LED's als eine LED angesteuert "
+"werden."
+
+msgid ""
+" Some tv's are slower then the lights. With this option you can make the "
+"output 1 -> 20 frames later."
+msgstr ""
+"Einige TV's sind langsamer als die Lichter. Mit dieser Option erfolgt die "
+"Ansteuerung 1 bis 20 Frames später."
+
+msgid ""
+"How fast Enigmalight wil run.\n"
+"0.01 = 15 -> 40fps | 0.10 = 10fps | 0.20 = 5fps: "
+msgstr ""
+"Diese Einstellung legt fest wie schnell Enigmalight läuft.\n"
+"0.01 = 15 -> 40fps | 0.10 = 10fps | 0.20 = 5fps: "
+
+msgid "Turn on/off 3D Mode, SBS or TAB"
+msgstr "3D Modus ein- oder ausschalten und Modus (SBS oder TAB) einstellen"
+
+msgid "Turn off lights or use moodlamp in standby "
+msgstr "Lichter im Standby ausschalten oder das Stimmungslicht einschalten"
+
+msgid " Set the order as given in enigmalight.conf."
+msgstr "Reihenfolge wie in der enigmalight.conf angegeben."
+
+msgid "Remove horizontal blackbars from lights."
+msgstr "Horizontale schwarze Balken für die Lichter entfernen."
+
+msgid "Remove vertical blackbars from lights."
+msgstr "Vertikale schwarze Balken für die Lichter entfernen."
+
+msgid ""
+"Count from 0 to given number\n"
+"if the blackbars are still there then remove them.\n"
+"if enigmalight runs on 10fps and you will wait 10sec before remove, then set "
+"it to 100"
+msgstr ""
+"Zähler von 0 beginnend bis die schwarzen Balken entfernt werden. Wenn "
+"enigmalight mit 10 fps läuft und 10sec gewartet werden soll muss dieser Wert "
+"auf 100 gestellt werden"
+
+msgid ""
+"Use enigmalight as client and connect with other daemon over network (not "
+"for local use)"
+msgstr ""
+"Verwende Enigmalight als Client für andere Server im Netzwerk (nicht für "
+"lokalen Gebrauch)"
+
+msgid "Turn on/off lights @ given time "
+msgstr "Lichter zu bestimmten Zeiten ein-/ausschalten"
+
+msgid "Control EnigmaLight from browser"
+msgstr "Enigmalight über einen Browser konfigurieren"
+
+msgid "Port which will be used for webinterface"
+msgstr "Port auf dem das Webinterface erreichbar ist"
+
+msgid "Show status at bottomscreen fps, currentmode and other info"
+msgstr ""
+"Zeige Status am unteren Bildschirmrand:\n"
+"fps, aktueller Modus und andere Infos"
+
+msgid "Remove the statusbar from colortuning screen"
+msgstr "Entferne die Statusinformationen während der Feineinstellung"
+
+msgid "Turn on if you want to see error information"
+msgstr "Diese Option muss aktiviert werden um Fehlermeldungen zu erhalten"
+
+msgid "Disable timer function in standbymode"
+msgstr "Timerfunktion im Standby deaktivieren"
+
+msgid "Time when lights go on"
+msgstr "Uhrzeit wann die Lichter eingeschaltet werden"
+
+msgid "Time when lights go off"
+msgstr "Uhrzeit wann die Lichter ausgeschaltet werden sollen"
+
+msgid ""
+"Profile: \n"
+"Create your own profiles."
+msgstr "Eigenes Profil für dei Feineinstellung erzeugen."
+
+msgid ""
+"General setting for the led-speed how fast is changing the colour. 40 is a "
+"nice setting."
+msgstr ""
+"Mit dieser Einstellung wird festgelegt wie schnell die Lichter die Farbe "
+"wechseln. 40 ist ein guter Ausgangswert für die Feinjustierung."
+
+msgid ""
+"Brightness:\n"
+"This is a nice option, especially even more important than the saturation "
+"setting. Why? Simply because there are colours like brown, turquoise, purple "
+"and eggplant that only exist with the clarity they have. Huh! Well, for "
+"example, a dark brown orange and dark turquoise aqua. So if you set the "
+"brightness to 2.0 then multiply the brightness of the colour you see with "
+"2.0 (I think) and therefore can not show brown Ambilight. A nice value is "
+"1.0 otherwise it quickly distorts the colours."
+msgstr ""
+"Die Helligkeit ist eine wichtige Einstellung. Wichtiger als die Sättigung. "
+"1.0 ist ein guter Ausgangspunkt"
+
+msgid " Min 0.00 | Max 1.00 | Default 0.00"
+msgstr "Min 0.00 | Max 1.00 | Standard 0.00"
+
+msgid " Min 0.00 | Max 1.00 | Default 1.00"
+msgstr "Min 0.00 | Max 1.00 | Standard 0.00"
+
+msgid ""
+" Saturation:\n"
+"Simply a strengthening of the average colour planes. The best option is "
+"between 1:00 and 1:20. This is because you are going to reinforce colours "
+"and this is so unnatural. \n"
+"Example:\n"
+" many films have a colour grading over it. A well-known example is a blue "
+"tint. This affects all the colours on the screen so that even a light Gray "
+"sky has some blue tones in it. When you try saturation on 2, it will thus be "
+"seen as good this blue tint twice while it appears white on your screen."
+msgstr ""
+"Ein guter Wert für die Sättigung liegt zwischen 1.0 und 1.20. Andere Werte "
+"können die Farbtreue verfälschen."
+
+msgid ""
+"Minimal Brightness:\n"
+"If you set this as example to 0.01, then the LEDs will not completely dark "
+"is there is black but soft grey"
+msgstr ""
+"Wenn dieser Wert auf z.B. 0.01 gesetzt wird, gehen die Lichter nicht "
+"komplett aus, selbst wenn das Bild schwarz ist."
+
+msgid ""
+"Gamma correction:\n"
+" Set this to 2.2 for default, since this is a default value for movies."
+msgstr "2.2 ist der Standardwert für die Filmwiedergabe"
+
+msgid ""
+"Threshold:\n"
+"Filter/Remove the almost dark pixels, 15 is a nice value."
+msgstr ""
+"Diese Einstellung legt fest ab wlecher die dunkelsten Pixel gefiltert bzw. "
+"entfernt werden. 15 ist ein guter Startwert."
+
+msgid "Leds: %s | Channels %s"
+msgstr "LED's: %s | Kanäle: %s"
+
+msgid "Use < > to jump with 10 in slider"
+msgstr "< > für 10er Schritte (Schieberegler)"
+
+msgid "Use moodlamp or lights off in standby."
+msgstr "Stimmungslicht im Standby einschalten oder Lichter im Standby ausschalten"
