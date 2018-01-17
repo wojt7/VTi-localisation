@@ -20541,4 +20541,53 @@ msgid "Use < > to jump with 10 in slider"
 msgstr "< > für 10er Schritte (Schieberegler)"
 
 msgid "Use moodlamp or lights off in standby."
-msgstr "Stimmungslicht im Standby einschalten oder Lichter im Standby ausschalten"
+msgstr ""
+"Stimmungslicht im Standby einschalten oder Lichter im Standby ausschalten"
+
+msgid "[Server] Idle"
+msgstr "[Server] schlafend"
+
+msgid "[Server] Client connected (%s)"
+msgstr "[Server] Client verbunden (%s)"
+
+msgid "[Moodlamp] %s | Static color"
+msgstr "Stimmungslicht %s | statische Farbe"
+
+msgid "[Dynamic] %s | %s"
+msgstr "Dynamisch %s | %s"
+
+msgid "[Moodlamp] %s | RGBtest"
+msgstr "Stimmungslicht %s | RGB Test"
+
+msgid "[Moodlamp] %s | ColorFader"
+msgstr "Stimmungslicht %s | Frabwechsel"
+
+msgid "[Moodlamp] %s | Rainbow"
+msgstr "Stimmungslicht %s | Regenbogen"
+
+msgid "Not Running"
+msgstr "Läuft nicht"
+
+msgid "LightsOn"
+msgstr "Lichter an"
+
+msgid "LightsOff"
+msgstr "Lichter aus"
+
+msgid "Status: %s | Current mode: %s | FPS: %s"
+msgstr "Status: %s | Aktueller Modus: %s | FPS: %s"
+
+msgid "Info: [%s]"
+msgstr "Info: [%s]"
+
+msgid ""
+"Error while starting EnigmaLight:\n"
+"\n"
+"%s"
+msgstr "Fehler beim Starten von Enigmalight:\n\n%s"
+
+msgid "Start lights.."
+msgstr "Starte Lichter..."
+
+msgid "Change mode"
+msgstr "Wechsle Modus"

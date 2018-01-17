@@ -19504,3 +19504,51 @@ msgstr ""
 
 msgid "Use moodlamp or lights off in standby."
 msgstr ""
+
+msgid "[Server] Idle"
+msgstr ""
+
+msgid "[Server] Client connected (%s)"
+msgstr ""
+
+msgid "[Moodlamp] %s | Static color"
+msgstr ""
+
+msgid "[Dynamic] %s | %s"
+msgstr ""
+
+msgid "[Moodlamp] %s | RGBtest"
+msgstr ""
+
+msgid "[Moodlamp] %s | ColorFader"
+msgstr ""
+
+msgid "[Moodlamp] %s | Rainbow"
+msgstr ""
+
+msgid "Not Running"
+msgstr ""
+
+msgid "LightsOn"
+msgstr ""
+
+msgid "LightsOff"
+msgstr ""
+
+msgid "Status: %s | Current mode: %s | FPS: %s"
+msgstr ""
+
+msgid "Info: [%s]"
+msgstr ""
+
+msgid ""
+"Error while starting EnigmaLight:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Start lights.."
+msgstr ""
+
+msgid "Change mode"
+msgstr ""
