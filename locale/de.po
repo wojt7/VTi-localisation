@@ -20584,10 +20584,58 @@ msgid ""
 "Error while starting EnigmaLight:\n"
 "\n"
 "%s"
-msgstr "Fehler beim Starten von Enigmalight:\n\n%s"
+msgstr ""
+"Fehler beim Starten von Enigmalight:\n"
+"\n"
+"%s"
 
 msgid "Start lights.."
 msgstr "Starte Lichter..."
 
 msgid "Change mode"
 msgstr "Wechsle Modus"
+
+msgid "Q:"
+msgstr "F:"
+
+msgid "A:"
+msgstr "A:"
+
+msgid "Can I use the boblight.conf ?"
+msgstr "Kann ich die Boblight Konfiguration verwenden ?"
+
+msgid "Yes you can use this, rename that file to enigmalight.conf."
+msgstr "Ja, einfach boblight.conf in enigmalight.conf umbenennen."
+
+msgid "Can I use the multiquickbutton plugin ?"
+msgstr "Kann ich das Plugin Multiquickbutton verwenden ?"
+
+msgid "Yes for start and stop the lights"
+msgstr "Ja, für Start/Stop der Lichter und zum Öffnen des Menüs"
+
+msgid "Enigmalight is freezed, what can I do ?"
+msgstr "Enigmalight ist stehen geblieben, was kann ich tun ?"
+
+msgid "In MainMenu press 0 to forcekill enigmalight."
+msgstr "Im Hauptmenü die Taste 0 drücken"
+
+msgid "How to get support ?"
+msgstr "Wo erhalte ich Unterstützung ?"
+
+msgid "Take a lookt at https://www.vuplus-support.org"
+msgstr "Besuche die Seite https://www.vuplus-support.org"
+
+msgid "EnigmaLight - Ambilight for Enigma2"
+msgstr "Enigmalight - Ambilight für enigma2"
+
+msgid "Some GUI Code"
+msgstr "GUI Code"
+
+msgid "This fork of Enigmalight will be supported at"
+msgstr "Hilfe für diesen Fork von Enigmalight gibt es bei"
+
+msgid "Adjustments"
+msgstr "Anpassungen"
+
+msgid "About EnigmaLight / Box information"
+msgstr "Über EnigmaLight / Box Info"
