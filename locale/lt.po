@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: vti-po-catalog - enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2017-06-21 13:16+0300\n"
+"PO-Revision-Date: 2018-01-20 10:46+0200\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
 "Language: lt_LT\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "No"
@@ -196,7 +196,7 @@ msgid ""
 "leave timer name empty."
 msgstr ""
 "VPS įskiepis gali reaguoti į transliacijos pradžios ir pabaigos uždelsimus. "
-"VPS yra palaikomas tik kai kurių kanalų!\n"
+"VPS palaiko tik kai kurie kanalai!\n"
 "\n"
 "Įjungus VPS, įrašymas prasidės tik tada, kai kanalas pažymės įvykį jau "
 "vykstančiu.\n"
@@ -364,7 +364,7 @@ msgstr ""
 "budinčiame režime'."
 
 msgid "Standby on boot screen timeout"
-msgstr "Lango 'Startuoti budinčiame režime' delsa"
+msgstr "Lango 'Startuoti budinčiame režime' trukmė"
 
 msgid ""
 "Specify how long to show the standby query on boot screen. This value can be "
@@ -372,8 +372,8 @@ msgid ""
 "in standby mode."
 msgstr ""
 "Nurodykite, kiek laiko rodyti budėjimo užklausą įkrovos ekrane. Šis dydis "
-"gali būti nustatytas, siekiant užtikrinti, kad aparatas neišsijungtų per "
-"greitai, kai veikia budėjimo režimu."
+"gali būti nustatytas, siekiant užtikrinti, kad aparatas, veikdamas budėjimo "
+"režimu, neišsijungtų per greitai."
 
 msgid "Force sleep (even when not in standby)"
 msgstr "Priverstinis gilus budėjimas (ne tik iš budėjimo)"
@@ -403,7 +403,7 @@ msgid ""
 "longer responds to ping."
 msgstr ""
 "Tai patikrintų IP adresų sąrašas. 'Elektro' laukia, kol adresai nustos "
-"atsakinėti į ping."
+"atsakinėti į užklausas."
 
 msgid "NAS Poweroff (press OK to edit)"
 msgstr "NAS išjungimas (redaguoti, spauskite 'OK')"
@@ -459,7 +459,7 @@ msgid "Showing Elektro readme.txt"
 msgstr "Rodoma 'Elektro' readme.txt"
 
 msgid "readme.txt"
-msgstr "readmede.txt"
+msgstr "readme.txt"
 
 msgid "Go to Standby now?"
 msgstr "Įjungti budėjimo režimą?"
@@ -3181,7 +3181,7 @@ msgid "Installing package content... Please wait..."
 msgstr "Įdiegiamas paketo turinys... Prašome laukti..."
 
 msgid "Instant record location"
-msgstr "Greitojo įrašo vieta"
+msgstr "Neplaninio įrašo vieta"
 
 msgid "Interface: "
 msgstr "Sąsaja:"
@@ -19363,97 +19363,97 @@ msgid "There are unscrambled movies, which will be unscrambled in standby"
 msgstr "Yra šifruotų įrašų, kurie bus iššifruoti budėjimo būsenoje"
 
 msgid "Streaming service assignment"
-msgstr ""
+msgstr "Transliacijos priskyrimas"
 
 msgid "Streaming service assignment setup"
-msgstr ""
+msgstr "Transliacijos priskyrimo sąranka"
 
 msgid "Services assigned to: %s"
-msgstr ""
+msgstr "Priskirta: %s"
 
 msgid "Enable streaming service assignment"
-msgstr ""
+msgstr "Įjungti transliacijos priskyrimą"
 
 msgid "IP of remote Vu+"
-msgstr ""
+msgstr "Nuotolinio Vu+ IP"
 
 msgid "Streaming port of remote Vu+"
-msgstr ""
+msgstr "Nuotolinio Vu+ transliacijos prievadas"
 
 msgid "User for streaming with authentication"
-msgstr ""
+msgstr "Transliacijos su autentikacija vartotojas"
 
 msgid "Password for streaming with authentication"
-msgstr ""
+msgstr "Transliacijos su autentikacija slaptažodis"
 
 msgid "no Services selected"
-msgstr ""
+msgstr "nepasirinkta kanalų"
 
 msgid "Search results"
-msgstr ""
+msgstr "Paieškos rezultatai"
 
 msgid "search for movies"
-msgstr ""
+msgstr "filmų paieška"
 
 msgid "Database update was finished"
-msgstr ""
+msgstr "Duomenų bazės atnaujinimas baigtas"
 
 msgid "Database update was cancelled"
-msgstr ""
+msgstr "Duomenų bazės atnaujinimas atšauktas"
 
 msgid "Update Database"
-msgstr ""
+msgstr "Atnaujinti duomenų bazę"
 
 msgid "Database Cleanup"
-msgstr ""
+msgstr "Išvalyti duomenų bazę"
 
 msgid "Path for SQL database"
-msgstr ""
+msgstr "Kelias į SQL duomenų bazę"
 
 msgid "update movie database (full)"
-msgstr ""
+msgstr "pilnas duomenų bazės atnaujinimas"
 
 msgid "update movie database for: %s"
-msgstr ""
+msgstr "%s duomenų bazės atnaujinimas"
 
 msgid "cleanup movie database"
-msgstr ""
+msgstr "filmų duomenų bazės išvalymas"
 
 msgid "There is no voice signal."
-msgstr ""
+msgstr "Nėra garso signalo."
 
 msgid "Put your voice close to the remote control..."
-msgstr ""
+msgstr "Padėkite garso įrankį prie nuotolinio pulto..."
 
 msgid "search movie"
-msgstr ""
+msgstr "filmo paieška"
 
 msgid "Please enter search string"
-msgstr ""
+msgstr "Įrašykite paieškos frazę"
 
 msgid "Please select type of search..."
-msgstr ""
+msgstr "Pasirinkite paieškos tipą..."
 
 msgid "Error during committing changes"
-msgstr ""
+msgstr "Įvedant pakeitimus, įvyko klaida"
 
 msgid "Error at closing database"
-msgstr ""
+msgstr "Uždarant duomenų bazę, įvyko klaida"
 
 msgid "Error during database transaction"
-msgstr ""
+msgstr "Duomenų bazės trazakcijos klaida"
 
 msgid "<No Channel>"
-msgstr ""
+msgstr "<Kanalų nėra>"
 
 msgid "No channel"
-msgstr ""
+msgstr "Kanalų nėra"
 
 msgid "Quad PIP channel"
-msgstr ""
+msgstr "4 PiP kanalai"
 
 msgid "Input channel name."
-msgstr ""
+msgstr "Įrašykite kanalo pavadinimą."
 
 msgid ""
 "EPG key : Switch to quad PiP entry\n"
@@ -19461,6 +19461,10 @@ msgid ""
 "PVR key : Input channel name\n"
 "Exit key : Finish channel edit"
 msgstr ""
+"'EPG' mygtukas: perjungti į 4 PIP įvestį\n"
+"'OK' mygtukas: į naują įvestį\n"
+"'PVR' mygtukas: įrašyti kanalo pavadinimą\n"
+"'EXIT' mygtukas: baigti kanalo redagavimą"
 
 msgid ""
 "EPG key : Switch to channel list\n"
@@ -19468,124 +19472,128 @@ msgid ""
 "PVR key : Input channel name\n"
 "Exit key : Finish channel edit"
 msgstr ""
+"'EPG' mygtukas: perjungti į kanalų sąrašą\n"
+"'OK' mygtukas: pašalinti pasirinktą kanalą\n"
+"'PVR' mygtukas: įrašyti kanalo pavadinimą\n"
+"'EXIT' mygtukas: baigti kanalo redagavimą"
 
 msgid "<empty>"
-msgstr ""
+msgstr "<tuščia>"
 
 msgid "Choice where to put \"%s\""
-msgstr ""
+msgstr "Pasirinkite, kur dėti \"%s\""
 
 msgid "Quad PiP Channel Selection"
-msgstr ""
+msgstr "4 PiP kanalų pasirinkimas"
 
 msgid "Select Quad Channels"
-msgstr ""
+msgstr "Pasirinkite 4 PIP kanalus"
 
 msgid "Add New Quad Channel Entry"
-msgstr ""
+msgstr "Pridėti naują 4 PIP kanalų įrašą"
 
 msgid "Remove Quad Channel Entry"
-msgstr ""
+msgstr "Pašalinti 4 PIP kanalų įrašą"
 
 msgid "Edit Quad Channel Entry"
-msgstr ""
+msgstr "Redaguoti 4 PIP kanalų įrašą"
 
 msgid "Exit Quad Channel Selection"
-msgstr ""
+msgstr "Užverti 4 PIP kanalų pasirinkimą"
 
 msgid "Quad Pip Screen"
-msgstr ""
+msgstr "4 PiP langas"
 
 msgid "Exit quad PiP"
-msgstr ""
+msgstr "Užverti 4 PIP"
 
 msgid "Zap focused channel on full screen"
-msgstr ""
+msgstr "Pasirinktą kanalą rodyti visame ekrane"
 
 msgid "Show channel selection"
-msgstr ""
+msgstr "Rodyti kanalų pasirinkimą"
 
 msgid "Prev quad PiP channel"
-msgstr ""
+msgstr "Ankstesnis 4 PiP kanalas"
 
 msgid "Next quad PiP channel"
-msgstr ""
+msgstr "Sekantis 4 PiP kanalas"
 
 msgid "Show/Hide focus bar"
-msgstr ""
+msgstr "Rodyti/slėpti fokusavimo juostą"
 
 msgid "  Red key : Show/Hide focus bar"
-msgstr ""
+msgstr "  'RAUDONAS' mygtukas: rodyti/slėpti fokusavimo juostą"
 
 msgid "  Menu key : Select quad channel"
-msgstr ""
+msgstr "  'MENU' mygtukas: pasirinkti 4 PIP kanalą"
 
 msgid "Box or driver is not support Quad PiP."
-msgstr ""
+msgstr "Vu+, arba tvarkyklės nepalaiko 4 PiP."
 
 msgid "Enable Quad PIP"
-msgstr ""
+msgstr "Įjungti 4 PIP"
 
 msgid "current channel"
-msgstr ""
+msgstr "dabartinis kanalas"
 
 msgid "  Red key : Zap focused channel on full screen"
-msgstr ""
+msgstr "  'RAUDONAS' mygtukas: pasirinktą kanalą rodyti visame ekrane"
 
 msgid "Search results for:"
-msgstr ""
+msgstr "Paieškos rezultatai:"
 
 msgid ""
 "The database is currently used by another Vu+ STB, please try again later"
-msgstr ""
+msgstr "Šiuo metu duomenų bazę naudoja kitas Vu +, pabandykite vėliau"
 
 msgid "last 24 hours"
-msgstr ""
+msgstr "paskutines 24 val."
 
 msgid "last 3 days"
-msgstr ""
+msgstr "paskutines 3 dienas"
 
 msgid "last week"
-msgstr ""
+msgstr "praeitą savaitę"
 
 msgid "last month"
-msgstr ""
+msgstr "praeitą mėnesį"
 
 msgid "last 6 months"
-msgstr ""
+msgstr "per praeitus 6 mėnesius"
 
 msgid "last year"
-msgstr ""
+msgstr "praėjusiais metais"
 
 msgid "last %s days"
-msgstr ""
+msgstr "paskutines %s dienas"
 
 msgid "older than 6 months"
-msgstr ""
+msgstr "virš 6 mėnesių"
 
 msgid "older than 1 year"
-msgstr ""
+msgstr "virš 1 metų"
 
 msgid "older than %s days"
-msgstr ""
+msgstr "virš %s dienų"
 
 msgid "Select movies by date"
-msgstr ""
+msgstr "Pasirinkite filmus pagal datą"
 
 msgid "Select Autotag"
-msgstr ""
+msgstr "Pasirinkite automatinį žymėjimą"
 
 msgid "Please enter days"
-msgstr ""
+msgstr "Įrašykite dienų skaičių"
 
 msgid "find movies by AutoTag/Tag"
-msgstr ""
+msgstr "rasti filmus pagal (automatinį)/žymėjimą"
 
 msgid "find movies by date"
-msgstr ""
+msgstr "rasti filmus pagal datą"
 
 msgid "Debug type"
-msgstr ""
+msgstr "Klaidų šalinimas"
 
 msgid ""
 "Debugging is enabled.\n"
@@ -19593,140 +19601,148 @@ msgid ""
 "Please disable debugging\n"
 "MENU->VTi->VTi-System Setup"
 msgstr ""
+"Klaidų šalinimas įjungtas.\n"
+"Įjunkite tik tada, kai reikia informacijos apie klaidas.\n"
+"Išjungti klaidų šalinimą:\n"
+"'MENU' -> VTi - VTi - Sistemos sąranka"
 
 msgid "Can not delete file which are currently recording at another Vu+ STB"
-msgstr ""
+msgstr "Negalima ištrinti failo, kuris šiuo metu įrašomas kitame Vu+"
 
 msgid ""
 "Delete failed, because folder is not empty !\n"
 "Disable movie trash in configuration to delete this item"
 msgstr ""
+"Pašalinti nepavyko, nes katalogas netuščias!\n"
+"Jei norite ištrinti šį elementą, išjunkite filmų šiukšliadėžę"
 
 msgid "restore selected items"
-msgstr ""
+msgstr "atkurti pasirinktus elementus"
 
 msgid "restore : %s"
-msgstr ""
+msgstr "atkurti: %s"
 
 msgid "Use database for movie trash"
-msgstr ""
+msgstr "Filmų šiukšliadėžei naudoti duomenų bazę"
 
 msgid "Delete movies in trash older than X days (0 = off)"
 msgstr ""
+"Ištrinti iš šiukšliadėžės filmus, senesnius, nei X dienų (0 = išjungta)"
 
 msgid "Show service path in movie list"
-msgstr ""
+msgstr "Filmų sąraše rodyti ir kelią"
 
 msgid "Delete movies which are in trash for more than Y days (0 = off)"
 msgstr ""
+"Ištrinti filmus, esančius šiukšliadėžėje ilgiau, nei Y dienų (0 = išjungta)"
 
 msgid "Associate days X and Y with:"
-msgstr ""
+msgstr "Dienas X ir Y susieti su:"
 
 msgid "or"
-msgstr ""
+msgstr "arba"
 
 msgid "and"
-msgstr ""
+msgstr "ir"
 
 msgid "Cancelled upon user request"
-msgstr ""
+msgstr "Atšaukta vartotojo"
 
 msgid "No, cancel"
-msgstr ""
+msgstr "Ne, atšaukti"
 
 msgid "Yes, delete it"
-msgstr ""
+msgstr "Taip, ištrinti"
 
 msgid "Cancelled"
-msgstr ""
+msgstr "Atšaukta"
 
 msgid "Deleted"
-msgstr ""
+msgstr "Ištrinta"
 
 msgid "You need to write something!"
-msgstr ""
+msgstr "Jums būtina ką nors parašyti!"
 
 msgid "Use new design"
-msgstr ""
+msgstr "Naudoti naują išvaizdą"
 
 msgid "Common Settings"
-msgstr ""
+msgstr "Bendri nustatymai"
 
 msgid "Minimal movie list"
-msgstr ""
+msgstr "Minimalus filmų sąrašas"
 
 msgid "Minimal timer list"
-msgstr ""
+msgstr "Minimalus laikmačių sąrašas"
 
 msgid "Minimal EPG list"
-msgstr ""
+msgstr "Minimalus EPG sąrašas"
 
 msgid "Really rename the recording"
-msgstr ""
+msgstr "Tikrai pervadinti įrašą"
 
 msgid "Remove Package"
-msgstr ""
+msgstr "Šalinti paketą"
 
 msgid "Update Package"
-msgstr ""
+msgstr "Atnaujinti paketą"
 
 msgid "Install Package"
-msgstr ""
+msgstr "Įdiegti paketą"
 
 msgid "Packages"
-msgstr ""
+msgstr "Paketai"
 
 msgid "Installed"
-msgstr ""
+msgstr "Įdiegta"
 
 msgid "More"
-msgstr ""
+msgstr "Daugiau"
 
 msgid "Update from Feed"
-msgstr ""
+msgstr "Atnaujinti iš šaltinių"
 
 msgid "Upgrade all Packages"
-msgstr ""
+msgstr "Atnaujinti visus paketus"
 
 msgid "Include short description"
-msgstr ""
+msgstr "Įtraukti trumpą aprašymą"
 
 msgid "Include extended description"
-msgstr ""
+msgstr "Įtraukti išplėstinį aprašymą"
 
 msgid "Movie search"
-msgstr ""
+msgstr "Filmų paieška"
 
 msgid "START TYPING"
-msgstr ""
+msgstr "PRADĖKITE RAŠYTI"
 
 msgid "Update movie database automatically in Standby"
-msgstr ""
+msgstr "Automatiškai atnaujinti filmų duomenų bazę budinčiame režime"
 
 msgid "Edit Tags"
-msgstr ""
+msgstr "Redaguoti žymes"
 
 msgid "edit tags"
-msgstr ""
+msgstr "redaguoti žymes"
 
 msgid "Select IPK File for Upload"
-msgstr ""
+msgstr "Pasirinkite IPK failą įkėlimui"
 
 msgid "Uploaded Files"
-msgstr ""
+msgstr "Įkelti failai"
 
 msgid "Upload package"
-msgstr ""
+msgstr "Įkelti paketą"
 
 msgid "Upload File Error"
-msgstr ""
+msgstr "Failo įkėlimo klaida"
 
 msgid "Allow IPK Upload"
-msgstr ""
+msgstr "Leisti IPK įkėlimą"
 
 msgid "Full remote"
-msgstr ""
+msgstr "Visas nuotolinis"
 
 msgid "Enable SQL database"
-msgstr ""
+msgstr "Naudoti SQL duomenų bazę"
