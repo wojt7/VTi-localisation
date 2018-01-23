@@ -19647,3 +19647,261 @@ msgstr ""
 
 msgid "About EnigmaLight / Box information"
 msgstr ""
+
+msgid "Timeshift starts automatically after given time at current service"
+msgstr ""
+
+msgid ""
+"Choose what should happen with timeshift file when service will be changed "
+"to another one"
+msgstr ""
+
+msgid ""
+"Choose an option for processing timeshift file when the TV event at the "
+"current service changes"
+msgstr ""
+
+msgid ""
+"This removes timeshift files automatically when timeshift is shorter than "
+"given time"
+msgstr ""
+
+msgid ""
+"Delete timeshift files automatically when files are older than given time"
+msgstr ""
+
+msgid ""
+"Skip to next or previous timeshift event at the current service with < > "
+"buttons"
+msgstr ""
+
+msgid ""
+"When saving timeshift is enabled. You can choose available timeshift files "
+"here."
+msgstr ""
+
+msgid "Do not show timeshift files as movies in movie list."
+msgstr ""
+
+msgid "Configure the color of the subtitles."
+msgstr ""
+
+msgid "Configure the font size of the subtitles."
+msgstr ""
+
+msgid "Configure the Y padding of the subtitles."
+msgstr ""
+
+msgid "Configure the color of the background of subtitles."
+msgstr ""
+
+msgid "Configure the transparency of the background of subtitles."
+msgstr ""
+
+msgid "Configure the character style of the subtitles."
+msgstr ""
+
+msgid ""
+"Configure the level of the character styles. The character style makes the "
+"subtitles easier to read on a light background."
+msgstr ""
+
+msgid "Configure the transparency of the subtitles."
+msgstr ""
+
+msgid ""
+"When enabled, teletext subtitles will be displayed at their original "
+"position."
+msgstr ""
+
+msgid "Configure the horizontal alignment of the subtitles."
+msgstr ""
+
+msgid ""
+"Configure the vertical position of the subtitles, measured from the bottom "
+"of the screen."
+msgstr ""
+
+msgid "When enabled, graphical DVB subtitles will be centered horizontally."
+msgstr ""
+
+msgid "When enabled, reformat subtitles to match the width of the screen."
+msgstr ""
+
+msgid "Configure the subtitle delay when timing information is not available."
+msgstr ""
+
+msgid "Configure an additional delay to improve subtitle synchronisation."
+msgstr ""
+
+msgid ""
+"Configure if the subtitle should switch between normal, italic, bold and "
+"bolditalic"
+msgstr ""
+
+msgid ""
+"Replace `- ` in dialogs with colored text per speaker (like teletext "
+"subtitles for the hearing impaired)"
+msgstr ""
+
+msgid ""
+"Configure an additional delay to improve external subtitle synchronisation."
+msgstr ""
+
+msgid "Can be used for different fps between external subtitles and video."
+msgstr ""
+
+msgid ""
+"When enabled, external subtitles will be always turned on for playback movie."
+msgstr ""
+
+msgid "Shows folders - default is ON"
+msgstr ""
+
+msgid "Show small symbols for type of media"
+msgstr ""
+
+msgid "This creates virtual folders based on movie title"
+msgstr ""
+
+msgid "Amount of items which are needed before creating a virtual folder"
+msgstr ""
+
+msgid ""
+"Virtual folders will be sorted as movies and not like folders on top of the "
+"list."
+msgstr ""
+
+msgid "Show movies in different colors, depending on current view status"
+msgstr ""
+
+msgid ""
+"When this option is enabled, it is not possible to fast forward to the end "
+"of the movie. This prevents stopping movies by mistake at fast forwarding"
+msgstr ""
+
+msgid ""
+"Using smartseek for skipping advertisment very fast. The first direction "
+"change at smartseek biscets the skip intervall. After this every smartseek "
+"button press biscets the skip intervall"
+msgstr ""
+
+msgid "Smartseek intervall will not be smaller than given value"
+msgstr ""
+
+msgid "Fixed skip intervall for left/right buttons"
+msgstr ""
+
+msgid ""
+"Time after which smartseek will be disactivated when there is no smartseek "
+"button press"
+msgstr ""
+
+msgid "Use left/right always for skipping, even when smartseek is not active"
+msgstr ""
+
+msgid ""
+"This option will be removed soon and will be replaced by database movie trash"
+msgstr ""
+
+msgid "Deleted items will be stored in database for further processing"
+msgstr ""
+
+msgid ""
+"Delete items which are older than given date. This is independent from date "
+"of deletion."
+msgstr ""
+
+msgid ""
+"Delete movies whiche are deleted before the given date. This is independet "
+"from creation date of the item."
+msgstr ""
+
+msgid "Choose whether both previous options must be valid or only one of them."
+msgstr ""
+
+msgid ""
+"This performs movie database updates in standby. Normally this is not needed."
+msgstr ""
+
+msgid ""
+"When this option is enbaled, you can use different settings like sorting for "
+"every folder."
+msgstr ""
+
+msgid "There will be no question for confirmation before deleting movies"
+msgstr ""
+
+msgid "Use more than one favourite list"
+msgstr ""
+
+msgid "This configures the channel buttons for zapping"
+msgstr ""
+
+msgid "When this option is activated, bouquets can be switch with left/right"
+msgstr ""
+
+msgid "Time before input screen for number zap will be closed"
+msgstr ""
+
+msgid "Display small PicutreinPicture of selected service"
+msgstr ""
+
+msgid "intial zap focus when enabling PictureinPicture"
+msgstr ""
+
+msgid ""
+"When a service is not available, (e.g. running recordings) this service will "
+"be skipped during zap"
+msgstr ""
+
+msgid ""
+"Detection of available services will take care of services which are "
+"assigned to CI modules"
+msgstr ""
+
+msgid ""
+"When activated, there is no need for manual assigning of services to CI "
+"modules. Take care when HD+ is activated at your Sky Smartcard, if so, "
+"please assign services manually"
+msgstr ""
+
+msgid "When creating a timer, the given margin will be added automatically"
+msgstr ""
+
+msgid ""
+"This option is only neede for satellite equipment, which have problems when "
+"there are many service changes at the same time"
+msgstr ""
+
+msgid ""
+"Services which are assigned to CI modules will not be descrambled during "
+"recording. The recordings will be descrambled in standby. This allows "
+"multiple recordings of scrambled services."
+msgstr ""
+
+msgid "User defined means that size is set by given skin"
+msgstr ""
+
+msgid "This setup is only for picons which are shown in service list"
+msgstr ""
+
+msgid "In matrix mode the items have a fixed column width"
+msgstr ""
+
+msgid ""
+"First OK press activate selected service and second press closes service list"
+msgstr ""
+
+msgid "This allows removing services outside bouquets"
+msgstr ""
+
+msgid ""
+"Service list will not be updated (new services or outdated services) during "
+"zapping when this is activated."
+msgstr ""
+
+msgid ""
+"This option includes also configuration file in crashlog. Please check for "
+"sensitive data before providing such a crash log to other"
+msgstr ""
