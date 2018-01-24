@@ -19746,3 +19746,1030 @@ msgstr "Visas nuotolinis"
 
 msgid "Enable SQL database"
 msgstr "Naudoti SQL duomenų bazę"
+
+msgid "General Settings"
+msgstr ""
+
+msgid "- Type of EnigmaLight binary:"
+msgstr ""
+
+msgid "- Configuration File"
+msgstr ""
+
+msgid "- Run EnigmaLight as server when lights are off:"
+msgstr ""
+
+msgid "- Check for update, press OK"
+msgstr ""
+
+msgid "- Show message when turn on/off lights:"
+msgstr ""
+
+msgid "- Enable lights on boot:"
+msgstr ""
+
+msgid "- Cluster Leds:"
+msgstr ""
+
+msgid "- Delay:"
+msgstr ""
+
+msgid "- Interval:"
+msgstr ""
+
+msgid "- 3D Mode:"
+msgstr ""
+
+msgid "- Default lightmode:"
+msgstr ""
+
+msgid "- Standby Mode:"
+msgstr ""
+
+msgid "- Color order:"
+msgstr ""
+
+msgid "Blackbars"
+msgstr ""
+
+msgid "- Remove Blackbars top and bottom:"
+msgstr ""
+
+msgid "- Remove Blackbars left and right:"
+msgstr ""
+
+msgid "- Delay before remove:"
+msgstr ""
+
+msgid "Switch on/off lights when TV turns on/off:"
+msgstr ""
+
+msgid "Network Settings"
+msgstr ""
+
+msgid "- Enable network mode (connect with other daemon):"
+msgstr ""
+
+msgid "- Host ipaddress:"
+msgstr ""
+
+msgid "- Daemon port:"
+msgstr ""
+
+msgid "Timer Settings"
+msgstr ""
+
+msgid "- Use Timer:"
+msgstr ""
+
+msgid "- Don't turn lights off/on in standby:"
+msgstr ""
+
+msgid "- Enable lights:"
+msgstr ""
+
+msgid "- Disable lights:"
+msgstr ""
+
+msgid "- Use webinterface:"
+msgstr ""
+
+msgid "- Webinterface port:"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "- Show statusbar on bottom of screen:"
+msgstr ""
+
+msgid "- Remove statusbar from tuningscreen:"
+msgstr ""
+
+msgid "- Show errormessages:"
+msgstr ""
+
+msgid "- Debug-Logging > /tmp/enigmalight_gui.log:"
+msgstr ""
+
+msgid "Do you want to (re)start the client ?"
+msgstr ""
+
+msgid "To reload the configfile EnigmaLight needs a restart, restart now ?"
+msgstr ""
+
+msgid "Reload configfile ?"
+msgstr ""
+
+msgid "Ip address %s is not accepted, check your input and try again."
+msgstr ""
+
+msgid ""
+"Enigmalight can't connect with %s:%s,\n"
+"check your input and try again."
+msgstr ""
+
+msgid "Test Connection with %s:%s, succesfull!"
+msgstr ""
+
+msgid "Do you want to (re)start the client and connect with %s:%s ?"
+msgstr ""
+
+msgid "(Re)start client ?"
+msgstr ""
+
+msgid "Type of enigmalight has changed, Start this type of Enigmalight ?"
+msgstr ""
+
+msgid "Turn lights on"
+msgstr ""
+
+msgid "Lights off"
+msgstr ""
+
+msgid "Switch to dynamic mode"
+msgstr ""
+
+msgid "Switch to moodlamp mode"
+msgstr ""
+
+msgid "Busy...."
+msgstr ""
+
+msgid "Tuning"
+msgstr ""
+
+msgid "Moodlamp"
+msgstr ""
+
+msgid "Config Editor"
+msgstr ""
+
+msgid "Box Info & About"
+msgstr ""
+
+msgid "Can't switch mode, Lights are disabled."
+msgstr ""
+
+msgid "Static color:"
+msgstr ""
+
+msgid "Moodlamp configuration"
+msgstr ""
+
+msgid "- Standby mode:"
+msgstr ""
+
+msgid "- Moodlamp Mode:"
+msgstr ""
+
+msgid "- Color RED\t: %s"
+msgstr ""
+
+msgid "- Color GREEN\t: %s"
+msgstr ""
+
+msgid "- Color BLUE\t: %s"
+msgstr ""
+
+msgid "- Fader brightness : %s\t"
+msgstr ""
+
+msgid "RGB Test"
+msgstr ""
+
+msgid "Blackbar Test (horizontal)"
+msgstr ""
+
+msgid "Blackbar Test (vertical)"
+msgstr ""
+
+msgid "Blue wallpaper"
+msgstr ""
+
+msgid "Bars Test"
+msgstr ""
+
+msgid "Solid: White"
+msgstr ""
+
+msgid "Solid: Aquamarine"
+msgstr ""
+
+msgid "Solid: Blue"
+msgstr ""
+
+msgid "Solid: Royalblue"
+msgstr ""
+
+msgid "Solid: Red"
+msgstr ""
+
+msgid "Solid: Green"
+msgstr ""
+
+msgid "Solid: Gray"
+msgstr ""
+
+msgid "Solid: Lightgray"
+msgstr ""
+
+msgid "Solid: Magenta"
+msgstr ""
+
+msgid "Solid: Yellow"
+msgstr ""
+
+msgid "Solid: Dark yellow"
+msgstr ""
+
+msgid "Circles"
+msgstr ""
+
+msgid "Rose"
+msgstr ""
+
+msgid "Enigmalight with fpu support"
+msgstr ""
+
+msgid "Enigmalight softfloat"
+msgstr ""
+
+msgid "Debug -> Console"
+msgstr ""
+
+msgid "Debug -> Console + Logfile"
+msgstr ""
+
+msgid "Dynamic"
+msgstr ""
+
+msgid "Static color"
+msgstr ""
+
+msgid "RGBTest"
+msgstr ""
+
+msgid "Color fader"
+msgstr ""
+
+msgid "Rainbow"
+msgstr ""
+
+msgid "Start server on boot"
+msgstr ""
+
+msgid "Start Dynamic on boot"
+msgstr ""
+
+msgid "Start Moodlamp on boot"
+msgstr ""
+
+msgid "Custom Profile 0"
+msgstr ""
+
+msgid "Custom Profile 1"
+msgstr ""
+
+msgid "Custom Profile 2"
+msgstr ""
+
+msgid "Custom Profile 3"
+msgstr ""
+
+msgid "Custom Profile 4"
+msgstr ""
+
+msgid "Custom Profile 5"
+msgstr ""
+
+msgid "Custom Profile 6"
+msgstr ""
+
+msgid "Color Tuning"
+msgstr ""
+
+msgid "- Profile:"
+msgstr ""
+
+msgid "- Led speed:"
+msgstr ""
+
+msgid "- Auto speed:"
+msgstr ""
+
+msgid "- Brightness:"
+msgstr ""
+
+msgid "- Minimal Brightness:"
+msgstr ""
+
+msgid "- Maximal Brightness:"
+msgstr ""
+
+msgid "- Saturation 0-20:"
+msgstr ""
+
+msgid "- Minimal Saturation 0.00-1.00:"
+msgstr ""
+
+msgid "- Maximal Saturation 0.00-1.00:"
+msgstr ""
+
+msgid "- Gamma correction 1-10:"
+msgstr ""
+
+msgid "- Threshold:"
+msgstr ""
+
+msgid "Color Adjustment, only local"
+msgstr ""
+
+msgid "- Use ColorAdjust Settings:"
+msgstr ""
+
+msgid "- Adjust RED "
+msgstr ""
+
+msgid "- Adjust GREEN "
+msgstr ""
+
+msgid "- Adjust BLUE "
+msgstr ""
+
+msgid "- Show sample pictures:"
+msgstr ""
+
+msgid "- Sample picture:"
+msgstr ""
+
+msgid "Blackbar detection"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "- Device type:"
+msgstr ""
+
+msgid "- Bus:"
+msgstr ""
+
+msgid "- Address:"
+msgstr ""
+
+msgid "- Serial:"
+msgstr ""
+
+msgid "- NodeMCU IP:"
+msgstr ""
+
+msgid "- NodeMCU PORT:"
+msgstr ""
+
+msgid "- Device output:"
+msgstr ""
+
+msgid "- Device rate:"
+msgstr ""
+
+msgid "- Ambioder precision:"
+msgstr ""
+
+msgid "Lights"
+msgstr ""
+
+msgid "- With (floor) stand:"
+msgstr ""
+
+msgid "-- How many lights Bottom-left:"
+msgstr ""
+
+msgid "-- Bottom center (how many places are empty):"
+msgstr ""
+
+msgid "-- How many lights Bottom-right:"
+msgstr ""
+
+msgid "- How many lights Bottom:"
+msgstr ""
+
+msgid "- How many lights Top:"
+msgstr ""
+
+msgid "- How many lights Left:"
+msgstr ""
+
+msgid "- How many lights Right:"
+msgstr ""
+
+msgid "- Where starts led 1:"
+msgstr ""
+
+msgid "- Clockwise or Backwards:"
+msgstr ""
+
+msgid "- Scan depth Left:"
+msgstr ""
+
+msgid "- Scan depth Right:"
+msgstr ""
+
+msgid "- Scan depth Top:"
+msgstr ""
+
+msgid "- Scan depth Bottom:"
+msgstr ""
+
+msgid "WifiLight"
+msgstr ""
+
+msgid "- WifiLight IP:"
+msgstr ""
+
+msgid "- WifiLight PORT:"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "- Red Adjust:"
+msgstr ""
+
+msgid "- Red Gamma:"
+msgstr ""
+
+msgid "- Red Blacklevel:"
+msgstr ""
+
+msgid "- Green Adjust:"
+msgstr ""
+
+msgid "- Green Gamma:"
+msgstr ""
+
+msgid "- Green Blacklevel:"
+msgstr ""
+
+msgid "- Blue Adjust:"
+msgstr ""
+
+msgid "- Blue Gamma:"
+msgstr ""
+
+msgid "- Blue Blacklevel:"
+msgstr ""
+
+msgid "Create configfile"
+msgstr ""
+
+msgid "Create and Test this config with [RGB Test]"
+msgstr ""
+
+msgid "LEFT [bottom]"
+msgstr ""
+
+msgid "TOP [left]"
+msgstr ""
+
+msgid "RIGHT [top]"
+msgstr ""
+
+msgid "BOTTOM [right]"
+msgstr ""
+
+msgid "BOTTOM [middle]"
+msgstr ""
+
+msgid "BOTTOM [left]"
+msgstr ""
+
+msgid "RIGHT [bottom]"
+msgstr ""
+
+msgid "TOP [right]"
+msgstr ""
+
+msgid "LEFT [top]"
+msgstr ""
+
+msgid "Clockwise"
+msgstr ""
+
+msgid "Backwards"
+msgstr ""
+
+msgid "EnigmaLight | on/off"
+msgstr ""
+
+msgid "EnigmaLight | Settings"
+msgstr ""
+
+msgid "TV backlight"
+msgstr ""
+
+msgid "Enigmalight Configuration"
+msgstr ""
+
+msgid "EnigmaLight ConfigEditor"
+msgstr ""
+
+msgid "Select your configfile, default /etc/enigmalight.conf will be used "
+msgstr ""
+
+msgid "Run EnigmaLight as Server for Boblight or other clients "
+msgstr ""
+
+msgid "Show a messagebox when you turn on/off the lights "
+msgstr ""
+
+msgid "Automatic turn on lights on boot "
+msgstr ""
+
+msgid ""
+"Cluster [X] Leds as one led.\n"
+"Default each led had is own color, with this option you can bundle/cluster "
+"this to 2 -> 10 leds."
+msgstr ""
+
+msgid ""
+" Some tv's are slower then the lights. With this option you can make the "
+"output 1 -> 20 frames later."
+msgstr ""
+
+msgid ""
+"How fast Enigmalight wil run.\n"
+"0.01 = 15 -> 40fps | 0.10 = 10fps | 0.20 = 5fps: "
+msgstr ""
+
+msgid "Turn on/off 3D Mode, SBS or TAB"
+msgstr ""
+
+msgid "Turn off lights or use moodlamp in standby "
+msgstr ""
+
+msgid " Set the order as given in enigmalight.conf."
+msgstr ""
+
+msgid "Remove horizontal blackbars from lights."
+msgstr ""
+
+msgid "Remove vertical blackbars from lights."
+msgstr ""
+
+msgid ""
+"Count from 0 to given number\n"
+"if the blackbars are still there then remove them.\n"
+"if enigmalight runs on 10fps and you will wait 10sec before remove, then set "
+"it to 100"
+msgstr ""
+
+msgid ""
+"Use enigmalight as client and connect with other daemon over network (not "
+"for local use)"
+msgstr ""
+
+msgid "Turn on/off lights @ given time "
+msgstr ""
+
+msgid "Control EnigmaLight from browser"
+msgstr ""
+
+msgid "Port which will be used for webinterface"
+msgstr ""
+
+msgid "Show status at bottomscreen fps, currentmode and other info"
+msgstr ""
+
+msgid "Remove the statusbar from colortuning screen"
+msgstr ""
+
+msgid "Turn on if you want to see error information"
+msgstr ""
+
+msgid "Disable timer function in standbymode"
+msgstr ""
+
+msgid "Time when lights go on"
+msgstr ""
+
+msgid "Time when lights go off"
+msgstr ""
+
+msgid ""
+"Profile: \n"
+"Create your own profiles."
+msgstr ""
+
+msgid ""
+"General setting for the led-speed how fast is changing the colour. 40 is a "
+"nice setting."
+msgstr ""
+
+msgid ""
+"Brightness:\n"
+"This is a nice option, especially even more important than the saturation "
+"setting. Why? Simply because there are colours like brown, turquoise, purple "
+"and eggplant that only exist with the clarity they have. Huh! Well, for "
+"example, a dark brown orange and dark turquoise aqua. So if you set the "
+"brightness to 2.0 then multiply the brightness of the colour you see with "
+"2.0 (I think) and therefore can not show brown Ambilight. A nice value is "
+"1.0 otherwise it quickly distorts the colours."
+msgstr ""
+
+msgid " Min 0.00 | Max 1.00 | Default 0.00"
+msgstr ""
+
+msgid " Min 0.00 | Max 1.00 | Default 1.00"
+msgstr ""
+
+msgid ""
+" Saturation:\n"
+"Simply a strengthening of the average colour planes. The best option is "
+"between 1:00 and 1:20. This is because you are going to reinforce colours "
+"and this is so unnatural. \n"
+"Example:\n"
+" many films have a colour grading over it. A well-known example is a blue "
+"tint. This affects all the colours on the screen so that even a light Gray "
+"sky has some blue tones in it. When you try saturation on 2, it will thus be "
+"seen as good this blue tint twice while it appears white on your screen."
+msgstr ""
+
+msgid ""
+"Minimal Brightness:\n"
+"If you set this as example to 0.01, then the LEDs will not completely dark "
+"is there is black but soft grey"
+msgstr ""
+
+msgid ""
+"Gamma correction:\n"
+" Set this to 2.2 for default, since this is a default value for movies."
+msgstr ""
+
+msgid ""
+"Threshold:\n"
+"Filter/Remove the almost dark pixels, 15 is a nice value."
+msgstr ""
+
+msgid "Leds: %s | Channels %s"
+msgstr ""
+
+msgid "Use < > to jump with 10 in slider"
+msgstr ""
+
+msgid "Use moodlamp or lights off in standby."
+msgstr ""
+
+msgid "[Server] Idle"
+msgstr ""
+
+msgid "[Server] Client connected (%s)"
+msgstr ""
+
+msgid "[Moodlamp] %s | Static color"
+msgstr ""
+
+msgid "[Dynamic] %s | %s"
+msgstr ""
+
+msgid "[Moodlamp] %s | RGBtest"
+msgstr ""
+
+msgid "[Moodlamp] %s | ColorFader"
+msgstr ""
+
+msgid "[Moodlamp] %s | Rainbow"
+msgstr ""
+
+msgid "Not Running"
+msgstr ""
+
+msgid "LightsOn"
+msgstr ""
+
+msgid "LightsOff"
+msgstr ""
+
+msgid "Status: %s | Current mode: %s | FPS: %s"
+msgstr ""
+
+msgid "Info: [%s]"
+msgstr ""
+
+msgid ""
+"Error while starting EnigmaLight:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Start lights.."
+msgstr ""
+
+msgid "Change mode"
+msgstr ""
+
+msgid "Q:"
+msgstr ""
+
+msgid "A:"
+msgstr ""
+
+msgid "Can I use the boblight.conf ?"
+msgstr ""
+
+msgid "Yes you can use this, rename that file to enigmalight.conf."
+msgstr ""
+
+msgid "Can I use the multiquickbutton plugin ?"
+msgstr ""
+
+msgid "Yes for start and stop the lights"
+msgstr ""
+
+msgid "Enigmalight is freezed, what can I do ?"
+msgstr ""
+
+msgid "In MainMenu press 0 to forcekill enigmalight."
+msgstr ""
+
+msgid "How to get support ?"
+msgstr ""
+
+msgid "Take a lookt at https://www.vuplus-support.org"
+msgstr ""
+
+msgid "EnigmaLight - Ambilight for Enigma2"
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid "Some GUI Code"
+msgstr ""
+
+msgid "This fork of Enigmalight will be supported at"
+msgstr ""
+
+msgid "Adjustments"
+msgstr ""
+
+msgid "About EnigmaLight / Box information"
+msgstr ""
+
+msgid "Timeshift starts automatically after given time at current service"
+msgstr ""
+
+msgid ""
+"Choose what should happen with timeshift file when service will be changed "
+"to another one"
+msgstr ""
+
+msgid ""
+"Choose an option for processing timeshift file when the TV event at the "
+"current service changes"
+msgstr ""
+
+msgid ""
+"This removes timeshift files automatically when timeshift is shorter than "
+"given time"
+msgstr ""
+
+msgid ""
+"Delete timeshift files automatically when files are older than given time"
+msgstr ""
+
+msgid ""
+"Skip to next or previous timeshift event at the current service with < > "
+"buttons"
+msgstr ""
+
+msgid ""
+"When saving timeshift is enabled. You can choose available timeshift files "
+"here."
+msgstr ""
+
+msgid "Do not show timeshift files as movies in movie list."
+msgstr ""
+
+msgid "Configure the color of the subtitles."
+msgstr ""
+
+msgid "Configure the font size of the subtitles."
+msgstr ""
+
+msgid "Configure the Y padding of the subtitles."
+msgstr ""
+
+msgid "Configure the color of the background of subtitles."
+msgstr ""
+
+msgid "Configure the transparency of the background of subtitles."
+msgstr ""
+
+msgid "Configure the character style of the subtitles."
+msgstr ""
+
+msgid ""
+"Configure the level of the character styles. The character style makes the "
+"subtitles easier to read on a light background."
+msgstr ""
+
+msgid "Configure the transparency of the subtitles."
+msgstr ""
+
+msgid ""
+"When enabled, teletext subtitles will be displayed at their original "
+"position."
+msgstr ""
+
+msgid "Configure the horizontal alignment of the subtitles."
+msgstr ""
+
+msgid ""
+"Configure the vertical position of the subtitles, measured from the bottom "
+"of the screen."
+msgstr ""
+
+msgid "When enabled, graphical DVB subtitles will be centered horizontally."
+msgstr ""
+
+msgid "When enabled, reformat subtitles to match the width of the screen."
+msgstr ""
+
+msgid "Configure the subtitle delay when timing information is not available."
+msgstr ""
+
+msgid "Configure an additional delay to improve subtitle synchronisation."
+msgstr ""
+
+msgid ""
+"Configure if the subtitle should switch between normal, italic, bold and "
+"bolditalic"
+msgstr ""
+
+msgid ""
+"Replace `- ` in dialogs with colored text per speaker (like teletext "
+"subtitles for the hearing impaired)"
+msgstr ""
+
+msgid ""
+"Configure an additional delay to improve external subtitle synchronisation."
+msgstr ""
+
+msgid "Can be used for different fps between external subtitles and video."
+msgstr ""
+
+msgid ""
+"When enabled, external subtitles will be always turned on for playback movie."
+msgstr ""
+
+msgid "Shows folders - default is ON"
+msgstr ""
+
+msgid "Show small symbols for type of media"
+msgstr ""
+
+msgid "This creates virtual folders based on movie title"
+msgstr ""
+
+msgid "Amount of items which are needed before creating a virtual folder"
+msgstr ""
+
+msgid ""
+"Virtual folders will be sorted as movies and not like folders on top of the "
+"list."
+msgstr ""
+
+msgid "Show movies in different colors, depending on current view status"
+msgstr ""
+
+msgid ""
+"When this option is enabled, it is not possible to fast forward to the end "
+"of the movie. This prevents stopping movies by mistake at fast forwarding"
+msgstr ""
+
+msgid ""
+"Using smartseek for skipping advertisment very fast. The first direction "
+"change at smartseek biscets the skip intervall. After this every smartseek "
+"button press biscets the skip intervall"
+msgstr ""
+
+msgid "Smartseek intervall will not be smaller than given value"
+msgstr ""
+
+msgid "Fixed skip intervall for left/right buttons"
+msgstr ""
+
+msgid ""
+"Time after which smartseek will be disactivated when there is no smartseek "
+"button press"
+msgstr ""
+
+msgid "Use left/right always for skipping, even when smartseek is not active"
+msgstr ""
+
+msgid ""
+"This option will be removed soon and will be replaced by database movie trash"
+msgstr ""
+
+msgid "Deleted items will be stored in database for further processing"
+msgstr ""
+
+msgid ""
+"Delete items which are older than given date. This is independent from date "
+"of deletion."
+msgstr ""
+
+msgid ""
+"Delete movies whiche are deleted before the given date. This is independet "
+"from creation date of the item."
+msgstr ""
+
+msgid "Choose whether both previous options must be valid or only one of them."
+msgstr ""
+
+msgid ""
+"This performs movie database updates in standby. Normally this is not needed."
+msgstr ""
+
+msgid ""
+"When this option is enbaled, you can use different settings like sorting for "
+"every folder."
+msgstr ""
+
+msgid "There will be no question for confirmation before deleting movies"
+msgstr ""
+
+msgid "Use more than one favourite list"
+msgstr ""
+
+msgid "This configures the channel buttons for zapping"
+msgstr ""
+
+msgid "When this option is activated, bouquets can be switch with left/right"
+msgstr ""
+
+msgid "Time before input screen for number zap will be closed"
+msgstr ""
+
+msgid "Display small PicutreinPicture of selected service"
+msgstr ""
+
+msgid "intial zap focus when enabling PictureinPicture"
+msgstr ""
+
+msgid ""
+"When a service is not available, (e.g. running recordings) this service will "
+"be skipped during zap"
+msgstr ""
+
+msgid ""
+"Detection of available services will take care of services which are "
+"assigned to CI modules"
+msgstr ""
+
+msgid ""
+"When activated, there is no need for manual assigning of services to CI "
+"modules. Take care when HD+ is activated at your Sky Smartcard, if so, "
+"please assign services manually"
+msgstr ""
+
+msgid "When creating a timer, the given margin will be added automatically"
+msgstr ""
+
+msgid ""
+"This option is only neede for satellite equipment, which have problems when "
+"there are many service changes at the same time"
+msgstr ""
+
+msgid ""
+"Services which are assigned to CI modules will not be descrambled during "
+"recording. The recordings will be descrambled in standby. This allows "
+"multiple recordings of scrambled services."
+msgstr ""
+
+msgid "User defined means that size is set by given skin"
+msgstr ""
+
+msgid "This setup is only for picons which are shown in service list"
+msgstr ""
+
+msgid "In matrix mode the items have a fixed column width"
+msgstr ""
+
+msgid ""
+"First OK press activate selected service and second press closes service list"
+msgstr ""
+
+msgid "This allows removing services outside bouquets"
+msgstr ""
+
+msgid ""
+"Service list will not be updated (new services or outdated services) during "
+"zapping when this is activated."
+msgstr ""
+
+msgid ""
+"This option includes also configuration file in crashlog. Please check for "
+"sensitive data before providing such a crash log to other"
+msgstr ""
