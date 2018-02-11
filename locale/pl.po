@@ -6755,7 +6755,7 @@ msgstr ""
 "Wybór wejścia video\n"
 "\n"
 "Proszę nacisnąć przycisk OK, jeśli widzisz tą stronę na ekranie telewizora "
-"lub wybierzwejście.\n"
+"lub wybierz wejście.\n"
 "\n"
 "Następny port wejściowy zostanie automatycznie sprawdzony w ciągu 20 sekund"
 
@@ -9371,7 +9371,7 @@ msgid "Show folder info at the beginning"
 msgstr "Pokaż informacje o katalogu na początku"
 
 msgid "All movies"
-msgstr "Wszytskie filmy"
+msgstr "Wszystkie filmy"
 
 msgid "Show CI messages"
 msgstr "Pokaż wiadomości CI"
