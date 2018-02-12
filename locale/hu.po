@@ -23752,6 +23752,12 @@ msgid ""
 "sensitive data before providing such a crash log to other"
 msgstr ""
 
+msgid "EnigmaLight | Dynamic on/off"
+msgstr ""
+
+msgid "EnigmaLight | Moodlamp on/off"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"

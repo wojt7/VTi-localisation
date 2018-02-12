@@ -19470,3 +19470,8 @@ msgstr ""
 msgid "This option includes also configuration file in crashlog. Please check for sensitive data before providing such a crash log to other"
 msgstr ""
 
+msgid "EnigmaLight | Dynamic on/off"
+msgstr ""
+
+msgid "EnigmaLight | Moodlamp on/off"
+msgstr ""
