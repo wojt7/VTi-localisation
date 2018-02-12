@@ -20992,7 +20992,7 @@ msgstr ""
 "entfernen."
 
 msgid "EnigmaLight | Dynamic on/off"
-msgstr "Enigmalight | Dynamisch ein/aus""
+msgstr "Enigmalight | Dynamisch ein/aus"
 
 msgid "EnigmaLight | Moodlamp on/off"
-msgstr "Enigmalight | Stimmungslicht ein/aus""
+msgstr "Enigmalight | Stimmungslicht ein/aus"
