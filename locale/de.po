@@ -20996,3 +20996,9 @@ msgstr "Enigmalight | Dynamisch ein/aus"
 
 msgid "EnigmaLight | Moodlamp on/off"
 msgstr "Enigmalight | Stimmungslicht ein/aus"
+
+msgid "USERLAND :"
+msgstr "USERLAND:"
+
+msgid "DRIVER :"
+msgstr "Treiber:"

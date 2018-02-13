@@ -23758,6 +23758,12 @@ msgstr ""
 msgid "EnigmaLight | Moodlamp on/off"
 msgstr ""
 
+msgid "USERLAND :"
+msgstr ""
+
+msgid "DRIVER :"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"
