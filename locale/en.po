@@ -19825,3 +19825,17 @@ msgstr ""
 
 msgid "DRIVER :"
 msgstr ""
+
+msgid "InfoBar at pause"
+msgstr ""
+
+msgid "always InfoBar"
+msgstr ""
+
+msgid "Behavior of OK key during winding or in PAUSE state"
+msgstr ""
+
+msgid ""
+"Configure OK key for show/hide InfoBar during media file playback in PAUSE "
+"state or during winding"
+msgstr ""

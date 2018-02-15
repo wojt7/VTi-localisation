@@ -21001,4 +21001,18 @@ msgid "USERLAND :"
 msgstr "USERLAND:"
 
 msgid "DRIVER :"
-msgstr "Treiber:"
+msgstr "TREIBER:"
+
+msgid "InfoBar at pause"
+msgstr "InfoBar bei Pause"
+
+msgid "always InfoBar"
+msgstr "immer InfoBar"
+
+msgid "Behavior of OK key during winding or in PAUSE state"
+msgstr "Verhalten der OK Taste beim Spulen bzw. Pause"
+
+msgid ""
+"Configure OK key for show/hide InfoBar during media file playback in PAUSE "
+"state or during winding"
+msgstr "Konfiguriert die OK Taste um die InfoBar beim Spulen oder bei Pause bei der Medienwiedergabe ein- und auszublenden."
