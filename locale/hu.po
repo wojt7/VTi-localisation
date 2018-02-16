@@ -23778,6 +23778,9 @@ msgid ""
 "state or during winding"
 msgstr ""
 
+msgid "Play/Pause"
+msgstr ""
+
 #
 #~ msgid "%s is connected."
 #~ msgstr "%s csatlakoztatva"

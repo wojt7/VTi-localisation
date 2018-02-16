@@ -19827,3 +19827,6 @@ msgid ""
 "Configure OK key for show/hide InfoBar during media file playback in PAUSE "
 "state or during winding"
 msgstr ""
+
+msgid "Play/Pause"
+msgstr ""
