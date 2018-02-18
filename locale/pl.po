@@ -5474,7 +5474,7 @@ msgid "Show the Subtitle..."
 msgstr "Pokaż napisy..."
 
 msgid "Show the Virtual keyboard window."
-msgstr "Pokaż okno wirualnej klawiatury."
+msgstr "Pokaż okno wirtualnej klawiatury."
 
 msgid "Show the radio player..."
 msgstr "Pokaż radio odtwarzacz..."
@@ -9302,7 +9302,7 @@ msgid "update latest movies information"
 msgstr "aktualizuj najnowsze informacje o filmach"
 
 msgid "latest movies"
-msgstr "najnowsze filmy"
+msgstr "Najnowsze filmy"
 
 msgid "Mark recordings as new for X days (0=off)"
 msgstr "Oznacz nagrania jako nowe przez X dni(0 = wyłączone)"
@@ -19091,7 +19091,7 @@ msgid "Search results"
 msgstr ""
 
 msgid "search for movies"
-msgstr ""
+msgstr "Szukaj filmów"
 
 msgid "Database update was finished"
 msgstr ""
@@ -19106,7 +19106,7 @@ msgid "Database Cleanup"
 msgstr ""
 
 msgid "Path for SQL database"
-msgstr ""
+msgstr "Ścieżka dla bazy danych SQL"
 
 msgid "update movie database (full)"
 msgstr ""
@@ -19127,7 +19127,7 @@ msgid "search movie"
 msgstr ""
 
 msgid "Please enter search string"
-msgstr ""
+msgstr "Wprowadź tekst do wyszukania"
 
 msgid "Please select type of search..."
 msgstr ""
@@ -19238,37 +19238,37 @@ msgid ""
 msgstr ""
 
 msgid "last 24 hours"
-msgstr ""
+msgstr "ostatnie 24 godziny"
 
 msgid "last 3 days"
-msgstr ""
+msgstr "ostatnie 3 dni"
 
 msgid "last week"
-msgstr ""
+msgstr "ostatni tydzień"
 
 msgid "last month"
-msgstr ""
+msgstr "ostatni miesiąc"
 
 msgid "last 6 months"
-msgstr ""
+msgstr "ostatnie 6 miesięcy"
 
 msgid "last year"
-msgstr ""
+msgstr "ostatni rok"
 
 msgid "last %s days"
-msgstr ""
+msgstr "ostatnie %s dni"
 
 msgid "older than 6 months"
-msgstr ""
+msgstr "starsze niż 6 miesięcy"
 
 msgid "older than 1 year"
-msgstr ""
+msgstr "starsze niż rok"
 
 msgid "older than %s days"
-msgstr ""
+msgstr "starsze niż %s dni"
 
 msgid "Select movies by date"
-msgstr ""
+msgstr "Wybierz filmy wg daty"
 
 msgid "Select Autotag"
 msgstr ""
@@ -19280,7 +19280,7 @@ msgid "find movies by AutoTag/Tag"
 msgstr ""
 
 msgid "find movies by date"
-msgstr ""
+msgstr "Szukaj filmów wg daty"
 
 msgid "Debug type"
 msgstr ""
@@ -19427,7 +19427,7 @@ msgid "Full remote"
 msgstr ""
 
 msgid "Enable SQL database"
-msgstr ""
+msgstr "Aktywuj bazę danych SQL"
 
 msgid "General Settings"
 msgstr ""
