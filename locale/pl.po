@@ -11221,7 +11221,7 @@ msgid "backup/restore or install software"
 msgstr "Wykonaj/Przywróć kopię zapasową"
 
 msgid "VTI Software Manager"
-msgstr "VTI Manadżer Oprogramowania"
+msgstr "VTI Manager Oprogramowania"
 
 msgid "install/download software for your Vu+"
 msgstr "Zainstaluj/Pobierz oprogramowanie dla twojego VU+"
